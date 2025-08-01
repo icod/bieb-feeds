@@ -1,0 +1,32 @@
+{
+  "name": "bieb-feeds",
+  "version": "1.0.0",
+  "description": "RSS feeds for onlinebibliotheek.nl",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icod/bieb-feeds.git"
+  },
+  "keywords": [
+    "feeds",
+    "rss",
+    "public",
+    "library"
+  ],
+  "author": "Ico Davids",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/icod/bieb-feeds/issues"
+  },
+  "homepage": "https://github.com/icod/bieb-feeds#readme",
+  "devDependencies": {
+    "jasmine": "^5.9.0"
+  },
+  "dependencies": {
+    "feed": "^5.1.0",
+    "node-html-parser": "^7.0.1"
+  }
+}
