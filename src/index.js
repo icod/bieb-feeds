@@ -12,7 +12,11 @@ const feeds = [{
 }];
 
 for await (const config of feeds) {
+    const startTime = new Date();
     const feed = await biebFeed(config);
+    // @ts-ignore
+    const duration = (new Date() - startTime) / 1000;
+    console.log(`Generated feed '${config.title}' in ${duration}s`);
 }
 
 console.log('DONE');
