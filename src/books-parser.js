@@ -9,7 +9,6 @@ export default async function(url, selector) {
 
     for await (const bookLink of bookLinks) {
         const url = bookLink.getAttribute('href');
-        console.log(`Getting info for ${url} ...`);
         const book = await getBookInfoFromPage(url);
         books.push(book);
     };
