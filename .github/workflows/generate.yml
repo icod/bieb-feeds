@@ -5,7 +5,7 @@ name: Generate feeds
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Everyday at 00:00
+    - cron: '0 9,21 * * *' # At 9:00 and 21:00
 
 jobs:
   build:
