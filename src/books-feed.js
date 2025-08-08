@@ -13,7 +13,7 @@ export default function(books, options) {
 
     books.forEach(book => {
 
-        const content = `<img src="${book.image}" alt="Omslag van ${book.title}>\n<p>${book.description}</p>`;
+        const content = `<img src="${book.image}" alt="Omslag van ${book.title}">\n<p>${book.description}</p>`;
         
         const item = {
             title: book.title,
