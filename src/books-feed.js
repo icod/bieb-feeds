@@ -5,7 +5,7 @@ export default function(books, options) {
         title: options.title,
         id: options.url,
         link: options.url,
-        feed: `https://bieb-feeds.statichost.eu/feeds/${options.filename}.xml`,
+        feed: `https://bieb-feeds.statichost.eu/feeds/${options.filename}.atom`,
         copyright: 'Koninklijke Bibliotheek',
         language: 'nl-NL',
         generator: 'https://github.com/icod/bieb-feeds'

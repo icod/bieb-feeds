@@ -22,7 +22,7 @@ for await (const config of feeds) {
     if (!fs.existsSync(path)) {
         fs.mkdirSync(path, {recursive: true});
     }
-    const fileName = `${path}/${config.filename}.xml`;
+    const fileName = `${path}/${config.filename}.atom`;
     writeToFile(fileName, feed);
 
     // @ts-ignore
