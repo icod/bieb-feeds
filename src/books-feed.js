@@ -12,6 +12,8 @@ export default function(books, options) {
     });
 
     books.forEach(book => {
+
+        const content = `<img src="${book.image}" alt="Omslag van ${book.title}>\n<p>${book.description}</p>`;
         
         const item = {
             title: book.title,
@@ -19,7 +21,7 @@ export default function(books, options) {
             link: book.url,
             guid: book.url,
             image: book.image,
-            content: book.description,
+            content: content,
             date: new Date(),
         };
 
