@@ -12,10 +12,10 @@ export default function(books, options) {
     });
 
     books.forEach(book => {
-
+        
         const item = {
             title: book.title,
-            author: splitToAuthors(books.authors),
+            author: splitToAuthors(book.authors),
             link: book.url,
             guid: book.url,
             image: book.image,
