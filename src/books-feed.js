@@ -12,8 +12,9 @@ export default function(books, options) {
     });
 
     books.forEach(book => {
+        const description = formatDescription(book.description);
 
-        const content = `<img src="${book.image}" alt="Omslag van ${book.title}">\n<p>${book.description}</p>`;
+        const content = `<img src="${book.image}" alt="Omslag van ${book.title}">\n${description}`;
         
         const item = {
             title: book.title,
@@ -30,8 +31,12 @@ export default function(books, options) {
     return feed;
 }
 
-const splitToAuthors = function (authorsString) {
+const splitToAuthors = (authorsString) => {
     return authorsString?.split(/[|,;]+/).map(a => a.trim()).map(author => {
         return {name: author}
     });
+}
+
+const formatDescription = (description) => {
+    return description.replaceAll(/Bron: .*$/gi, b => `\n<small>${b}</small>`).split('\n').map(line => `<p>${line}</p>`).join('');
 }

@@ -29,7 +29,7 @@ const getBookInfoFromPage = async function(url) {
         url: url,
         title: root.querySelector('span.title')?.textContent?.trim(),
         authors: root.querySelector('span.creator')?.textContent?.trim(),
-        description: root.querySelector('meta[name="description"]')?.getAttribute('content'),
+        description: root.querySelector('meta[name="description"]')?.getAttribute('content')?.replaceAll('   ', '\n'),
         image: root.querySelector('.imgwrapper img')?.getAttribute('src')
     }
 }
