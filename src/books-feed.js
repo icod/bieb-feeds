@@ -20,7 +20,6 @@ export default function(books, options) {
             author: splitToAuthors(book.authors),
             link: book.url,
             guid: book.url,
-            image: book.image,
             content: content,
             date: new Date(),
         };
