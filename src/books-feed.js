@@ -13,8 +13,9 @@ export default function(books, options) {
 
     books.forEach(book => {
         const description = formatDescription(book.description);
+        const altText = `Omslag van '${book.title}'`;
 
-        const content = `<img src="${book.image}" alt="Omslag van ${book.title}">\n${description}`;
+        const content = `<img src="${book.image}" alt="${altText}" title="${altText}">\n${description}`;
         
         const item = {
             title: book.title,
