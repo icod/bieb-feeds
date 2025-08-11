@@ -18,7 +18,14 @@ export default async function(url, selector) {
 
 const parseUrl = async function(url) {
     const pageContent = await (await fetch(url)).text();
-    const root = parse(pageContent);
+    const root = parse(pageContent, {
+        comment: false,
+        blockTextElements: {
+            script: false,
+            noscript: false,
+            style: false,
+        }
+    });
     return root;
 }
 
