@@ -5,6 +5,13 @@ RSS-feeds voor de online Bibliotheek
 
 ## Development
 
+[![Tests](https://github.com/icod/bieb-feeds/actions/workflows/tests.yml/badge.svg)](https://github.com/icod/bieb-feeds/actions/workflows/tests.yml)
+
+### Running the tests
+```sh
+npm test
+```
+
 ### Generating the feeds
 ```sh
 npm run generate
