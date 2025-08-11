@@ -19,6 +19,7 @@ export default function(books, options) {
         
         const item = {
             title: book.title,
+            description: book.subtitle,
             author: splitToAuthors(book.authors),
             link: book.url,
             guid: book.url,
