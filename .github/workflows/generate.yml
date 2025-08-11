@@ -5,7 +5,7 @@ name: Generate feeds
 
 on:
   schedule:
-    - cron: '0 7 * * *' # At 7:00 AM
+    - cron: '0 7 * * *' # At 7:00 AM UTC
   workflow_dispatch:
 
 jobs:
@@ -30,6 +30,7 @@ jobs:
     - name: Push to repository
       uses: actions-x/commit@v6
       with:
+        message: Regenerated feeds
         email: bot@github.com
         name: GitHub Actions Autocommitter
         files: public/feeds
