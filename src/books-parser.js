@@ -1,4 +1,5 @@
 import { parse } from "node-html-parser";
+import BooksCache from "./cache.js";
 
 export default async function(url, selector) {
     const root = await parseUrl(url); 
@@ -7,11 +8,28 @@ export default async function(url, selector) {
 
     const books = [];
 
+    const cache = new BooksCache('./cache/books.json');
+
+    cache.cleanUp();
+
     for await (const bookLink of bookLinks) {
         const url = bookLink.getAttribute('href');
-        const book = await getBookInfoFromPage(url);
-        books.push(book);
+
+        if (url) {
+            let book = cache.find(url);
+            if (!book) {
+                book = await getBookInfoFromPage(url);
+                book.dateSeen = new Date();
+                cache.put(book);
+            }
+            books.push(book);
+        } else {
+            console.error('No URL found for book');
+        }
+
     };
+
+    cache.writeOut();
 
     return books;
 }
