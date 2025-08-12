@@ -13,5 +13,8 @@ export function writeToFile(path, values = {}) {
 }
 
 export function hash(data) {
+    if (data === undefined) {
+        return undefined;
+    }
     return createHash('sha1').update(data).digest('hex');
 }
