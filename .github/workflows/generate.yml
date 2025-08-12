@@ -33,4 +33,4 @@ jobs:
         message: Regenerated feeds
         email: bot@github.com
         name: GitHub Actions Autocommitter
-        files: public/feeds
+        files: public/feeds cache

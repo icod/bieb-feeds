@@ -5,6 +5,7 @@ export default function(books, options) {
         title: options.title,
         id: options.url,
         link: options.url,
+        updated: (new Date()),
         feed: `https://bieb-feeds.statichost.eu/feeds/${options.filename}.atom`,
         copyright: 'Koninklijke Bibliotheek',
         language: 'nl-NL',
@@ -24,7 +25,7 @@ export default function(books, options) {
             link: book.url,
             guid: book.url,
             content: content,
-            date: new Date(),
+            date: new Date(book.dateSeen),
         };
 
         feed.addItem(item);
