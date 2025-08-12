@@ -76,4 +76,30 @@ describe('cache', () => {
     });
 
 
+    it('should remove entries from cache after 10 days', () => {        
+        const cache = new BooksCache(testCache);
+
+        const oldBook = {
+            url: 'https://test.ok',
+            dateSeen: new Date('2025-01-01'),
+        }
+
+        const book = {
+            url: 'https://test2.ok',
+            dateSeen: new Date(),
+        }
+
+        cache.put(book);
+        cache.put(oldBook);
+
+        expect(cache.find(book.url)).toBeDefined();
+        expect(cache.find(oldBook.url)).toBeDefined();
+
+        cache.cleanUp();
+
+        expect(cache.find(book.url)).toBeDefined();
+        expect(cache.find(oldBook.url)).toBeUndefined();
+    });
+
+
 });

@@ -10,6 +10,8 @@ export default async function(url, selector) {
 
     const cache = new BooksCache('./cache/books.json');
 
+    cache.cleanUp();
+
     for await (const bookLink of bookLinks) {
         const url = bookLink.getAttribute('href');
 

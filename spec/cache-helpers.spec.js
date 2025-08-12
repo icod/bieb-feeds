@@ -1,4 +1,4 @@
-import { hash } from "../src/cache-helper.js";
+import { differenceInDays, hash } from "../src/cache-helper.js";
 
 describe('cache helper functions:', () => {
 
@@ -18,6 +18,21 @@ describe('cache helper functions:', () => {
             const result = hash(data);
             expect(result).toBeDefined();
             expect(result).toEqual("da39a3ee5e6b4b0d3255bfef95601890afd80709");
+        });
+    });
+
+    describe('differenceInDays', () => {
+        it('should calculate difference in days', () => {
+            const date1 = new Date('2025-01-01 00:00:00');
+            const date2 = new Date('2025-01-02 00:00:00');
+            expect(differenceInDays(date1, date2)).toEqual(1);
+            expect(differenceInDays(date2, date1)).toEqual(1);
+        });
+
+        it('should calculate difference in days as 0, if dates are within the same 24 hours', () => {
+            const date1 = new Date('2025-01-01 12:00:01');
+            const date2 = new Date('2025-01-02 12:00:00');
+            expect(differenceInDays(date1, date2)).toEqual(0);
         });
     });
 });

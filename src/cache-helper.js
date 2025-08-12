@@ -18,3 +18,9 @@ export function hash(data) {
     }
     return createHash('sha1').update(data).digest('hex');
 }
+
+export function differenceInDays(date1, date2) {
+    const diff = Math.abs(date1 - date2);
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    return days;
+}
