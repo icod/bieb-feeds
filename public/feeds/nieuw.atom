@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-08-15T07:14:46.254Z</updated>
+    <updated>2025-08-16T07:12:08.771Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Vlo en Stiekel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209785/vlo-en-stiekel-pieter-koolwijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209785/vlo-en-stiekel-pieter-koolwijk"/>
+        <updated>2025-08-16T07:12:08.770Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209785?aid=kb-online-bibliotheek&sid=17&dts=1755253552364&sig=3b2096e10fcbf20619d624bfa3974413d11bcc53da6b610e7ab166216f4f8ff2&width=320" alt="Omslag van 'Vlo en Stiekel'" title="Omslag van 'Vlo en Stiekel'">
+<p>Ontmoet Floris, ofwel Vlo. Niet zo dapper, best wel klein, en constant dwarsgezeten door de grote bullebak Arjan. Zijn leven is niet echt denderend, totdat er een nieuwe leerling de klas in komt lopen. Een piepklein meisje in kleurige kleren. Met een brede grijns op haar sproeterige gezicht keek het meisje de klas rond. Haar ogen twinkelden. Ze trok zich zo te zien niets aan van alle nieuwsgierige blikken en opengevallen monden. Ze leek eerder te genieten van de aandacht. 'Dit is Pien,' stelde juffrouw Jutter haar voor. Het meisje keek omhoog naar de juf. 'Maar iedereen noemt me Stiekel.' Stiekel durft alles. Ze is zelfs niet bang voor Arjan, en ze neemt Floris onder haar hoede. Langzaam maar zeker komt Floris erachter dat het leven niet zo gewoon is als hij altijd dacht: Stiekel deelt een groot geheim met hem en Arjan blijkt een voodoomoeder te hebben... En als Arjan doorkrijgt dat Floris dát weet, beginnen de problemen pas echt! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Pieter Koolwijk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De domineesdochter van Clipton Manor]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/45307197X/de-domineesdochter-van-clipton-manor-helena-dubois</id>
@@ -19,17 +30,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Herenleed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453072011/herenleed-willem-de-kleynen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453072011/herenleed-willem-de-kleynen"/>
-        <updated>2025-08-15T07:14:39.004Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453072011?aid=kb-online-bibliotheek&sid=17&dts=1755171183063&sig=9308213fa3b3c48752969546a51a68395a6fc2315bbb61913baab487254b5c67&width=320" alt="Omslag van 'Herenleed'" title="Omslag van 'Herenleed'">
-<p>Een boek voor mannen. Walter is een idealistische man met intense verlangens. De hang naar erotiek is zijn lust en leven. Seks is zijn ultieme drijfveer, als het enige wat het leven de moeite waard maakt. Tot zijn frustratie wordt er echter weinig gepraktiseerd. Maar is Seks wel het enige dat telt? Hij gaat op zoek naar een betere wereld zonder de druk van zijn eindeloze aandrang. Hij vindt een onverwachte oplossing... Babyboomer Willem de Kleynen, luistert zijn leven lang als klinisch psycholoog naar wat mannen zoals Walter niet uitspreken, maar tussen de regels door vertellen. Dat inspireerde hem tot dit boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Willem de Kleynen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Seks natuurlijk!]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/453072003/seks-natuurlijk--peter-goudtuin</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/453072003/seks-natuurlijk--peter-goudtuin"/>
@@ -38,6 +38,17 @@
 <p>18+. Seks in de vrije natuur: is men daar tegenwoordig nog voor in? Het was een vraag die bij Patty Page opkwam toen ze op een mooie lentedag een boswandeling maakte. Ze besloot het te onderzoeken en plaatste een oproep in een tijdschrift onder het kopje: 'Deel je erotische buitenervaring'. De ingezonden verhalen overtroffen haar stoutste verwachtingen... De erotische verhalenbundel deel 6: Seks natuurlijk! Bevat 13 opwindende verhalen over intieme momenten in de tuin en de natuur. De ontboezemingen zijn poëtisch, soms rauw, maar altijd oprecht. Kortom volop genieten voor de buitenmens. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Peter Goudtuin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herenleed]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453072011/herenleed-willem-de-kleynen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453072011/herenleed-willem-de-kleynen"/>
+        <updated>2025-08-15T07:14:39.004Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453072011?aid=kb-online-bibliotheek&sid=17&dts=1755171183063&sig=9308213fa3b3c48752969546a51a68395a6fc2315bbb61913baab487254b5c67&width=320" alt="Omslag van 'Herenleed'" title="Omslag van 'Herenleed'">
+<p>Een boek voor mannen. Walter is een idealistische man met intense verlangens. De hang naar erotiek is zijn lust en leven. Seks is zijn ultieme drijfveer, als het enige wat het leven de moeite waard maakt. Tot zijn frustratie wordt er echter weinig gepraktiseerd. Maar is Seks wel het enige dat telt? Hij gaat op zoek naar een betere wereld zonder de druk van zijn eindeloze aandrang. Hij vindt een onverwachte oplossing... Babyboomer Willem de Kleynen, luistert zijn leven lang als klinisch psycholoog naar wat mannen zoals Walter niet uitspreken, maar tussen de regels door vertellen. Dat inspireerde hem tot dit boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Willem de Kleynen</name>
         </author>
     </entry>
     <entry>
@@ -65,82 +76,6 @@
         <author>
             <name>Multatuli</name>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boeken der kleine zielen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/382014871/boeken-der-kleine-zielen-louis-couperus</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/382014871/boeken-der-kleine-zielen-louis-couperus"/>
-        <updated>2025-08-15T07:14:39.934Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382014871?aid=kb-online-bibliotheek&sid=17&dts=1755171487346&sig=f8723eb702d4b53c7212422c9534c7ae49d32300479e24a3a951c44831d93ed6&width=320" alt="Omslag van 'Boeken der kleine zielen'" title="Omslag van 'Boeken der kleine zielen'">
-<p>Fijnzinnige familiekroniek in Haagse kringen. Het originele werk. Tweede van vier delen. Louis Marie Anne Couperus (Den Haag, 10 juni 1863 - De Steeg, 16 juli 1923) genoot tijdens zijn leven een internationale reputatie. Zijn werk werd veelvuldig vertaald, en beworderd door onder meer Oscar Wilde. Velen houden Couperus voor Nederlands grootste auteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Louis Couperus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het verhaal van de bamboesnijder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/382014820/het-verhaal-van-de-bamboesnijder-pauline-van-de-ven</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/382014820/het-verhaal-van-de-bamboesnijder-pauline-van-de-ven"/>
-        <updated>2025-08-15T07:14:40.166Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382014820?aid=kb-online-bibliotheek&sid=17&dts=1755172629303&sig=c5cb47ccc83ad5549b61b0e75b52d9c2a9c3c9df04de83cbf058335af7bfab6a&width=320" alt="Omslag van 'Het verhaal van de bamboesnijder'" title="Omslag van 'Het verhaal van de bamboesnijder'">
-<p>Oorspronkelijk sprookje voor volwassenen over tegenstrijdige verlangens om aan de ene kant volmaakt samen te vallen met een geliefd persoon en aan de andere kant een uniek en vrij individu te blijven. Wortelt in een Japans verhaal uit de Negende Eeuw, 'Taketori Monogatara'. Een oude bamboesnijder vindt een meisje in een holle bamboestengel. Hij neemt haar mee naar huis. Binnen een paar maanden groeit ze op tot een ongekende schoonheid die alle mannen in het keizerrijk het hoofd op hol brengt. De 'Lichtprinses van de Buigende Bamboe' zoals ze haar noemen, wijst haar vrijers hardvochtig af. Vijf prinsen houden vol. De prinses wil er zeker van zijn dat ze bij haar toekomstige bruidegom volmaakt begrip en overeenstemming vindt en eist geschenken voor haar zintuigen. Hij die iets ongeziens, ongehoords, ongevoelds, nooit geproefds of nooit eerder gerokens, meebrengt en haar dat zo precies kan beschrijven dat ze het al kan zien, horen, ruiken, voelen of proeven nog voordat ze het heeft uitgepakt - met hem zal ze trouwen. De ene na de andere prins gaat op jacht naar een geschikt geschenk. Dan probeert de keizer, die van het bijzondere meisje heeft gehoord, haar voor zich te winnen met hoofd en hart... Met 11 linosnedes van de auteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Pauline van de Ven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De boeken der kleine zielen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394721012/de-boeken-der-kleine-zielen-louis-couperus</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394721012/de-boeken-der-kleine-zielen-louis-couperus"/>
-        <updated>2025-08-15T07:14:40.403Z</updated>
-        <summary type="html"><![CDATA[deel 1-4]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394721012?aid=kb-online-bibliotheek&sid=17&dts=1755171130478&sig=65b372063f2453a5f3cd7f6c5de423fa0c5b851fc038a202a3dc3690d5f60635&width=320" alt="Omslag van 'De boeken der kleine zielen'" title="Omslag van 'De boeken der kleine zielen'">
-<p>De mooie, gevoelige Constance, keert na een afwezigheid van vijftien jaar terug naar haar geboortestad Den Haag. In deze fijnzinnige familieroman in vier delen beschrijft Louis Couperus met fijne pen en groot inlevingsvermogen de innerlijke roerselen en het uiterlijk vertoon van een standsbewuste Haagse familie, en de moed van een vrouw die vecht voor haar levensgeluk en de toekomst van haar kind. * Louis Couperus is een meester in de karaktertekening. Velen houden hem voor Nederlands grootste schrijver. Klassiek Domein, het originele werk, onverkort. (Volledig werk, 4 delen.) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Louis Couperus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boeken der kleine zielen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/382014898/boeken-der-kleine-zielen-louis-couperus</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/382014898/boeken-der-kleine-zielen-louis-couperus"/>
-        <updated>2025-08-15T07:14:40.657Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382014898?aid=kb-online-bibliotheek&sid=17&dts=1755200746902&sig=1a1ac8cf2a36ff5a885277b5060e9d2e5b839cfd297e49455b247f8484b2d1f7&width=320" alt="Omslag van 'Boeken der kleine zielen'" title="Omslag van 'Boeken der kleine zielen'">
-<p>Fijnzinnige familiekroniek in Haagse kringen. Het originele werk. Derde van vier delen. Louis Marie Anne Couperus (Den Haag, 10 juni 1863 - De Steeg, 16 juli 1923) genoot tijdens zijn leven een internationale reputatie. Zijn werk werd veelvuldig vertaald, en bewonderd door onder meer Oscar Wilde. Velen houden Couperus voor Nederlands grootste auteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Louis Couperus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De vrouw in het vogelhuis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394720954/de-vrouw-in-het-vogelhuis-pauline-van-de-ven</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394720954/de-vrouw-in-het-vogelhuis-pauline-van-de-ven"/>
-        <updated>2025-08-15T07:14:40.895Z</updated>
-        <summary type="html"><![CDATA[novelle]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394720954?aid=kb-online-bibliotheek&sid=17&dts=1755171179777&sig=579193eee3a8feaeccb80d672f606e86acc1bdc59b00020acde971ed3a3d6e83&width=320" alt="Omslag van 'De vrouw in het vogelhuis'" title="Omslag van 'De vrouw in het vogelhuis'">
-<p>Na een hartinfarct kan een oude dame eigenlijk niet meer in haar appartement blijven wonen en worden voorbereidingen getroffen voor een verhuizing.</p>]]></content>
-        <author>
-            <name>Pauline van de Ven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boeken der kleine zielen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/38201488X/boeken-der-kleine-zielen-louis-couperus</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/38201488X/boeken-der-kleine-zielen-louis-couperus"/>
-        <updated>2025-08-15T07:14:41.126Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A38201488X?aid=kb-online-bibliotheek&sid=17&dts=1755172548026&sig=f05e556c0e54dea396227c35b5da66b6f96e7f8002221256b7deac13f14153a4&width=320" alt="Omslag van 'Boeken der kleine zielen'" title="Omslag van 'Boeken der kleine zielen'">
-<p>Fijnzinnige familiekroniek in Haagse kringen. Het originele werk. Vierde van vier delen. Louis Marie Anne Couperus (Den Haag, 10 juni 1863 / De Steeg, 16 juli 1923) genoot tijdens zijn leven een internationale reputatie. Zijn werk werd veelvuldig vertaald, en bewonderd door onder meer Oscar Wilde. Velen houden Couperus voor Nederlands grootste auteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Louis Couperus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediker, Hooglied, Spreuken, Psalmen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/382014839/prediker--hooglied--spreuken--psalmen--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/382014839/prediker--hooglied--spreuken--psalmen--"/>
-        <updated>2025-08-15T07:14:41.343Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382014839?aid=kb-online-bibliotheek&sid=17&dts=1755171146394&sig=39e26fff51926515beba0b284761a1540d45242303899046233785dee7a0ffe3&width=320" alt="Omslag van 'Prediker, Hooglied, Spreuken, Psalmen'" title="Omslag van 'Prediker, Hooglied, Spreuken, Psalmen'">
-<p>'IJdelheid der ijdelheden, het is al ijdelheid onder de zon,' zegt Prediker. Het boek Prediker gaat over de zinloosheid van het leven, over eenzaamheid en over verlies. Aangenomen wordt dat het is geschreven door koning Salomo, die regeerde over Israël van ca. 975 tot 925 voor Chr. Prediker treft ons als een verlicht, weldenkend mens, iemand die zich op oudere leeftijd afvraagt wat het leven de moeite waard maakt en daarop als antwoord geeft: onze jeugd, en het plezier in ons werk. En daar meteen aan toevoegt: maar wat blijft daarvan over? De mens wordt oud en sterft, en alles wat hij in zijn levensjaren heeft opgebouwd, zal verloren gaan. Salomo is een wijze koning, maar ook een man die teleurgesteld is in de liefde en een vader die teleurgesteld is in zijn nageslacht. De sombere slotsom dat alles nutteloos is, wordt weersproken door het boek zelf, dat inmiddels drieduizend jaar lang aan miljoenen mensen de troost biedt van gedeelde eenzaamheid. * Aangevuld met het Boek der Spreuken, het Hooglied, en het Boek der Psalmen.* De boeken zijn onderdeel van de Statenbijbel. De eerste druk hiervan verscheen in 1637 in Dordrecht en heeft grote invloed gehad op de vorming van een Nederlandse standaardtaal. De tekst komt rechtstreeks uit het Grieks en Hebreeuws, en ook dat is bijzonder. Tot dat moment waren Nederlandse bijbels vertalingen van andere vertalingen. De boeken zijn niet alleen een bron van filosofische en religieuze inspiratie, maar vormen ook een hoogtepunt van de wereldliteratuur. De taal is prachtig en rijk aan beelden, gezegdes en uitdrukkingen die nog elke dag worden gebruikt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Drijvend paviljoen]]></title>
@@ -177,6 +112,47 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Boeken der kleine zielen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/382014871/boeken-der-kleine-zielen-louis-couperus</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/382014871/boeken-der-kleine-zielen-louis-couperus"/>
+        <updated>2025-08-15T07:14:39.934Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382014871?aid=kb-online-bibliotheek&sid=17&dts=1755171487346&sig=f8723eb702d4b53c7212422c9534c7ae49d32300479e24a3a951c44831d93ed6&width=320" alt="Omslag van 'Boeken der kleine zielen'" title="Omslag van 'Boeken der kleine zielen'">
+<p>Fijnzinnige familiekroniek in Haagse kringen. Het originele werk. Tweede van vier delen. Louis Marie Anne Couperus (Den Haag, 10 juni 1863 - De Steeg, 16 juli 1923) genoot tijdens zijn leven een internationale reputatie. Zijn werk werd veelvuldig vertaald, en beworderd door onder meer Oscar Wilde. Velen houden Couperus voor Nederlands grootste auteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Louis Couperus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boeken der kleine zielen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/38201488X/boeken-der-kleine-zielen-louis-couperus</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/38201488X/boeken-der-kleine-zielen-louis-couperus"/>
+        <updated>2025-08-15T07:14:41.126Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A38201488X?aid=kb-online-bibliotheek&sid=17&dts=1755172548026&sig=f05e556c0e54dea396227c35b5da66b6f96e7f8002221256b7deac13f14153a4&width=320" alt="Omslag van 'Boeken der kleine zielen'" title="Omslag van 'Boeken der kleine zielen'">
+<p>Fijnzinnige familiekroniek in Haagse kringen. Het originele werk. Vierde van vier delen. Louis Marie Anne Couperus (Den Haag, 10 juni 1863 / De Steeg, 16 juli 1923) genoot tijdens zijn leven een internationale reputatie. Zijn werk werd veelvuldig vertaald, en bewonderd door onder meer Oscar Wilde. Velen houden Couperus voor Nederlands grootste auteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Louis Couperus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prediker, Hooglied, Spreuken, Psalmen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/382014839/prediker--hooglied--spreuken--psalmen--</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/382014839/prediker--hooglied--spreuken--psalmen--"/>
+        <updated>2025-08-15T07:14:41.343Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382014839?aid=kb-online-bibliotheek&sid=17&dts=1755171146394&sig=39e26fff51926515beba0b284761a1540d45242303899046233785dee7a0ffe3&width=320" alt="Omslag van 'Prediker, Hooglied, Spreuken, Psalmen'" title="Omslag van 'Prediker, Hooglied, Spreuken, Psalmen'">
+<p>'IJdelheid der ijdelheden, het is al ijdelheid onder de zon,' zegt Prediker. Het boek Prediker gaat over de zinloosheid van het leven, over eenzaamheid en over verlies. Aangenomen wordt dat het is geschreven door koning Salomo, die regeerde over Israël van ca. 975 tot 925 voor Chr. Prediker treft ons als een verlicht, weldenkend mens, iemand die zich op oudere leeftijd afvraagt wat het leven de moeite waard maakt en daarop als antwoord geeft: onze jeugd, en het plezier in ons werk. En daar meteen aan toevoegt: maar wat blijft daarvan over? De mens wordt oud en sterft, en alles wat hij in zijn levensjaren heeft opgebouwd, zal verloren gaan. Salomo is een wijze koning, maar ook een man die teleurgesteld is in de liefde en een vader die teleurgesteld is in zijn nageslacht. De sombere slotsom dat alles nutteloos is, wordt weersproken door het boek zelf, dat inmiddels drieduizend jaar lang aan miljoenen mensen de troost biedt van gedeelde eenzaamheid. * Aangevuld met het Boek der Spreuken, het Hooglied, en het Boek der Psalmen.* De boeken zijn onderdeel van de Statenbijbel. De eerste druk hiervan verscheen in 1637 in Dordrecht en heeft grote invloed gehad op de vorming van een Nederlandse standaardtaal. De tekst komt rechtstreeks uit het Grieks en Hebreeuws, en ook dat is bijzonder. Tot dat moment waren Nederlandse bijbels vertalingen van andere vertalingen. De boeken zijn niet alleen een bron van filosofische en religieuze inspiratie, maar vormen ook een hoogtepunt van de wereldliteratuur. De taal is prachtig en rijk aan beelden, gezegdes en uitdrukkingen die nog elke dag worden gebruikt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het verhaal van de bamboesnijder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/382014820/het-verhaal-van-de-bamboesnijder-pauline-van-de-ven</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/382014820/het-verhaal-van-de-bamboesnijder-pauline-van-de-ven"/>
+        <updated>2025-08-15T07:14:40.166Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382014820?aid=kb-online-bibliotheek&sid=17&dts=1755172629303&sig=c5cb47ccc83ad5549b61b0e75b52d9c2a9c3c9df04de83cbf058335af7bfab6a&width=320" alt="Omslag van 'Het verhaal van de bamboesnijder'" title="Omslag van 'Het verhaal van de bamboesnijder'">
+<p>Oorspronkelijk sprookje voor volwassenen over tegenstrijdige verlangens om aan de ene kant volmaakt samen te vallen met een geliefd persoon en aan de andere kant een uniek en vrij individu te blijven. Wortelt in een Japans verhaal uit de Negende Eeuw, 'Taketori Monogatara'. Een oude bamboesnijder vindt een meisje in een holle bamboestengel. Hij neemt haar mee naar huis. Binnen een paar maanden groeit ze op tot een ongekende schoonheid die alle mannen in het keizerrijk het hoofd op hol brengt. De 'Lichtprinses van de Buigende Bamboe' zoals ze haar noemen, wijst haar vrijers hardvochtig af. Vijf prinsen houden vol. De prinses wil er zeker van zijn dat ze bij haar toekomstige bruidegom volmaakt begrip en overeenstemming vindt en eist geschenken voor haar zintuigen. Hij die iets ongeziens, ongehoords, ongevoelds, nooit geproefds of nooit eerder gerokens, meebrengt en haar dat zo precies kan beschrijven dat ze het al kan zien, horen, ruiken, voelen of proeven nog voordat ze het heeft uitgepakt - met hem zal ze trouwen. De ene na de andere prins gaat op jacht naar een geschikt geschenk. Dan probeert de keizer, die van het bijzondere meisje heeft gehoord, haar voor zich te winnen met hoofd en hart... Met 11 linosnedes van de auteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Pauline van de Ven</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De man met de hoed]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394720946/de-man-met-de-hoed-pauline-van-de-ven</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394720946/de-man-met-de-hoed-pauline-van-de-ven"/>
@@ -185,6 +161,41 @@
 <p>Meeslepende familiekroniek die de levens van een Nederlandse fabrikantenfamilie vervlecht met de opkomst en ondergang van een fabriek en de Europese geschiedenis over een periode van 60 jaar. Deel 1 van 'De familie-Dumont'. Zelfstandig te lezen. Gebaseerd op het archief van de familie Bury, oprichter van de kunstzijdefabriek Nyma, ooit de grootste werkgever van Nijmegen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Pauline van de Ven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vrouw in het vogelhuis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394720954/de-vrouw-in-het-vogelhuis-pauline-van-de-ven</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394720954/de-vrouw-in-het-vogelhuis-pauline-van-de-ven"/>
+        <updated>2025-08-15T07:14:40.895Z</updated>
+        <summary type="html"><![CDATA[novelle]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394720954?aid=kb-online-bibliotheek&sid=17&dts=1755171179777&sig=579193eee3a8feaeccb80d672f606e86acc1bdc59b00020acde971ed3a3d6e83&width=320" alt="Omslag van 'De vrouw in het vogelhuis'" title="Omslag van 'De vrouw in het vogelhuis'">
+<p>Na een hartinfarct kan een oude dame eigenlijk niet meer in haar appartement blijven wonen en worden voorbereidingen getroffen voor een verhuizing.</p>]]></content>
+        <author>
+            <name>Pauline van de Ven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boeken der kleine zielen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/382014898/boeken-der-kleine-zielen-louis-couperus</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/382014898/boeken-der-kleine-zielen-louis-couperus"/>
+        <updated>2025-08-15T07:14:40.657Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382014898?aid=kb-online-bibliotheek&sid=17&dts=1755200746902&sig=1a1ac8cf2a36ff5a885277b5060e9d2e5b839cfd297e49455b247f8484b2d1f7&width=320" alt="Omslag van 'Boeken der kleine zielen'" title="Omslag van 'Boeken der kleine zielen'">
+<p>Fijnzinnige familiekroniek in Haagse kringen. Het originele werk. Derde van vier delen. Louis Marie Anne Couperus (Den Haag, 10 juni 1863 - De Steeg, 16 juli 1923) genoot tijdens zijn leven een internationale reputatie. Zijn werk werd veelvuldig vertaald, en bewonderd door onder meer Oscar Wilde. Velen houden Couperus voor Nederlands grootste auteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Louis Couperus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De boeken der kleine zielen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394721012/de-boeken-der-kleine-zielen-louis-couperus</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394721012/de-boeken-der-kleine-zielen-louis-couperus"/>
+        <updated>2025-08-15T07:14:40.403Z</updated>
+        <summary type="html"><![CDATA[deel 1-4]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394721012?aid=kb-online-bibliotheek&sid=17&dts=1755171130478&sig=65b372063f2453a5f3cd7f6c5de423fa0c5b851fc038a202a3dc3690d5f60635&width=320" alt="Omslag van 'De boeken der kleine zielen'" title="Omslag van 'De boeken der kleine zielen'">
+<p>De mooie, gevoelige Constance, keert na een afwezigheid van vijftien jaar terug naar haar geboortestad Den Haag. In deze fijnzinnige familieroman in vier delen beschrijft Louis Couperus met fijne pen en groot inlevingsvermogen de innerlijke roerselen en het uiterlijk vertoon van een standsbewuste Haagse familie, en de moed van een vrouw die vecht voor haar levensgeluk en de toekomst van haar kind. * Louis Couperus is een meester in de karaktertekening. Velen houden hem voor Nederlands grootste schrijver. Klassiek Domein, het originele werk, onverkort. (Volledig werk, 4 delen.) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Louis Couperus</name>
         </author>
     </entry>
     <entry>
@@ -289,14 +300,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boodschappers van de storm]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443096317/boodschappers-van-de-storm-inez-corbi</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443096317/boodschappers-van-de-storm-inez-corbi"/>
-        <updated>2025-08-15T07:14:45.319Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443096317?aid=kb-online-bibliotheek&sid=17&dts=1755173075372&sig=526bf6ac7e91371e7316bd0ef5aae8b7de1805fcb7ebc64eff274205b27f730c&width=320" alt="Omslag van 'Boodschappers van de storm'" title="Omslag van 'Boodschappers van de storm'">
-<p>Zoals in het paradijs! Dit is hoe Lexi zich voelt in haar nieuwe huis in Cornwall, met haar nieuwe liefde Ben. Tijdens de laatste voorbereidingen die ze doet voor de jubileumviering van de beroemde tuinen van Heligan, ontdekt Lexi hier het verhaal van een wel heel fascinerende vrouw.</p><p>In 1913 komt de jonge Hailee als keukenmeisje naar Heligan. Daar raakt ze bevriend met de extraverte Ada, de zus van de huisbaas, en krijgt een geheime affaire met de tuinman Tommas. Wanneer hij ten strijde moet trekken en Hailee zwanger achterlaat, heeft Ada een plan dat, meer dan honderd jaar later, een nieuw licht werpt op Lexi’s afkomst...</p><p>‘Meeslepend.’ – Libelle</p><p>‘Een licht, fris en verslavend verhaal waarin Corbi realiteit en fictie op een meesterlijke wijze weet te mengen.’ – HEBBAN.NL </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Strandhuis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448832836/strandhuis-inge-van-prooijen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448832836/strandhuis-inge-van-prooijen"/>
+        <updated>2025-08-15T07:14:46.045Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832836?aid=kb-online-bibliotheek&sid=17&dts=1755175250804&sig=b502e68efdd785233179d39298f7e0b0af4c3646cea5f1a2eb9efe96f7c239d4&width=320" alt="Omslag van 'Strandhuis'" title="Omslag van 'Strandhuis'">
+<p>Het verleden gaat nooit op vakantie Nena gaat op vakantie met haar vriend Diederik en zijn zoontje Benjamin. Ze hebben een groot strandhuis gehuurd in Málaga. Groot was een vereiste, want zijn ex Celeste moet ook mee, zoals afgesproken in het ouderschapsplan. Gelukkig gaan ook Pieter - een familievriend die nog volop in de rouw is om zijn overleden vriendin Lou - en zijn zoontje Casper mee. Nena's vriendin Karlijn en haar twee zoontjes maken het reisgezelschap compleet. Prima, het huis is groot genoeg. Tot er spoken uit het verleden opduiken en Nena zich afvraagt of het wel zo slim was om met deze groep instabiele 'vrienden' op vakantie te gaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Inez Corbi</name>
+            <name>Inge van Prooijen</name>
         </author>
     </entry>
     <entry>
@@ -326,17 +337,6 @@
 <p>De 13-jarige Nanami brengt het grootste deel van haar vrije tijd door in een verlaten bibliotheek. Op een dag merkt ze dat haar favoriete boeken geleidelijk aan uit de schappen verdwijnen. Ze waarschuwt het bibliotheekpersoneel, maar niemand neemt haar serieus. Dan ziet ze tussen de boekenplanken een verdachte man in een grijs pak. Als een praatgrage kat haar te hulp schiet, gaan ze samen op een doldwaas avontuur vol gevaarlijke uitdagingen.</p><p>‘Een juweel van een boek als je van lezen en boeken houdt (en katten!).’ – De Limburger</p><p>‘Een heerlijk absurdistisch en sprookjesachtig verhaal.’ – Friesch Dagblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Sosuke Natsukawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strandhuis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448832836/strandhuis-inge-van-prooijen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448832836/strandhuis-inge-van-prooijen"/>
-        <updated>2025-08-15T07:14:46.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832836?aid=kb-online-bibliotheek&sid=17&dts=1755175250804&sig=b502e68efdd785233179d39298f7e0b0af4c3646cea5f1a2eb9efe96f7c239d4&width=320" alt="Omslag van 'Strandhuis'" title="Omslag van 'Strandhuis'">
-<p>Het verleden gaat nooit op vakantie Nena gaat op vakantie met haar vriend Diederik en zijn zoontje Benjamin. Ze hebben een groot strandhuis gehuurd in Málaga. Groot was een vereiste, want zijn ex Celeste moet ook mee, zoals afgesproken in het ouderschapsplan. Gelukkig gaan ook Pieter - een familievriend die nog volop in de rouw is om zijn overleden vriendin Lou - en zijn zoontje Casper mee. Nena's vriendin Karlijn en haar twee zoontjes maken het reisgezelschap compleet. Prima, het huis is groot genoeg. Tot er spoken uit het verleden opduiken en Nena zich afvraagt of het wel zo slim was om met deze groep instabiele 'vrienden' op vakantie te gaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Inge van Prooijen</name>
         </author>
     </entry>
     <entry>
