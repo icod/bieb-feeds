@@ -2,349 +2,361 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-09-05T07:13:03.930Z</updated>
+    <updated>2025-09-06T07:11:02.568Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
-        <title type="html"><![CDATA[Clausewitz]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394646231/clausewitz-joost-de-vries</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394646231/clausewitz-joost-de-vries"/>
-        <updated>2025-09-04T07:12:33.630Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646231?aid=kb-online-bibliotheek&sid=17&dts=1756966636792&sig=36d497a5eb4b4715827b698310a842c817538cd8b3500e303908f651a5cb2fea&width=320" alt="Omslag van 'Clausewitz'" title="Omslag van 'Clausewitz'">
-<p>Een wetenschapper doet onderzoek naar een dertig jaar eerder mysterieus verdwenen schrijver.</p>]]></content>
+        <title type="html"><![CDATA[De kleine keizer]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644565/de-kleine-keizer-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644565/de-kleine-keizer-martin-bril"/>
+        <updated>2025-09-06T07:10:55.525Z</updated>
+        <summary type="html"><![CDATA[verslag van een passie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644565?aid=kb-online-bibliotheek&sid=17&dts=1757083781023&sig=3e9501f4fe27c5238e3e13c7cfda5cbd4e1c26dddc66de1dcc7c11b1a51b5b24&width=320" alt="Omslag van 'De kleine keizer'" title="Omslag van 'De kleine keizer'">
+<p>De auteur getuigt van zijn fascinatie voor Napoleon Bonaparte (1769-1821) in de vorm van anekdotes over het leven van de keizer en verslagen van bezoekjes aan plaatsen die in Napoleons leven een rol speelden.</p>]]></content>
         <author>
-            <name>Joost de Vries</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vechtmemoires]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394647807/vechtmemoires-joost-de-vries</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394647807/vechtmemoires-joost-de-vries"/>
-        <updated>2025-09-04T07:12:33.810Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394647807?aid=kb-online-bibliotheek&sid=17&dts=1756890450356&sig=c17432a09fc83ff9f1113ef80e562fa4a51b2c1a0776cd24b89991b3aea83e1d&width=320" alt="Omslag van 'Vechtmemoires'" title="Omslag van 'Vechtmemoires'">
-<p>Essays over binnen- en buitenlandse literatuur.</p>]]></content>
+        <title type="html"><![CDATA[Mijn haar is lang]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644581/mijn-haar-is-lang-herman-brusselmans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644581/mijn-haar-is-lang-herman-brusselmans"/>
+        <updated>2025-09-06T07:10:55.764Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644581?aid=kb-online-bibliotheek&sid=17&dts=1757091359589&sig=554e6a803c9d8656da669e50787ed45b0bad06018c72e5abf5bbe5038259bdb5&width=320" alt="Omslag van 'Mijn haar is lang'" title="Omslag van 'Mijn haar is lang'">
+<p>De schrijver probeert diverse keren in een kapsalon zijn lange haar te laten bijknippen.</p>]]></content>
         <author>
-            <name>Joost de Vries</name>
+            <name>Herman Brusselmans</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De gelukkigste man van Nederland]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43164781X/de-gelukkigste-man-van-nederland-joost-de-vries</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43164781X/de-gelukkigste-man-van-nederland-joost-de-vries"/>
-        <updated>2025-09-04T07:12:34.055Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43164781X?aid=kb-online-bibliotheek&sid=17&dts=1756963720578&sig=57dfcb5dbe0a6f44a206fe1a2207899c3af0cfd8228cda6435450141e95491ec&width=320" alt="Omslag van 'De gelukkigste man van Nederland'" title="Omslag van 'De gelukkigste man van Nederland'">
-<p>Wie is de echte Mark Rutte? Who cares? Interessanter dan hoe Rutte uitgroeide tot de onaantastbare premier die hij nu is (of waar en met wie hij met vakantie gaat), is de vraag wat het zegt dat Nederland zich al een decennium laat leiden door een politicus die er prat op gaat geen langetermijnvisie te hebben en geen grote overtuigingen. Heeft Nederland die dan ook niet? In De gelukkigste man van Nederland schrijft Joost de Vries over hoe politiek onze cultuur beïnvloedt - en omgekeerd. In speelse, wervelende essays over onder meer Mark Rutte en Badr Hari, Voetbal Inside en De luizenmoeder, Rutger Bregman en Ilja Leonard Pfeijffer portretteert De Vries een land dat graag klaagt, maar als het erop aankomt diep tevreden lijkt met zichzelf. In De gelukkigste man van Nederland stelt Joost de Vries de hamvraag: wat betekent het om overeind te blijven in een wereld die steeds sneller verandert?</p><p> Joost de Vries  (1983) is adjunct-hoofdredacteur van De Groene Amsterdammer. Sinds zijn debuutroman Clausewitz in 2010 geldt hij als een van de toonaangevende schrijvers van zijn generatie, van zowel romans als essays. Zijn essaybundel Vechtmemoires werd genomineerd voor de Jan Hanlo Essayprijs. Zijn roman De republiek werd onder meer bekroond met de Gouden Boekenuil en werd in meer dan tien talen vertaald.</p><p>Over De republiek: 'Een wervelende leeservaring, vol verwijzingen naar Mulisch, Hitlergrappen, knipogen naar hedendaagse cultuur en vermakelijke literaire spielerei.' DE MORGEN</p><p>Over Vechtmemoires: 'Hij schrijft jaloersmakend glashelder, soepel, grappig en bedriegelijk eenvoudig. Subliem.' DE STANDAARD ****</p><p>Over Rustig aan tijger: 'Joost de Vries bewijst opnieuw dat hij een van de opwindendste schrijvers van zijn generatie is.' HUMO </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De kloof]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644670/de-kloof-piet-depuydt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644670/de-kloof-piet-depuydt"/>
+        <updated>2025-09-06T07:10:55.981Z</updated>
+        <summary type="html"><![CDATA[hoe de breuk tussen Belgen en Nederlanders Fortis fataal werd]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644670?aid=kb-online-bibliotheek&sid=17&dts=1757087291361&sig=344c2d5daa04fe8acd38e7f9fbdfa35a84579344ee18c7fe0e1d776305d16b37&width=320" alt="Omslag van 'De kloof'" title="Omslag van 'De kloof'">
+<p>Het begon als een veelbelovend huwelijk, maar het eindigde in een dramatische scheiding. In 1990 richtten Belgen en Nederlanders de financiële groep Fortis op: de eerste grensoverschrijdende fusie in het Europese financiële landschap. Het concern kende een stevige groei en werd door de overname van het Nederlandse gedeelte van abn Amro een imposante speler. Maar toen sloeg het noodlot toe. In het najaar van 2008 kwam Fortis in de problemen. De Nederlandse staat besloot _ in volle kredietcrisis en tot verbijstering van de Belgen _ de Nederlandse onderdelen uit de groep te halen. In De kloof reconstrueert Piet Depuydt de ontstellende feiten die aan de val van Fortis voorafgingen. Hij schetst het verhaal van een onmogelijke fusie. De moeizame samenwerking tussen Belgen en Nederlanders hield de besluitvorming aan de top jarenlang in een verlammende houdgreep. Topbestuurders, toezichthouders en regeringsleiders slaagden er nooit in deze cultuurkloof te overbruggen. Dit onvermogen leidde tot een interne machtsstrijd, waarbij één persoon, Maurice graaf Lippens, alle touwtjes in handen kreeg. De bestseller De prooi van Jeroen Smit beschreef de ondergang van abn Amro, de belangrijkste bank van Nederland. De kloof beschrijft de val van Fortis, de grootste bank en verzekeraar van de lage landen. Piet Depuydt (1965) studeerde politieke wetenschappen en bedrijfseconomie in Gent en Leuven. Hij werkte als redacteur bij het financieel-economische weekblad Trends in België, richtte het maandblad Bizz op en werd daarna hoofdredacteur van Trends. Sinds 1 april 2008 is hij financieel redacteur bij nrc Handelsblad. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Joost de Vries</name>
+            <name>Piet Depuydt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verkleed in vreugde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444163123/verkleed-in-vreugde-marion-bloem</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444163123/verkleed-in-vreugde-marion-bloem"/>
-        <updated>2025-09-04T07:12:34.471Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444163123?aid=kb-online-bibliotheek&sid=17&dts=1756903039045&sig=9303c2a5cfdfa6a92c4a2737f31a6c4e9379814716d69bcf2a3c8b20354d4573&width=320" alt="Omslag van 'Verkleed in vreugde'" title="Omslag van 'Verkleed in vreugde'">
-<p>Je zei, schrijf me een brief als ik er niet meer ben. En omdat ik je ken, of heet dat nu dan kende, weet ik dat je toen bedoelde: pak je pen, ga niet verdrinken in verblindende tranen, verstop je niet onder dat dekbed - dat ding dat jij in jouw allerlaatste dagen, of weken veel te zwaar en pijnlijk vond over jouw tere te tengere lijf.</p><p>  In 2022 overleed Ivan Wolffers, arts, schrijver, en de grote liefde van Marion Bloem aan prostaatkanker. Wat hen van meet af aan bond was reizen en schrijven. In Verkleed in vreugde rijgt Bloem nietsontziend eerlijk haar herinneringen, observaties, gevoelens en tranen over hun tweeënvijftigjarige huwelijk aan elkaar. Ze schrijft door de rouw heen, dwars door kleurrijke decennia, op zoek naar hun geheim. Want ze bleven samen, ondanks - maar vooral ook dankzij - elkaar, tot de dood hen scheidde.</p><p>  Zinderend en bezwerend, is Verkleed in vreugde het verhaal van een grootse, onstuimige, altijddurende liefde. Een monument.</p><p>  Naast film-, documentairemaker en beeldend kunstenaar is  Marion Bloem  sinds haar debuut Geen gewoon Indisch meisje (1983) vooral een gelauwerd schrijver. In februari 2023 ontving ze de Constantijn Huygens-prijs 2022 voor haar oeuvre. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Buurtgeluiden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644735/buurtgeluiden-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644735/buurtgeluiden-martin-bril"/>
+        <updated>2025-09-06T07:10:56.198Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644735?aid=kb-online-bibliotheek&sid=17&dts=1757085057501&sig=85cc38ccd15d903986e10f5551fa497bd92833c261fcb6537603cff812d035d6&width=320" alt="Omslag van 'Buurtgeluiden'" title="Omslag van 'Buurtgeluiden'">
+<p>Columns over het dagelijks leven in Amsterdam Oud-West.</p>]]></content>
         <author>
-            <name>Marion Bloem</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De tweelingentrilogie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443307512/de-tweelingentrilogie-a-gota-kristo-f</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443307512/de-tweelingentrilogie-a-gota-kristo-f"/>
-        <updated>2025-09-04T07:12:34.672Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443307512?aid=kb-online-bibliotheek&sid=17&dts=1756903506267&sig=f4abad76b3faf796904ec686a942a50a07bd132d12711c0c98c3dec84a05e70c&width=320" alt="Omslag van 'De tweelingentrilogie'" title="Omslag van 'De tweelingentrilogie'">
-<p>De tweelingentrilogie is een wreed, urgent drieluik over wat oorlog en ballingschap met mensen doet. Een meedogenloos beklemmend verhaal, verteld met de rauwe eenvoud van een sprookje, dat afpelt tot de duisterste kanten van de mens.</p><p>  'Ágota Kristóf weet dat weemoed en onwetendheid niet van elkaar te scheiden zijn, dat vorm, stijl en inhoud onlosmakelijk met elkaar verbonden zijn, dat de beste literatuur de menselijke smerigheid behoedzaam omarmt.' - Arnon Grunberg</p><p>  'Ágota Kristóf. De geheimtip onder boekhandelaren eindelijk opnieuw beschikbaar.' - Steven Van Ammel, Passa Porta</p><p>  'Literatuur met een angel. Een beklijvende leestrip die je de adem beneemt en de grond onder je voeten doet wegzakken.' - Gert De Bie, Boekhandel Het Voorwoord</p><p>  'Dit boek verdient meer lezers. Het maakte een verpletterende indruk op me. Heftig en rauw. Indrukwekkend!' - Wicher van den Bemt, Boomker Boeken</p><p>  'Kristóf laat niets van haar lezers heel. Een tijdloos literair monument over de wreedheid van oorlog.' - Bart Nijensteen, Athenaeum Boekhandel Zuidoost</p><p>  'Het contrast tussen het eenvoudige taalgebruik van de kinderen en de gruwelijke realiteit die daarachter schuilgaat, grijpt je naar de keel. Dit meesterwerk zou áltijd beschikbaar moeten zijn in de boekhandel!' - Lies Van Den Berghe, Boekhandel Barbóék</p><p>  'Een klap in je gezicht. De directheid van dit boek en de uitgebeende taal zijn onverbiddelijk.' - Ellen Vonken, Libris Voorhoeve</p><p>  'Kristófs schrijven treft doel als een verwonding.' - La Quinzaine Littéraire</p><p>  'Een briljant eerbetoon aan de literatuur. Hoe lezen en schrijven - verheven tot vertelmagie - de mens rechtop houden. Hoe leeg en beproevend het leven ook kan zijn.' - Aftonbladet</p><p></p><p>Ágota Kristóf  (1935-2011) werd in 1935 geboren in Hongarije, dat ze in 1956 met haar gezin ontvluchtte. Ze kwam terecht in Neuchâtel, waar ze in een horlogefabriek werkte. Haar meesterwerk, de tweelingentrilogie, schreef ze in het Frans, de taal van haar ballingschap. Kristófs werk wordt in meer dan veertig talen uitgegeven en wordt gezien als een hoogtepunt van het Europese postmodernisme. Ze overleed in 2011. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA['Voor de troon wordt men niet ongestraft geboren']]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394622812/-voor-de-troon-wordt-men-niet-ongestraft-geboren--dorine-hermans---daniela-hooghiemstra</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394622812/-voor-de-troon-wordt-men-niet-ongestraft-geboren--dorine-hermans---daniela-hooghiemstra"/>
+        <updated>2025-09-06T07:10:56.414Z</updated>
+        <summary type="html"><![CDATA[ooggetuigen van de koningen van Nederland, 1813-1890]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622812?aid=kb-online-bibliotheek&sid=17&dts=1757089248985&sig=18c58704408649239d978b946ea01b63c26974e0b09037b616ddd9196175a0d1&width=320" alt="Omslag van ''Voor de troon wordt men niet ongestraft geboren''" title="Omslag van ''Voor de troon wordt men niet ongestraft geboren''">
+<p>Levensbijzonderheden en anekdotes over de drie negentiende-eeuwse Nederlandse koningen Willem I, II en III.</p>]]></content>
         <author>
-            <name>Ágota Kristóf</name>
+            <name>Dorine Hermans</name>
+        </author>
+        <author>
+            <name>Daniela Hooghiemstra</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vilhelms kamer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444205330/vilhelms-kamer-tove-ditlevsen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444205330/vilhelms-kamer-tove-ditlevsen"/>
-        <updated>2025-09-04T07:12:34.876Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444205330?aid=kb-online-bibliotheek&sid=17&dts=1756956634231&sig=ee059569516cc5f83256c628d1f66e93bb030665fd6fdd5970b3e88eea398d42&width=320" alt="Omslag van 'Vilhelms kamer'" title="Omslag van 'Vilhelms kamer'">
-<p>'Niemand kan zo luchtig over zulke vreselijke ellende schrijven als Tove Ditlevsen.' -  Connie Palmen</p><p></p><p>Lise en Vilhelm - zij een instabiele kinderboekenauteur, hij een opvliegende krantenman - hebben oprechte strijd en minstens zo oprechte verzoeningen. Maar na twintig jaar van aantrekken en afstoten lijkt hun huwelijk finaal te knappen wanneer Vilhelm daadwerkelijk zijn biezen pakt om er met zijn zoveelste minnares vandoor te gaan en zijn kamer leeg komt te staan.</p><p>  In Vilhelms kamer ontmaskert Tove Ditlevsen het huwelijk als een loopgravenoorlog waar zelfs de liefde niet kan overwinnen. Wie vernietig je eerst: jezelf of de ander? Het is Ditlevsens meest gewaagde roman en wordt, samen met de Kopenhagen-trilogie, gezien als haar meesterwerk.</p><p></p><p>Tove Ditlevsen  (1917-1976) is een van de belangrijkste stemmen van de Deense literatuur. Nu wordt haar rauwe en springlevende oeuvre wereldwijd herontdekt.</p><p></p><p>Lammie Post-Oostenbrink  (1970) vertaalt uit het Deens, Noors en Zweeds. Ze is de vaste vertaler van Tove Ditlevsen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De vrije wil bestaat niet]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394622960/de-vrije-wil-bestaat-niet-victor-lamme</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394622960/de-vrije-wil-bestaat-niet-victor-lamme"/>
+        <updated>2025-09-06T07:10:56.594Z</updated>
+        <summary type="html"><![CDATA[over wie er echt de baas is in het brein]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622960?aid=kb-online-bibliotheek&sid=17&dts=1757089522078&sig=82b0e9319ee05c3221d85064e6541454095984f6a7dc39a71b266415431fdd64&width=320" alt="Omslag van 'De vrije wil bestaat niet'" title="Omslag van 'De vrije wil bestaat niet'">
+<p>Onderzoek aan de hand van talrijke voorbeelden naar de mate waarin de vrije wil het menselijk gedrag bepaalt.</p>]]></content>
         <author>
-            <name>Tove Ditlevsen</name>
+            <name>Victor Lamme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het archief]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443398054/het-archief-thomas-heerma-van-voss</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443398054/het-archief-thomas-heerma-van-voss"/>
-        <updated>2025-09-04T07:12:35.065Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443398054?aid=kb-online-bibliotheek&sid=17&dts=1756896705022&sig=a226634015d7463e9119132bfe1661c070c535077493307d933b635c503d4a28&width=320" alt="Omslag van 'Het archief'" title="Omslag van 'Het archief'">
-<p>Een ode aan de niche, aan rituelen en aan het onvermoeibaar vasthouden aan de dingen die, zinvol of niet, het leven de moeite waard maken.</p><p></p><p>Er zijn verzoeken die je niet kunt weigeren. Zo twijfelt de jonge, ambitieuze Pierre geen moment wanneer hij gevraagd wordt als redacteur van Arabesk, een literair tijdschrift met een rijke geschiedenis. Vol frisse moed treedt hij toe tot de redactie en zo begint zijn nieuwe bestaan.</p><p>  Pierre komt uit een gezin waar veel gelezen wordt, met een vader die als hoofdredacteur de gloriedagen van het geschreven woord meemaakte. Maar terwijl Pierre groeit in zijn rol als redacteur van Arabesk, kelderen de abonneecijfers. Soms lijkt alleen zijn vader nog te snappen wat de charme van het blad is, maar die zondert zich steeds meer af in zijn werkkamer, tussen stapels papier, obscure dvd's en een radio die nooit uitgaat.</p><p>  Hoelang moeten tradities en gewoontes in stand worden gehouden? En wanneer is het tijd om los te laten? Het archief van Thomas Heerma van Voss is een zowel geestige als ontroerende roman over een wereld die steeds verder verdwijnt.</p><p>  'Heerma van Voss heeft een opvallende controle over wat hij bij de lezer aanricht. Hij weet precies wat hij je aandoet. Een meester van de suggestie.' -  NRC</p><p></p><p> Thomas Heerma van Voss  (1990) schreef enkele romans en verhalenbundels, waaronder het veelgeprezen Condities (Longlist Boekenbon Literatuurprijs en Libris Literatuur Prijs) en Passagiers/Achterblijvers (genomineerd voor de BNG Literatuurprijs). Ook schrijft hij voor onder andere De Groene Amsterdammer. Hij was zeven jaar redacteur van literair tijdschrift De Revisor. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De schijn-élite van de valsemunters]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394622855/de-schijn-e-lite-van-de-valsemunters-martin-bosma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394622855/de-schijn-e-lite-van-de-valsemunters-martin-bosma"/>
+        <updated>2025-09-06T07:10:56.885Z</updated>
+        <summary type="html"><![CDATA[Drees, extreem rechts, de sixties, nuttige idioten, Groep Wilders en ik]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622855?aid=kb-online-bibliotheek&sid=17&dts=1757096906754&sig=b945c3b2c267c592f96ab05d3bc99b689cae3f54f233cba3ef56a745cd9576fa&width=320" alt="Omslag van 'De schijn-élite van de valsemunters'" title="Omslag van 'De schijn-élite van de valsemunters'">
+<p>Kritische visie van het PVV-Tweede Kamerlid op de Nederlandse politiek en samenleving.</p>]]></content>
         <author>
-            <name>Thomas Heerma van Voss</name>
+            <name>Martin Bosma</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sleutelmomenten – Joost Swarte]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444169989/sleutelmomenten---joost-swarte-ward-wijndelts</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444169989/sleutelmomenten---joost-swarte-ward-wijndelts"/>
-        <updated>2025-09-04T07:12:35.262Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444169989?aid=kb-online-bibliotheek&sid=17&dts=1756962477771&sig=d4001a6959894977884afcdd10e72c9053cdb991eccb9dec5079f9897bbad358&width=320" alt="Omslag van 'Sleutelmomenten – Joost Swarte'" title="Omslag van 'Sleutelmomenten – Joost Swarte'">
-<p>Een biografie in sleutelmomenten van Nederlands bekendste tekenaar.</p><p>  Een opleidingengids die open op tafel ligt?</p><p>Een praktijkstage bij een kartonnagefabriek?</p><p>Een potje inkt drinken met Art Spiegelman?</p><p>  Het succes van Joost Swarte (1947) was onmogelijk geweest zonder zijn grote talent. Maar wat waren de sleutelmomenten die de loop van zijn leven bepaalden? Hoe is de op brommers scheurende zittenblijver ooit gaan tekenen voor het wereldberoemde tijdschrift The New Yorker? En hoe ging hij van een 'klare lijn' naar het ontwerpen van de Toneelschuur?</p><p>  In dit boek wordt een poging gedaan die sleutelmomenten te reconstrueren. Journalist Ward Wijndelts sprak urenlang met Joost Swarte en andere bepalende figuren in diens leven, keerde lades om met jeugdtekeningen en nooit gepubliceerde schetsen - op zoek naar de gebeurtenissen die leidden tot de methode-Swarte.</p><p></p><p>Ward Wijndelts  (1975) was redacteur bij NRC, hoofdredacteur van Vrij Nederland en oprichter van literair striptijdschrift Eisner. Zijn favoriete werk van Joost Swarte is de poster voor het Franse muziekfestival Rencontres Trans Musicales, die zijn hele jeugd in de woonkamer hing en daardoor in zijn geheugen geëtst staat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De PG]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645308/de-pg-jef-geeraerts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645308/de-pg-jef-geeraerts"/>
+        <updated>2025-09-06T07:10:57.105Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645308?aid=kb-online-bibliotheek&sid=17&dts=1757083953526&sig=10b9a9204d19e79a4600b1fdf35beb10f6a55ba98525658c85c32798ed882d88&width=320" alt="Omslag van 'De PG'" title="Omslag van 'De PG'">
+<p>Een Belgische procureur-generaal die door leden van het Opus Dei geschaduwd en gechanteerd wordt, probeert zich via connecties uit de onderwereld van zijn afpersers te ontdoen.</p>]]></content>
         <author>
-            <name>Ward Wijndelts</name>
+            <name>Jef Geeraerts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Autobiografie van mijn lichaam]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444022546/autobiografie-van-mijn-lichaam-lize-spit</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444022546/autobiografie-van-mijn-lichaam-lize-spit"/>
-        <updated>2025-09-04T07:12:35.461Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444022546?aid=kb-online-bibliotheek&sid=17&dts=1756896621938&sig=27125b1ff42da663305b24391b72b5450ec464e59f7df66cd62157fa71e4351d&width=320" alt="Omslag van 'Autobiografie van mijn lichaam'" title="Omslag van 'Autobiografie van mijn lichaam'">
-<p>Altijd als mijn ouders uitreiken: iets in mij wat naar binnen klapt, zoals een boksbal op de kermis uit de automaat tevoorschijn komt nadat er een munt wordt ingebracht, klaar om geramd te worden.</p><p>  Eind 2021 krijgt Lize Spit een mailtje waarin haar moeder laat weten dat ze ongeneeslijk ziek is. Nu haar moeder nog maar kort te leven heeft, onderneemt Lize een laatste toenaderingspoging. Nooit eerder was het vinden van de juiste woorden zo lastig, nooit eerder was het zo noodzakelijk.</p><p>  Autobiografie van mijn lichaam is een radicaal eerlijk en aangrijpend onderzoek van een dochter die niet alleen de moeizame relatie met haar moeder probeert te begrijpen, maar ook de verstoorde relatie tot haar eigen lichaam.</p><p></p><p>Lize Spit  (1988) schreef eerder de veelgeprezen romans Het smelt en Ik ben er niet. Ook schreef ze het Boekenweekgeschenk van 2023, De eerlijke vinder. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Geld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645251/geld-jef-geeraerts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645251/geld-jef-geeraerts"/>
+        <updated>2025-09-06T07:10:57.315Z</updated>
+        <summary type="html"><![CDATA[roman noir]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645251?aid=kb-online-bibliotheek&sid=17&dts=1757083954213&sig=5b6d137b2651d33a1fc1abb20ad960690c49ed367b7c74e4f5232fe7237a2c92&width=320" alt="Omslag van 'Geld'" title="Omslag van 'Geld'">
+<p>Op de dag dat de knappe Pearl een relatie aangaat met een hedonistische rentenier, gaat zijn zakenpartner er met zijn geld vandoor.</p>]]></content>
         <author>
-            <name>Lize Spit</name>
+            <name>Jef Geeraerts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rooksignalen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443920664/rooksignalen-marian-donner</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443920664/rooksignalen-marian-donner"/>
-        <updated>2025-09-04T07:12:34.280Z</updated>
-        <summary type="html"><![CDATA[(een hoofdkussenboek)]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443920664?aid=kb-online-bibliotheek&sid=17&dts=1756894584424&sig=a3dd3e7b202a44c9531bf5fd7852406606605f133b900fb2d1b3564132e60d92&width=320" alt="Omslag van 'Rooksignalen'" title="Omslag van 'Rooksignalen'">
-<p>Op zoek naar een betere toekomst, een met meer spel, meer dans, meer vrijheid vooral, hink-stap-springt Marian Donner door de popcultuur, langs orka's, 'schreeuwende' planten, oorlogsrecht, kwantummechanica en Ninjago. Onderweg neemt ze de woorden van haar overleden vader mee, voormalig schaakkampioen. De escorts die ze ontmoette bij het bureau waar ze jarenlang de telefoon opnam, laten haar een schaduwwereld zien. En dan is er nog de stem van de Japanse hofdame Sei Shõnagon. Meer dan duizend jaar geleden hield ze een dagboek bij. Wat kan zij ons tonen?</p><p>  Rooksignalen (een hoofdkussenboek) is een trip, een dans, weg van de hokjes en labels, de huidige controledrift, rechtlijnigheid en zwaarte, naar meer ruimte en lucht.</p><p></p><p>Marian Donner  is essayist en columnist bij De Groene Amsterdammer, waar ze schrijft over popcultuur, technologie en alle overige pijnpunten van het moderne leven. Eerder verschenen van haar De grote weigering en de internationale bestseller Zelfverwoestingsboek. Haar interesse ligt bij alles wat afwijkt van de norm (en de kwantummechanica). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De ambassadeur]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645286/de-ambassadeur-jef-geeraerts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645286/de-ambassadeur-jef-geeraerts"/>
+        <updated>2025-09-06T07:10:57.985Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645286?aid=kb-online-bibliotheek&sid=17&dts=1757097735718&sig=09f45b734bce6749fe0f7f4b4cb51cb9c190cf9c165f2b7f8f28abd0370a7d61&width=320" alt="Omslag van 'De ambassadeur'" title="Omslag van 'De ambassadeur'">
+<p>Een Belgische ex-diplomaat in Laos houdt zich bezig met criminele activiteiten die wraakgevoelens oproepen.</p>]]></content>
         <author>
-            <name>Marian Donner</name>
+            <name>Jef Geeraerts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IJzer en eed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453704980/ijzer-en-eed-peter-gibbons</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453704980/ijzer-en-eed-peter-gibbons"/>
-        <updated>2025-09-04T07:12:35.657Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453704980?aid=kb-online-bibliotheek&sid=17&dts=1756926097565&sig=ba6987051523a16099060f3464771b5fb2b6e3b3bd9cb4b68023c3b7aa459730&width=320" alt="Omslag van 'IJzer en eed'" title="Omslag van 'IJzer en eed'">
-<p>989 na Christus. De droom van Alfred de Grote van een verenigd Engeland is werkelijkheid geworden dankzij zijn dochter Aethelfaed en kleinzoon, koning Aethelstan.  Na de dood van Erik Bloedbijl zijn de Vikingen verdreven uit York, en al twee generaties lang heerst er vrede tussen de Saksen en de Denen. Maar nu zint een nieuwe Vikingkrijgsheer, Olaf Tryggvason, op wraak voor de dood van Bloedbijl en het daaropvolgende bloedbad. Hij heeft zijn zinnen gezet op een nieuwe aanval op de Engelse kust. Samen met Skarde Wartooth vaart hij uit naar Saksisch land, op weg naar glorie, verovering en vergelding. Beornoth, een geharde en meedogenloze Saksische thegn, wordt ten strijde geroepen om zijn volk te beschermen tegen de nietsontziende Noorse indringers. Gedreven door een persoonlijke missie sluit hij zich aan bij het leger van Byrthnoth, heer van de oostelijke Saksen, in een wanhopige strijd tegen de bloeddorstige Vikingen. Beornoth moet zijn strijd met zichzelf overwinnen, brute aanvallen overleven en vrede sluiten met zijn tragische verleden.  Voor de fans van Bernard Cornwell, Simon Scarrow, Conn Iggulden en David Gemmell: een episch Saksisch avontuur vol veldslagen, Vikingen en heroïek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Cro-Magnon]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645243/cro-magnon-jef-geeraerts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645243/cro-magnon-jef-geeraerts"/>
+        <updated>2025-09-06T07:10:58.179Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645243?aid=kb-online-bibliotheek&sid=17&dts=1757089242541&sig=cb3a1e3ab16c36eef2725cb3ee165c716f1c4f8a17b1218afcb0ce29c3e3ae67&width=320" alt="Omslag van 'Cro-Magnon'" title="Omslag van 'Cro-Magnon'">
+<p>Een voormalige commissaris van de Antwerpse politie en zijn vriend raken in de Provence betrokken bij de moord op een als kluizenaar levende ex-oncoloog.</p>]]></content>
         <author>
-            <name>Peter Gibbons</name>
+            <name>Jef Geeraerts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ronja en de robot]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453705014/ronja-en-de-robot-marianne-busser---ron-schro-der</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453705014/ronja-en-de-robot-marianne-busser---ron-schro-der"/>
-        <updated>2025-09-04T07:12:35.905Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453705014?aid=kb-online-bibliotheek&sid=17&dts=1756895826252&sig=7b6e8174e583016ae9537bd049d51259048e0eafc9abac45e471fd6dd5ad226b&width=320" alt="Omslag van 'Ronja en de robot'" title="Omslag van 'Ronja en de robot'">
-<p>Ronja's moeder is uitvinder, en ze is ontzettend creatief. Er gaat geen dag voorbij zonder dat er iets gemaakt wordt in huis! Ze is al heel lang bezig met het maken van wel iets heel bijzonders: een robot. Maar dat gaat steeds mis! Dan besluit Ronja het ook eens te proberen... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Dossier K.]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645235/dossier-k--jef-geeraerts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645235/dossier-k--jef-geeraerts"/>
+        <updated>2025-09-06T07:10:58.392Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645235?aid=kb-online-bibliotheek&sid=17&dts=1757102841545&sig=d7b87aeb9d4c02ccea2d009ec07422cae75da59e0f58e8fbd7bd5f4fbc8a9af3&width=320" alt="Omslag van 'Dossier K.'" title="Omslag van 'Dossier K.'">
+<p>Commissaris Verstuyft van de politie in Antwerpen probeert met behulp van zijn gepensioneerde collega Vincke de moord op twee Albanezen op te lossen.</p>]]></content>
         <author>
-            <name>Marianne Busser</name>
-        </author>
-        <author>
-            <name>Ron Schröder</name>
+            <name>Jef Geeraerts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Op een kerstavond]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453705057/op-een-kerstavond-shari-low</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453705057/op-een-kerstavond-shari-low"/>
-        <updated>2025-09-04T07:12:36.111Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453705057?aid=kb-online-bibliotheek&sid=17&dts=1756890423289&sig=662a397c8a552599672e814be93b0bbce1d5ebcf161fd131edbe30f63d45f0c2&width=320" alt="Omslag van 'Op een kerstavond'" title="Omslag van 'Op een kerstavond'">
-<p>Drie vrouwen, drie decennia, drie kerstavonden die hun levens voorgoed veranderen...  Op kerstavond 1968 krijgt Cathy McLean onverwacht bezoek van de verloren liefde van haar leven en moet ze kiezen tussen de persoon die haar ooit verliet en de persoon die altijd is gebleven.  Op kerstavond 1993 is Cathy's dochter Helena dolblij wanneer ze hoort dat haar vriend op het punt staat haar ten huwelijk te vragen - tot een ingrijpende gebeurtenis ertoe leidt dat hij haar mogelijk niet een ring, maar een gebroken hart zal bezorgen.  Op kerstavond 2023 zet een schokkende ontdekking de wereld van Eve Quinn op zijn kop. Het enige cadeau dat Eve dit jaar wil, is de waarheid. Zou er een kerstwonder nodig zijn om generaties aan geheimen te ontrafelen? Een feestelijk verhaal over gecompliceerde families, onmogelijke keuzes en een onvergetelijke liefde die drie generaties beïnvloedt.  Voor de fans van Jojo Moyes, Beth Moran en Debbie Howells. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Op de helft]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645596/op-de-helft-cornald-maas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645596/op-de-helft-cornald-maas"/>
+        <updated>2025-09-06T07:10:58.595Z</updated>
+        <summary type="html"><![CDATA[bespiegelingen van (bijna)veertigers]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645596?aid=kb-online-bibliotheek&sid=17&dts=1757084102161&sig=8c084073eaaba0a2ef0ca9d8238a5f5c42b1a99da78c19a8a475b353ebf69aec&width=320" alt="Omslag van 'Op de helft'" title="Omslag van 'Op de helft'">
+<p>Het leven begint bij veertig. Maar intussen raast de tijd voort, lijkt de onbevangenheid te verdwijnen, en moeten er _ vóór het te laat is _ belangrijke beslissingen genomen worden over de toekomst. Rond het veertigste levensjaar komen ze onherroepelijk op: vragen en twijfels over ambities en oude idealen, werk, vriendschappen en de zorg om ouders. Wel of niet een carrièremove? Op de valreep toch nog kinderen? Wordt alles relatief omdat vader of moeder overlijdt? Heb je zelf nog tijd van leven? Cornald Maas voert in Op de helft openhartige gesprekken met uiteenlopende bekende (bijna)veertigers als Femke Halsema, Paul de Leeuw, Theo Maassen, Wim Kieft, Manuëla Kemp, Ruud Gullit, Viggo Waas, Laetitia Griffith, Hans Kesting, Humberto Tan, Erik van Muiswinkel en Ellen ten Damme. Ze spreken zich uit over hun generatie en filosoferen over hoop, liefde, dood en leven. Op de helft biedt inzicht _ en misschien zelfs troost _ aan iedereen die veertig is, was of wordt. Cornald Maas (1962) is schrijver, journalist, mediaspecialist en songfestivalcommentator. Hij schrijft voor Volkskrant magazine, Vrij Nederland en Linda. Eerder publiceerde hij Engelen zijn in de mode (1994), tv.nl (2001), en Nou en wow! Roem in Nederland (2004). De pers over Nou en wow!: Een bundel die leest als een scherp geschreven zoektocht naar oprechtheid in de wereld van glitter en glamour Esquire Over tv.nl: Het beste over televisie sinds Gerrit Komrij Martin Ros </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Shari Low</name>
+            <name>Cornald Maas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lang, heel lang geleden...]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453705073/lang--heel-lang-geleden----diverse-auteurs</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453705073/lang--heel-lang-geleden----diverse-auteurs"/>
-        <updated>2025-09-04T07:12:36.299Z</updated>
-        <summary type="html"><![CDATA[Volksverhalen verzameld door P. Pertuis]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453705073?aid=kb-online-bibliotheek&sid=17&dts=1756890543616&sig=c18c844fd550a9790b12bc22fc819474249316e29dd20ca842357ee18991d227&width=320" alt="Omslag van 'Lang, heel lang geleden...'" title="Omslag van 'Lang, heel lang geleden...'">
-<p>Elk land kent zijn eigen geschiedenis van volksverhalen die griezelend werden verteld in het donker bij flakkerend haardvuur... Het verhaal van Pieter Konijn, De goede ruil, De wolf en de zeven geitjes, De wonderlijke speelman, Broertje en zusje, De trouwe Johannes, De goede ruil, De blauwe Gerrit, De dolende Peelridder, De legende van het Solse gat, De verborgen schat van kasteel Ravenhorst, De witte juffer van Kwaderenoord, Het Amsveen, Het monster van Utrecht- de Basilisk, Het popje van de heks uit Bolsward, Het potje van de Witte Wieven, Het spook van de Zeedijk, Het spookship de Zeerob, Het vrouwtje van Stavoren, Hoe de stad Antwerpen aan zijn naam kwam, Holle Bolle Jan, Kaspar, Mariken van Nieumeghen, Old Minneke, Pater Langslaper, De heksenboom van Bladel, Het vuur van Doevere, De chineese nachtegaal, De stukgedanste schoenen, De gedaantewisselaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Verlies]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464557X/verlies-cornald-maas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464557X/verlies-cornald-maas"/>
+        <updated>2025-09-06T07:10:58.780Z</updated>
+        <summary type="html"><![CDATA[gesprekken met nabestaanden over hun dierbare overledenen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464557X?aid=kb-online-bibliotheek&sid=17&dts=1757096743614&sig=27fb910434b83299336ec9f434d67125246bf1617b98b50f8d2c5d6d0371b1cb&width=320" alt="Omslag van 'Verlies'" title="Omslag van 'Verlies'">
+<p>Wat is de invloed van de dood van een kind, ouder, geliefde of hartsvriend op je eigen leven? Slijt het verdriet naarmate de tijd verstrijkt, of juist niet? Levert de dood ook positieve ervaringen op? Geven die het leven misschien zelfs zin of betekenis? In Verlies spreken uiteenlopende bekende en minder bekende persoonlijkheden zich openhartig uit over het overlijden van een dierbare. Brigitte Kaandorp over haar beste vriend, de moeder van Frédérique Huydts over haar dochter, Jack Gelder over zijn vader: zij vertellen over het verlies waarmee iedereen vroeg of laat te maken krijgt. Actrice Susan Visser, die plotseling haar man verloor: Ik heb nooit gedacht: waarom ik? Eerder: waarom niet? Alsof de dood iets met eerlijkheid of rechtvaardigheid te maken heeft. Verlies is een bundel indringende, emotionerende verhalen voor iedereen die een dierbare verloor en daar soms nauwelijks nog vragen over krijgt, en voor iedereen die ervaren heeft dat de dood onlosmakelijk met het leven verbonden is _ misschien omdat het leven anders zo weinig zin heeft. Cornald Maas (1962) is schrijver, journalist, commentator en presentator van het wekelijkse avro-kunstprogramma Opium. Hij schrijft voor Volkskrant magazine en linda, en is een van de auteurs van de theatervoorstelling De afscheidsmonologen (première: najaar 2009). Eerder publiceerde hij onder meer tv.nl, Op de helft. Bespiegelingen van (bijna)veertigers en Trotse ouders. Over Op de helft: Op de helft is een uitnodiging aan de lezer om zelf de balans op te maken _ in welke levensfase deze zich ook bevindt. susan smit Tweehonderdveertig paginas gestileerd intimisme. hugo camps Over Trotse ouders: Ontroerende portretten van heel gewone mensen in een rijtjeshuis die trots zijn op het succes van hun kind _ maar er vaak ook lichtelijk verbaasd over zijn. esta Verbazend openhartige gesprekken, geschreven op zon levendige toon dat het lijkt alsof je er vlak naast zit. happinez </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Diverse Auteurs</name>
+            <name>Cornald Maas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een magisch paard én een supersonische rolstoel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453705103/een-magisch-paard-e-n-een-supersonische-rolstoel-yvette-den-brok---rouwendal---luxx-mertens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453705103/een-magisch-paard-e-n-een-supersonische-rolstoel-yvette-den-brok---rouwendal---luxx-mertens"/>
-        <updated>2025-09-04T07:12:36.738Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453705103?aid=kb-online-bibliotheek&sid=17&dts=1756969956394&sig=c02b55408335443028e65fbbc66aef0d2198d8738a470e03ddfb319f05e54c1e&width=320" alt="Omslag van 'Een magisch paard én een supersonische rolstoel'" title="Omslag van 'Een magisch paard én een supersonische rolstoel'">
-<p>Teun baalt van zijn rolstoel. Dat ding kan de stoep niet op en af en ook niet door het zand rijden. Daarom wil Teun een paard. Met een paard kan hij veel meer. Maar is dat wel een goed plan? En wat is er bij Teuns beste vriendin Pleun thuis aan de hand? Luxx Mertens is acht jaar. Zij weet wat kinderen van haar leeftijd willen lezen. Dat kan ze heel goed duidelijk maken. Yvette den Brok - Rouwendal is de oma van Luxx. Ze is kinderboekenschrijver en is haar hele leven al gehandicapt. Zij weet wat het is om in een rolstoel te rijden. Luxx en Yvette vormen dus de perfecte combinatie voor het schrijven van dit verhaal. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Uit elkaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645588/uit-elkaar-cornald-maas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645588/uit-elkaar-cornald-maas"/>
+        <updated>2025-09-06T07:10:59.026Z</updated>
+        <summary type="html"><![CDATA[gesprekken met kinderen van gescheiden ouders]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645588?aid=kb-online-bibliotheek&sid=17&dts=1757087340728&sig=5eeef9fbe9b32a405f750a70057951b4821fc4a3f9f9f0d7b5ed1966ecd2891c&width=320" alt="Omslag van 'Uit elkaar'" title="Omslag van 'Uit elkaar'">
+<p>Eén op de drie huwelijken loopt stuk. Maar kinderen van gescheiden ouders komen zelden aan het woord. In Uit elkaar spreken ze zich uit over de gevolgen van de echtscheiding voor hun eigen levens. Sommigen vertellen dat ze uit zijn op een voorbeeldig huwelijk. Anderen willen juist helemaal niet trouwen. Weer anderen besluiten geen kinderen op de wereld te zetten om ze zo eventueel echtscheidingsleed te besparen. Ze hebben last van verlatings- of bindingsangst, worstelen met loyaliteitsconflicten en missen hun vaders die elders nieuwe gezinnen stichtten. Wat ze vooral gemeen hebben: dat ze zich in hun emoties ontkend voelen, omdat hun nooit iets werd gevraagd. Uit elkaar is een bundel aangrijpende, confronterende verhalen over de impact die echtscheiding heeft op de levens van kinderen van gescheiden ouders. Cornald Maas (1962) is schrijver, journalist, commentator en presentator van het wekelijkse avro-kunstprogramma Opium. Hij schrijft voor Volkskrant magazine en linda. Eerder publiceerde hij onder meer Verlies. Gesprekken met nabestaanden over hun dierbare overledenen, Op de helft. Bespiegelingen van (bijna)veertigers en Trotse ouders. Uit elkaar zou verplichte lectuur moeten zijn voor alle ouders die overwegen uit elkaar te gaan. columnist elma drayer in trouw Over Op de helft: Op de helft is een uitnodiging aan de lezer om zelf de balans op te maken _ in welke levensfase deze zich ook bevindt. susan smit Over Verlies: De verhalen zijn aangrijpend maar ook positief. Ze steken een hart onder de riem: het leven gaat verder, hoe dan ook. algemeen dagblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Yvette den Brok – Rouwendal</name>
-        </author>
-        <author>
-            <name>Luxx Mertens</name>
+            <name>Cornald Maas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schaduwglans]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453705006/schaduwglans-henrie-tte-de-smet</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453705006/schaduwglans-henrie-tte-de-smet"/>
-        <updated>2025-09-04T07:12:36.973Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453705006?aid=kb-online-bibliotheek&sid=17&dts=1756969956817&sig=7454f430735fd9bed27216da2e520707c0015eec2450ac2035db53f3459673cd&width=320" alt="Omslag van 'Schaduwglans'" title="Omslag van 'Schaduwglans'">
-<p>Een satirisch en realistisch drama over ambities, liefde en de prijs van succes in de mediawereld. Met scherpe dialogen en soms absurde situaties legt dit verhaal de kwetsbaarheid bloot van hen die alles lijken te hebben - en tegelijkertijd alles dreigen te verliezen... SCHADUWGLANS neemt je mee achter de coulissen van de televisie-industrie, waar idealisme en cynisme elkaar kruisen. Voor Dagmar, een getalenteerde presentatrice, lijkt haar grote droom eindelijk werkelijkheid te worden. Na jaren van hard werken staat ze aan de vooravond van haar doorbraak. Haar programma's scoren hoge kijkcijfers en sponsors staan voor haar in de rij, maar achter de schermen ligt het web van verborgen agenda's, affaires en keiharde concurrentie op de loer. Gedreven door de liefde zoekt Dagmar tussen applaus en twijfel haar eigen draai. Henriëtte de Smet was gedurende 20 jaar televisiemaker. Tegenwoordig werkt zij als tekstschrijver en inmiddels heeft ze een aantal hedendaagse feelgoodromans en drie historische romans op haar naam. Schaduwglans is haar negende roman, met opnieuw een sterke vrouw in de hoofdrol. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het zusje van de bruid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464493X/het-zusje-van-de-bruid-joris-van-casteren</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464493X/het-zusje-van-de-bruid-joris-van-casteren"/>
+        <updated>2025-09-06T07:10:59.233Z</updated>
+        <summary type="html"><![CDATA[relaas van een onmogelijke liefde]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464493X?aid=kb-online-bibliotheek&sid=17&dts=1757083953595&sig=b15d4b4dba2d0e5b621451b5489e74bbe7eb5cbe66248a9b146c5f401b48dcd9&width=320" alt="Omslag van 'Het zusje van de bruid'" title="Omslag van 'Het zusje van de bruid'">
+<p>Een succesvolle journalist blikt terug op zijn vroegere liefdes. Vooral op zijn relatie met Luna, een veelbelovend kunstenaar en rijkeluisdochter.</p>]]></content>
         <author>
-            <name>Henriëtte de Smet</name>
+            <name>Joris van Casteren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jackal Highway]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45370493X/jackal-highway-iris-pinson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45370493X/jackal-highway-iris-pinson"/>
-        <updated>2025-09-04T07:12:37.241Z</updated>
-        <summary type="html"><![CDATA[Een sensuele, psychologisch gelaagde roman over controle, zelfbeeld en het verlangen naar echte verbinding.]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45370493X?aid=kb-online-bibliotheek&sid=17&dts=1756969957071&sig=ce3f23cf60682d3cc06fc882dc6b2bdbba1b38d7dfa45fa32455d868f1119eb6&width=320" alt="Omslag van 'Jackal Highway'" title="Omslag van 'Jackal Highway'">
-<p>Jackal Hayway Iris Pinson Een sensuele, psychologisch gelaagde roman over controle, zelfbeeld en het verlangen naar echte verbinding. Sanny is een lieve, onschuldige vrouw die verlangt naar liefde, vertrouwen en een thuis. Haar ontmoeting met Boris op de Zomerparty on the Beach lijkt het begin van iets moois. Hij is knap, zelfverzekerd en onweerstaanbaar, maar achter zijn charme schuilt een wereld die gevaarlijker is dan Sanny ooit had kunnen bedenken. Wat begint als een toevallige ontmoeting verandert al snel in een spel van macht en verleiding. In de tussentijd kiest Sanny voor een frisse start bij een innovatieve startup in Rotterdam. Ze hervindt haar kracht en sluit hechte vriendschappen met collega Quinn en haar onverwacht ontdekte nicht Esmee. Wanneer alles bij Sanny weer op rolletjes loopt, verschijnt Lorenzo: onweerstaanbaar, raadselachtig en gevaarlijk aantrekkelijk. Zijn aanwezigheid werkt als een stroomstoring in haar zorgvuldig opgebouwde bestaan, waarin Sanny dreigt te verdwijnen. Esmee en Quinn gaan op zoek en vinden een plek waar identiteit vloeibaar wordt en liefde een algoritme kan zijn. In deze beklemmende wereld vervagen de grenzen tussen verlangen en realiteit. Is Sanny nog te redden, of is ze voorgoed opgenomen in een systeem dat haar herschreven heeft? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[WikiLeaks]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644808/wikileaks-alexander-klo-pping</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644808/wikileaks-alexander-klo-pping"/>
+        <updated>2025-09-06T07:10:59.578Z</updated>
+        <summary type="html"><![CDATA[alles wat je niet mocht weten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644808?aid=kb-online-bibliotheek&sid=17&dts=1757094902331&sig=398ed909fc483a7f91dcc84d408c8313aade9ce24ae8e9b0740aefe96c2f691a&width=320" alt="Omslag van 'WikiLeaks'" title="Omslag van 'WikiLeaks'">
+<p>Ontstaangeschiedenis en achtergronden van de klokkenluiderssite WikiLeaks.</p>]]></content>
         <author>
-            <name>Iris Pinson</name>
+            <name>Alexander Klöpping</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De keizer van Gladness]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447153218/de-keizer-van-gladness-ocean-vuong</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447153218/de-keizer-van-gladness-ocean-vuong"/>
-        <updated>2025-09-04T07:12:38.764Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153218?aid=kb-online-bibliotheek&sid=17&dts=1756898718425&sig=ab912ab4d6de1f0b3fb23851be7993507b7158a7b877ab8f585f415974c414de&width=320" alt="Omslag van 'De keizer van Gladness'" title="Omslag van 'De keizer van Gladness'">
-<p>Op een late zomeravond staat de negentienjarige Hai op de rand van een brug in het stadje East Gladness, klaar om te springen. Dan hoort hij iemand aan de overkant van de rivier roepen. De stem is van Grazina, een bejaarde weduwe die aan dementie lijdt, en die hem weet te overtuigen een ander pad te kiezen. Ontheemd en zonder opties wordt hij noodgedwongen haar mantelzorger. In de loop van een jaar ontwikkelt het onwaarschijnlijke duo een levensveranderende band, gebaseerd op empathie, spirituele bezinning en hartzeer, met de kracht om Hai's relatie tot zichzelf, zijn familie en een gemeenschap op de rand van de afgrond te veranderen.  Langs de cycli van geschiedenis, herinnering en tijd, laat Ocean Vuong zien hoe liefde, arbeid en eenzaamheid de fundamenten vormen van het Amerikaanse leven. Centraal staat een gedurfde epische vertelling over wat het betekent om aan de rand van de samenleving te bestaan en de wonden onder ogen te zien die onze collectieve ziel blijven achtervolgen. Kenmerken van Vuong's schrijfstijl - het vermogen om rauwheid met elegantie te verweven door middel van tederheid - zijn volop aanwezig in dit verhaal over verlies, hoop en hoe ver we zouden gaan om een van de meest ongrijpbare zegeningen in het leven te krijgen: een tweede kans. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hangjongeren, 99 tips voor buurtbewoners en voorbijgangers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645111/hangjongeren--99-tips-voor-buurtbewoners-en-voorbijgangers-hans-kaldenbach</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645111/hangjongeren--99-tips-voor-buurtbewoners-en-voorbijgangers-hans-kaldenbach"/>
+        <updated>2025-09-06T07:10:59.776Z</updated>
+        <summary type="html"><![CDATA[het enige boek dat zich richt op mensen die geen machtspositie hebben en tóch jongeren willen aanspreken op hun gedrag]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645111?aid=kb-online-bibliotheek&sid=17&dts=1757084220307&sig=573d2a7264866489add4ad9309bb62af1ce6a859017021aefb400b58974b967f&width=320" alt="Omslag van 'Hangjongeren, 99 tips voor buurtbewoners en voorbijgangers'" title="Omslag van 'Hangjongeren, 99 tips voor buurtbewoners en voorbijgangers'">
+<p>Wat doet u als een hanggroep de hele nacht lawaai maakt? Wat doet u als jongeren elke dag rotzooi achterlaten? Wat als ze uw tuin vernielen of een vuurtje stoken in uw portiek? Als ze uw kinderen bedreigen? Als ze stenen naar u gooien? Hoe kunt u reageren als ze u uitschelden voor homo, teringhoer, kankerturk of kutmarokkaan? Wat kunt u doen als uw dochter niet meer langs een hanggroep durft? Kunt u iets doen als jongens s nachts fietsen in elkaar trappen of voorbijgangers lastigvallen? Hoe krijgt u een groep hangjongeren weg bij uw winkel? Wat mag je doen van de wet? Mag je fotos van ze maken? Mag je terugslaan? Mag je ze vastpakken? Mag je je gestolen fiets terugpakken? Wat moet u nóóit zeggen tegen hangjongeren, wat zijn gespreksgranaten? Dit is het enige boek dat zich richt op gewone burgers, op mensen die geen enkele macht hebben en toch jongeren willen aanspreken. Dit boek leest u niet, u verslindt het! Hans Kaldenbach is bekend van Doe maar gewoon. 99 tips voor het omgaan met Nederlanders, Respect! 99 tips voor het omgaan met jongeren in de straatcultuur en De A is van Amalia, die is allochtoon. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ocean Vuong</name>
+            <name>Hans Kaldenbach</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Witte chrysanten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444317538/witte-chrysanten-jan-siebelink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444317538/witte-chrysanten-jan-siebelink"/>
-        <updated>2025-09-04T07:12:43.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317538?aid=kb-online-bibliotheek&sid=17&dts=1756894583337&sig=a2b467d44c633270ed49416ee58988929696c074ec0d7ccc31ae1a33944568de&width=320" alt="Omslag van 'Witte chrysanten'" title="Omslag van 'Witte chrysanten'">
-<p>In dit autobiografisch debuutverhaal van Jan Siebelink uit 1975 laat een bloemenkweker zijn zoon bestellingen in de buurt rondbrengen.Nadat er herhaaldelijk vervelende voorvallen plaatsvinden tijdens die bezorgingen, besluit de vader ze zelf te leveren. Een levering aan de grote bloemenzaak Van Maanen loopt uit op een drama. De eigenaar stuurt de vader scheldend en tierend de winkel uit, ten aanzien van alle klanten. Als de zoon thuis hoort hoe zijn vader vernederd is, besluit hij om wraak te nemen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Bek dicht en dooreten!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644751/bek-dicht-en-dooreten--deborah-klaassen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644751/bek-dicht-en-dooreten--deborah-klaassen"/>
+        <updated>2025-09-06T07:10:59.974Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644751?aid=kb-online-bibliotheek&sid=17&dts=1757083953865&sig=cb36a5f26b534f2b24a249936b9b2b830973fd800e405e58c30a9a3766fbac56&width=320" alt="Omslag van 'Bek dicht en dooreten!'" title="Omslag van 'Bek dicht en dooreten!'">
+<p>Na haar eindexamen werkt een jonge vrouw als au pair bij een streng joods gezin in Londen.</p>]]></content>
         <author>
-            <name>Jan Siebelink</name>
+            <name>Deborah Klaassen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aan het einde van de oorlog]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442251394/aan-het-einde-van-de-oorlog-bert-natter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442251394/aan-het-einde-van-de-oorlog-bert-natter"/>
-        <updated>2025-09-04T07:12:44.208Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442251394?aid=kb-online-bibliotheek&sid=17&dts=1756912452890&sig=c9e7bd7578e14ae543ef23377b398881edccc44561f9df018d92119d97f2f904&width=320" alt="Omslag van 'Aan het einde van de oorlog'" title="Omslag van 'Aan het einde van de oorlog'">
-<p>De negenjarige Ernst, jongste zoon van ss-Obersturmführer Karl Zehlendorf, raakt vermist in de buurt van een concentratiekamp. Zijn broer Reinhart beweert Ernst te hebben achtergelaten aan de oever van het meer, waar ze aan het vissen waren. Terwijl de kanonnen van het naderende Russische Rode Leger in de verte al te horen zijn, wordt alles in het werk gesteld om de jongen te vinden: hij zal toch niet in het verraderlijke diepe meer verdwenen zijn? Of erger nog: in het concentratiekamp? Zonder te beseffen wat er gebeurde zijn bewakers en gevangenen getuige geweest van de verdwijning van Ernst, maar zullen zij vertellen wat ze hebben gezien? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hollandse luchten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645200/hollandse-luchten-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645200/hollandse-luchten-martin-bril"/>
+        <updated>2025-09-06T07:11:00.174Z</updated>
+        <summary type="html"><![CDATA[Amsterdamse miniaturen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645200?aid=kb-online-bibliotheek&sid=17&dts=1757088432032&sig=6be3bf6d3e72cf731cc4e8dee056e923ab049ae7e884cf3ef528029c5f4d7ac1&width=320" alt="Omslag van 'Hollandse luchten'" title="Omslag van 'Hollandse luchten'">
+<p>Columns over het hedendaagse leven van alledag in Amsterdam.</p>]]></content>
         <author>
-            <name>Bert Natter</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een frisse start]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448273454/een-frisse-start-jessica-redland</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448273454/een-frisse-start-jessica-redland"/>
-        <updated>2025-09-04T07:12:44.386Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448273454?aid=kb-online-bibliotheek&sid=17&dts=1756899373757&sig=ff5ee5880247ffbafece089469cb00cb9822d54e6b9d275f2a8a9936b63d22d0&width=320" alt="Omslag van 'Een frisse start'" title="Omslag van 'Een frisse start'">
-<p>Rosie heeft het gevoel dat er iets ontbreekt in haar leven.  Rosie vindt haar baan als manager van Willowdale Hall Paardrijschool & Paardensportcentrum geweldig, waar ze de paarden verzorgt en kinderen leert paardrijden. Ook vindt ze het heerlijk om met haar moeder samen te wonen in het prachtige Lake District, maar toch vraagt ze zich af hoe haar leven eruit zou hebben gezien als het anders was geweest. Wat als haar vader er was geweest om voor haar moeder te zorgen? En wat als ze zelf het geluk had gevonden?  Wanneer Hubert Cranleigh - de eigenaar van Willowdale Hall - ziek wordt, neemt zijn zoon Oliver de leiding over. Hij gedraagt zich chagrijnig en afstandelijk, en Rosie is woedend wanneer hij beweert niet te weten wie ze is. Vooral omdat ze een verleden hebben...  Rosies leven staat op een kantelpunt, maar met het nieuwe jaar komen er nieuwe kansen. Misschien is Rosies geluk toch dichterbij dan ze denkt. Durft ze de sprong te wagen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Donkere dagen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464509X/donkere-dagen-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464509X/donkere-dagen-martin-bril"/>
+        <updated>2025-09-06T07:11:00.528Z</updated>
+        <summary type="html"><![CDATA[nieuwe berichten uit het land]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464509X?aid=kb-online-bibliotheek&sid=17&dts=1757104421727&sig=3a8bac127b340cea760b01564bd18c0f175ec8b1c476770ba4c87f07d4dd73ca&width=320" alt="Omslag van 'Donkere dagen'" title="Omslag van 'Donkere dagen'">
+<p>Columns.</p>]]></content>
         <author>
-            <name>Jessica Redland</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het archief Jilles]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44454903X/het-archief-jilles-lisa-weeda</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44454903X/het-archief-jilles-lisa-weeda"/>
-        <updated>2025-09-04T07:12:44.607Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44454903X?aid=kb-online-bibliotheek&sid=17&dts=1756910461466&sig=f6f87f65e68a04f906419acba837858d76ffaf7238158942158070763bd59947&width=320" alt="Omslag van 'Het archief Jilles'" title="Omslag van 'Het archief Jilles'">
-<p>Het is een groot geluk: een archiefvondst die een dierbare dichterbij brengt. Het overkomt Lisa Weeda als ze archiefstukken in handen krijgt over het oorlogsverleden van haar grootvader Jilles. Ze wist wel dat er verhalen waren over zijn tijd in een Duits werkkamp, over zijn vlucht naar Zweden, zijn tijd als Engelandvaarder en in voormalig Nederlands-Indië, maar lang had ze geen tijd voor zijn verhaal.</p><p>Nu Jilles’ archief zich openbaart wordt het dan toch tijd, want hoe zat het eigenlijk met die geheimzinnige dingen over mannen? Is dat waarom haar grootvader tegen Lisa zei: ‘als je maar gelukkig bent,’ nadat haar ouders hem hadden verteld dat zij op vrouwen valt? Steeds dichter komt ze bij hem en ook bij het heden: ‘De geschiedenis heeft een hart nodig om weer in te kloppen.’ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Plat du jour]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464512X/plat-du-jour-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464512X/plat-du-jour-martin-bril"/>
+        <updated>2025-09-06T07:11:00.742Z</updated>
+        <summary type="html"><![CDATA[berichten uit Frankrijk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464512X?aid=kb-online-bibliotheek&sid=17&dts=1757084553636&sig=8a72b2a0f6c75c83c4ce9a92388937002c2e836488a5dbad6af6b2f49668a76e&width=320" alt="Omslag van 'Plat du jour'" title="Omslag van 'Plat du jour'">
+<p>Verhalen over het plattelandsleven in Frankrijk.</p>]]></content>
         <author>
-            <name>Lisa Weeda</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De zoon die alleen overbleef]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444317562/de-zoon-die-alleen-overbleef-corine-hartman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444317562/de-zoon-die-alleen-overbleef-corine-hartman"/>
-        <updated>2025-09-04T07:12:47.853Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317562?aid=kb-online-bibliotheek&sid=17&dts=1756896351190&sig=5c3af058a8bc2ae1873d17dadbae300b85774668496f1db2bf4ea2c325eeabb2&width=320" alt="Omslag van 'De zoon die alleen overbleef'" title="Omslag van 'De zoon die alleen overbleef'">
-<p>Het spookt in het kasteel, volgens mevrouw Van Wildenborch van kamer twee. De barones is licht dementerend, heel serieus wordt haar angst voor een silhouet in de nacht niet genomen. Ook niet door Eva Romeijn. Ze is vaak te vinden in de tot luxe zorghotel verbouwde vesting, waar haar goede vriend Winand en de andere  gasten hun laatste levensfase doorbrengen.Op een ochtend wordt er in de landschapstuin een dode aangetroffen. De gasten lijken allesbehalve verbaasd, de man was van hun leeftijd, en ‘we gaan allemaal een keer’, aldus de oudprofessor van kamer twee.Als er meer zorgelijke gebeurtenissen plaatsvinden in het normaal zo rustige, pittoreske Vorden, begint Eva in verledens te graven en ontdekt daar lang bewaarde geheimen. Maar kan ze ook meer onheil voorkomen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een plek onder de zon]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645154/een-plek-onder-de-zon-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645154/een-plek-onder-de-zon-martin-bril"/>
+        <updated>2025-09-06T07:11:00.949Z</updated>
+        <summary type="html"><![CDATA[muziekverhalen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645154?aid=kb-online-bibliotheek&sid=17&dts=1757103019109&sig=71ebca31dd568a01895d71f4b8e66c031e67109d9f7a0c46aa075ff709e9bb9e&width=320" alt="Omslag van 'Een plek onder de zon'" title="Omslag van 'Een plek onder de zon'">
+<p>Columns over muziek, vooral popmuziek uit de jaren zestig en zeventig.</p>]]></content>
         <author>
-            <name>Corine Hartman</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nieuwkomers in Hedgehog Hollow]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448832585/nieuwkomers-in-hedgehog-hollow-jessica-redland</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448832585/nieuwkomers-in-hedgehog-hollow-jessica-redland"/>
-        <updated>2025-09-05T07:13:02.676Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832585?aid=kb-online-bibliotheek&sid=17&dts=1757001357873&sig=3c48a74bcbafbf48e68af93911d5f9aa48237575deb45905f2c06da47cec54c0&width=320" alt="Omslag van 'Nieuwkomers in Hedgehog Hollow'" title="Omslag van 'Nieuwkomers in Hedgehog Hollow'">
-<p>Nieuwe egels, nieuwe uitdagingen...</p><p>De zon schijnt, de bloemen staan in bloei en Hedgehog Hollow opent officieel haar deuren. Voor Samantha, de trotse eigenaresse van dit bijzondere egelopvangcentrum, is het leven drukker dan ooit. Terwijl ze haar handen vol heeft aan de stroom nieuwe bewoners, probeert ze haar fulltime baan en ingewikkelde familiebanden te onderhouden. Durft ze onder ogen te zien dat ze misschien meer hooi op haar vork heeft genomen dan goed voor haar is?</p><p>Gelukkig heeft ze Josh aan haar zijde, de liefde van haar leven. Maar Josh heeft zijn eigen familieproblemen en wordt geconfronteerd met zijn verleden. Is hij bereid het ondenkbare te doen en zijn vader te vergeven?</p><p>Voor zowel Samantha als Josh is het een zomer vol groei en verandering. Kunnen ze hun verleden ooit echt loslaten?</p><p>Keer terug naar het prachtige Hedgehog Hollow in dit hartverwarmende verhaal van bestsellerauteur Jessica Redland - een opbeurend verhaal vol liefde, hoop en vergeving. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Haagse bluf en andere politieke verhalen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645170/haagse-bluf-en-andere-politieke-verhalen-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645170/haagse-bluf-en-andere-politieke-verhalen-martin-bril"/>
+        <updated>2025-09-06T07:11:01.156Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645170?aid=kb-online-bibliotheek&sid=17&dts=1757103024694&sig=e4ece0b622b05c5aa1cfae045baa87fb58eb4a4e632972e3e1ffb15d916995b6&width=320" alt="Omslag van 'Haagse bluf en andere politieke verhalen'" title="Omslag van 'Haagse bluf en andere politieke verhalen'">
+<p>Columns uit de jaren 2003-2007 over Nederlandse politiek en politici.</p>]]></content>
         <author>
-            <name>Jessica Redland</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moshi moshi]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444700161/moshi-moshi-banana-yoshimoto</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444700161/moshi-moshi-banana-yoshimoto"/>
-        <updated>2025-09-05T07:13:02.853Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444700161?aid=kb-online-bibliotheek&sid=17&dts=1757001179829&sig=bae1d6dc1b3a0c2df70fccbb7f08479b6e4a0f13d6dd47b61a6a4751518344f7&width=320" alt="Omslag van 'Moshi moshi'" title="Omslag van 'Moshi moshi'">
-<p>'Moshi moshi? Hallo?'  In mijn droom was ik aan het bellen. Ik zat in mijn kamer in het huis in Meguro en was uit alle macht aan het roepen. Alsof mijn leven ervan afhing. Ik dacht: als ik nu verbinding krijg, kan ik papa redden.'</p><p> Moshi moshi is een sfeervolle roman vol mysterieuze wendingen, van de auteur van de wereldwijd geliefde bestseller Kitchen.</p><p>In deze aangrijpende tragedie, die zich ontvouwt tot een ontroerend coming-of-age spookverhaal, brengt Yoshimoto opnieuw een betoverend eerbetoon aan de helende kracht van familie, gemeenschap en eten. Nu voor het eerst in Nederlandse vertaling.</p><p> Banana Yoshimoto  (1964), de pennaam van Mahoko Yoshimoto, is een van de meest gelezen en geliefde Japanse auteurs ter wereld.</p><p> Maarten Liebregts  (1984) vertaalde eerder werk van Mieko Kawakami, Toshikazu Kawaguchi en Emi Yagi. Hij is docent Japans aan de Volksuniversiteit Utrecht en de vaste vertaler van Banana Yoshimoto. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Evelien voor altijd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645014/evelien-voor-altijd-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645014/evelien-voor-altijd-martin-bril"/>
+        <updated>2025-09-06T07:11:01.348Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645014?aid=kb-online-bibliotheek&sid=17&dts=1757083840975&sig=a47870b63a1b5b63b382ddac4bf1d5f9be8e1669a78fe40a1a1e614e63f535c2&width=320" alt="Omslag van 'Evelien voor altijd'" title="Omslag van 'Evelien voor altijd'">
+<p>De perikelen van een welgestelde, maar onvoldane vrouw uit Amsterdam-Zuid.</p>]]></content>
         <author>
-            <name>Banana Yoshimoto</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De dorpskrant]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448832607/de-dorpskrant-alison-sherlock</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448832607/de-dorpskrant-alison-sherlock"/>
-        <updated>2025-09-05T07:13:03.060Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832607?aid=kb-online-bibliotheek&sid=17&dts=1757001098578&sig=22aa6344d6f0ef16daf641b2623f93efffbb3f7919f6836225a42d06ad4e6465&width=320" alt="Omslag van 'De dorpskrant'" title="Omslag van 'De dorpskrant'">
-<p>Kan Lucy het tij keren en het bedrijf van haar familie redden?</p><p>Feestbeest Lucy Conway moet Londen snel verlaten nadat ze voor de zoveelste keer verwikkeld is geraakt in een schandaal. Ze pakt haar koffers en ontsnapt naar het plattelandsdorpje Cranbridge om voor haar oom Frank te zorgen.</p><p>Maar het slaperige dorpje is niet meer zo idyllisch als ze zich herinnert. Tot overmaat van ramp staat haar ooms grote trots, The Cranbridge Times, op het punt failliet te gaan. Hoofdredacteur Tom Addison redt het niet alleen en heeft hulp nodig om de krant te redden.</p><p>Er volgt een lange, hete zomer vol nieuwe vriendschappen, tweede kansen en onverwachte liefdes. Samen met hun nieuwe hond kunnen Lucy en Tom misschien zelf een nieuwe start maken... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het leed dat liefde heet en andere taferelen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645146/het-leed-dat-liefde-heet-en-andere-taferelen-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645146/het-leed-dat-liefde-heet-en-andere-taferelen-martin-bril"/>
+        <updated>2025-09-06T07:11:01.554Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645146?aid=kb-online-bibliotheek&sid=17&dts=1757087550166&sig=45c97b605766bac62aac3eaca46f5d532efdf4dba37f44b5c906c6937d10e1c8&width=320" alt="Omslag van 'Het leed dat liefde heet en andere taferelen'" title="Omslag van 'Het leed dat liefde heet en andere taferelen'">
+<p>Schetsen over mislukte en voorbije liefdes.</p>]]></content>
         <author>
-            <name>Alison Sherlock</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The North Wind]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444317635/the-north-wind-alexandria-warwick</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444317635/the-north-wind-alexandria-warwick"/>
-        <updated>2025-09-05T07:13:03.250Z</updated>
-        <summary type="html"><![CDATA[Noordenwind]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317635?aid=kb-online-bibliotheek&sid=17&dts=1757001538621&sig=717d96d393157f0eb007bb8c2c29fb34cd65bd6b4479ece13c06f02808b38f16&width=320" alt="Omslag van 'The North Wind'" title="Omslag van 'The North Wind'">
-<p>LIMITED EDITION  Exclusieve brief van de auteur voor de Nederlandse en Vlaamse lezer!</p><p></p><p> The North Wind is het meeslepende eerste deel van De vier winden-serie en is geïnspireerd op klassieke sprookjes, zoals Beauty and the Beast, en de mythe van Hades en Persephone.</p><p></p><p>Wren uit Edgewood weet wat lijden is. Na de dood van haar ouders is het haar taak om zichzelf en haar jongere zus de strenge, eindeloze winter door te slepen, maar als de oude legendes kloppen blijft het niet lang meer veilig in de wereld om hen heen.Al driehonderd jaar is het land rondom Edgewood namelijk diep bevroren. De Schaduw, een magische afscheiding die het dorp beschermt tegen het Dodenrijk, wordt zwakker en zwakker. Alleen een huwelijk tussen een menselijke vrouw en de onsterfelijke heerser Noordenwind kan de Schaduw redden. Als Noordenwind zijn oog op Wrens zus laat vallen, is Wren tot alles bereid om haar te redden, zelfs als dat betekent dat ze zichzelf daarbij moet opofferen. Maar sterfelijk of niet, Wren zal niet zonder strijd ten onder gaan…</p><p></p><p>The North Wind is een must voor alle fans, en het begin van een onmisbare nieuwe serie voor de liefhebbers van auteurs als Sarah J. Maas en Rebecca Yarros. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Tout va bien]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645022/tout-va-bien-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645022/tout-va-bien-martin-bril"/>
+        <updated>2025-09-06T07:11:01.754Z</updated>
+        <summary type="html"><![CDATA[berichten uit Frankrijk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645022?aid=kb-online-bibliotheek&sid=17&dts=1757119311263&sig=5ecb683b644d4770312328ff746f227f6fdb4dd2c382039f99505881fbd73548&width=320" alt="Omslag van 'Tout va bien'" title="Omslag van 'Tout va bien'">
+<p>Columns over het leven in Frankrijk.</p>]]></content>
         <author>
-            <name>Alexandria Warwick</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wat je moet weten om het Midden-Oosten te begrijpen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444317481/wat-je-moet-weten-om-het-midden-oosten-te-begrijpen-koert-debeuf</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444317481/wat-je-moet-weten-om-het-midden-oosten-te-begrijpen-koert-debeuf"/>
-        <updated>2025-09-05T07:13:03.436Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317481?aid=kb-online-bibliotheek&sid=17&dts=1757003312420&sig=61f9bc371c1cc2d1e62839bf4fc5cc9986876b7ca6f85842e51209833b3e9ba4&width=320" alt="Omslag van 'Wat je moet weten om het Midden-Oosten te begrijpen'" title="Omslag van 'Wat je moet weten om het Midden-Oosten te begrijpen'">
-<p>Of het nu gaat over het conflict tussen Israël en Palestina, de spanningen tussen Iran en Saoedi-Arabië, de moeilijkheden rond het Turkse lidmaatschap van de Europese Unie, of oorlogen in Syrië en Jemen: het Midden-Oosten komt bijna dagelijks in het nieuws. De situatie in de regio lijkt dag in, dag uit complexer te worden. Waarom licht niemand eens toe hoe de vork in de steel zit?</p><p>Dat is precies wat Koert Debeuf in dit boek doet. Bondig en toegankelijk legt hij uit wat je moet weten om het Midden-Oosten te begrijpen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het verdwenen kruispunt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645189/het-verdwenen-kruispunt-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645189/het-verdwenen-kruispunt-martin-bril"/>
+        <updated>2025-09-06T07:11:01.947Z</updated>
+        <summary type="html"><![CDATA[berichten van het land]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645189?aid=kb-online-bibliotheek&sid=17&dts=1757083764778&sig=05c25b843b34f487439341cdd05e11e8ee0498f51df6bf9991b4f729ed113ef5&width=320" alt="Omslag van 'Het verdwenen kruispunt'" title="Omslag van 'Het verdwenen kruispunt'">
+<p>Bundel met veertig columns over het alledaagse leven zoals zich dat afspeelt op het Nederlandse platteland.</p>]]></content>
         <author>
-            <name>Koert Debeuf</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moord in Chianti]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448832593/moord-in-chianti-t-a--williams</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448832593/moord-in-chianti-t-a--williams"/>
-        <updated>2025-09-05T07:13:03.623Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832593?aid=kb-online-bibliotheek&sid=17&dts=1757001681207&sig=4dd52646c09da1043be3ff27f40f27c12198116cf9a3fa4bce5372d923faf8a9&width=320" alt="Omslag van 'Moord in Chianti'" title="Omslag van 'Moord in Chianti'">
-<p>Moord op klaarlichte dag...  Wanneer miljonair Rex Hunter dood wordt gevonden op de achtste hole van zijn prestigieuze golf- en countryclub in het prachtige Chianti, is het direct duidelijk dat het om een moordzaak gaat. Hunter was rijk, succesvol, maar niet door iedereen geliefd. De gepensioneerde detective Dan Armstrong vermoedt dus dat het opsporen van de moordenaar een hole-in-one zal zijn...  Als Dan en zijn trouwe viervoeter Oscar beginnen te graven in het leven van Hunter, ontdekken ze dat de man door vrijwel iedereen werd verafschuwd. Hij was een beruchte vrouwenversierder, een meedogenloze baas en een harteloze familieman - het lijkt erop dat niemand het erg vindt dat Hunter dood is. De lijst met mogelijke verdachten wordt steeds langer...  Dan is vastbesloten om deze sluwe moordenaar te pakken, maar het lijkt erop dat elk nieuw spoor doodloopt. Zal dit de eerste zaak zijn die Dan en Oscar niet kunnen oplossen?  Een splinternieuwe cozy crime-serie in het adembenemende Toscane - een dodelijk paradijs! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[C'est la vie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645006/c-est-la-vie-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645006/c-est-la-vie-martin-bril"/>
+        <updated>2025-09-06T07:11:02.345Z</updated>
+        <summary type="html"><![CDATA[berichten uit Frankrijk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645006?aid=kb-online-bibliotheek&sid=17&dts=1757085778181&sig=1430917c0d14fcf76f57b0d51d70a6bc1fdd4b1fa0253ab4177b5580fc41e16d&width=320" alt="Omslag van 'C'est la vie'" title="Omslag van 'C'est la vie'">
+<p>Columns over het leven van de schrijver met zijn gezin in een tweede huis in Frankrijk.</p>]]></content>
         <author>
-            <name>T.A. Williams</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het pensioenplan]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444611770/het-pensioenplan-sue-hincenbergs</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444611770/het-pensioenplan-sue-hincenbergs"/>
-        <updated>2025-09-05T07:13:03.929Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444611770?aid=kb-online-bibliotheek&sid=17&dts=1757005669331&sig=7369b04a7f3b13ba66830df6480907ea28079a731050ef26c8184e1f6400eda9&width=320" alt="Omslag van 'Het pensioenplan'" title="Omslag van 'Het pensioenplan'">
-<p>Pam en haar vriendinnen Nancy en Shalisa dromen van een gouden pensioen - tot hun echtgenoten al hun spaargeld verliezen aan een dubieuze investering. Als de vrouwen ontdekken dat hun mannen aanzienlijke levensverzekeringen hebben afgesloten, ontstaat er een nieuw pensioenplan. Eentje waarvoor ze een huurmoordenaar nodig hebben. Ondertussen werken de mannen aan hun eigen geheime pensioenplan. Als de zaken mis dreigen te gaan, komen ze erachter dat er een veel groter gevaar op de loer ligt: hun eigen echtgenotes. Weten de mannen op tijd hun pensioen - en hun eigen levens - veilig te stellen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het tekort en andere verhalen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645138/het-tekort-en-andere-verhalen-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645138/het-tekort-en-andere-verhalen-martin-bril"/>
+        <updated>2025-09-06T07:11:02.565Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645138?aid=kb-online-bibliotheek&sid=17&dts=1757139666587&sig=65790eb876b750c7766f0c4121d291f0e8c558aa5a6610a9f9c2b12f3d9d01a3&width=320" alt="Omslag van 'Het tekort en andere verhalen'" title="Omslag van 'Het tekort en andere verhalen'">
+<p>Verhalen en reportages.</p>]]></content>
         <author>
-            <name>Sue Hincenbergs</name>
+            <name>Martin Bril</name>
         </author>
     </entry>
 </feed>
