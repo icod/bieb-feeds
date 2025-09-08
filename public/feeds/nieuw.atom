@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-09-07T07:11:15.395Z</updated>
+    <updated>2025-09-08T07:13:36.124Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -92,18 +92,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WikiLeaks]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394644808/wikileaks-alexander-klo-pping</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394644808/wikileaks-alexander-klo-pping"/>
-        <updated>2025-09-06T07:10:59.578Z</updated>
-        <summary type="html"><![CDATA[alles wat je niet mocht weten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644808?aid=kb-online-bibliotheek&sid=17&dts=1757094902331&sig=398ed909fc483a7f91dcc84d408c8313aade9ce24ae8e9b0740aefe96c2f691a&width=320" alt="Omslag van 'WikiLeaks'" title="Omslag van 'WikiLeaks'">
-<p>Ontstaangeschiedenis en achtergronden van de klokkenluiderssite WikiLeaks.</p>]]></content>
-        <author>
-            <name>Alexander Klöpping</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hangjongeren, 99 tips voor buurtbewoners en voorbijgangers]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394645111/hangjongeren--99-tips-voor-buurtbewoners-en-voorbijgangers-hans-kaldenbach</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394645111/hangjongeren--99-tips-voor-buurtbewoners-en-voorbijgangers-hans-kaldenbach"/>
@@ -113,6 +101,18 @@
 <p>Wat doet u als een hanggroep de hele nacht lawaai maakt? Wat doet u als jongeren elke dag rotzooi achterlaten? Wat als ze uw tuin vernielen of een vuurtje stoken in uw portiek? Als ze uw kinderen bedreigen? Als ze stenen naar u gooien? Hoe kunt u reageren als ze u uitschelden voor homo, teringhoer, kankerturk of kutmarokkaan? Wat kunt u doen als uw dochter niet meer langs een hanggroep durft? Kunt u iets doen als jongens s nachts fietsen in elkaar trappen of voorbijgangers lastigvallen? Hoe krijgt u een groep hangjongeren weg bij uw winkel? Wat mag je doen van de wet? Mag je fotos van ze maken? Mag je terugslaan? Mag je ze vastpakken? Mag je je gestolen fiets terugpakken? Wat moet u nóóit zeggen tegen hangjongeren, wat zijn gespreksgranaten? Dit is het enige boek dat zich richt op gewone burgers, op mensen die geen enkele macht hebben en toch jongeren willen aanspreken. Dit boek leest u niet, u verslindt het! Hans Kaldenbach is bekend van Doe maar gewoon. 99 tips voor het omgaan met Nederlanders, Respect! 99 tips voor het omgaan met jongeren in de straatcultuur en De A is van Amalia, die is allochtoon. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Hans Kaldenbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passies van het brein]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394622898/passies-van-het-brein-margriet-sitskoorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394622898/passies-van-het-brein-margriet-sitskoorn"/>
+        <updated>2025-09-08T07:13:36.122Z</updated>
+        <summary type="html"><![CDATA[waarom zondigen zo verleidelijk is]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622898?aid=kb-online-bibliotheek&sid=17&dts=1757315615936&sig=82382dd463fd9508d907ec6eaeb078aa2cc493a537c8d25f1548d66dc59de8c3&width=320" alt="Omslag van 'Passies van het brein'" title="Omslag van 'Passies van het brein'">
+<p>Uitleg van de mechanismen in het menselijk brein aan de hand van de zeven hoofdzonden.</p>]]></content>
+        <author>
+            <name>Margriet Sitskoorn</name>
         </author>
     </entry>
     <entry>
@@ -128,15 +128,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het zusje van de bruid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39464493X/het-zusje-van-de-bruid-joris-van-casteren</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39464493X/het-zusje-van-de-bruid-joris-van-casteren"/>
-        <updated>2025-09-06T07:10:59.233Z</updated>
-        <summary type="html"><![CDATA[relaas van een onmogelijke liefde]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464493X?aid=kb-online-bibliotheek&sid=17&dts=1757083953595&sig=b15d4b4dba2d0e5b621451b5489e74bbe7eb5cbe66248a9b146c5f401b48dcd9&width=320" alt="Omslag van 'Het zusje van de bruid'" title="Omslag van 'Het zusje van de bruid'">
-<p>Een succesvolle journalist blikt terug op zijn vroegere liefdes. Vooral op zijn relatie met Luna, een veelbelovend kunstenaar en rijkeluisdochter.</p>]]></content>
+        <title type="html"><![CDATA[De schijn-élite van de valsemunters]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394622855/de-schijn-e-lite-van-de-valsemunters-martin-bosma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394622855/de-schijn-e-lite-van-de-valsemunters-martin-bosma"/>
+        <updated>2025-09-06T07:10:56.885Z</updated>
+        <summary type="html"><![CDATA[Drees, extreem rechts, de sixties, nuttige idioten, Groep Wilders en ik]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622855?aid=kb-online-bibliotheek&sid=17&dts=1757096906754&sig=b945c3b2c267c592f96ab05d3bc99b689cae3f54f233cba3ef56a745cd9576fa&width=320" alt="Omslag van 'De schijn-élite van de valsemunters'" title="Omslag van 'De schijn-élite van de valsemunters'">
+<p>Kritische visie van het PVV-Tweede Kamerlid op de Nederlandse politiek en samenleving.</p>]]></content>
         <author>
-            <name>Joris van Casteren</name>
+            <name>Martin Bosma</name>
         </author>
     </entry>
     <entry>
@@ -221,6 +221,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Het zusje van de bruid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464493X/het-zusje-van-de-bruid-joris-van-casteren</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464493X/het-zusje-van-de-bruid-joris-van-casteren"/>
+        <updated>2025-09-06T07:10:59.233Z</updated>
+        <summary type="html"><![CDATA[relaas van een onmogelijke liefde]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464493X?aid=kb-online-bibliotheek&sid=17&dts=1757083953595&sig=b15d4b4dba2d0e5b621451b5489e74bbe7eb5cbe66248a9b146c5f401b48dcd9&width=320" alt="Omslag van 'Het zusje van de bruid'" title="Omslag van 'Het zusje van de bruid'">
+<p>Een succesvolle journalist blikt terug op zijn vroegere liefdes. Vooral op zijn relatie met Luna, een veelbelovend kunstenaar en rijkeluisdochter.</p>]]></content>
+        <author>
+            <name>Joris van Casteren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WikiLeaks]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644808/wikileaks-alexander-klo-pping</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644808/wikileaks-alexander-klo-pping"/>
+        <updated>2025-09-06T07:10:59.578Z</updated>
+        <summary type="html"><![CDATA[alles wat je niet mocht weten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644808?aid=kb-online-bibliotheek&sid=17&dts=1757094902331&sig=398ed909fc483a7f91dcc84d408c8313aade9ce24ae8e9b0740aefe96c2f691a&width=320" alt="Omslag van 'WikiLeaks'" title="Omslag van 'WikiLeaks'">
+<p>Ontstaangeschiedenis en achtergronden van de klokkenluiderssite WikiLeaks.</p>]]></content>
+        <author>
+            <name>Alexander Klöpping</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bek dicht en dooreten!]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394644751/bek-dicht-en-dooreten--deborah-klaassen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394644751/bek-dicht-en-dooreten--deborah-klaassen"/>
@@ -232,15 +256,62 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De schijn-élite van de valsemunters]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394622855/de-schijn-e-lite-van-de-valsemunters-martin-bosma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394622855/de-schijn-e-lite-van-de-valsemunters-martin-bosma"/>
-        <updated>2025-09-06T07:10:56.885Z</updated>
-        <summary type="html"><![CDATA[Drees, extreem rechts, de sixties, nuttige idioten, Groep Wilders en ik]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622855?aid=kb-online-bibliotheek&sid=17&dts=1757096906754&sig=b945c3b2c267c592f96ab05d3bc99b689cae3f54f233cba3ef56a745cd9576fa&width=320" alt="Omslag van 'De schijn-élite van de valsemunters'" title="Omslag van 'De schijn-élite van de valsemunters'">
-<p>Kritische visie van het PVV-Tweede Kamerlid op de Nederlandse politiek en samenleving.</p>]]></content>
+        <title type="html"><![CDATA[Hollandse luchten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645200/hollandse-luchten-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645200/hollandse-luchten-martin-bril"/>
+        <updated>2025-09-06T07:11:00.174Z</updated>
+        <summary type="html"><![CDATA[Amsterdamse miniaturen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645200?aid=kb-online-bibliotheek&sid=17&dts=1757088432032&sig=6be3bf6d3e72cf731cc4e8dee056e923ab049ae7e884cf3ef528029c5f4d7ac1&width=320" alt="Omslag van 'Hollandse luchten'" title="Omslag van 'Hollandse luchten'">
+<p>Columns over het hedendaagse leven van alledag in Amsterdam.</p>]]></content>
         <author>
-            <name>Martin Bosma</name>
+            <name>Martin Bril</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donkere dagen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464509X/donkere-dagen-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464509X/donkere-dagen-martin-bril"/>
+        <updated>2025-09-06T07:11:00.528Z</updated>
+        <summary type="html"><![CDATA[nieuwe berichten uit het land]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464509X?aid=kb-online-bibliotheek&sid=17&dts=1757104421727&sig=3a8bac127b340cea760b01564bd18c0f175ec8b1c476770ba4c87f07d4dd73ca&width=320" alt="Omslag van 'Donkere dagen'" title="Omslag van 'Donkere dagen'">
+<p>Columns.</p>]]></content>
+        <author>
+            <name>Martin Bril</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plat du jour]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464512X/plat-du-jour-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464512X/plat-du-jour-martin-bril"/>
+        <updated>2025-09-06T07:11:00.742Z</updated>
+        <summary type="html"><![CDATA[berichten uit Frankrijk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464512X?aid=kb-online-bibliotheek&sid=17&dts=1757084553636&sig=8a72b2a0f6c75c83c4ce9a92388937002c2e836488a5dbad6af6b2f49668a76e&width=320" alt="Omslag van 'Plat du jour'" title="Omslag van 'Plat du jour'">
+<p>Verhalen over het plattelandsleven in Frankrijk.</p>]]></content>
+        <author>
+            <name>Martin Bril</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een plek onder de zon]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645154/een-plek-onder-de-zon-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645154/een-plek-onder-de-zon-martin-bril"/>
+        <updated>2025-09-06T07:11:00.949Z</updated>
+        <summary type="html"><![CDATA[muziekverhalen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645154?aid=kb-online-bibliotheek&sid=17&dts=1757103019109&sig=71ebca31dd568a01895d71f4b8e66c031e67109d9f7a0c46aa075ff709e9bb9e&width=320" alt="Omslag van 'Een plek onder de zon'" title="Omslag van 'Een plek onder de zon'">
+<p>Columns over muziek, vooral popmuziek uit de jaren zestig en zeventig.</p>]]></content>
+        <author>
+            <name>Martin Bril</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haagse bluf en andere politieke verhalen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645170/haagse-bluf-en-andere-politieke-verhalen-martin-bril</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645170/haagse-bluf-en-andere-politieke-verhalen-martin-bril"/>
+        <updated>2025-09-06T07:11:01.156Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645170?aid=kb-online-bibliotheek&sid=17&dts=1757103024694&sig=e4ece0b622b05c5aa1cfae045baa87fb58eb4a4e632972e3e1ffb15d916995b6&width=320" alt="Omslag van 'Haagse bluf en andere politieke verhalen'" title="Omslag van 'Haagse bluf en andere politieke verhalen'">
+<p>Columns uit de jaren 2003-2007 over Nederlandse politiek en politici.</p>]]></content>
+        <author>
+            <name>Martin Bril</name>
         </author>
     </entry>
     <entry>
@@ -285,75 +356,6 @@
         <summary type="html"><![CDATA[berichten van het land]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645189?aid=kb-online-bibliotheek&sid=17&dts=1757083764778&sig=05c25b843b34f487439341cdd05e11e8ee0498f51df6bf9991b4f729ed113ef5&width=320" alt="Omslag van 'Het verdwenen kruispunt'" title="Omslag van 'Het verdwenen kruispunt'">
 <p>Bundel met veertig columns over het alledaagse leven zoals zich dat afspeelt op het Nederlandse platteland.</p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C'est la vie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645006/c-est-la-vie-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645006/c-est-la-vie-martin-bril"/>
-        <updated>2025-09-06T07:11:02.345Z</updated>
-        <summary type="html"><![CDATA[berichten uit Frankrijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645006?aid=kb-online-bibliotheek&sid=17&dts=1757085778181&sig=1430917c0d14fcf76f57b0d51d70a6bc1fdd4b1fa0253ab4177b5580fc41e16d&width=320" alt="Omslag van 'C'est la vie'" title="Omslag van 'C'est la vie'">
-<p>Columns over het leven van de schrijver met zijn gezin in een tweede huis in Frankrijk.</p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het tekort en andere verhalen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645138/het-tekort-en-andere-verhalen-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645138/het-tekort-en-andere-verhalen-martin-bril"/>
-        <updated>2025-09-06T07:11:02.565Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645138?aid=kb-online-bibliotheek&sid=17&dts=1757139666587&sig=65790eb876b750c7766f0c4121d291f0e8c558aa5a6610a9f9c2b12f3d9d01a3&width=320" alt="Omslag van 'Het tekort en andere verhalen'" title="Omslag van 'Het tekort en andere verhalen'">
-<p>Verhalen en reportages.</p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liefde, seks & regen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645065/liefde--seks---regen-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645065/liefde--seks---regen-martin-bril"/>
-        <updated>2025-09-07T07:11:14.635Z</updated>
-        <summary type="html"><![CDATA[intieme berichten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645065?aid=kb-online-bibliotheek&sid=17&dts=1757184385855&sig=4557041c7d170c056da279b500c9e200b6b0912be67fc150871856914b4399da&width=320" alt="Omslag van 'Liefde, seks & regen'" title="Omslag van 'Liefde, seks & regen'">
-<p>Autobiografisch getinte columns.</p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jongensjaren]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394644972/jongensjaren-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394644972/jongensjaren-martin-bril"/>
-        <updated>2025-09-07T07:11:15.004Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644972?aid=kb-online-bibliotheek&sid=17&dts=1757182044895&sig=9493762b80a2045721b5f64cc6323ede2c56292dbe4f8564c4703d3e4c151a85&width=320" alt="Omslag van 'Jongensjaren'" title="Omslag van 'Jongensjaren'">
-<p>Korte verhalen over de jeugd van de auteur (1959-2009).</p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Au revoir]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39464574X/au-revoir-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39464574X/au-revoir-martin-bril"/>
-        <updated>2025-09-07T07:11:15.194Z</updated>
-        <summary type="html"><![CDATA[alle verhalen uit Frankrijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464574X?aid=kb-online-bibliotheek&sid=17&dts=1757219147891&sig=c3457f9b76fb6d86e24418604a8f9edd4afb42108a5ca1f56869421b4a7a5a1a&width=320" alt="Omslag van 'Au revoir'" title="Omslag van 'Au revoir'">
-<p>Ik was alleen in Parijs - altijd gevaarlijk. Tot Martin Brils geliefdste werk behoren zijn verhalen en stukken over Frankrijk. In Au revoir verschijnen alle verhalen en columns van Bril over Frankrijk voor het eerst in één band, inclusief nooit eerder gebundeld werk over het land dat voor Nederlanders nog altijd de populairste vakantiebestemming is. Martin Bril, die in Frankrijk een tweede huis bezat, kreeg er een nieuw vaderland bij. Een land met een prachtige hoofdstad, een rustiek maar ook weerbarstig platteland, nieuwe mensen, dieren en avonturen. Brils verhalen over Frankrijk zijn onovertroffen _ hij schrijft over zijn heimwee naar pindakaas, of verbaast zich over zijn landgenoten in den vreemde, met hun korte broeken en praktische kapsels. Maar vooral zijn liefdevolle portretten van degenen die hem in Frankrijk omringden maken zijn Franse verhalen immens geliefd bij zijn lezers: over zijn oude buurman opa, de boer en boerin, mevrouw Fraysse van zijn favoriete restaurant, en vooral over zijn eigen gezin. Op Brils bureau, de plaats waar hij zijn columns schreef, stond jarenlang een ansichtkaart van een klein Frans dorp, Lagarde-Enval, met boven de wereld een blauwe lucht. Nooit meer zal Martin Bril over Frankrijk schrijven. Wat blijft zijn Brils schitterende verhalen. Martin Bril schreef jarenlang een van de meest gelezen columns in Nederland, eerst in Het Parool, en vanaf 2001 ook in de Volkskrant. Bovendien schreef hij in Vrij Nederland een wekelijks feuilleton, Evelien, waarvan een succesvolle televisieserie werd gemaakt. Bril publiceerde tientallen boeken die steevast uitgroeiden tot bestsellers. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eigen benen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645227/eigen-benen-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645227/eigen-benen-martin-bril"/>
-        <updated>2025-09-07T07:11:15.394Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645227?aid=kb-online-bibliotheek&sid=17&dts=1757177553931&sig=195fecb9dfb72a24b1a0a874df67297b13ae40fcb6d94d66017f8fae88fa1aab&width=320" alt="Omslag van 'Eigen benen'" title="Omslag van 'Eigen benen'">
-<p>De perikelen van een welgestelde maar onvoldane vrouw uit Amsterdam-Zuid. Vervolg op 'Gelukkig niet'.</p>]]></content>
         <author>
             <name>Martin Bril</name>
         </author>
