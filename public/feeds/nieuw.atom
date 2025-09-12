@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-09-11T07:13:13.615Z</updated>
+    <updated>2025-09-12T07:12:48.267Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Echo uit het verleden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453890520/echo-uit-het-verleden-jara-lee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453890520/echo-uit-het-verleden-jara-lee"/>
+        <updated>2025-09-12T07:12:48.078Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453890520?aid=kb-online-bibliotheek&sid=17&dts=1757601158902&sig=96ffb8213757b5380ee4ed9b657133aed6cc055b404b44410d640c04498e62c7&width=320" alt="Omslag van 'Echo uit het verleden'" title="Omslag van 'Echo uit het verleden'">
+<p>Ilse voelde twee handen om haar keel. Het moest haar vader zijn, die ze papa moest noemen. Hij wilde vast weer vieze spelletjes met haar doen. Ze deed haar benen bij elkaar, schrok wakker en ze wilde gaan gillen. Maar de handen om haar keel hielden dat tegen. Ze begon te worstelen omdat ze ademnood had. 'Vervelend, klein misbaksel,' siste Vigo in het Spaans. 'Ik ben geen klein jongetje, maar bijna twee keer zo zwaar als jij bent.' Hij verplaatste zijn handen om de nek van zijn belager een beetje zodat hij zijn keel dicht kon houden met slechts één hand. Ilse is opgegroeid in Nederland zonder haar biologische ouders. Haar moeder leeft allang niet meer. Het enige wat ze weet is de naam van haar Franse vader. Als ze in Frankrijk op zoek is naar hem komt ze onderweg langs de olijvenboomgaard van Vigo. Hij zoekt mensen om te helpen bij het oogsten en Ilse biedt zich aan. Samen met zijn buren halen ze de oogst binnen. Een aantal bizarre gebeurtenissen zet het leven van deze mensen volledig op zijn kop. Zal Ilse ondanks alles toch haar vader nog vinden? Zullen haar vragen beantwoord worden? In deze meeslepende misdaadroman laat het schrijversduo Jara Lee zich van hun beste kant zien. Kenmerken zijn: vlotte dialogen, interessante persoonlijkheden en zorgvuldig opgebouwde spanning. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jara Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondergedoken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453889360/ondergedoken-jara-lee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453889360/ondergedoken-jara-lee"/>
+        <updated>2025-09-12T07:12:48.266Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453889360?aid=kb-online-bibliotheek&sid=17&dts=1757600676224&sig=d619fd9b8c5a7074ad04ea5cdeb0a738a67f55de160794bdb0ed284e60130408&width=320" alt="Omslag van 'Ondergedoken'" title="Omslag van 'Ondergedoken'">
+<p>Op het moment dat Bart van Schie zijn jeugdvriend Roy tegenkomt in de dierentuin worstelt hij met zijn privéleven. Zijn vriendin heeft hem de bons gegeven en tot overmaat van ramp verloor hij niet lang daarna zijn baan. In hun jeugd zijn Bart en Roy bijna slachtoffer geworden van de verdrinkingsdood, waarbij degene die hun gered heeft zelf om het leven is gekomen. Al enige tijd loopt Bart met het idee rond om de nabestaanden van zijn redder te bedanken voor het feit dat hij nog leeft. Voor Roy hoeft dit allemaal niet zo. Hij is het trauma nooit helemaal te boven gekomen. Als Bart uiteindelijk het adres van die familie weet te achterhalen is hij vastbesloten zijn plan door te zetten. Roy, die als vrachtwagenchauffeur werkzaam is, besluit om Bart mee te nemen naar Zuid-Frankrijk, waar die familie nu lijkt te wonen. Uiteindelijk blijken de zaken heel anders te liggen dan aanvankelijk gedacht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jara Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Klaar voor de start]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/447152939/klaar-voor-de-start-elsie-silver</id>
@@ -331,29 +353,6 @@
         <updated>2025-09-07T07:11:15.004Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644972?aid=kb-online-bibliotheek&sid=17&dts=1757182044895&sig=9493762b80a2045721b5f64cc6323ede2c56292dbe4f8564c4703d3e4c151a85&width=320" alt="Omslag van 'Jongensjaren'" title="Omslag van 'Jongensjaren'">
 <p>Korte verhalen over de jeugd van de auteur (1959-2009).</p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Au revoir]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39464574X/au-revoir-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39464574X/au-revoir-martin-bril"/>
-        <updated>2025-09-07T07:11:15.194Z</updated>
-        <summary type="html"><![CDATA[alle verhalen uit Frankrijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464574X?aid=kb-online-bibliotheek&sid=17&dts=1757219147891&sig=c3457f9b76fb6d86e24418604a8f9edd4afb42108a5ca1f56869421b4a7a5a1a&width=320" alt="Omslag van 'Au revoir'" title="Omslag van 'Au revoir'">
-<p>Ik was alleen in Parijs - altijd gevaarlijk. Tot Martin Brils geliefdste werk behoren zijn verhalen en stukken over Frankrijk. In Au revoir verschijnen alle verhalen en columns van Bril over Frankrijk voor het eerst in één band, inclusief nooit eerder gebundeld werk over het land dat voor Nederlanders nog altijd de populairste vakantiebestemming is. Martin Bril, die in Frankrijk een tweede huis bezat, kreeg er een nieuw vaderland bij. Een land met een prachtige hoofdstad, een rustiek maar ook weerbarstig platteland, nieuwe mensen, dieren en avonturen. Brils verhalen over Frankrijk zijn onovertroffen _ hij schrijft over zijn heimwee naar pindakaas, of verbaast zich over zijn landgenoten in den vreemde, met hun korte broeken en praktische kapsels. Maar vooral zijn liefdevolle portretten van degenen die hem in Frankrijk omringden maken zijn Franse verhalen immens geliefd bij zijn lezers: over zijn oude buurman opa, de boer en boerin, mevrouw Fraysse van zijn favoriete restaurant, en vooral over zijn eigen gezin. Op Brils bureau, de plaats waar hij zijn columns schreef, stond jarenlang een ansichtkaart van een klein Frans dorp, Lagarde-Enval, met boven de wereld een blauwe lucht. Nooit meer zal Martin Bril over Frankrijk schrijven. Wat blijft zijn Brils schitterende verhalen. Martin Bril schreef jarenlang een van de meest gelezen columns in Nederland, eerst in Het Parool, en vanaf 2001 ook in de Volkskrant. Bovendien schreef hij in Vrij Nederland een wekelijks feuilleton, Evelien, waarvan een succesvolle televisieserie werd gemaakt. Bril publiceerde tientallen boeken die steevast uitgroeiden tot bestsellers. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eigen benen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645227/eigen-benen-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645227/eigen-benen-martin-bril"/>
-        <updated>2025-09-07T07:11:15.394Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645227?aid=kb-online-bibliotheek&sid=17&dts=1757177553931&sig=195fecb9dfb72a24b1a0a874df67297b13ae40fcb6d94d66017f8fae88fa1aab&width=320" alt="Omslag van 'Eigen benen'" title="Omslag van 'Eigen benen'">
-<p>De perikelen van een welgestelde maar onvoldane vrouw uit Amsterdam-Zuid. Vervolg op 'Gelukkig niet'.</p>]]></content>
         <author>
             <name>Martin Bril</name>
         </author>
