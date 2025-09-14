@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-09-13T07:10:58.714Z</updated>
+    <updated>2025-09-14T07:11:28.661Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Waarom we politiek niet alleen aan politici kunnen overlaten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453920918/waarom-we-politiek-niet-alleen-aan-politici-kunnen-overlaten-eva-rovers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453920918/waarom-we-politiek-niet-alleen-aan-politici-kunnen-overlaten-eva-rovers"/>
+        <updated>2025-09-14T07:11:28.428Z</updated>
+        <summary type="html"><![CDATA[Pleidooi voor een Derde Kamer]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453920918?aid=kb-online-bibliotheek&sid=17&dts=1757833888250&sig=3fae84e3242149114c2ab04e8224ba48718dd7fc0df1ce357515c3f5d127afd7&width=320" alt="Omslag van 'Waarom we politiek niet alleen aan politici kunnen overlaten'" title="Omslag van 'Waarom we politiek niet alleen aan politici kunnen overlaten'">
+<p>De klimaatcrisis, het woningtekort, het stikstofprobleem, digitale veiligheid: onze grootste maatschappelijke vraagstukken worden maar niet opgelost. Ondertussen groeit de ontevredenheid over de politiek en winnen autocraten steeds meer terrein. Zo verdwijnt langzaam maar zeker het vertrouwen in de democratie. De oplossing? Niet minder, maar méér democratie. Meer democratie vind je in de Derde Kamer: een extra parlement bestaande uit inwoners zelf. Daar werken gelote burgers uit alle lagen van de samenleving samen aan nieuwe wetten. Zo hebben ze niet eens per vier jaar wat te zeggen, als ze een vakje rood mogen kleuren, maar structureel. Want democratie is te belangrijk om alleen aan politici over te laten. Reacties: ‘Eva Rovers toont de weg van machteloosheid naar macht.’ – Marcia Luyten ‘Prachtig pleidooi’ – Jeroen Smit ‘Scherpe vernieuwende ideeën’ – Liesbeth Staats ‘Lees het, verspreid het, predik het’ – Paul Verhaeghe </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Eva Rovers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wolf Gone Wild]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/453705049/wolf-gone-wild-juliette-cross</id>
@@ -41,6 +53,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Onbedaarlijke jachtlust]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453918816/onbedaarlijke-jachtlust-rosalie-van-someren</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453918816/onbedaarlijke-jachtlust-rosalie-van-someren"/>
+        <updated>2025-09-13T07:10:58.207Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453918816?aid=kb-online-bibliotheek&sid=17&dts=1757692385855&sig=6e955f8bbbaf84179a1087d89f35071c202479fcb4d1582442494da375a0f396&width=320" alt="Omslag van 'Onbedaarlijke jachtlust'" title="Omslag van 'Onbedaarlijke jachtlust'">
+<p>Chemiestudente, Vicky Vanderpoele, ontdekt dat ze naast mannen ook op vrouwen valt en een wereld gaat voor haar open. Nieuwsgierig nodigt ze haar hartsvriendin Melanie uit voor een logeerpartij. Ze besluiten een spelletjesavond te houden en Melanie daagt Vicky uit voor het spelen van haar spel: een Vossenjacht. Vicky twijfelt. Houdt Melanie haar aan het lijntje? Ze waagt de stap. Dan is Melanie plotseling spoorloos verdwenen en zit er voor Vicky niets anders op dan de Vossenjacht uit te spelen. Al snel komt ze erachter dat het spel haar stoutste verwachtingen overtreft. Voor Rosalie van Someren zijn de mensen om haar heen een onuitputtelijke bron van inspiratie voor haar ondeugende verhalen. Het liefst laat de vrolijke huisvrouw de hele wereld blozen. In haar dagdromen bedenkt ze talloze plots die ze uitwerkt tot een verhaal. Ze laat haar fantasieën de vrije loop en stelt al haar zintuigen open. Dat ze daarbij uit haar eigen ervaringen put, zal ze niet ontkennen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Rosalie van Someren</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lynn]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/453918808/lynn-jacob-vis</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/453918808/lynn-jacob-vis"/>
@@ -64,28 +87,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onbedaarlijke jachtlust]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453918816/onbedaarlijke-jachtlust-rosalie-van-someren</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453918816/onbedaarlijke-jachtlust-rosalie-van-someren"/>
-        <updated>2025-09-13T07:10:58.207Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453918816?aid=kb-online-bibliotheek&sid=17&dts=1757692385855&sig=6e955f8bbbaf84179a1087d89f35071c202479fcb4d1582442494da375a0f396&width=320" alt="Omslag van 'Onbedaarlijke jachtlust'" title="Omslag van 'Onbedaarlijke jachtlust'">
-<p>Chemiestudente, Vicky Vanderpoele, ontdekt dat ze naast mannen ook op vrouwen valt en een wereld gaat voor haar open. Nieuwsgierig nodigt ze haar hartsvriendin Melanie uit voor een logeerpartij. Ze besluiten een spelletjesavond te houden en Melanie daagt Vicky uit voor het spelen van haar spel: een Vossenjacht. Vicky twijfelt. Houdt Melanie haar aan het lijntje? Ze waagt de stap. Dan is Melanie plotseling spoorloos verdwenen en zit er voor Vicky niets anders op dan de Vossenjacht uit te spelen. Al snel komt ze erachter dat het spel haar stoutste verwachtingen overtreft. Voor Rosalie van Someren zijn de mensen om haar heen een onuitputtelijke bron van inspiratie voor haar ondeugende verhalen. Het liefst laat de vrolijke huisvrouw de hele wereld blozen. In haar dagdromen bedenkt ze talloze plots die ze uitwerkt tot een verhaal. Ze laat haar fantasieën de vrije loop en stelt al haar zintuigen open. Dat ze daarbij uit haar eigen ervaringen put, zal ze niet ontkennen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Rosalie van Someren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondergedoken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453889360/ondergedoken-jara-lee</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453889360/ondergedoken-jara-lee"/>
-        <updated>2025-09-12T07:12:48.266Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453889360?aid=kb-online-bibliotheek&sid=17&dts=1757600676224&sig=d619fd9b8c5a7074ad04ea5cdeb0a738a67f55de160794bdb0ed284e60130408&width=320" alt="Omslag van 'Ondergedoken'" title="Omslag van 'Ondergedoken'">
-<p>Op het moment dat Bart van Schie zijn jeugdvriend Roy tegenkomt in de dierentuin worstelt hij met zijn privéleven. Zijn vriendin heeft hem de bons gegeven en tot overmaat van ramp verloor hij niet lang daarna zijn baan. In hun jeugd zijn Bart en Roy bijna slachtoffer geworden van de verdrinkingsdood, waarbij degene die hun gered heeft zelf om het leven is gekomen. Al enige tijd loopt Bart met het idee rond om de nabestaanden van zijn redder te bedanken voor het feit dat hij nog leeft. Voor Roy hoeft dit allemaal niet zo. Hij is het trauma nooit helemaal te boven gekomen. Als Bart uiteindelijk het adres van die familie weet te achterhalen is hij vastbesloten zijn plan door te zetten. Roy, die als vrachtwagenchauffeur werkzaam is, besluit om Bart mee te nemen naar Zuid-Frankrijk, waar die familie nu lijkt te wonen. Uiteindelijk blijken de zaken heel anders te liggen dan aanvankelijk gedacht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jara Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Echo uit het verleden]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/453890520/echo-uit-het-verleden-jara-lee</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/453890520/echo-uit-het-verleden-jara-lee"/>
@@ -106,6 +107,31 @@
 <p>Valerie en Kai dachten eindelijk rust te hebben gevonden. Ver weg van hun verleden, op grote afstand van hun oude opdrachtgever, bouwen ze aan een nieuw leven met hun zoontje Milan. Maar hun geluk blijkt breekbaar, want het gevaar is dichterbij dan ooit. Wanneer hun grootste angst werkelijkheid wordt en hun gezin wordt bedreigd, moeten ze opnieuw vechten. Niet alleen tegen de vijanden die hen opjagen, maar ook tegen de demonen in henzelf. Kunnen ze hun duistere instincten bedwingen? Of zullen ze opnieuw alles verliezen in hun zoektocht naar gerechtigheid? In het zinderende slot van de Target-trilogie worden liefde en loyaliteit tot het uiterste getest. Een bloedstollende mix van spanning, verlangen en gevaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Hanneke Meier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondergedoken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453889360/ondergedoken-jara-lee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453889360/ondergedoken-jara-lee"/>
+        <updated>2025-09-12T07:12:48.266Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453889360?aid=kb-online-bibliotheek&sid=17&dts=1757600676224&sig=d619fd9b8c5a7074ad04ea5cdeb0a738a67f55de160794bdb0ed284e60130408&width=320" alt="Omslag van 'Ondergedoken'" title="Omslag van 'Ondergedoken'">
+<p>Op het moment dat Bart van Schie zijn jeugdvriend Roy tegenkomt in de dierentuin worstelt hij met zijn privéleven. Zijn vriendin heeft hem de bons gegeven en tot overmaat van ramp verloor hij niet lang daarna zijn baan. In hun jeugd zijn Bart en Roy bijna slachtoffer geworden van de verdrinkingsdood, waarbij degene die hun gered heeft zelf om het leven is gekomen. Al enige tijd loopt Bart met het idee rond om de nabestaanden van zijn redder te bedanken voor het feit dat hij nog leeft. Voor Roy hoeft dit allemaal niet zo. Hij is het trauma nooit helemaal te boven gekomen. Als Bart uiteindelijk het adres van die familie weet te achterhalen is hij vastbesloten zijn plan door te zetten. Roy, die als vrachtwagenchauffeur werkzaam is, besluit om Bart mee te nemen naar Zuid-Frankrijk, waar die familie nu lijkt te wonen. Uiteindelijk blijken de zaken heel anders te liggen dan aanvankelijk gedacht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jara Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De kolonie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45391716X/de-kolonie-audrey-magee---lette-vos</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45391716X/de-kolonie-audrey-magee---lette-vos"/>
+        <updated>2025-09-14T07:11:28.660Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45391716X?aid=kb-online-bibliotheek&sid=17&dts=1757825626029&sig=3bf0da5e3d3766edf80c272e954d60ae817b4ba249b6b044d4e5fb0297b80add&width=320" alt="Omslag van 'De kolonie'" title="Omslag van 'De kolonie'">
+<p>De kolonie is een ontluisterende fabel over twee buitenstaanders op een afgelegen Iers eiland tijdens The Troubles.</p><p> Het is de zomer van 1979. Een Engelse schilder, meneer Lloyd, op zoek naar rust die hem de ruimte geeft om te creëren, reist naar een klein eiland voor de westkust van Ierland. Hij weet niet dat er vlak achter hem een ​​Fransman volgt. Jean-Pierre Masson bezoekt het eiland al vele jaren en bestudeert de taal van de bewoners. Hij is fel beschermer van hun isolement en acht het essentieel voor het verkennen van zijn theorieën over taalbehoud en identiteit. Hij is dan ook niet blij met de aanwezigheid van de Engelse kunstschilder.</p><p> Beide mannen zijn naar het eiland gekomen om koste wat het kost de waarheid van deze plek te vatten – de een in zijn schilderijen, de ander door de taal ervan vast te leggen, de taal die hij hoopt te behouden. Maar de mensen op het eiland – van overgrootmoeder Bean Uí Fhloinn tot de vijftienjarige James, die een groot schildertalent blijkt te zijn – hebben hun eigen opvattingen over waarden en verlangens. Ondertussen wordt Ierland geteisterd door gewelddadige aanslagen van de IRA.</p><p> De kolonie stond op de longlist van de Booker Prize en op de shortlist van de Orwell Prize.</p><p> De pers over De kolonie:  ‘Wat een opluchting is het om een ​​roman te vinden die de lezer als een volwassene behandelt, die fris is zonder literaire mode na te jagen, provocerend maar niet schreeuwerig.’  The TIMES</p><p> ‘Een voortreffelijk uitgewerkt, gelaagd verhaal met de helderheid van een parabel.’  Kirkus review</p><p> Audrey Magee is een Ierse romanschrijfster. Ze werkte twaalf jaar als journaliste voor onder andere The Times en The Guardian. Haar debuutroman, The Undertaking, werd genomineerd voor de Women’s Prize for Fiction, de Franse Prix du Premier Roman, de Irish Book Awards en de Dublin Literary Award. De kolonie (2022) is haar tweede roman en stond onder andere op de longlist van de Booker Prize. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Audrey Magee</name>
+        </author>
+        <author>
+            <name>Lette Vos</name>
         </author>
     </entry>
     <entry>
@@ -205,6 +231,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WikiLeaks]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644808/wikileaks-alexander-klo-pping</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644808/wikileaks-alexander-klo-pping"/>
+        <updated>2025-09-06T07:10:59.578Z</updated>
+        <summary type="html"><![CDATA[alles wat je niet mocht weten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644808?aid=kb-online-bibliotheek&sid=17&dts=1757094902331&sig=398ed909fc483a7f91dcc84d408c8313aade9ce24ae8e9b0740aefe96c2f691a&width=320" alt="Omslag van 'WikiLeaks'" title="Omslag van 'WikiLeaks'">
+<p>Ontstaangeschiedenis en achtergronden van de klokkenluiderssite WikiLeaks.</p>]]></content>
+        <author>
+            <name>Alexander Klöpping</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hangjongeren, 99 tips voor buurtbewoners en voorbijgangers]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394645111/hangjongeren--99-tips-voor-buurtbewoners-en-voorbijgangers-hans-kaldenbach</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394645111/hangjongeren--99-tips-voor-buurtbewoners-en-voorbijgangers-hans-kaldenbach"/>
@@ -217,143 +255,108 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Passies van het brein]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394622898/passies-van-het-brein-margriet-sitskoorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394622898/passies-van-het-brein-margriet-sitskoorn"/>
-        <updated>2025-09-08T07:13:36.122Z</updated>
-        <summary type="html"><![CDATA[waarom zondigen zo verleidelijk is]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622898?aid=kb-online-bibliotheek&sid=17&dts=1757315615936&sig=82382dd463fd9508d907ec6eaeb078aa2cc493a537c8d25f1548d66dc59de8c3&width=320" alt="Omslag van 'Passies van het brein'" title="Omslag van 'Passies van het brein'">
-<p>Uitleg van de mechanismen in het menselijk brein aan de hand van de zeven hoofdzonden.</p>]]></content>
+        <title type="html"><![CDATA[De vrije wil bestaat niet]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394622960/de-vrije-wil-bestaat-niet-victor-lamme</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394622960/de-vrije-wil-bestaat-niet-victor-lamme"/>
+        <updated>2025-09-06T07:10:56.594Z</updated>
+        <summary type="html"><![CDATA[over wie er echt de baas is in het brein]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622960?aid=kb-online-bibliotheek&sid=17&dts=1757089522078&sig=82b0e9319ee05c3221d85064e6541454095984f6a7dc39a71b266415431fdd64&width=320" alt="Omslag van 'De vrije wil bestaat niet'" title="Omslag van 'De vrije wil bestaat niet'">
+<p>Onderzoek aan de hand van talrijke voorbeelden naar de mate waarin de vrije wil het menselijk gedrag bepaalt.</p>]]></content>
         <author>
-            <name>Margriet Sitskoorn</name>
+            <name>Victor Lamme</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bek dicht en dooreten!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394644751/bek-dicht-en-dooreten--deborah-klaassen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394644751/bek-dicht-en-dooreten--deborah-klaassen"/>
-        <updated>2025-09-06T07:10:59.974Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644751?aid=kb-online-bibliotheek&sid=17&dts=1757083953865&sig=cb36a5f26b534f2b24a249936b9b2b830973fd800e405e58c30a9a3766fbac56&width=320" alt="Omslag van 'Bek dicht en dooreten!'" title="Omslag van 'Bek dicht en dooreten!'">
-<p>Na haar eindexamen werkt een jonge vrouw als au pair bij een streng joods gezin in Londen.</p>]]></content>
+        <title type="html"><![CDATA[Het zusje van de bruid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464493X/het-zusje-van-de-bruid-joris-van-casteren</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464493X/het-zusje-van-de-bruid-joris-van-casteren"/>
+        <updated>2025-09-06T07:10:59.233Z</updated>
+        <summary type="html"><![CDATA[relaas van een onmogelijke liefde]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464493X?aid=kb-online-bibliotheek&sid=17&dts=1757083953595&sig=b15d4b4dba2d0e5b621451b5489e74bbe7eb5cbe66248a9b146c5f401b48dcd9&width=320" alt="Omslag van 'Het zusje van de bruid'" title="Omslag van 'Het zusje van de bruid'">
+<p>Een succesvolle journalist blikt terug op zijn vroegere liefdes. Vooral op zijn relatie met Luna, een veelbelovend kunstenaar en rijkeluisdochter.</p>]]></content>
         <author>
-            <name>Deborah Klaassen</name>
+            <name>Joris van Casteren</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hollandse luchten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645200/hollandse-luchten-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645200/hollandse-luchten-martin-bril"/>
-        <updated>2025-09-06T07:11:00.174Z</updated>
-        <summary type="html"><![CDATA[Amsterdamse miniaturen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645200?aid=kb-online-bibliotheek&sid=17&dts=1757088432032&sig=6be3bf6d3e72cf731cc4e8dee056e923ab049ae7e884cf3ef528029c5f4d7ac1&width=320" alt="Omslag van 'Hollandse luchten'" title="Omslag van 'Hollandse luchten'">
-<p>Columns over het hedendaagse leven van alledag in Amsterdam.</p>]]></content>
+        <title type="html"><![CDATA[De PG]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645308/de-pg-jef-geeraerts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645308/de-pg-jef-geeraerts"/>
+        <updated>2025-09-06T07:10:57.105Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645308?aid=kb-online-bibliotheek&sid=17&dts=1757083953526&sig=10b9a9204d19e79a4600b1fdf35beb10f6a55ba98525658c85c32798ed882d88&width=320" alt="Omslag van 'De PG'" title="Omslag van 'De PG'">
+<p>Een Belgische procureur-generaal die door leden van het Opus Dei geschaduwd en gechanteerd wordt, probeert zich via connecties uit de onderwereld van zijn afpersers te ontdoen.</p>]]></content>
         <author>
-            <name>Martin Bril</name>
+            <name>Jef Geeraerts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Donkere dagen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39464509X/donkere-dagen-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39464509X/donkere-dagen-martin-bril"/>
-        <updated>2025-09-06T07:11:00.528Z</updated>
-        <summary type="html"><![CDATA[nieuwe berichten uit het land]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464509X?aid=kb-online-bibliotheek&sid=17&dts=1757104421727&sig=3a8bac127b340cea760b01564bd18c0f175ec8b1c476770ba4c87f07d4dd73ca&width=320" alt="Omslag van 'Donkere dagen'" title="Omslag van 'Donkere dagen'">
-<p>Columns.</p>]]></content>
+        <title type="html"><![CDATA[Geld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645251/geld-jef-geeraerts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645251/geld-jef-geeraerts"/>
+        <updated>2025-09-06T07:10:57.315Z</updated>
+        <summary type="html"><![CDATA[roman noir]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645251?aid=kb-online-bibliotheek&sid=17&dts=1757083954213&sig=5b6d137b2651d33a1fc1abb20ad960690c49ed367b7c74e4f5232fe7237a2c92&width=320" alt="Omslag van 'Geld'" title="Omslag van 'Geld'">
+<p>Op de dag dat de knappe Pearl een relatie aangaat met een hedonistische rentenier, gaat zijn zakenpartner er met zijn geld vandoor.</p>]]></content>
         <author>
-            <name>Martin Bril</name>
+            <name>Jef Geeraerts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plat du jour]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39464512X/plat-du-jour-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39464512X/plat-du-jour-martin-bril"/>
-        <updated>2025-09-06T07:11:00.742Z</updated>
-        <summary type="html"><![CDATA[berichten uit Frankrijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464512X?aid=kb-online-bibliotheek&sid=17&dts=1757084553636&sig=8a72b2a0f6c75c83c4ce9a92388937002c2e836488a5dbad6af6b2f49668a76e&width=320" alt="Omslag van 'Plat du jour'" title="Omslag van 'Plat du jour'">
-<p>Verhalen over het plattelandsleven in Frankrijk.</p>]]></content>
+        <title type="html"><![CDATA[Cro-Magnon]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645243/cro-magnon-jef-geeraerts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645243/cro-magnon-jef-geeraerts"/>
+        <updated>2025-09-06T07:10:58.179Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645243?aid=kb-online-bibliotheek&sid=17&dts=1757089242541&sig=cb3a1e3ab16c36eef2725cb3ee165c716f1c4f8a17b1218afcb0ce29c3e3ae67&width=320" alt="Omslag van 'Cro-Magnon'" title="Omslag van 'Cro-Magnon'">
+<p>Een voormalige commissaris van de Antwerpse politie en zijn vriend raken in de Provence betrokken bij de moord op een als kluizenaar levende ex-oncoloog.</p>]]></content>
         <author>
-            <name>Martin Bril</name>
+            <name>Jef Geeraerts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een plek onder de zon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645154/een-plek-onder-de-zon-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645154/een-plek-onder-de-zon-martin-bril"/>
-        <updated>2025-09-06T07:11:00.949Z</updated>
-        <summary type="html"><![CDATA[muziekverhalen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645154?aid=kb-online-bibliotheek&sid=17&dts=1757103019109&sig=71ebca31dd568a01895d71f4b8e66c031e67109d9f7a0c46aa075ff709e9bb9e&width=320" alt="Omslag van 'Een plek onder de zon'" title="Omslag van 'Een plek onder de zon'">
-<p>Columns over muziek, vooral popmuziek uit de jaren zestig en zeventig.</p>]]></content>
+        <title type="html"><![CDATA[Dossier K.]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645235/dossier-k--jef-geeraerts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645235/dossier-k--jef-geeraerts"/>
+        <updated>2025-09-06T07:10:58.392Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645235?aid=kb-online-bibliotheek&sid=17&dts=1757102841545&sig=d7b87aeb9d4c02ccea2d009ec07422cae75da59e0f58e8fbd7bd5f4fbc8a9af3&width=320" alt="Omslag van 'Dossier K.'" title="Omslag van 'Dossier K.'">
+<p>Commissaris Verstuyft van de politie in Antwerpen probeert met behulp van zijn gepensioneerde collega Vincke de moord op twee Albanezen op te lossen.</p>]]></content>
         <author>
-            <name>Martin Bril</name>
+            <name>Jef Geeraerts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haagse bluf en andere politieke verhalen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645170/haagse-bluf-en-andere-politieke-verhalen-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645170/haagse-bluf-en-andere-politieke-verhalen-martin-bril"/>
-        <updated>2025-09-06T07:11:01.156Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645170?aid=kb-online-bibliotheek&sid=17&dts=1757103024694&sig=e4ece0b622b05c5aa1cfae045baa87fb58eb4a4e632972e3e1ffb15d916995b6&width=320" alt="Omslag van 'Haagse bluf en andere politieke verhalen'" title="Omslag van 'Haagse bluf en andere politieke verhalen'">
-<p>Columns uit de jaren 2003-2007 over Nederlandse politiek en politici.</p>]]></content>
+        <title type="html"><![CDATA[Op de helft]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645596/op-de-helft-cornald-maas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645596/op-de-helft-cornald-maas"/>
+        <updated>2025-09-06T07:10:58.595Z</updated>
+        <summary type="html"><![CDATA[bespiegelingen van (bijna)veertigers]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645596?aid=kb-online-bibliotheek&sid=17&dts=1757084102161&sig=8c084073eaaba0a2ef0ca9d8238a5f5c42b1a99da78c19a8a475b353ebf69aec&width=320" alt="Omslag van 'Op de helft'" title="Omslag van 'Op de helft'">
+<p>Het leven begint bij veertig. Maar intussen raast de tijd voort, lijkt de onbevangenheid te verdwijnen, en moeten er _ vóór het te laat is _ belangrijke beslissingen genomen worden over de toekomst. Rond het veertigste levensjaar komen ze onherroepelijk op: vragen en twijfels over ambities en oude idealen, werk, vriendschappen en de zorg om ouders. Wel of niet een carrièremove? Op de valreep toch nog kinderen? Wordt alles relatief omdat vader of moeder overlijdt? Heb je zelf nog tijd van leven? Cornald Maas voert in Op de helft openhartige gesprekken met uiteenlopende bekende (bijna)veertigers als Femke Halsema, Paul de Leeuw, Theo Maassen, Wim Kieft, Manuëla Kemp, Ruud Gullit, Viggo Waas, Laetitia Griffith, Hans Kesting, Humberto Tan, Erik van Muiswinkel en Ellen ten Damme. Ze spreken zich uit over hun generatie en filosoferen over hoop, liefde, dood en leven. Op de helft biedt inzicht _ en misschien zelfs troost _ aan iedereen die veertig is, was of wordt. Cornald Maas (1962) is schrijver, journalist, mediaspecialist en songfestivalcommentator. Hij schrijft voor Volkskrant magazine, Vrij Nederland en Linda. Eerder publiceerde hij Engelen zijn in de mode (1994), tv.nl (2001), en Nou en wow! Roem in Nederland (2004). De pers over Nou en wow!: Een bundel die leest als een scherp geschreven zoektocht naar oprechtheid in de wereld van glitter en glamour Esquire Over tv.nl: Het beste over televisie sinds Gerrit Komrij Martin Ros </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Martin Bril</name>
+            <name>Cornald Maas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evelien voor altijd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645014/evelien-voor-altijd-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645014/evelien-voor-altijd-martin-bril"/>
-        <updated>2025-09-06T07:11:01.348Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645014?aid=kb-online-bibliotheek&sid=17&dts=1757083840975&sig=a47870b63a1b5b63b382ddac4bf1d5f9be8e1669a78fe40a1a1e614e63f535c2&width=320" alt="Omslag van 'Evelien voor altijd'" title="Omslag van 'Evelien voor altijd'">
-<p>De perikelen van een welgestelde, maar onvoldane vrouw uit Amsterdam-Zuid.</p>]]></content>
+        <title type="html"><![CDATA[Verlies]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464557X/verlies-cornald-maas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464557X/verlies-cornald-maas"/>
+        <updated>2025-09-06T07:10:58.780Z</updated>
+        <summary type="html"><![CDATA[gesprekken met nabestaanden over hun dierbare overledenen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464557X?aid=kb-online-bibliotheek&sid=17&dts=1757096743614&sig=27fb910434b83299336ec9f434d67125246bf1617b98b50f8d2c5d6d0371b1cb&width=320" alt="Omslag van 'Verlies'" title="Omslag van 'Verlies'">
+<p>Wat is de invloed van de dood van een kind, ouder, geliefde of hartsvriend op je eigen leven? Slijt het verdriet naarmate de tijd verstrijkt, of juist niet? Levert de dood ook positieve ervaringen op? Geven die het leven misschien zelfs zin of betekenis? In Verlies spreken uiteenlopende bekende en minder bekende persoonlijkheden zich openhartig uit over het overlijden van een dierbare. Brigitte Kaandorp over haar beste vriend, de moeder van Frédérique Huydts over haar dochter, Jack Gelder over zijn vader: zij vertellen over het verlies waarmee iedereen vroeg of laat te maken krijgt. Actrice Susan Visser, die plotseling haar man verloor: Ik heb nooit gedacht: waarom ik? Eerder: waarom niet? Alsof de dood iets met eerlijkheid of rechtvaardigheid te maken heeft. Verlies is een bundel indringende, emotionerende verhalen voor iedereen die een dierbare verloor en daar soms nauwelijks nog vragen over krijgt, en voor iedereen die ervaren heeft dat de dood onlosmakelijk met het leven verbonden is _ misschien omdat het leven anders zo weinig zin heeft. Cornald Maas (1962) is schrijver, journalist, commentator en presentator van het wekelijkse avro-kunstprogramma Opium. Hij schrijft voor Volkskrant magazine en linda, en is een van de auteurs van de theatervoorstelling De afscheidsmonologen (première: najaar 2009). Eerder publiceerde hij onder meer tv.nl, Op de helft. Bespiegelingen van (bijna)veertigers en Trotse ouders. Over Op de helft: Op de helft is een uitnodiging aan de lezer om zelf de balans op te maken _ in welke levensfase deze zich ook bevindt. susan smit Tweehonderdveertig paginas gestileerd intimisme. hugo camps Over Trotse ouders: Ontroerende portretten van heel gewone mensen in een rijtjeshuis die trots zijn op het succes van hun kind _ maar er vaak ook lichtelijk verbaasd over zijn. esta Verbazend openhartige gesprekken, geschreven op zon levendige toon dat het lijkt alsof je er vlak naast zit. happinez </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Martin Bril</name>
+            <name>Cornald Maas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het leed dat liefde heet en andere taferelen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645146/het-leed-dat-liefde-heet-en-andere-taferelen-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645146/het-leed-dat-liefde-heet-en-andere-taferelen-martin-bril"/>
-        <updated>2025-09-06T07:11:01.554Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645146?aid=kb-online-bibliotheek&sid=17&dts=1757087550166&sig=45c97b605766bac62aac3eaca46f5d532efdf4dba37f44b5c906c6937d10e1c8&width=320" alt="Omslag van 'Het leed dat liefde heet en andere taferelen'" title="Omslag van 'Het leed dat liefde heet en andere taferelen'">
-<p>Schetsen over mislukte en voorbije liefdes.</p>]]></content>
+        <title type="html"><![CDATA[Uit elkaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645588/uit-elkaar-cornald-maas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645588/uit-elkaar-cornald-maas"/>
+        <updated>2025-09-06T07:10:59.026Z</updated>
+        <summary type="html"><![CDATA[gesprekken met kinderen van gescheiden ouders]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645588?aid=kb-online-bibliotheek&sid=17&dts=1757087340728&sig=5eeef9fbe9b32a405f750a70057951b4821fc4a3f9f9f0d7b5ed1966ecd2891c&width=320" alt="Omslag van 'Uit elkaar'" title="Omslag van 'Uit elkaar'">
+<p>Eén op de drie huwelijken loopt stuk. Maar kinderen van gescheiden ouders komen zelden aan het woord. In Uit elkaar spreken ze zich uit over de gevolgen van de echtscheiding voor hun eigen levens. Sommigen vertellen dat ze uit zijn op een voorbeeldig huwelijk. Anderen willen juist helemaal niet trouwen. Weer anderen besluiten geen kinderen op de wereld te zetten om ze zo eventueel echtscheidingsleed te besparen. Ze hebben last van verlatings- of bindingsangst, worstelen met loyaliteitsconflicten en missen hun vaders die elders nieuwe gezinnen stichtten. Wat ze vooral gemeen hebben: dat ze zich in hun emoties ontkend voelen, omdat hun nooit iets werd gevraagd. Uit elkaar is een bundel aangrijpende, confronterende verhalen over de impact die echtscheiding heeft op de levens van kinderen van gescheiden ouders. Cornald Maas (1962) is schrijver, journalist, commentator en presentator van het wekelijkse avro-kunstprogramma Opium. Hij schrijft voor Volkskrant magazine en linda. Eerder publiceerde hij onder meer Verlies. Gesprekken met nabestaanden over hun dierbare overledenen, Op de helft. Bespiegelingen van (bijna)veertigers en Trotse ouders. Uit elkaar zou verplichte lectuur moeten zijn voor alle ouders die overwegen uit elkaar te gaan. columnist elma drayer in trouw Over Op de helft: Op de helft is een uitnodiging aan de lezer om zelf de balans op te maken _ in welke levensfase deze zich ook bevindt. susan smit Over Verlies: De verhalen zijn aangrijpend maar ook positief. Ze steken een hart onder de riem: het leven gaat verder, hoe dan ook. algemeen dagblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tout va bien]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645022/tout-va-bien-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645022/tout-va-bien-martin-bril"/>
-        <updated>2025-09-06T07:11:01.754Z</updated>
-        <summary type="html"><![CDATA[berichten uit Frankrijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645022?aid=kb-online-bibliotheek&sid=17&dts=1757119311263&sig=5ecb683b644d4770312328ff746f227f6fdb4dd2c382039f99505881fbd73548&width=320" alt="Omslag van 'Tout va bien'" title="Omslag van 'Tout va bien'">
-<p>Columns over het leven in Frankrijk.</p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het verdwenen kruispunt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645189/het-verdwenen-kruispunt-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645189/het-verdwenen-kruispunt-martin-bril"/>
-        <updated>2025-09-06T07:11:01.947Z</updated>
-        <summary type="html"><![CDATA[berichten van het land]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645189?aid=kb-online-bibliotheek&sid=17&dts=1757083764778&sig=05c25b843b34f487439341cdd05e11e8ee0498f51df6bf9991b4f729ed113ef5&width=320" alt="Omslag van 'Het verdwenen kruispunt'" title="Omslag van 'Het verdwenen kruispunt'">
-<p>Bundel met veertig columns over het alledaagse leven zoals zich dat afspeelt op het Nederlandse platteland.</p>]]></content>
-        <author>
-            <name>Martin Bril</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C'est la vie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645006/c-est-la-vie-martin-bril</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645006/c-est-la-vie-martin-bril"/>
-        <updated>2025-09-06T07:11:02.345Z</updated>
-        <summary type="html"><![CDATA[berichten uit Frankrijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645006?aid=kb-online-bibliotheek&sid=17&dts=1757085778181&sig=1430917c0d14fcf76f57b0d51d70a6bc1fdd4b1fa0253ab4177b5580fc41e16d&width=320" alt="Omslag van 'C'est la vie'" title="Omslag van 'C'est la vie'">
-<p>Columns over het leven van de schrijver met zijn gezin in een tweede huis in Frankrijk.</p>]]></content>
-        <author>
-            <name>Martin Bril</name>
+            <name>Cornald Maas</name>
         </author>
     </entry>
 </feed>
