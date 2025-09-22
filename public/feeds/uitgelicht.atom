@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Uitgelicht</title>
-    <updated>2025-09-21T07:11:28.574Z</updated>
+    <updated>2025-09-22T07:14:02.181Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/uitgelicht.atom"/>
@@ -99,8 +99,8 @@
         <title type="html"><![CDATA[De tijgerkat]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444678050/de-tijgerkat-g--tomasi-di-lampedusa</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444678050/de-tijgerkat-g--tomasi-di-lampedusa"/>
-        <updated>2025-09-12T07:12:47.567Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444678050?aid=kb-online-bibliotheek&sid=17&dts=1757601470728&sig=724c7de5b580723c8380f26ef600e8244d419dd685e804e0e672e1cc7e259378&width=320" alt="Omslag van 'De tijgerkat'" title="Omslag van 'De tijgerkat'">
+        <updated>2025-09-22T07:14:01.970Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444678050?aid=kb-online-bibliotheek&sid=17&dts=1758525241758&sig=c930695019b4c22002a57bad48f7f6c87e5d766cd364ce11abbff70e598154ff&width=320" alt="Omslag van 'De tijgerkat'" title="Omslag van 'De tijgerkat'">
 <p>Een Siciliaanse aristocraat beschrijft een episode uit het leven van zijn overgrootvader, een der machtigste en rijkste vertegenwoordigers van de adel op Sicilië midden 19e eeuw toen het eiland door Garibaldi bezet was.</p>]]></content>
         <author>
             <name>G. Tomasi di Lampedusa</name>
@@ -110,8 +110,8 @@
         <title type="html"><![CDATA[Popcorn donut kaassoufflé]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444571965/popcorn-donut-kaassouffle--eline-van-wieren</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444571965/popcorn-donut-kaassouffle--eline-van-wieren"/>
-        <updated>2025-09-12T07:12:47.787Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444571965?aid=kb-online-bibliotheek&sid=17&dts=1757601009424&sig=b1da3aaf2f7e945195711b00ac7fc257f5592cba6eeea5178ff17bdcde4cc31d&width=320" alt="Omslag van 'Popcorn donut kaassoufflé'" title="Omslag van 'Popcorn donut kaassoufflé'">
+        <updated>2025-09-22T07:14:02.179Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444571965?aid=kb-online-bibliotheek&sid=17&dts=1758524728349&sig=a9d50af170c3ac4d1ee3abb7e449b170ea6824c324b7d0b56d1aab5322ff72d5&width=320" alt="Omslag van 'Popcorn donut kaassoufflé'" title="Omslag van 'Popcorn donut kaassoufflé'">
 <p>Een jonge vrouw gaat in groepstherapie voor mensen met een eetbuistoornis. Wanneer ze een sterke band ontwikkeld met een groepsgenoot, wordt ze geconfronteerd met de vraag of je wel verliefd zou moeten worden als je problemen hebt met voor jezelf zorgen.</p>]]></content>
         <author>
             <name>Eline van Wieren</name>
