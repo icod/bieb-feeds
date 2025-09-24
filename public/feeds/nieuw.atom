@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-09-23T07:13:43.862Z</updated>
+    <updated>2025-09-24T07:13:40.349Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Boek 1]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444649719/boek-1-martin-rombouts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444649719/boek-1-martin-rombouts"/>
+        <updated>2025-09-24T07:13:40.348Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444649719?aid=kb-online-bibliotheek&sid=17&dts=1758613289784&sig=38a98c5600abad3abfaca0aa6d9f43e646ba53c32aade428af5058b3e576a3af&width=320" alt="Omslag van 'Boek 1'" title="Omslag van 'Boek 1'">
+<p>Een boek over geld</p><p>En over mijn ouders</p><p>die hoog in de hemelen</p><p>dood aan het zijn zijn</p><p>  Een boek over ex-geliefden, darkrooms,</p><p>kilocalorieën, ziekenhuisrekeningen, cruiseschepen, Marc-Marie</p><p>en andere micro-obsessies, erfenissen, begrafenissen, twitterbots, sterfhuisconstructies, kunst, hyperinflatie</p><p>  Met de energie van spoken word</p><p>maar de precisie van poëzie</p><p>en een nur-code die het de roman maakt</p><p>die ik altijd al heb willen schrijven</p><p>  Sinds Martin Rombouts in 2017 is afgestudeerd in Creative Writing, heeft hij van alles uitgespookt, maar geen boek geschreven. Hij richtte een boyband op, liep stage bij een choreograaf, presenteerde programma's, maakte theater, nam podcasts op, schreef het Zomerlezen-gedicht 2024, won De slimste mens. Niet dat hij geen boek wilde schrijven, er was gewoon te veel afleiding. Maar nu is het er, met de onvermijdelijke titel: Boek 1. Even groots en eclectisch als de homo universalis die Martin Rombouts is.</p><p></p><p>Martin Rombouts  is dichter, schrijver en theatermaker. Hij studeerde Creative Writing aan ArtEZ en werd daarna geselecteerd voor het Slow Writing Lab van het Nederlands Letterenfonds. Ook maakt hij deel uit van de literaire boyband en won hij het 21e seizoen van De slimste mens. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Martin Rombouts</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Onverwacht inzicht]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/434813788/onverwacht-inzicht-jill-bolte-taylor</id>
@@ -122,17 +133,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De gentleman uit Peru]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443125635/de-gentleman-uit-peru-andre-aciman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443125635/de-gentleman-uit-peru-andre-aciman"/>
-        <updated>2025-09-21T07:11:29.167Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443125635?aid=kb-online-bibliotheek&sid=17&dts=1758376332271&sig=833d1a350474aa5b9b26c24bb1fe754f63e3de42c0c2e73b0fbd7c2853848774&width=320" alt="Omslag van 'De gentleman uit Peru'" title="Omslag van 'De gentleman uit Peru'">
-<p>Een groep Amerikaanse studievrienden verblijft in een luxueus hotel aan de zonovergoten Amalfikust. Terwijl hun zeiljacht gerepareerd wordt, brengen ze hun dagen in de tussentijd door op het hotelterras, loungend in de lome hitte. Hun blik valt op een mysterieuze oudere man die elke avond aan de tafel naast hen zit, altijd met een glas wijn, een notitieboekje en een sigaret. Wanneer ze deze elegante reiziger uitnodigen om zich bij hen te voegen voor de lunch, kunnen ze niet bevroeden waar dat toe zal leiden. De man deelt zijn bijzondere gaven en wijsheden met hen, en een verhaal dat het leven van een van hen voor altijd zal veranderen.</p><p>‘Een magisch-realistisch zwijmelsprookje’ - VPRO gids</p><p>Op meesterlijke wijze heeft André Aciman in het sensuele De gentleman uit Peru haarscherpe inzichten in een intens verhaal over spijt, het lot en allesoverstijgende liefde.</p><p>'Acimans romans lees je niet, het is eerder dat je er ademloos in opgaat.' - The Times</p><p>'Wederom een meesterlijke vertelling over verlangen en begeerte.' - Glamour</p><p>'Er is geen auteur die zó over verlangen kan schrijven als André Aciman.' - Max Porter</p><p>‘Onvergetelijke nieuwe liefdesgeschiedenis.’ - Ciaotutti.nl </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andre Aciman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blue sisters]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/442188501/blue-sisters-coco-mellors</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/442188501/blue-sisters-coco-mellors"/>
@@ -144,25 +144,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een aardig meisje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443690057/een-aardig-meisje-elvin-post</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443690057/een-aardig-meisje-elvin-post"/>
-        <updated>2025-09-21T07:11:29.552Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443690057?aid=kb-online-bibliotheek&sid=17&dts=1758376606310&sig=690aa063e0f94d7c5dc510c511d1043904ec20d3fd3dd3a77dcbd773dbae93bb&width=320" alt="Omslag van 'Een aardig meisje'" title="Omslag van 'Een aardig meisje'">
-<p>‘De VVE blijkt een uitstekend decor voor een thriller, bewijst Elvin Post in Een aardig meisje.’ - De Volkskrant</p><p>Megan Smit is een aardig meisje. Helaas is het leven tot nu toe niet zo aardig voor háár. Op jonge leeftijd verloor ze haar vader, ze liep haar gedroomde carrière als filmactrice mis en haar moeder wil maar niet begrijpen waarom ze een einde maakte aan de disfunctionele relatie met haar ex-vriend Rex. Wanneer Megan een nieuw appartement betrekt in Rotterdam, lijkt het leven haar eindelijk toe te lachen. Lijkt. Want nog geen vijf maanden later ligt haar buurman dood in het trappenhuis en wordt ze beschuldigd van moord.</p><p>Is Megan onschuldig, zoals ze beweert, of liegt ze en is ze opgehouden een aardig meisje te zijn?</p><p>Een aardig meisje van Elvin Post is een spannende whodunit waarin je continu op het verkeerde been wordt gezet.</p><p>‘Een aardig meisje’ is een echte aanrader. Het leest vlot, heeft hilarische personages én staat vol met bizarre plotwendingen.’ - Havenloods</p><p>‘Hij heeft een prettige vertelstijl en de hoofdstukken zijn opgeschreven als korte hapklare brokken. Daardoor lees je het boek in een ruk uit.’ - de Boekenkrant</p><p>‘Een verassende thriller’. - Margriet</p><p>‘Een aardig meisje is niet alleen een aanrader voor thrillerfans, maar ook voor iedereen die zelf in een VvE woont of ooit te maken heeft gehad met burenruzies.’ - Nederlandvve.nl </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Sterrenstof]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442188161/sterrenstof-tatiana-de-rosnay</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442188161/sterrenstof-tatiana-de-rosnay"/>
+        <updated>2025-09-21T07:11:31.562Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442188161?aid=kb-online-bibliotheek&sid=17&dts=1758374458503&sig=d74a8c8689bc3bebe921bdc4a784907af14b2618b9e8e649c105d8c9f1fc7eeb&width=320" alt="Omslag van 'Sterrenstof'" title="Omslag van 'Sterrenstof'">
+<p>‘Even origineel als ontroerend. Het portret van een actrice in een van haar kwetsbaarste rollen. Misschien wel De Rosnays beste boek tot nu toe.’ – Le Parisien Week-end</p><p>Pauline werkt in het legendarische Mapes Hotel in Reno, Nevada. Als ze op een dag invalt voor een collega ontmoet ze in suite 614 een wat slaperige vrouw. Dit blijkt Mrs Miller, oftewel Marilyn Monroe, die op dat moment in scheiding ligt met Arthur Miller en bezig is met de opnames van wat haar laatste film zou worden, The Misfits.</p><p>Tegen de achtergrond van de uitgestrekte vlakten van Nevada raken in Sterrenstof de levens van twee vrouwen uit heel verschillende werelden vervlochten. Deze ontroerende roman is een ode aan de allesoverstijgende kracht van vrouwenvriendschap en schetst een intiem portret van een niet eerder getoonde kant van Marilyn Monroe.</p><p>‘Je moet het maar durven, een roman over de legende Marilyn Monroe; De Rosnay levert met overtuiging.’ – Le Figaro littéraire</p><p>‘Met veel gevoel verweeft De Rosnay de levens van twee vrouwen tegen een decor van de betoverende luchten van Nevada. Dit is Tatiana’s American dream!’ – Elle </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Elvin Post</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Op een dag lachen we erom]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443090696/op-een-dag-lachen-we-erom-thomas-korsgaard</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443090696/op-een-dag-lachen-we-erom-thomas-korsgaard"/>
-        <updated>2025-09-21T07:11:29.759Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443090696?aid=kb-online-bibliotheek&sid=17&dts=1758377445836&sig=6a88b26b1dcfc363433d66de7564a285e1e7f7189197d11461a17ee7fd0b41a2&width=320" alt="Omslag van 'Op een dag lachen we erom'" title="Omslag van 'Op een dag lachen we erom'">
-<p>Wat gebeurt er als een straatarm gezin ineens een groot geldbedrag krijgt en daarmee eindelijk de kans heeft om alle dromen te verwezenlijken? Zal het geld dit gezin dat woont aan het eind van een lange, doodlopende, stoffige zandweg geluk brengen? Terwijl de jonge Tue de wereld buiten de boerderij ontdekt en worstelt met zijn seksualiteit en zijn vriendschappen, beseft hij dat het geld niets verandert; een vers geschilderd huis en nieuw meubilair kunnen de onderliggende scheuren niet verhullen.</p><p>Op een dag lachen we erom is het los te lezen vervolg op de internationale bestseller Mocht er iemand langskomen. Het is het tweede boek in de semiautobiografische Tue-trilogie, die in Denemarken en Noorwegen lovend werd ontvangen; sociaalrealistisch en doorspekt met rauwe humor.</p><p>5 sterren - ‘Met zijn gevoelige pen, scherpe blik en humor schiet Korsgaard midden in de roos.’ Ekstra Bladet</p><p>‘Dit is het leven, zoals het is: met een lach en een traan, gênant en ontroerend, deprimerend en hoopvol.’ - de Volkskrant</p><p>Pers over Mocht er iemand langskomen:</p><p>'Blinkt uit in rauw realisme en laat zien hoe bepalend de sociale omstandigheden zijn waarin iemand opgroeit.'- de Volkskrant</p><p>'Bijzonder meeslepend [...]. De nuchtere toon geeft het verhaal iets ironisch en zelfs luchtigs. Korsgaard klinkt minder mistroostig dan de Franse schrijven Édouard Louis, wiens romans over de uitzichtloze armoede in Frankrijk thematisch verwant zijn.' - Trouw</p><p>'Korsgaard is een van de meest getalenteerde schrijvers van dit moment.' Berlingske </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Thomas Korsgaard</name>
+            <name>Tatiana de Rosnay</name>
         </author>
     </entry>
     <entry>
@@ -174,6 +163,17 @@
 <p>1348. De pest raast door Europa.</p><p>1367. Twee jonge dominicaner monniken vertrekken vanuit hun klooster in de Languedoc naar Toulouse om kostbaar perkament te kopen, omdat hun overste Guillaume zijn levensverhaal daarop wil schrijven. Wanneer dit de inquisiteur ter ore komt, is diens argwaan direct gewekt. Guillaumes verhaal houdt een groot risico in voor de katholieke kerk: het kan de waarheid onthullen over de oorsprong van de pest en het verband met het lot van Guillaumes leermeester, Meester Eckhart, mysticus en een van de meest bewonderde – maar later vervloekte – predikers van het christendom. Er is de inquisiteur alles aan gelegen dit geheim verborgen te houden.</p><p>Op indrukwekkende wijze vervlecht Sénanque kleine met grote geschiedenis, van oorlogen en inquisitie tot vervolging en verraad, in een roman die de lezer meeneemt van de banken van de Sorbonne tot de steppen van Centraal-Azië.</p><p>Askruis is een historisch fresco maar ook een spirituele en dramatische pageturner waarin Eckharts woorden en de keuzes van onze twee hoofdpersonen een nieuwe betekenis geven aan het woord ‘broederschap’.</p><p>‘Historische roman geeft onthutsend beeld van de Rooms-Katholieke Kerk in de tijd voor de Reformatie.’ , ”Askruis” is allesbehalve oppervlakkig, het is leerzaam en spannend.’ - Reformatisch Dagblad</p><p>'Voorbij het duister is Askruis vooral een verhaal van broederschap en persoonlijke moed als wapens tegen religieuze verblinding en de lust naar macht. Dat alles schildert Sénanque met zwier, even zwierig vertaald door Noor Koch. De roman is vaardig gecomponeerd als een raamvertelling, wat het verhaal zijn spanning verleent. Het resultaat is een kleurrijk fresco met twee glanzende panelen. En als er van Eckhart een woord overblijft, dan is het ‘onthechting’. Een woord dat ook onze tijd zin kan verlenen.' - de Volkskrant</p><p>‘Ingenieus opgezet boek [...] ‘Een nieuwe ‘de naam van de roos’’. ‘De roman staat bol van de fascinerende (en leerzame!) bijzonderheden over allerlei middeleeuwse zaken’ - Trouw</p><p>‘De doordringende beschrijvingen van een afstotelijke en gevaarlijke wereld toont Sénanque zijn ‘meesterlijke pen’, en loont zijn achtergrond als arts en historicus. Op die momenten doet de roman nog het meest denken aan Het Parfum van Patrick Süskind.’ - De Standaard</p><p>‘Zowel leerzaam als kostelijk’ – Max Magazine</p><p>'Een zeer rijke roman die uitblinkt in ritme en dialoog, en een ode aan de vriendschap.’ – Le Figaro * Selection Figaro Weekend *</p><p> ‘Geweldig geschreven roman die gaandeweg steeds meer een middeleeuwse detective wordt. Om van te genieten!’ – Télérama</p><p>‘De eigenlijke hoofdrolspeler [is] niemand minder dan de grote mysticus Meester Eckhart, die door Sénanque fraai tot leven wordt gewekt.’ - Katholiek Nieuwsblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Antoine Sénanque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spiegeldagen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440308763/spiegeldagen-mark-h--stokmans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440308763/spiegeldagen-mark-h--stokmans"/>
+        <updated>2025-09-20T07:11:33.945Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440308763?aid=kb-online-bibliotheek&sid=17&dts=1758291348523&sig=580ad3a3d228ace8c62e665940b56a29f0bfa658f43e9679f6f23ce2618c6d70&width=320" alt="Omslag van 'Spiegeldagen'" title="Omslag van 'Spiegeldagen'">
+<p>Een Nederlandse makelaar krijgt drie jaar na de dood van zijn opa en de verdwijning van diens vrouw de opdracht het familiehuis in Spanje te verkopen. Tijdens zijn verblijf komen herinneringen en vragen over het verleden van zijn grootouders naar boven, en ontdekt hij waar zijn eigen hart ligt.</p>]]></content>
+        <author>
+            <name>Mark H. Stokmans</name>
         </author>
     </entry>
     <entry>
@@ -189,51 +189,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De bessenplukkers]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443125627/de-bessenplukkers-amanda-peters</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443125627/de-bessenplukkers-amanda-peters"/>
-        <updated>2025-09-21T07:11:30.471Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443125627?aid=kb-online-bibliotheek&sid=17&dts=1758416457502&sig=07648f327e4e75516dbcf40d894ab1b8ca3c2bd7bfb6413d9e5ed164f2b9c0da&width=320" alt="Omslag van 'De bessenplukkers'" title="Omslag van 'De bessenplukkers'">
-<p>Winnaar van de 2023 Barnes & Noble Discover Award en winnaar van de 2024 Andrew Carnegie Medal for Excellence in Fiction.</p><p>Maine, 1960. Op een hete nazomerdag ziet de zesjarige Joe zijn zusje Ruthie aan de rand van de bessenvelden op haar favoriete steen zitten terwijl hun familie er aan het werk is als fruitplukkers. Maar die middag verdwijnt Ruthie spoorloos. Joe was de laatste die haar zag; schuldgevoel en verdriet achtervolgen hem de rest van zijn leven.</p><p>In een welgestelde buitenwijk er niet ver vandaan groeit Norma op als enig kind van strenge ouders. Ze is nieuwsgierig en barst van de vragen die haar ouders bruusk wegwuiven. Waarom is haar huid donkerder dan die van hen en waar komen haar levendige dromen vandaan, over kampvuren en warme armen om haar heen? Ze voelt dat er iets niet klopt. Het zal nog jaren duren voor ze achter de waarheid komt…</p><p>De bessenplukkers is een ontroerende roman met onvergetelijke personages over inheemse tradities en de westerse drang deze uit te wissen.</p><p>'Een hartverscheurende roman over een te weinig besproken, gruwelijke historische praktijk. Peters geeft op monumentale wijze een stem aan een volk dat uitgewist moest worden.' - The New York Times</p><p>'Weergaloze roman over liefde, ras, wreedheid en de helende kracht van vergeving.' - People Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Amanda Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hard gras 157]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442188250/hard-gras-157-tijdschrift-hard-gras</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442188250/hard-gras-157-tijdschrift-hard-gras"/>
-        <updated>2025-09-21T07:11:30.809Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442188250?aid=kb-online-bibliotheek&sid=17&dts=1758438690579&sig=4642cf249592a008fd12c32d1c5d33405dafcba1f19fc3e790a16fbfc04f4a54&width=320" alt="Omslag van 'Hard gras 157'" title="Omslag van 'Hard gras 157'">
-<p>In deze Hard Gras een etymologische studie door Aron Groot naar de oorsprong van het woord oranje, een voorpublicatie uit De Koning van de Nacht van Michel Doodeman; een virtuoos portret door Eva Vriend van Almere City waarin Alex Pastoor ongewild de running gag werd. En aandacht voor de wraakoefening van Thomas RIjsman die een jaar geleden tijdens een amateurwedstrijd zwaar geblesseerd raakte door de nieuwe TD van Ajax: Alex Kroes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tijdschrift Hard Gras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoals zussen zijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442188315/zoals-zussen-zijn-loes-hegger</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442188315/zoals-zussen-zijn-loes-hegger"/>
-        <updated>2025-09-21T07:11:31.009Z</updated>
-        <summary type="html"><![CDATA[De gekreukelde levens van vijf vrouwen in de twintigste eeuw]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442188315?aid=kb-online-bibliotheek&sid=17&dts=1758415492531&sig=be6a308853189ade011dbbeaefce3d395b3aa1e32d5e5db175f3a872baac258e&width=320" alt="Omslag van 'Zoals zussen zijn'" title="Omslag van 'Zoals zussen zijn'">
-<p>Vijf zussen die elk op hun eigen manier worstelen met het leven en de rol die hun is toebedeeld.</p><p>1935. Als moeder onverwacht komt te overlijden, daalt er een kilte neer over het voorheen warme gezin Kleinhout. De oudste zus neemt noodgedwongen de moederrol op zich – een lot dat ze verbitterd ondergaat. Alle zussen kiezen hun eigen levenspad en allemaal stuiten ze op andere obstakels. Samenleven met een vrouw, maar daar wordt niet over gepraat. De perfecte huisvrouw willen spelen, ook als het tegenzit. Nobel werk verrichten, maar onbetaald en ondergewaardeerd. Voor onafhankelijkheid kiezen en vereenzaamd achterblijven.</p><p>Met gevoelige pen beschrijft Loes Hegger de levensloop van haar moeder en tantes. Ze waren geen heldinnen of pioniers, maar gewone vrouwen in een tijd van beperkte bewegingsvrijheid. Hun onmacht uitte zich als woede, waar hun omgeving hen op afrekende. De geschiedenis van de vijf zussen doet je met andere ogen kijken naar het vrouw-zijn anno nu. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Loes Hegger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spiegeldagen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440308763/spiegeldagen-mark-h--stokmans</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440308763/spiegeldagen-mark-h--stokmans"/>
-        <updated>2025-09-20T07:11:33.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440308763?aid=kb-online-bibliotheek&sid=17&dts=1758291348523&sig=580ad3a3d228ace8c62e665940b56a29f0bfa658f43e9679f6f23ce2618c6d70&width=320" alt="Omslag van 'Spiegeldagen'" title="Omslag van 'Spiegeldagen'">
-<p>Een Nederlandse makelaar krijgt drie jaar na de dood van zijn opa en de verdwijning van diens vrouw de opdracht het familiehuis in Spanje te verkopen. Tijdens zijn verblijf komen herinneringen en vragen over het verleden van zijn grootouders naar boven, en ontdekt hij waar zijn eigen hart ligt.</p>]]></content>
-        <author>
-            <name>Mark H. Stokmans</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Onder de sterrenhemel]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/442188358/onder-de-sterrenhemel-camilla-davidsson</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/442188358/onder-de-sterrenhemel-camilla-davidsson"/>
@@ -242,6 +197,28 @@
 <p>Zou de pelgrimstocht echt helpen, of was dat een verkeerde inschatting?</p><p> De eenendertigjarige Emma zit op het vliegveld. Ze is op weg naar Frankrijk om de Camino naar Santiago de Compostella te gaan lopen en laat Londen achter zich. Toen ze een jaar geleden Eric ontmoette, zegde ze haar baan in Zweden op om bij hem in Engeland te kunnen zijn. Maar al snel bleek dat hij haar gevoelens niet deelde.</p><p>Wanneer Emma over de pelgrimsroute hoort, ziet ze dit als een teken dat ze haar leven moet veranderen en met een oude, veel te volle rugzak vertrekt ze. Dag na dag de lange afstanden afleggen blijkt zwaarder dan ze had gedacht, maar ze is niet alleen – ze ontmoet mensen die ieder hun eigen redenen hebben om de Camino te lopen. Door met hen verhalen en erva­ringen uit te wisselen krijgt Emma het gevoel dat ze langzaam maar zeker weer zichzelf wordt. Wat begon als een spontaan idee, verandert haar meer dan ze had kunnen bedenken.</p><p>Onder de sterrenhemel gaat over een jonge vrouw die op een moeilijk moment in haar leven besluit op zoek te gaan naar zichzelf.</p><p>Bloggers zijn enthousiast: ‘Prachtig, aangrijpend en stemt tot nadenken.’</p><p>'Intelligente feelgood over het durven luisteren naar je innerlijke stem (en je eigen weg door het leven vinden).’</p><p>‘Een leuk feelgoodboek voor de herfstige dagen die er aankomen.’ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Camilla Davidsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een aardig meisje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443690057/een-aardig-meisje-elvin-post</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443690057/een-aardig-meisje-elvin-post"/>
+        <updated>2025-09-21T07:11:29.552Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443690057?aid=kb-online-bibliotheek&sid=17&dts=1758376606310&sig=690aa063e0f94d7c5dc510c511d1043904ec20d3fd3dd3a77dcbd773dbae93bb&width=320" alt="Omslag van 'Een aardig meisje'" title="Omslag van 'Een aardig meisje'">
+<p>‘De VVE blijkt een uitstekend decor voor een thriller, bewijst Elvin Post in Een aardig meisje.’ - De Volkskrant</p><p>Megan Smit is een aardig meisje. Helaas is het leven tot nu toe niet zo aardig voor háár. Op jonge leeftijd verloor ze haar vader, ze liep haar gedroomde carrière als filmactrice mis en haar moeder wil maar niet begrijpen waarom ze een einde maakte aan de disfunctionele relatie met haar ex-vriend Rex. Wanneer Megan een nieuw appartement betrekt in Rotterdam, lijkt het leven haar eindelijk toe te lachen. Lijkt. Want nog geen vijf maanden later ligt haar buurman dood in het trappenhuis en wordt ze beschuldigd van moord.</p><p>Is Megan onschuldig, zoals ze beweert, of liegt ze en is ze opgehouden een aardig meisje te zijn?</p><p>Een aardig meisje van Elvin Post is een spannende whodunit waarin je continu op het verkeerde been wordt gezet.</p><p>‘Een aardig meisje’ is een echte aanrader. Het leest vlot, heeft hilarische personages én staat vol met bizarre plotwendingen.’ - Havenloods</p><p>‘Hij heeft een prettige vertelstijl en de hoofdstukken zijn opgeschreven als korte hapklare brokken. Daardoor lees je het boek in een ruk uit.’ - de Boekenkrant</p><p>‘Een verassende thriller’. - Margriet</p><p>‘Een aardig meisje is niet alleen een aanrader voor thrillerfans, maar ook voor iedereen die zelf in een VvE woont of ooit te maken heeft gehad met burenruzies.’ - Nederlandvve.nl </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elvin Post</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De bessenplukkers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443125627/de-bessenplukkers-amanda-peters</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443125627/de-bessenplukkers-amanda-peters"/>
+        <updated>2025-09-21T07:11:30.471Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443125627?aid=kb-online-bibliotheek&sid=17&dts=1758416457502&sig=07648f327e4e75516dbcf40d894ab1b8ca3c2bd7bfb6413d9e5ed164f2b9c0da&width=320" alt="Omslag van 'De bessenplukkers'" title="Omslag van 'De bessenplukkers'">
+<p>Winnaar van de 2023 Barnes & Noble Discover Award en winnaar van de 2024 Andrew Carnegie Medal for Excellence in Fiction.</p><p>Maine, 1960. Op een hete nazomerdag ziet de zesjarige Joe zijn zusje Ruthie aan de rand van de bessenvelden op haar favoriete steen zitten terwijl hun familie er aan het werk is als fruitplukkers. Maar die middag verdwijnt Ruthie spoorloos. Joe was de laatste die haar zag; schuldgevoel en verdriet achtervolgen hem de rest van zijn leven.</p><p>In een welgestelde buitenwijk er niet ver vandaan groeit Norma op als enig kind van strenge ouders. Ze is nieuwsgierig en barst van de vragen die haar ouders bruusk wegwuiven. Waarom is haar huid donkerder dan die van hen en waar komen haar levendige dromen vandaan, over kampvuren en warme armen om haar heen? Ze voelt dat er iets niet klopt. Het zal nog jaren duren voor ze achter de waarheid komt…</p><p>De bessenplukkers is een ontroerende roman met onvergetelijke personages over inheemse tradities en de westerse drang deze uit te wissen.</p><p>'Een hartverscheurende roman over een te weinig besproken, gruwelijke historische praktijk. Peters geeft op monumentale wijze een stem aan een volk dat uitgewist moest worden.' - The New York Times</p><p>'Weergaloze roman over liefde, ras, wreedheid en de helende kracht van vergeving.' - People Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Amanda Peters</name>
         </author>
     </entry>
     <entry>
@@ -256,26 +233,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sterrenstof]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442188161/sterrenstof-tatiana-de-rosnay</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442188161/sterrenstof-tatiana-de-rosnay"/>
-        <updated>2025-09-21T07:11:31.562Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442188161?aid=kb-online-bibliotheek&sid=17&dts=1758374458503&sig=d74a8c8689bc3bebe921bdc4a784907af14b2618b9e8e649c105d8c9f1fc7eeb&width=320" alt="Omslag van 'Sterrenstof'" title="Omslag van 'Sterrenstof'">
-<p>‘Even origineel als ontroerend. Het portret van een actrice in een van haar kwetsbaarste rollen. Misschien wel De Rosnays beste boek tot nu toe.’ – Le Parisien Week-end</p><p>Pauline werkt in het legendarische Mapes Hotel in Reno, Nevada. Als ze op een dag invalt voor een collega ontmoet ze in suite 614 een wat slaperige vrouw. Dit blijkt Mrs Miller, oftewel Marilyn Monroe, die op dat moment in scheiding ligt met Arthur Miller en bezig is met de opnames van wat haar laatste film zou worden, The Misfits.</p><p>Tegen de achtergrond van de uitgestrekte vlakten van Nevada raken in Sterrenstof de levens van twee vrouwen uit heel verschillende werelden vervlochten. Deze ontroerende roman is een ode aan de allesoverstijgende kracht van vrouwenvriendschap en schetst een intiem portret van een niet eerder getoonde kant van Marilyn Monroe.</p><p>‘Je moet het maar durven, een roman over de legende Marilyn Monroe; De Rosnay levert met overtuiging.’ – Le Figaro littéraire</p><p>‘Met veel gevoel verweeft De Rosnay de levens van twee vrouwen tegen een decor van de betoverende luchten van Nevada. Dit is Tatiana’s American dream!’ – Elle </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Op een dag lachen we erom]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443090696/op-een-dag-lachen-we-erom-thomas-korsgaard</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443090696/op-een-dag-lachen-we-erom-thomas-korsgaard"/>
+        <updated>2025-09-21T07:11:29.759Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443090696?aid=kb-online-bibliotheek&sid=17&dts=1758377445836&sig=6a88b26b1dcfc363433d66de7564a285e1e7f7189197d11461a17ee7fd0b41a2&width=320" alt="Omslag van 'Op een dag lachen we erom'" title="Omslag van 'Op een dag lachen we erom'">
+<p>Wat gebeurt er als een straatarm gezin ineens een groot geldbedrag krijgt en daarmee eindelijk de kans heeft om alle dromen te verwezenlijken? Zal het geld dit gezin dat woont aan het eind van een lange, doodlopende, stoffige zandweg geluk brengen? Terwijl de jonge Tue de wereld buiten de boerderij ontdekt en worstelt met zijn seksualiteit en zijn vriendschappen, beseft hij dat het geld niets verandert; een vers geschilderd huis en nieuw meubilair kunnen de onderliggende scheuren niet verhullen.</p><p>Op een dag lachen we erom is het los te lezen vervolg op de internationale bestseller Mocht er iemand langskomen. Het is het tweede boek in de semiautobiografische Tue-trilogie, die in Denemarken en Noorwegen lovend werd ontvangen; sociaalrealistisch en doorspekt met rauwe humor.</p><p>5 sterren - ‘Met zijn gevoelige pen, scherpe blik en humor schiet Korsgaard midden in de roos.’ Ekstra Bladet</p><p>‘Dit is het leven, zoals het is: met een lach en een traan, gênant en ontroerend, deprimerend en hoopvol.’ - de Volkskrant</p><p>Pers over Mocht er iemand langskomen:</p><p>'Blinkt uit in rauw realisme en laat zien hoe bepalend de sociale omstandigheden zijn waarin iemand opgroeit.'- de Volkskrant</p><p>'Bijzonder meeslepend [...]. De nuchtere toon geeft het verhaal iets ironisch en zelfs luchtigs. Korsgaard klinkt minder mistroostig dan de Franse schrijven Édouard Louis, wiens romans over de uitzichtloze armoede in Frankrijk thematisch verwant zijn.' - Trouw</p><p>'Korsgaard is een van de meest getalenteerde schrijvers van dit moment.' Berlingske </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tatiana de Rosnay</name>
+            <name>Thomas Korsgaard</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meneertje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443135452/meneertje-sanne-vogel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443135452/meneertje-sanne-vogel"/>
-        <updated>2025-09-21T07:11:31.754Z</updated>
-        <summary type="html"><![CDATA[Observaties van een uitzonderlijke kat]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443135452?aid=kb-online-bibliotheek&sid=17&dts=1758435560264&sig=6c7ab5412a4a3ce45a98d1756acbc3f6c6a4424a62edf9965a409497d8793621&width=320" alt="Omslag van 'Meneertje'" title="Omslag van 'Meneertje'">
-<p>Kat Meneertje volgt de geur van avontuur op zijn wandelingen door zijn geliefde buurt. Bij zijn zoektochten naar de allerlekkerste snacks komt hij de meest uiteenlopende buurtbewoners tegen. Ze openen niet alleen hun voor deur voor hem maar ook hun hart. Thuis is hij onmisbaar. Als zijn huisgenoten Chef en Melksnõr getroffen worden door een groot verlies, is het Meneertje die precies weet wat ze nodig hebben. Meneertje deelt zijn observaties op een luchtige en humoristische manier. Tegelijkertijd maakt hij het menselijke drama zonder oordeel op een ontroerende manier invoelbaar.</p><p>‘Een liefdevol en ontroerend eerbetoon aan deze onvergetelijke kat, die zoveel levens raakte.’ Georgina Verbaan</p><p>'Een ontroerend boek over een kat en zijn baasje' - ELLE</p><p>'Een ode aan haar uitzonderlijke kat' - LINDA</p><p>'Een katachtig verhaal over menselijkheid' - JAN</p><p>'Mijn kat heeft vriendschappen met mensen die ik niet ken. Hij blijft meer een mensenvriend dan een katten-kat.' Sanne Vogel</p><p>'Ik ben heel grote vrienden met Meneertje. Hij komt hier elke week. Dan tikt hij met zij pootje tegen het raam. Het is de regel dat je dan je raam opendoet.' - buurman Dick </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De gentleman uit Peru]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443125635/de-gentleman-uit-peru-andre-aciman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443125635/de-gentleman-uit-peru-andre-aciman"/>
+        <updated>2025-09-21T07:11:29.167Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443125635?aid=kb-online-bibliotheek&sid=17&dts=1758376332271&sig=833d1a350474aa5b9b26c24bb1fe754f63e3de42c0c2e73b0fbd7c2853848774&width=320" alt="Omslag van 'De gentleman uit Peru'" title="Omslag van 'De gentleman uit Peru'">
+<p>Een groep Amerikaanse studievrienden verblijft in een luxueus hotel aan de zonovergoten Amalfikust. Terwijl hun zeiljacht gerepareerd wordt, brengen ze hun dagen in de tussentijd door op het hotelterras, loungend in de lome hitte. Hun blik valt op een mysterieuze oudere man die elke avond aan de tafel naast hen zit, altijd met een glas wijn, een notitieboekje en een sigaret. Wanneer ze deze elegante reiziger uitnodigen om zich bij hen te voegen voor de lunch, kunnen ze niet bevroeden waar dat toe zal leiden. De man deelt zijn bijzondere gaven en wijsheden met hen, en een verhaal dat het leven van een van hen voor altijd zal veranderen.</p><p>‘Een magisch-realistisch zwijmelsprookje’ - VPRO gids</p><p>Op meesterlijke wijze heeft André Aciman in het sensuele De gentleman uit Peru haarscherpe inzichten in een intens verhaal over spijt, het lot en allesoverstijgende liefde.</p><p>'Acimans romans lees je niet, het is eerder dat je er ademloos in opgaat.' - The Times</p><p>'Wederom een meesterlijke vertelling over verlangen en begeerte.' - Glamour</p><p>'Er is geen auteur die zó over verlangen kan schrijven als André Aciman.' - Max Porter</p><p>‘Onvergetelijke nieuwe liefdesgeschiedenis.’ - Ciaotutti.nl </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sanne Vogel</name>
+            <name>Andre Aciman</name>
         </author>
     </entry>
     <entry>
@@ -312,6 +288,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hard gras 157]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442188250/hard-gras-157-tijdschrift-hard-gras</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442188250/hard-gras-157-tijdschrift-hard-gras"/>
+        <updated>2025-09-21T07:11:30.809Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442188250?aid=kb-online-bibliotheek&sid=17&dts=1758438690579&sig=4642cf249592a008fd12c32d1c5d33405dafcba1f19fc3e790a16fbfc04f4a54&width=320" alt="Omslag van 'Hard gras 157'" title="Omslag van 'Hard gras 157'">
+<p>In deze Hard Gras een etymologische studie door Aron Groot naar de oorsprong van het woord oranje, een voorpublicatie uit De Koning van de Nacht van Michel Doodeman; een virtuoos portret door Eva Vriend van Almere City waarin Alex Pastoor ongewild de running gag werd. En aandacht voor de wraakoefening van Thomas RIjsman die een jaar geleden tijdens een amateurwedstrijd zwaar geblesseerd raakte door de nieuwe TD van Ajax: Alex Kroes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tijdschrift Hard Gras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meneertje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443135452/meneertje-sanne-vogel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443135452/meneertje-sanne-vogel"/>
+        <updated>2025-09-21T07:11:31.754Z</updated>
+        <summary type="html"><![CDATA[Observaties van een uitzonderlijke kat]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443135452?aid=kb-online-bibliotheek&sid=17&dts=1758435560264&sig=6c7ab5412a4a3ce45a98d1756acbc3f6c6a4424a62edf9965a409497d8793621&width=320" alt="Omslag van 'Meneertje'" title="Omslag van 'Meneertje'">
+<p>Kat Meneertje volgt de geur van avontuur op zijn wandelingen door zijn geliefde buurt. Bij zijn zoektochten naar de allerlekkerste snacks komt hij de meest uiteenlopende buurtbewoners tegen. Ze openen niet alleen hun voor deur voor hem maar ook hun hart. Thuis is hij onmisbaar. Als zijn huisgenoten Chef en Melksnõr getroffen worden door een groot verlies, is het Meneertje die precies weet wat ze nodig hebben. Meneertje deelt zijn observaties op een luchtige en humoristische manier. Tegelijkertijd maakt hij het menselijke drama zonder oordeel op een ontroerende manier invoelbaar.</p><p>‘Een liefdevol en ontroerend eerbetoon aan deze onvergetelijke kat, die zoveel levens raakte.’ Georgina Verbaan</p><p>'Een ontroerend boek over een kat en zijn baasje' - ELLE</p><p>'Een ode aan haar uitzonderlijke kat' - LINDA</p><p>'Een katachtig verhaal over menselijkheid' - JAN</p><p>'Mijn kat heeft vriendschappen met mensen die ik niet ken. Hij blijft meer een mensenvriend dan een katten-kat.' Sanne Vogel</p><p>'Ik ben heel grote vrienden met Meneertje. Hij komt hier elke week. Dan tikt hij met zij pootje tegen het raam. Het is de regel dat je dan je raam opendoet.' - buurman Dick </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sanne Vogel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoals zussen zijn]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442188315/zoals-zussen-zijn-loes-hegger</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442188315/zoals-zussen-zijn-loes-hegger"/>
+        <updated>2025-09-21T07:11:31.009Z</updated>
+        <summary type="html"><![CDATA[De gekreukelde levens van vijf vrouwen in de twintigste eeuw]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442188315?aid=kb-online-bibliotheek&sid=17&dts=1758415492531&sig=be6a308853189ade011dbbeaefce3d395b3aa1e32d5e5db175f3a872baac258e&width=320" alt="Omslag van 'Zoals zussen zijn'" title="Omslag van 'Zoals zussen zijn'">
+<p>Vijf zussen die elk op hun eigen manier worstelen met het leven en de rol die hun is toebedeeld.</p><p>1935. Als moeder onverwacht komt te overlijden, daalt er een kilte neer over het voorheen warme gezin Kleinhout. De oudste zus neemt noodgedwongen de moederrol op zich – een lot dat ze verbitterd ondergaat. Alle zussen kiezen hun eigen levenspad en allemaal stuiten ze op andere obstakels. Samenleven met een vrouw, maar daar wordt niet over gepraat. De perfecte huisvrouw willen spelen, ook als het tegenzit. Nobel werk verrichten, maar onbetaald en ondergewaardeerd. Voor onafhankelijkheid kiezen en vereenzaamd achterblijven.</p><p>Met gevoelige pen beschrijft Loes Hegger de levensloop van haar moeder en tantes. Ze waren geen heldinnen of pioniers, maar gewone vrouwen in een tijd van beperkte bewegingsvrijheid. Hun onmacht uitte zich als woede, waar hun omgeving hen op afrekende. De geschiedenis van de vijf zussen doet je met andere ogen kijken naar het vrouw-zijn anno nu. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Loes Hegger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Waarheid in Andalusië]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/454392168/waarheid-in-andalusie--ellen-van-herk</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/454392168/waarheid-in-andalusie--ellen-van-herk"/>
@@ -320,17 +331,6 @@
 <p>De nichtjes Mira en Jasmin lijken uiterlijk op elkaar, maar hun karakters zijn heel verschillend. Terwijl Jasmin over de wereld zwerft en mannen een leuke tijdsbesteding vindt, is Mira in haar eentje haar huis tot B&B aan het ombouwen in Tavira (Portugal), omdat haar vriend haar in de steek heeft gelaten. Jasmin vindt dat Mira hoognodig op vakantie moet en neemt haar mee naar Andalusië, waar ze in hun jeugd woonden. Inmiddels is de makelaar Ruan op Jasmins pad gekomen. Is hij degene die haar kan verleiden zich te settelen? Ook Mira voelt zich tot hem aangetrokken, maar ze is niet van plan tweede keus te worden. Het drietal start een zoektocht naar Mira's moeder, die al jaren is verdwenen. Kortom, spanning en avontuur voor beide vrouwen in een zonnig Andalusië, waar ze op zoek gaan naar de waarheid. Ellen van Herk (Rotterdam, 1967) schrijft vanaf haar kinderjaren verhalen, maar sinds ze in 2014 met haar man Ralph een tweede huis in Portugal kocht, doet ze daar inspiratie op voor haar romans. Ze gaat moeilijke thema's zoals kindermisbruik, huiselijk geweld en alcoholisme niet uit de weg. Haar romans spelen zich grotendeels af in Portugal. Naast het schrijven is ze freelance notulist voor een onderzoeksbureau en een taalmaatje voor statushouders. Ze verblijft zowel in Nederland als in Portugal. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Ellen van Herk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De schrijfklas]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444397752/de-schrijfklas-mercedes-abad</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444397752/de-schrijfklas-mercedes-abad"/>
-        <updated>2025-09-21T07:11:32.582Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444397752?aid=kb-online-bibliotheek&sid=17&dts=1758377446033&sig=d81ea04bb7e92a8aac1801a62bd1e575212e9ac092a488988c74133714ab7b8a&width=320" alt="Omslag van 'De schrijfklas'" title="Omslag van 'De schrijfklas'">
-<p>‘Het beste boek dat ik ooit heb gelezen over de vraag hoever een auteur bereid is te gaan in zijn streven naar publieke erkenning.’ – Herman Koch</p><p>Een jonge schrijver wiens laatste boek bovenaan de bestsellerlijsten staat, ontvangt een anonieme brief met een dwingend verzoek om een ontmoeting op een begraafplaats. Waarom? Wat is er gebeurd?</p><p>De schrijver werkte als docent creative writing toen een van de studenten plotseling overleed. Haar manuscript, onaf maar meesterlijk, was in het bezit van de docent, die zelf als schrijver al lange tijd geen succes meer kende. Het zou zonde zijn om niets met het manuscript te doen, toch? Uit eerbied voor de leerling gaat de docent ermee aan de slag. Maar gaandeweg loopt het uit de hand…</p><p>De schrijfklas is een wervelend verhaal over de scheidslijn tussen wat van de ander is en wat je je mag toe-eigenen, en over passie voor literatuur die omslaat in blinde ambitie en narcisme. Een roman waarin niemand is wie hij lijkt te zijn, zelfs de verteller niet.</p><p>‘Intelligente en heerlijk misleidende roman.’ – El Mundo (La Lectura) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Mercedes Abad</name>
         </author>
     </entry>
     <entry>
