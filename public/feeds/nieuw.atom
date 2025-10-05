@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-10-04T07:11:32.640Z</updated>
+    <updated>2025-10-05T07:10:56.997Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -213,18 +213,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Let Them Theory]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444427643/the-let-them-theory-mel-robbins</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444427643/the-let-them-theory-mel-robbins"/>
-        <updated>2025-10-03T07:12:38.321Z</updated>
-        <summary type="html"><![CDATA[Nederlandse editie; een life-changing tool waar miljoenen mensen niet over uitgepraat raken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444427643?aid=kb-online-bibliotheek&sid=17&dts=1759427039161&sig=12697e1c12e985ef790b766862b9e1fe6674949688f83fc69b5672ac251c0d15&width=320" alt="Omslag van 'The Let Them Theory'" title="Omslag van 'The Let Them Theory'">
-<p>Bevrijd jezelf van stress en zorgen met The Let Them-theory. Ontdek praktische tips voor meer controle, betere relaties en een energieker leven.</p>]]></content>
-        <author>
-            <name>Mel Robbins</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Brutus heeft honger]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444724524/brutus-heeft-honger-mathijs-deen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444724524/brutus-heeft-honger-mathijs-deen"/>
@@ -285,6 +273,40 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Let Them Theory]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444427643/the-let-them-theory-mel-robbins</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444427643/the-let-them-theory-mel-robbins"/>
+        <updated>2025-10-03T07:12:38.321Z</updated>
+        <summary type="html"><![CDATA[Nederlandse editie; een life-changing tool waar miljoenen mensen niet over uitgepraat raken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444427643?aid=kb-online-bibliotheek&sid=17&dts=1759427039161&sig=12697e1c12e985ef790b766862b9e1fe6674949688f83fc69b5672ac251c0d15&width=320" alt="Omslag van 'The Let Them Theory'" title="Omslag van 'The Let Them Theory'">
+<p>Bevrijd jezelf van stress en zorgen met The Let Them-theory. Ontdek praktische tips voor meer controle, betere relaties en een energieker leven.</p>]]></content>
+        <author>
+            <name>Mel Robbins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake me gek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447153153/fake-me-gek-stephanie-archer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447153153/fake-me-gek-stephanie-archer"/>
+        <updated>2025-10-04T07:11:32.444Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153153?aid=kb-online-bibliotheek&sid=17&dts=1759505529269&sig=015a111df1266b41a5eae165086847c5e7ed60b17709d0f6f90dfe1d25946257&width=320" alt="Omslag van 'Fake me gek'" title="Omslag van 'Fake me gek'">
+<p>De beste manier om haar vreselijke ex terug te pakken? Een neprelatie met Rory Miller, de rivaal van haar ex, de topscorer van het professioneel ijshockey en de arrogante, flirterige jongen aan wie ze bijles gaf op high school. Hoewel ze een hekel heeft aan ijshockeyers, heiligt het doel in dit geval zéker de middelen. En het kan ook geen kwaad dat de middelen... behoorlijk aantrekkelijk zijn. Doen alsof is leuk en verslavend, merkt Hazel al snel, en onder zijn stoere buitenkant is Rory lief, grappig en beschermend. Hij leert haar schaatsen en geeft veel te veel geld aan haar uit. Hij slaapt bij haar en overtuigt haar om haar regel van maximaal één keer met een man naar bed gaan te breken. Hij kust haar alsof hij het meent. En al snel vraagt ze zich af of het voor hem ooit wel nep was. En voor haarzelf... of het ooit echter gaat voelen dan dít. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Stephanie Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zo’n nacht, zo’n ochtend]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444317317/zo-n-nacht--zo-n-ochtend-karolien-berkvens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444317317/zo-n-nacht--zo-n-ochtend-karolien-berkvens"/>
+        <updated>2025-10-04T07:11:32.638Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317317?aid=kb-online-bibliotheek&sid=17&dts=1759504640925&sig=e38c20c56e578a2defe6f5fc152ed178f54df2ee98fc35cc7a0025a1b191cc24&width=320" alt="Omslag van 'Zo’n nacht, zo’n ochtend'" title="Omslag van 'Zo’n nacht, zo’n ochtend'">
+<p>Er was eens een man van vijftig jaar en een dag oud die naar de tandarts ging. Het begin van geen verhaal.Wat is een verhaal zonder vorm, en een pijn zonder naam? Op de dag van zijn vijftigste verjaardag grijpt de man van Karolien Berkvens naar zijn gezicht; hij is getroffen door een acute, onwaarschijnlijke pijn. In Zo’n nacht, zo’n ochtend doet Berkvens een poging om deze pijn, die haar man nu al jaren gijzelt, in elk geval op papier te vangen. Het resultaat is een relaas over onmacht, een octopus en de troost van de verbeelding. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Karolien Berkvens</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Het zuiden]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444670025/het-zuiden-tash-aw</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444670025/het-zuiden-tash-aw"/>
@@ -334,28 +356,6 @@
 <p>Het staat op ons netvlies gebrand hoe Sigrid Kaag werd opgewacht in haar tuin door een menigte met brandende fakkels. Helaas betrof deze uiting van haat geen incident, maar een verontrustende trend, gevoed door eeuwenoude misogynie. Waar komt onze haat voor vrouwelijke politici vandaan? Dat vraagt Daan Heerma van Voss zich af wanneer hij in een taxi een hekelbetoog over ‘Hekse Falsema’ aanhoort. Wat brengen vrouwen op machtige posities, zoals Femke Halsema, Sylvana Simons of Sigrid Kaag, in mensen naar boven waardoor ze vervallen in haatdragende taal? In Het geval Hekse Falsema onderzoekt Heerma van Voss de wortels van deze haat aan de hand van interviews en historische bronnen, zet hij een scherpe, nieuwe theorie uiteen, en laat hij zien hoe de groeiende haat onze democratie dreigt te vergiftigen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Daan Heerma van Voss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake me gek]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447153153/fake-me-gek-stephanie-archer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447153153/fake-me-gek-stephanie-archer"/>
-        <updated>2025-10-04T07:11:32.444Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153153?aid=kb-online-bibliotheek&sid=17&dts=1759505529269&sig=015a111df1266b41a5eae165086847c5e7ed60b17709d0f6f90dfe1d25946257&width=320" alt="Omslag van 'Fake me gek'" title="Omslag van 'Fake me gek'">
-<p>De beste manier om haar vreselijke ex terug te pakken? Een neprelatie met Rory Miller, de rivaal van haar ex, de topscorer van het professioneel ijshockey en de arrogante, flirterige jongen aan wie ze bijles gaf op high school. Hoewel ze een hekel heeft aan ijshockeyers, heiligt het doel in dit geval zéker de middelen. En het kan ook geen kwaad dat de middelen... behoorlijk aantrekkelijk zijn. Doen alsof is leuk en verslavend, merkt Hazel al snel, en onder zijn stoere buitenkant is Rory lief, grappig en beschermend. Hij leert haar schaatsen en geeft veel te veel geld aan haar uit. Hij slaapt bij haar en overtuigt haar om haar regel van maximaal één keer met een man naar bed gaan te breken. Hij kust haar alsof hij het meent. En al snel vraagt ze zich af of het voor hem ooit wel nep was. En voor haarzelf... of het ooit echter gaat voelen dan dít. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Stephanie Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zo’n nacht, zo’n ochtend]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444317317/zo-n-nacht--zo-n-ochtend-karolien-berkvens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444317317/zo-n-nacht--zo-n-ochtend-karolien-berkvens"/>
-        <updated>2025-10-04T07:11:32.638Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317317?aid=kb-online-bibliotheek&sid=17&dts=1759504640925&sig=e38c20c56e578a2defe6f5fc152ed178f54df2ee98fc35cc7a0025a1b191cc24&width=320" alt="Omslag van 'Zo’n nacht, zo’n ochtend'" title="Omslag van 'Zo’n nacht, zo’n ochtend'">
-<p>Er was eens een man van vijftig jaar en een dag oud die naar de tandarts ging. Het begin van geen verhaal.Wat is een verhaal zonder vorm, en een pijn zonder naam? Op de dag van zijn vijftigste verjaardag grijpt de man van Karolien Berkvens naar zijn gezicht; hij is getroffen door een acute, onwaarschijnlijke pijn. In Zo’n nacht, zo’n ochtend doet Berkvens een poging om deze pijn, die haar man nu al jaren gijzelt, in elk geval op papier te vangen. Het resultaat is een relaas over onmacht, een octopus en de troost van de verbeelding. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Karolien Berkvens</name>
         </author>
     </entry>
     <entry>
