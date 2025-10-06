@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-10-05T07:10:56.997Z</updated>
+    <updated>2025-10-06T07:14:22.502Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Secure Touch]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454806949/secure-touch-layla-heart</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454806949/secure-touch-layla-heart"/>
+        <updated>2025-10-06T07:14:22.312Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454806949?aid=kb-online-bibliotheek&sid=17&dts=1759721848374&sig=729e50c53b49264b47691e676908a770f8d298eadd36a9c604581d38f0a07f3b&width=320" alt="Omslag van 'Secure Touch'" title="Omslag van 'Secure Touch'">
+<p>In over their heads, Vera and her pack reach out for help from people who've been dealing with the Suits Syndicate longer than any of them, but having so many unfamiliar people around is putting strain on the brand new pack bonds...</p><p>Vera asking Erika to help them with their tricky situation was a good plan on all fronts. She's got much more experience with things than Vera and her pack and they need the extra hands as Mathew's organisation simply isn't big enough to deal with all of it. But having Erika's people here, on top of Luca's family and the kids they rescued from the Hearts is putting a strain on the pack, especially on Mathew and Vera, as their pregnancy progresses.  Pregnant Omegas who are desperate for their pack members and the constant stress from all sides don't really mix. Especially not when the stress is about the safety of themselves and the people they love.  The pack has to find a way to get closer, to connect more, or things could start getting trickier in so many more ways...</p><p>This is the eighth out of twelve novellas following Vera and her mates in the Her Vicious Pack serial, a dark contemporary reverse harem/Why Choose romance set in a sweet Omegaverse world about a criminal found family empire with dreams of 'expanding the family'. This novella may include any of these elements: steamy scenes, 'I need tissues NOW' moments, cries of 'why, oh, why' and cliffhangers that make you bite your nails (and curse the author). This serial has MF, MM, FF and group scenes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Layla Heart</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christina]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/433090774/christina-bernadette-von-dreien</id>
@@ -224,18 +235,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De wereld en de aarde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446468487/de-wereld-en-de-aarde-david-van-reybrouck</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446468487/de-wereld-en-de-aarde-david-van-reybrouck"/>
-        <updated>2025-10-04T07:11:30.507Z</updated>
-        <summary type="html"><![CDATA[Hoe houden we het veilig?]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446468487?aid=kb-online-bibliotheek&sid=17&dts=1759504512982&sig=4728b9e6a75515cc5d84e07c44b50ef72205d6bc5d986181570602f16910e17e&width=320" alt="Omslag van 'De wereld en de aarde'" title="Omslag van 'De wereld en de aarde'">
-<p>Het grootste veiligheidsvraagstuk van onze tijd is niet de wereld met haar onderlinge conflicten, maar de aarde die meer en meer ontregeld raakt. Steeds heviger gaat de planeet tegen de mensenwereld tekeer. De wereld heeft de fysieke aarde ontwricht en nu ontwricht de aarde de wereld. De moderne diplomatie, dat eeuwenoude overleg tussen landen, moet zich daarom dringend opnieuw uitvinden. Hoe zou dat eruit kunnen zien? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>David van Reybrouck</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to break the rules]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444317619/how-to-break-the-rules-nancy-poleon---ingrid-van-der-chijs</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444317619/how-to-break-the-rules-nancy-poleon---ingrid-van-der-chijs"/>
@@ -251,28 +250,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Damiaanhoeve]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444601767/de-damiaanhoeve-chris-de-stoop</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444601767/de-damiaanhoeve-chris-de-stoop"/>
-        <updated>2025-10-04T07:11:31.118Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444601767?aid=kb-online-bibliotheek&sid=17&dts=1759504862427&sig=948eae52de1a47ffeb13b8f9335d537c0b4b661c7ffc4e558713496547a730aa&width=320" alt="Omslag van 'De Damiaanhoeve'" title="Omslag van 'De Damiaanhoeve'">
-<p>Daar waar Nederland op zijn smalst is en België op zijn breedst, aan de oevers van de Maas, daar ligt de eeuwenoude Damiaanhoeve als een eiland in de winterbedding. Maar de baggermolen die het hele gebied moet ontgrinden komt altijd maar dichterbij. Als alle grind eruit is, wordt het natuur- en overstromingsgebied.</p><p>Wanneer Bert, de laatste bewoner van de uiterwaarden, op een zomeravond thuiskomt, brandt de hoeve af en sleept hij zijn zieltogende vrouw naar buiten. Uit de autopsie blijkt dat de erg geliefde en geëngageerde Gerty gruwelijk vermoord is. De verwoeste Damiaanhoeve krijgt wat later ook nog de‘waterbom’ over zich heen. En nog wil Bert niet wijken.</p><p>Chris de Stoop beschrijft op aangrijpende manier de context en weerslag van wat ‘de hoevemoord’ wordt genoemd. Een waargebeurd verhaal over schuld en onschuld, schijn en zijn, waan en waarheid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Chris De Stoop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream count]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444317376/dream-count-chimamanda-ngozi-adichie</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444317376/dream-count-chimamanda-ngozi-adichie"/>
-        <updated>2025-10-04T07:11:31.333Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317376?aid=kb-online-bibliotheek&sid=17&dts=1759508820973&sig=8fd08b66d2f383a63dfe0743adb6778e8033ffb5125d3c7560ca087ba4053cb7&width=320" alt="Omslag van 'Dream count'" title="Omslag van 'Dream count'">
-<p>Dream Count is de nieuwe, urgente roman van de auteur van Amerikanah en We moeten allemaal feminist zijn. Het is een sprankelende vertelling over de keuzes die we maken en de keuzes die voor ons gemaakt worden. Adichie richt haar scherpzinnige blik op vier vrouwen die allen worstelen met de vraag: hoe eerlijk moet je naar jezelf toe zijn om lief te kunnen hebben en bemind te worden?</p><p>Chiamaka is een Nigeriaanse reisjournaliste die in Amerika woont. Ze denkt tijdens de coronapandemie met spijt terug aan haar vroegere minnaars en worstelt met dekeuzes die ze ooit heeft gemaakt.Zikora, haar beste vriendin, is een advocate die in alles succesvol is geweest, totdat ze zich met een gebroken hart moet wenden tot de persoon die ze het minst nodig dacht te hebben.Omelogor, Chiamaka’s dappere en onverschrokken nicht, is een belangrijke zakenvrouw in Nigeria, tot ze zich begint af te vragen hoe goed ze zichzelf kent.En Kadiatou, Chiamaka’s huishoudster, zet alles op alles om haar dochter in Amerika te laten opgroeien – maar een onvoorstelbare rampspoed zal haar leven voorgoed veranderen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Chimamanda Ngozi Adichie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Let Them Theory]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444427643/the-let-them-theory-mel-robbins</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444427643/the-let-them-theory-mel-robbins"/>
@@ -282,28 +259,6 @@
 <p>Bevrijd jezelf van stress en zorgen met The Let Them-theory. Ontdek praktische tips voor meer controle, betere relaties en een energieker leven.</p>]]></content>
         <author>
             <name>Mel Robbins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake me gek]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447153153/fake-me-gek-stephanie-archer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447153153/fake-me-gek-stephanie-archer"/>
-        <updated>2025-10-04T07:11:32.444Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153153?aid=kb-online-bibliotheek&sid=17&dts=1759505529269&sig=015a111df1266b41a5eae165086847c5e7ed60b17709d0f6f90dfe1d25946257&width=320" alt="Omslag van 'Fake me gek'" title="Omslag van 'Fake me gek'">
-<p>De beste manier om haar vreselijke ex terug te pakken? Een neprelatie met Rory Miller, de rivaal van haar ex, de topscorer van het professioneel ijshockey en de arrogante, flirterige jongen aan wie ze bijles gaf op high school. Hoewel ze een hekel heeft aan ijshockeyers, heiligt het doel in dit geval zéker de middelen. En het kan ook geen kwaad dat de middelen... behoorlijk aantrekkelijk zijn. Doen alsof is leuk en verslavend, merkt Hazel al snel, en onder zijn stoere buitenkant is Rory lief, grappig en beschermend. Hij leert haar schaatsen en geeft veel te veel geld aan haar uit. Hij slaapt bij haar en overtuigt haar om haar regel van maximaal één keer met een man naar bed gaan te breken. Hij kust haar alsof hij het meent. En al snel vraagt ze zich af of het voor hem ooit wel nep was. En voor haarzelf... of het ooit echter gaat voelen dan dít. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Stephanie Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zo’n nacht, zo’n ochtend]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444317317/zo-n-nacht--zo-n-ochtend-karolien-berkvens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444317317/zo-n-nacht--zo-n-ochtend-karolien-berkvens"/>
-        <updated>2025-10-04T07:11:32.638Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317317?aid=kb-online-bibliotheek&sid=17&dts=1759504640925&sig=e38c20c56e578a2defe6f5fc152ed178f54df2ee98fc35cc7a0025a1b191cc24&width=320" alt="Omslag van 'Zo’n nacht, zo’n ochtend'" title="Omslag van 'Zo’n nacht, zo’n ochtend'">
-<p>Er was eens een man van vijftig jaar en een dag oud die naar de tandarts ging. Het begin van geen verhaal.Wat is een verhaal zonder vorm, en een pijn zonder naam? Op de dag van zijn vijftigste verjaardag grijpt de man van Karolien Berkvens naar zijn gezicht; hij is getroffen door een acute, onwaarschijnlijke pijn. In Zo’n nacht, zo’n ochtend doet Berkvens een poging om deze pijn, die haar man nu al jaren gijzelt, in elk geval op papier te vangen. Het resultaat is een relaas over onmacht, een octopus en de troost van de verbeelding. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Karolien Berkvens</name>
         </author>
     </entry>
     <entry>
@@ -348,6 +303,62 @@
 <p>De grootvader van Maarten van Riel was een van de duizenden textielarbeiders die Tilburg rijk was. De stad was de spil van zijn bestaan, maar ook de plek waar hij een einde maakte aan zijn leven. Als Van Riel terugverhuist naar zijn geboortestad, kan hij niet meer om zijn pijnlijke familiegeschiedenis heen. Hij duikt in de krochten van het archief en stelt vragen die hij eerder niet durfde te stellen. Welke omstandigheden hebben Tilburg gevormd tot de stad van vandaag, en wat dreef zijn grootvader tot zijn noodlottige einde? In een wervelend boek legt Van Riel aan de hand van zijn geschiedenis de rijke en tragische historie van de Tilburgse textielindustrie bloot. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De wereld en de aarde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446468487/de-wereld-en-de-aarde-david-van-reybrouck</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446468487/de-wereld-en-de-aarde-david-van-reybrouck"/>
+        <updated>2025-10-04T07:11:30.507Z</updated>
+        <summary type="html"><![CDATA[Hoe houden we het veilig?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446468487?aid=kb-online-bibliotheek&sid=17&dts=1759504512982&sig=4728b9e6a75515cc5d84e07c44b50ef72205d6bc5d986181570602f16910e17e&width=320" alt="Omslag van 'De wereld en de aarde'" title="Omslag van 'De wereld en de aarde'">
+<p>Het grootste veiligheidsvraagstuk van onze tijd is niet de wereld met haar onderlinge conflicten, maar de aarde die meer en meer ontregeld raakt. Steeds heviger gaat de planeet tegen de mensenwereld tekeer. De wereld heeft de fysieke aarde ontwricht en nu ontwricht de aarde de wereld. De moderne diplomatie, dat eeuwenoude overleg tussen landen, moet zich daarom dringend opnieuw uitvinden. Hoe zou dat eruit kunnen zien? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>David van Reybrouck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Damiaanhoeve]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444601767/de-damiaanhoeve-chris-de-stoop</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444601767/de-damiaanhoeve-chris-de-stoop"/>
+        <updated>2025-10-04T07:11:31.118Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444601767?aid=kb-online-bibliotheek&sid=17&dts=1759504862427&sig=948eae52de1a47ffeb13b8f9335d537c0b4b661c7ffc4e558713496547a730aa&width=320" alt="Omslag van 'De Damiaanhoeve'" title="Omslag van 'De Damiaanhoeve'">
+<p>Daar waar Nederland op zijn smalst is en België op zijn breedst, aan de oevers van de Maas, daar ligt de eeuwenoude Damiaanhoeve als een eiland in de winterbedding. Maar de baggermolen die het hele gebied moet ontgrinden komt altijd maar dichterbij. Als alle grind eruit is, wordt het natuur- en overstromingsgebied.</p><p>Wanneer Bert, de laatste bewoner van de uiterwaarden, op een zomeravond thuiskomt, brandt de hoeve af en sleept hij zijn zieltogende vrouw naar buiten. Uit de autopsie blijkt dat de erg geliefde en geëngageerde Gerty gruwelijk vermoord is. De verwoeste Damiaanhoeve krijgt wat later ook nog de‘waterbom’ over zich heen. En nog wil Bert niet wijken.</p><p>Chris de Stoop beschrijft op aangrijpende manier de context en weerslag van wat ‘de hoevemoord’ wordt genoemd. Een waargebeurd verhaal over schuld en onschuld, schijn en zijn, waan en waarheid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Chris De Stoop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream count]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444317376/dream-count-chimamanda-ngozi-adichie</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444317376/dream-count-chimamanda-ngozi-adichie"/>
+        <updated>2025-10-04T07:11:31.333Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317376?aid=kb-online-bibliotheek&sid=17&dts=1759508820973&sig=8fd08b66d2f383a63dfe0743adb6778e8033ffb5125d3c7560ca087ba4053cb7&width=320" alt="Omslag van 'Dream count'" title="Omslag van 'Dream count'">
+<p>Dream Count is de nieuwe, urgente roman van de auteur van Amerikanah en We moeten allemaal feminist zijn. Het is een sprankelende vertelling over de keuzes die we maken en de keuzes die voor ons gemaakt worden. Adichie richt haar scherpzinnige blik op vier vrouwen die allen worstelen met de vraag: hoe eerlijk moet je naar jezelf toe zijn om lief te kunnen hebben en bemind te worden?</p><p>Chiamaka is een Nigeriaanse reisjournaliste die in Amerika woont. Ze denkt tijdens de coronapandemie met spijt terug aan haar vroegere minnaars en worstelt met dekeuzes die ze ooit heeft gemaakt.Zikora, haar beste vriendin, is een advocate die in alles succesvol is geweest, totdat ze zich met een gebroken hart moet wenden tot de persoon die ze het minst nodig dacht te hebben.Omelogor, Chiamaka’s dappere en onverschrokken nicht, is een belangrijke zakenvrouw in Nigeria, tot ze zich begint af te vragen hoe goed ze zichzelf kent.En Kadiatou, Chiamaka’s huishoudster, zet alles op alles om haar dochter in Amerika te laten opgroeien – maar een onvoorstelbare rampspoed zal haar leven voorgoed veranderen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Chimamanda Ngozi Adichie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zo’n nacht, zo’n ochtend]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444317317/zo-n-nacht--zo-n-ochtend-karolien-berkvens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444317317/zo-n-nacht--zo-n-ochtend-karolien-berkvens"/>
+        <updated>2025-10-04T07:11:32.638Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317317?aid=kb-online-bibliotheek&sid=17&dts=1759504640925&sig=e38c20c56e578a2defe6f5fc152ed178f54df2ee98fc35cc7a0025a1b191cc24&width=320" alt="Omslag van 'Zo’n nacht, zo’n ochtend'" title="Omslag van 'Zo’n nacht, zo’n ochtend'">
+<p>Er was eens een man van vijftig jaar en een dag oud die naar de tandarts ging. Het begin van geen verhaal.Wat is een verhaal zonder vorm, en een pijn zonder naam? Op de dag van zijn vijftigste verjaardag grijpt de man van Karolien Berkvens naar zijn gezicht; hij is getroffen door een acute, onwaarschijnlijke pijn. In Zo’n nacht, zo’n ochtend doet Berkvens een poging om deze pijn, die haar man nu al jaren gijzelt, in elk geval op papier te vangen. Het resultaat is een relaas over onmacht, een octopus en de troost van de verbeelding. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Karolien Berkvens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake me gek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447153153/fake-me-gek-stephanie-archer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447153153/fake-me-gek-stephanie-archer"/>
+        <updated>2025-10-04T07:11:32.444Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153153?aid=kb-online-bibliotheek&sid=17&dts=1759505529269&sig=015a111df1266b41a5eae165086847c5e7ed60b17709d0f6f90dfe1d25946257&width=320" alt="Omslag van 'Fake me gek'" title="Omslag van 'Fake me gek'">
+<p>De beste manier om haar vreselijke ex terug te pakken? Een neprelatie met Rory Miller, de rivaal van haar ex, de topscorer van het professioneel ijshockey en de arrogante, flirterige jongen aan wie ze bijles gaf op high school. Hoewel ze een hekel heeft aan ijshockeyers, heiligt het doel in dit geval zéker de middelen. En het kan ook geen kwaad dat de middelen... behoorlijk aantrekkelijk zijn. Doen alsof is leuk en verslavend, merkt Hazel al snel, en onder zijn stoere buitenkant is Rory lief, grappig en beschermend. Hij leert haar schaatsen en geeft veel te veel geld aan haar uit. Hij slaapt bij haar en overtuigt haar om haar regel van maximaal één keer met een man naar bed gaan te breken. Hij kust haar alsof hij het meent. En al snel vraagt ze zich af of het voor hem ooit wel nep was. En voor haarzelf... of het ooit echter gaat voelen dan dít. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Stephanie Archer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Het geval Hekse Falsema]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444317333/het-geval-hekse-falsema-daan-heerma-van-voss</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444317333/het-geval-hekse-falsema-daan-heerma-van-voss"/>
@@ -359,27 +370,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[33]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442273150/33-gwen-van-poorten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442273150/33-gwen-van-poorten"/>
-        <updated>2025-10-03T07:12:38.499Z</updated>
-        <summary type="html"><![CDATA[Een jaar waarin ik alles verloor en me nog nooit zo rijk heb gevoeld]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442273150?aid=kb-online-bibliotheek&sid=17&dts=1759406289367&sig=8a5e265ea7cab29047900d5f50f103562e08f5eff6b5b9fd243285db709a7358&width=320" alt="Omslag van '33'" title="Omslag van '33'">
-<p>Een reis vol hoogtepunten maar ook zeker dieptepunten. Zo kun je het afgelopen jaar van Gwen van Poorten het best beschrijven. Van paddoceremonies tot botox, van met je partner naar Burning Man en je daar verloven tot het verbreken van die verloving, en tijdens het verhuizen naar je nieuwe woning ál je spullen kwijtraken.Wat begon als een zoektocht naar zingeving en het onderzoeken van vraagstukken die je als dertiger hebt – wie ben ik, wat wil ik, kinderwens, trouwen, vriendschappen, zelfontwikkeling –, eindigde in het opnieuw inrichten van een leven, zonder bezittingen, maar met hond en een traplift. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Huis aan zee]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454806574/huis-aan-zee-marian-werkman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454806574/huis-aan-zee-marian-werkman"/>
+        <updated>2025-10-06T07:14:22.501Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454806574?aid=kb-online-bibliotheek&sid=17&dts=1759675797074&sig=a38cef9e5e964c1c2ea286f8f894f62899fdd66859238873590c1354c688df10&width=320" alt="Omslag van 'Huis aan zee'" title="Omslag van 'Huis aan zee'">
+<p>Na de breuk met haar ex besluit Stella haar droom waar te maken. In Duinwijck opent ze B&B De Blauwe Zee. Al snel melden zich gasten om te genieten van een onbezorgde vakantie. Dan wordt ze vanuit het niets ineens bedreigd en een van de gasten, de 15-jarige Charlotte, raakt vermist. Stella start met oud-rechercheur John van Laar een zoektocht en ze ontdekken de vreselijke historie van een vroegere bewoner van het pand... Marian Werkman begon met schrijven van verhalen zodra ze kon lezen Ze was altijd te vinden achter de typemachine en werd een fanatiek reporter van de schoolkrant. Ook maakte ze vertalingen en illustraties voor tijdschriften. Ze won de verhalenwedstrijd van het Dordrechts Winterboek en werd genomineerd voor de Agatha Christie schrijfwedstrijd. Naast detectiveverhalen publiceert ze boeken over asielhonden. Marian heeft een passie voor honden, muziek, boeken en theater. Ze is getrouwd met schrijver Marco Knauff. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Gwen Van Poorten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Work-Laugh Balance]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444330941/work-laugh-balance-pep-rosenfeld</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444330941/work-laugh-balance-pep-rosenfeld"/>
-        <updated>2025-10-03T07:12:38.702Z</updated>
-        <summary type="html"><![CDATA[Why and how humor will make you and your team more successful]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444330941?aid=kb-online-bibliotheek&sid=17&dts=1759404681696&sig=9f3d97a3043e2ce8e24e7123901ab5f86dedba76b3fd05e0ccd6451baa36424b&width=320" alt="Omslag van 'Work-Laugh Balance'" title="Omslag van 'Work-Laugh Balance'">
-<p>We all work. And we all like to laugh. This book is about how to do both at the same time – and why doing both at the same time is so powerful and so valuable. It's about how to make your workplace a place where you and your colleagues can appreciate and enjoy humor together. It's about why humor at work is better for you, your team, your company and the quality of the work you all do together.</p><p>Humor connects people, even people who might not naturally get along. It communicates messages and makes them memorable. It allows people to see subjects – and problems – in a new light. The magic of humor is real. And you can learn how to do it. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Pep Rosenfeld</name>
+            <name>Marian Werkman</name>
         </author>
     </entry>
 </feed>
