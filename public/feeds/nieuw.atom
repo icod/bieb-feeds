@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-10-08T07:13:17.841Z</updated>
+    <updated>2025-10-09T07:13:05.597Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Barbaarse liefde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454914822/barbaarse-liefde-ruby-dixon</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454914822/barbaarse-liefde-ruby-dixon"/>
+        <updated>2025-10-09T07:13:05.357Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454914822?aid=kb-online-bibliotheek&sid=17&dts=1759953550671&sig=2445d11b5eb7a777df6ce0a008f173b7d9b99330ad302941cb0689d414b56241&width=320" alt="Omslag van 'Barbaarse liefde'" title="Omslag van 'Barbaarse liefde'">
+<p>Kira is van plan om single te blijven op de buitenaardse planeet waar ze gestrand is - ze wil toch geen partner. Tenminste, dat maakt ze zichzelf wijs. Maar als Aehako op haar pad komt, verandert alles. Menselijke vrouwen zijn geliefd op Not-Hoth en één alien in het bijzonder heeft duidelijk gemaakt dat hij in Kira geïnteresseerd is. Het is moeilijk om de sexy, flirterige Aehako af te houden terwijl ze ernaar verlangt om hem bij zijn hoorns te grijpen en zich te laten meesleuren naar zijn grot. Maar Kira heeft een vreselijk geheim - of eigenlijk een paar. Ze is ervan overtuigd dat Aehako nooit van haar kan houden als hij de volledige waarheid te weten komt. Nog verontrustender is het feit dat de aliens die haar en de andere vrouwen ontvoerd hebben terug zijn, en dankzij het vertaalimplantaat in haar oor kunnen ze haar vinden. Kira's aanwezigheid hier brengt iedereen in gevaar, maar kan ze haar nieuwe leven en de man naar wie ze het meest verlangt opgeven? En zal hij haar nog wel willen als hij erachter komt wie ze werkelijk is? 'Barbaarse liefde' is het derde deel in de scifi-romanceserie Barbaren van de IJsplaneet van Ruby Dixon, over op een verre planeet gestrande vrouwen en de buitenaardse mannen die zich over hen ontfermen. Ruby Dixon begon als self-publishing auteur om deze unieke verhalen met de wereld te delen en het werd een grote hit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ruby Dixon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sint pakt weer uit]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454914830/sint-pakt-weer-uit-diverse-auteurs</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454914830/sint-pakt-weer-uit-diverse-auteurs"/>
+        <updated>2025-10-09T07:13:05.595Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454914830?aid=kb-online-bibliotheek&sid=17&dts=1759944114898&sig=2aa7aea8096af03a170e4d27d0b20ba66f12bc1cac417cd10eff26e27dd14a4f&width=320" alt="Omslag van 'Sint pakt weer uit'" title="Omslag van 'Sint pakt weer uit'">
+<p>Sint pakt weer en groots uit! In deze feestelijke bundel vind je vierentwintig unieke Sinterklaasverhalen. Wat als Sinterklaas een broer blijkt te hebben / Beestenboel op de Pakjesboot / Sinterklaas gaat voor groen en hoe komt het toch dat de goedheiligman last heeft van ondraaglijke jeuk? Ontdek deze en vele andere verrassende, grappige en ontroerende verhalen in 'Sint pakt weer uit!'- een verzamelbundel vol fantasie, humor en hartverwarmende momenten. Voor het goede doel De royalty's gaan naar Villa Pardoes, waar ernstig zieke kinderen en hun families een onvergetelijke week beleven. Met dank aan de 24 schrijvers (op alfabetische volgorde): Carla van Vliet, Charlotte Desmet, Corien van Bogaert, Corine Lammers, Dorien Hoeve, Inge Mol, Isabelle Paz Soldan, Karlijn van de Bor, Lize Berger, Lucy Neetens, Marion Reeuwijk, Monique Hemelaar, Nicolas Voet, Remda Spoelstra, Tessa te Loo, Tiamo Pastoor, Viola van Blijswijk, Willem van Ulsen, Eveline van Dienst, Femke Kraijo, Mehmet Küçükaycan, Lin de Laat, Wim Slierendregt en Koen Vogels. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Diverse Auteurs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secure Touch]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/454806949/secure-touch-layla-heart</id>
@@ -236,73 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ludwig]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444317503/ludwig-jana-antonissen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444317503/ludwig-jana-antonissen"/>
-        <updated>2025-10-04T07:11:31.689Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317503?aid=kb-online-bibliotheek&sid=17&dts=1759552581659&sig=5d1eb85d9174d131a640723bdc918b20f2fc8cb3817dac8e99eb243166e910ed&width=320" alt="Omslag van 'Ludwig'" title="Omslag van 'Ludwig'">
-<p>Vijf jaar na de ontbinding van het Berlijnse cultexperiment onder leiding van Ludwig von Sachsenheim wordt Mira Maselis gedwongen haar eigen rol onder ogen te zien. De schaamte ver voorbij herinnert ze zich alles. Hoe beïnvloedde haar toetreding tot Ludwigs raadselachtige Neue Gesellschaft de gespannen verhouding met haar vader? In hoeverre was zij medeplichtig aan alle grensoverschrijdingen, groot en klein? En voelt ze zich daar wel voldoende schuldig over?</p><p>Ludwig is een gedurfde debuutroman waarin Jana Antonissen voelbaar maakt wat verlies met mensen doet in een wereld waarin steeds minder ruimte is voor morele ambiguïteit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jana Antonissen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to break the rules]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444317619/how-to-break-the-rules-nancy-poleon---ingrid-van-der-chijs</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444317619/how-to-break-the-rules-nancy-poleon---ingrid-van-der-chijs"/>
-        <updated>2025-10-04T07:11:30.933Z</updated>
-        <summary type="html"><![CDATA[Word succesvol in je werk (en leven) door altijd jezelf te blijven]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317619?aid=kb-online-bibliotheek&sid=17&dts=1759511841214&sig=0169caf458b1a733c1a66ea6da34d45e9bbcb82ee5e05510c03cc0f40afc5a5d&width=320" alt="Omslag van 'How to break the rules'" title="Omslag van 'How to break the rules'">
-<p>Als vrouw staat je tegenwoordig niets meer in de weg om de top te bereiken. Toch? Helaas, in de praktijk zijn er nog behoorlijk wat obstakels. Een van de meest onderschatte barrières zijn de ongeschreven ‘regels’ waar we ons allemaal aan houden, zowel mannen als vrouwen. How to break the rules ontkracht de belangrijkste regels waar vrouwen die carrière willen maken tegenaan lopen. Denk bijvoorbeeld aan ‘vrouwen kunnen niet onderhandelen’, ‘vrouwen zijn te emotioneel’, ‘vrouwen zijn te soft’ of ‘je mag je niet te vrouwelijk kleden’. Het boek legt op basis van ervaringen van topvrouwen en wetenschappelijk onderzoek uit waarom deze ‘regels’ onzin zijn en geeft tips hoe het anders kan, voorzien van een gezonde dosis humor en zelfspot.Daarnaast bevat het boek ook portretten van sterke, succesvolle vrouwen, die op hun eigen voorwaarden carrière hebben gemaakt: van een Nederlandse bankdirecteur tot een CEO uit China en van de Afrikaanse Zakenvrouw van het Jaar tot een wetenschapper uit IJsland.Inspirerend en hands-on: dit boek is onmisbaar voor alle vrouwen met ambitie! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nancy Poleon</name>
-        </author>
-        <author>
-            <name>Ingrid van der Chijs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het zuiden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444670025/het-zuiden-tash-aw</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444670025/het-zuiden-tash-aw"/>
-        <updated>2025-10-04T07:11:31.512Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444670025?aid=kb-online-bibliotheek&sid=17&dts=1759504791144&sig=d1a0a6778acd3146dbc0d987b8bc9437ea55ff9a5af5dfbb89ba6ccca6002bb0&width=320" alt="Omslag van 'Het zuiden'" title="Omslag van 'Het zuiden'">
-<p>De jonge Jay reist met zijn familie naar het landgoed in het zuiden van Maleisië dat zijn overleden grootvader hun heeft nagelaten. De boomgaarden zijn inmiddels in verval geraakt en de velden uitgedroogd, maar toch stuurt zijn vader hem eropuit om het land te bewerken, samen met Chuan, de zoon van de opzichter.In de verstikkende hitte bloeit tussen Jay en Chuan de liefde op, maar de erfenis van het landgoed drukt zwaar op alle leden van het gezin, en Jay’s moeder Sui Ching wordt gedwongen onder ogen te zien wat ze heeft opgeofferd voor haar man en kinderen.Het zuiden bewijst het meesterschap van Tash Aw en ontvouwt zich als een intieme roman over liefde, nalatenschap en spijt in een sterk veranderende wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tash Aw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brutus heeft honger]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444724524/brutus-heeft-honger-mathijs-deen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444724524/brutus-heeft-honger-mathijs-deen"/>
-        <updated>2025-10-04T07:11:30.318Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444724524?aid=kb-online-bibliotheek&sid=17&dts=1759504602341&sig=29558c00d21f13855fd87af28d94ad9172a302baed8901ea2c9175f133b982d8&width=320" alt="Omslag van 'Brutus heeft honger'" title="Omslag van 'Brutus heeft honger'">
-<p>Met speels gemak en in een prachtige stijl wekt Mathijs Deen historische personages op ongekende wijze tot leven. In enkele zinnen weet hij een wereld op te roepen waarin gebeurtenissen uit het verleden in een ongewoon licht komen te staan. Nu met acht extra verhalen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Mathijs Deen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nacht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44431749X/nacht-lars-kepler</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44431749X/nacht-lars-kepler"/>
-        <updated>2025-10-04T07:11:31.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44431749X?aid=kb-online-bibliotheek&sid=17&dts=1759506259227&sig=2b6c8df095220e269bcefa19044bade488226062274af8a53ae8d9e055e9e274&width=320" alt="Omslag van 'Nacht'" title="Omslag van 'Nacht'">
-<p>Midden in de nacht ontvangt de politie een noodoproep over een overval op een camping net buiten Stockholm. Het terrein is afgesloten, maar in een van de caravansbrandt nog licht. De agenten treffen er een verschrikkelijk tafereel aan. Vloeren, wanden en meubels, alles zit onder het bloed, een in stukken gehakt lichaam ligt op de grond. In de ruimte ernaast vinden ze jongeman die met zijn hoofd op een afgehakte arm ligt te slapen. De jongen blijkt de zeventienjarige Hugo Sand, die lijdt aan een zeldzame, door nachtmerries veroorzaakte vorm van slaapwandelen. Hij kan zowel dader als getuige zijn, want hij herinnert zich niets meer van die nacht. Joona Linna wordt gevraagd de zaak op zich te nemen, en hij neemt contact op met zijn oude vriend Erik Maria Bark om bij het onderzoek gebruik te maken van hypnose. Het is het begin van een gecompliceerde jacht op een beestachtige moordenaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lars Kepler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het verdriet van Tilburg]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444673466/het-verdriet-van-tilburg--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444673466/het-verdriet-van-tilburg--"/>
-        <updated>2025-10-04T07:11:32.060Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444673466?aid=kb-online-bibliotheek&sid=17&dts=1759504823335&sig=092d01fa5b83c9cdc0565668a4f8c3826b36ff6121463ef1988a00164fe00aa7&width=320" alt="Omslag van 'Het verdriet van Tilburg'" title="Omslag van 'Het verdriet van Tilburg'">
-<p>De grootvader van Maarten van Riel was een van de duizenden textielarbeiders die Tilburg rijk was. De stad was de spil van zijn bestaan, maar ook de plek waar hij een einde maakte aan zijn leven. Als Van Riel terugverhuist naar zijn geboortestad, kan hij niet meer om zijn pijnlijke familiegeschiedenis heen. Hij duikt in de krochten van het archief en stelt vragen die hij eerder niet durfde te stellen. Welke omstandigheden hebben Tilburg gevormd tot de stad van vandaag, en wat dreef zijn grootvader tot zijn noodlottige einde? In een wervelend boek legt Van Riel aan de hand van zijn geschiedenis de rijke en tragische historie van de Tilburgse textielindustrie bloot. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De wereld en de aarde]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/446468487/de-wereld-en-de-aarde-david-van-reybrouck</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/446468487/de-wereld-en-de-aarde-david-van-reybrouck"/>
@@ -378,6 +333,54 @@
 <p>Na de breuk met haar ex besluit Stella haar droom waar te maken. In Duinwijck opent ze B&B De Blauwe Zee. Al snel melden zich gasten om te genieten van een onbezorgde vakantie. Dan wordt ze vanuit het niets ineens bedreigd en een van de gasten, de 15-jarige Charlotte, raakt vermist. Stella start met oud-rechercheur John van Laar een zoektocht en ze ontdekken de vreselijke historie van een vroegere bewoner van het pand... Marian Werkman begon met schrijven van verhalen zodra ze kon lezen Ze was altijd te vinden achter de typemachine en werd een fanatiek reporter van de schoolkrant. Ook maakte ze vertalingen en illustraties voor tijdschriften. Ze won de verhalenwedstrijd van het Dordrechts Winterboek en werd genomineerd voor de Agatha Christie schrijfwedstrijd. Naast detectiveverhalen publiceert ze boeken over asielhonden. Marian heeft een passie voor honden, muziek, boeken en theater. Ze is getrouwd met schrijver Marco Knauff. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marian Werkman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ludwig]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444317503/ludwig-jana-antonissen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444317503/ludwig-jana-antonissen"/>
+        <updated>2025-10-04T07:11:31.689Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317503?aid=kb-online-bibliotheek&sid=17&dts=1759552581659&sig=5d1eb85d9174d131a640723bdc918b20f2fc8cb3817dac8e99eb243166e910ed&width=320" alt="Omslag van 'Ludwig'" title="Omslag van 'Ludwig'">
+<p>Vijf jaar na de ontbinding van het Berlijnse cultexperiment onder leiding van Ludwig von Sachsenheim wordt Mira Maselis gedwongen haar eigen rol onder ogen te zien. De schaamte ver voorbij herinnert ze zich alles. Hoe beïnvloedde haar toetreding tot Ludwigs raadselachtige Neue Gesellschaft de gespannen verhouding met haar vader? In hoeverre was zij medeplichtig aan alle grensoverschrijdingen, groot en klein? En voelt ze zich daar wel voldoende schuldig over?</p><p>Ludwig is een gedurfde debuutroman waarin Jana Antonissen voelbaar maakt wat verlies met mensen doet in een wereld waarin steeds minder ruimte is voor morele ambiguïteit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jana Antonissen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to break the rules]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444317619/how-to-break-the-rules-nancy-poleon---ingrid-van-der-chijs</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444317619/how-to-break-the-rules-nancy-poleon---ingrid-van-der-chijs"/>
+        <updated>2025-10-04T07:11:30.933Z</updated>
+        <summary type="html"><![CDATA[Word succesvol in je werk (en leven) door altijd jezelf te blijven]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444317619?aid=kb-online-bibliotheek&sid=17&dts=1759511841214&sig=0169caf458b1a733c1a66ea6da34d45e9bbcb82ee5e05510c03cc0f40afc5a5d&width=320" alt="Omslag van 'How to break the rules'" title="Omslag van 'How to break the rules'">
+<p>Als vrouw staat je tegenwoordig niets meer in de weg om de top te bereiken. Toch? Helaas, in de praktijk zijn er nog behoorlijk wat obstakels. Een van de meest onderschatte barrières zijn de ongeschreven ‘regels’ waar we ons allemaal aan houden, zowel mannen als vrouwen. How to break the rules ontkracht de belangrijkste regels waar vrouwen die carrière willen maken tegenaan lopen. Denk bijvoorbeeld aan ‘vrouwen kunnen niet onderhandelen’, ‘vrouwen zijn te emotioneel’, ‘vrouwen zijn te soft’ of ‘je mag je niet te vrouwelijk kleden’. Het boek legt op basis van ervaringen van topvrouwen en wetenschappelijk onderzoek uit waarom deze ‘regels’ onzin zijn en geeft tips hoe het anders kan, voorzien van een gezonde dosis humor en zelfspot.Daarnaast bevat het boek ook portretten van sterke, succesvolle vrouwen, die op hun eigen voorwaarden carrière hebben gemaakt: van een Nederlandse bankdirecteur tot een CEO uit China en van de Afrikaanse Zakenvrouw van het Jaar tot een wetenschapper uit IJsland.Inspirerend en hands-on: dit boek is onmisbaar voor alle vrouwen met ambitie! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nancy Poleon</name>
+        </author>
+        <author>
+            <name>Ingrid van der Chijs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het zuiden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444670025/het-zuiden-tash-aw</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444670025/het-zuiden-tash-aw"/>
+        <updated>2025-10-04T07:11:31.512Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444670025?aid=kb-online-bibliotheek&sid=17&dts=1759504791144&sig=d1a0a6778acd3146dbc0d987b8bc9437ea55ff9a5af5dfbb89ba6ccca6002bb0&width=320" alt="Omslag van 'Het zuiden'" title="Omslag van 'Het zuiden'">
+<p>De jonge Jay reist met zijn familie naar het landgoed in het zuiden van Maleisië dat zijn overleden grootvader hun heeft nagelaten. De boomgaarden zijn inmiddels in verval geraakt en de velden uitgedroogd, maar toch stuurt zijn vader hem eropuit om het land te bewerken, samen met Chuan, de zoon van de opzichter.In de verstikkende hitte bloeit tussen Jay en Chuan de liefde op, maar de erfenis van het landgoed drukt zwaar op alle leden van het gezin, en Jay’s moeder Sui Ching wordt gedwongen onder ogen te zien wat ze heeft opgeofferd voor haar man en kinderen.Het zuiden bewijst het meesterschap van Tash Aw en ontvouwt zich als een intieme roman over liefde, nalatenschap en spijt in een sterk veranderende wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tash Aw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brutus heeft honger]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444724524/brutus-heeft-honger-mathijs-deen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444724524/brutus-heeft-honger-mathijs-deen"/>
+        <updated>2025-10-04T07:11:30.318Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444724524?aid=kb-online-bibliotheek&sid=17&dts=1759504602341&sig=29558c00d21f13855fd87af28d94ad9172a302baed8901ea2c9175f133b982d8&width=320" alt="Omslag van 'Brutus heeft honger'" title="Omslag van 'Brutus heeft honger'">
+<p>Met speels gemak en in een prachtige stijl wekt Mathijs Deen historische personages op ongekende wijze tot leven. In enkele zinnen weet hij een wereld op te roepen waarin gebeurtenissen uit het verleden in een ongewoon licht komen te staan. Nu met acht extra verhalen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Mathijs Deen</name>
         </author>
     </entry>
 </feed>
