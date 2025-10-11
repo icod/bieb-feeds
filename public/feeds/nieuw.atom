@@ -2,341 +2,354 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-10-10T07:13:13.426Z</updated>
+    <updated>2025-10-11T07:11:13.006Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
-        <title type="html"><![CDATA[Verleid in Rio]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44328038X/verleid-in-rio-lucy-king</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44328038X/verleid-in-rio-lucy-king"/>
-        <updated>2025-10-10T07:13:03.330Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44328038X?aid=kb-online-bibliotheek&sid=17&dts=1760022531287&sig=70dc7bf35d5a84747e95598bd4203a10417cd83f39866dd0fe4c6b1ce9fbb8e6&width=320" alt="Omslag van 'Verleid in Rio'" title="Omslag van 'Verleid in Rio'">
-<p>Haar kussen smaken zoeter dan wraak…Na jarenlang voor het familiebedrijf te hebben gewerkt, besluit Thalia dat het tijd is om op eigen benen te staan. En hoe moeilijk ze het ook vindt, ze verbreekt ook haar relatie met de sexy tycoon Santiago Ferreira, omdat ze vreest dat ze veel te afhankelijk van hem is. Niet veel later krijgt ze haar eerste opdracht als zelfstandige. Ze is dolblij - tot ze ontdekt wie haar opdrachtgever is…Santiago kan het niet verkroppen dat Thalia hem heeft verlaten en hij wil wraak. Via een list weet hij het zo te regelen dat ze voor een opdracht samen naar Rio moeten afreizen. Daar, onder de Braziliaanse zon, zal hij haar opnieuw verleiden – om haar vervolgens keihard te dumpen. Algauw blijkt echter dat de tropische hitte niet alleen de passie hoog doet oplaaien, maar ook andere, veel diepere gevoelens die zijn wraakplan ernstig in gevaar brengen…  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Maar ik wil helemaal geen moderne man zijn]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443090718/maar-ik-wil-helemaal-geen-moderne-man-zijn-julien-althuisius</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443090718/maar-ik-wil-helemaal-geen-moderne-man-zijn-julien-althuisius"/>
+        <updated>2025-10-11T07:11:05.827Z</updated>
+        <summary type="html"><![CDATA[Belevenissen van een moderne man]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443090718?aid=kb-online-bibliotheek&sid=17&dts=1760107251955&sig=c708fd0c464c462ff22bb11513665e6938a64758812fe15d5a8bea07edecaf1d&width=320" alt="Omslag van 'Maar ik wil helemaal geen moderne man zijn'" title="Omslag van 'Maar ik wil helemaal geen moderne man zijn'">
+<p>Op een gemiddelde dag is Julien Althuisius vader, een geliefde, een zoon, een slechte klusjesman, een best aardige kok en soms ook een chagrijnige clown. Maar bovenal is hij schrijver en legt hij zijn leven vast: belevenissen van zijn dochters, een ruzie tussen vreemden op straat, een mislukte ontmoeting met David Beckham, kalknagels afknippen voor het oog van een aantrekkelijke doktersassistente, het afscheid van een stad, de keuze tussen een kast in elkaar zetten of seks hebben, en een heel enkele keer een overpeinzing over bloemkool. Soms gaan Althuisius’ verhalen over niets, soms over alles. Allemaal vieren ze het leven, hoe groot of hoe klein zich dat ook aandient.</p><p>Twee keer per week schrijft Althuisius in de Volkskrant met verwondering over zijn leven. In Maar ik wil helemaal geen moderne man zijn staan zijn beste stukken.</p><p>Over Terug naar Verona:</p><p>‘Wat Julien Althuisius’ plotgedreven roman zo onweerstaanbaar maakt, is de breekbaarheid van “golden boys” in een wereld waarin alles maakbaar lijkt.’ ? De Telegraaf </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lucy King</name>
+            <name>Julien Althuisius</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een nacht om nooit te vergeten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007543/een-nacht-om-nooit-te-vergeten-robyn-donald</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007543/een-nacht-om-nooit-te-vergeten-robyn-donald"/>
-        <updated>2025-10-10T07:13:03.506Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007543?aid=kb-online-bibliotheek&sid=17&dts=1760021111616&sig=2a59cc0f16c94df5a4d99188f40e9b47035744260ad74d130b434b4cdd5cffd7&width=320" alt="Omslag van 'Een nacht om nooit te vergeten'" title="Omslag van 'Een nacht om nooit te vergeten'">
-<p>Nooit zal Sorrel de zinderende kus van Luke vergeten...En nu ze tien jaar later naar huis terugkeert, zullen ze elkaar eindelijk weer terugzien. Wordt het nu ze buren zijn eindelijk duidelijk waarom hij haar aan het eind van die gedenkwaardige zomer plotseling verliet?Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Jarno]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot"/>
+        <updated>2025-10-11T07:11:06.040Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209734?aid=kb-online-bibliotheek&sid=17&dts=1760110225746&sig=92c633275a9929f9fd3c80a5207a7e58f4c1b04b98118e0636ec45300ae1a7b4&width=320" alt="Omslag van 'Jarno'" title="Omslag van 'Jarno'">
+<p>Hij was de enige Nederlander die ooit uitkwam in de UFC, de grootste organisatie in de snelst groeiende sport van de Verenigde Staten. Het was zijn grote droom. Toen hij dit jaar een wedstrijd verloor, spatte die droom uiteen. Maar vechtsporter Jarno Errens uit Heerlen is vastbesloten zichzelf terug te knokken. Letterlijk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Robyn Donald</name>
+            <name>Leon Verdonschot</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bevrijd me]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007454/bevrijd-me-julia-latham</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007454/bevrijd-me-julia-latham"/>
-        <updated>2025-10-10T07:13:03.726Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007454?aid=kb-online-bibliotheek&sid=17&dts=1760030564836&sig=ded1805fd7f20a2e0d2d2e2a26b7146b32017b98a68c942a52f07b139c1d8ee1&width=320" alt="Omslag van 'Bevrijd me'" title="Omslag van 'Bevrijd me'">
-<p>Dappere ridders, dames in nood, vurige passie...Engeland, 1486Als het Lady Elizabeth Hutton ter ore komt dat een beruchte lord haar als zijn bruid wil, besluit ze van identiteit te ruilen met haar kamermeid Anne. Net op tijd, want niet veel later verovert hij Elizabeths kasteel en sluit hij de arme Anne in de torenkamer op. Haar enige hoop is nu dat haar verloofde, ridder Sir John Russell, hen komt redden. Maar die heeft ze sinds haar jeugd niet meer gezien...Zonder voldoende mankrachten om het kasteel te bestormen waar zijn verloofde zit opgesloten moet John een ander plan bedenken: onder een valse identiteit zal hij er binnendringen en haar redden. Dat loopt echter heel anders dan hij verwacht...Dit verhaal is eerder verschenen.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De laatste avond]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono"/>
+        <updated>2025-10-11T07:11:06.267Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45320970X?aid=kb-online-bibliotheek&sid=17&dts=1760107204927&sig=aed9b2c011fb39b3455cc30f70ce0bcccfd9fe46ff07131c773d7b560c07be11&width=320" alt="Omslag van 'De laatste avond'" title="Omslag van 'De laatste avond'">
+<p>Het is de laatste avond van een vakantie in Napels. Onverwacht nieuws doet tijdens het diner de verhoudingen tussen een jong stel en hun beste vriendin dramatisch verschuiven. Wie is loyaal aan wie? Hoe ga je om met jaloezie in een vriendschap? En wie is nou werkelijk de buitenstaander in deze driehoeksverhouding? De wijn wordt nog een laatste keer ingeschonken, de zon zakt de zee in en alle kaarten komen op tafel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Julia Latham</name>
+            <name>Simone Atangana Bekono</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Griekse passie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443695415/griekse-passie-sarah-morgan</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443695415/griekse-passie-sarah-morgan"/>
-        <updated>2025-10-10T07:13:03.901Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443695415?aid=kb-online-bibliotheek&sid=17&dts=1760020191597&sig=8619ba9161ffd286a4c4bdc64e60d8711b7c22be6684c09e470853bb2014208c&width=320" alt="Omslag van 'Griekse passie'" title="Omslag van 'Griekse passie'">
-<p>Sarah Morgan Classics: geweldige klassieke liefdesverhalen van bestsellerauteur Sarah Morgan. De verhalen waar het allemaal mee begon!De ontembare Griek: Griekse passieNikos Kyriacou heeft er alles voor over om de Brandizi-diamant terug te krijgen, die generaties lang van zijn familie is geweest. Zelfs een zakenhuwelijk met de huidige eigenares, Angelina Littlewood, is voor hem geen obstakel. Angie heeft zo haar eigen redenen om deze eis te stellen voor teruggave van de edelsteen. Ze hoopt zich zo op de arrogante Griek te kunnen wreken voor iets wat hij haar familie in het verleden heeft aangedaan. Alles verloopt volgens plan, tot ze ontdekt dat Nikos in de kleine lettertjes van het contract een speciale clausule heeft laten opnemen... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het eerlijkste boek over leugens]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten"/>
+        <updated>2025-10-11T07:11:06.586Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209718?aid=kb-online-bibliotheek&sid=17&dts=1760107232918&sig=8b590465ab1801084eef27045cafd63dbb044721d054989ce98679221a408848&width=320" alt="Omslag van 'Het eerlijkste boek over leugens'" title="Omslag van 'Het eerlijkste boek over leugens'">
+<p>Stel je voor: je herkent élke leugen. Of die nou van een verkoper komt, een influencer, een klasgenoot of iemand die stiekem iets van je gedaan wil krijgen. Je zou nooit meer worden opgelicht. Je zou meteen weten wie je kon vertrouwen. Je zou beter begrijpen wat er echt speelt en dus sneller de juiste keuzes maken. Leugens doorzien klinkt als een superpower, toch? Jan Paul Schutten legt je in Het eerlijkste boek over leugens uit hoe je leugens sneller herkent. Je krijgt tips en technieken om te ontdekken wat waar is en wat niet. Je hoort fabels en feiten over lichaamstaal. En je ontdekt welke online filmpjes onbetrouwbaar zijn. Niet alleen handig, maar ook belangrijk in een wereld vol nep. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sarah Morgan</name>
+            <name>Jan Paul Schutten</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eén nacht in Venetië]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443280347/ee-n-nacht-in-venetie--caitlin-crews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443280347/ee-n-nacht-in-venetie--caitlin-crews"/>
-        <updated>2025-10-10T07:13:04.093Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443280347?aid=kb-online-bibliotheek&sid=17&dts=1760022545143&sig=aa634df4c6db90af9ef834dff87b1335be14fa7104c147f1a76a57b2a6724905&width=320" alt="Omslag van 'Eén nacht in Venetië'" title="Omslag van 'Eén nacht in Venetië'">
-<p>Toen hij amore fluisterde, was ze verkocht…Als directrice van een internaat leeft Beatrice strikt volgens de regels. Tot ze, op schoolreis naar Venetië, tijdens één avond alle remmen losgooit en zich overgeeft aan de charmes van een mysterieuze, adembenemend knappe Italiaan. Voor ze weet wat haar overkomt, zweeft ze in zijn armen over de dansvloer en… belandt ze uiteindelijk bij hem in bed!Wanneer ze enige tijd later ontdekt dat ze zwanger is, ziet ze zich gedwongen haar baan op te geven. Ze is dan ook blij als ze als nanny wordt aangenomen door Cesare Chiavari. Deze miljardair woont in Italië, dus ze kan haar oude leven echt achter zich laten. Zodra ze in het landhuis aankomt, wacht haar een verrassing. Ze herkent Cesare onmiddellijk als de vreemdeling die haar die nacht zo vurig kuste! En hij heeft duidelijk geen idee wie zij is…  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Gevaarlijk lekker]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958617/gevaarlijk-lekker-chris-van-tulleken</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958617/gevaarlijk-lekker-chris-van-tulleken"/>
+        <updated>2025-10-11T07:11:06.799Z</updated>
+        <summary type="html"><![CDATA[Waarom we ongezonder eten dan we willen (en wat we daaraan kunnen doen)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958617?aid=kb-online-bibliotheek&sid=17&dts=1760110942597&sig=2c24ac31be5adefcfb87f6cd1a9e7c86ea9d4319cfad99b8ae7553464731b349&width=320" alt="Omslag van 'Gevaarlijk lekker'" title="Omslag van 'Gevaarlijk lekker'">
+<p>Waarom proppen we ons vol met eten dat vergaand industrieel is bewerkt en hoe komt het dat we daar maar niet mee kunnen stoppen? Dr. Chris van Tulleken dompelt zich onder in de wereld van ultrabewerkt eten, dé oorzaak van de wereldwijde obesitaspandemie. Hij laat zien waarom bewegen en wilskracht ons niet kunnen redden en wat ultrabewerkt voedsel echt doet met ons lichaam, onze gezondheid, ons gewicht en de planeet (hint: niets goeds!).</p><p>'Fascinerend, maar ronduit angstaanjagend onderzoek naar ons geïndustrialiseerde voedselsysteem.' - The Sunday Times</p><p>'Dit bevrijdende boek kan voorgoed veranderen hoe je eet.' - Marieke Eyskoot, presentator Binnestebuiten</p><p>'Schokkend boek. Ultrabewerkt eten is het nieuwe roken.' - Elisabeth Weerman, mede-oprichter NICE Fruitijs</p><p>'Het lezen van dit boek heeft mijn leven veranerd.' - De Nederlandse Boekengids </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Caitlin Crews</name>
+            <name>Chris van Tulleken</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voor het oog van de wereld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007535/voor-het-oog-van-de-wereld-caitlin-crews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007535/voor-het-oog-van-de-wereld-caitlin-crews"/>
-        <updated>2025-10-10T07:13:05.958Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007535?aid=kb-online-bibliotheek&sid=17&dts=1760080385302&sig=cdf671d1d9bfe39946086bccb4172cb72b10ff819c4eb73910318ccf215a27fc&width=320" alt="Omslag van 'Voor het oog van de wereld'" title="Omslag van 'Voor het oog van de wereld'">
-<p>Schrijfster Miranda steekt haar mening niet onder stoelen of banken…Ze vindt sportmiljonair Ivan maar een primitieveling, en dat verkondigt ze in alle talkshows! Dan kust hij haar zomaar voor de camera's, en staat haar reputatie op het  spel. Er zit maar eén ding op: spelen dat ze zijn geliefde is…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Lust]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts"/>
+        <updated>2025-10-11T07:11:07.011Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958579?aid=kb-online-bibliotheek&sid=17&dts=1760106660078&sig=fd2560ffd5947b46967cf3c3a9e28d005a37e389bf7009407ee7aa2bbee7e252&width=320" alt="Omslag van 'Lust'" title="Omslag van 'Lust'">
+<p>Een stomend hete ontmoeting in het ijskoude Zweden zorgt voor een onvergetelijke sensatie. Na de opwindende rit op de hondenslee kan Bregje haar lustgevoelens voor haar baas, Ärne Håkansson, nauwelijks nog verbergen. Maar ze moet wel, want die man is hartstikke gelukkig getrouwd met een vrouw die niet alleen bloedmooi is, maar ook nog eens superaardig. Hun liefde spat er van alle kanten af. Zij heeft maar één optie: terug naar Nederland vliegen en die sexy, ruige Viking zien te vergeten. Maar dat vindt het universum een bar slecht plan. De Zweedse natuur zet alles op alles om Bregje en Håkansson bij elkaar te brengen – en dan neemt het lot een onverwachte wending. Voor de lezers van Abbi Glines en Vi Keeland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Caitlin Crews</name>
+            <name>Eva Roberts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grieks verlangen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443695393/grieks-verlangen-sarah-morgan</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443695393/grieks-verlangen-sarah-morgan"/>
-        <updated>2025-10-10T07:13:06.161Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443695393?aid=kb-online-bibliotheek&sid=17&dts=1760019836447&sig=65ff104743ea5e9892f2f6e9d2132eb8582de834d41463f4670687f5bfdfe5ca&width=320" alt="Omslag van 'Grieks verlangen'" title="Omslag van 'Grieks verlangen'">
-<p>Sarah Morgan Classics: geweldige klassieke liefdesverhalen van bestsellerauteur Sarah Morgan. De verhalen waar het allemaal mee begon!De ontembare Griek: Grieks verlangenVier jaar geleden kwam de knappe Griekse miljardair Alekos Zagorakis niet opdagen voor zijn bruiloft met lerares Kelly Jenkins. Sindsdien heeft hij niets meer van zich laten horen; ze heeft alleen zijn ring nog. Omdat ze het geld hard nodig heeft, biedt ze die te koop aan op een veilingsite. Ze heeft het nog niet gedaan, of Alekos staat opeens weer voor haar neus. Hij wil niet alleen zijn ring terug, maar ook háár! Deze keer zal ze hem moeten weerstaan, maar hoe? Ze kan maar twee dingen bedenken die hem echt afschrikken: trouwen en kinderen. Net waar zij van droomt... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Amber en Emir]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958609/amber-en-emir-eveline-heijnen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958609/amber-en-emir-eveline-heijnen"/>
+        <updated>2025-10-11T07:11:07.230Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958609?aid=kb-online-bibliotheek&sid=17&dts=1760106605366&sig=3b22e2f268c3820b32314585e232810c23f8212ebcfc371f70b6f230838c974c&width=320" alt="Omslag van 'Amber en Emir'" title="Omslag van 'Amber en Emir'">
+<p>Een multiculturele feelgoodroman vol humor en romantiek. Op een regenachtige avond komt Amber oog in oog te staan met Emir, de eigenaar van een Volkswagen Golf die in een paar minuten meer verkeersregels negeert dan zij kan tellen. Wanneer ze hem daarop aanspreekt, reageert hij fel. Emir is intimiderend, onweerstaanbaar aantrekkelijk en… ontzettend Turks. Precies dat laatste brengt Amber in verwarring, want hij confronteert haar met haar eigen vooroordelen. Een jaar later blijkt Emir tot haar schrik de instructeur die haar aan een rijbewijs moet helpen. Onbegonnen werk, denkt Amber, want ze is nauwelijks bereid iets van hem aan te nemen. Maar al snel leert ze dat Emir veel gevoeliger en complexer is dan ze dacht. En hoewel hun werelden ver uit elkaar liggen, groeit de aantrekkingskracht. Kunnen Amber en Emir hun verschillen overbruggen en kiezen voor hun gevoel? [TvdH1]  Een opposites-attract romance met een multiculturele twist voor fans van Sophie Kinsella. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sarah Morgan</name>
+            <name>Eveline Heijnen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gevallen voor de Spaanse magnaat]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443280398/gevallen-voor-de-spaanse-magnaat-lorraine-hall</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443280398/gevallen-voor-de-spaanse-magnaat-lorraine-hall"/>
-        <updated>2025-10-10T07:13:06.600Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443280398?aid=kb-online-bibliotheek&sid=17&dts=1760034027221&sig=e842b9e750125c0c9a7267803bf5143473253f596a44325d8c3c8c080e5b1f70&width=320" alt="Omslag van 'Gevallen voor de Spaanse magnaat'" title="Omslag van 'Gevallen voor de Spaanse magnaat'">
-<p>Soms is de ware dichterbij dan je denkt…Matilda heeft er nooit zo over nagedacht dat de knappe magnaat Javier Alatorre haar voogd is. Hij zorgt ervoor dat ze haar toelage krijgt en blijft verder op de achtergrond. Maar dan eist hij opeens dat ze naar zijn landgoed in Spanje komt, waar hij ervoor zal zorgen dat ze op tijd voldoet aan de voorwaarde in het testament van haar vader, die bepaalt dat ze voor haar vijfentwintigste getrouwd moet zijn…Javier heeft eigenlijk geen tijd om zich bezig te houden met het liefdesleven van zijn beschermeling, maar als hij niet snel een echtgenoot voor haar vindt, moet hij zelf met haar trouwen! Dus neemt hij haar mee naar gala's, waar vele vrijgezellen naar haar hand dingen. Tot zijn ergernis vindt ze niemand goed genoeg. En waarom droomt hij telkens dat híj met de mooie Matilda voor het altaar staat?  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hard gras]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958382/hard-gras-tijdschrift-hard-gras</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958382/hard-gras-tijdschrift-hard-gras"/>
+        <updated>2025-10-11T07:11:07.431Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958382?aid=kb-online-bibliotheek&sid=17&dts=1760107915830&sig=1bb77e5266746f8b7bae8f4844dcc231d20123fa84ed09a5f0805189790d2bec&width=320" alt="Omslag van 'Hard gras'" title="Omslag van 'Hard gras'">
+<p>De beste schrijvers, dichters en kunstenaars laten in Hard gras zien dat voetbal zo veel meer is dan uitslagen, commercie, meningen en nabeschouwingen. Voetbal is cultuur! De mix van gearriveerde én aanstormende talenten maakt Hard gras zo uniek en relevant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lorraine Hall</name>
+            <name>Tijdschrift Hard Gras</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het Pumpkin Spice Café]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443349126/het-pumpkin-spice-cafe--laurie-gilmore</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443349126/het-pumpkin-spice-cafe--laurie-gilmore"/>
-        <updated>2025-10-10T07:13:06.812Z</updated>
-        <summary type="html"><![CDATA[Het seizoen om verliefd te worden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443349126?aid=kb-online-bibliotheek&sid=17&dts=1760019987137&sig=34115cd34cc26b136211f7c5becca4b5fa0f06160189eff8cc0eb1552377e0c0&width=320" alt="Omslag van 'Het Pumpkin Spice Café'" title="Omslag van 'Het Pumpkin Spice Café'">
-<p>Winnaar TikTok Book Shop of the Year-award: Het Pumpkin Spice Café is een heerlijke cosy small town romance van TikTok-fenomeen Laurie Gilmore. Elk boek in de Dream Harbor-serie kan worden gelezen als een standalone. Wanneer Jeanie het geliefde Pumpkin Spice Café in Dream Harbor van haar tante kan overnemen, grijpt ze deze kans met beide handen aan. Het is tijd om een nieuwe start te maken, weg van haar saaie kantoorbaan in Boston. Jeanies komst naar het stadje blijft niet onopgemerkt. Logan, een knappe lokale boer, probeert de irritant vrolijke nieuwe eigenaresse van het café zoveel mogelijk te ontlopen, al helemaal als hij merkt dat hij zich steeds meer tot haar aangetrokken voelt. Zijn hart werd eerder wel erg publiekelijk gebroken, dus verliefd worden staat zeker niet op de planning. Kan Jeanie met haar vrolijkheid het hart van de grumpy Logan winnen, of heeft ze de enige persoon gevonden die niet voor haar charme valt? 'Een heerlijke herfstromance.’ VROUW ‘Het Pumpkin Spice Café geeft dezelfde hoeveelheid endorfine af als een slokje van een echte pumpkin spice latte… [en heeft] alle kenmerken van een geweldige Hallmarkfilm, maar dan met net dat heerlijke vleugje spice erbij.’ People ‘Met zo’n leuke titel en zo’n herfstige cover, kon ik niet anders dan gezellig onder een dekentje kruipen en ontspannen met dit heerlijke boek.’ The New York Post 'Mocht je deze BookTok-favoriet nog niet hebben opgepakt, dan is nu het perfecte moment… Het verhaal speelt zich af in de herfst, en er komen meer dan genoeg pumpkin spice lattes in voor – het ideale romantische boek voor de koudere maanden.’ Observer ‘Wanneer je een pumpkin spice latte in boekvorm giet, krijg je dit! Perfect voor fans van Hallmarkfilms en zoete verhaallijnen, en precies genoeg voor één heerlijk avondje lezen.’ People Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hard gras 164 - oktober 2025]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958552/hard-gras-164---oktober-2025-tijdschrift-hard-gras</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958552/hard-gras-164---oktober-2025-tijdschrift-hard-gras"/>
+        <updated>2025-10-11T07:11:07.712Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958552?aid=kb-online-bibliotheek&sid=17&dts=1760119293807&sig=02d0469ab7276ac14a68a4786eafe260d20186a52935805d2a66c913e4b4811f&width=320" alt="Omslag van 'Hard gras 164 - oktober 2025'" title="Omslag van 'Hard gras 164 - oktober 2025'">
+<p>De beste schrijvers, dichters en kunstenaars laten in Hard gras zien dat voetbal zo veel meer is dan uitslagen, commercie, meningen en nabeschouwingen. Voetbal is cultuur! De mix van gearriveerde én aanstormende talenten maakt Hard gras zo uniek en relevant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Laurie Gilmore</name>
+            <name>Tijdschrift Hard Gras</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Italiaanse verleider]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007616/italiaanse-verleider-mary-lyons</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007616/italiaanse-verleider-mary-lyons"/>
-        <updated>2025-10-10T07:13:07.358Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007616?aid=kb-online-bibliotheek&sid=17&dts=1760023176116&sig=7999e54a316dacd904ef29c2b4024c62b197c040e5a797acdeadfe0eaab2e3c1&width=320" alt="Omslag van 'Italiaanse verleider'" title="Omslag van 'Italiaanse verleider'">
-<p>De steenrijke Lorenzo Foscari wordt met de dood bedreigd. Hij legt de hele kwestie het liefst naast zich neer, maar zijn verzekeringsmaatschappij staat erop dat hij beveiliging inhuurt – wat hij doet, zij het onder luid protest. Hij slaat echter een andere toon aan als hij de sexy Antonia ontmoet: zijn bodyguard!  Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Rood in Wassenaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45495848X/rood-in-wassenaar-marjolein-moorman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45495848X/rood-in-wassenaar-marjolein-moorman"/>
+        <updated>2025-10-11T07:11:07.952Z</updated>
+        <summary type="html"><![CDATA[Pleidooi voor een kansrijk leven (voor iedereen)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45495848X?aid=kb-online-bibliotheek&sid=17&dts=1760112953624&sig=6ee1ab17788ed94301ecef8f568cb98963da89a70caff2d0f9c1164c6918b50a&width=320" alt="Omslag van 'Rood in Wassenaar'" title="Omslag van 'Rood in Wassenaar'">
+<p>Rood in Wassenaar van Marjolein Moorman is het persoonlijke en openhartige verhaal van een bevlogen politicus voor wie het persoonlijke politiek is. Moorman is bekend van de tv-serie Klassen.</p><p>Marjolein Moorman groeit op in Wassenaar, in een ‘rood’ gezin tussen de villa’s. Ze hebben het thuis niet breed. Tijdens haar studententijd overlijden haar beide ouders, waarna ze samen met haar twee jongere broers een financiële schuld erft. Het zijn vormende ervaringen in haar leven.</p><p>Na een wetenschappelijke carrière besluit ze de politiek in te gaan om zich sterk te maken voor gelijke kansen en beter onderwijs. Ze ziet de kloof in de samenleving toenemen doordat succes steeds vaker als eigen keuze wordt gezien. Dat maakt van ons onderwijs een wedstrijd van winnaars en verliezers.</p><p>In Rood in Wassenaar deelt Marjolein Moorman haar ervaringen en visie. Ze biedt een perspectief waarin gelijkwaardigheid en kansengelijkheid centraal staan. En hoop, in een tijd dat wantrouwen en cynisme de politiek beheersen.</p><p>Dit boek is geschreven samen met journalist en auteur Marc van Dijk.</p><p>'Marjolein Moorman is uitgegroeid tot hét boegbeeld van onderwijs en de strijd tegen kansenongelijkheid.' – Het Parool </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Mary Lyons</name>
+            <name>Marjolein Moorman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diep begraven verleden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007497/diep-begraven-verleden-amanda-stevens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007497/diep-begraven-verleden-amanda-stevens"/>
-        <updated>2025-10-10T07:13:07.529Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007497?aid=kb-online-bibliotheek&sid=17&dts=1760021800281&sig=2463bc466f9abecf79954771b37261d61e67ab9381b20ae4740fd1695030ccc1&width=320" alt="Omslag van 'Diep begraven verleden'" title="Omslag van 'Diep begraven verleden'">
-<p>Door de ontdekking van een oud skelet diep in een grottenstelsel in Florida wordt rechercheur Eve Jareau geconfronteerd met haar verleden. Zou dit haar vermiste vader kunnen zijn? Ze wil aan de zaak blijven werken, dus vertelt ze dit vermoeden niet aan haar knappe baas, politiechef Nash Bowden. Het wordt echter steeds lastiger haar geheim te bewaren als hij besluit met haar samen te werken. Dan is Eve opeens in groot gevaar als iemand besluit dat sommige geheimen beter begraven kunnen blijven... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Naar het Noorden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958560/naar-het-noorden-foske-de-kruijf</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958560/naar-het-noorden-foske-de-kruijf"/>
+        <updated>2025-10-11T07:11:08.140Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958560?aid=kb-online-bibliotheek&sid=17&dts=1760106636226&sig=dba248aa1ef59248d7b0260e29f5af36c8e64480845c3ef25250cbd9309e9b6c&width=320" alt="Omslag van 'Naar het Noorden'" title="Omslag van 'Naar het Noorden'">
+<p>Suzette wil de wereld verbeteren en de gevestigde orde omverwerpen. Ze is boos. Steeds bozer eigenlijk. Waarom lijkt niemand haar te begrijpen? Als ze zowel privé als in haar promotieonderzoek vastloopt, ziet ze maar één oplossing: wegwezen, voor ze alles kapotmaakt. Dan blijkt haar ontsnapping, professor Kjell Mikkelson, de man die haar meevraagt naar Zweden te gaan voor onderzoek, de belichaming van de gevestigde orde. Een heel aantrekkelijke belichaming. Suzette wil hem zowel achter het behang plakken als het zweet van zijn borstkas likken. Naar het Noorden is een heerlijke, zinderende feelgoodroman over leren van een ander en toch jezelf blijven, je kwetsbaar opstellen en toch sterk blijven, van zwart-wit naar grijs te midden van vijftig tinten groen. Zullen ze erin slagen hun onderlinge verschillen te overbruggen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Amanda Stevens</name>
+            <name>Foske de Kruijf</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De eeuwige jaknikker]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443551707/de-eeuwige-jaknikker-jade-vening</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443551707/de-eeuwige-jaknikker-jade-vening"/>
-        <updated>2025-10-10T07:13:07.776Z</updated>
-        <summary type="html"><![CDATA[Ze doet altijd wat van haar verwacht wordt. Totdat ze hem ontmoet...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443551707?aid=kb-online-bibliotheek&sid=17&dts=1760019856983&sig=9cb9c78a1d907b2bb234a200789bf6e3bfbaab80ce6779fee74ac686c7276aba&width=320" alt="Omslag van 'De eeuwige jaknikker'" title="Omslag van 'De eeuwige jaknikker'">
-<p>De start van de hilarische en hartverwarmende serie Lessen in de liefde van feelgoodtalent Jade Vening.   Fiona zegt altijd ‘ja’ en laat nooit het achterste van haar tong zien. Dus volgt ze al twee jaar lang tegen haar zin yogalessen van haar huisgenoot, tolereert ze de eikel van een vriend van haar beste vriendin en doet ze altijd de rotklusjes op haar werk.Ook in haar relaties zegt Fiona niet altijd wat ze wil. Tot ze op een avond Pim ontmoet, die in elk opzicht haar tegenpool lijkt te zijn. Hij is iemand die alles zegt wat hij denkt en hij overtuigt Fiona hetzelfde te doen. Als ze na hun nacht samen alleen wakker wordt weet ze één ding zeker: ze wil geen jaknikker meer zijn.Lessen in de liefde is een hilarische en hartverwarmende feelgoodserie over vier vrienden, Fiona, Iris, Roos en Boaz, die allemaal iets te leren hebben over het leven én over de liefde. De eeuwige jaknikker is het eerste deel in de serie, maar alle delen zijn ook afzonderlijk te lezen.Lezers over eerder werk:‘Een fijne en grappige feelgood met een goede vleug romance die je geweldige leesuren zal bezorgen.’‘Dit is echt een fantastisch debuut! Er zit een heerlijke humor in en door de manier van schrijven speelt de film zich in je hoofd af! Ik hou ervan.’‘De win-winsituatie is net een feestje. Na ieder hoofdstuk dacht ik: nog eentje dan. Ik kon dit leuke verhaal nauwelijks wegleggen.’‘Deze nieuwe auteur is wat mij betreft here to stay.’  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Fileflirt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels"/>
+        <updated>2025-10-11T07:11:08.344Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958390?aid=kb-online-bibliotheek&sid=17&dts=1760106817433&sig=23f12819d82941f90e2371f9d1baad140843ec9b97156b790ecc4591f5f3dbf6&width=320" alt="Omslag van 'Fileflirt'" title="Omslag van 'Fileflirt'">
+<p>Het leven van Kimberly is door een ingrijpende gebeurtenis enorm veranderd, waardoor haar omgeving haar harder dan ooit nodig heeft. Ze is er voor iedereen, behalve zichzelf. Ondertussen droomt ze ervan echt verliefd te worden, ze wil zelfs niets liever dan haar eigen grote liefdesverhaal. Al lijkt na een reeks mislukte dates dat sprookje verder weg dan ooit. Tot ze op een dag met pech op de snelweg strandt en een enorm irritante, arrogante – en oké, stiekem wel charmante – weggebruiker opduikt.</p><p>Zal Kimberly leren meer voor zichzelf en haar eigen geluk te kiezen, zelfs als dat betekent dat ze haar hart moet openstellen voor iemand die totaal niet in haar plaatje past?</p><p>Fileflirt is een heerlijke romcom om bij weg te dromen, en het vierde deel in de populaire Flirt-serie.</p><p>Voor lezers van Emily Henry, Laurie Gilmore en Susan Muskee. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jade Vening</name>
+            <name>Fabienne Swinkels</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liefde in luxe]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007322/liefde-in-luxe-anna-depalo</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007322/liefde-in-luxe-anna-depalo"/>
-        <updated>2025-10-10T07:13:07.954Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007322?aid=kb-online-bibliotheek&sid=17&dts=1760026759176&sig=762de379a465a97919bc80a729be8397ca835406de4c453b8dbebd015b03fc91&width=320" alt="Omslag van 'Liefde in luxe'" title="Omslag van 'Liefde in luxe'">
-<p>Vergeten kan hij haar niet, hoe hij zijn best ook doet…Stephen Garrison kan aan elke vinger een vrouw krijgen, maar hij heeft zijn zinnen gezet op Megan Simmons. Zij beëindigde hun relatie enkele jaren geleden, en dat is hij niet gewend - normaal gesproken is híj degene die weggaat! Zijn doel is nu om haar opnieuw te verleiden en revanche te nemen, maar al snel blijkt dat Megan iets voor hem heeft achtergehouden…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Past perfect]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958668/past-perfect-joe-lla-van-der-breggen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958668/past-perfect-joe-lla-van-der-breggen"/>
+        <updated>2025-10-11T07:11:08.563Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958668?aid=kb-online-bibliotheek&sid=17&dts=1760107440637&sig=ea56e41d8150d16c0e80ab4d8223da54ac4924400bf0b3373261c451c822ac09&width=320" alt="Omslag van 'Past perfect'" title="Omslag van 'Past perfect'">
+<p>De vriendinnengroep van Bonnie, Mara, Kiki, Isabel en Roxanne, ook bekend als de Roedel, belandt onverwachts weer in de Italiaanse bergen. Zal de vriendschap deze reis overleven? Bonnie is in de wolken wanneer ze de showkleding voor het zangduo Sjoerd en Fenna mag verzorgen. Een droomklus! Ze bouwt een bijzondere band op met Fenna. De knappe en getalenteerde Sjoerd blijft echter een raadsel. Want flirt hij nou met haar? Of juist niet? En waarom reageert hij zo vreemd als Bonnie de nieuwe gitarist van de band blijkt te kennen? Dan wordt Bonnies droomopdracht onverwacht afgebroken en besluit ze samen met Kiki een gewaagd plan uit te voeren om haar klanten te helpen. Een plan dat hen weer naar Italië brengt in hun roze VW-bus. De rest van de Roedel, Mara, Isabel en Roxanne, weten van niets…. Zetten Bonnie en Kiki hiermee de vriendschap op het spel? Past perfect is een hartverwarmende roman over vriendschap en de onverwachte wendingen die vriendschappen rijk zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Anna DePalo</name>
+            <name>Joëlla van der Breggen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een klein wondertje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007438/een-klein-wondertje-sue-mackay</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007438/een-klein-wondertje-sue-mackay"/>
-        <updated>2025-10-10T07:13:08.404Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007438?aid=kb-online-bibliotheek&sid=17&dts=1760024473579&sig=6595e9d35413293d9a6520d9dd6f92de6747972ff1578950f0848aa32ca1724c&width=320" alt="Omslag van 'Een klein wondertje'" title="Omslag van 'Een klein wondertje'">
-<p>Ambulanceverpleegkundige Stephanie voelt haar hart breken als dokter Michael haar vertelt dat hij geen vaste relatie wil. Twee jaar later is ze terug in de stad en denkt ze wel over hem heen te zijn. Maar als ze hem weer ontmoet op de Spoedeisende Hulp, blijkt de chemie tussen hen sterker dan ooit. Chemie die leidt tot een klein wonder…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Solotrip]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45495851X/solotrip-noortje-brink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45495851X/solotrip-noortje-brink"/>
+        <updated>2025-10-11T07:11:08.767Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45495851X?aid=kb-online-bibliotheek&sid=17&dts=1760106637319&sig=7a1da3f6390e5ec0ee86893be173f380a7dc95e1b2f3bce0f4251d141f6f90ed&width=320" alt="Omslag van 'Solotrip'" title="Omslag van 'Solotrip'">
+<p>In haar uppie in de Schotse Hooglanden. Overgeleverd aan de natuur. En aan hem.  De liefde… bah! De sportieve Nienke heeft er haar buik vol van. Ze voelt zich ingeruild, afgedankt en in de grond getrapt. Maar dan geeft haar beste vriendin haar een boek over bindings- en verlatingsangst en krijgt ze wat grip op de situatie. Het boek raadt Nienke aan niet langer te kijken naar de ander, maar haar blik op zichzelf te richten. Instinctief weet ze dat ze dat moet doen. De Schotse Hooglanden staan al tijden op haar bucketlist en dus boekt ze een ticket naar Schotland. Het plan: rondom Loch Ness wandelen. In haar eentje, zodat ze dicht bij zichzelf kan komen. Maar dan blijkt iemand anders ook dicht bij haar te willen komen. Heel dichtbij. Of Nienke dat nu wil of niet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sue MacKay</name>
+            <name>Noortje Brink</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grieks paradijs]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443695407/grieks-paradijs-sarah-morgan</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443695407/grieks-paradijs-sarah-morgan"/>
-        <updated>2025-10-10T07:13:08.587Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443695407?aid=kb-online-bibliotheek&sid=17&dts=1760020240031&sig=5635e6a9645ee823a5c18daec2a493e5921059ffffeeca1d1b2371ca00888229&width=320" alt="Omslag van 'Grieks paradijs'" title="Omslag van 'Grieks paradijs'">
-<p>Sarah Morgan Classics: geweldige klassieke liefdesverhalen van bestsellerauteur Sarah Morgan. De verhalen waar het allemaal mee begon!De ontembare Griek: Grieks paradijsEen huwelijk met een knappe Griek, een leven vol weelde en een huwelijksreis op een paradijselijk eiland: Millies leven lijkt wel een sprookje. Maar niet veel later valt haar droom in duigen, als ze ontdekt dat de glamour van Angelos Demetrios' wereldje eigenlijk helemaal niet bij haar past. En aan zijn geflirt met talloze aanbidsters kan ze ook maar moeilijk wennen. Wanneer ze ziet dat hij zelfs haar zus probeert te versieren, slaat ze op de vlucht. Een jaar later krijgt ze een schokkend bericht, en niet lang daarna staat ze weer oog in oog met Angelos… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hoe moeilijk kan het zijn?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958587/hoe-moeilijk-kan-het-zijn--susan-muskee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958587/hoe-moeilijk-kan-het-zijn--susan-muskee"/>
+        <updated>2025-10-11T07:11:08.985Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958587?aid=kb-online-bibliotheek&sid=17&dts=1760107874157&sig=d08d0a172c6c0dd409a3f44947c36ce8d056270528643d4ba55fa289be0f3171&width=320" alt="Omslag van 'Hoe moeilijk kan het zijn?'" title="Omslag van 'Hoe moeilijk kan het zijn?'">
+<p>De optimistische Emma koopt een vervallen B&B in de Oostenrijkse Alpen en valt halsoverkop voor het uitzicht – en voor haar knappe concurrent Bas. Terwijl loslatend pleisterwerk, doorgezakte bedden en een onverwacht kattennestje haar nauwelijks bestaande planning compleet in de war schoppen, vindt ze houvast en vriendschap bij een bont gezelschap locals. Lukt het de ietwat chaotische Emma de verbouwing af te krijgen voordat de eerste gasten komen? En is de charmante Bas wel te vertrouwen? Een hartverwarmende feelgoodroman vol humor en romantiek, én met een flinke dosis berglucht.  Lezers over Susan Muskee: 'Laat het maar aan Susan over om een prachtig, maar vooral origineel verhaal neer te zetten.' 'Susan Muskee is een kei.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sarah Morgan</name>
+            <name>Susan Muskee</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moordenaar in de schaduw]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007500/moordenaar-in-de-schaduw-debbie-herbert</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007500/moordenaar-in-de-schaduw-debbie-herbert"/>
-        <updated>2025-10-10T07:13:09.022Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007500?aid=kb-online-bibliotheek&sid=17&dts=1760026682764&sig=81ac34778f50949347e299a9508550f2cceb9b7cb2892213b294368629acccfc&width=320" alt="Omslag van 'Moordenaar in de schaduw'" title="Omslag van 'Moordenaar in de schaduw'">
-<p>Harper Catlett is teruggekeerd naar het kleine dorpje waar ze is opgegroeid, vastbesloten om eindelijk de mysteries op te lossen die haar jarenlang hebben gekweld. Wie heeft haar zus vermoord? En was de geheimzinnige schaduwman die ze die nacht meende te zien een hersenspinsel van een jong kind, of toch niet? Als haar onderzoek wordt bemoeilijkt door een onverschillig politiecorps en dreigmails, schiet knappe FBI-agent Liam Andrews haar te hulp. En blijkt dat de schaduwman dichterbij is dan ooit...  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Witte Nachten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski"/>
+        <updated>2025-10-11T07:11:09.201Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209742?aid=kb-online-bibliotheek&sid=17&dts=1760109356399&sig=61135643b866502a568b93f266d3d2c7016beda2126011435fad0d66ab2b6469&width=320" alt="Omslag van 'Witte Nachten'" title="Omslag van 'Witte Nachten'">
+<p>Een jonge man loopt door Sint-Petersburg. Een stad waar de zon nooit helemaal ondergaat in de zomer. De man is eenzaam, verdwaald in zijn gedachten. Tot hij op een avond een meisje ontmoet, Nastenka. Zij voelt zich ook alleen. Net als hij zoekt ze naar geluk. Samen ze lopen vier nachten door de schemerende stad. Ze vertellen elkaar over hun leven. Hij wordt verliefd op haar. Maar Nastenka denkt aan een ander. Toch blijft de man bij haar, uit liefde. Tot de witte nachten voorbij zijn ... Witte Nachten is geschreven in 1848 door Fjodor Dostojevski, één van de bekendste Russische auteurs ooit. Frans van Duijn hertaalde het boek naar gewone taal. Zodat iedereen deze bijzondere klassieker kan lezen. Het is een verhaal over liefde en verdriet. Over alleen zijn, maar toch iemand vinden. Voor iedereen die zich ooit alleen voelde in een drukke wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Debbie Herbert</name>
+            <name>Fjodor Dostojevski</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zwanger van de Griekse tycoon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443280371/zwanger-van-de-griekse-tycoon-tara-pammi</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443280371/zwanger-van-de-griekse-tycoon-tara-pammi"/>
-        <updated>2025-10-10T07:13:09.198Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443280371?aid=kb-online-bibliotheek&sid=17&dts=1760026668412&sig=0264cd0ae3f5fb5fc4d2c1a79391b230b50e5db53c13926c462be555c1732657&width=320" alt="Omslag van 'Zwanger van de Griekse tycoon'" title="Omslag van 'Zwanger van de Griekse tycoon'">
-<p>De verrassing van zijn leven...Als Laila erachter komt dat Griekse miljardair Sebastian Skalas het document in bezit heeft dat de man die ze als een vader beschouwt kan redden van zijn schulden, twijfelt ze geen moment. Ze verleidt hem, en na een passievolle nacht samen steelt ze het document. Met de bedoeling hem nooit meer te zien – hoe verleidelijk hij ook is...Na drie jaar is Sebastian nog steeds even vastbesloten om de onweerstaanbare vrouw te vinden die hem heeft bedrogen, maar ze blijkt onvindbaar. Dus hij is diep geschokt als ze opeens voor zijn deur staat, al helemaal omdat ze verrassend nieuws heeft: hij is vader... van een tweeling!  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Godinnen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444196722/godinnen-jasmine-elmer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444196722/godinnen-jasmine-elmer"/>
+        <updated>2025-10-11T07:11:09.407Z</updated>
+        <summary type="html"><![CDATA[Tien eigenzinnige, slimme en krachtige vrouwen uit de wereldmythologie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444196722?aid=kb-online-bibliotheek&sid=17&dts=1760110758556&sig=4bda795535c16f4d2d398930e6dbc50c00b9a551489a63a12943c012bd1c661a&width=320" alt="Omslag van 'Godinnen'" title="Omslag van 'Godinnen'">
+<p>Godinnen neemt je mee op reis door de antieke wereld. Jasmine Elmer stelt je voor aan tien godinnen, onder wie een paar oude bekenden maar vooral nieuwe gezichten. Hun fantastische verhalen draag je na het lezen voor altijd met je mee.</p><p>Artemis, de Griekse godin van de wildernis, met pijl-en-boog in de hand. Sedna, de oceaangodin van de Inuit, beschermer van de ijskoude zee. Hine-nui-te-po, de godin van de dood bij de Maori, rennend door de nacht. Laat je betoveren door deze godinnen en kom erachter wat hun mythen betekenden voor de vrouwen die hen in een ver verleden aanbaden. Eeuwen later onttrekt Jasmine Elmer hun verhalen aan de vergetelheid en laat ze je zien welke grote wijsheid zij in zich dragen. Hun stemmen vertellen je luid en duidelijk dat je vrij bent om je wilde, slimme, eigenzinnige, krachtige en veelzijdige zelf te zijn.</p><p>‘Het leuke aan Godinnen is dat je kennismaakt met tien godinnen uit allerlei mythen en culturen.’ – Mezza AD </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tara Pammi</name>
+            <name>Jasmine Elmer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machtig en meedogenloos]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007624/machtig-en-meedogenloos-jacqueline-baird</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007624/machtig-en-meedogenloos-jacqueline-baird"/>
-        <updated>2025-10-10T07:13:09.576Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007624?aid=kb-online-bibliotheek&sid=17&dts=1760027029647&sig=5458353815a74342f19ff692743e51089e1bf5e6ff3f7fc5fd3474ceebe566f5&width=320" alt="Omslag van 'Machtig en meedogenloos'" title="Omslag van 'Machtig en meedogenloos'">
-<p>Eloise komt erachter dat haar overleden moeder niet alleen anderen, maar ook háár heeft bedrogen en bestolen. Marcus, een machtige Griekse zakenman, denkt echter dat zij overal bij betrokken was, en wil maar één ding: wraak. Op een heel specifieke manier... Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Mijn bange ik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444728236/mijn-bange-ik-regine-dugardyn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444728236/mijn-bange-ik-regine-dugardyn"/>
+        <updated>2025-10-11T07:11:09.884Z</updated>
+        <summary type="html"><![CDATA[Hardop denken over angst en ander psychisch ongemak]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444728236?aid=kb-online-bibliotheek&sid=17&dts=1760107550854&sig=46262bc80ca33e044f772308de688b1ae9da35b4f71a31ef0cfba2a194c1fe7c&width=320" alt="Omslag van 'Mijn bange ik'" title="Omslag van 'Mijn bange ik'">
+<p>Bijna dertig procent van de bevolking lijdt volgens het Trimbos-instituut vroeg of laat aan ernstige angstklachten. Regine Dugardyn is een van hen. Sinds haar jeugd kent ze periodes van hevige angst. Regine hoort bij de groep die regelmatig kopje-onder gaat, maar ook weer komt bovendrijven. De afgelopen decennia voelde zij zich - samen met haar lotgenoten - vaak onderwerp van debat.</p><p>Al twintig jaar doen psychiaters, psychotherapeuten en filosofen in de media ferme uitspraken over psychische stoornissen. Volgens psychiater Damiaan Denys kunnen mensen geen onderscheid meer maken tussen gewone angst enerzijds en een ziekelijke angststoornis anderzijds. En in haar bestseller De depressie-epidemie noemt filosoof Trudy Dehue antidepressiva prestatiepillen, alsof mensen doping slikken.</p><p>In Mijn bange ik laat Regine zien wat die kritiek doet met haar, als patiënt en als filosoof. Ze vraagt zich af wanneer menselijk lijden nog bij het leven hoort en wanneer niet. Is een diagnose uit de DSM zo onzinnig als sommige critici beweren? Slikken we en masse antidepressiva omdat we geen tegenslag meer zouden verdragen? En gaan we inderdaad in therapie in de overtuiging dat het leven maakbaar is? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jacqueline Baird</name>
+            <name>Regine Dugardyn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heimelijke kus]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007381/heimelijke-kus-teresa-carpenter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007381/heimelijke-kus-teresa-carpenter"/>
-        <updated>2025-10-10T07:13:09.766Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007381?aid=kb-online-bibliotheek&sid=17&dts=1760026325721&sig=60ecf4d3ff378cc9b7ddab13a38c39e3ce0dced426e23c43d955e000156f5e4b&width=320" alt="Omslag van 'Heimelijke kus'" title="Omslag van 'Heimelijke kus'">
-<p>Zijn prinselijk hart staat in vuur in vlam...Sinds prins Julian van Kardana voor zijn peuterneefje moet zorgen, heeft hij slapeloze nachten. Emoties en kinderen zijn niet zijn sterkste kant, merkt hij. Gelukkig krijgt hij hulp van een nanny, Katrina. Al snel is de kleine Sammy helemaal verknocht aan haar. Maar Julian zelf doet nu helemáál geen oog meer dicht – al heeft dat dit keer een heel andere oorzaak!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[OMG 30]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44624581X/omg-30-marije-veerman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44624581X/omg-30-marije-veerman"/>
+        <updated>2025-10-11T07:11:10.121Z</updated>
+        <summary type="html"><![CDATA[Tips en inzichten van bekende dertigers]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44624581X?aid=kb-online-bibliotheek&sid=17&dts=1760106721973&sig=454f78cd966952c7632bdd9c8b4e3f26d0d692ca85ca5b5fb59dd983ccd8e062&width=320" alt="Omslag van 'OMG 30'" title="Omslag van 'OMG 30'">
+<p>Voor veel vrouwen van in de twintig vrouwen is dertig worden reden voor regelrechte paniek. Er beginnen allerlei klokken te tikken: die van het vinden van de perfecte baan, de perfecte partner, die van een huis bezitten en van die van die rammelende eierstokken. En dat terwijl je eigenlijk nog best een lange bucketlist hebt met activiteiten waar je je vrijheid voor nodig hebt. Gelukkig gingen veel vrouwen je voor. En guess what, het valt allemaal wel mee.</p><p></p><p> In OMG30 geven ervaringsdeskundige BN'ers opgedane inzichten, adviezen en praktische tips over dertig worden de daarbij opgelegde verwachtingen en vragen: Wie ben ik nu eigenlijk? En wat wil ik doen met mijn leven? Ben ik goed bezig?</p><p></p><p> Een kleine greep:</p><p>Topmodel Daniëlle van Grondelle helpt je je zelfbeeld goed te houden als het leven met dertig nog niet is wat je gehoopt was.</p><p>Advocaat Kim Beumer geeft heel waardevolle tips op het gebied van werk en carrière</p><p>Olympisch zwemkampioen Femke Heemskerk vertelt dat haar dertiger jaren veel relaxter zijn dan haar twintiger jaren.</p><p></p><p>  Andere onderwerpen zijn: single zijn * daten * relaties * seks * gezondheid * werk * geld * zelfbeeld * kinderloosheid * moederschap * droom & werkelijkheid.</p><p></p><p> Aan het woord komen: Nina Pierson, Floor Bakhuys Roozeboom, Krista Ariëns, Mascha Feoktistivo, Immanuelle Grives, Laura Ponticorvo, Kelly Ruigrok, Malou Holshuijsen, Rebecca Boektje, Sharon Hilgers, Mandy Woelkens, Rachel Siwaletti, Ginny Ramkisoen, Janneke van den Brink, Renée Lamboo, Anne Vedder, Lotte Houwink ten Cate </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Teresa Carpenter</name>
+            <name>Marije Veerman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In beschermende handen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007594/in-beschermende-handen-jessica-matthews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007594/in-beschermende-handen-jessica-matthews"/>
-        <updated>2025-10-10T07:13:10.164Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007594?aid=kb-online-bibliotheek&sid=17&dts=1760022505202&sig=0f72f2fda0b8c3aa56b68e09ddd61878b3a192486dddd3dc3441727a9e3c33a1&width=320" alt="Omslag van 'In beschermende handen'" title="Omslag van 'In beschermende handen'">
-<p>Nikki heeft spijt als haren op haar hoofd...Want sinds ze Galen probeerde te versieren toen ze nog studiemaatjes waren, is zijn houding verkild. Pijnlijk, vooral nu ze na lange tijd weer samen moeten werken. En de aantrekkingskracht er nog steeds is...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De bananenlezers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444196633/de-bananenlezers-marlies-smeenge</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444196633/de-bananenlezers-marlies-smeenge"/>
+        <updated>2025-10-11T07:11:10.330Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444196633?aid=kb-online-bibliotheek&sid=17&dts=1760109105306&sig=39c383816670b9de8810e2fd02c011ced0b83d37eae19584a43d32c983bb13d4&width=320" alt="Omslag van 'De bananenlezers'" title="Omslag van 'De bananenlezers'">
+<p>Loekie begint aan de prestigieuze studie Toonkunst op een Belgische toneelschool. Ze valt van de ene cultuurshock in de andere spraakverwarring. Soms vraagt ze zich af wanneer de verborgen camera's tevoorschijn komen en zal blijken dat de opleiding helemaal niet bestaat. Ze komt te wonen in woongroep Kijkdoos, die is gevestigd in een pand waar ze telkens nieuwe gangen en deuren ontdekt en dat bewoond wordt door een kleurrijke verzameling mensen die nogal vastzitten in het leven. Om onduidelijke redenen noemen ze Loekie de Koikarper. Zonder zich daar al te bewust van te zijn woelt Loekie met haar Hollandse directheid van alles om, zowel op haar opleiding als in de woongroep. Om de chaos in de overvolle Kijkdoos te beteugelen en toegelaten te worden tot het tweede studiejaar zal Loekie een tandje bij moeten zetten. Ze wordt gedwongen uit haar waarnemersrol te stappen, onwaarschijnlijke vriendschappen te sluiten en zich werkelijk in het diepe te storten.</p><p>De roman leest als een komisch avonturenverhaal, vol met op hol geslagen associaties en rake bespiegelingen.</p><p>Over de documentaire De butlers: 'Een voltreffer. Heerlijk eigenzinnig.'- de Volkskrant </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jessica Matthews</name>
+            <name>Marlies Smeenge</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een zoete verrassing]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007462/een-zoete-verrassing-jill-shalvis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007462/een-zoete-verrassing-jill-shalvis"/>
-        <updated>2025-10-10T07:13:10.384Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007462?aid=kb-online-bibliotheek&sid=17&dts=1760020567791&sig=df7d68b0895cda346c8e8eb5a1b38c5f3eb49f2b96af890a4d4dfe3fa8f5cbc1&width=320" alt="Omslag van 'Een zoete verrassing'" title="Omslag van 'Een zoete verrassing'">
-<p>Cupcakes, croissants en kussen… Ze zijn in de aanbieding bij de Sugar Pine Bakery! Wanneer het leven van Harper Shaw in elkaar stort, vooral dankzij haar ex-bijna-verloofde, besluit ze dat het tijd is voor een nieuwe start. Dus neemt ze zich voor alles waar ze geen plezier aan beleeft uit haar leven te bannen - haar stressvolle baan, het eten van boerenkool, het maken van lijstjes - en te vertrekken naar Sunrise Cove. Daar zal ze haar droom om haar eigen bakkerij te beginnen in vervulling laten gaan.In haar Sugar Pine Bakery voelt ze zich al snel op haar plek: niet in het minst omdat ze ingeklemd zit tussen de boekwinkel van haar nieuwe bff, Shay, en het café van de norse maar bijzonder sexy Bodie. Dan ontmoet ze het weggelopen tienermeisje Ivy. Omdat ze veel van zichzelf in het meisje herkent, besluit ze haar onder haar hoede te nemen. Maar Ivy heeft zo haar geheimen…Wanneer deze geheimen aan het licht komen, zorgen ze voor de nodige opschudding in Sunrise Cove, én in Harpers wereld. Toch is ze niet van plan haar nieuwe leventje zomaar op te geven – en al helemaal niet haar kans op echte liefde!  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Opvoeden, het hoeft niet zo perfect]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446245887/opvoeden--het-hoeft-niet-zo-perfect-kina-smit</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446245887/opvoeden--het-hoeft-niet-zo-perfect-kina-smit"/>
+        <updated>2025-10-11T07:11:10.534Z</updated>
+        <summary type="html"><![CDATA[Ontspannen ouderschap in een hectische tijd]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446245887?aid=kb-online-bibliotheek&sid=17&dts=1760106759854&sig=a5f1514f4c86380bb890a9182eef86f3e0b601194062e063d30dd679c6ac2a98&width=320" alt="Omslag van 'Opvoeden, het hoeft niet zo perfect'" title="Omslag van 'Opvoeden, het hoeft niet zo perfect'">
+<p>Je kind heeft geen perfecte opvoeder nodig, maar gewoon jou. Voor elke ouder die het zo graag goed wil doen is dit hét boek dat geruststelt.</p><p></p><p> ‘Ben ik een slechte ouder als ik snak naar een weekend voor mezelf?’ ‘Hoe krijg ik mijn kind ooit nog los van dat scherm?’ ‘Ik heb tegen mijn kind geschreeuwd. Hoe erg is dat?’</p><p></p><p> Ouders willen hun kind alles geven: kansen, liefde, veiligheid, geluk en het liefst een vlekkeloze kindertijd. In haar opvoedpraktijk ziet orthopedagoog Kina Smit dagelijks hoe hoog de stress oploopt bij ouders én kinderen. Waarom denken ouders dat alles leuk moet zijn? En hoezo is opvoeden een project geworden dat moet slagen? Met meer dan twintig jaar ervaring als orthopedagoog en als moeder van twee doch¬ters weet zij het zeker: laat je niet gek maken door torenhoge verwachtingen! Het is juist gezond als ouders de controle meer loslaten en dingen níét vlekkeloos gaan. Bovendien is lastig gedrag van kinderen vaak een reactie op onze hectische tijd, vol prikkels en veranderingen.</p><p></p><p> Aan de hand van herkenbare voorbeelden uit haar praktijk geeft Kina Smit met humor en relativering antwoorden op de vragen die iedere moderne ouder herkent. Van schermgebruik en opstandig gedrag tot prestatiedruk. Ze laat zien hoe je een ontspannen ouder kunt zijn die kan loslaten én grip kan houden. Het hoeft niet zo perfect. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jill Shalvis</name>
+            <name>Kina Smit</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amari en de Waanzinnige Wonderen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443349177/amari-en-de-waanzinnige-wonderen-b-b--alston</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443349177/amari-en-de-waanzinnige-wonderen-b-b--alston"/>
-        <updated>2025-10-10T07:13:10.596Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443349177?aid=kb-online-bibliotheek&sid=17&dts=1760043539181&sig=84794f0999b3e6797bcef11306c21d0674738996fe3404f430a5cdd43960f450&width=320" alt="Omslag van 'Amari en de Waanzinnige Wonderen'" title="Omslag van 'Amari en de Waanzinnige Wonderen'">
-<p>De met een Bronzen Griffel bekroonde Amari-serie van B.B. Alston heeft een waanzinnig nieuw deel: Amari en de Waanzinnige Wonderen.Er dreigt oorlog in de magische wereld. Aan de ene kant staat de regering, die onder leiding van de verschrikkelijke Elinor Steenheuvel jaagt op magiërs. Aan de andere kant staat Dylan van Helsing, vroeger Amari's vriend en partner, nu leider van het Genootschap der Magiërs. Hij zoekt naar geheime wapens waardoor hij niet alleen kan winnen, maar ook… oppermachtig kan worden.Amari zit als magiër én agent van het Bureau voor Bovennatuurlijke Zaken precies tussen de vechtende partijen in. Ze is nergens meer veilig. Samen met haar broer en trouwe vrienden besluit ze ook op zoek te gaan naar de magische uitvindingen die Dylan zoekt. Deze Waanzinnige Wonderen kunnen hen helpen, maar eisen ook een torenhoge tol…Over de serie:'Amari en de Nachtwachters is een heerlijk, eigentijds, knap geconstrueerd avontuur met verrassende wendingen.' Trouw'Een spannend, mysterieus en met veel vaart geschreven verhaal met een actueel randje.' NBD Biblion'Een betoverend fantasyavontuur met hart en ziel. Amari is magisch!' Angie Thomas, auteur van The Hate You Give </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Mensen die van honden houden, houden van mensen die van honden houden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447729004/mensen-die-van-honden-houden--houden-van-mensen-die-van-honden-houden-nick-duerden</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447729004/mensen-die-van-honden-houden--houden-van-mensen-die-van-honden-houden-nick-duerden"/>
+        <updated>2025-10-11T07:11:10.997Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447729004?aid=kb-online-bibliotheek&sid=17&dts=1760109105568&sig=e4340048f6d9b769be97c6ca5ab784369859a9392cbc5ee9c6f8d0df203d4582&width=320" alt="Omslag van 'Mensen die van honden houden, houden van mensen die van honden houden'" title="Omslag van 'Mensen die van honden houden, houden van mensen die van honden houden'">
+<p>Eigenlijk is Nick Duerden een kattenmens, dus de komst van een gezinshond is nogal een verrassing. Helemaal gezien borderterriër Missy niet alleen voor de kinderen in huis wordt genomen maar vooral voor hem. Na een lange periode van ziek thuiszitten moet hij naar buiten, elke dag.</p><p>Het werkt, en hoe. Missy weet het voor elkaar te krijgen dat Nick dagelijks door het park wandelt. Binnen korte tijd raken ze bevriend met zowel een jonge acteur als een tachtigjarige weduwe, een breedsprakige Russische dissident en een stonede vechtsporter.Mensen die van honden houden, houden van mensen die van honden houden is een boek over verbinding en vriendschap, liefde en verlies. Maar ook over jezelf weer vinden en je horizon verbreden, zelfs als je denkt dat dat niet meer kan. En bovenal is het een boek over hoe een kleine hond je leven weer groter kan maken.</p><p>'Een aanstekelijk verhaal over honden, hun baasjes en de vriendschappen die tussen hen kunnen ontstaan.' - Katherine May, auteur van Winteren en Verwondering</p><p>'Een wijze en ontroerende vertelling over hoe kleine verbintenissen levens kunnen veranderen.' - Lissa Evans </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>B.B. Alston</name>
+            <name>Nick Duerden</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zinderend weekend]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007551/zinderend-weekend-emma-darcy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007551/zinderend-weekend-emma-darcy"/>
-        <updated>2025-10-10T07:13:10.813Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007551?aid=kb-online-bibliotheek&sid=17&dts=1760033875572&sig=d0143b44e28bc2c2adc8a1752471e96dcb901e2cf651cd67e193c40e4f173358&width=320" alt="Omslag van 'Zinderend weekend'" title="Omslag van 'Zinderend weekend'">
-<p>Op het moment dat Angie zijn kantoor binnenloopt......weet steenrijke zakenman Hugo Fullbright genoeg: dit is de vrouw die hij moet hebben! Zonder omhaal vraagt hij haar met hem mee te gaan op een zakenreis naar Tokio. Angie stemt toe, al weet ze heel goed waaróm hij haar heeft uitgenodigd...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het lege nest]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44624550X/het-lege-nest-deirdre-enthoven---dorine-van-der-wind</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44624550X/het-lege-nest-deirdre-enthoven---dorine-van-der-wind"/>
+        <updated>2025-10-11T07:11:11.212Z</updated>
+        <summary type="html"><![CDATA[Alles wat je wilt weten als kinderen uit huis gaan]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44624550X?aid=kb-online-bibliotheek&sid=17&dts=1760107320159&sig=6f182dc08ee3de35256cbcf41a0e09442adefcedab7cad36c2921baf70ada809&width=320" alt="Omslag van 'Het lege nest'" title="Omslag van 'Het lege nest'">
+<p>Kinderen groeien op en gaan vroeg of laat - tegenwoordig steeds later - uit huis. Een natuurlijk proces, je voedt je kind op tot volwassenheid. Toch valt het ouders - moeders én vaders - soms zwaar als deze levensfase aanbreekt, sommige ervaren zelfs een soort liefdesverdriet. Ze missen hun kind, maar ook de structuur en de gezelligheid die het ouderschap met zich meebrengt. Het roept vragen op, zoals: wat is er over van mijn relatie nu de bv Gezin is opgedoekt? En: hoe laat ik mijn kind los, maar blijf ik betrokken?</p><p>In Het lege nest geven journalisten Deirdre Enthoven en Dorine van der Wind psychologische inzichten en praktische handvatten voor de 'lege-nester' door in het meest recente wetenschappelijk onderzoek te duiken en sociologen, psychologen, therapeuten, een groot aantal ouders én kinderen te interviewen. Ze laten zien hoe je je op deze periode kunt voorbereiden en deze kunt benutten om jezelf opnieuw uit te vinden, nieuwe carrières na te jagen en te genieten van de herwonnen tijd en ruimte. Want het lege nest is niet alleen een einde, maar ook een nieuw begin. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Emma Darcy</name>
+            <name>Deirdre Enthoven</name>
+        </author>
+        <author>
+            <name>Dorine van der Wind</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aan de voet van de vuurtoren]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007470/aan-de-voet-van-de-vuurtoren-brenda-novak</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007470/aan-de-voet-van-de-vuurtoren-brenda-novak"/>
-        <updated>2025-10-10T07:13:11.432Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007470?aid=kb-online-bibliotheek&sid=17&dts=1760024687613&sig=2e3d1da0d533d5f3a26acac026d48bb8c65a1ed6f7e8da67b4d2ee0bd8beb3c7&width=320" alt="Omslag van 'Aan de voet van de vuurtoren'" title="Omslag van 'Aan de voet van de vuurtoren'">
-<p>Deze zomer op het eiland verandert alles…Mariners Island is nauwelijks vijftien kilometer lang, maar tijdens hun tienerjaren was het voor Ivy, Ariana en Cam hun hele wereld. Vanwege zijn prachtige stranden, de beroemde vuurtoren en de mooie, oude bibliotheek, hield het eiland Ivy ook als volwassene aan zich gebonden. Ariana, daarentegen, maakte zich zo snel mogelijk uit de voeten – niet alleen omdat ze heimelijk verliefd was op Cam, maar ook vanwege een tragedie die grote impact had op hun vriendschap.Nu, twintig jaar later, keert Ariana terug naar Mariners Island, net op het moment dat er nieuwe informatie naar boven komt over die vreselijke avond. Opnieuw staat het leven van de drie vrienden op zijn kop: wat is er toen precies gebeurd en wie kunnen ze nog vertrouwen? Gedurende deze lange, tumultueuze zomer wordt niet alleen de waarheid over hun verleden blootgelegd, maar ook over hun toekomst, hun vriendschap en hun diepste verlangens… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Cleopatra]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44624516X/cleopatra-natasha-solomons</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44624516X/cleopatra-natasha-solomons"/>
+        <updated>2025-10-11T07:11:11.446Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44624516X?aid=kb-online-bibliotheek&sid=17&dts=1760107095886&sig=a71ecfdd0fce304aa41870f3b8f4ae14e958ab271621744f4d8932d79f3e9eb9&width=320" alt="Omslag van 'Cleopatra'" title="Omslag van 'Cleopatra'">
+<p>Wanneer haar vader overlijdt moet de macht verdeeld worden tussen de leergierige Cleopatra en haar egoïstische broer Ptolemaeus. Terwijl Cleopatra over de Nijl vaart om haar volk te begroeten, beraamt haar broer een plan om de troon voor zichzelf op te eisen. Cleopatra beseft dat de komst van Julius Caesar naar Egypte de sleutel tot haar succes kan zijn, maar hem verleiden is hoog spel. Kan ze haar leven, de troon en haar geliefde land redden om zo de geschiedenis naar haar hand te zetten?</p><p>‘In de geschiedenis worden vrouwen nauwelijks genoemd. Voor mij zijn het juist hun verhalen die het interessantst zijn en daarom maak ik ze het middelpunt van het verhaal.’– Natasha Solomons</p><p>‘Het resultaat is een fascinerend boek’ – Max Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Brenda Novak</name>
+            <name>Natasha Solomons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verrukkelijke kussen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44300739X/verrukkelijke-kussen-lucy-gordon</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44300739X/verrukkelijke-kussen-lucy-gordon"/>
-        <updated>2025-10-10T07:13:11.940Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44300739X?aid=kb-online-bibliotheek&sid=17&dts=1760080391517&sig=9ad163a34a18c84f3b154cf09f586fc8c8b53318263b4f5d5a4e9a2f76506567&width=320" alt="Omslag van 'Verrukkelijke kussen'" title="Omslag van 'Verrukkelijke kussen'">
-<p>Italiaanse nachten zijn warm en lang...Natuurlijk had advocate Ellie nóóit mogen bezwijken voor de charmes van haar cliënt, zakenman Leonizio Fellani. Toch heeft ze geen spijt van die heerlijke nacht! Dan ontdekt ze dat hun tijd samen nog iets anders heeft voorgebracht dan mooie herinneringen – en vraagt hij haar meteen ten huwelijk. Maar is het hem wel om háár te doen? Of om zijn erfgenaam?Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Kasteeldroom]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436335085/kasteeldroom-emmy-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436335085/kasteeldroom-emmy-postma"/>
+        <updated>2025-10-11T07:11:11.660Z</updated>
+        <summary type="html"><![CDATA[Mijn avonturen in Frankrijk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436335085?aid=kb-online-bibliotheek&sid=17&dts=1760116219231&sig=f62ff7ed31f1ad03c01e807d4620cd33f2ff1a75f23dfb38a31e3c01ec046117&width=320" alt="Omslag van 'Kasteeldroom'" title="Omslag van 'Kasteeldroom'">
+<p>In 2018 wordt de Utrechtse kinderverpleegkundige Emmy Postma op slag verliefd op een vervallen kasteel in de Dordogne. Waar anderen een geldverslindende bouwval zien, ziet zij een schitterend château met zeven slaapkamers en zes hectare grond eromheen, een plek waar ze haar droom van een heel ander leven in vervulling kan laten gaan.</p><p>Tegen alle adviezen in en zonder haar man Rutger besluit ze het avontuur aan te gaan en het te kopen. En een avontuur wordt het, want het dak is zo lek als een mandje, termieten teisteren het interieur en achter elke deur gaat een nieuwe reeks klussen schuil.</p><p>Met onverwoestbaar optimisme gaat Emmy aan de slag. In dit boek doet ze levendig verslag van de roerige jaren waarin ze Château des Chauvaux opknapt. Bovendien geeft ze een inkijkje in haar leven als kasteelvrouwe - een leven waarin ze haar droom achterna is gegaan. En daar heeft ze nog geen seconde spijt van gehad. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lucy Gordon</name>
+            <name>Emmy Postma</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In zijn Italiaanse palazzo]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443280363/in-zijn-italiaanse-palazzo-rosie-maxwell</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443280363/in-zijn-italiaanse-palazzo-rosie-maxwell"/>
-        <updated>2025-10-10T07:13:12.144Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443280363?aid=kb-online-bibliotheek&sid=17&dts=1760028104353&sig=85417c8bd94819022ad953f05908dccb62632adf5b3c1d7db8c6b5f6d1076fdf&width=320" alt="Omslag van 'In zijn Italiaanse palazzo'" title="Omslag van 'In zijn Italiaanse palazzo'">
-<p>Een tweede kans met de Italiaanse miljardair...Domenico Ricci is diep geschokt als zijn vrouw Rae hem plotseling verlaat – en nog geschokter als hij haar opeens weer terugziet! Hoe kan hij haar nog steeds zo onweerstaanbaar vinden nadat ze hem heeft afgewezen? En waarom vindt hij het niet vervelender dat hij, om zijn Venetiaanse palazzo te erven, zes maanden met haar moet doorbrengen?Rae kon niets anders dan haar echtgenoot verlaten. Haar liefde voor Domenico was zo allesverterend dat er niets meer van haarzelf was overgebleven. Dus als hij haar vraagt om een halfjaar met hem in Venetië door te brengen, is ze vastbesloten om deze keer stevig in haar schoenen te staan. Lastig, want haar verlangen naar hem is sterker dan ooit...  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Die goeie ouwe taal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444196714/die-goeie-ouwe-taal-yoi-n-van-spijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444196714/die-goeie-ouwe-taal-yoi-n-van-spijk"/>
+        <updated>2025-10-11T07:11:11.873Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444196714?aid=kb-online-bibliotheek&sid=17&dts=1760109105673&sig=253ff20b761ae1f934d89334ac5319ffadfac49c2a6df6574359be92fda1fb87&width=320" alt="Omslag van 'Die goeie ouwe taal'" title="Omslag van 'Die goeie ouwe taal'">
+<p>Shortlist Taalboekenprijs 2025  Je spreekt Nederlands. Maar hoeveel weet je nu echt van onze taal? Die goeie ouwe taal staat boordevol onmisbare wetenswaardigheden en een taalquiz!. Taalwetenschapper Yoïn van Spijk neemt je in 101 korte stukken mee naar onverwachte hoeken van de Nederlandse taal.  Wist je dat...</p><p>… ons woord voor de oer-Nederlandse molen helemaal niet uit het Nederlands komt?</p><p>… vroeger niet wilden maar juist wouden goed was?</p><p>… het Franse leenwoord fauteuil afstamt van de voorouder van onze Nederlandse vouwstoel?</p><p>… het eigenlijk heel logisch is om puzel te zeggen in plaats van puzzel?  Sinds Yoin van Spijk in de vijfde klas een etymologisch woordenboek in handen kreeg, is hij gefascineerd door taal. Het gaat hem er niet om of taal goed of fout is, maar hoe taal verandert. Voor iedereen die meer wil weten over waar we vandaan komen, valt in onze taal veel te ontdekken!  'Een wervelend boek. De manier waarop het Nederlands zich ontwikkeld heeft, is nog nooit zo aantrekkelijk beschreven.'- Marc van Oostendorp</p><p>'Met dit boek verrijk je je kennis.' – Margriet</p><p>'Ook de stijl is die van columns: slim en grappig.' – NRC</p><p>'Dit boek staat boordevol onmisbare wetenswaardigheden voor iedereen.' – Zin magazine</p><p>'Die goeie ouwe taal is een bijzonder onderhoudend boek, waaraan je veel leesplezier beleeft maar waarvan je beslist over de etymologie van woorden ook enorm veel opsteekt. Aanrader!' –</p><p>Deboekhouding</p><p>'Leuke weetjes over taalevolutie in Die goeie ouwe taal.' – New Scientist</p><p> 'Van Spijk deelt zijn kennis op een speelse maar duidelijke manier; het plezier spat ervanaf.' – Hollands Glorie</p><p>'Die goeie ouwe taal staat boordevol onmisbare wetenswaardigheden voor iedereen.' – Levende talen magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Rosie Maxwell</name>
+            <name>Yoïn van Spijk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Golven op het zand]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007586/golven-op-het-zand-marion-lennox</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007586/golven-op-het-zand-marion-lennox"/>
-        <updated>2025-10-10T07:13:12.330Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007586?aid=kb-online-bibliotheek&sid=17&dts=1760031016150&sig=1de085109b130b96367356485341ffbf5d80cd2119cbd1b05100df3937837492&width=320" alt="Omslag van 'Golven op het zand'" title="Omslag van 'Golven op het zand'">
-<p>Emily, de enige dokter in Bay Beach, heeft het ontzettend druk...Dus wanneer de knappe chirurg Jonas aanbiedt haar te helpen, is ze dan ook dolblij – en dolverliefd! Hij voelt ook iets voor haar, maar ze weten allebei dat zijn verblijf in Bay Beach tijdelijk is. Hoe kan ze hem overhalen te blijven?Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Groots is de liefde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447542591/groots-is-de-liefde-jacqueline-oskamp</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447542591/groots-is-de-liefde-jacqueline-oskamp"/>
+        <updated>2025-10-11T07:11:12.095Z</updated>
+        <summary type="html"><![CDATA[Biografie van Louis Andriessen (1939-2021)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447542591?aid=kb-online-bibliotheek&sid=17&dts=1760114893392&sig=561d6f43b962077be8001c99b7993750be8ceeacfa28d20823aa2819bed77761&width=320" alt="Omslag van 'Groots is de liefde'" title="Omslag van 'Groots is de liefde'">
+<p>Met het verpletterende stuk De Staat (1976) schreef Louis Andriessen geschiedenis. Ook andere grote werken als De Materie en La Commedia gingen de wereld over. Aan het eind van zijn leven kreeg Andriessen zelfs meer waardering in Groot-Brittannië en de vs dan in Nederland. Louis Andriessen wordt als nakomertje geboren in een gerenommeerde familie van musici. Dankzij de reputatie van zijn vader Hendrik rolt overal de rode loper voor hem uit. Hij is een typisch kind van de jaren zestig: tégen de oorlog in Vietnam, vóór toegankelijke kunst, antiautoritair, vóór de vrije liefde. Cultureel Nederland leert Andriessen kennen als een slimme, geestige man die nooit om een oneliner verlegen zit. Achter die bravoure gaat een complexe persoonlijkheid schuil. Hij heeft een grote behoefte aan harmonie, maar creëert vaak zelf conflictueuze situaties. Als er tijdens de roemruchte Aktie Notenkraker in 1969 in Het Concertgebouw een handgemeen ontstaat tussen publiek, actievoerders, musici en politie, houdt Andriessen zich gedeisd op het balkon. Jacqueline Oskamp kreeg toegang tot Andriessens privéarchief, dat onder meer honderden ongepubliceerde brieven omvat. Met Groots is de liefde schreef ze een pakkende biografie waarin ze onvermoede kanten van de componist belicht.</p><p>Over Een behoorlijk kabaal:</p><p>'Een goed gedocumenteerd, helder boek over Nederlandse componisten en hun rol in de samenleving.' - de Volkskrant </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Marion Lennox</name>
+            <name>Jacqueline Oskamp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dokter Luca's liefde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007578/dokter-luca-s-liefde-meredith-webber</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007578/dokter-luca-s-liefde-meredith-webber"/>
-        <updated>2025-10-10T07:13:12.741Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007578?aid=kb-online-bibliotheek&sid=17&dts=1760026938923&sig=745afb92ca7dd4b859dde2f4e67eaf4c8d180ffcee6ebf43e4d1eeaebb947e1c&width=320" alt="Omslag van 'Dokter Luca's liefde'" title="Omslag van 'Dokter Luca's liefde'">
-<p>Na een nare ervaring heeft verpleegkundige Rachel mannen afgezworen...En toch is ze na één blik in de ogen van Luca, de nieuwe chirurg, verloren. Gelukkig is dat wederzijds, maar net als ze hem echt durft te vertrouwen, doet ze een ontdekking...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Dromen van mijn zus]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439226325/dromen-van-mijn-zus-mpanzu-bamenga</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439226325/dromen-van-mijn-zus-mpanzu-bamenga"/>
+        <updated>2025-10-11T07:11:12.308Z</updated>
+        <summary type="html"><![CDATA[Een persoonlijk verhaal over onrecht en de hoop op een eerlijke wereld]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439226325?aid=kb-online-bibliotheek&sid=17&dts=1760113790056&sig=b0743e9009cc0fc349c70e29085d91978200aa03de0557713da9ac3ec454de89&width=320" alt="Omslag van 'Dromen van mijn zus'" title="Omslag van 'Dromen van mijn zus'">
+<p>In 1994 vluchtte de toen achtjarige Mpanzu Bamenga uit Zaïre, samen met zijn moeder, broer en zus. Dertien jaar woonde hij in Nederland zonder verblijfsvergunning. Als kleine jongen droomde hij al van een rechtvaardigere samenleving. Deze droom won aan urgentie toen zijn zus slachtoffer werd van etnisch profileren; uiteindelijke zou zij sterven in een Amerikaanse politiecel. Toen hij – inmiddels met een succesvolle maatschappelijke carrière – op Eindhoven Airport zelf op basis van zijn etniciteit staande werd gehouden, brak er een nieuwe fase aan in zijn maatschappelijke missie. Dromen van mijn zus is het inspirerende levensverhaal van Mpanzu Bamenga, die zich ondanks vele tegenslagen blijft inzetten voor een rechtvaardige, gelijkwaardige en duurzame wereld. Zijn levensverhaal is een inspiratiebron voor iedereen die zich inzet voor een eerlijkere wereld. De Koninklijke Marechaussee mag niet langer mensen controleren op basis van hun huidskleur, aldus een baanbrekende uitspraak van het gerechtshof in Den Haag van begin 2023. Dit was een historisch resultaat in de strijd tegen racisme en etnisch profileren, en bovendien een grote persoonlijke overwinning voor een van de aanklagers, Mpanzu Bamenga. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Meredith Webber</name>
+            <name>Mpanzu Bamenga</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reis naar verzoening]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443007373/reis-naar-verzoening-fiona-harper</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443007373/reis-naar-verzoening-fiona-harper"/>
-        <updated>2025-10-10T07:13:13.249Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007373?aid=kb-online-bibliotheek&sid=17&dts=1760080392834&sig=178aa4c68fec9188b083c5a82a645d128aee8556ccff92765fb9f98fe96e83fa&width=320" alt="Omslag van 'Reis naar verzoening'" title="Omslag van 'Reis naar verzoening'">
-<p>Ze dacht dat hij heel ver weg was…Nadat Nick Adele heeft verlaten voor een baan aan de andere kant van de oceaan, probeert ze haar leven weer op te pakken. Net als dat een beetje lukt, staat hij plotseling voor haar deur, met de vraag of ze meegaat naar zijn zieke moeder in Schotland. Tot haar eigen verbazing stemt ze toe. Want hoewel ze eigenlijk niets meer met hem te maken wil hebben, voelt ze wél weer vlinders!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De grijze kitten en de monnik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443125619/de-grijze-kitten-en-de-monnik-corrado-debiasi</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443125619/de-grijze-kitten-en-de-monnik-corrado-debiasi"/>
+        <updated>2025-10-11T07:11:12.789Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443125619?aid=kb-online-bibliotheek&sid=17&dts=1760106545042&sig=5447f4d763c10d9cbaa6317f7028c2db039bd03ac28712d8a9fd89858a285a79&width=320" alt="Omslag van 'De grijze kitten en de monnik'" title="Omslag van 'De grijze kitten en de monnik'">
+<p>Een paar jaar geleden maakte Kripala zijn eerste reis naar India, de reis die zijn leven veranderde. Nu moet hij terug naar de Ganges om het stoffelijk overschot van zijn geliefde, die onlangs is overleden, naar de rivier te brengen en om zijn leraar, Tatanji, te zoeken. Door zijn leraar te vinden hoopt Kripala ook zijn verloren gemoedsrust terug te vinden. Maar de tempel blijkt verlaten. De oude monnik is verdwenen en alleen een blauwogig grijs katje, Shakti, en een versleten notitieboekje zijn achtergebleven. Kripala neemt beide mee op een nieuwe reis, op zoek naar een plek die hij in zijn dromen heeft gezien - een mythische bestemming waarnaartoe niemand echt de weg kent, maar die velen hopen te bereiken. Kripala's reis zit vol valkuilen, maar hij ontmoet ook bijzondere mensen bij wie hij tot nieuwe inzichten komt. En zo leert hij gaandeweg wat het grootste geschenk is…</p><p>Over De monnik die van katten hield:</p><p>'Innemende en inspirerende mannelijke tegenhanger van Eten, bidden en beminnen' - Zin </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Fiona Harper</name>
+            <name>Corrado Debiasi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De erfenis van de familie Falck]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442273231/de-erfenis-van-de-familie-falck-aslak-nore</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442273231/de-erfenis-van-de-familie-falck-aslak-nore"/>
-        <updated>2025-10-10T07:13:13.424Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442273231?aid=kb-online-bibliotheek&sid=17&dts=1760019773567&sig=fe157b510b984206c0c7f2c2de8ec318fc230b1e27707828271ab87ae37a7b7e&width=320" alt="Omslag van 'De erfenis van de familie Falck'" title="Omslag van 'De erfenis van de familie Falck'">
-<p>De erfenis van de familie Falck van Aslak Nore is dé literaire hit uit Noorwegen. Een rijke Noorse familie ruziet over een verdwenen testament, waardoor een groot familiegeheim en een verboden liefde aan het licht dreigen te komen.De rijke en machtige familie Falck maakt zich op voor de feestdagen, al wordt de sfeer bedorven door de machtsstrijd om de aanzienlijke nalatenschap van grootmoeder Vera. Kleindochter Sasha oppert om een expeditie naar Spitsbergen te organiseren, omdat daar de oorsprong ligt van het bloeiende familiebedrijf waar zij nu directeur van is.Rond dezelfde tijd duikt er in Longyearbyen, de grootste nederzetting op Spitsbergen, in het holst van de maandenlange nacht een sneeuwscooter op. De bijna bewusteloze Russische bestuurder weet nog net uit te brengen: ‘Don’t touch... Don’t touch.’ De familie Falck krijgt te maken met oude vijanden, wat verregaande consequenties heeft voor iedereen...Over Het testament van de zee:‘Formidabel geschreven literaire roman.’ Vrij Nederland‘Een indringende, spannende roman over verraad, verboden liefde en een groot familiegeheim. Leest als pure poëzie.’ Boekhandel Maximus‘Prachtig geschreven met oog voor detail. En het eind zal niemand verwachten...’ Bruna Heerde </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Begrijp jij Centraal-Europa nog?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443090661/begrijp-jij-centraal-europa-nog--hans-luiten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443090661/begrijp-jij-centraal-europa-nog--hans-luiten"/>
+        <updated>2025-10-11T07:11:13.004Z</updated>
+        <summary type="html"><![CDATA[Op reis door heden en verleden]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443090661?aid=kb-online-bibliotheek&sid=17&dts=1760110923462&sig=e0e96a21c7a614bb7398c1524e673cc465425f5193613e3faae98a899b5caa2e&width=320" alt="Omslag van 'Begrijp jij Centraal-Europa nog?'" title="Omslag van 'Begrijp jij Centraal-Europa nog?'">
+<p>In Begrijp jij Centraal-Europa nog? neemt Hans Luiten de lezer mee op reis door het hedendaagse Centraal-Europa en biedt hij een historisch perspectief op deze bijzondere regio vandaag de dag. Voor de fans van Joris Luyendijk, Geert Mak, Ruben Terlou en Jelle Brandt Corstius.</p><p>Wie door een stad als Praag of Warschau loopt, wordt heen en weer geslingerd tussen vertrouwdheid en vervreemding. Het is niet ons West-Europa, maar ook niet het Russische oosten - hoewel van beide de invloed duidelijk zichtbaar is. Welkom in Centraal-Europa: Polen, Hongarije, Tsjechië en Slowakije, het westen van Oekraïne en het zuiden van Litouwen. Hans Luiten neemt de lezer mee op reis door de regio én door de tijd. Van de heilige Adalbert, die in 997 in Polen aan zijn einde kwam en wiens lichamelijke resten als relikwieën over het continent zwierven, tot aan de campagnevoerders die hij ontmoet in een Hongaars metrostation, die het over het verschrikkelijke Verdrag van Trianon hebben alsof dat niet een eeuw maar een week geleden is gesloten.</p><p>Luiten combineert de geschiedenis en zijn eigen reiservaringen tot boeiende verhalen die niet alleen de bekende maar ook de ongrijpbare facetten tonen van het veelbewogen Centraal-Europa.</p><p>Over Begrijp jij het Midden-Oosten nog?</p><p>'Vol met nuttige inzichten en analyses.' - NRC </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Aslak Nore</name>
+            <name>Hans Luiten</name>
         </author>
     </entry>
 </feed>
