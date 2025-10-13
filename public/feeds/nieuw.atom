@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-10-12T07:12:09.080Z</updated>
+    <updated>2025-10-13T07:14:26.238Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -45,17 +45,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De laatste avond]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono"/>
-        <updated>2025-10-11T07:11:06.267Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45320970X?aid=kb-online-bibliotheek&sid=17&dts=1760107204927&sig=aed9b2c011fb39b3455cc30f70ce0bcccfd9fe46ff07131c773d7b560c07be11&width=320" alt="Omslag van 'De laatste avond'" title="Omslag van 'De laatste avond'">
-<p>Het is de laatste avond van een vakantie in Napels. Onverwacht nieuws doet tijdens het diner de verhoudingen tussen een jong stel en hun beste vriendin dramatisch verschuiven. Wie is loyaal aan wie? Hoe ga je om met jaloezie in een vriendschap? En wie is nou werkelijk de buitenstaander in deze driehoeksverhouding? De wijn wordt nog een laatste keer ingeschonken, de zon zakt de zee in en alle kaarten komen op tafel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Simone Atangana Bekono</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Het eerlijkste boek over leugens]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten"/>
@@ -67,26 +56,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gevaarlijk lekker]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454958617/gevaarlijk-lekker-chris-van-tulleken</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454958617/gevaarlijk-lekker-chris-van-tulleken"/>
-        <updated>2025-10-11T07:11:06.799Z</updated>
-        <summary type="html"><![CDATA[Waarom we ongezonder eten dan we willen (en wat we daaraan kunnen doen)]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958617?aid=kb-online-bibliotheek&sid=17&dts=1760110942597&sig=2c24ac31be5adefcfb87f6cd1a9e7c86ea9d4319cfad99b8ae7553464731b349&width=320" alt="Omslag van 'Gevaarlijk lekker'" title="Omslag van 'Gevaarlijk lekker'">
-<p>Waarom proppen we ons vol met eten dat vergaand industrieel is bewerkt en hoe komt het dat we daar maar niet mee kunnen stoppen? Dr. Chris van Tulleken dompelt zich onder in de wereld van ultrabewerkt eten, dé oorzaak van de wereldwijde obesitaspandemie. Hij laat zien waarom bewegen en wilskracht ons niet kunnen redden en wat ultrabewerkt voedsel echt doet met ons lichaam, onze gezondheid, ons gewicht en de planeet (hint: niets goeds!).</p><p>'Fascinerend, maar ronduit angstaanjagend onderzoek naar ons geïndustrialiseerde voedselsysteem.' - The Sunday Times</p><p>'Dit bevrijdende boek kan voorgoed veranderen hoe je eet.' - Marieke Eyskoot, presentator Binnestebuiten</p><p>'Schokkend boek. Ultrabewerkt eten is het nieuwe roken.' - Elisabeth Weerman, mede-oprichter NICE Fruitijs</p><p>'Het lezen van dit boek heeft mijn leven veranerd.' - De Nederlandse Boekengids </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De laatste avond]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono"/>
+        <updated>2025-10-11T07:11:06.267Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45320970X?aid=kb-online-bibliotheek&sid=17&dts=1760107204927&sig=aed9b2c011fb39b3455cc30f70ce0bcccfd9fe46ff07131c773d7b560c07be11&width=320" alt="Omslag van 'De laatste avond'" title="Omslag van 'De laatste avond'">
+<p>Het is de laatste avond van een vakantie in Napels. Onverwacht nieuws doet tijdens het diner de verhoudingen tussen een jong stel en hun beste vriendin dramatisch verschuiven. Wie is loyaal aan wie? Hoe ga je om met jaloezie in een vriendschap? En wie is nou werkelijk de buitenstaander in deze driehoeksverhouding? De wijn wordt nog een laatste keer ingeschonken, de zon zakt de zee in en alle kaarten komen op tafel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Chris van Tulleken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lust]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts"/>
-        <updated>2025-10-11T07:11:07.011Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958579?aid=kb-online-bibliotheek&sid=17&dts=1760106660078&sig=fd2560ffd5947b46967cf3c3a9e28d005a37e389bf7009407ee7aa2bbee7e252&width=320" alt="Omslag van 'Lust'" title="Omslag van 'Lust'">
-<p>Een stomend hete ontmoeting in het ijskoude Zweden zorgt voor een onvergetelijke sensatie. Na de opwindende rit op de hondenslee kan Bregje haar lustgevoelens voor haar baas, Ärne Håkansson, nauwelijks nog verbergen. Maar ze moet wel, want die man is hartstikke gelukkig getrouwd met een vrouw die niet alleen bloedmooi is, maar ook nog eens superaardig. Hun liefde spat er van alle kanten af. Zij heeft maar één optie: terug naar Nederland vliegen en die sexy, ruige Viking zien te vergeten. Maar dat vindt het universum een bar slecht plan. De Zweedse natuur zet alles op alles om Bregje en Håkansson bij elkaar te brengen – en dan neemt het lot een onverwachte wending. Voor de lezers van Abbi Glines en Vi Keeland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Eva Roberts</name>
+            <name>Simone Atangana Bekono</name>
         </author>
     </entry>
     <entry>
@@ -98,6 +75,28 @@
 <p>Een multiculturele feelgoodroman vol humor en romantiek. Op een regenachtige avond komt Amber oog in oog te staan met Emir, de eigenaar van een Volkswagen Golf die in een paar minuten meer verkeersregels negeert dan zij kan tellen. Wanneer ze hem daarop aanspreekt, reageert hij fel. Emir is intimiderend, onweerstaanbaar aantrekkelijk en… ontzettend Turks. Precies dat laatste brengt Amber in verwarring, want hij confronteert haar met haar eigen vooroordelen. Een jaar later blijkt Emir tot haar schrik de instructeur die haar aan een rijbewijs moet helpen. Onbegonnen werk, denkt Amber, want ze is nauwelijks bereid iets van hem aan te nemen. Maar al snel leert ze dat Emir veel gevoeliger en complexer is dan ze dacht. En hoewel hun werelden ver uit elkaar liggen, groeit de aantrekkingskracht. Kunnen Amber en Emir hun verschillen overbruggen en kiezen voor hun gevoel? [TvdH1]  Een opposites-attract romance met een multiculturele twist voor fans van Sophie Kinsella. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Eveline Heijnen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoe moeilijk kan het zijn?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958587/hoe-moeilijk-kan-het-zijn--susan-muskee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958587/hoe-moeilijk-kan-het-zijn--susan-muskee"/>
+        <updated>2025-10-11T07:11:08.985Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958587?aid=kb-online-bibliotheek&sid=17&dts=1760107874157&sig=d08d0a172c6c0dd409a3f44947c36ce8d056270528643d4ba55fa289be0f3171&width=320" alt="Omslag van 'Hoe moeilijk kan het zijn?'" title="Omslag van 'Hoe moeilijk kan het zijn?'">
+<p>De optimistische Emma koopt een vervallen B&B in de Oostenrijkse Alpen en valt halsoverkop voor het uitzicht – en voor haar knappe concurrent Bas. Terwijl loslatend pleisterwerk, doorgezakte bedden en een onverwacht kattennestje haar nauwelijks bestaande planning compleet in de war schoppen, vindt ze houvast en vriendschap bij een bont gezelschap locals. Lukt het de ietwat chaotische Emma de verbouwing af te krijgen voordat de eerste gasten komen? En is de charmante Bas wel te vertrouwen? Een hartverwarmende feelgoodroman vol humor en romantiek, én met een flinke dosis berglucht.  Lezers over Susan Muskee: 'Laat het maar aan Susan over om een prachtig, maar vooral origineel verhaal neer te zetten.' 'Susan Muskee is een kei.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Susan Muskee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fileflirt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels"/>
+        <updated>2025-10-11T07:11:08.344Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958390?aid=kb-online-bibliotheek&sid=17&dts=1760106817433&sig=23f12819d82941f90e2371f9d1baad140843ec9b97156b790ecc4591f5f3dbf6&width=320" alt="Omslag van 'Fileflirt'" title="Omslag van 'Fileflirt'">
+<p>Het leven van Kimberly is door een ingrijpende gebeurtenis enorm veranderd, waardoor haar omgeving haar harder dan ooit nodig heeft. Ze is er voor iedereen, behalve zichzelf. Ondertussen droomt ze ervan echt verliefd te worden, ze wil zelfs niets liever dan haar eigen grote liefdesverhaal. Al lijkt na een reeks mislukte dates dat sprookje verder weg dan ooit. Tot ze op een dag met pech op de snelweg strandt en een enorm irritante, arrogante – en oké, stiekem wel charmante – weggebruiker opduikt.</p><p>Zal Kimberly leren meer voor zichzelf en haar eigen geluk te kiezen, zelfs als dat betekent dat ze haar hart moet openstellen voor iemand die totaal niet in haar plaatje past?</p><p>Fileflirt is een heerlijke romcom om bij weg te dromen, en het vierde deel in de populaire Flirt-serie.</p><p>Voor lezers van Emily Henry, Laurie Gilmore en Susan Muskee. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Fabienne Swinkels</name>
         </author>
     </entry>
     <entry>
@@ -120,6 +119,17 @@
 <p>De beste schrijvers, dichters en kunstenaars laten in Hard gras zien dat voetbal zo veel meer is dan uitslagen, commercie, meningen en nabeschouwingen. Voetbal is cultuur! De mix van gearriveerde én aanstormende talenten maakt Hard gras zo uniek en relevant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Tijdschrift Hard Gras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lust]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts"/>
+        <updated>2025-10-11T07:11:07.011Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958579?aid=kb-online-bibliotheek&sid=17&dts=1760106660078&sig=fd2560ffd5947b46967cf3c3a9e28d005a37e389bf7009407ee7aa2bbee7e252&width=320" alt="Omslag van 'Lust'" title="Omslag van 'Lust'">
+<p>Een stomend hete ontmoeting in het ijskoude Zweden zorgt voor een onvergetelijke sensatie. Na de opwindende rit op de hondenslee kan Bregje haar lustgevoelens voor haar baas, Ärne Håkansson, nauwelijks nog verbergen. Maar ze moet wel, want die man is hartstikke gelukkig getrouwd met een vrouw die niet alleen bloedmooi is, maar ook nog eens superaardig. Hun liefde spat er van alle kanten af. Zij heeft maar één optie: terug naar Nederland vliegen en die sexy, ruige Viking zien te vergeten. Maar dat vindt het universum een bar slecht plan. De Zweedse natuur zet alles op alles om Bregje en Håkansson bij elkaar te brengen – en dan neemt het lot een onverwachte wending. Voor de lezers van Abbi Glines en Vi Keeland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Eva Roberts</name>
         </author>
     </entry>
     <entry>
@@ -146,17 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fileflirt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels"/>
-        <updated>2025-10-11T07:11:08.344Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958390?aid=kb-online-bibliotheek&sid=17&dts=1760106817433&sig=23f12819d82941f90e2371f9d1baad140843ec9b97156b790ecc4591f5f3dbf6&width=320" alt="Omslag van 'Fileflirt'" title="Omslag van 'Fileflirt'">
-<p>Het leven van Kimberly is door een ingrijpende gebeurtenis enorm veranderd, waardoor haar omgeving haar harder dan ooit nodig heeft. Ze is er voor iedereen, behalve zichzelf. Ondertussen droomt ze ervan echt verliefd te worden, ze wil zelfs niets liever dan haar eigen grote liefdesverhaal. Al lijkt na een reeks mislukte dates dat sprookje verder weg dan ooit. Tot ze op een dag met pech op de snelweg strandt en een enorm irritante, arrogante – en oké, stiekem wel charmante – weggebruiker opduikt.</p><p>Zal Kimberly leren meer voor zichzelf en haar eigen geluk te kiezen, zelfs als dat betekent dat ze haar hart moet openstellen voor iemand die totaal niet in haar plaatje past?</p><p>Fileflirt is een heerlijke romcom om bij weg te dromen, en het vierde deel in de populaire Flirt-serie.</p><p>Voor lezers van Emily Henry, Laurie Gilmore en Susan Muskee. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Fabienne Swinkels</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Past perfect]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/454958668/past-perfect-joe-lla-van-der-breggen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/454958668/past-perfect-joe-lla-van-der-breggen"/>
@@ -179,25 +178,27 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hoe moeilijk kan het zijn?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454958587/hoe-moeilijk-kan-het-zijn--susan-muskee</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454958587/hoe-moeilijk-kan-het-zijn--susan-muskee"/>
-        <updated>2025-10-11T07:11:08.985Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958587?aid=kb-online-bibliotheek&sid=17&dts=1760107874157&sig=d08d0a172c6c0dd409a3f44947c36ce8d056270528643d4ba55fa289be0f3171&width=320" alt="Omslag van 'Hoe moeilijk kan het zijn?'" title="Omslag van 'Hoe moeilijk kan het zijn?'">
-<p>De optimistische Emma koopt een vervallen B&B in de Oostenrijkse Alpen en valt halsoverkop voor het uitzicht – en voor haar knappe concurrent Bas. Terwijl loslatend pleisterwerk, doorgezakte bedden en een onverwacht kattennestje haar nauwelijks bestaande planning compleet in de war schoppen, vindt ze houvast en vriendschap bij een bont gezelschap locals. Lukt het de ietwat chaotische Emma de verbouwing af te krijgen voordat de eerste gasten komen? En is de charmante Bas wel te vertrouwen? Een hartverwarmende feelgoodroman vol humor en romantiek, én met een flinke dosis berglucht.  Lezers over Susan Muskee: 'Laat het maar aan Susan over om een prachtig, maar vooral origineel verhaal neer te zetten.' 'Susan Muskee is een kei.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Gevaarlijk lekker]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958617/gevaarlijk-lekker-chris-van-tulleken</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958617/gevaarlijk-lekker-chris-van-tulleken"/>
+        <updated>2025-10-11T07:11:06.799Z</updated>
+        <summary type="html"><![CDATA[Waarom we ongezonder eten dan we willen (en wat we daaraan kunnen doen)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958617?aid=kb-online-bibliotheek&sid=17&dts=1760110942597&sig=2c24ac31be5adefcfb87f6cd1a9e7c86ea9d4319cfad99b8ae7553464731b349&width=320" alt="Omslag van 'Gevaarlijk lekker'" title="Omslag van 'Gevaarlijk lekker'">
+<p>Waarom proppen we ons vol met eten dat vergaand industrieel is bewerkt en hoe komt het dat we daar maar niet mee kunnen stoppen? Dr. Chris van Tulleken dompelt zich onder in de wereld van ultrabewerkt eten, dé oorzaak van de wereldwijde obesitaspandemie. Hij laat zien waarom bewegen en wilskracht ons niet kunnen redden en wat ultrabewerkt voedsel echt doet met ons lichaam, onze gezondheid, ons gewicht en de planeet (hint: niets goeds!).</p><p>'Fascinerend, maar ronduit angstaanjagend onderzoek naar ons geïndustrialiseerde voedselsysteem.' - The Sunday Times</p><p>'Dit bevrijdende boek kan voorgoed veranderen hoe je eet.' - Marieke Eyskoot, presentator Binnestebuiten</p><p>'Schokkend boek. Ultrabewerkt eten is het nieuwe roken.' - Elisabeth Weerman, mede-oprichter NICE Fruitijs</p><p>'Het lezen van dit boek heeft mijn leven veranerd.' - De Nederlandse Boekengids </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Susan Muskee</name>
+            <name>Chris van Tulleken</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ferris en de gouden spiegel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454978723/ferris-en-de-gouden-spiegel-frans-van-baal</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454978723/ferris-en-de-gouden-spiegel-frans-van-baal"/>
-        <updated>2025-10-12T07:12:08.515Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978723?aid=kb-online-bibliotheek&sid=17&dts=1760253127972&sig=c74153a759f47f01a7465260b5434b7549342562d191b5f8e18ca080e743f8ba&width=320" alt="Omslag van 'Ferris en de gouden spiegel'" title="Omslag van 'Ferris en de gouden spiegel'">
-<p>Ferris is een tienjarige Gallische jongen. Hij sluit zich aan bij Vidal, een rondreizende goudsmid, op een gevaarlijke tocht naar Lutetia. Hun missie is het afleveren van een kostbare gouden spiegel bij Julia, de dochter van een welgestelde Romeinse koopman. Maar hun reis verloopt allesbehalve rustig. Twee genadeloze boeven zitten hen op de hielen, vastbesloten om de spiegel - en misschien hun levens - in handen te krijgen. Gevaar loert om elke hoek terwijl Ferris en Vidal zich een weg banen door het onbekende. Eenmaal in Lutetia komt Ferris er alleen voor te staan. Kan hij zijn achtervolgers te slim af zijn en de spiegel veilig afleveren? Zal hij zijn vriend Vidal ooit nog terugzien? En zal hij zijn thuis en familie in het Gallische dorp weer in de armen kunnen sluiten? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Gedonder in het vooronder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454978715/gedonder-in-het-vooronder-elisabeth-van-der-ark</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454978715/gedonder-in-het-vooronder-elisabeth-van-der-ark"/>
+        <updated>2025-10-12T07:12:09.078Z</updated>
+        <summary type="html"><![CDATA[Mijn eierstokkanker reisverslag in dagboekvorm]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978715?aid=kb-online-bibliotheek&sid=17&dts=1760193891706&sig=cc870ca0f7e50636f1323a08be64af49be0beb41fa43803b49c2db9fe3ff3b42&width=320" alt="Omslag van 'Gedonder in het vooronder'" title="Omslag van 'Gedonder in het vooronder'">
+<p>'De gynaecoloog gaat u bellen.' Dat waren de woorden van de radioloog na mijn buikecho, aangevraagd door mijn huisarts. Ik had diverse klachten: heftige krampen, geen ontlasting, te veel of dunne ontlasting. Na verloop van tijd kreeg ik ook pijn in mijn bekken, ter hoogte van mijn kruis, en pijn bij het plassen. De gynaecoloog belde inderdaad, en na het eerste consult en bloedonderzoek werd verteld dat er vanuit het Erasmus MC contact met mij zou worden opgenomen. Dit was het startsein van mijn reisverslag. Een reisverslag vol hoop, vrees, geluk, ongeluk en een scala aan emoties, geschreven in dagboekvorm. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Frans van Baal</name>
+            <name>Elisabeth van der Ark</name>
         </author>
     </entry>
     <entry>
@@ -212,15 +213,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gedonder in het vooronder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454978715/gedonder-in-het-vooronder-elisabeth-van-der-ark</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454978715/gedonder-in-het-vooronder-elisabeth-van-der-ark"/>
-        <updated>2025-10-12T07:12:09.078Z</updated>
-        <summary type="html"><![CDATA[Mijn eierstokkanker reisverslag in dagboekvorm]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978715?aid=kb-online-bibliotheek&sid=17&dts=1760193891706&sig=cc870ca0f7e50636f1323a08be64af49be0beb41fa43803b49c2db9fe3ff3b42&width=320" alt="Omslag van 'Gedonder in het vooronder'" title="Omslag van 'Gedonder in het vooronder'">
-<p>'De gynaecoloog gaat u bellen.' Dat waren de woorden van de radioloog na mijn buikecho, aangevraagd door mijn huisarts. Ik had diverse klachten: heftige krampen, geen ontlasting, te veel of dunne ontlasting. Na verloop van tijd kreeg ik ook pijn in mijn bekken, ter hoogte van mijn kruis, en pijn bij het plassen. De gynaecoloog belde inderdaad, en na het eerste consult en bloedonderzoek werd verteld dat er vanuit het Erasmus MC contact met mij zou worden opgenomen. Dit was het startsein van mijn reisverslag. Een reisverslag vol hoop, vrees, geluk, ongeluk en een scala aan emoties, geschreven in dagboekvorm. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Ferris en de gouden spiegel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454978723/ferris-en-de-gouden-spiegel-frans-van-baal</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454978723/ferris-en-de-gouden-spiegel-frans-van-baal"/>
+        <updated>2025-10-12T07:12:08.515Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978723?aid=kb-online-bibliotheek&sid=17&dts=1760253127972&sig=c74153a759f47f01a7465260b5434b7549342562d191b5f8e18ca080e743f8ba&width=320" alt="Omslag van 'Ferris en de gouden spiegel'" title="Omslag van 'Ferris en de gouden spiegel'">
+<p>Ferris is een tienjarige Gallische jongen. Hij sluit zich aan bij Vidal, een rondreizende goudsmid, op een gevaarlijke tocht naar Lutetia. Hun missie is het afleveren van een kostbare gouden spiegel bij Julia, de dochter van een welgestelde Romeinse koopman. Maar hun reis verloopt allesbehalve rustig. Twee genadeloze boeven zitten hen op de hielen, vastbesloten om de spiegel - en misschien hun levens - in handen te krijgen. Gevaar loert om elke hoek terwijl Ferris en Vidal zich een weg banen door het onbekende. Eenmaal in Lutetia komt Ferris er alleen voor te staan. Kan hij zijn achtervolgers te slim af zijn en de spiegel veilig afleveren? Zal hij zijn vriend Vidal ooit nog terugzien? En zal hij zijn thuis en familie in het Gallische dorp weer in de armen kunnen sluiten? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Elisabeth van der Ark</name>
+            <name>Frans van Baal</name>
         </author>
     </entry>
     <entry>
@@ -247,18 +247,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mijn bange ik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444728236/mijn-bange-ik-regine-dugardyn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444728236/mijn-bange-ik-regine-dugardyn"/>
-        <updated>2025-10-11T07:11:09.884Z</updated>
-        <summary type="html"><![CDATA[Hardop denken over angst en ander psychisch ongemak]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444728236?aid=kb-online-bibliotheek&sid=17&dts=1760107550854&sig=46262bc80ca33e044f772308de688b1ae9da35b4f71a31ef0cfba2a194c1fe7c&width=320" alt="Omslag van 'Mijn bange ik'" title="Omslag van 'Mijn bange ik'">
-<p>Bijna dertig procent van de bevolking lijdt volgens het Trimbos-instituut vroeg of laat aan ernstige angstklachten. Regine Dugardyn is een van hen. Sinds haar jeugd kent ze periodes van hevige angst. Regine hoort bij de groep die regelmatig kopje-onder gaat, maar ook weer komt bovendrijven. De afgelopen decennia voelde zij zich - samen met haar lotgenoten - vaak onderwerp van debat.</p><p>Al twintig jaar doen psychiaters, psychotherapeuten en filosofen in de media ferme uitspraken over psychische stoornissen. Volgens psychiater Damiaan Denys kunnen mensen geen onderscheid meer maken tussen gewone angst enerzijds en een ziekelijke angststoornis anderzijds. En in haar bestseller De depressie-epidemie noemt filosoof Trudy Dehue antidepressiva prestatiepillen, alsof mensen doping slikken.</p><p>In Mijn bange ik laat Regine zien wat die kritiek doet met haar, als patiënt en als filosoof. Ze vraagt zich af wanneer menselijk lijden nog bij het leven hoort en wanneer niet. Is een diagnose uit de DSM zo onzinnig als sommige critici beweren? Slikken we en masse antidepressiva omdat we geen tegenslag meer zouden verdragen? En gaan we inderdaad in therapie in de overtuiging dat het leven maakbaar is? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Regine Dugardyn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OMG 30]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/44624581X/omg-30-marije-veerman</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/44624581X/omg-30-marije-veerman"/>
@@ -268,6 +256,75 @@
 <p>Voor veel vrouwen van in de twintig vrouwen is dertig worden reden voor regelrechte paniek. Er beginnen allerlei klokken te tikken: die van het vinden van de perfecte baan, de perfecte partner, die van een huis bezitten en van die van die rammelende eierstokken. En dat terwijl je eigenlijk nog best een lange bucketlist hebt met activiteiten waar je je vrijheid voor nodig hebt. Gelukkig gingen veel vrouwen je voor. En guess what, het valt allemaal wel mee.</p><p></p><p> In OMG30 geven ervaringsdeskundige BN'ers opgedane inzichten, adviezen en praktische tips over dertig worden de daarbij opgelegde verwachtingen en vragen: Wie ben ik nu eigenlijk? En wat wil ik doen met mijn leven? Ben ik goed bezig?</p><p></p><p> Een kleine greep:</p><p>Topmodel Daniëlle van Grondelle helpt je je zelfbeeld goed te houden als het leven met dertig nog niet is wat je gehoopt was.</p><p>Advocaat Kim Beumer geeft heel waardevolle tips op het gebied van werk en carrière</p><p>Olympisch zwemkampioen Femke Heemskerk vertelt dat haar dertiger jaren veel relaxter zijn dan haar twintiger jaren.</p><p></p><p>  Andere onderwerpen zijn: single zijn * daten * relaties * seks * gezondheid * werk * geld * zelfbeeld * kinderloosheid * moederschap * droom & werkelijkheid.</p><p></p><p> Aan het woord komen: Nina Pierson, Floor Bakhuys Roozeboom, Krista Ariëns, Mascha Feoktistivo, Immanuelle Grives, Laura Ponticorvo, Kelly Ruigrok, Malou Holshuijsen, Rebecca Boektje, Sharon Hilgers, Mandy Woelkens, Rachel Siwaletti, Ginny Ramkisoen, Janneke van den Brink, Renée Lamboo, Anne Vedder, Lotte Houwink ten Cate </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marije Veerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De grijze kitten en de monnik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443125619/de-grijze-kitten-en-de-monnik-corrado-debiasi</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443125619/de-grijze-kitten-en-de-monnik-corrado-debiasi"/>
+        <updated>2025-10-11T07:11:12.789Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443125619?aid=kb-online-bibliotheek&sid=17&dts=1760106545042&sig=5447f4d763c10d9cbaa6317f7028c2db039bd03ac28712d8a9fd89858a285a79&width=320" alt="Omslag van 'De grijze kitten en de monnik'" title="Omslag van 'De grijze kitten en de monnik'">
+<p>Een paar jaar geleden maakte Kripala zijn eerste reis naar India, de reis die zijn leven veranderde. Nu moet hij terug naar de Ganges om het stoffelijk overschot van zijn geliefde, die onlangs is overleden, naar de rivier te brengen en om zijn leraar, Tatanji, te zoeken. Door zijn leraar te vinden hoopt Kripala ook zijn verloren gemoedsrust terug te vinden. Maar de tempel blijkt verlaten. De oude monnik is verdwenen en alleen een blauwogig grijs katje, Shakti, en een versleten notitieboekje zijn achtergebleven. Kripala neemt beide mee op een nieuwe reis, op zoek naar een plek die hij in zijn dromen heeft gezien - een mythische bestemming waarnaartoe niemand echt de weg kent, maar die velen hopen te bereiken. Kripala's reis zit vol valkuilen, maar hij ontmoet ook bijzondere mensen bij wie hij tot nieuwe inzichten komt. En zo leert hij gaandeweg wat het grootste geschenk is…</p><p>Over De monnik die van katten hield:</p><p>'Innemende en inspirerende mannelijke tegenhanger van Eten, bidden en beminnen' - Zin </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Corrado Debiasi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kasteeldroom]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436335085/kasteeldroom-emmy-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436335085/kasteeldroom-emmy-postma"/>
+        <updated>2025-10-11T07:11:11.660Z</updated>
+        <summary type="html"><![CDATA[Mijn avonturen in Frankrijk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436335085?aid=kb-online-bibliotheek&sid=17&dts=1760116219231&sig=f62ff7ed31f1ad03c01e807d4620cd33f2ff1a75f23dfb38a31e3c01ec046117&width=320" alt="Omslag van 'Kasteeldroom'" title="Omslag van 'Kasteeldroom'">
+<p>In 2018 wordt de Utrechtse kinderverpleegkundige Emmy Postma op slag verliefd op een vervallen kasteel in de Dordogne. Waar anderen een geldverslindende bouwval zien, ziet zij een schitterend château met zeven slaapkamers en zes hectare grond eromheen, een plek waar ze haar droom van een heel ander leven in vervulling kan laten gaan.</p><p>Tegen alle adviezen in en zonder haar man Rutger besluit ze het avontuur aan te gaan en het te kopen. En een avontuur wordt het, want het dak is zo lek als een mandje, termieten teisteren het interieur en achter elke deur gaat een nieuwe reeks klussen schuil.</p><p>Met onverwoestbaar optimisme gaat Emmy aan de slag. In dit boek doet ze levendig verslag van de roerige jaren waarin ze Château des Chauvaux opknapt. Bovendien geeft ze een inkijkje in haar leven als kasteelvrouwe - een leven waarin ze haar droom achterna is gegaan. En daar heeft ze nog geen seconde spijt van gehad. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Emmy Postma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cleopatra]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44624516X/cleopatra-natasha-solomons</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44624516X/cleopatra-natasha-solomons"/>
+        <updated>2025-10-11T07:11:11.446Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44624516X?aid=kb-online-bibliotheek&sid=17&dts=1760107095886&sig=a71ecfdd0fce304aa41870f3b8f4ae14e958ab271621744f4d8932d79f3e9eb9&width=320" alt="Omslag van 'Cleopatra'" title="Omslag van 'Cleopatra'">
+<p>Wanneer haar vader overlijdt moet de macht verdeeld worden tussen de leergierige Cleopatra en haar egoïstische broer Ptolemaeus. Terwijl Cleopatra over de Nijl vaart om haar volk te begroeten, beraamt haar broer een plan om de troon voor zichzelf op te eisen. Cleopatra beseft dat de komst van Julius Caesar naar Egypte de sleutel tot haar succes kan zijn, maar hem verleiden is hoog spel. Kan ze haar leven, de troon en haar geliefde land redden om zo de geschiedenis naar haar hand te zetten?</p><p>‘In de geschiedenis worden vrouwen nauwelijks genoemd. Voor mij zijn het juist hun verhalen die het interessantst zijn en daarom maak ik ze het middelpunt van het verhaal.’– Natasha Solomons</p><p>‘Het resultaat is een fascinerend boek’ – Max Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Natasha Solomons</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groots is de liefde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447542591/groots-is-de-liefde-jacqueline-oskamp</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447542591/groots-is-de-liefde-jacqueline-oskamp"/>
+        <updated>2025-10-11T07:11:12.095Z</updated>
+        <summary type="html"><![CDATA[Biografie van Louis Andriessen (1939-2021)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447542591?aid=kb-online-bibliotheek&sid=17&dts=1760114893392&sig=561d6f43b962077be8001c99b7993750be8ceeacfa28d20823aa2819bed77761&width=320" alt="Omslag van 'Groots is de liefde'" title="Omslag van 'Groots is de liefde'">
+<p>Met het verpletterende stuk De Staat (1976) schreef Louis Andriessen geschiedenis. Ook andere grote werken als De Materie en La Commedia gingen de wereld over. Aan het eind van zijn leven kreeg Andriessen zelfs meer waardering in Groot-Brittannië en de vs dan in Nederland. Louis Andriessen wordt als nakomertje geboren in een gerenommeerde familie van musici. Dankzij de reputatie van zijn vader Hendrik rolt overal de rode loper voor hem uit. Hij is een typisch kind van de jaren zestig: tégen de oorlog in Vietnam, vóór toegankelijke kunst, antiautoritair, vóór de vrije liefde. Cultureel Nederland leert Andriessen kennen als een slimme, geestige man die nooit om een oneliner verlegen zit. Achter die bravoure gaat een complexe persoonlijkheid schuil. Hij heeft een grote behoefte aan harmonie, maar creëert vaak zelf conflictueuze situaties. Als er tijdens de roemruchte Aktie Notenkraker in 1969 in Het Concertgebouw een handgemeen ontstaat tussen publiek, actievoerders, musici en politie, houdt Andriessen zich gedeisd op het balkon. Jacqueline Oskamp kreeg toegang tot Andriessens privéarchief, dat onder meer honderden ongepubliceerde brieven omvat. Met Groots is de liefde schreef ze een pakkende biografie waarin ze onvermoede kanten van de componist belicht.</p><p>Over Een behoorlijk kabaal:</p><p>'Een goed gedocumenteerd, helder boek over Nederlandse componisten en hun rol in de samenleving.' - de Volkskrant </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jacqueline Oskamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die goeie ouwe taal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444196714/die-goeie-ouwe-taal-yoi-n-van-spijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444196714/die-goeie-ouwe-taal-yoi-n-van-spijk"/>
+        <updated>2025-10-11T07:11:11.873Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444196714?aid=kb-online-bibliotheek&sid=17&dts=1760109105673&sig=253ff20b761ae1f934d89334ac5319ffadfac49c2a6df6574359be92fda1fb87&width=320" alt="Omslag van 'Die goeie ouwe taal'" title="Omslag van 'Die goeie ouwe taal'">
+<p>Shortlist Taalboekenprijs 2025  Je spreekt Nederlands. Maar hoeveel weet je nu echt van onze taal? Die goeie ouwe taal staat boordevol onmisbare wetenswaardigheden en een taalquiz!. Taalwetenschapper Yoïn van Spijk neemt je in 101 korte stukken mee naar onverwachte hoeken van de Nederlandse taal.  Wist je dat...</p><p>… ons woord voor de oer-Nederlandse molen helemaal niet uit het Nederlands komt?</p><p>… vroeger niet wilden maar juist wouden goed was?</p><p>… het Franse leenwoord fauteuil afstamt van de voorouder van onze Nederlandse vouwstoel?</p><p>… het eigenlijk heel logisch is om puzel te zeggen in plaats van puzzel?  Sinds Yoin van Spijk in de vijfde klas een etymologisch woordenboek in handen kreeg, is hij gefascineerd door taal. Het gaat hem er niet om of taal goed of fout is, maar hoe taal verandert. Voor iedereen die meer wil weten over waar we vandaan komen, valt in onze taal veel te ontdekken!  'Een wervelend boek. De manier waarop het Nederlands zich ontwikkeld heeft, is nog nooit zo aantrekkelijk beschreven.'- Marc van Oostendorp</p><p>'Met dit boek verrijk je je kennis.' – Margriet</p><p>'Ook de stijl is die van columns: slim en grappig.' – NRC</p><p>'Dit boek staat boordevol onmisbare wetenswaardigheden voor iedereen.' – Zin magazine</p><p>'Die goeie ouwe taal is een bijzonder onderhoudend boek, waaraan je veel leesplezier beleeft maar waarvan je beslist over de etymologie van woorden ook enorm veel opsteekt. Aanrader!' –</p><p>Deboekhouding</p><p>'Leuke weetjes over taalevolutie in Die goeie ouwe taal.' – New Scientist</p><p> 'Van Spijk deelt zijn kennis op een speelse maar duidelijke manier; het plezier spat ervanaf.' – Hollands Glorie</p><p>'Die goeie ouwe taal staat boordevol onmisbare wetenswaardigheden voor iedereen.' – Levende talen magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Yoïn van Spijk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dromen van mijn zus]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439226325/dromen-van-mijn-zus-mpanzu-bamenga</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439226325/dromen-van-mijn-zus-mpanzu-bamenga"/>
+        <updated>2025-10-11T07:11:12.308Z</updated>
+        <summary type="html"><![CDATA[Een persoonlijk verhaal over onrecht en de hoop op een eerlijke wereld]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439226325?aid=kb-online-bibliotheek&sid=17&dts=1760113790056&sig=b0743e9009cc0fc349c70e29085d91978200aa03de0557713da9ac3ec454de89&width=320" alt="Omslag van 'Dromen van mijn zus'" title="Omslag van 'Dromen van mijn zus'">
+<p>In 1994 vluchtte de toen achtjarige Mpanzu Bamenga uit Zaïre, samen met zijn moeder, broer en zus. Dertien jaar woonde hij in Nederland zonder verblijfsvergunning. Als kleine jongen droomde hij al van een rechtvaardigere samenleving. Deze droom won aan urgentie toen zijn zus slachtoffer werd van etnisch profileren; uiteindelijke zou zij sterven in een Amerikaanse politiecel. Toen hij – inmiddels met een succesvolle maatschappelijke carrière – op Eindhoven Airport zelf op basis van zijn etniciteit staande werd gehouden, brak er een nieuwe fase aan in zijn maatschappelijke missie. Dromen van mijn zus is het inspirerende levensverhaal van Mpanzu Bamenga, die zich ondanks vele tegenslagen blijft inzetten voor een rechtvaardige, gelijkwaardige en duurzame wereld. Zijn levensverhaal is een inspiratiebron voor iedereen die zich inzet voor een eerlijkere wereld. De Koninklijke Marechaussee mag niet langer mensen controleren op basis van hun huidskleur, aldus een baanbrekende uitspraak van het gerechtshof in Den Haag van begin 2023. Dit was een historisch resultaat in de strijd tegen racisme en etnisch profileren, en bovendien een grote persoonlijke overwinning voor een van de aanklagers, Mpanzu Bamenga. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Mpanzu Bamenga</name>
         </author>
     </entry>
     <entry>
@@ -291,66 +348,6 @@
 <p>Je kind heeft geen perfecte opvoeder nodig, maar gewoon jou. Voor elke ouder die het zo graag goed wil doen is dit hét boek dat geruststelt.</p><p></p><p> ‘Ben ik een slechte ouder als ik snak naar een weekend voor mezelf?’ ‘Hoe krijg ik mijn kind ooit nog los van dat scherm?’ ‘Ik heb tegen mijn kind geschreeuwd. Hoe erg is dat?’</p><p></p><p> Ouders willen hun kind alles geven: kansen, liefde, veiligheid, geluk en het liefst een vlekkeloze kindertijd. In haar opvoedpraktijk ziet orthopedagoog Kina Smit dagelijks hoe hoog de stress oploopt bij ouders én kinderen. Waarom denken ouders dat alles leuk moet zijn? En hoezo is opvoeden een project geworden dat moet slagen? Met meer dan twintig jaar ervaring als orthopedagoog en als moeder van twee doch¬ters weet zij het zeker: laat je niet gek maken door torenhoge verwachtingen! Het is juist gezond als ouders de controle meer loslaten en dingen níét vlekkeloos gaan. Bovendien is lastig gedrag van kinderen vaak een reactie op onze hectische tijd, vol prikkels en veranderingen.</p><p></p><p> Aan de hand van herkenbare voorbeelden uit haar praktijk geeft Kina Smit met humor en relativering antwoorden op de vragen die iedere moderne ouder herkent. Van schermgebruik en opstandig gedrag tot prestatiedruk. Ze laat zien hoe je een ontspannen ouder kunt zijn die kan loslaten én grip kan houden. Het hoeft niet zo perfect. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Kina Smit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mensen die van honden houden, houden van mensen die van honden houden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447729004/mensen-die-van-honden-houden--houden-van-mensen-die-van-honden-houden-nick-duerden</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447729004/mensen-die-van-honden-houden--houden-van-mensen-die-van-honden-houden-nick-duerden"/>
-        <updated>2025-10-11T07:11:10.997Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447729004?aid=kb-online-bibliotheek&sid=17&dts=1760109105568&sig=e4340048f6d9b769be97c6ca5ab784369859a9392cbc5ee9c6f8d0df203d4582&width=320" alt="Omslag van 'Mensen die van honden houden, houden van mensen die van honden houden'" title="Omslag van 'Mensen die van honden houden, houden van mensen die van honden houden'">
-<p>Eigenlijk is Nick Duerden een kattenmens, dus de komst van een gezinshond is nogal een verrassing. Helemaal gezien borderterriër Missy niet alleen voor de kinderen in huis wordt genomen maar vooral voor hem. Na een lange periode van ziek thuiszitten moet hij naar buiten, elke dag.</p><p>Het werkt, en hoe. Missy weet het voor elkaar te krijgen dat Nick dagelijks door het park wandelt. Binnen korte tijd raken ze bevriend met zowel een jonge acteur als een tachtigjarige weduwe, een breedsprakige Russische dissident en een stonede vechtsporter.Mensen die van honden houden, houden van mensen die van honden houden is een boek over verbinding en vriendschap, liefde en verlies. Maar ook over jezelf weer vinden en je horizon verbreden, zelfs als je denkt dat dat niet meer kan. En bovenal is het een boek over hoe een kleine hond je leven weer groter kan maken.</p><p>'Een aanstekelijk verhaal over honden, hun baasjes en de vriendschappen die tussen hen kunnen ontstaan.' - Katherine May, auteur van Winteren en Verwondering</p><p>'Een wijze en ontroerende vertelling over hoe kleine verbintenissen levens kunnen veranderen.' - Lissa Evans </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nick Duerden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het lege nest]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44624550X/het-lege-nest-deirdre-enthoven---dorine-van-der-wind</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44624550X/het-lege-nest-deirdre-enthoven---dorine-van-der-wind"/>
-        <updated>2025-10-11T07:11:11.212Z</updated>
-        <summary type="html"><![CDATA[Alles wat je wilt weten als kinderen uit huis gaan]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44624550X?aid=kb-online-bibliotheek&sid=17&dts=1760107320159&sig=6f182dc08ee3de35256cbcf41a0e09442adefcedab7cad36c2921baf70ada809&width=320" alt="Omslag van 'Het lege nest'" title="Omslag van 'Het lege nest'">
-<p>Kinderen groeien op en gaan vroeg of laat - tegenwoordig steeds later - uit huis. Een natuurlijk proces, je voedt je kind op tot volwassenheid. Toch valt het ouders - moeders én vaders - soms zwaar als deze levensfase aanbreekt, sommige ervaren zelfs een soort liefdesverdriet. Ze missen hun kind, maar ook de structuur en de gezelligheid die het ouderschap met zich meebrengt. Het roept vragen op, zoals: wat is er over van mijn relatie nu de bv Gezin is opgedoekt? En: hoe laat ik mijn kind los, maar blijf ik betrokken?</p><p>In Het lege nest geven journalisten Deirdre Enthoven en Dorine van der Wind psychologische inzichten en praktische handvatten voor de 'lege-nester' door in het meest recente wetenschappelijk onderzoek te duiken en sociologen, psychologen, therapeuten, een groot aantal ouders én kinderen te interviewen. Ze laten zien hoe je je op deze periode kunt voorbereiden en deze kunt benutten om jezelf opnieuw uit te vinden, nieuwe carrières na te jagen en te genieten van de herwonnen tijd en ruimte. Want het lege nest is niet alleen een einde, maar ook een nieuw begin. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Deirdre Enthoven</name>
-        </author>
-        <author>
-            <name>Dorine van der Wind</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cleopatra]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44624516X/cleopatra-natasha-solomons</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44624516X/cleopatra-natasha-solomons"/>
-        <updated>2025-10-11T07:11:11.446Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44624516X?aid=kb-online-bibliotheek&sid=17&dts=1760107095886&sig=a71ecfdd0fce304aa41870f3b8f4ae14e958ab271621744f4d8932d79f3e9eb9&width=320" alt="Omslag van 'Cleopatra'" title="Omslag van 'Cleopatra'">
-<p>Wanneer haar vader overlijdt moet de macht verdeeld worden tussen de leergierige Cleopatra en haar egoïstische broer Ptolemaeus. Terwijl Cleopatra over de Nijl vaart om haar volk te begroeten, beraamt haar broer een plan om de troon voor zichzelf op te eisen. Cleopatra beseft dat de komst van Julius Caesar naar Egypte de sleutel tot haar succes kan zijn, maar hem verleiden is hoog spel. Kan ze haar leven, de troon en haar geliefde land redden om zo de geschiedenis naar haar hand te zetten?</p><p>‘In de geschiedenis worden vrouwen nauwelijks genoemd. Voor mij zijn het juist hun verhalen die het interessantst zijn en daarom maak ik ze het middelpunt van het verhaal.’– Natasha Solomons</p><p>‘Het resultaat is een fascinerend boek’ – Max Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Natasha Solomons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasteeldroom]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436335085/kasteeldroom-emmy-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436335085/kasteeldroom-emmy-postma"/>
-        <updated>2025-10-11T07:11:11.660Z</updated>
-        <summary type="html"><![CDATA[Mijn avonturen in Frankrijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436335085?aid=kb-online-bibliotheek&sid=17&dts=1760116219231&sig=f62ff7ed31f1ad03c01e807d4620cd33f2ff1a75f23dfb38a31e3c01ec046117&width=320" alt="Omslag van 'Kasteeldroom'" title="Omslag van 'Kasteeldroom'">
-<p>In 2018 wordt de Utrechtse kinderverpleegkundige Emmy Postma op slag verliefd op een vervallen kasteel in de Dordogne. Waar anderen een geldverslindende bouwval zien, ziet zij een schitterend château met zeven slaapkamers en zes hectare grond eromheen, een plek waar ze haar droom van een heel ander leven in vervulling kan laten gaan.</p><p>Tegen alle adviezen in en zonder haar man Rutger besluit ze het avontuur aan te gaan en het te kopen. En een avontuur wordt het, want het dak is zo lek als een mandje, termieten teisteren het interieur en achter elke deur gaat een nieuwe reeks klussen schuil.</p><p>Met onverwoestbaar optimisme gaat Emmy aan de slag. In dit boek doet ze levendig verslag van de roerige jaren waarin ze Château des Chauvaux opknapt. Bovendien geeft ze een inkijkje in haar leven als kasteelvrouwe - een leven waarin ze haar droom achterna is gegaan. En daar heeft ze nog geen seconde spijt van gehad. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Emmy Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Die goeie ouwe taal]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444196714/die-goeie-ouwe-taal-yoi-n-van-spijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444196714/die-goeie-ouwe-taal-yoi-n-van-spijk"/>
-        <updated>2025-10-11T07:11:11.873Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444196714?aid=kb-online-bibliotheek&sid=17&dts=1760109105673&sig=253ff20b761ae1f934d89334ac5319ffadfac49c2a6df6574359be92fda1fb87&width=320" alt="Omslag van 'Die goeie ouwe taal'" title="Omslag van 'Die goeie ouwe taal'">
-<p>Shortlist Taalboekenprijs 2025  Je spreekt Nederlands. Maar hoeveel weet je nu echt van onze taal? Die goeie ouwe taal staat boordevol onmisbare wetenswaardigheden en een taalquiz!. Taalwetenschapper Yoïn van Spijk neemt je in 101 korte stukken mee naar onverwachte hoeken van de Nederlandse taal.  Wist je dat...</p><p>… ons woord voor de oer-Nederlandse molen helemaal niet uit het Nederlands komt?</p><p>… vroeger niet wilden maar juist wouden goed was?</p><p>… het Franse leenwoord fauteuil afstamt van de voorouder van onze Nederlandse vouwstoel?</p><p>… het eigenlijk heel logisch is om puzel te zeggen in plaats van puzzel?  Sinds Yoin van Spijk in de vijfde klas een etymologisch woordenboek in handen kreeg, is hij gefascineerd door taal. Het gaat hem er niet om of taal goed of fout is, maar hoe taal verandert. Voor iedereen die meer wil weten over waar we vandaan komen, valt in onze taal veel te ontdekken!  'Een wervelend boek. De manier waarop het Nederlands zich ontwikkeld heeft, is nog nooit zo aantrekkelijk beschreven.'- Marc van Oostendorp</p><p>'Met dit boek verrijk je je kennis.' – Margriet</p><p>'Ook de stijl is die van columns: slim en grappig.' – NRC</p><p>'Dit boek staat boordevol onmisbare wetenswaardigheden voor iedereen.' – Zin magazine</p><p>'Die goeie ouwe taal is een bijzonder onderhoudend boek, waaraan je veel leesplezier beleeft maar waarvan je beslist over de etymologie van woorden ook enorm veel opsteekt. Aanrader!' –</p><p>Deboekhouding</p><p>'Leuke weetjes over taalevolutie in Die goeie ouwe taal.' – New Scientist</p><p> 'Van Spijk deelt zijn kennis op een speelse maar duidelijke manier; het plezier spat ervanaf.' – Hollands Glorie</p><p>'Die goeie ouwe taal staat boordevol onmisbare wetenswaardigheden voor iedereen.' – Levende talen magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Yoïn van Spijk</name>
         </author>
     </entry>
 </feed>
