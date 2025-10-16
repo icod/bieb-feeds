@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-10-15T07:13:48.600Z</updated>
+    <updated>2025-10-16T07:13:46.504Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -32,6 +32,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eeuwige jeugd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447153099/eeuwige-jeugd-kimberley-klaver</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447153099/eeuwige-jeugd-kimberley-klaver"/>
+        <updated>2025-10-15T07:13:48.407Z</updated>
+        <summary type="html"><![CDATA[Een praktische gids voor de mind, body & spirit]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153099?aid=kb-online-bibliotheek&sid=18&dts=1760448590114&sig=b8a0a81b52955bda6578ff6c4bdd57de2a6125ef5b15aec0134eb36d181de807&width=320" alt="Omslag van 'Eeuwige jeugd'" title="Omslag van 'Eeuwige jeugd'">
+<p>In Eeuwige Jeugd deelt Kimberley Klaver, 38 jaar, haar ontdekkingen en adviezen van experts op het gebied van spirit, mind en body voor een realistische en duurzame levensstijl. Het boek biedt concrete tools om je manier van denken te veranderen, je brein scherp te houden en jeugdigheid in elke levensfase te behouden. Eeuwige Jeugd is een toegankelijke, realistische gids voor de drukke vrouw die het geheim wil ontdekken van een levensstijl vol zelfliefde, levensenergie en schoonheid.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kimberley Klaver</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Niets gezien]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444330887/niets-gezien-shanna-de-jong</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444330887/niets-gezien-shanna-de-jong"/>
@@ -51,18 +63,6 @@
 <p>In Bern wordt het kunstig gedrapeerde lijk van een vrouw gevonden, in wier huid de moordenaar een geheimzinnig teken heeft gekerfd. Zij blijft niet zijn enige slachtoffer.</p><p>De Nederlandse profiler Maarten S. Sneijder en rechercheur Sabine Nemez begeven zich op een bloederige speurtocht naar de dader, maar de moordenaar is hen steeds een stap voor.</p><p>Intussen arriveert de jonge psycholoog Hannah in het Noord-Duitse Steinfels, een gevangenis voor geesteszieke delinquenten. Zij wordt aangesteld om een therapiegroep te leiden, maar is slechts geïnteresseerd in één gevangene: Piet van Loon. Die werd ooit door Sneijder achter de tralies gezet, en wordt nu de sleutelfiguur in een duivels spel... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andreas Gruber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eeuwige jeugd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447153099/eeuwige-jeugd-kimberley-klaver</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447153099/eeuwige-jeugd-kimberley-klaver"/>
-        <updated>2025-10-15T07:13:48.407Z</updated>
-        <summary type="html"><![CDATA[Een praktische gids voor de mind, body & spirit]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153099?aid=kb-online-bibliotheek&sid=18&dts=1760448590114&sig=b8a0a81b52955bda6578ff6c4bdd57de2a6125ef5b15aec0134eb36d181de807&width=320" alt="Omslag van 'Eeuwige jeugd'" title="Omslag van 'Eeuwige jeugd'">
-<p>In Eeuwige Jeugd deelt Kimberley Klaver, 38 jaar, haar ontdekkingen en adviezen van experts op het gebied van spirit, mind en body voor een realistische en duurzame levensstijl. Het boek biedt concrete tools om je manier van denken te veranderen, je brein scherp te houden en jeugdigheid in elke levensfase te behouden. Eeuwige Jeugd is een toegankelijke, realistische gids voor de drukke vrouw die het geheim wil ontdekken van een levensstijl vol zelfliefde, levensenergie en schoonheid.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kimberley Klaver</name>
         </author>
     </entry>
     <entry>
@@ -93,14 +93,37 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jarno]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot"/>
-        <updated>2025-10-11T07:11:06.040Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209734?aid=kb-online-bibliotheek&sid=17&dts=1760110225746&sig=92c633275a9929f9fd3c80a5207a7e58f4c1b04b98118e0636ec45300ae1a7b4&width=320" alt="Omslag van 'Jarno'" title="Omslag van 'Jarno'">
-<p>Hij was de enige Nederlander die ooit uitkwam in de UFC, de grootste organisatie in de snelst groeiende sport van de Verenigde Staten. Het was zijn grote droom. Toen hij dit jaar een wedstrijd verloor, spatte die droom uiteen. Maar vechtsporter Jarno Errens uit Heerlen is vastbesloten zichzelf terug te knokken. Letterlijk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Vier altijd alles]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454978707/vier-altijd-alles-caren-bode</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454978707/vier-altijd-alles-caren-bode"/>
+        <updated>2025-10-12T07:12:08.840Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978707?aid=kb-online-bibliotheek&sid=17&dts=1760253128615&sig=3580815297dee90bf5b6e0678f2c7cf4ee1f223f8f4c611b01701844b3496ef9&width=320" alt="Omslag van 'Vier altijd alles'" title="Omslag van 'Vier altijd alles'">
+<p>Caren, vrouw van Philip en moeder van Dex en Vesper, is net 44 geworden als ze in 2013 de diagnose meningeoom krijgt. Eindelijk een reden waarom ze met één oog slecht ziet! Het is de start van een lange reis van een gezond en rijk leven met veel en hard werken, naar een leven van volledige en duurzame arbeidsongeschiktheid. Ze neemt je mee in 10 jaar van bezoeken aan specialisten, behandelingen, lieve zorgverleners, teleurstellingen verwerken én de mooiste momenten vieren. Beleef samen met de 'Carentjes' in haar achterhoofd, hoe ze de diagnose en de behandelingen van een tweede tumor verwerkt. Als kers op de taart, krijgt ze er ook nog poly-artrose bij, haar gezondheid, haar werk, alles gaat kapot. Wat als je lijf je zó in de steek laat, dat eerst werken met je hoofd niet meer lukt en daarna ook fysiek werk niet meer gaat? Soms lijkt het uitzichtloos, maar Caren zet door en raakt verstrikt in een lange strijd met het UWV. Alle ervaringen van 10 jaar diepe downs en soms hoge ups, veranderden haar levensmotto van 'haal alles uit het leven', naar 'Vier Altijd Alles'. Want, uiteindelijk weet ze toch het juiste antwoord op de belangrijkste vraag van het UWV: 'Kunt u cavia's aaien?' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Leon Verdonschot</name>
+            <name>Caren Bode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gedonder in het vooronder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454978715/gedonder-in-het-vooronder-elisabeth-van-der-ark</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454978715/gedonder-in-het-vooronder-elisabeth-van-der-ark"/>
+        <updated>2025-10-12T07:12:09.078Z</updated>
+        <summary type="html"><![CDATA[Mijn eierstokkanker reisverslag in dagboekvorm]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978715?aid=kb-online-bibliotheek&sid=17&dts=1760193891706&sig=cc870ca0f7e50636f1323a08be64af49be0beb41fa43803b49c2db9fe3ff3b42&width=320" alt="Omslag van 'Gedonder in het vooronder'" title="Omslag van 'Gedonder in het vooronder'">
+<p>'De gynaecoloog gaat u bellen.' Dat waren de woorden van de radioloog na mijn buikecho, aangevraagd door mijn huisarts. Ik had diverse klachten: heftige krampen, geen ontlasting, te veel of dunne ontlasting. Na verloop van tijd kreeg ik ook pijn in mijn bekken, ter hoogte van mijn kruis, en pijn bij het plassen. De gynaecoloog belde inderdaad, en na het eerste consult en bloedonderzoek werd verteld dat er vanuit het Erasmus MC contact met mij zou worden opgenomen. Dit was het startsein van mijn reisverslag. Een reisverslag vol hoop, vrees, geluk, ongeluk en een scala aan emoties, geschreven in dagboekvorm. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elisabeth van der Ark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ferris en de gouden spiegel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454978723/ferris-en-de-gouden-spiegel-frans-van-baal</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454978723/ferris-en-de-gouden-spiegel-frans-van-baal"/>
+        <updated>2025-10-12T07:12:08.515Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978723?aid=kb-online-bibliotheek&sid=17&dts=1760253127972&sig=c74153a759f47f01a7465260b5434b7549342562d191b5f8e18ca080e743f8ba&width=320" alt="Omslag van 'Ferris en de gouden spiegel'" title="Omslag van 'Ferris en de gouden spiegel'">
+<p>Ferris is een tienjarige Gallische jongen. Hij sluit zich aan bij Vidal, een rondreizende goudsmid, op een gevaarlijke tocht naar Lutetia. Hun missie is het afleveren van een kostbare gouden spiegel bij Julia, de dochter van een welgestelde Romeinse koopman. Maar hun reis verloopt allesbehalve rustig. Twee genadeloze boeven zitten hen op de hielen, vastbesloten om de spiegel - en misschien hun levens - in handen te krijgen. Gevaar loert om elke hoek terwijl Ferris en Vidal zich een weg banen door het onbekende. Eenmaal in Lutetia komt Ferris er alleen voor te staan. Kan hij zijn achtervolgers te slim af zijn en de spiegel veilig afleveren? Zal hij zijn vriend Vidal ooit nog terugzien? En zal hij zijn thuis en familie in het Gallische dorp weer in de armen kunnen sluiten? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Frans van Baal</name>
         </author>
     </entry>
     <entry>
@@ -115,14 +138,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het eerlijkste boek over leugens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten"/>
-        <updated>2025-10-11T07:11:06.586Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209718?aid=kb-online-bibliotheek&sid=17&dts=1760107232918&sig=8b590465ab1801084eef27045cafd63dbb044721d054989ce98679221a408848&width=320" alt="Omslag van 'Het eerlijkste boek over leugens'" title="Omslag van 'Het eerlijkste boek over leugens'">
-<p>Stel je voor: je herkent élke leugen. Of die nou van een verkoper komt, een influencer, een klasgenoot of iemand die stiekem iets van je gedaan wil krijgen. Je zou nooit meer worden opgelicht. Je zou meteen weten wie je kon vertrouwen. Je zou beter begrijpen wat er echt speelt en dus sneller de juiste keuzes maken. Leugens doorzien klinkt als een superpower, toch? Jan Paul Schutten legt je in Het eerlijkste boek over leugens uit hoe je leugens sneller herkent. Je krijgt tips en technieken om te ontdekken wat waar is en wat niet. Je hoort fabels en feiten over lichaamstaal. En je ontdekt welke online filmpjes onbetrouwbaar zijn. Niet alleen handig, maar ook belangrijk in een wereld vol nep. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Solotrip]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45495851X/solotrip-noortje-brink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45495851X/solotrip-noortje-brink"/>
+        <updated>2025-10-11T07:11:08.767Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45495851X?aid=kb-online-bibliotheek&sid=17&dts=1760106637319&sig=7a1da3f6390e5ec0ee86893be173f380a7dc95e1b2f3bce0f4251d141f6f90ed&width=320" alt="Omslag van 'Solotrip'" title="Omslag van 'Solotrip'">
+<p>In haar uppie in de Schotse Hooglanden. Overgeleverd aan de natuur. En aan hem.  De liefde… bah! De sportieve Nienke heeft er haar buik vol van. Ze voelt zich ingeruild, afgedankt en in de grond getrapt. Maar dan geeft haar beste vriendin haar een boek over bindings- en verlatingsangst en krijgt ze wat grip op de situatie. Het boek raadt Nienke aan niet langer te kijken naar de ander, maar haar blik op zichzelf te richten. Instinctief weet ze dat ze dat moet doen. De Schotse Hooglanden staan al tijden op haar bucketlist en dus boekt ze een ticket naar Schotland. Het plan: rondom Loch Ness wandelen. In haar eentje, zodat ze dicht bij zichzelf kan komen. Maar dan blijkt iemand anders ook dicht bij haar te willen komen. Heel dichtbij. Of Nienke dat nu wil of niet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jan Paul Schutten</name>
+            <name>Noortje Brink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Past perfect]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958668/past-perfect-joe-lla-van-der-breggen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958668/past-perfect-joe-lla-van-der-breggen"/>
+        <updated>2025-10-11T07:11:08.563Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958668?aid=kb-online-bibliotheek&sid=17&dts=1760107440637&sig=ea56e41d8150d16c0e80ab4d8223da54ac4924400bf0b3373261c451c822ac09&width=320" alt="Omslag van 'Past perfect'" title="Omslag van 'Past perfect'">
+<p>De vriendinnengroep van Bonnie, Mara, Kiki, Isabel en Roxanne, ook bekend als de Roedel, belandt onverwachts weer in de Italiaanse bergen. Zal de vriendschap deze reis overleven? Bonnie is in de wolken wanneer ze de showkleding voor het zangduo Sjoerd en Fenna mag verzorgen. Een droomklus! Ze bouwt een bijzondere band op met Fenna. De knappe en getalenteerde Sjoerd blijft echter een raadsel. Want flirt hij nou met haar? Of juist niet? En waarom reageert hij zo vreemd als Bonnie de nieuwe gitarist van de band blijkt te kennen? Dan wordt Bonnies droomopdracht onverwacht afgebroken en besluit ze samen met Kiki een gewaagd plan uit te voeren om haar klanten te helpen. Een plan dat hen weer naar Italië brengt in hun roze VW-bus. De rest van de Roedel, Mara, Isabel en Roxanne, weten van niets…. Zetten Bonnie en Kiki hiermee de vriendschap op het spel? Past perfect is een hartverwarmende roman over vriendschap en de onverwachte wendingen die vriendschappen rijk zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Joëlla van der Breggen</name>
         </author>
     </entry>
     <entry>
@@ -138,25 +172,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lust]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts"/>
-        <updated>2025-10-11T07:11:07.011Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958579?aid=kb-online-bibliotheek&sid=17&dts=1760106660078&sig=fd2560ffd5947b46967cf3c3a9e28d005a37e389bf7009407ee7aa2bbee7e252&width=320" alt="Omslag van 'Lust'" title="Omslag van 'Lust'">
-<p>Een stomend hete ontmoeting in het ijskoude Zweden zorgt voor een onvergetelijke sensatie. Na de opwindende rit op de hondenslee kan Bregje haar lustgevoelens voor haar baas, Ärne Håkansson, nauwelijks nog verbergen. Maar ze moet wel, want die man is hartstikke gelukkig getrouwd met een vrouw die niet alleen bloedmooi is, maar ook nog eens superaardig. Hun liefde spat er van alle kanten af. Zij heeft maar één optie: terug naar Nederland vliegen en die sexy, ruige Viking zien te vergeten. Maar dat vindt het universum een bar slecht plan. De Zweedse natuur zet alles op alles om Bregje en Håkansson bij elkaar te brengen – en dan neemt het lot een onverwachte wending. Voor de lezers van Abbi Glines en Vi Keeland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Jarno]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot"/>
+        <updated>2025-10-11T07:11:06.040Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209734?aid=kb-online-bibliotheek&sid=17&dts=1760110225746&sig=92c633275a9929f9fd3c80a5207a7e58f4c1b04b98118e0636ec45300ae1a7b4&width=320" alt="Omslag van 'Jarno'" title="Omslag van 'Jarno'">
+<p>Hij was de enige Nederlander die ooit uitkwam in de UFC, de grootste organisatie in de snelst groeiende sport van de Verenigde Staten. Het was zijn grote droom. Toen hij dit jaar een wedstrijd verloor, spatte die droom uiteen. Maar vechtsporter Jarno Errens uit Heerlen is vastbesloten zichzelf terug te knokken. Letterlijk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Eva Roberts</name>
+            <name>Leon Verdonschot</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amber en Emir]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454958609/amber-en-emir-eveline-heijnen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454958609/amber-en-emir-eveline-heijnen"/>
-        <updated>2025-10-11T07:11:07.230Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958609?aid=kb-online-bibliotheek&sid=17&dts=1760106605366&sig=3b22e2f268c3820b32314585e232810c23f8212ebcfc371f70b6f230838c974c&width=320" alt="Omslag van 'Amber en Emir'" title="Omslag van 'Amber en Emir'">
-<p>Een multiculturele feelgoodroman vol humor en romantiek. Op een regenachtige avond komt Amber oog in oog te staan met Emir, de eigenaar van een Volkswagen Golf die in een paar minuten meer verkeersregels negeert dan zij kan tellen. Wanneer ze hem daarop aanspreekt, reageert hij fel. Emir is intimiderend, onweerstaanbaar aantrekkelijk en… ontzettend Turks. Precies dat laatste brengt Amber in verwarring, want hij confronteert haar met haar eigen vooroordelen. Een jaar later blijkt Emir tot haar schrik de instructeur die haar aan een rijbewijs moet helpen. Onbegonnen werk, denkt Amber, want ze is nauwelijks bereid iets van hem aan te nemen. Maar al snel leert ze dat Emir veel gevoeliger en complexer is dan ze dacht. En hoewel hun werelden ver uit elkaar liggen, groeit de aantrekkingskracht. Kunnen Amber en Emir hun verschillen overbruggen en kiezen voor hun gevoel? [TvdH1]  Een opposites-attract romance met een multiculturele twist voor fans van Sophie Kinsella. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het eerlijkste boek over leugens]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten"/>
+        <updated>2025-10-11T07:11:06.586Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209718?aid=kb-online-bibliotheek&sid=17&dts=1760107232918&sig=8b590465ab1801084eef27045cafd63dbb044721d054989ce98679221a408848&width=320" alt="Omslag van 'Het eerlijkste boek over leugens'" title="Omslag van 'Het eerlijkste boek over leugens'">
+<p>Stel je voor: je herkent élke leugen. Of die nou van een verkoper komt, een influencer, een klasgenoot of iemand die stiekem iets van je gedaan wil krijgen. Je zou nooit meer worden opgelicht. Je zou meteen weten wie je kon vertrouwen. Je zou beter begrijpen wat er echt speelt en dus sneller de juiste keuzes maken. Leugens doorzien klinkt als een superpower, toch? Jan Paul Schutten legt je in Het eerlijkste boek over leugens uit hoe je leugens sneller herkent. Je krijgt tips en technieken om te ontdekken wat waar is en wat niet. Je hoort fabels en feiten over lichaamstaal. En je ontdekt welke online filmpjes onbetrouwbaar zijn. Niet alleen handig, maar ook belangrijk in een wereld vol nep. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Eveline Heijnen</name>
+            <name>Jan Paul Schutten</name>
         </author>
     </entry>
     <entry>
@@ -182,15 +216,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rood in Wassenaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45495848X/rood-in-wassenaar-marjolein-moorman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45495848X/rood-in-wassenaar-marjolein-moorman"/>
-        <updated>2025-10-11T07:11:07.952Z</updated>
-        <summary type="html"><![CDATA[Pleidooi voor een kansrijk leven (voor iedereen)]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45495848X?aid=kb-online-bibliotheek&sid=17&dts=1760112953624&sig=6ee1ab17788ed94301ecef8f568cb98963da89a70caff2d0f9c1164c6918b50a&width=320" alt="Omslag van 'Rood in Wassenaar'" title="Omslag van 'Rood in Wassenaar'">
-<p>Rood in Wassenaar van Marjolein Moorman is het persoonlijke en openhartige verhaal van een bevlogen politicus voor wie het persoonlijke politiek is. Moorman is bekend van de tv-serie Klassen.</p><p>Marjolein Moorman groeit op in Wassenaar, in een ‘rood’ gezin tussen de villa’s. Ze hebben het thuis niet breed. Tijdens haar studententijd overlijden haar beide ouders, waarna ze samen met haar twee jongere broers een financiële schuld erft. Het zijn vormende ervaringen in haar leven.</p><p>Na een wetenschappelijke carrière besluit ze de politiek in te gaan om zich sterk te maken voor gelijke kansen en beter onderwijs. Ze ziet de kloof in de samenleving toenemen doordat succes steeds vaker als eigen keuze wordt gezien. Dat maakt van ons onderwijs een wedstrijd van winnaars en verliezers.</p><p>In Rood in Wassenaar deelt Marjolein Moorman haar ervaringen en visie. Ze biedt een perspectief waarin gelijkwaardigheid en kansengelijkheid centraal staan. En hoop, in een tijd dat wantrouwen en cynisme de politiek beheersen.</p><p>Dit boek is geschreven samen met journalist en auteur Marc van Dijk.</p><p>'Marjolein Moorman is uitgegroeid tot hét boegbeeld van onderwijs en de strijd tegen kansenongelijkheid.' – Het Parool </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Fileflirt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels"/>
+        <updated>2025-10-11T07:11:08.344Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958390?aid=kb-online-bibliotheek&sid=17&dts=1760106817433&sig=23f12819d82941f90e2371f9d1baad140843ec9b97156b790ecc4591f5f3dbf6&width=320" alt="Omslag van 'Fileflirt'" title="Omslag van 'Fileflirt'">
+<p>Het leven van Kimberly is door een ingrijpende gebeurtenis enorm veranderd, waardoor haar omgeving haar harder dan ooit nodig heeft. Ze is er voor iedereen, behalve zichzelf. Ondertussen droomt ze ervan echt verliefd te worden, ze wil zelfs niets liever dan haar eigen grote liefdesverhaal. Al lijkt na een reeks mislukte dates dat sprookje verder weg dan ooit. Tot ze op een dag met pech op de snelweg strandt en een enorm irritante, arrogante – en oké, stiekem wel charmante – weggebruiker opduikt.</p><p>Zal Kimberly leren meer voor zichzelf en haar eigen geluk te kiezen, zelfs als dat betekent dat ze haar hart moet openstellen voor iemand die totaal niet in haar plaatje past?</p><p>Fileflirt is een heerlijke romcom om bij weg te dromen, en het vierde deel in de populaire Flirt-serie.</p><p>Voor lezers van Emily Henry, Laurie Gilmore en Susan Muskee. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Marjolein Moorman</name>
+            <name>Fabienne Swinkels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lust]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958579/lust-eva-roberts"/>
+        <updated>2025-10-11T07:11:07.011Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958579?aid=kb-online-bibliotheek&sid=17&dts=1760106660078&sig=fd2560ffd5947b46967cf3c3a9e28d005a37e389bf7009407ee7aa2bbee7e252&width=320" alt="Omslag van 'Lust'" title="Omslag van 'Lust'">
+<p>Een stomend hete ontmoeting in het ijskoude Zweden zorgt voor een onvergetelijke sensatie. Na de opwindende rit op de hondenslee kan Bregje haar lustgevoelens voor haar baas, Ärne Håkansson, nauwelijks nog verbergen. Maar ze moet wel, want die man is hartstikke gelukkig getrouwd met een vrouw die niet alleen bloedmooi is, maar ook nog eens superaardig. Hun liefde spat er van alle kanten af. Zij heeft maar één optie: terug naar Nederland vliegen en die sexy, ruige Viking zien te vergeten. Maar dat vindt het universum een bar slecht plan. De Zweedse natuur zet alles op alles om Bregje en Håkansson bij elkaar te brengen – en dan neemt het lot een onverwachte wending. Voor de lezers van Abbi Glines en Vi Keeland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Eva Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amber en Emir]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/454958609/amber-en-emir-eveline-heijnen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/454958609/amber-en-emir-eveline-heijnen"/>
+        <updated>2025-10-11T07:11:07.230Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958609?aid=kb-online-bibliotheek&sid=17&dts=1760106605366&sig=3b22e2f268c3820b32314585e232810c23f8212ebcfc371f70b6f230838c974c&width=320" alt="Omslag van 'Amber en Emir'" title="Omslag van 'Amber en Emir'">
+<p>Een multiculturele feelgoodroman vol humor en romantiek. Op een regenachtige avond komt Amber oog in oog te staan met Emir, de eigenaar van een Volkswagen Golf die in een paar minuten meer verkeersregels negeert dan zij kan tellen. Wanneer ze hem daarop aanspreekt, reageert hij fel. Emir is intimiderend, onweerstaanbaar aantrekkelijk en… ontzettend Turks. Precies dat laatste brengt Amber in verwarring, want hij confronteert haar met haar eigen vooroordelen. Een jaar later blijkt Emir tot haar schrik de instructeur die haar aan een rijbewijs moet helpen. Onbegonnen werk, denkt Amber, want ze is nauwelijks bereid iets van hem aan te nemen. Maar al snel leert ze dat Emir veel gevoeliger en complexer is dan ze dacht. En hoewel hun werelden ver uit elkaar liggen, groeit de aantrekkingskracht. Kunnen Amber en Emir hun verschillen overbruggen en kiezen voor hun gevoel? [TvdH1]  Een opposites-attract romance met een multiculturele twist voor fans van Sophie Kinsella. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Eveline Heijnen</name>
         </author>
     </entry>
     <entry>
@@ -205,36 +260,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fileflirt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454958390/fileflirt-fabienne-swinkels"/>
-        <updated>2025-10-11T07:11:08.344Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958390?aid=kb-online-bibliotheek&sid=17&dts=1760106817433&sig=23f12819d82941f90e2371f9d1baad140843ec9b97156b790ecc4591f5f3dbf6&width=320" alt="Omslag van 'Fileflirt'" title="Omslag van 'Fileflirt'">
-<p>Het leven van Kimberly is door een ingrijpende gebeurtenis enorm veranderd, waardoor haar omgeving haar harder dan ooit nodig heeft. Ze is er voor iedereen, behalve zichzelf. Ondertussen droomt ze ervan echt verliefd te worden, ze wil zelfs niets liever dan haar eigen grote liefdesverhaal. Al lijkt na een reeks mislukte dates dat sprookje verder weg dan ooit. Tot ze op een dag met pech op de snelweg strandt en een enorm irritante, arrogante – en oké, stiekem wel charmante – weggebruiker opduikt.</p><p>Zal Kimberly leren meer voor zichzelf en haar eigen geluk te kiezen, zelfs als dat betekent dat ze haar hart moet openstellen voor iemand die totaal niet in haar plaatje past?</p><p>Fileflirt is een heerlijke romcom om bij weg te dromen, en het vierde deel in de populaire Flirt-serie.</p><p>Voor lezers van Emily Henry, Laurie Gilmore en Susan Muskee. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Rood in Wassenaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45495848X/rood-in-wassenaar-marjolein-moorman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45495848X/rood-in-wassenaar-marjolein-moorman"/>
+        <updated>2025-10-11T07:11:07.952Z</updated>
+        <summary type="html"><![CDATA[Pleidooi voor een kansrijk leven (voor iedereen)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45495848X?aid=kb-online-bibliotheek&sid=17&dts=1760112953624&sig=6ee1ab17788ed94301ecef8f568cb98963da89a70caff2d0f9c1164c6918b50a&width=320" alt="Omslag van 'Rood in Wassenaar'" title="Omslag van 'Rood in Wassenaar'">
+<p>Rood in Wassenaar van Marjolein Moorman is het persoonlijke en openhartige verhaal van een bevlogen politicus voor wie het persoonlijke politiek is. Moorman is bekend van de tv-serie Klassen.</p><p>Marjolein Moorman groeit op in Wassenaar, in een ‘rood’ gezin tussen de villa’s. Ze hebben het thuis niet breed. Tijdens haar studententijd overlijden haar beide ouders, waarna ze samen met haar twee jongere broers een financiële schuld erft. Het zijn vormende ervaringen in haar leven.</p><p>Na een wetenschappelijke carrière besluit ze de politiek in te gaan om zich sterk te maken voor gelijke kansen en beter onderwijs. Ze ziet de kloof in de samenleving toenemen doordat succes steeds vaker als eigen keuze wordt gezien. Dat maakt van ons onderwijs een wedstrijd van winnaars en verliezers.</p><p>In Rood in Wassenaar deelt Marjolein Moorman haar ervaringen en visie. Ze biedt een perspectief waarin gelijkwaardigheid en kansengelijkheid centraal staan. En hoop, in een tijd dat wantrouwen en cynisme de politiek beheersen.</p><p>Dit boek is geschreven samen met journalist en auteur Marc van Dijk.</p><p>'Marjolein Moorman is uitgegroeid tot hét boegbeeld van onderwijs en de strijd tegen kansenongelijkheid.' – Het Parool </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Fabienne Swinkels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Past perfect]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454958668/past-perfect-joe-lla-van-der-breggen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454958668/past-perfect-joe-lla-van-der-breggen"/>
-        <updated>2025-10-11T07:11:08.563Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454958668?aid=kb-online-bibliotheek&sid=17&dts=1760107440637&sig=ea56e41d8150d16c0e80ab4d8223da54ac4924400bf0b3373261c451c822ac09&width=320" alt="Omslag van 'Past perfect'" title="Omslag van 'Past perfect'">
-<p>De vriendinnengroep van Bonnie, Mara, Kiki, Isabel en Roxanne, ook bekend als de Roedel, belandt onverwachts weer in de Italiaanse bergen. Zal de vriendschap deze reis overleven? Bonnie is in de wolken wanneer ze de showkleding voor het zangduo Sjoerd en Fenna mag verzorgen. Een droomklus! Ze bouwt een bijzondere band op met Fenna. De knappe en getalenteerde Sjoerd blijft echter een raadsel. Want flirt hij nou met haar? Of juist niet? En waarom reageert hij zo vreemd als Bonnie de nieuwe gitarist van de band blijkt te kennen? Dan wordt Bonnies droomopdracht onverwacht afgebroken en besluit ze samen met Kiki een gewaagd plan uit te voeren om haar klanten te helpen. Een plan dat hen weer naar Italië brengt in hun roze VW-bus. De rest van de Roedel, Mara, Isabel en Roxanne, weten van niets…. Zetten Bonnie en Kiki hiermee de vriendschap op het spel? Past perfect is een hartverwarmende roman over vriendschap en de onverwachte wendingen die vriendschappen rijk zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Joëlla van der Breggen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solotrip]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45495851X/solotrip-noortje-brink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45495851X/solotrip-noortje-brink"/>
-        <updated>2025-10-11T07:11:08.767Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45495851X?aid=kb-online-bibliotheek&sid=17&dts=1760106637319&sig=7a1da3f6390e5ec0ee86893be173f380a7dc95e1b2f3bce0f4251d141f6f90ed&width=320" alt="Omslag van 'Solotrip'" title="Omslag van 'Solotrip'">
-<p>In haar uppie in de Schotse Hooglanden. Overgeleverd aan de natuur. En aan hem.  De liefde… bah! De sportieve Nienke heeft er haar buik vol van. Ze voelt zich ingeruild, afgedankt en in de grond getrapt. Maar dan geeft haar beste vriendin haar een boek over bindings- en verlatingsangst en krijgt ze wat grip op de situatie. Het boek raadt Nienke aan niet langer te kijken naar de ander, maar haar blik op zichzelf te richten. Instinctief weet ze dat ze dat moet doen. De Schotse Hooglanden staan al tijden op haar bucketlist en dus boekt ze een ticket naar Schotland. Het plan: rondom Loch Ness wandelen. In haar eentje, zodat ze dicht bij zichzelf kan komen. Maar dan blijkt iemand anders ook dicht bij haar te willen komen. Heel dichtbij. Of Nienke dat nu wil of niet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Noortje Brink</name>
+            <name>Marjolein Moorman</name>
         </author>
     </entry>
     <entry>
@@ -249,40 +283,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ferris en de gouden spiegel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454978723/ferris-en-de-gouden-spiegel-frans-van-baal</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454978723/ferris-en-de-gouden-spiegel-frans-van-baal"/>
-        <updated>2025-10-12T07:12:08.515Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978723?aid=kb-online-bibliotheek&sid=17&dts=1760253127972&sig=c74153a759f47f01a7465260b5434b7549342562d191b5f8e18ca080e743f8ba&width=320" alt="Omslag van 'Ferris en de gouden spiegel'" title="Omslag van 'Ferris en de gouden spiegel'">
-<p>Ferris is een tienjarige Gallische jongen. Hij sluit zich aan bij Vidal, een rondreizende goudsmid, op een gevaarlijke tocht naar Lutetia. Hun missie is het afleveren van een kostbare gouden spiegel bij Julia, de dochter van een welgestelde Romeinse koopman. Maar hun reis verloopt allesbehalve rustig. Twee genadeloze boeven zitten hen op de hielen, vastbesloten om de spiegel - en misschien hun levens - in handen te krijgen. Gevaar loert om elke hoek terwijl Ferris en Vidal zich een weg banen door het onbekende. Eenmaal in Lutetia komt Ferris er alleen voor te staan. Kan hij zijn achtervolgers te slim af zijn en de spiegel veilig afleveren? Zal hij zijn vriend Vidal ooit nog terugzien? En zal hij zijn thuis en familie in het Gallische dorp weer in de armen kunnen sluiten? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Frans van Baal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vier altijd alles]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454978707/vier-altijd-alles-caren-bode</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454978707/vier-altijd-alles-caren-bode"/>
-        <updated>2025-10-12T07:12:08.840Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978707?aid=kb-online-bibliotheek&sid=17&dts=1760253128615&sig=3580815297dee90bf5b6e0678f2c7cf4ee1f223f8f4c611b01701844b3496ef9&width=320" alt="Omslag van 'Vier altijd alles'" title="Omslag van 'Vier altijd alles'">
-<p>Caren, vrouw van Philip en moeder van Dex en Vesper, is net 44 geworden als ze in 2013 de diagnose meningeoom krijgt. Eindelijk een reden waarom ze met één oog slecht ziet! Het is de start van een lange reis van een gezond en rijk leven met veel en hard werken, naar een leven van volledige en duurzame arbeidsongeschiktheid. Ze neemt je mee in 10 jaar van bezoeken aan specialisten, behandelingen, lieve zorgverleners, teleurstellingen verwerken én de mooiste momenten vieren. Beleef samen met de 'Carentjes' in haar achterhoofd, hoe ze de diagnose en de behandelingen van een tweede tumor verwerkt. Als kers op de taart, krijgt ze er ook nog poly-artrose bij, haar gezondheid, haar werk, alles gaat kapot. Wat als je lijf je zó in de steek laat, dat eerst werken met je hoofd niet meer lukt en daarna ook fysiek werk niet meer gaat? Soms lijkt het uitzichtloos, maar Caren zet door en raakt verstrikt in een lange strijd met het UWV. Alle ervaringen van 10 jaar diepe downs en soms hoge ups, veranderden haar levensmotto van 'haal alles uit het leven', naar 'Vier Altijd Alles'. Want, uiteindelijk weet ze toch het juiste antwoord op de belangrijkste vraag van het UWV: 'Kunt u cavia's aaien?' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Caren Bode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gedonder in het vooronder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/454978715/gedonder-in-het-vooronder-elisabeth-van-der-ark</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/454978715/gedonder-in-het-vooronder-elisabeth-van-der-ark"/>
-        <updated>2025-10-12T07:12:09.078Z</updated>
-        <summary type="html"><![CDATA[Mijn eierstokkanker reisverslag in dagboekvorm]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A454978715?aid=kb-online-bibliotheek&sid=17&dts=1760193891706&sig=cc870ca0f7e50636f1323a08be64af49be0beb41fa43803b49c2db9fe3ff3b42&width=320" alt="Omslag van 'Gedonder in het vooronder'" title="Omslag van 'Gedonder in het vooronder'">
-<p>'De gynaecoloog gaat u bellen.' Dat waren de woorden van de radioloog na mijn buikecho, aangevraagd door mijn huisarts. Ik had diverse klachten: heftige krampen, geen ontlasting, te veel of dunne ontlasting. Na verloop van tijd kreeg ik ook pijn in mijn bekken, ter hoogte van mijn kruis, en pijn bij het plassen. De gynaecoloog belde inderdaad, en na het eerste consult en bloedonderzoek werd verteld dat er vanuit het Erasmus MC contact met mij zou worden opgenomen. Dit was het startsein van mijn reisverslag. Een reisverslag vol hoop, vrees, geluk, ongeluk en een scala aan emoties, geschreven in dagboekvorm. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elisabeth van der Ark</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Achter haar schaduw]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/454958595/achter-haar-schaduw-petra-spark</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/454958595/achter-haar-schaduw-petra-spark"/>
@@ -294,50 +294,29 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Witte Nachten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski"/>
-        <updated>2025-10-11T07:11:09.201Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209742?aid=kb-online-bibliotheek&sid=17&dts=1760109356399&sig=61135643b866502a568b93f266d3d2c7016beda2126011435fad0d66ab2b6469&width=320" alt="Omslag van 'Witte Nachten'" title="Omslag van 'Witte Nachten'">
-<p>Een jonge man loopt door Sint-Petersburg. Een stad waar de zon nooit helemaal ondergaat in de zomer. De man is eenzaam, verdwaald in zijn gedachten. Tot hij op een avond een meisje ontmoet, Nastenka. Zij voelt zich ook alleen. Net als hij zoekt ze naar geluk. Samen ze lopen vier nachten door de schemerende stad. Ze vertellen elkaar over hun leven. Hij wordt verliefd op haar. Maar Nastenka denkt aan een ander. Toch blijft de man bij haar, uit liefde. Tot de witte nachten voorbij zijn ... Witte Nachten is geschreven in 1848 door Fjodor Dostojevski, één van de bekendste Russische auteurs ooit. Frans van Duijn hertaalde het boek naar gewone taal. Zodat iedereen deze bijzondere klassieker kan lezen. Het is een verhaal over liefde en verdriet. Over alleen zijn, maar toch iemand vinden. Voor iedereen die zich ooit alleen voelde in een drukke wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het lege nest]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44624550X/het-lege-nest-deirdre-enthoven---dorine-van-der-wind</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44624550X/het-lege-nest-deirdre-enthoven---dorine-van-der-wind"/>
+        <updated>2025-10-11T07:11:11.212Z</updated>
+        <summary type="html"><![CDATA[Alles wat je wilt weten als kinderen uit huis gaan]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44624550X?aid=kb-online-bibliotheek&sid=17&dts=1760107320159&sig=6f182dc08ee3de35256cbcf41a0e09442adefcedab7cad36c2921baf70ada809&width=320" alt="Omslag van 'Het lege nest'" title="Omslag van 'Het lege nest'">
+<p>Kinderen groeien op en gaan vroeg of laat - tegenwoordig steeds later - uit huis. Een natuurlijk proces, je voedt je kind op tot volwassenheid. Toch valt het ouders - moeders én vaders - soms zwaar als deze levensfase aanbreekt, sommige ervaren zelfs een soort liefdesverdriet. Ze missen hun kind, maar ook de structuur en de gezelligheid die het ouderschap met zich meebrengt. Het roept vragen op, zoals: wat is er over van mijn relatie nu de bv Gezin is opgedoekt? En: hoe laat ik mijn kind los, maar blijf ik betrokken?</p><p>In Het lege nest geven journalisten Deirdre Enthoven en Dorine van der Wind psychologische inzichten en praktische handvatten voor de 'lege-nester' door in het meest recente wetenschappelijk onderzoek te duiken en sociologen, psychologen, therapeuten, een groot aantal ouders én kinderen te interviewen. Ze laten zien hoe je je op deze periode kunt voorbereiden en deze kunt benutten om jezelf opnieuw uit te vinden, nieuwe carrières na te jagen en te genieten van de herwonnen tijd en ruimte. Want het lege nest is niet alleen een einde, maar ook een nieuw begin. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Fjodor Dostojevski</name>
+            <name>Deirdre Enthoven</name>
+        </author>
+        <author>
+            <name>Dorine van der Wind</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Godinnen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444196722/godinnen-jasmine-elmer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444196722/godinnen-jasmine-elmer"/>
-        <updated>2025-10-11T07:11:09.407Z</updated>
-        <summary type="html"><![CDATA[Tien eigenzinnige, slimme en krachtige vrouwen uit de wereldmythologie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444196722?aid=kb-online-bibliotheek&sid=17&dts=1760110758556&sig=4bda795535c16f4d2d398930e6dbc50c00b9a551489a63a12943c012bd1c661a&width=320" alt="Omslag van 'Godinnen'" title="Omslag van 'Godinnen'">
-<p>Godinnen neemt je mee op reis door de antieke wereld. Jasmine Elmer stelt je voor aan tien godinnen, onder wie een paar oude bekenden maar vooral nieuwe gezichten. Hun fantastische verhalen draag je na het lezen voor altijd met je mee.</p><p>Artemis, de Griekse godin van de wildernis, met pijl-en-boog in de hand. Sedna, de oceaangodin van de Inuit, beschermer van de ijskoude zee. Hine-nui-te-po, de godin van de dood bij de Maori, rennend door de nacht. Laat je betoveren door deze godinnen en kom erachter wat hun mythen betekenden voor de vrouwen die hen in een ver verleden aanbaden. Eeuwen later onttrekt Jasmine Elmer hun verhalen aan de vergetelheid en laat ze je zien welke grote wijsheid zij in zich dragen. Hun stemmen vertellen je luid en duidelijk dat je vrij bent om je wilde, slimme, eigenzinnige, krachtige en veelzijdige zelf te zijn.</p><p>‘Het leuke aan Godinnen is dat je kennismaakt met tien godinnen uit allerlei mythen en culturen.’ – Mezza AD </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Mensen die van honden houden, houden van mensen die van honden houden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447729004/mensen-die-van-honden-houden--houden-van-mensen-die-van-honden-houden-nick-duerden</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447729004/mensen-die-van-honden-houden--houden-van-mensen-die-van-honden-houden-nick-duerden"/>
+        <updated>2025-10-11T07:11:10.997Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447729004?aid=kb-online-bibliotheek&sid=17&dts=1760109105568&sig=e4340048f6d9b769be97c6ca5ab784369859a9392cbc5ee9c6f8d0df203d4582&width=320" alt="Omslag van 'Mensen die van honden houden, houden van mensen die van honden houden'" title="Omslag van 'Mensen die van honden houden, houden van mensen die van honden houden'">
+<p>Eigenlijk is Nick Duerden een kattenmens, dus de komst van een gezinshond is nogal een verrassing. Helemaal gezien borderterriër Missy niet alleen voor de kinderen in huis wordt genomen maar vooral voor hem. Na een lange periode van ziek thuiszitten moet hij naar buiten, elke dag.</p><p>Het werkt, en hoe. Missy weet het voor elkaar te krijgen dat Nick dagelijks door het park wandelt. Binnen korte tijd raken ze bevriend met zowel een jonge acteur als een tachtigjarige weduwe, een breedsprakige Russische dissident en een stonede vechtsporter.Mensen die van honden houden, houden van mensen die van honden houden is een boek over verbinding en vriendschap, liefde en verlies. Maar ook over jezelf weer vinden en je horizon verbreden, zelfs als je denkt dat dat niet meer kan. En bovenal is het een boek over hoe een kleine hond je leven weer groter kan maken.</p><p>'Een aanstekelijk verhaal over honden, hun baasjes en de vriendschappen die tussen hen kunnen ontstaan.' - Katherine May, auteur van Winteren en Verwondering</p><p>'Een wijze en ontroerende vertelling over hoe kleine verbintenissen levens kunnen veranderen.' - Lissa Evans </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jasmine Elmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mijn bange ik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444728236/mijn-bange-ik-regine-dugardyn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444728236/mijn-bange-ik-regine-dugardyn"/>
-        <updated>2025-10-11T07:11:09.884Z</updated>
-        <summary type="html"><![CDATA[Hardop denken over angst en ander psychisch ongemak]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444728236?aid=kb-online-bibliotheek&sid=17&dts=1760107550854&sig=46262bc80ca33e044f772308de688b1ae9da35b4f71a31ef0cfba2a194c1fe7c&width=320" alt="Omslag van 'Mijn bange ik'" title="Omslag van 'Mijn bange ik'">
-<p>Bijna dertig procent van de bevolking lijdt volgens het Trimbos-instituut vroeg of laat aan ernstige angstklachten. Regine Dugardyn is een van hen. Sinds haar jeugd kent ze periodes van hevige angst. Regine hoort bij de groep die regelmatig kopje-onder gaat, maar ook weer komt bovendrijven. De afgelopen decennia voelde zij zich - samen met haar lotgenoten - vaak onderwerp van debat.</p><p>Al twintig jaar doen psychiaters, psychotherapeuten en filosofen in de media ferme uitspraken over psychische stoornissen. Volgens psychiater Damiaan Denys kunnen mensen geen onderscheid meer maken tussen gewone angst enerzijds en een ziekelijke angststoornis anderzijds. En in haar bestseller De depressie-epidemie noemt filosoof Trudy Dehue antidepressiva prestatiepillen, alsof mensen doping slikken.</p><p>In Mijn bange ik laat Regine zien wat die kritiek doet met haar, als patiënt en als filosoof. Ze vraagt zich af wanneer menselijk lijden nog bij het leven hoort en wanneer niet. Is een diagnose uit de DSM zo onzinnig als sommige critici beweren? Slikken we en masse antidepressiva omdat we geen tegenslag meer zouden verdragen? En gaan we inderdaad in therapie in de overtuiging dat het leven maakbaar is? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Regine Dugardyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OMG 30]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44624581X/omg-30-marije-veerman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44624581X/omg-30-marije-veerman"/>
-        <updated>2025-10-11T07:11:10.121Z</updated>
-        <summary type="html"><![CDATA[Tips en inzichten van bekende dertigers]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44624581X?aid=kb-online-bibliotheek&sid=17&dts=1760106721973&sig=454f78cd966952c7632bdd9c8b4e3f26d0d692ca85ca5b5fb59dd983ccd8e062&width=320" alt="Omslag van 'OMG 30'" title="Omslag van 'OMG 30'">
-<p>Voor veel vrouwen van in de twintig vrouwen is dertig worden reden voor regelrechte paniek. Er beginnen allerlei klokken te tikken: die van het vinden van de perfecte baan, de perfecte partner, die van een huis bezitten en van die van die rammelende eierstokken. En dat terwijl je eigenlijk nog best een lange bucketlist hebt met activiteiten waar je je vrijheid voor nodig hebt. Gelukkig gingen veel vrouwen je voor. En guess what, het valt allemaal wel mee.</p><p></p><p> In OMG30 geven ervaringsdeskundige BN'ers opgedane inzichten, adviezen en praktische tips over dertig worden de daarbij opgelegde verwachtingen en vragen: Wie ben ik nu eigenlijk? En wat wil ik doen met mijn leven? Ben ik goed bezig?</p><p></p><p> Een kleine greep:</p><p>Topmodel Daniëlle van Grondelle helpt je je zelfbeeld goed te houden als het leven met dertig nog niet is wat je gehoopt was.</p><p>Advocaat Kim Beumer geeft heel waardevolle tips op het gebied van werk en carrière</p><p>Olympisch zwemkampioen Femke Heemskerk vertelt dat haar dertiger jaren veel relaxter zijn dan haar twintiger jaren.</p><p></p><p>  Andere onderwerpen zijn: single zijn * daten * relaties * seks * gezondheid * werk * geld * zelfbeeld * kinderloosheid * moederschap * droom & werkelijkheid.</p><p></p><p> Aan het woord komen: Nina Pierson, Floor Bakhuys Roozeboom, Krista Ariëns, Mascha Feoktistivo, Immanuelle Grives, Laura Ponticorvo, Kelly Ruigrok, Malou Holshuijsen, Rebecca Boektje, Sharon Hilgers, Mandy Woelkens, Rachel Siwaletti, Ginny Ramkisoen, Janneke van den Brink, Renée Lamboo, Anne Vedder, Lotte Houwink ten Cate </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marije Veerman</name>
+            <name>Nick Duerden</name>
         </author>
     </entry>
     <entry>
@@ -349,6 +328,29 @@
 <p>Loekie begint aan de prestigieuze studie Toonkunst op een Belgische toneelschool. Ze valt van de ene cultuurshock in de andere spraakverwarring. Soms vraagt ze zich af wanneer de verborgen camera's tevoorschijn komen en zal blijken dat de opleiding helemaal niet bestaat. Ze komt te wonen in woongroep Kijkdoos, die is gevestigd in een pand waar ze telkens nieuwe gangen en deuren ontdekt en dat bewoond wordt door een kleurrijke verzameling mensen die nogal vastzitten in het leven. Om onduidelijke redenen noemen ze Loekie de Koikarper. Zonder zich daar al te bewust van te zijn woelt Loekie met haar Hollandse directheid van alles om, zowel op haar opleiding als in de woongroep. Om de chaos in de overvolle Kijkdoos te beteugelen en toegelaten te worden tot het tweede studiejaar zal Loekie een tandje bij moeten zetten. Ze wordt gedwongen uit haar waarnemersrol te stappen, onwaarschijnlijke vriendschappen te sluiten en zich werkelijk in het diepe te storten.</p><p>De roman leest als een komisch avonturenverhaal, vol met op hol geslagen associaties en rake bespiegelingen.</p><p>Over de documentaire De butlers: 'Een voltreffer. Heerlijk eigenzinnig.'- de Volkskrant </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marlies Smeenge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opvoeden, het hoeft niet zo perfect]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446245887/opvoeden--het-hoeft-niet-zo-perfect-kina-smit</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446245887/opvoeden--het-hoeft-niet-zo-perfect-kina-smit"/>
+        <updated>2025-10-11T07:11:10.534Z</updated>
+        <summary type="html"><![CDATA[Ontspannen ouderschap in een hectische tijd]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446245887?aid=kb-online-bibliotheek&sid=17&dts=1760106759854&sig=a5f1514f4c86380bb890a9182eef86f3e0b601194062e063d30dd679c6ac2a98&width=320" alt="Omslag van 'Opvoeden, het hoeft niet zo perfect'" title="Omslag van 'Opvoeden, het hoeft niet zo perfect'">
+<p>Je kind heeft geen perfecte opvoeder nodig, maar gewoon jou. Voor elke ouder die het zo graag goed wil doen is dit hét boek dat geruststelt.</p><p></p><p> ‘Ben ik een slechte ouder als ik snak naar een weekend voor mezelf?’ ‘Hoe krijg ik mijn kind ooit nog los van dat scherm?’ ‘Ik heb tegen mijn kind geschreeuwd. Hoe erg is dat?’</p><p></p><p> Ouders willen hun kind alles geven: kansen, liefde, veiligheid, geluk en het liefst een vlekkeloze kindertijd. In haar opvoedpraktijk ziet orthopedagoog Kina Smit dagelijks hoe hoog de stress oploopt bij ouders én kinderen. Waarom denken ouders dat alles leuk moet zijn? En hoezo is opvoeden een project geworden dat moet slagen? Met meer dan twintig jaar ervaring als orthopedagoog en als moeder van twee doch¬ters weet zij het zeker: laat je niet gek maken door torenhoge verwachtingen! Het is juist gezond als ouders de controle meer loslaten en dingen níét vlekkeloos gaan. Bovendien is lastig gedrag van kinderen vaak een reactie op onze hectische tijd, vol prikkels en veranderingen.</p><p></p><p> Aan de hand van herkenbare voorbeelden uit haar praktijk geeft Kina Smit met humor en relativering antwoorden op de vragen die iedere moderne ouder herkent. Van schermgebruik en opstandig gedrag tot prestatiedruk. Ze laat zien hoe je een ontspannen ouder kunt zijn die kan loslaten én grip kan houden. Het hoeft niet zo perfect. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kina Smit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Witte Nachten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski"/>
+        <updated>2025-10-11T07:11:09.201Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209742?aid=kb-online-bibliotheek&sid=17&dts=1760109356399&sig=61135643b866502a568b93f266d3d2c7016beda2126011435fad0d66ab2b6469&width=320" alt="Omslag van 'Witte Nachten'" title="Omslag van 'Witte Nachten'">
+<p>Een jonge man loopt door Sint-Petersburg. Een stad waar de zon nooit helemaal ondergaat in de zomer. De man is eenzaam, verdwaald in zijn gedachten. Tot hij op een avond een meisje ontmoet, Nastenka. Zij voelt zich ook alleen. Net als hij zoekt ze naar geluk. Samen ze lopen vier nachten door de schemerende stad. Ze vertellen elkaar over hun leven. Hij wordt verliefd op haar. Maar Nastenka denkt aan een ander. Toch blijft de man bij haar, uit liefde. Tot de witte nachten voorbij zijn ... Witte Nachten is geschreven in 1848 door Fjodor Dostojevski, één van de bekendste Russische auteurs ooit. Frans van Duijn hertaalde het boek naar gewone taal. Zodat iedereen deze bijzondere klassieker kan lezen. Het is een verhaal over liefde en verdriet. Over alleen zijn, maar toch iemand vinden. Voor iedereen die zich ooit alleen voelde in een drukke wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Fjodor Dostojevski</name>
         </author>
     </entry>
 </feed>
