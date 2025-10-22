@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-10-21T07:14:28.556Z</updated>
+    <updated>2025-10-22T07:13:38.671Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -65,69 +65,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eindspel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455224013/eindspel-arttu-tuominen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455224013/eindspel-arttu-tuominen"/>
-        <updated>2025-10-19T07:11:55.014Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455224013?aid=kb-online-bibliotheek&sid=18&dts=1760784199595&sig=52e0a54d4a2dabeee78cd775da8dd690057e34dac17ace956b1975d15ff2e436&width=320" alt="Omslag van 'Eindspel'" title="Omslag van 'Eindspel'">
-<p>Deel 6 in de serie Rivierdelta. Henrik Oksman, Jari Paloviita en Linda Toivonen van de recherche-eenheid Pori, onderzoeken de zaak waarin een seriemoordenaar gezinnen vermoordt en de plaatst delict inricht als een toneelsetting. De doden worden in een zorgvuldig maar bizar tableau neergezet. De politie werkt in een race tegen de klok om de moordenaar te vinden. Dan ontdekken ze dat de seriemoordenaar voor elk van hen een rol in dit wrede drama voor ogen heeft… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De Burn-out Coach]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223769/de-burn-out-coach-iris-van-der-steen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223769/de-burn-out-coach-iris-van-der-steen"/>
+        <updated>2025-10-18T07:11:24.596Z</updated>
+        <summary type="html"><![CDATA[Journal voor minder stress en meer energie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223769?aid=kb-online-bibliotheek&sid=18&dts=1760697025394&sig=4a71b9e701b26cae30cc15d066430b2dd3e24608f6d6b80e112038827c472ecc&width=320" alt="Omslag van 'De Burn-out Coach'" title="Omslag van 'De Burn-out Coach'">
+<p>Wil jij grip krijgen op je burn-out en weer energie opbouwen? De Burn-out Coach van Iris van der Steen helpt je in 8 duidelijke stappen om beter om te gaan met stress, perfectionisme en sociale druk. Veel millennials ervaren faalangst en een constante prestatiedruk – een recept voor burn-outklachten. Psycholoog én ervaringsdeskundige Iris van der Steen deelt in dit journal praktische tools om je herstel te versnellen. In dit boek vind je: Echte praktijkvoorbeelden en ervaringsverhalen;Concrete tips om meer grip op je burn-out te krijgen;Effectieve oefeningen voor overzicht en rust;Ruimte om je eigen gedachten en voortgang bij te houden. Door een combinatie van psychologische kennis en persoonlijke inzichten biedt De Burn-out Coach een gestructureerde aanpak om weer in balans te komen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Arttu Tuominen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De overtocht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223734/de-overtocht-gerda-van-wageningen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223734/de-overtocht-gerda-van-wageningen"/>
-        <updated>2025-10-19T07:11:55.252Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223734?aid=kb-online-bibliotheek&sid=18&dts=1760780823799&sig=f12a24342d332c4890bf70a671c660775b3c9e5984cd6eb23767aed5c812c2af&width=320" alt="Omslag van 'De overtocht'" title="Omslag van 'De overtocht'">
-<p>Het is juli 1914, en de tweeëntwintigjarige Sara woont met haar zwager bij Thomas, die het café van zijn vader runt. Thomas heeft een oogje op haar, maar Sara heeft alleen aandacht voor de Belgische soldaat Jan. Ze heeft hem ontmoet op de veerboot van de Rotterdamse Tramweg Maatschappij, waar ze werkt als buffetjuffrouw. Ze spreken af brieven uit te wisselen. Doordat Jan aan het front vecht, blijft bij Sara altijd de angst dat er iets met hem zal gebeuren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Gerda van Wageningen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niet te filmen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223890/niet-te-filmen-anne-west</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223890/niet-te-filmen-anne-west"/>
-        <updated>2025-10-19T07:11:55.497Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223890?aid=kb-online-bibliotheek&sid=18&dts=1760781062497&sig=610d65fcb760b53b389b158f0b61c925026c726970562c29ec877e07d1d081c9&width=320" alt="Omslag van 'Niet te filmen'" title="Omslag van 'Niet te filmen'">
-<p>In 'Niet te filmen', deel 3 van de Boekencafé-serie van Anne West, volgen we de vroeger zo succesvolle actrice Abbey. Sinds er reuma bij haar is geconstateerd, helpt ze mee in het kleine theatertje naast het Boekencafé, zo ver mogelijk weg van de schijnwerpers. Ze weet niet goed hoe ze verder moet nu ze chronisch ziek is. Kan ze haar werk nog wel blijven doen? En wat betekent dit voor haar liefdesleven?  Ook uitgeefster Melanie verschuilt zich in het Boekencafé, op de vlucht voor haar eigen leven. Abbey en Melanie proberen elkaar zo goed mogelijk te steunen, maar het is buurman Jurre die hun levens op zijn kop zet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Anne West</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunlight]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223823/sunlight-devney-perry</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223823/sunlight-devney-perry"/>
-        <updated>2025-10-18T07:11:29.278Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223823?aid=kb-online-bibliotheek&sid=18&dts=1760706886600&sig=a1d304da299b7b675e1801f1f944e25ca4b30af412efaaa2f1828a612a541596&width=320" alt="Omslag van 'Sunlight'" title="Omslag van 'Sunlight'">
-<p>Op haar eerste dag in Montana raakt Sasha verwikkeld in een strijd om een winkelwagentje – en wordt ze gered door de knapste man die ze ooit heeft gezien. Jax Haven, charmant en onweerstaanbaar, vraagt haar meteen op date. Maar zodra ze ontdekt dat hij mede-eigenaar is van de Haven River Ranch, haar nieuwe werkplek, weigert ze resoluut. Sasha doet er alles aan om te negeren wat er tussen haar en Jax is voorgevallen, maar dat is makkelijker gezegd dan gedaan... Tijdens het kerstfeest op de ranch vervagen alle grenzen. Wat begint als een magische nacht, eindigt in een overwachte zwangerschap die alles verandert. 'Sunlight' is het tweede deel van Devney Perry's heerlijke cowboy romance-serie Haven River Ranch. Eerder verscheen in de serie 'Crossroads'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Devney Perry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het vuur tussen jou en mij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223882/het-vuur-tussen-jou-en-mij-brittainy-c--cherry</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223882/het-vuur-tussen-jou-en-mij-brittainy-c--cherry"/>
-        <updated>2025-10-18T07:11:27.874Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223882?aid=kb-online-bibliotheek&sid=18&dts=1760697312592&sig=fac849c1ebf4c14deee96091af950cd74b3dfa9b98a8aa7b4d73a3ea597851a3&width=320" alt="Omslag van 'Het vuur tussen jou en mij'" title="Omslag van 'Het vuur tussen jou en mij'">
-<p>Logan en Alyssa zijn complete tegenpolen. Zij is extravert, hij stil en gesloten. Hij zet alles op alles om de centen bij elkaar te schrapen, zij lijkt een mooie toekomst tegemoet te gaan. Maar dan ontstaat er tussen de twee een onverwachte vriendschap. Tot Logan plotseling uit Alyssa's leven verdwijnt. Eén overhaaste beslissing verandert alles. Of lijkt dat maar zo? De emotionele romances van Brittainy Cherry zijn een aanrader voor fans van Colleen Hoover en Rebecca Yarros. 'Het vuur tussen jou en mij' is het tweede deel van haar vierdelige Elements-serie. Eerder verscheen in de serie 'Het verleden van jou en mij'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Brittainy C. Cherry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melody]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223785/melody-virginia-andrews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223785/melody-virginia-andrews"/>
-        <updated>2025-10-18T07:11:30.797Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223785?aid=kb-online-bibliotheek&sid=18&dts=1760694407158&sig=9641221630e180916e274e5c3071c24b6530a4535637e0654197b0e827ea5e42&width=320" alt="Omslag van 'Melody'" title="Omslag van 'Melody'">
-<p>Melody Logan heeft altijd geweten dat haar moeder Haille ongelukkig was met haar leven in een klein dorp in de middle of nowhere. Maar dankzij de onvoorwaardelijke liefde van haar vader Chester voelde Melody zich altijd veilig – totdat een vreselijk ongeluk haar wereld in doet storten. Na de dood van haar vader dumpt haar moeder Melody bij haar oom en tante om zelf een carrière in Hollywood na te streven. Het is de eerste keer dat Melody haar strenggelovige oom Jacob, nerveuze tante Sara en haar neef en nichtje ontmoet. Voor Sara is ze een vervanging van haar overleden dochter – Melody slaapt in Laura's oude kamer en moet haar kleren dragen – maar Jacob ziet in haar de vleesgeworden zonde.  Melody bouwt al snel een band op met haar knappe neef Cary, wiens tweelingzus Laura is omgekomen bij een zeilongeluk, en de kleine May, die doof is. Dan onthult Cary de schokkende waarheid over Melody's ouders, en opnieuw stort haar wereld in – en dit keer is er niemand om haar op te vangen…</p><p>'Melody' is het eerste deel in de Melody-serie van Virginia Andrews, waarin drie generaties vrouwen in de familie Logan worden gevormd door een familiegeheim dat verstrekkende gevolgen heeft… Het verhaal van Melody en de familie Logan gaat verder in 'Lied van verlangen', 'Onvoltooide symfonie', 'Middernachtmuziek' en 'Verstilde stemmen'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Virginia Andrews</name>
+            <name>Iris van der Steen</name>
         </author>
     </entry>
     <entry>
@@ -142,14 +88,59 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Miss Merkel en de dode therapeut]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223661/miss-merkel-en-de-dode-therapeut-david-safier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223661/miss-merkel-en-de-dode-therapeut-david-safier"/>
-        <updated>2025-10-18T07:11:30.399Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223661?aid=kb-online-bibliotheek&sid=18&dts=1760698895286&sig=22c45863eb27e84d44f264f2f0222ae8f900b4e64fba140cd9cf9b602432fdbe&width=320" alt="Omslag van 'Miss Merkel en de dode therapeut'" title="Omslag van 'Miss Merkel en de dode therapeut'">
-<p>Deel 4 in de Miss Merkel-serie van David Safier. Met het afronden van haar autobiografie, moet Angela inzien dat niet alles in haar carrière gelukt is. Ze voelt zich terneergeslagen en zowel haar man als haar beste vriendin adviseren haar in therapie te gaan bij Dr. Fenstermacher, de psycholoog van haar woonplaats Klein-Freundenstadt. Tot haar ontzetting blijkt het te gaan om een groepstherapie met deelnemers van uiteenlopende pluimage. Wanneer vlak na de eerste sessie een dode te betreuren valt en Angela als een van de verdachten wordt aangemerkt, kruipt het bloed waar het niet gaan kan en start ze haar eigen onderzoek… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Eindspel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455224013/eindspel-arttu-tuominen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455224013/eindspel-arttu-tuominen"/>
+        <updated>2025-10-19T07:11:55.014Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455224013?aid=kb-online-bibliotheek&sid=18&dts=1760784199595&sig=52e0a54d4a2dabeee78cd775da8dd690057e34dac17ace956b1975d15ff2e436&width=320" alt="Omslag van 'Eindspel'" title="Omslag van 'Eindspel'">
+<p>Deel 6 in de serie Rivierdelta. Henrik Oksman, Jari Paloviita en Linda Toivonen van de recherche-eenheid Pori, onderzoeken de zaak waarin een seriemoordenaar gezinnen vermoordt en de plaatst delict inricht als een toneelsetting. De doden worden in een zorgvuldig maar bizar tableau neergezet. De politie werkt in een race tegen de klok om de moordenaar te vinden. Dan ontdekken ze dat de seriemoordenaar voor elk van hen een rol in dit wrede drama voor ogen heeft… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>David Safier</name>
+            <name>Arttu Tuominen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het vuur tussen jou en mij]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223882/het-vuur-tussen-jou-en-mij-brittainy-c--cherry</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223882/het-vuur-tussen-jou-en-mij-brittainy-c--cherry"/>
+        <updated>2025-10-18T07:11:27.874Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223882?aid=kb-online-bibliotheek&sid=18&dts=1760697312592&sig=fac849c1ebf4c14deee96091af950cd74b3dfa9b98a8aa7b4d73a3ea597851a3&width=320" alt="Omslag van 'Het vuur tussen jou en mij'" title="Omslag van 'Het vuur tussen jou en mij'">
+<p>Logan en Alyssa zijn complete tegenpolen. Zij is extravert, hij stil en gesloten. Hij zet alles op alles om de centen bij elkaar te schrapen, zij lijkt een mooie toekomst tegemoet te gaan. Maar dan ontstaat er tussen de twee een onverwachte vriendschap. Tot Logan plotseling uit Alyssa's leven verdwijnt. Eén overhaaste beslissing verandert alles. Of lijkt dat maar zo? De emotionele romances van Brittainy Cherry zijn een aanrader voor fans van Colleen Hoover en Rebecca Yarros. 'Het vuur tussen jou en mij' is het tweede deel van haar vierdelige Elements-serie. Eerder verscheen in de serie 'Het verleden van jou en mij'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Brittainy C. Cherry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niet te filmen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223890/niet-te-filmen-anne-west</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223890/niet-te-filmen-anne-west"/>
+        <updated>2025-10-19T07:11:55.497Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223890?aid=kb-online-bibliotheek&sid=18&dts=1760781062497&sig=610d65fcb760b53b389b158f0b61c925026c726970562c29ec877e07d1d081c9&width=320" alt="Omslag van 'Niet te filmen'" title="Omslag van 'Niet te filmen'">
+<p>In 'Niet te filmen', deel 3 van de Boekencafé-serie van Anne West, volgen we de vroeger zo succesvolle actrice Abbey. Sinds er reuma bij haar is geconstateerd, helpt ze mee in het kleine theatertje naast het Boekencafé, zo ver mogelijk weg van de schijnwerpers. Ze weet niet goed hoe ze verder moet nu ze chronisch ziek is. Kan ze haar werk nog wel blijven doen? En wat betekent dit voor haar liefdesleven?  Ook uitgeefster Melanie verschuilt zich in het Boekencafé, op de vlucht voor haar eigen leven. Abbey en Melanie proberen elkaar zo goed mogelijk te steunen, maar het is buurman Jurre die hun levens op zijn kop zet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Anne West</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Betoverd door begeerte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223688/betoverd-door-begeerte-danie-l-de-waele</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223688/betoverd-door-begeerte-danie-l-de-waele"/>
+        <updated>2025-10-20T07:14:21.280Z</updated>
+        <summary type="html"><![CDATA[Liefde en lust in de wereld van de Bijbel]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223688?aid=kb-online-bibliotheek&sid=18&dts=1760903292860&sig=fe2830c7c14abde364e6a09e45a94d4db0b1e2a626cb19615a4494e8c3cf5fff&width=320" alt="Omslag van 'Betoverd door begeerte'" title="Omslag van 'Betoverd door begeerte'">
+<p>‘Betoverd door begeerte’ van Daniël De Waele biedt een boeiende en onderbouwde kijk op de geschiedenis van seksuele normen en taboes. Van de oudheid tot de Bijbelse tijden: hoe dachten mensen vroeger over homoseksualiteit, voortplanting, prostitutie en seksueel grensoverschrijdend gedrag? De Waele laat zien dat verschillende seksuele geaardheden niet nieuw zijn, maar eeuwenoud. We krijgen antwoord op de vraag waarom christenen een moeizame relatie met seksualiteit ontwikkelden, en waarom de rabbijnen daarover een stuk positiever waren. Een must-read voor iedereen die geïnteresseerd is in de geschiedenis van seksualiteit, cultuur en religie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Daniël de Waele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een TikTok-challenge]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223904/een-tiktok-challenge-monica-haak</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223904/een-tiktok-challenge-monica-haak"/>
+        <updated>2025-10-18T07:11:27.675Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223904?aid=kb-online-bibliotheek&sid=18&dts=1760770897774&sig=0c84f9a766b332d87049aa3f0220ead701ab04b5f97dd2e3875d64bd54dd81ca&width=320" alt="Omslag van 'Een TikTok-challenge'" title="Omslag van 'Een TikTok-challenge'">
+<p>Op TikTok worden Noud en Noah steeds populairder. Met spannende challenges zoeken ze de grenzen op, en dragen ze hun volgers uit hen te imiteren. Maar elke uitdaging voert steeds een beetje verder, en de nieuwste challenge daagt hun volgers uit tot het randje. Noud heeft zijn twijfels, maar Noah zet door. Hoever willen ze gaan voor nog meer views? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Monica Haak</name>
         </author>
     </entry>
     <entry>
@@ -176,15 +167,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Burn-out Coach]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223769/de-burn-out-coach-iris-van-der-steen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223769/de-burn-out-coach-iris-van-der-steen"/>
-        <updated>2025-10-18T07:11:24.596Z</updated>
-        <summary type="html"><![CDATA[Journal voor minder stress en meer energie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223769?aid=kb-online-bibliotheek&sid=18&dts=1760697025394&sig=4a71b9e701b26cae30cc15d066430b2dd3e24608f6d6b80e112038827c472ecc&width=320" alt="Omslag van 'De Burn-out Coach'" title="Omslag van 'De Burn-out Coach'">
-<p>Wil jij grip krijgen op je burn-out en weer energie opbouwen? De Burn-out Coach van Iris van der Steen helpt je in 8 duidelijke stappen om beter om te gaan met stress, perfectionisme en sociale druk. Veel millennials ervaren faalangst en een constante prestatiedruk – een recept voor burn-outklachten. Psycholoog én ervaringsdeskundige Iris van der Steen deelt in dit journal praktische tools om je herstel te versnellen. In dit boek vind je: Echte praktijkvoorbeelden en ervaringsverhalen;Concrete tips om meer grip op je burn-out te krijgen;Effectieve oefeningen voor overzicht en rust;Ruimte om je eigen gedachten en voortgang bij te houden. Door een combinatie van psychologische kennis en persoonlijke inzichten biedt De Burn-out Coach een gestructureerde aanpak om weer in balans te komen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Miss Merkel en de dode therapeut]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223661/miss-merkel-en-de-dode-therapeut-david-safier</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223661/miss-merkel-en-de-dode-therapeut-david-safier"/>
+        <updated>2025-10-18T07:11:30.399Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223661?aid=kb-online-bibliotheek&sid=18&dts=1760698895286&sig=22c45863eb27e84d44f264f2f0222ae8f900b4e64fba140cd9cf9b602432fdbe&width=320" alt="Omslag van 'Miss Merkel en de dode therapeut'" title="Omslag van 'Miss Merkel en de dode therapeut'">
+<p>Deel 4 in de Miss Merkel-serie van David Safier. Met het afronden van haar autobiografie, moet Angela inzien dat niet alles in haar carrière gelukt is. Ze voelt zich terneergeslagen en zowel haar man als haar beste vriendin adviseren haar in therapie te gaan bij Dr. Fenstermacher, de psycholoog van haar woonplaats Klein-Freundenstadt. Tot haar ontzetting blijkt het te gaan om een groepstherapie met deelnemers van uiteenlopende pluimage. Wanneer vlak na de eerste sessie een dode te betreuren valt en Angela als een van de verdachten wordt aangemerkt, kruipt het bloed waar het niet gaan kan en start ze haar eigen onderzoek… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Iris van der Steen</name>
+            <name>David Safier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De huurder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223920/de-huurder-freida-mcfadden</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223920/de-huurder-freida-mcfadden"/>
+        <updated>2025-10-19T07:11:54.771Z</updated>
+        <summary type="html"><![CDATA[Er is geen plek zoals thuis...]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223920?aid=kb-online-bibliotheek&sid=18&dts=1760783538867&sig=aa00ffd0c1756831df0aaff2315667ef8178a590b3ff285437852e63f5548758&width=320" alt="Omslag van 'De huurder'" title="Omslag van 'De huurder'">
+<p>Blake Porter heeft het voor elkaar, totdat het ineens allemaal misgaat. Hij wordt plotseling ontslagen als vicepresident marketing en kan de hypotheek van het nieuwe huis dat hij deelt met zijn verloofde niet meer betalen. Hij is wanhopig op zoek naar een manier om rond te komen. Maar dan verschijnt Whitney ten tonele. Ze is mooi, charmant, nuchter en op zoek naar een kamer. Ze is precies wat Blake zoekt. Of toch niet? Want er is iets niet helemaal in de haak. De buren beginnen Blake anders te behandelen. Hoe hard hij ook schrobt, zijn huis ruikt naar verval. Vreemde geluiden houden hem 's nachts wakker. Al snel vreest Blake dat iemand zijn donkerste geheimen kent... Het gevaar schuilt in zijn eigen huis, en tegen de tijd dat Blake dat beseft, is het al veel te laat. De val is al gezet.  'Als je van bloedstollende spanning houdt, móét je de boeken van Freida McFadden lezen.' - Libelle</p><p>'Plot twist-queen Freida verdient echt een keer een kroon.' - Maura, De Elburger Boekhandel </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Freida McFadden</name>
         </author>
     </entry>
     <entry>
@@ -210,26 +212,47 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De huurder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223920/de-huurder-freida-mcfadden</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223920/de-huurder-freida-mcfadden"/>
-        <updated>2025-10-19T07:11:54.771Z</updated>
-        <summary type="html"><![CDATA[Er is geen plek zoals thuis...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223920?aid=kb-online-bibliotheek&sid=18&dts=1760783538867&sig=aa00ffd0c1756831df0aaff2315667ef8178a590b3ff285437852e63f5548758&width=320" alt="Omslag van 'De huurder'" title="Omslag van 'De huurder'">
-<p>Blake Porter heeft het voor elkaar, totdat het ineens allemaal misgaat. Hij wordt plotseling ontslagen als vicepresident marketing en kan de hypotheek van het nieuwe huis dat hij deelt met zijn verloofde niet meer betalen. Hij is wanhopig op zoek naar een manier om rond te komen. Maar dan verschijnt Whitney ten tonele. Ze is mooi, charmant, nuchter en op zoek naar een kamer. Ze is precies wat Blake zoekt. Of toch niet? Want er is iets niet helemaal in de haak. De buren beginnen Blake anders te behandelen. Hoe hard hij ook schrobt, zijn huis ruikt naar verval. Vreemde geluiden houden hem 's nachts wakker. Al snel vreest Blake dat iemand zijn donkerste geheimen kent... Het gevaar schuilt in zijn eigen huis, en tegen de tijd dat Blake dat beseft, is het al veel te laat. De val is al gezet.  'Als je van bloedstollende spanning houdt, móét je de boeken van Freida McFadden lezen.' - Libelle</p><p>'Plot twist-queen Freida verdient echt een keer een kroon.' - Maura, De Elburger Boekhandel </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Melody]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223785/melody-virginia-andrews</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223785/melody-virginia-andrews"/>
+        <updated>2025-10-18T07:11:30.797Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223785?aid=kb-online-bibliotheek&sid=18&dts=1760694407158&sig=9641221630e180916e274e5c3071c24b6530a4535637e0654197b0e827ea5e42&width=320" alt="Omslag van 'Melody'" title="Omslag van 'Melody'">
+<p>Melody Logan heeft altijd geweten dat haar moeder Haille ongelukkig was met haar leven in een klein dorp in de middle of nowhere. Maar dankzij de onvoorwaardelijke liefde van haar vader Chester voelde Melody zich altijd veilig – totdat een vreselijk ongeluk haar wereld in doet storten. Na de dood van haar vader dumpt haar moeder Melody bij haar oom en tante om zelf een carrière in Hollywood na te streven. Het is de eerste keer dat Melody haar strenggelovige oom Jacob, nerveuze tante Sara en haar neef en nichtje ontmoet. Voor Sara is ze een vervanging van haar overleden dochter – Melody slaapt in Laura's oude kamer en moet haar kleren dragen – maar Jacob ziet in haar de vleesgeworden zonde.  Melody bouwt al snel een band op met haar knappe neef Cary, wiens tweelingzus Laura is omgekomen bij een zeilongeluk, en de kleine May, die doof is. Dan onthult Cary de schokkende waarheid over Melody's ouders, en opnieuw stort haar wereld in – en dit keer is er niemand om haar op te vangen…</p><p>'Melody' is het eerste deel in de Melody-serie van Virginia Andrews, waarin drie generaties vrouwen in de familie Logan worden gevormd door een familiegeheim dat verstrekkende gevolgen heeft… Het verhaal van Melody en de familie Logan gaat verder in 'Lied van verlangen', 'Onvoltooide symfonie', 'Middernachtmuziek' en 'Verstilde stemmen'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Freida McFadden</name>
+            <name>Virginia Andrews</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een TikTok-challenge]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223904/een-tiktok-challenge-monica-haak</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223904/een-tiktok-challenge-monica-haak"/>
-        <updated>2025-10-18T07:11:27.675Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223904?aid=kb-online-bibliotheek&sid=18&dts=1760770897774&sig=0c84f9a766b332d87049aa3f0220ead701ab04b5f97dd2e3875d64bd54dd81ca&width=320" alt="Omslag van 'Een TikTok-challenge'" title="Omslag van 'Een TikTok-challenge'">
-<p>Op TikTok worden Noud en Noah steeds populairder. Met spannende challenges zoeken ze de grenzen op, en dragen ze hun volgers uit hen te imiteren. Maar elke uitdaging voert steeds een beetje verder, en de nieuwste challenge daagt hun volgers uit tot het randje. Noud heeft zijn twijfels, maar Noah zet door. Hoever willen ze gaan voor nog meer views? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een doodeng huis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223696/een-doodeng-huis-peter-james</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223696/een-doodeng-huis-peter-james"/>
+        <updated>2025-10-20T07:14:21.504Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223696?aid=kb-online-bibliotheek&sid=18&dts=1760874758134&sig=d1201780098a144f7cb3a0c1dc483358463b4c5d277954759acefdb1fa69dfb9&width=320" alt="Omslag van 'Een doodeng huis'" title="Omslag van 'Een doodeng huis'">
+<p>Deel 17,5 (een tussendeeltje) in de Roy Grace-serie van Peter James. Rechercheur Roy Grace heeft zin in een welverdiende vakantie in de Franse zon samen met Cleo Morley. Een week rust en ontspanning en even helemaal weg van de misdaden in Brighton. Maar wanneer de Franse gastvrouw hen verwelkomt en hun verblijf een griezelig kasteeltje blijkt te zijn, beginnen ze zich af te vragen of de vakantie wel zo zorgeloos zal zijn als ze zich hadden voorgesteld… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Monica Haak</name>
+            <name>Peter James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunlight]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223823/sunlight-devney-perry</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223823/sunlight-devney-perry"/>
+        <updated>2025-10-18T07:11:29.278Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223823?aid=kb-online-bibliotheek&sid=18&dts=1760706886600&sig=a1d304da299b7b675e1801f1f944e25ca4b30af412efaaa2f1828a612a541596&width=320" alt="Omslag van 'Sunlight'" title="Omslag van 'Sunlight'">
+<p>Op haar eerste dag in Montana raakt Sasha verwikkeld in een strijd om een winkelwagentje – en wordt ze gered door de knapste man die ze ooit heeft gezien. Jax Haven, charmant en onweerstaanbaar, vraagt haar meteen op date. Maar zodra ze ontdekt dat hij mede-eigenaar is van de Haven River Ranch, haar nieuwe werkplek, weigert ze resoluut. Sasha doet er alles aan om te negeren wat er tussen haar en Jax is voorgevallen, maar dat is makkelijker gezegd dan gedaan... Tijdens het kerstfeest op de ranch vervagen alle grenzen. Wat begint als een magische nacht, eindigt in een overwachte zwangerschap die alles verandert. 'Sunlight' is het tweede deel van Devney Perry's heerlijke cowboy romance-serie Haven River Ranch. Eerder verscheen in de serie 'Crossroads'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Devney Perry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De overtocht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223734/de-overtocht-gerda-van-wageningen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223734/de-overtocht-gerda-van-wageningen"/>
+        <updated>2025-10-19T07:11:55.252Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223734?aid=kb-online-bibliotheek&sid=18&dts=1760780823799&sig=f12a24342d332c4890bf70a671c660775b3c9e5984cd6eb23767aed5c812c2af&width=320" alt="Omslag van 'De overtocht'" title="Omslag van 'De overtocht'">
+<p>Het is juli 1914, en de tweeëntwintigjarige Sara woont met haar zwager bij Thomas, die het café van zijn vader runt. Thomas heeft een oogje op haar, maar Sara heeft alleen aandacht voor de Belgische soldaat Jan. Ze heeft hem ontmoet op de veerboot van de Rotterdamse Tramweg Maatschappij, waar ze werkt als buffetjuffrouw. Ze spreken af brieven uit te wisselen. Doordat Jan aan het front vecht, blijft bij Sara altijd de angst dat er iets met hem zal gebeuren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Gerda van Wageningen</name>
         </author>
     </entry>
     <entry>
@@ -245,26 +268,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Betoverd door begeerte]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223688/betoverd-door-begeerte-danie-l-de-waele</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223688/betoverd-door-begeerte-danie-l-de-waele"/>
-        <updated>2025-10-20T07:14:21.280Z</updated>
-        <summary type="html"><![CDATA[Liefde en lust in de wereld van de Bijbel]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223688?aid=kb-online-bibliotheek&sid=18&dts=1760903292860&sig=fe2830c7c14abde364e6a09e45a94d4db0b1e2a626cb19615a4494e8c3cf5fff&width=320" alt="Omslag van 'Betoverd door begeerte'" title="Omslag van 'Betoverd door begeerte'">
-<p>‘Betoverd door begeerte’ van Daniël De Waele biedt een boeiende en onderbouwde kijk op de geschiedenis van seksuele normen en taboes. Van de oudheid tot de Bijbelse tijden: hoe dachten mensen vroeger over homoseksualiteit, voortplanting, prostitutie en seksueel grensoverschrijdend gedrag? De Waele laat zien dat verschillende seksuele geaardheden niet nieuw zijn, maar eeuwenoud. We krijgen antwoord op de vraag waarom christenen een moeizame relatie met seksualiteit ontwikkelden, en waarom de rabbijnen daarover een stuk positiever waren. Een must-read voor iedereen die geïnteresseerd is in de geschiedenis van seksualiteit, cultuur en religie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Bloeitijd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223971/bloeitijd-ulrika-lagerlo-f</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223971/bloeitijd-ulrika-lagerlo-f"/>
+        <updated>2025-10-18T07:11:24.792Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223971?aid=kb-online-bibliotheek&sid=18&dts=1760694116920&sig=9cb9460021ba04a09a738ef74273ec2c8839d59589dc7a6768761ac6ba897498&width=320" alt="Omslag van 'Bloeitijd'" title="Omslag van 'Bloeitijd'">
+<p>1938. Siv moet de bossen intrekken om als kok te werken in een houthakkershut in Västerbotten. Diep in het woud en in de kou moet ze de hut schoonhouden en koken voor tien man. Wanneer ze rendierherder Nila tegenkomt, worden ze op slag verliefd… 2022. Eva werkt voor een bosbouwbedrijf en wordt naar Västerbotten, het gebied waar ze is opgegroeid, gestuurd om protesten tegen de houtkap de kop in te drukken. Terwijl het conflict escaleert tussen het bedrijf en de bewoners ontdekt ze steeds meer over haar familie, met name over haar oma Siv… Bloeitijd van Ulrika Lagerlöfis geïnspireerd op de familiegeschiedenis van Lagerlöf en is het eerste deel in een trilogie waarin de vrouwen en de Zweedse natuur centraal staan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Daniël de Waele</name>
+            <name>Ulrika Lagerlöf</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een doodeng huis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223696/een-doodeng-huis-peter-james</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223696/een-doodeng-huis-peter-james"/>
-        <updated>2025-10-20T07:14:21.504Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223696?aid=kb-online-bibliotheek&sid=18&dts=1760874758134&sig=d1201780098a144f7cb3a0c1dc483358463b4c5d277954759acefdb1fa69dfb9&width=320" alt="Omslag van 'Een doodeng huis'" title="Omslag van 'Een doodeng huis'">
-<p>Deel 17,5 (een tussendeeltje) in de Roy Grace-serie van Peter James. Rechercheur Roy Grace heeft zin in een welverdiende vakantie in de Franse zon samen met Cleo Morley. Een week rust en ontspanning en even helemaal weg van de misdaden in Brighton. Maar wanneer de Franse gastvrouw hen verwelkomt en hun verblijf een griezelig kasteeltje blijkt te zijn, beginnen ze zich af te vragen of de vakantie wel zo zorgeloos zal zijn als ze zich hadden voorgesteld… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Crossroads]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223955/crossroads-devney-perry</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223955/crossroads-devney-perry"/>
+        <updated>2025-10-18T07:11:29.473Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223955?aid=kb-online-bibliotheek&sid=18&dts=1760694544539&sig=87979d030517265ff80dc4dce54ede2b9710367e57f2ea4901664fa62d5abd8f&width=320" alt="Omslag van 'Crossroads'" title="Omslag van 'Crossroads'">
+<p>In 'Crossroads' brachten Indy en West hun zomers jarenlang samen door op de ranch van zijn familie. Hij was haar beste vriend én de jongen die haar hart stal. Maar toen Indy drieëntwintig was, dreef het leven hen uit elkaar. Jaren later is Indy terug. Niet als gast, maar als de nieuwe eigenaar van de ranch. West moet niets van haar hebben, maar ook hij weet dat Indy misschien wel de enige is die de ranch kan redden… Kunnen Indy en West hun pijnlijke verleden achter zich laten of zorgt de gedwongen samenwerking voor een definitief afscheid? De meeslepende cowboy-romance 'Crossroads' is het eerste deel in de Haven River Ranch-serie van bestsellerauteur Devney Perry. Voor alle lezers van Elsie Silver en Lyla Sage. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Peter James</name>
+            <name>Devney Perry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het onvergetelijke yes-project]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455223742/het-onvergetelijke-yes-project-courtney-walsh</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455223742/het-onvergetelijke-yes-project-courtney-walsh"/>
+        <updated>2025-10-18T07:11:28.285Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223742?aid=kb-online-bibliotheek&sid=18&dts=1760703914723&sig=27798f222e8faaba2671e66f688f1bb1db43f658ce685d8ba20d03ec0bf132f8&width=320" alt="Omslag van 'Het onvergetelijke yes-project'" title="Omslag van 'Het onvergetelijke yes-project'">
+<p>'Het onvergetelijke yes-project' van Courtney Walsh gaat over een jonge vrouw die na een onverwachte gebeurtenis besluit haar leven drastisch om te gooien, ja voor ja. Kelsey Worthington heeft haar leven op de rit. Ze is dan wel niet de auteur die ze hoopte te zijn en loopt dagelijks het vuur uit de sloffen voor een baas die haar niet ziet staan, maar ze is blij met haar stabiele inkomen. En haar stabiele leven.</p><p> Als ze na een bijna-doodervaring de succesvolle, maar doodzieke zakenvrouw Georgina ontmoet, beseft ze echter dat ze niet zo wil eindigen: vol spijt over alle dingen die ze had kúnnen doen. Daarom besluiten ze samen één zomer lang ja te zeggen tegen alle uitdagingen die hun pad kruisen. Een heerlijke feelgoodroman over liefde, vergeving, spijt en romantiek die begint met dat ene woordje: ja. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Courtney Walsh</name>
         </author>
     </entry>
     <entry>
@@ -315,35 +348,5 @@
         <author>
             <name>Meghan O'Rourke</name>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het onvergetelijke yes-project]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223742/het-onvergetelijke-yes-project-courtney-walsh</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223742/het-onvergetelijke-yes-project-courtney-walsh"/>
-        <updated>2025-10-18T07:11:28.285Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223742?aid=kb-online-bibliotheek&sid=18&dts=1760703914723&sig=27798f222e8faaba2671e66f688f1bb1db43f658ce685d8ba20d03ec0bf132f8&width=320" alt="Omslag van 'Het onvergetelijke yes-project'" title="Omslag van 'Het onvergetelijke yes-project'">
-<p>'Het onvergetelijke yes-project' van Courtney Walsh gaat over een jonge vrouw die na een onverwachte gebeurtenis besluit haar leven drastisch om te gooien, ja voor ja. Kelsey Worthington heeft haar leven op de rit. Ze is dan wel niet de auteur die ze hoopte te zijn en loopt dagelijks het vuur uit de sloffen voor een baas die haar niet ziet staan, maar ze is blij met haar stabiele inkomen. En haar stabiele leven.</p><p> Als ze na een bijna-doodervaring de succesvolle, maar doodzieke zakenvrouw Georgina ontmoet, beseft ze echter dat ze niet zo wil eindigen: vol spijt over alle dingen die ze had kúnnen doen. Daarom besluiten ze samen één zomer lang ja te zeggen tegen alle uitdagingen die hun pad kruisen. Een heerlijke feelgoodroman over liefde, vergeving, spijt en romantiek die begint met dat ene woordje: ja. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Courtney Walsh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloeitijd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223971/bloeitijd-ulrika-lagerlo-f</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223971/bloeitijd-ulrika-lagerlo-f"/>
-        <updated>2025-10-18T07:11:24.792Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223971?aid=kb-online-bibliotheek&sid=18&dts=1760694116920&sig=9cb9460021ba04a09a738ef74273ec2c8839d59589dc7a6768761ac6ba897498&width=320" alt="Omslag van 'Bloeitijd'" title="Omslag van 'Bloeitijd'">
-<p>1938. Siv moet de bossen intrekken om als kok te werken in een houthakkershut in Västerbotten. Diep in het woud en in de kou moet ze de hut schoonhouden en koken voor tien man. Wanneer ze rendierherder Nila tegenkomt, worden ze op slag verliefd… 2022. Eva werkt voor een bosbouwbedrijf en wordt naar Västerbotten, het gebied waar ze is opgegroeid, gestuurd om protesten tegen de houtkap de kop in te drukken. Terwijl het conflict escaleert tussen het bedrijf en de bewoners ontdekt ze steeds meer over haar familie, met name over haar oma Siv… Bloeitijd van Ulrika Lagerlöfis geïnspireerd op de familiegeschiedenis van Lagerlöf en is het eerste deel in een trilogie waarin de vrouwen en de Zweedse natuur centraal staan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ulrika Lagerlöf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slowaaks]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455223793/slowaaks--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455223793/slowaaks--"/>
-        <updated>2025-10-21T07:14:28.556Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455223793?aid=kb-online-bibliotheek&sid=18&dts=1760971618053&sig=3c04ebbea95fb207957930b4200eba95eb6e7a3199fd78f215829b60d849d6ec&width=320" alt="Omslag van 'Slowaaks'" title="Omslag van 'Slowaaks'">
-<p>Toeristische conversatiegids.</p>]]></content>
     </entry>
 </feed>
