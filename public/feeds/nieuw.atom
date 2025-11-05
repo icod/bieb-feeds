@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-11-04T07:13:58.814Z</updated>
+    <updated>2025-11-05T07:13:45.230Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -80,17 +80,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Senior op date]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455488576/senior-op-date-marlies-vaz-nunes</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455488576/senior-op-date-marlies-vaz-nunes"/>
-        <updated>2025-10-29T07:14:02.564Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455488576?aid=kb-online-bibliotheek&sid=18&dts=1761722042281&sig=b9aa9c77a28ca5b63c4161b70d6116dfeedc6ea6e7446a764a94e98669de57ac&width=320" alt="Omslag van 'Senior op date'" title="Omslag van 'Senior op date'">
-<p>Bas van Hamelen, 67, woont in een seniorencomplex en mist slechts één ding in zijn leven: een vriendin. Na aanmoediging van zijn nichtje Nienke maakt hij gebruik van een datingapp en datet hij met vrouwen van zijn leeftijd. Een van deze dates wordt zijn vriendin. Dit ontgaat de bewoners van het complex niet. Zijn oudere zus Heleen, de moeder van Nienke, heeft Alzheimer en woont op een gesloten afdeling in een verpleeghuis. Bas bezoekt haar iedere maandag. Dan wordt hij opnieuw verliefd... Marlies Vaz Nunes (1953) is jarenlang werkzaam geweest als bioloog in Griekenland, Schotland, Engeland en Duitsland en woont sinds 2004 weer in Amsterdam. Als tiener schreef ze verhalen tot school en de universiteit te veel tijd vergden. In de jaren 90 begon ze vanuit Engeland weer te schrijven. Intussen heeft ze meerdere boeken gepubliceerd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marlies Vaz Nunes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zwijgende stemmen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/45548855X/zwijgende-stemmen-marjet-maks</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/45548855X/zwijgende-stemmen-marjet-maks"/>
@@ -99,6 +88,17 @@
 <p>In het ogenschijnlijk rustige rivierdorp Zwaandijk heerst een beklemmende sfeer. De lokale partij ZvO (Zwaandijk voor Ons) regeert met harde hand en wie zich verzet wordt gestraft of buitengesloten. Tijdens de jaarlijkse kampeerpartij met klas 2b verdwijnt de dertienjarige stadse buitenstaander Maddy Meesters en al snel gonst het van de geruchten. Mira Mos schrikt ervan, want dertig jaar eerder werd zij tijdens hetzelfde uitje doelwit van een wraakactie die haar leven tekende. Herhaalt zich hetzelfde patroon en moet ze haar stilzwijgen doorbreken? Marjet Maks (1959) woont in Andalusië. Ze kookt, tuiniert, is creatief met naald en draad en ze schrijft. Van haar hand verschenen onder andere de historische roman 'De zucht van de Moor' en de familiegeschiedenis 'Naar het land van het lopend licht'. Daarnaast schrijft ze korte verhalen en columns over haar leven in een Spaans bergdorpje. 'Zwijgende stemmen' is haar tiende roman en haar vierde roman bij uitgeverij Ellessy. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marjet Maks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior op date]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455488576/senior-op-date-marlies-vaz-nunes</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455488576/senior-op-date-marlies-vaz-nunes"/>
+        <updated>2025-10-29T07:14:02.564Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455488576?aid=kb-online-bibliotheek&sid=18&dts=1761722042281&sig=b9aa9c77a28ca5b63c4161b70d6116dfeedc6ea6e7446a764a94e98669de57ac&width=320" alt="Omslag van 'Senior op date'" title="Omslag van 'Senior op date'">
+<p>Bas van Hamelen, 67, woont in een seniorencomplex en mist slechts één ding in zijn leven: een vriendin. Na aanmoediging van zijn nichtje Nienke maakt hij gebruik van een datingapp en datet hij met vrouwen van zijn leeftijd. Een van deze dates wordt zijn vriendin. Dit ontgaat de bewoners van het complex niet. Zijn oudere zus Heleen, de moeder van Nienke, heeft Alzheimer en woont op een gesloten afdeling in een verpleeghuis. Bas bezoekt haar iedere maandag. Dan wordt hij opnieuw verliefd... Marlies Vaz Nunes (1953) is jarenlang werkzaam geweest als bioloog in Griekenland, Schotland, Engeland en Duitsland en woont sinds 2004 weer in Amsterdam. Als tiener schreef ze verhalen tot school en de universiteit te veel tijd vergden. In de jaren 90 begon ze vanuit Engeland weer te schrijven. Intussen heeft ze meerdere boeken gepubliceerd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marlies Vaz Nunes</name>
         </author>
     </entry>
     <entry>
@@ -128,17 +128,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kerstflirt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455484643/kerstflirt-fabienne-swinkels</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455484643/kerstflirt-fabienne-swinkels"/>
-        <updated>2025-10-27T07:14:29.211Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484643?aid=kb-online-bibliotheek&sid=18&dts=1761487696839&sig=a530be599600028523bda224a48353dde1357462adc1d2aff763411b64fa44db&width=320" alt="Omslag van 'Kerstflirt'" title="Omslag van 'Kerstflirt'">
-<p>Voor Mirthe is de aanloop naar kerst allesbehalve gezellig. Gelukkig heeft ze al een halfjaar een relatie met Josh. Hij heeft het zijn missie gemaakt om haar weer van kerst te laten houden. Terwijl Mirthe langzaam weer openstaat voor de magie van december, duikt er een probleem op: Josh’ ex, die duidelijk nog niet klaar is om hem los te laten. Haar constante aandacht zet de relatie van Mirthe en Josh onder druk. Is hun relatie bestand tegen de opdringerige ex? En lukt het Josh om Mirthe weer van kerst te laten houden?</p><p></p><p> ‘Heerlijke, grappige en onwijs fijne feelgood.’ (***** Goodreads, Strandflirt)</p><p>‘Humor, hartverwarmende personages en sprankelende dialogen.’ (***** Goodreads, Fileflirt)</p><p>‘Fabienne Swinkels heeft een heerlijke vlotte en krachtige schrijfstijl met enorm leuke humor.’ (**** Goodreads, Vensterbankflirt) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Fabienne Swinkels</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The War of The Roses]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/455484627/the-war-of-the-roses-warren-adler</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/455484627/the-war-of-the-roses-warren-adler"/>
@@ -150,25 +139,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mijn sexy santa]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455484651/mijn-sexy-santa-eva-roberts</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455484651/mijn-sexy-santa-eva-roberts"/>
-        <updated>2025-10-27T07:14:22.682Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484651?aid=kb-online-bibliotheek&sid=18&dts=1761478949154&sig=c00f4f2802435075eb2aa038ea0dd2030f011dbd1cfb671fd1adc17acd3ba432&width=320" alt="Omslag van 'Mijn sexy santa'" title="Omslag van 'Mijn sexy santa'">
-<p>Alma gaat een saaie, eenzame Kerstmis tegemoet. Haar moeder zit in Benidorm en haar vrienden hebben verplichte nummers met hun ouders en schoonouders. Gelukkig is er één lichtpuntje: ze heeft een date met haar bouwvakker met benefits. Sexy aangekleed stapt ze in de auto, maar dan neemt het lot een wonderlijke wending en blijkt de ideale kerstman toch te bestaan. Voor de lezers van Abbi Glines en Vi Keeland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Gezwicht voor zijn gedicht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455484708/gezwicht-voor-zijn-gedicht-eveline-heijnen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455484708/gezwicht-voor-zijn-gedicht-eveline-heijnen"/>
+        <updated>2025-10-27T07:14:22.182Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484708?aid=kb-online-bibliotheek&sid=18&dts=1761487923831&sig=6412d053b9471669d1be219933ce0c85100f07f8d8b0a53dce82de4c2dcc11b6&width=320" alt="Omslag van 'Gezwicht voor zijn gedicht'" title="Omslag van 'Gezwicht voor zijn gedicht'">
+<p>Een heerlijke, hartverwarmende sinterklaasromcom. Hannah is allergisch voor types als Bram. Van die mannen die vol van zichzelf zijn, gevat reageren op alles wat je zegt en gemakkelijk denken te scoren. Bram raakt snel verveeld. Hij leeft volgens het principe 'één keer is genoeg', of het nu om hobby's of om vrouwen gaat. Met gemak windt hij elke vrouw om zijn vinger. Hij probeert het ook bij Hannah, maar zij… Zij is ongrijpbaar. Hannah en Bram zijn als water en vuur. Ze staan dan ook beiden niet te springen als ze worden uitgenodigd om pakjesavond bij hun gemeenschappelijke vrienden te vieren… Voor fans van Jenny Colgan en Sophie Kinsella. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Eva Roberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vroeg of laat]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45548466X/vroeg-of-laat-tina-van-dijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45548466X/vroeg-of-laat-tina-van-dijk"/>
-        <updated>2025-10-27T07:14:29.714Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45548466X?aid=kb-online-bibliotheek&sid=18&dts=1761549269312&sig=cb7e75930da9762f0854821cfa3b86187cddc9bf8438094f157b12066faaf167&width=320" alt="Omslag van 'Vroeg of laat'" title="Omslag van 'Vroeg of laat'">
-<p>Julia's hondenpension in Zeeburcht is een droom die uitkomt. Tenminste, meestal. Want hoewel ze haar uiterste best doet alle viervoeters en hun baasjes tevreden te houden, sijpelt er ook af en toe een klacht doorheen. Dat maakt haar onzeker. Daarnaast worstelt ze met haar liefde voor Sam. Ze houdt van hem, maar heeft soms het gevoel dat hij haar op afstand houdt. Als Sam vanwege een sterfgeval naar Amerika vertrekt en de knappe dorpsdierenarts haar vroegere jeugdvriend blijkt te zijn, komt ze in een emotionele rollercoaster terecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tina van Dijk</name>
+            <name>Eveline Heijnen</name>
         </author>
     </entry>
     <entry>
@@ -183,14 +161,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gezwicht voor zijn gedicht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455484708/gezwicht-voor-zijn-gedicht-eveline-heijnen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455484708/gezwicht-voor-zijn-gedicht-eveline-heijnen"/>
-        <updated>2025-10-27T07:14:22.182Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484708?aid=kb-online-bibliotheek&sid=18&dts=1761487923831&sig=6412d053b9471669d1be219933ce0c85100f07f8d8b0a53dce82de4c2dcc11b6&width=320" alt="Omslag van 'Gezwicht voor zijn gedicht'" title="Omslag van 'Gezwicht voor zijn gedicht'">
-<p>Een heerlijke, hartverwarmende sinterklaasromcom. Hannah is allergisch voor types als Bram. Van die mannen die vol van zichzelf zijn, gevat reageren op alles wat je zegt en gemakkelijk denken te scoren. Bram raakt snel verveeld. Hij leeft volgens het principe 'één keer is genoeg', of het nu om hobby's of om vrouwen gaat. Met gemak windt hij elke vrouw om zijn vinger. Hij probeert het ook bij Hannah, maar zij… Zij is ongrijpbaar. Hannah en Bram zijn als water en vuur. Ze staan dan ook beiden niet te springen als ze worden uitgenodigd om pakjesavond bij hun gemeenschappelijke vrienden te vieren… Voor fans van Jenny Colgan en Sophie Kinsella. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Kerstflirt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455484643/kerstflirt-fabienne-swinkels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455484643/kerstflirt-fabienne-swinkels"/>
+        <updated>2025-10-27T07:14:29.211Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484643?aid=kb-online-bibliotheek&sid=18&dts=1761487696839&sig=a530be599600028523bda224a48353dde1357462adc1d2aff763411b64fa44db&width=320" alt="Omslag van 'Kerstflirt'" title="Omslag van 'Kerstflirt'">
+<p>Voor Mirthe is de aanloop naar kerst allesbehalve gezellig. Gelukkig heeft ze al een halfjaar een relatie met Josh. Hij heeft het zijn missie gemaakt om haar weer van kerst te laten houden. Terwijl Mirthe langzaam weer openstaat voor de magie van december, duikt er een probleem op: Josh’ ex, die duidelijk nog niet klaar is om hem los te laten. Haar constante aandacht zet de relatie van Mirthe en Josh onder druk. Is hun relatie bestand tegen de opdringerige ex? En lukt het Josh om Mirthe weer van kerst te laten houden?</p><p></p><p> ‘Heerlijke, grappige en onwijs fijne feelgood.’ (***** Goodreads, Strandflirt)</p><p>‘Humor, hartverwarmende personages en sprankelende dialogen.’ (***** Goodreads, Fileflirt)</p><p>‘Fabienne Swinkels heeft een heerlijke vlotte en krachtige schrijfstijl met enorm leuke humor.’ (**** Goodreads, Vensterbankflirt) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Eveline Heijnen</name>
+            <name>Fabienne Swinkels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vroeg of laat]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45548466X/vroeg-of-laat-tina-van-dijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45548466X/vroeg-of-laat-tina-van-dijk"/>
+        <updated>2025-10-27T07:14:29.714Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45548466X?aid=kb-online-bibliotheek&sid=18&dts=1761549269312&sig=cb7e75930da9762f0854821cfa3b86187cddc9bf8438094f157b12066faaf167&width=320" alt="Omslag van 'Vroeg of laat'" title="Omslag van 'Vroeg of laat'">
+<p>Julia's hondenpension in Zeeburcht is een droom die uitkomt. Tenminste, meestal. Want hoewel ze haar uiterste best doet alle viervoeters en hun baasjes tevreden te houden, sijpelt er ook af en toe een klacht doorheen. Dat maakt haar onzeker. Daarnaast worstelt ze met haar liefde voor Sam. Ze houdt van hem, maar heeft soms het gevoel dat hij haar op afstand houdt. Als Sam vanwege een sterfgeval naar Amerika vertrekt en de knappe dorpsdierenarts haar vroegere jeugdvriend blijkt te zijn, komt ze in een emotionele rollercoaster terecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tina van Dijk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mijn sexy santa]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455484651/mijn-sexy-santa-eva-roberts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455484651/mijn-sexy-santa-eva-roberts"/>
+        <updated>2025-10-27T07:14:22.682Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484651?aid=kb-online-bibliotheek&sid=18&dts=1761478949154&sig=c00f4f2802435075eb2aa038ea0dd2030f011dbd1cfb671fd1adc17acd3ba432&width=320" alt="Omslag van 'Mijn sexy santa'" title="Omslag van 'Mijn sexy santa'">
+<p>Alma gaat een saaie, eenzame Kerstmis tegemoet. Haar moeder zit in Benidorm en haar vrienden hebben verplichte nummers met hun ouders en schoonouders. Gelukkig is er één lichtpuntje: ze heeft een date met haar bouwvakker met benefits. Sexy aangekleed stapt ze in de auto, maar dan neemt het lot een wonderlijke wending en blijkt de ideale kerstman toch te bestaan. Voor de lezers van Abbi Glines en Vi Keeland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Eva Roberts</name>
         </author>
     </entry>
     <entry>
@@ -239,18 +239,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een volstrekt nutteloos mens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394934490/een-volstrekt-nutteloos-mens-jori-stam</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394934490/een-volstrekt-nutteloos-mens-jori-stam"/>
-        <updated>2025-11-04T07:13:55.025Z</updated>
-        <summary type="html"><![CDATA[verhalen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394934490?aid=kb-online-bibliotheek&sid=18&dts=1762180968203&sig=95eee47c8ed753d47dc979a00ef5d0acc87df82ab96cc3e317b40d909fb85663&width=320" alt="Omslag van 'Een volstrekt nutteloos mens'" title="Omslag van 'Een volstrekt nutteloos mens'">
-<p>Bundel verhalen waarin de meeste personages mensenhaters zijn.</p>]]></content>
-        <author>
-            <name>Jori Stam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bonen!]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394954475/bonen--joke-boon</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394954475/bonen--joke-boon"/>
@@ -260,6 +248,18 @@
 <p>Nu steeds meer mensen op zoek zijn naar een milieuvriendelijk en gezond alternatief voor vlees, komt Joke Boon met de oplossing. Bonen, peulvruchten, erwten en linzen zijn eiwitrijk, duurzaam, goedkoop, en bovenal heel erg lekker. In Bonen! laat Joke overtuigend zien dat bonen en peulvruchten zo veelzijdig zijn dat je ze elke dag kunt eten. Met heldere, stapsgewijze instructies en gemakkelijk verkrijgbare ingrediënten is Bonen! Hét kookboek voor liefhebbers van bonen en peulvruchten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Joke Boon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een volstrekt nutteloos mens]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394934490/een-volstrekt-nutteloos-mens-jori-stam</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394934490/een-volstrekt-nutteloos-mens-jori-stam"/>
+        <updated>2025-11-04T07:13:55.025Z</updated>
+        <summary type="html"><![CDATA[verhalen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394934490?aid=kb-online-bibliotheek&sid=18&dts=1762180968203&sig=95eee47c8ed753d47dc979a00ef5d0acc87df82ab96cc3e317b40d909fb85663&width=320" alt="Omslag van 'Een volstrekt nutteloos mens'" title="Omslag van 'Een volstrekt nutteloos mens'">
+<p>Bundel verhalen waarin de meeste personages mensenhaters zijn.</p>]]></content>
+        <author>
+            <name>Jori Stam</name>
         </author>
     </entry>
     <entry>
@@ -298,18 +298,18 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het groene normaal]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/428546854/het-groene-normaal-alfred-slomp---jan-wolsheimer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/428546854/het-groene-normaal-alfred-slomp---jan-wolsheimer"/>
-        <updated>2025-11-04T07:13:56.824Z</updated>
-        <summary type="html"><![CDATA[samen opstaan voor een duurzaam leven]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A428546854?aid=kb-online-bibliotheek&sid=18&dts=1762196732804&sig=f18c1edf190cdab4a8e43e3ae074c3379ea4a97692902543e79c66690c343001&width=320" alt="Omslag van 'Het groene normaal'" title="Omslag van 'Het groene normaal'">
-<p>De coronacrisis raakt onze samenleving op een manier die we tot voor kort niet voor mogelijk hadden gehouden. Toch lijkt dit ook de tijd om stil te staan bij onze manier van leven en de plek die wij als christenen in de samenleving innemen. Want ligt er niet - ook voor christenen - een opdracht om groener en socialer uit deze crisis te komen? In 'Het Groene Normaal' gaat Alfred Slomp (initiatiefnemer 'God in de supermarkt', auteur 'SuperWaar') langs negen groene en inspirerende stemmen, die allen vanuit hun eigen perspectief en expertise pleidooi voeren om aan te haken bij de trend van duurzaam leven. Met het manifest 'Het groene normaal' als uitgangspunt, wijzen zij op het belang van bezinning op en vernieuwing van onze manier van leven, vanuit verwondering over de natuur om ons heen. Ook bieden ze praktische tips om het groene leven in de praktijk te brengen. In 'Het Groene Normaal' staan gesprekken met Rikko Voorberg, Theanne Boer, Carla Dik-Faber, Embert Messelink, Jan Wolsheimer, Reinier van den Berg, Annemarthe Westerbeek en Jan Huijgen. De bijlagen - twee bijbelstudies en een overzicht van de belangrijkste tips - maken het boek uitermate geschikt voor bespreking of om direct mee aan de slag te gaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Herkerken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/430161697/herkerken-remmelt-meijer---peter-wierenga</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/430161697/herkerken-remmelt-meijer---peter-wierenga"/>
+        <updated>2025-11-04T07:13:58.257Z</updated>
+        <summary type="html"><![CDATA[de toekomst van geloofsgemeenschappen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430161697?aid=kb-online-bibliotheek&sid=18&dts=1762240437849&sig=b0080a726015d4d5a541ed82df4fa06327a2c9e18194fc28aa1a6d401f6baf57&width=320" alt="Omslag van 'Herkerken'" title="Omslag van 'Herkerken'">
+<p>Al geruime tijd vinden er maatschappelijke ontwikkelingen en kantelingen plaats die ook het kerk-zijn beïnvloeden. De coronacrisis heeft deze veranderingen extra zichtbaar gemaakt en versterkt. Maar voelen kerken de urgentie? En is er bereidheid tot aanpassen van hun koers? In 'Herkerken' nemen Remmelt Meijer en Peter Wierenga de belangrijkste uitdagingen voor de kerk van vandaag onder de loep. Aan de hand van scherpe vragen, theologische doordenking en praktijkverhalen trekken de auteurs lijnen naar een toekomst waarin kerken in beweging blijven en op zoek gaan naar een bijbelse en duurzame vorm van kerk-zijn. 'Herkerken' is een hartstochtelijk pleidooi voor de kerk als oefenplaats van de liefde. De auteurs laten zien hoe een periode van crisis en verandering uiteindelijk kansen biedt om als kerk de toekomst hoopvol tegemoet te treden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Alfred Slomp</name>
+            <name>Remmelt Meijer</name>
         </author>
         <author>
-            <name>Jan Wolsheimer</name>
+            <name>Peter Wierenga</name>
         </author>
     </entry>
     <entry>
@@ -325,6 +325,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Het groene normaal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/428546854/het-groene-normaal-alfred-slomp---jan-wolsheimer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/428546854/het-groene-normaal-alfred-slomp---jan-wolsheimer"/>
+        <updated>2025-11-04T07:13:56.824Z</updated>
+        <summary type="html"><![CDATA[samen opstaan voor een duurzaam leven]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A428546854?aid=kb-online-bibliotheek&sid=18&dts=1762196732804&sig=f18c1edf190cdab4a8e43e3ae074c3379ea4a97692902543e79c66690c343001&width=320" alt="Omslag van 'Het groene normaal'" title="Omslag van 'Het groene normaal'">
+<p>De coronacrisis raakt onze samenleving op een manier die we tot voor kort niet voor mogelijk hadden gehouden. Toch lijkt dit ook de tijd om stil te staan bij onze manier van leven en de plek die wij als christenen in de samenleving innemen. Want ligt er niet - ook voor christenen - een opdracht om groener en socialer uit deze crisis te komen? In 'Het Groene Normaal' gaat Alfred Slomp (initiatiefnemer 'God in de supermarkt', auteur 'SuperWaar') langs negen groene en inspirerende stemmen, die allen vanuit hun eigen perspectief en expertise pleidooi voeren om aan te haken bij de trend van duurzaam leven. Met het manifest 'Het groene normaal' als uitgangspunt, wijzen zij op het belang van bezinning op en vernieuwing van onze manier van leven, vanuit verwondering over de natuur om ons heen. Ook bieden ze praktische tips om het groene leven in de praktijk te brengen. In 'Het Groene Normaal' staan gesprekken met Rikko Voorberg, Theanne Boer, Carla Dik-Faber, Embert Messelink, Jan Wolsheimer, Reinier van den Berg, Annemarthe Westerbeek en Jan Huijgen. De bijlagen - twee bijbelstudies en een overzicht van de belangrijkste tips - maken het boek uitermate geschikt voor bespreking of om direct mee aan de slag te gaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Alfred Slomp</name>
+        </author>
+        <author>
+            <name>Jan Wolsheimer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Goede gewoonten]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/427532736/goede-gewoonten-justin-whitmel-early</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/427532736/goede-gewoonten-justin-whitmel-early"/>
@@ -334,21 +349,6 @@
 <p>Gewoonten laten zien waar ons hart ligt. Ze vormen onze identiteit en daarmee ons hele leven. Ons leven is vaak een wirwar van onbewuste gewoonten, die ons tot drukke en soms angstige mensen kunnen maken. We verlangen naar de vrijheid en vrede van het evangelie, maar ondertussen zijn we verslaafd aan onze technologie, gebonden aan onze schermen en raken we uitgeput door onze routines. Wat kunnen we daaraan doen? Bewust gaan leven volgens gewoonten die overeenkomen met wat we geloven. 'Goede gewoonten' is een praktische leefregel met vier dagelijkse en vier wekelijkse gewoonten, die ons helpen nieuwe routines te creëren en ons drukke bestaan vol afleiding te transformeren in een leven van liefde voor God en onze naasten. Justin Whitmel Earley is advocaat en woont samen met zijn vrouw Lauren en hun vier zoons in Richmond (V.S.). Met 'Goede gewoonten' ('The Common Rule') won hij een Christianity Today 2020 Book Award. Kijk op www.goedegewoonten.nu voor praktische tips en downloads. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Justin Whitmel Early</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Herkerken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/430161697/herkerken-remmelt-meijer---peter-wierenga</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/430161697/herkerken-remmelt-meijer---peter-wierenga"/>
-        <updated>2025-11-04T07:13:58.257Z</updated>
-        <summary type="html"><![CDATA[de toekomst van geloofsgemeenschappen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430161697?aid=kb-online-bibliotheek&sid=18&dts=1762240437849&sig=b0080a726015d4d5a541ed82df4fa06327a2c9e18194fc28aa1a6d401f6baf57&width=320" alt="Omslag van 'Herkerken'" title="Omslag van 'Herkerken'">
-<p>Al geruime tijd vinden er maatschappelijke ontwikkelingen en kantelingen plaats die ook het kerk-zijn beïnvloeden. De coronacrisis heeft deze veranderingen extra zichtbaar gemaakt en versterkt. Maar voelen kerken de urgentie? En is er bereidheid tot aanpassen van hun koers? In 'Herkerken' nemen Remmelt Meijer en Peter Wierenga de belangrijkste uitdagingen voor de kerk van vandaag onder de loep. Aan de hand van scherpe vragen, theologische doordenking en praktijkverhalen trekken de auteurs lijnen naar een toekomst waarin kerken in beweging blijven en op zoek gaan naar een bijbelse en duurzame vorm van kerk-zijn. 'Herkerken' is een hartstochtelijk pleidooi voor de kerk als oefenplaats van de liefde. De auteurs laten zien hoe een periode van crisis en verandering uiteindelijk kansen biedt om als kerk de toekomst hoopvol tegemoet te treden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Remmelt Meijer</name>
-        </author>
-        <author>
-            <name>Peter Wierenga</name>
         </author>
     </entry>
     <entry>
