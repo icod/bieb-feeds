@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-11-07T07:13:30.869Z</updated>
+    <updated>2025-11-08T07:12:14.063Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -80,17 +80,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zwijgende stemmen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45548855X/zwijgende-stemmen-marjet-maks</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45548855X/zwijgende-stemmen-marjet-maks"/>
-        <updated>2025-10-29T07:14:02.160Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45548855X?aid=kb-online-bibliotheek&sid=18&dts=1761722039382&sig=0247f615a9fdf6c5f82a78a429b0eef7d6cae4d1e9f9afef255a359661dc2a09&width=320" alt="Omslag van 'Zwijgende stemmen'" title="Omslag van 'Zwijgende stemmen'">
-<p>In het ogenschijnlijk rustige rivierdorp Zwaandijk heerst een beklemmende sfeer. De lokale partij ZvO (Zwaandijk voor Ons) regeert met harde hand en wie zich verzet wordt gestraft of buitengesloten. Tijdens de jaarlijkse kampeerpartij met klas 2b verdwijnt de dertienjarige stadse buitenstaander Maddy Meesters en al snel gonst het van de geruchten. Mira Mos schrikt ervan, want dertig jaar eerder werd zij tijdens hetzelfde uitje doelwit van een wraakactie die haar leven tekende. Herhaalt zich hetzelfde patroon en moet ze haar stilzwijgen doorbreken? Marjet Maks (1959) woont in Andalusië. Ze kookt, tuiniert, is creatief met naald en draad en ze schrijft. Van haar hand verschenen onder andere de historische roman 'De zucht van de Moor' en de familiegeschiedenis 'Naar het land van het lopend licht'. Daarnaast schrijft ze korte verhalen en columns over haar leven in een Spaans bergdorpje. 'Zwijgende stemmen' is haar tiende roman en haar vierde roman bij uitgeverij Ellessy. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marjet Maks</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Senior op date]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/455488576/senior-op-date-marlies-vaz-nunes</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/455488576/senior-op-date-marlies-vaz-nunes"/>
@@ -99,6 +88,17 @@
 <p>Bas van Hamelen, 67, woont in een seniorencomplex en mist slechts één ding in zijn leven: een vriendin. Na aanmoediging van zijn nichtje Nienke maakt hij gebruik van een datingapp en datet hij met vrouwen van zijn leeftijd. Een van deze dates wordt zijn vriendin. Dit ontgaat de bewoners van het complex niet. Zijn oudere zus Heleen, de moeder van Nienke, heeft Alzheimer en woont op een gesloten afdeling in een verpleeghuis. Bas bezoekt haar iedere maandag. Dan wordt hij opnieuw verliefd... Marlies Vaz Nunes (1953) is jarenlang werkzaam geweest als bioloog in Griekenland, Schotland, Engeland en Duitsland en woont sinds 2004 weer in Amsterdam. Als tiener schreef ze verhalen tot school en de universiteit te veel tijd vergden. In de jaren 90 begon ze vanuit Engeland weer te schrijven. Intussen heeft ze meerdere boeken gepubliceerd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marlies Vaz Nunes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zwijgende stemmen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45548855X/zwijgende-stemmen-marjet-maks</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45548855X/zwijgende-stemmen-marjet-maks"/>
+        <updated>2025-10-29T07:14:02.160Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45548855X?aid=kb-online-bibliotheek&sid=18&dts=1761722039382&sig=0247f615a9fdf6c5f82a78a429b0eef7d6cae4d1e9f9afef255a359661dc2a09&width=320" alt="Omslag van 'Zwijgende stemmen'" title="Omslag van 'Zwijgende stemmen'">
+<p>In het ogenschijnlijk rustige rivierdorp Zwaandijk heerst een beklemmende sfeer. De lokale partij ZvO (Zwaandijk voor Ons) regeert met harde hand en wie zich verzet wordt gestraft of buitengesloten. Tijdens de jaarlijkse kampeerpartij met klas 2b verdwijnt de dertienjarige stadse buitenstaander Maddy Meesters en al snel gonst het van de geruchten. Mira Mos schrikt ervan, want dertig jaar eerder werd zij tijdens hetzelfde uitje doelwit van een wraakactie die haar leven tekende. Herhaalt zich hetzelfde patroon en moet ze haar stilzwijgen doorbreken? Marjet Maks (1959) woont in Andalusië. Ze kookt, tuiniert, is creatief met naald en draad en ze schrijft. Van haar hand verschenen onder andere de historische roman 'De zucht van de Moor' en de familiegeschiedenis 'Naar het land van het lopend licht'. Daarnaast schrijft ze korte verhalen en columns over haar leven in een Spaans bergdorpje. 'Zwijgende stemmen' is haar tiende roman en haar vierde roman bij uitgeverij Ellessy. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marjet Maks</name>
         </author>
     </entry>
     <entry>
@@ -116,48 +116,15 @@
         <title type="html"><![CDATA[De kerstmoord]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/443135460/de-kerstmoord-carrie---eddie</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/443135460/de-kerstmoord-carrie---eddie"/>
-        <updated>2025-10-28T07:13:44.003Z</updated>
+        <updated>2025-11-08T07:12:13.407Z</updated>
         <summary type="html"><![CDATA[En nog 13 spraakmakende Nederlandse moordzaken ontrafeld door de makers van Moordzaken, de podcast]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443135460?aid=kb-online-bibliotheek&sid=18&dts=1761579539136&sig=af0983d352c1494c1be6aa624511d63e4dea2aeb98d697eff0c16ce152d5d83f&width=320" alt="Omslag van 'De kerstmoord'" title="Omslag van 'De kerstmoord'">
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443135460?aid=kb-online-bibliotheek&sid=18&dts=1762524879484&sig=f5a55ee0d67cc79451745257730719ede6c3c926b4145120930f2f558bf22678&width=320" alt="Omslag van 'De kerstmoord'" title="Omslag van 'De kerstmoord'">
 <p>Als in 2010 in Bristol een vijfentwintigjarige landschapsarchitecte na een kerstborrel spoorloos blijkt, is heel Engeland dagenlang volledig in de ban van haar verdwijning. Op eerste kerstdag vindt een nietsvermoedende wandelaar haar lichaam onder een berg sneeuw. De klopjacht op de dader is de voorbode van een van de grootste Britse moordonderzoeken ooit, met een opmerkelijke Nederlandse twist.</p><p>Na het enorme succes van De pindakaasmoord en De campingmoord komen Carrie en Eddie nu met De kerstmoord. Het bekende podcastduo werpt zijn licht op veertien opgeloste moordzaken zoals de veelbesproken zaak-Ivana Smit en het Anjumer horrorpension, maar ook kleinere, niet minder tot de verbeelding sprekende dossiers zoals de moord in Sint Philipsland, de Drontener bosmoord en de beul van Twente.</p><p>'Deze podcast is zo goed omdat hij met respect gemaakt wordt. Fantastisch. Mijn tip: lees dit boek!' Carlo Boszhard </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Carrie</name>
         </author>
         <author>
             <name>Eddie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The War of The Roses]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455484627/the-war-of-the-roses-warren-adler</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455484627/the-war-of-the-roses-warren-adler"/>
-        <updated>2025-11-07T07:13:28.596Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484627?aid=kb-online-bibliotheek&sid=18&dts=1762442465109&sig=373eb5e435fec1f3bf2e549ca68834d66e839ef210ad0509e188d379b3a4d850&width=320" alt="Omslag van 'The War of The Roses'" title="Omslag van 'The War of The Roses'">
-<p>Jonathan en Barbara Rose zijn het perfecte stel. Ze leven hun droom: ze wonen met hun twee kinderen in een prachtig huis vol kostbaar antiek en er staat een Ferrari in de garage. Maar wanneer Jonathan een hartaanval krijgt (dat denkt hij althans), beseft Barbara dat ze niet meer van hem houdt; ze wil een nieuw leven, zónder hem. Er is één probleem: geen van beide wil het huis uit. Voor beiden is het niet zomaar een woning: het is hun passie, en dit doet scheiding escaleren tot een regelrecht slagveld, compleet met wapens en slachtoffers. In deze vlijmscherpe, zwarte komedie doen beide echtgenoten er alles aan om hun wederhelft te vernietigen – tot elke prijs...</p><p></p><p> ‘Angstaanjagend, zwartgallig, en heerlijk ongemakkelijk.’ – Gillian Flynn, New York Times-bestsellerauteur van Gone Girl</p><p>‘Hilarisch en beangstigend tegelijkertijd.’ - The Washington Post </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Warren Adler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gezwicht voor zijn gedicht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455484708/gezwicht-voor-zijn-gedicht-eveline-heijnen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455484708/gezwicht-voor-zijn-gedicht-eveline-heijnen"/>
-        <updated>2025-11-07T07:13:29.083Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484708?aid=kb-online-bibliotheek&sid=18&dts=1762499608709&sig=8053612aed1bbbec3aa7bafee74e8d8efc0003eef99565d27f2d504b7d25de72&width=320" alt="Omslag van 'Gezwicht voor zijn gedicht'" title="Omslag van 'Gezwicht voor zijn gedicht'">
-<p>Een heerlijke, hartverwarmende sinterklaasromcom. Hannah is allergisch voor types als Bram. Van die mannen die vol van zichzelf zijn, gevat reageren op alles wat je zegt en gemakkelijk denken te scoren. Bram raakt snel verveeld. Hij leeft volgens het principe 'één keer is genoeg', of het nu om hobby's of om vrouwen gaat. Met gemak windt hij elke vrouw om zijn vinger. Hij probeert het ook bij Hannah, maar zij… Zij is ongrijpbaar. Hannah en Bram zijn als water en vuur. Ze staan dan ook beiden niet te springen als ze worden uitgenodigd om pakjesavond bij hun gemeenschappelijke vrienden te vieren… Voor fans van Jenny Colgan en Sophie Kinsella. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Eveline Heijnen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hazelnootlattes onder de maretak]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/455484678/hazelnootlattes-onder-de-maretak-kelly-meulenberg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/455484678/hazelnootlattes-onder-de-maretak-kelly-meulenberg"/>
-        <updated>2025-11-07T07:13:29.553Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484678?aid=kb-online-bibliotheek&sid=18&dts=1762453241363&sig=a3ec2482aec4606dfcc3c33c141265fb9e4372dc1ad3933ead6d79eecef216e1&width=320" alt="Omslag van 'Hazelnootlattes onder de maretak'" title="Omslag van 'Hazelnootlattes onder de maretak'">
-<p>Het is bijna kerst en hoewel de straten vol sneeuw liggen, brengt boekverkoopster Hedwig dapper cadeautjes rond op de fiets. Wanneer ze in botsing komt met een maaltijdbezorgster, loopt ze een blessure op en komt de toekomst van de boekwinkel waar ze werkt op het spel te staan. Ondanks haar blessure moet Hedwig een manier vinden om de boekwinkel te redden. Toch blijft ze maar denken aan die knappe vrouw die haar van haar fiets reed… Voor fans van Sophie Kinsella, Susan Muskee en Denise Meijer. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kelly Meulenberg</name>
         </author>
     </entry>
     <entry>
@@ -172,14 +139,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vroeg of laat]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45548466X/vroeg-of-laat-tina-van-dijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45548466X/vroeg-of-laat-tina-van-dijk"/>
-        <updated>2025-11-07T07:13:30.437Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45548466X?aid=kb-online-bibliotheek&sid=18&dts=1762446538896&sig=63b051de55a0df0969dc8815d4d19dbfe1a8b23991d026a8bd07974cf29fabee&width=320" alt="Omslag van 'Vroeg of laat'" title="Omslag van 'Vroeg of laat'">
-<p>Julia's hondenpension in Zeeburcht is een droom die uitkomt. Tenminste, meestal. Want hoewel ze haar uiterste best doet alle viervoeters en hun baasjes tevreden te houden, sijpelt er ook af en toe een klacht doorheen. Dat maakt haar onzeker. Daarnaast worstelt ze met haar liefde voor Sam. Ze houdt van hem, maar heeft soms het gevoel dat hij haar op afstand houdt. Als Sam vanwege een sterfgeval naar Amerika vertrekt en de knappe dorpsdierenarts haar vroegere jeugdvriend blijkt te zijn, komt ze in een emotionele rollercoaster terecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[The War of The Roses]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455484627/the-war-of-the-roses-warren-adler</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455484627/the-war-of-the-roses-warren-adler"/>
+        <updated>2025-11-07T07:13:28.596Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484627?aid=kb-online-bibliotheek&sid=18&dts=1762442465109&sig=373eb5e435fec1f3bf2e549ca68834d66e839ef210ad0509e188d379b3a4d850&width=320" alt="Omslag van 'The War of The Roses'" title="Omslag van 'The War of The Roses'">
+<p>Jonathan en Barbara Rose zijn het perfecte stel. Ze leven hun droom: ze wonen met hun twee kinderen in een prachtig huis vol kostbaar antiek en er staat een Ferrari in de garage. Maar wanneer Jonathan een hartaanval krijgt (dat denkt hij althans), beseft Barbara dat ze niet meer van hem houdt; ze wil een nieuw leven, zónder hem. Er is één probleem: geen van beide wil het huis uit. Voor beiden is het niet zomaar een woning: het is hun passie, en dit doet scheiding escaleren tot een regelrecht slagveld, compleet met wapens en slachtoffers. In deze vlijmscherpe, zwarte komedie doen beide echtgenoten er alles aan om hun wederhelft te vernietigen – tot elke prijs...</p><p></p><p> ‘Angstaanjagend, zwartgallig, en heerlijk ongemakkelijk.’ – Gillian Flynn, New York Times-bestsellerauteur van Gone Girl</p><p>‘Hilarisch en beangstigend tegelijkertijd.’ - The Washington Post </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tina van Dijk</name>
+            <name>Warren Adler</name>
         </author>
     </entry>
     <entry>
@@ -191,6 +158,39 @@
 <p>Alma gaat een saaie, eenzame Kerstmis tegemoet. Haar moeder zit in Benidorm en haar vrienden hebben verplichte nummers met hun ouders en schoonouders. Gelukkig is er één lichtpuntje: ze heeft een date met haar bouwvakker met benefits. Sexy aangekleed stapt ze in de auto, maar dan neemt het lot een wonderlijke wending en blijkt de ideale kerstman toch te bestaan. Voor de lezers van Abbi Glines en Vi Keeland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Eva Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vroeg of laat]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45548466X/vroeg-of-laat-tina-van-dijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45548466X/vroeg-of-laat-tina-van-dijk"/>
+        <updated>2025-11-07T07:13:30.437Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45548466X?aid=kb-online-bibliotheek&sid=18&dts=1762446538896&sig=63b051de55a0df0969dc8815d4d19dbfe1a8b23991d026a8bd07974cf29fabee&width=320" alt="Omslag van 'Vroeg of laat'" title="Omslag van 'Vroeg of laat'">
+<p>Julia's hondenpension in Zeeburcht is een droom die uitkomt. Tenminste, meestal. Want hoewel ze haar uiterste best doet alle viervoeters en hun baasjes tevreden te houden, sijpelt er ook af en toe een klacht doorheen. Dat maakt haar onzeker. Daarnaast worstelt ze met haar liefde voor Sam. Ze houdt van hem, maar heeft soms het gevoel dat hij haar op afstand houdt. Als Sam vanwege een sterfgeval naar Amerika vertrekt en de knappe dorpsdierenarts haar vroegere jeugdvriend blijkt te zijn, komt ze in een emotionele rollercoaster terecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tina van Dijk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hazelnootlattes onder de maretak]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455484678/hazelnootlattes-onder-de-maretak-kelly-meulenberg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455484678/hazelnootlattes-onder-de-maretak-kelly-meulenberg"/>
+        <updated>2025-11-07T07:13:29.553Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484678?aid=kb-online-bibliotheek&sid=18&dts=1762453241363&sig=a3ec2482aec4606dfcc3c33c141265fb9e4372dc1ad3933ead6d79eecef216e1&width=320" alt="Omslag van 'Hazelnootlattes onder de maretak'" title="Omslag van 'Hazelnootlattes onder de maretak'">
+<p>Het is bijna kerst en hoewel de straten vol sneeuw liggen, brengt boekverkoopster Hedwig dapper cadeautjes rond op de fiets. Wanneer ze in botsing komt met een maaltijdbezorgster, loopt ze een blessure op en komt de toekomst van de boekwinkel waar ze werkt op het spel te staan. Ondanks haar blessure moet Hedwig een manier vinden om de boekwinkel te redden. Toch blijft ze maar denken aan die knappe vrouw die haar van haar fiets reed… Voor fans van Sophie Kinsella, Susan Muskee en Denise Meijer. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kelly Meulenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gezwicht voor zijn gedicht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/455484708/gezwicht-voor-zijn-gedicht-eveline-heijnen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/455484708/gezwicht-voor-zijn-gedicht-eveline-heijnen"/>
+        <updated>2025-11-07T07:13:29.083Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A455484708?aid=kb-online-bibliotheek&sid=18&dts=1762499608709&sig=8053612aed1bbbec3aa7bafee74e8d8efc0003eef99565d27f2d504b7d25de72&width=320" alt="Omslag van 'Gezwicht voor zijn gedicht'" title="Omslag van 'Gezwicht voor zijn gedicht'">
+<p>Een heerlijke, hartverwarmende sinterklaasromcom. Hannah is allergisch voor types als Bram. Van die mannen die vol van zichzelf zijn, gevat reageren op alles wat je zegt en gemakkelijk denken te scoren. Bram raakt snel verveeld. Hij leeft volgens het principe 'één keer is genoeg', of het nu om hobby's of om vrouwen gaat. Met gemak windt hij elke vrouw om zijn vinger. Hij probeert het ook bij Hannah, maar zij… Zij is ongrijpbaar. Hannah en Bram zijn als water en vuur. Ze staan dan ook beiden niet te springen als ze worden uitgenodigd om pakjesavond bij hun gemeenschappelijke vrienden te vieren… Voor fans van Jenny Colgan en Sophie Kinsella. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Eveline Heijnen</name>
         </author>
     </entry>
     <entry>
@@ -209,8 +209,8 @@
         <title type="html"><![CDATA[De reis naar huis]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444196684/de-reis-naar-huis-pat-barker</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444196684/de-reis-naar-huis-pat-barker"/>
-        <updated>2025-10-28T07:13:44.206Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444196684?aid=kb-online-bibliotheek&sid=18&dts=1761578618132&sig=760795c493f4495a41fa2538aa2cb359445558fbad02ab21c891f4b0339ecd31&width=320" alt="Omslag van 'De reis naar huis'" title="Omslag van 'De reis naar huis'">
+        <updated>2025-11-08T07:12:13.740Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444196684?aid=kb-online-bibliotheek&sid=18&dts=1762523077391&sig=704469f1689a62d638ab0b5cd4f21d85efaa9b4dd8a127ef9289e6a371a09e1c&width=320" alt="Omslag van 'De reis naar huis'" title="Omslag van 'De reis naar huis'">
 <p>Na tien bloedige jaren is de oorlog voorbij. Troje is vernietigd en de Grieken keren naar huis, met hun schepen vol oorlogsbuit en gevangengenomen vrouwen, onder wie de legendarische ziener Cassandra en haar bediende Ritsa. Cassandra was slavin en is nu de concubine - oorlogsbruid - van Agamemnon. Ze wordt geplaagd door visioenen van zijn dood en die van haarzelf. Ritsa is tegen wil en dank getuige van zowel Cassandra's hysterie als de verschrikkingen die hun worden aangedaan.</p><p>Ondertussen is koningin Clytemnestra, Agamemnons wraakzuchtige echtgenote, in afwachting van de terugkeer van de vloot. Ze is ontroostbaar vanwege de dood van haar oudste dochter, die door haar man aan de goden is geofferd voor een gunstige wind naar Troje. Geplaagd door geestverschijningen en visioenen heeft ze al die jaren gebroed op vergelding. Beide vrouwen hebben hetzelfde visioen over de dood van Agamemnon. Zijn langverwachte thuiskomst zal het lot van iedereen veranderen.</p><p>Met De reis naar huis vervolmaakt Pat Barker op majestueuze wijze haar trilogie over de mythologische vrouwen van Troje.</p><p>'De combinatie van een moreel kompas, een ijzersterk verhaal en een heldere blik op de wereldgeschiedenis, dat is Pat Barker.' - The Guardian</p><p>‘Spannend vanaf het begin.’ – Mezza AD</p><p>'Barker is de koningin van de literaire historische fictie en een onverschrokken gids voor een reis door antiek Griekenland.' - National Geographic</p><p>‘Na het lezen van Barker’s grandioze hervertelling voelt de dood van al die personages uit de wereldliteratuur aan als een persoonlijk verlies.’ - EW magazine</p><p>‘Het voelt dat als je het boek dichtsluit, alsof je een persoonlijk verlies geleden hebt, alsof je dit nog nooit gelezen hebt’. - Jeroen Vullings op NPOradio 1</p><p>‘Het is niet alleen maar afstoffen van die bekende verhalen, maar het is het totale vitaliseren op een bepaalde manier’.- Jeroen Vullings op NPOradio 1 </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Pat Barker</name>
@@ -220,8 +220,8 @@
         <title type="html"><![CDATA[De wereld volgens Noord-Korea]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/446245755/de-wereld-volgens-noord-korea-remco-breuker</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/446245755/de-wereld-volgens-noord-korea-remco-breuker"/>
-        <updated>2025-10-28T07:13:44.397Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446245755?aid=kb-online-bibliotheek&sid=18&dts=1761580702160&sig=e0be67c3eacdc205d18584e10a24b8de6fff720376a811f9a9e186810a94ae40&width=320" alt="Omslag van 'De wereld volgens Noord-Korea'" title="Omslag van 'De wereld volgens Noord-Korea'">
+        <updated>2025-11-08T07:12:14.062Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446245755?aid=kb-online-bibliotheek&sid=18&dts=1762530569595&sig=d475b648beaa1ebee24314559978e6f53739d0ef914b9916fc3827312026a4ed&width=320" alt="Omslag van 'De wereld volgens Noord-Korea'" title="Omslag van 'De wereld volgens Noord-Korea'">
 <p>Het nieuws dat Noord-Koreaanse militairen aan Russische zijde vochten in Oekraïne kwam in 2024 voor velen als een verrassing. Noord-Korea is toch die in zichzelf gekeerde dictatuur waar op grote schaal mensenrechten worden geschonden? Maar het land blijkt juist ook in het buitenland grote ambities te hebben en zijn greep op de wereld te willen versterken.</p><p>Noord-Koreakenner Remco Breuker legt uit hoe dat zit. Waaruit bestaat nu precies de connectie met Poetin? Waarom is het land zo actief in zuidelijk Afrika? En wat zijn de banden met bewegingen en landen in het Midden-Oosten?</p><p></p><p> Terwijl de wereldorde op haar grondvesten schudt, staat Noord-Korea aan de vooravond van wellicht zijn grootste bloeiperiode sinds de Koreaoorlog in de jaren vijftig.</p><p></p><p> Over De B.V. Noord-Korea: ???? ‘Fascinerende analyse van Noord-Korea als totalitaire gangsterstaat.’ – de Volkskrant</p><p>???? ‘In De B.V. Noord-Korea gaat Remco Breuker de diepte in. De bekendste Korea-expert van Nederland belicht op unieke wijze het verdienmodel van het Noord-Koreaanse regime.’ – NRC</p><p>‘’Breuker zet op een interessante manier uiteen welke banden het land allemaal heeft in het buitenland." – Omroep Flevoland, redacteur Marije de Bie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Remco Breuker</name>
@@ -239,18 +239,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bonen!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394954475/bonen--joke-boon</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394954475/bonen--joke-boon"/>
-        <updated>2025-11-04T07:13:55.250Z</updated>
-        <summary type="html"><![CDATA[elke maand 12 verrassende recepten met bonen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394954475?aid=kb-online-bibliotheek&sid=18&dts=1762188761570&sig=f6b3942eead1b018a56c13c829901df8df2b0c9c8e18e41e8abbef76c18012b0&width=320" alt="Omslag van 'Bonen!'" title="Omslag van 'Bonen!'">
-<p>Nu steeds meer mensen op zoek zijn naar een milieuvriendelijk en gezond alternatief voor vlees, komt Joke Boon met de oplossing. Bonen, peulvruchten, erwten en linzen zijn eiwitrijk, duurzaam, goedkoop, en bovenal heel erg lekker. In Bonen! laat Joke overtuigend zien dat bonen en peulvruchten zo veelzijdig zijn dat je ze elke dag kunt eten. Met heldere, stapsgewijze instructies en gemakkelijk verkrijgbare ingrediënten is Bonen! Hét kookboek voor liefhebbers van bonen en peulvruchten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Joke Boon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Een volstrekt nutteloos mens]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394934490/een-volstrekt-nutteloos-mens-jori-stam</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394934490/een-volstrekt-nutteloos-mens-jori-stam"/>
@@ -260,6 +248,18 @@
 <p>Bundel verhalen waarin de meeste personages mensenhaters zijn.</p>]]></content>
         <author>
             <name>Jori Stam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bonen!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394954475/bonen--joke-boon</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394954475/bonen--joke-boon"/>
+        <updated>2025-11-04T07:13:55.250Z</updated>
+        <summary type="html"><![CDATA[elke maand 12 verrassende recepten met bonen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394954475?aid=kb-online-bibliotheek&sid=18&dts=1762188761570&sig=f6b3942eead1b018a56c13c829901df8df2b0c9c8e18e41e8abbef76c18012b0&width=320" alt="Omslag van 'Bonen!'" title="Omslag van 'Bonen!'">
+<p>Nu steeds meer mensen op zoek zijn naar een milieuvriendelijk en gezond alternatief voor vlees, komt Joke Boon met de oplossing. Bonen, peulvruchten, erwten en linzen zijn eiwitrijk, duurzaam, goedkoop, en bovenal heel erg lekker. In Bonen! laat Joke overtuigend zien dat bonen en peulvruchten zo veelzijdig zijn dat je ze elke dag kunt eten. Met heldere, stapsgewijze instructies en gemakkelijk verkrijgbare ingrediënten is Bonen! Hét kookboek voor liefhebbers van bonen en peulvruchten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Joke Boon</name>
         </author>
     </entry>
     <entry>
@@ -298,33 +298,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Herkerken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/430161697/herkerken-remmelt-meijer---peter-wierenga</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/430161697/herkerken-remmelt-meijer---peter-wierenga"/>
-        <updated>2025-11-04T07:13:58.257Z</updated>
-        <summary type="html"><![CDATA[de toekomst van geloofsgemeenschappen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430161697?aid=kb-online-bibliotheek&sid=18&dts=1762240437849&sig=b0080a726015d4d5a541ed82df4fa06327a2c9e18194fc28aa1a6d401f6baf57&width=320" alt="Omslag van 'Herkerken'" title="Omslag van 'Herkerken'">
-<p>Al geruime tijd vinden er maatschappelijke ontwikkelingen en kantelingen plaats die ook het kerk-zijn beïnvloeden. De coronacrisis heeft deze veranderingen extra zichtbaar gemaakt en versterkt. Maar voelen kerken de urgentie? En is er bereidheid tot aanpassen van hun koers? In 'Herkerken' nemen Remmelt Meijer en Peter Wierenga de belangrijkste uitdagingen voor de kerk van vandaag onder de loep. Aan de hand van scherpe vragen, theologische doordenking en praktijkverhalen trekken de auteurs lijnen naar een toekomst waarin kerken in beweging blijven en op zoek gaan naar een bijbelse en duurzame vorm van kerk-zijn. 'Herkerken' is een hartstochtelijk pleidooi voor de kerk als oefenplaats van de liefde. De auteurs laten zien hoe een periode van crisis en verandering uiteindelijk kansen biedt om als kerk de toekomst hoopvol tegemoet te treden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Remmelt Meijer</name>
-        </author>
-        <author>
-            <name>Peter Wierenga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schrijverig]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/430083645/schrijverig-kelly-meulenberg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/430083645/schrijverig-kelly-meulenberg"/>
-        <updated>2025-11-04T07:13:57.355Z</updated>
-        <summary type="html"><![CDATA[het inspiratieboek voor beginnende schrijvers]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430083645?aid=kb-online-bibliotheek&sid=18&dts=1762191849890&sig=69cbdc1831b10bd91da26dcacd7b9617e6644a8d357c4d8ec245a9f74e6b4c46&width=320" alt="Omslag van 'Schrijverig'" title="Omslag van 'Schrijverig'">
-<p>Schrijven leer je door te doen! Of je nou een kort verhaal, roman, blog of iets anders wilt schrijven. Om je te helpen de woorden op papier te krijgen, deelt schrijfcoach Kelly Meulenberg haar ervaringen en favoriete schrijfoefeningen. Zodat je begint met schrijven en lekker door blijft gaan. Met de tips en oefeningen in dit boek: * Leer je tijd vrij maken en doelen stellen * Ontdek je jouw inspiratiebronnen * Laat je de angst los om niet origineel of niet goed genoeg te zijn * Krijg je tientallen ideeën voor verhalen en/of andere creatieve teksten * Schrijf je zinnen die verrassen, ontroeren, vermaken... wat je maar wilt! Na het lezen van dit boek - en heel veel schrijven natuurlijk - heb je duizenden woorden waar je trots op bent én weet je beter wat je wilt bereiken op schrijfgebied. Niets staat je in de weg om meer en beter te schrijven. In 2013 haalde Kelly Meulenberg (1990) haar master in Creative Writing en begon ze als schrijfcoach. Ze is je stok achter de deur, helpt je in te zien wat je sterke punten zijn en leert je nieuwe technieken. Met haar coaching, workshops en cursussen heeft ze al honderden beginnende en ervaren schrijvers geholpen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kelly Meulenberg</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Het groene normaal]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/428546854/het-groene-normaal-alfred-slomp---jan-wolsheimer</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/428546854/het-groene-normaal-alfred-slomp---jan-wolsheimer"/>
@@ -340,6 +313,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Schrijverig]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/430083645/schrijverig-kelly-meulenberg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/430083645/schrijverig-kelly-meulenberg"/>
+        <updated>2025-11-04T07:13:57.355Z</updated>
+        <summary type="html"><![CDATA[het inspiratieboek voor beginnende schrijvers]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430083645?aid=kb-online-bibliotheek&sid=18&dts=1762191849890&sig=69cbdc1831b10bd91da26dcacd7b9617e6644a8d357c4d8ec245a9f74e6b4c46&width=320" alt="Omslag van 'Schrijverig'" title="Omslag van 'Schrijverig'">
+<p>Schrijven leer je door te doen! Of je nou een kort verhaal, roman, blog of iets anders wilt schrijven. Om je te helpen de woorden op papier te krijgen, deelt schrijfcoach Kelly Meulenberg haar ervaringen en favoriete schrijfoefeningen. Zodat je begint met schrijven en lekker door blijft gaan. Met de tips en oefeningen in dit boek: * Leer je tijd vrij maken en doelen stellen * Ontdek je jouw inspiratiebronnen * Laat je de angst los om niet origineel of niet goed genoeg te zijn * Krijg je tientallen ideeën voor verhalen en/of andere creatieve teksten * Schrijf je zinnen die verrassen, ontroeren, vermaken... wat je maar wilt! Na het lezen van dit boek - en heel veel schrijven natuurlijk - heb je duizenden woorden waar je trots op bent én weet je beter wat je wilt bereiken op schrijfgebied. Niets staat je in de weg om meer en beter te schrijven. In 2013 haalde Kelly Meulenberg (1990) haar master in Creative Writing en begon ze als schrijfcoach. Ze is je stok achter de deur, helpt je in te zien wat je sterke punten zijn en leert je nieuwe technieken. Met haar coaching, workshops en cursussen heeft ze al honderden beginnende en ervaren schrijvers geholpen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kelly Meulenberg</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Goede gewoonten]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/427532736/goede-gewoonten-justin-whitmel-early</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/427532736/goede-gewoonten-justin-whitmel-early"/>
@@ -349,6 +334,21 @@
 <p>Gewoonten laten zien waar ons hart ligt. Ze vormen onze identiteit en daarmee ons hele leven. Ons leven is vaak een wirwar van onbewuste gewoonten, die ons tot drukke en soms angstige mensen kunnen maken. We verlangen naar de vrijheid en vrede van het evangelie, maar ondertussen zijn we verslaafd aan onze technologie, gebonden aan onze schermen en raken we uitgeput door onze routines. Wat kunnen we daaraan doen? Bewust gaan leven volgens gewoonten die overeenkomen met wat we geloven. 'Goede gewoonten' is een praktische leefregel met vier dagelijkse en vier wekelijkse gewoonten, die ons helpen nieuwe routines te creëren en ons drukke bestaan vol afleiding te transformeren in een leven van liefde voor God en onze naasten. Justin Whitmel Earley is advocaat en woont samen met zijn vrouw Lauren en hun vier zoons in Richmond (V.S.). Met 'Goede gewoonten' ('The Common Rule') won hij een Christianity Today 2020 Book Award. Kijk op www.goedegewoonten.nu voor praktische tips en downloads. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Justin Whitmel Early</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herkerken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/430161697/herkerken-remmelt-meijer---peter-wierenga</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/430161697/herkerken-remmelt-meijer---peter-wierenga"/>
+        <updated>2025-11-04T07:13:58.257Z</updated>
+        <summary type="html"><![CDATA[de toekomst van geloofsgemeenschappen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430161697?aid=kb-online-bibliotheek&sid=18&dts=1762240437849&sig=b0080a726015d4d5a541ed82df4fa06327a2c9e18194fc28aa1a6d401f6baf57&width=320" alt="Omslag van 'Herkerken'" title="Omslag van 'Herkerken'">
+<p>Al geruime tijd vinden er maatschappelijke ontwikkelingen en kantelingen plaats die ook het kerk-zijn beïnvloeden. De coronacrisis heeft deze veranderingen extra zichtbaar gemaakt en versterkt. Maar voelen kerken de urgentie? En is er bereidheid tot aanpassen van hun koers? In 'Herkerken' nemen Remmelt Meijer en Peter Wierenga de belangrijkste uitdagingen voor de kerk van vandaag onder de loep. Aan de hand van scherpe vragen, theologische doordenking en praktijkverhalen trekken de auteurs lijnen naar een toekomst waarin kerken in beweging blijven en op zoek gaan naar een bijbelse en duurzame vorm van kerk-zijn. 'Herkerken' is een hartstochtelijk pleidooi voor de kerk als oefenplaats van de liefde. De auteurs laten zien hoe een periode van crisis en verandering uiteindelijk kansen biedt om als kerk de toekomst hoopvol tegemoet te treden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Remmelt Meijer</name>
+        </author>
+        <author>
+            <name>Peter Wierenga</name>
         </author>
     </entry>
     <entry>
