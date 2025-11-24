@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-11-23T07:13:10.770Z</updated>
+    <updated>2025-11-24T07:14:44.630Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -30,30 +30,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gevraagd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456079149/gevraagd-nicole-schelling</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456079149/gevraagd-nicole-schelling"/>
-        <updated>2025-11-20T07:13:55.728Z</updated>
-        <summary type="html"><![CDATA[kerstmagie]]></summary>
-        <content type="html"><![CDATA[<img src="undefined" alt="Omslag van 'Gevraagd'" title="Omslag van 'Gevraagd'">
-<p>Is een beetje kerstmagie voldoende om de vonk te laten overspringen tussen tegenpolen Shelly en Roan, of vraagt deze match om drastischere maatregelen? Shelly kijkt uit naar de kerstborrel van haar werk. Deze gangmaker pur sang houdt wel van een feestje, en dit is een van de beste van het jaar. Nog leuker wordt het als de directie besluit dat ze geen gewone borrel hebben, maar naar een van de grootste kerstmarkten van Europa gaan. Ze kan niet wachten! Waar Shelly niet op rekent, is dat behalve het kantoorpersoneel ook de buitendienst wordt uitgenodigd. Dat betekent dat de holbewonerachtige Roan, die haar altijd tegen de haren in strijkt, erbij zal zijn. Terwijl Shelly nog liever een bad zou nemen in gloeiend hete glühwein dan met Roan opgescheept zitten, smeden haar collega's juist een plannetje om hen nader tot elkaar te brengen. Het enige wat daarvoor nodig is, denken zij, is een beetje kerstmagie... en misschien een wild ritje in het kerstige spookhuis. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nicole Schelling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gelukscoach]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456101810/gelukscoach-lizette-van-geene</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456101810/gelukscoach-lizette-van-geene"/>
-        <updated>2025-11-22T07:12:22.312Z</updated>
-        <summary type="html"><![CDATA[New beginnings]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456101810?aid=kb-online-bibliotheek&sid=18&dts=1763728923272&sig=6fd32a8ded0c6bdef14a62114c165a3eecca92921b1bcfcaf1c459fefe8e6e02&width=320" alt="Omslag van 'Gelukscoach'" title="Omslag van 'Gelukscoach'">
-<p>Simone vertrekt met haar nieuwe liefde Willem naar het idyllische York, waar ze samen de jaarwisseling zullen vieren in zijn statige familiehuis, pal naast de indrukwekkende York Minster. Het klinkt als een sprookje: sneeuw, romantiek en een warme familieband. Maar al snel blijkt de werkelijkheid minder rooskleurig. Want Simone kruipt ongewild opnieuw in de rol van coach én ontdekt dat Willem wat schokkende feitjes over zijn liefdesleven in Engeland verzwegen heeft. Hoe kan ze nu nog in hun prille liefde geloven? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lizette van Geene</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ik zie jou]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456101896/ik-zie-jou-nicole-schelling</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456101896/ik-zie-jou-nicole-schelling"/>
@@ -73,6 +49,52 @@
 <p>Zes mensen vertrekken op dezelfde dag naar het centrum van Rotterdam. Ieder met een eigen reden en verwachting. Melle is op doorreis naar Den Haag om een grote prijs in ontvangst te nemen, maar hoopt in Rotterdam een bijzondere avond te beleven met zijn nicht. Marcharida wil eindelijk met haar dochter de onuitgesproken details van hun leven bespreken. Mo'tje en Assidi hebben genoeg van hun armoedige leventje en staan op het punt een grote slag te slaan, die hun toekomst drastisch moet veranderen. Soraya reist in hun kielzog mee om dit juist te verhinderen. En Catarina is in Rotterdam op zoek naar haar halfzus. Allemaal plannen die op de koudste dag van het jaar met de hevigste sneeuwstorm ooit moeten plaatsvinden. Staat het extreme weer ze in de weg of lukt het ze juist daardoor hun plannen te verwezenlijken? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>J.B. te Boekhorst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gelukscoach]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456101810/gelukscoach-lizette-van-geene</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456101810/gelukscoach-lizette-van-geene"/>
+        <updated>2025-11-22T07:12:22.312Z</updated>
+        <summary type="html"><![CDATA[New beginnings]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456101810?aid=kb-online-bibliotheek&sid=18&dts=1763728923272&sig=6fd32a8ded0c6bdef14a62114c165a3eecca92921b1bcfcaf1c459fefe8e6e02&width=320" alt="Omslag van 'Gelukscoach'" title="Omslag van 'Gelukscoach'">
+<p>Simone vertrekt met haar nieuwe liefde Willem naar het idyllische York, waar ze samen de jaarwisseling zullen vieren in zijn statige familiehuis, pal naast de indrukwekkende York Minster. Het klinkt als een sprookje: sneeuw, romantiek en een warme familieband. Maar al snel blijkt de werkelijkheid minder rooskleurig. Want Simone kruipt ongewild opnieuw in de rol van coach én ontdekt dat Willem wat schokkende feitjes over zijn liefdesleven in Engeland verzwegen heeft. Hoe kan ze nu nog in hun prille liefde geloven? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lizette van Geene</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gevraagd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456079149/gevraagd-nicole-schelling</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456079149/gevraagd-nicole-schelling"/>
+        <updated>2025-11-20T07:13:55.728Z</updated>
+        <summary type="html"><![CDATA[kerstmagie]]></summary>
+        <content type="html"><![CDATA[<img src="undefined" alt="Omslag van 'Gevraagd'" title="Omslag van 'Gevraagd'">
+<p>Is een beetje kerstmagie voldoende om de vonk te laten overspringen tussen tegenpolen Shelly en Roan, of vraagt deze match om drastischere maatregelen? Shelly kijkt uit naar de kerstborrel van haar werk. Deze gangmaker pur sang houdt wel van een feestje, en dit is een van de beste van het jaar. Nog leuker wordt het als de directie besluit dat ze geen gewone borrel hebben, maar naar een van de grootste kerstmarkten van Europa gaan. Ze kan niet wachten! Waar Shelly niet op rekent, is dat behalve het kantoorpersoneel ook de buitendienst wordt uitgenodigd. Dat betekent dat de holbewonerachtige Roan, die haar altijd tegen de haren in strijkt, erbij zal zijn. Terwijl Shelly nog liever een bad zou nemen in gloeiend hete glühwein dan met Roan opgescheept zitten, smeden haar collega's juist een plannetje om hen nader tot elkaar te brengen. Het enige wat daarvoor nodig is, denken zij, is een beetje kerstmagie... en misschien een wild ritje in het kerstige spookhuis. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nicole Schelling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het laatste geschenk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456126058/het-laatste-geschenk-janneke-volkerink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456126058/het-laatste-geschenk-janneke-volkerink"/>
+        <updated>2025-11-24T07:14:44.173Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456126058?aid=kb-online-bibliotheek&sid=18&dts=1763968483665&sig=dab1907bf0d33899a0220f2e7d73dea1835efbcb564fbb920635b3cd1ccb85e1&width=320" alt="Omslag van 'Het laatste geschenk'" title="Omslag van 'Het laatste geschenk'">
+<p>Een spannend en ontroerend verhaal over familiebanden die voorbij de dood reiken. Over kunst als een stille boodschapper en over onverwachte cadeaus die in één decembermaand alles kunnen veranderen. Het wordt de meest bijzondere decembermaand ooit! Dat weet Emma als er een adventskalender wordt bezorgd, speciaal voor haar gemaakt door haar overleden opa Morris. Hij was een beroemde kunstenaar en haar vertrouweling. Een tedere laatste groet mondt uit in een reis vol verrassingen, ontmoetingen en een familiegeheim dat alles verandert. Terwijl de decemberdagen verstrijken, opent Emma elk dag een vakje en ontdekt ze hoe sterk liefde kan zijn. Voor iedereen die ooit iemand heeft gemist. Voor iedereen die durft te hopen Voor de donkere dagen voor kerst. Janneke Volkerink studeerde Algemene Taalwetenschap en Logopedie en is woonachtig in Zuid-Limburg. Ze won meerdere prijzen voor haar verhalen, zoals de Hermes Thriller Award schrijfwedstrijd, de tweede prijs bij de Renate Dorrestein schrijfwedstrijd voor literaire verhalen en de zomerverhalenwedstrijd van Sebes en Bisseling. In januari 2025 debuteerde ze met haar roman 'Tot op de bodem' bij Uitgeverij Ellessy. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Janneke Volkerink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vermoorde onschuld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456126023/vermoorde-onschuld-marco-knauff</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456126023/vermoorde-onschuld-marco-knauff"/>
+        <updated>2025-11-24T07:14:44.629Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456126023?aid=kb-online-bibliotheek&sid=18&dts=1763968221990&sig=2962b9974aa52d00ce83eec3090e73840b79444b1ff7848db092de4491c84096&width=320" alt="Omslag van 'Vermoorde onschuld'" title="Omslag van 'Vermoorde onschuld'">
+<p>In Bermhoven wordt achter hotel Het Paviljoen de 28-jarige edelsmid Amber Vink dood aangetroffen. Ze leek alles mee te hebben in het leven, daarom is het een volstrekt raadsel wie haar uit de weg wilde ruimen. Rechercheurs Marieke de Zwart en Robin Groeneveld ontdekken dat Amber de reünie van haar middelbare school zou bezoeken en dat ze een groot geheim met zich meedroeg. Omdat de gefrustreerde vader van Amber een eigen onderzoek begint, moet de politie tot het uiterste gaan om nieuwe slachtoffers te voorkomen... Marco Knauff wilde als kind al schrijver worden. Hij publiceerde veel korte verhalen in tijdschriften en verhalenbundels. Ook won hij diverse prijzen en werd een verhaal van hem verfilmd. Naast politieromans schrijft hij historische fictie en een serie over een Afrikaanse lodge. In zijn vrije tijd maakt Marco surrealistische schilderijen en werkt hij met veel plezier bij de egelopvang. Hij is vaak te vinden in het theater en wandelt graag met zijn hond. Marco is getrouwd met schrijfster Marian Werkman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marco Knauff</name>
         </author>
     </entry>
     <entry>
@@ -132,14 +154,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Noorderlicht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437832171/noorderlicht-ellen-ooms</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437832171/noorderlicht-ellen-ooms"/>
-        <updated>2025-11-15T07:11:59.385Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437832171?aid=kb-online-bibliotheek&sid=18&dts=1763127800499&sig=4e328f867d0c47df89781f32017d4f62ffc7e7db65956b1ddbb94e1e7d3ab41d&width=320" alt="Omslag van 'Noorderlicht'" title="Omslag van 'Noorderlicht'">
-<p>Fleur heeft het helemaal gehad! Ze werkt voor een sukkel van een baas, haar liefdesleven is onbestaande en tot overmaat van ramp wordt ze voortdurend voor de voet gelopen door haar bemoeizuchtige moeder die geen kans onbenut laat om haar er op te wijzen dat ze iets moet maken van haar leven. Als haar broer haar voorstelt om een tijdje te gaan helpen op de huskyfarm van Lukas, een vriend van hem, verklaart ze hem voor gek. Wat kent zij nu van husky's? En dat in de ijzige koude van Lapland. En hoe moet het dan met haar job? Wanneer ze op een dag een pijnlijke ontdekking doet, is de maat helemaal vol voor Fleur. Ze besluit haar job op te zeggen en in te gaan op het voorstel van haar broer. Eenmaal in Lapland is de buitentemperatuur niet het enige dat onder het vriespunt zakt. Ook de ontvangst door Lukas is verre van warm te noemen. Zit hij wel op haar komst te wachten? Langzaam maar zeker geraakt Fleur gewoon aan de ijskoude temperaturen en ook Lukas ontdooit langzaam maar zeker. Vindt Fleur meer in het hoge noorden dan ze verwacht had? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Onschuld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436847752/onschuld-nellie-mandel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436847752/onschuld-nellie-mandel"/>
+        <updated>2025-11-19T07:14:13.861Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436847752?aid=kb-online-bibliotheek&sid=18&dts=1763536453652&sig=22160eb5fa59f22c1c151729c0f31f6c80e7baba22b1b44f8c9628a39455464c&width=320" alt="Omslag van 'Onschuld'" title="Omslag van 'Onschuld'">
+<p>Soarse vindt haar vader dood in de woonkamer, met een bloederige hamer naast hem. Wie daarvoor verantwoordelijk is, weet ze niet, maar ze vindt het niet erg. Haar vader was, net als haar oom Bert, een geweldenaar en een verkrachter. Maar in het afgelegen huis was hij meester over leven en dood. Meteen wil iedereen doen alsof er niets aan de hand is, en het lichaam snel begraven. Soarse vermoedt dat één van de familieleden de moordenaar is. Van haar broer krijgt ze geen hulp, en ze besluit er vandoor te gaan. Maar ze weet nauwelijks iets van de buitenwereld. Toch vlucht ze, maar de wereld waarin ze terecht komt is evenmin veilig voor haar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ellen Ooms</name>
+            <name>Nellie Mandel</name>
         </author>
     </entry>
     <entry>
@@ -154,25 +176,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PS Ik haat je]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436658976/ps-ik-haat-je-nicole-schelling</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436658976/ps-ik-haat-je-nicole-schelling"/>
-        <updated>2025-11-17T07:14:26.027Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436658976?aid=kb-online-bibliotheek&sid=18&dts=1763363665842&sig=293ea4c0994197649eeec93ed8294e931684fa6396c6895f8c871ff38a68e956&width=320" alt="Omslag van 'PS Ik haat je'" title="Omslag van 'PS Ik haat je'">
-<p>De drieëntwintigjarige Tamara heeft haar leven eindelijk weer op de rit. Op sommige dagen lukt het haar zelfs om niet meer aan de tijd te denken waarin ze zo vaak wenste dat ze iemand anders was. Haar middelbareschooltijd is een donker gat waar ze nooit meer in terug wil vallen, maar ze is zich er pijnlijk van bewust dat er veel triggers op de loer liggen. Alleen al bij het horen van de naam 'Lukas' breekt het angstzweet haar uit. Tamara is vastbesloten haar verleden geen rol meer te laten spelen in haar heden en toekomst. Maar dan komt ze Lukas na een lange tijd weer tegen en op alle mogelijke manieren laat hij haar hart nog steeds sneller slaan... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Noorderlicht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437832171/noorderlicht-ellen-ooms</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437832171/noorderlicht-ellen-ooms"/>
+        <updated>2025-11-15T07:11:59.385Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437832171?aid=kb-online-bibliotheek&sid=18&dts=1763127800499&sig=4e328f867d0c47df89781f32017d4f62ffc7e7db65956b1ddbb94e1e7d3ab41d&width=320" alt="Omslag van 'Noorderlicht'" title="Omslag van 'Noorderlicht'">
+<p>Fleur heeft het helemaal gehad! Ze werkt voor een sukkel van een baas, haar liefdesleven is onbestaande en tot overmaat van ramp wordt ze voortdurend voor de voet gelopen door haar bemoeizuchtige moeder die geen kans onbenut laat om haar er op te wijzen dat ze iets moet maken van haar leven. Als haar broer haar voorstelt om een tijdje te gaan helpen op de huskyfarm van Lukas, een vriend van hem, verklaart ze hem voor gek. Wat kent zij nu van husky's? En dat in de ijzige koude van Lapland. En hoe moet het dan met haar job? Wanneer ze op een dag een pijnlijke ontdekking doet, is de maat helemaal vol voor Fleur. Ze besluit haar job op te zeggen en in te gaan op het voorstel van haar broer. Eenmaal in Lapland is de buitentemperatuur niet het enige dat onder het vriespunt zakt. Ook de ontvangst door Lukas is verre van warm te noemen. Zit hij wel op haar komst te wachten? Langzaam maar zeker geraakt Fleur gewoon aan de ijskoude temperaturen en ook Lukas ontdooit langzaam maar zeker. Vindt Fleur meer in het hoge noorden dan ze verwacht had? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nicole Schelling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onbereikbaar dichtbij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436060159/onbereikbaar-dichtbij-nicole-schelling</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436060159/onbereikbaar-dichtbij-nicole-schelling"/>
-        <updated>2025-11-17T07:14:22.770Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436060159?aid=kb-online-bibliotheek&sid=18&dts=1763283185094&sig=07436236ae0cebbc4c98ceff07abd335a8f94e56f5b2a774b72cbbec0c755eec&width=320" alt="Omslag van 'Onbereikbaar dichtbij'" title="Omslag van 'Onbereikbaar dichtbij'">
-<p>Vicky heeft een hekel aan strippers. Ze vindt ze smakeloos met die glimmende opgepompte spieren. Als ze erachter komt dat op het vrijgezellenfeest van haar nicht Claire een mannelijke stripper is ingehuurd, staat ze dus niet te juichen. Op het moment dat ze zelf het podium op wordt getrokken, raakt ze serieus in paniek. Hoewel ze het liefst door een gat in de vloer zou willen verdwijnen, is ze totaal niet voorbereid op de stripper die op haar af komt. Hij zet haar in vuur en vlam en bezorgt Vicky de avond van haar leven. Ze kan hem naar niet uit haar hoofd zetten, maar weet heus wel dat hij onbereikbaar voor haar is. Ze zal nooit verliefd worden op iemand met zo'n beroep. Uit alle macht probeert ze hem te vergeten, maar dan ziet ze hem weer: op een foto samen met de verloofde van haar nicht en ze lijken elkaar goed te kennen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nicole Schelling</name>
+            <name>Ellen Ooms</name>
         </author>
     </entry>
     <entry>
@@ -188,6 +199,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Er hangt vuurwerk in de lucht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436843250/er-hangt-vuurwerk-in-de-lucht-sophia-jager</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436843250/er-hangt-vuurwerk-in-de-lucht-sophia-jager"/>
+        <updated>2025-11-17T07:14:21.696Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436843250?aid=kb-online-bibliotheek&sid=18&dts=1763309858367&sig=e450b4b836c18e5fcd3196c1458c0163b5d2c411d3660374ffc6901290474d2f&width=320" alt="Omslag van 'Er hangt vuurwerk in de lucht'" title="Omslag van 'Er hangt vuurwerk in de lucht'">
+<p>Anna, de rustige en ingetogen huisarts van het dorp, is niet van plan om zich te laten overtuigen door de burgemeester en de andere bemoeizuchtige tantes, om naar het jaarlijkse dorpsfeest te gaan. Ze weet immers precies wat er gaat gebeuren. Zoals altijd zullen ze weer proberen om haar te koppelen aan een aantrekkelijke vrijgezel, en daar heeft ze na haar afgebroken relatie echt geen zin in. ﻿Hetzelfde geldt voor Pieter, de allernieuwste inwoner van het dorp. Hij heeft het immers veel te druk met zijn garage, net overgenomen in erbarmelijke staat. Pieters hoofd staat niet naar een dorpsfeest, maar net als Anna wordt ook hij met lichte dwang richting het dorpsplein gestuurd. ﻿Wie weet hangt er voor beiden vuurwerk in de lucht ... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sophia Jager</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Als vlinders dansen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/437392333/als-vlinders-dansen-inge-sleegers</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/437392333/als-vlinders-dansen-inge-sleegers"/>
@@ -199,14 +221,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Er hangt vuurwerk in de lucht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436843250/er-hangt-vuurwerk-in-de-lucht-sophia-jager</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436843250/er-hangt-vuurwerk-in-de-lucht-sophia-jager"/>
-        <updated>2025-11-17T07:14:21.696Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436843250?aid=kb-online-bibliotheek&sid=18&dts=1763309858367&sig=e450b4b836c18e5fcd3196c1458c0163b5d2c411d3660374ffc6901290474d2f&width=320" alt="Omslag van 'Er hangt vuurwerk in de lucht'" title="Omslag van 'Er hangt vuurwerk in de lucht'">
-<p>Anna, de rustige en ingetogen huisarts van het dorp, is niet van plan om zich te laten overtuigen door de burgemeester en de andere bemoeizuchtige tantes, om naar het jaarlijkse dorpsfeest te gaan. Ze weet immers precies wat er gaat gebeuren. Zoals altijd zullen ze weer proberen om haar te koppelen aan een aantrekkelijke vrijgezel, en daar heeft ze na haar afgebroken relatie echt geen zin in. ﻿Hetzelfde geldt voor Pieter, de allernieuwste inwoner van het dorp. Hij heeft het immers veel te druk met zijn garage, net overgenomen in erbarmelijke staat. Pieters hoofd staat niet naar een dorpsfeest, maar net als Anna wordt ook hij met lichte dwang richting het dorpsplein gestuurd. ﻿Wie weet hangt er voor beiden vuurwerk in de lucht ... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Onbereikbaar dichtbij]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436060159/onbereikbaar-dichtbij-nicole-schelling</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436060159/onbereikbaar-dichtbij-nicole-schelling"/>
+        <updated>2025-11-17T07:14:22.770Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436060159?aid=kb-online-bibliotheek&sid=18&dts=1763283185094&sig=07436236ae0cebbc4c98ceff07abd335a8f94e56f5b2a774b72cbbec0c755eec&width=320" alt="Omslag van 'Onbereikbaar dichtbij'" title="Omslag van 'Onbereikbaar dichtbij'">
+<p>Vicky heeft een hekel aan strippers. Ze vindt ze smakeloos met die glimmende opgepompte spieren. Als ze erachter komt dat op het vrijgezellenfeest van haar nicht Claire een mannelijke stripper is ingehuurd, staat ze dus niet te juichen. Op het moment dat ze zelf het podium op wordt getrokken, raakt ze serieus in paniek. Hoewel ze het liefst door een gat in de vloer zou willen verdwijnen, is ze totaal niet voorbereid op de stripper die op haar af komt. Hij zet haar in vuur en vlam en bezorgt Vicky de avond van haar leven. Ze kan hem naar niet uit haar hoofd zetten, maar weet heus wel dat hij onbereikbaar voor haar is. Ze zal nooit verliefd worden op iemand met zo'n beroep. Uit alle macht probeert ze hem te vergeten, maar dan ziet ze hem weer: op een foto samen met de verloofde van haar nicht en ze lijken elkaar goed te kennen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sophia Jager</name>
+            <name>Nicole Schelling</name>
         </author>
     </entry>
     <entry>
@@ -221,37 +243,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bittersweet]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436700654/bittersweet-sandra-j--paul</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436700654/bittersweet-sandra-j--paul"/>
-        <updated>2025-11-17T07:14:24.147Z</updated>
-        <summary type="html"><![CDATA[afscheid nemen doet pijn]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436700654?aid=kb-online-bibliotheek&sid=18&dts=1763363663896&sig=d938b8ca3a3414a1dea1eb3190b467cf1f6475c6c545a6b3fe2f3c99cad15170&width=320" alt="Omslag van 'Bittersweet'" title="Omslag van 'Bittersweet'">
-<p>Lisa en Daniel wonen eindelijk officieel samen, nadat Lisa de afgelopen maanden al zo goed als helemaal bij Daniel en zijn tante Mathilde was ingetrokken. Nu is het echt. Haar huisje werd verhuurd, haar spullen staan in de villa. De relatie tussen hun twee wordt er alleen maar beter op nu ze beiden hun eigen weg in het leven zoeken. Maar Daniels werk slorpt hem helemaal op wanneer zijn carrière bloeit en groeit. Dan krijgt hij een interessante aanbieding die alles wel eens helemaal op zijn kop kan zetten. Alleen weten Lisa en Daniel dat het niet zo gemakkelijk is als het lijkt. Ze hebben veel om achter te laten in hun oude leven. En dan is er nog die voornaamste kopzorg rond Mathilde, die met de dag wegkwijnt. Wat moet er met de villa en zijn katten gebeuren als zij er niet meer is? Lisa en Daniel ontdekken dat liefde en verdriet heel dicht bij elkaar liggen. Maar uiteindelijk komt het altijd wel goed. Toch? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[PS Ik haat je]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436658976/ps-ik-haat-je-nicole-schelling</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436658976/ps-ik-haat-je-nicole-schelling"/>
+        <updated>2025-11-17T07:14:26.027Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436658976?aid=kb-online-bibliotheek&sid=18&dts=1763363665842&sig=293ea4c0994197649eeec93ed8294e931684fa6396c6895f8c871ff38a68e956&width=320" alt="Omslag van 'PS Ik haat je'" title="Omslag van 'PS Ik haat je'">
+<p>De drieëntwintigjarige Tamara heeft haar leven eindelijk weer op de rit. Op sommige dagen lukt het haar zelfs om niet meer aan de tijd te denken waarin ze zo vaak wenste dat ze iemand anders was. Haar middelbareschooltijd is een donker gat waar ze nooit meer in terug wil vallen, maar ze is zich er pijnlijk van bewust dat er veel triggers op de loer liggen. Alleen al bij het horen van de naam 'Lukas' breekt het angstzweet haar uit. Tamara is vastbesloten haar verleden geen rol meer te laten spelen in haar heden en toekomst. Maar dan komt ze Lukas na een lange tijd weer tegen en op alle mogelijke manieren laat hij haar hart nog steeds sneller slaan... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sandra J. Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Help me]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437215962/help-me-elliot-hyland</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437215962/help-me-elliot-hyland"/>
-        <updated>2025-11-17T07:14:23.787Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437215962?aid=kb-online-bibliotheek&sid=18&dts=1763363663582&sig=ee0f3c87ead84b02bdeaffa0e3f26faa777be51e5eb4cb80b243068a042e72e8&width=320" alt="Omslag van 'Help me'" title="Omslag van 'Help me'">
-<p>Ze staart met een verdrietige blik naar buiten, waarna ze twee woorden op de beslagen ruit van haar treinwagon schrijft: help me. Inez' grote droom is om gelukkig oud te worden met Joachim, de man van haar leven, en samen een gezinnetje te starten. Maar wanneer hij haar na twaalf jaar compleet onverwacht laat staan voor een ander, stort Inez' wereld in. Dan leert ze Thomas kennen, de perfecte man. Hij is zorgzaam, wil niets liever dan voortdurend bij haar zijn en het beste van al: ze hebben geen geheimen voor elkaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elliot Hyland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pompoensoep & vallende bladeren]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437113345/pompoensoep---vallende-bladeren-jolien-de-pauw</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437113345/pompoensoep---vallende-bladeren-jolien-de-pauw"/>
-        <updated>2025-11-17T07:14:23.480Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437113345?aid=kb-online-bibliotheek&sid=18&dts=1763363663290&sig=935cf1116e3703bb7c1a9a9e6282487c9c18312758c2db6fd4072969e3d73806&width=320" alt="Omslag van 'Pompoensoep & vallende bladeren'" title="Omslag van 'Pompoensoep & vallende bladeren'">
-<p>Jennie heeft een hekel aan Halloween. Maar nog, ze hààt Halloween! Van de pumpkin spice lattes tot de vrolijke griezelversieringen, ze kan niet wachten tot deze vreselijke periode eindelijk voorbij is. Al heeft al die weerzin misschien ook een heel klein beetje te maken met wat haar ex haar vorige Halloween geflikt heeft. Gelukkig verkeert ze dit jaar in het gezelschap van 's werelds schattigste viervoeter. En werpt ze zich, onbedoeld weliswaar, meer dan eens in de armen van een wel heel knappe man... Zou deze Halloween toch anders kunnen worden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jolien De Pauw</name>
+            <name>Nicole Schelling</name>
         </author>
     </entry>
     <entry>
@@ -277,25 +276,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On(der)wijs druk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435612182/on-der-wijs-druk-eveline-heijnen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435612182/on-der-wijs-druk-eveline-heijnen"/>
-        <updated>2025-11-17T07:14:25.730Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435612182?aid=kb-online-bibliotheek&sid=18&dts=1763363665523&sig=9ba38bdd8d4608ac7357f238d74984e25f5e96eea5124d9ff702349db9ca1be0&width=320" alt="Omslag van 'On(der)wijs druk'" title="Omslag van 'On(der)wijs druk'">
-<p>Tessa Konings heeft het als wiskundedocent niet makkelijk. Ze staat vermoeid op, het lukt haar gedurende de werkdag nooit om alle geplande taken op tijd af te krijgen, elke avond zit ze tot aan haar oren in het nakijkwerk en de e-mailtjes van opdringerige ouders. De weekenden zijn te kort om haar energieniveau weer op te krikken. Werken in het onderwijs is leuk, maar de werkdruk die je er gratis bijkrijgt... Oef! En dan is er ook nog de nieuwe collega, Boris, die bakken met kritiek op Tessa uitstort. Gelukkig krijgt ze hulp uit onverwachte hoek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Pompoensoep & vallende bladeren]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437113345/pompoensoep---vallende-bladeren-jolien-de-pauw</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437113345/pompoensoep---vallende-bladeren-jolien-de-pauw"/>
+        <updated>2025-11-17T07:14:23.480Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437113345?aid=kb-online-bibliotheek&sid=18&dts=1763363663290&sig=935cf1116e3703bb7c1a9a9e6282487c9c18312758c2db6fd4072969e3d73806&width=320" alt="Omslag van 'Pompoensoep & vallende bladeren'" title="Omslag van 'Pompoensoep & vallende bladeren'">
+<p>Jennie heeft een hekel aan Halloween. Maar nog, ze hààt Halloween! Van de pumpkin spice lattes tot de vrolijke griezelversieringen, ze kan niet wachten tot deze vreselijke periode eindelijk voorbij is. Al heeft al die weerzin misschien ook een heel klein beetje te maken met wat haar ex haar vorige Halloween geflikt heeft. Gelukkig verkeert ze dit jaar in het gezelschap van 's werelds schattigste viervoeter. En werpt ze zich, onbedoeld weliswaar, meer dan eens in de armen van een wel heel knappe man... Zou deze Halloween toch anders kunnen worden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Eveline Heijnen</name>
+            <name>Jolien De Pauw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drakenbloed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436218445/drakenbloed-ina-de-man</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436218445/drakenbloed-ina-de-man"/>
-        <updated>2025-11-17T07:14:25.053Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436218445?aid=kb-online-bibliotheek&sid=18&dts=1763363664860&sig=bd1563729413834e577a63e6c83d66ad901462c90bb9ca4842757bbb95458279&width=320" alt="Omslag van 'Drakenbloed'" title="Omslag van 'Drakenbloed'">
-<p>De nichtjes Kaat en Eva brengen de kerstdagen door in Windsor en logeren vlak bij het beroemde kasteel. Als er een diefstal wordt gepleegd zijn de meisjes er als de kippen bij om op onderzoek te trekken. Maar daar denkt de dief anders over. Ze krijgen de hulp van Aiden maar ook hij kan niet voorkomen dat ze weer in de problemen komen. Want zo'n eeuwenoud kasteel kent veel geheimen. En een daarvan zou de koningin wel eens de troon kunnen kosten. Maar Kaat en Eva weten ook dat te voorkomen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Help me]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437215962/help-me-elliot-hyland</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437215962/help-me-elliot-hyland"/>
+        <updated>2025-11-17T07:14:23.787Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437215962?aid=kb-online-bibliotheek&sid=18&dts=1763363663582&sig=ee0f3c87ead84b02bdeaffa0e3f26faa777be51e5eb4cb80b243068a042e72e8&width=320" alt="Omslag van 'Help me'" title="Omslag van 'Help me'">
+<p>Ze staart met een verdrietige blik naar buiten, waarna ze twee woorden op de beslagen ruit van haar treinwagon schrijft: help me. Inez' grote droom is om gelukkig oud te worden met Joachim, de man van haar leven, en samen een gezinnetje te starten. Maar wanneer hij haar na twaalf jaar compleet onverwacht laat staan voor een ander, stort Inez' wereld in. Dan leert ze Thomas kennen, de perfecte man. Hij is zorgzaam, wil niets liever dan voortdurend bij haar zijn en het beste van al: ze hebben geen geheimen voor elkaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ina De Man</name>
+            <name>Elliot Hyland</name>
         </author>
     </entry>
     <entry>
@@ -310,36 +309,37 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onschuld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436847752/onschuld-nellie-mandel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436847752/onschuld-nellie-mandel"/>
-        <updated>2025-11-19T07:14:13.861Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436847752?aid=kb-online-bibliotheek&sid=18&dts=1763536453652&sig=22160eb5fa59f22c1c151729c0f31f6c80e7baba22b1b44f8c9628a39455464c&width=320" alt="Omslag van 'Onschuld'" title="Omslag van 'Onschuld'">
-<p>Soarse vindt haar vader dood in de woonkamer, met een bloederige hamer naast hem. Wie daarvoor verantwoordelijk is, weet ze niet, maar ze vindt het niet erg. Haar vader was, net als haar oom Bert, een geweldenaar en een verkrachter. Maar in het afgelegen huis was hij meester over leven en dood. Meteen wil iedereen doen alsof er niets aan de hand is, en het lichaam snel begraven. Soarse vermoedt dat één van de familieleden de moordenaar is. Van haar broer krijgt ze geen hulp, en ze besluit er vandoor te gaan. Maar ze weet nauwelijks iets van de buitenwereld. Toch vlucht ze, maar de wereld waarin ze terecht komt is evenmin veilig voor haar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Drakenbloed]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436218445/drakenbloed-ina-de-man</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436218445/drakenbloed-ina-de-man"/>
+        <updated>2025-11-17T07:14:25.053Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436218445?aid=kb-online-bibliotheek&sid=18&dts=1763363664860&sig=bd1563729413834e577a63e6c83d66ad901462c90bb9ca4842757bbb95458279&width=320" alt="Omslag van 'Drakenbloed'" title="Omslag van 'Drakenbloed'">
+<p>De nichtjes Kaat en Eva brengen de kerstdagen door in Windsor en logeren vlak bij het beroemde kasteel. Als er een diefstal wordt gepleegd zijn de meisjes er als de kippen bij om op onderzoek te trekken. Maar daar denkt de dief anders over. Ze krijgen de hulp van Aiden maar ook hij kan niet voorkomen dat ze weer in de problemen komen. Want zo'n eeuwenoud kasteel kent veel geheimen. En een daarvan zou de koningin wel eens de troon kunnen kosten. Maar Kaat en Eva weten ook dat te voorkomen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nellie Mandel</name>
+            <name>Ina De Man</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moordboeket]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439004020/moordboeket-mara-collins</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439004020/moordboeket-mara-collins"/>
-        <updated>2025-11-17T07:14:28.122Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439004020?aid=kb-online-bibliotheek&sid=18&dts=1763363667904&sig=9644c9b1f88aa26d1fa2e130f06f042c8f25522549977897d531767c91e5d2ed&width=320" alt="Omslag van 'Moordboeket'" title="Omslag van 'Moordboeket'">
-<p>Wanneer Isa Winter op een morgen een mannenbeen tussen haar mooie borderplanten vindt, is ze in de eerste plaats misnoegd. Maar al snel merkt ze dat haar saaie leventje een nieuwe wending krijgt wanneer er ze een nieuwe, knappe buurman krijgt en haar vriendin haar (on)willige partner in crime wordt wanneer ze besluit om uit te vissen wie de man was en waarom hij uitgerekend tussen haar bloemen dood moest gaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[On(der)wijs druk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435612182/on-der-wijs-druk-eveline-heijnen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435612182/on-der-wijs-druk-eveline-heijnen"/>
+        <updated>2025-11-17T07:14:25.730Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435612182?aid=kb-online-bibliotheek&sid=18&dts=1763363665523&sig=9ba38bdd8d4608ac7357f238d74984e25f5e96eea5124d9ff702349db9ca1be0&width=320" alt="Omslag van 'On(der)wijs druk'" title="Omslag van 'On(der)wijs druk'">
+<p>Tessa Konings heeft het als wiskundedocent niet makkelijk. Ze staat vermoeid op, het lukt haar gedurende de werkdag nooit om alle geplande taken op tijd af te krijgen, elke avond zit ze tot aan haar oren in het nakijkwerk en de e-mailtjes van opdringerige ouders. De weekenden zijn te kort om haar energieniveau weer op te krikken. Werken in het onderwijs is leuk, maar de werkdruk die je er gratis bijkrijgt... Oef! En dan is er ook nog de nieuwe collega, Boris, die bakken met kritiek op Tessa uitstort. Gelukkig krijgt ze hulp uit onverwachte hoek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Mara Collins</name>
+            <name>Eveline Heijnen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een weerspannige kerst]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440551315/een-weerspannige-kerst-inge-sleegers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440551315/een-weerspannige-kerst-inge-sleegers"/>
-        <updated>2025-11-17T07:14:26.920Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440551315?aid=kb-online-bibliotheek&sid=18&dts=1763302297922&sig=59ea2c6e3a0b7452562565717346ec9d532de9b0d43762bba7c845c35a2bb374&width=320" alt="Omslag van 'Een weerspannige kerst'" title="Omslag van 'Een weerspannige kerst'">
-<p>Sinds de dood van haar vader heeft Eva een bijzondere band met haar moeder. Als kind sloten ze een pact dat niemand ooit tussen hen in zou kunnen komen. Kerst vieren ze altijd gezellig met zijn tweetjes. Tot Eva een onheilspellend telefoontje krijgt. Haar moeder heeft iemand ontmoet. Hij nodigt Eva uit voor het kerstfeest met zijn familie in zijn skichalet in Oostenrijk. Dat Eva daar geen zin in heeft, is een understatement. Blijft Eva koppig volhouden? Of krijgt de avond een wending die zelfs zij niet had kunnen voorspellen? Een verhaal over familierelaties, loslaten én een knappe redder in nood. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Bittersweet]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436700654/bittersweet-sandra-j--paul</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436700654/bittersweet-sandra-j--paul"/>
+        <updated>2025-11-17T07:14:24.147Z</updated>
+        <summary type="html"><![CDATA[afscheid nemen doet pijn]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436700654?aid=kb-online-bibliotheek&sid=18&dts=1763363663896&sig=d938b8ca3a3414a1dea1eb3190b467cf1f6475c6c545a6b3fe2f3c99cad15170&width=320" alt="Omslag van 'Bittersweet'" title="Omslag van 'Bittersweet'">
+<p>Lisa en Daniel wonen eindelijk officieel samen, nadat Lisa de afgelopen maanden al zo goed als helemaal bij Daniel en zijn tante Mathilde was ingetrokken. Nu is het echt. Haar huisje werd verhuurd, haar spullen staan in de villa. De relatie tussen hun twee wordt er alleen maar beter op nu ze beiden hun eigen weg in het leven zoeken. Maar Daniels werk slorpt hem helemaal op wanneer zijn carrière bloeit en groeit. Dan krijgt hij een interessante aanbieding die alles wel eens helemaal op zijn kop kan zetten. Alleen weten Lisa en Daniel dat het niet zo gemakkelijk is als het lijkt. Ze hebben veel om achter te laten in hun oude leven. En dan is er nog die voornaamste kopzorg rond Mathilde, die met de dag wegkwijnt. Wat moet er met de villa en zijn katten gebeuren als zij er niet meer is? Lisa en Daniel ontdekken dat liefde en verdriet heel dicht bij elkaar liggen. Maar uiteindelijk komt het altijd wel goed. Toch? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Inge Sleegers</name>
+            <name>Sandra J. Paul</name>
         </author>
     </entry>
 </feed>
