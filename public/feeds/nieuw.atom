@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-12-01T07:18:06.469Z</updated>
+    <updated>2025-12-02T07:16:54.194Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -43,18 +43,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iedereen autistisch]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439027969/iedereen-autistisch-gijs-lauret</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439027969/iedereen-autistisch-gijs-lauret"/>
-        <updated>2025-11-30T07:12:39.198Z</updated>
-        <summary type="html"><![CDATA[waarom wij allemaal meer op elkaar lijken dan we denken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439027969?aid=kb-online-bibliotheek&sid=18&dts=1764410458883&sig=98b224bb2bff19b957d0cca54520629aa0d0606f9d02f352ff0107f42facde7c&width=320" alt="Omslag van 'Iedereen autistisch'" title="Omslag van 'Iedereen autistisch'">
-<p>Persoonlijke zoektocht naar de uiteenlopende aspecten van de autismespectrumstoornis die ieder mens tot op zekere hoogte in zich draagt, geschreven door een psycholoog die op 41-jarige leeftijd zelf de diagnose ASS kreeg.</p>]]></content>
-        <author>
-            <name>Gijs Lauret</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Laat me gaan]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/43932503X/laat-me-gaan-menno-oosterhoff---kit-vanmechelen---esther-beukema</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/43932503X/laat-me-gaan-menno-oosterhoff---kit-vanmechelen---esther-beukema"/>
@@ -85,18 +73,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Ik moet toch ook mijn klootzakje kwijt.']]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438660234/-ik-moet-toch-ook-mijn-klootzakje-kwijt---meta-herman-de-groot</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438660234/-ik-moet-toch-ook-mijn-klootzakje-kwijt---meta-herman-de-groot"/>
-        <updated>2025-11-30T07:12:40.608Z</updated>
-        <summary type="html"><![CDATA[alles wat je moet weten over de relatie tussen ouders en pubers]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438660234?aid=kb-online-bibliotheek&sid=18&dts=1764423448478&sig=a53d87cc7e4d949cc42c25883ee3ff7b7a24df948b56c58c6ad485eeec5cf5ec&width=320" alt="Omslag van ''Ik moet toch ook mijn klootzakje kwijt.''" title="Omslag van ''Ik moet toch ook mijn klootzakje kwijt.''">
-<p>Adviezen voor het verbeteren van de relatie tussen ouders en hun puberkinderen, aan de hand van verhalen uit de therapiepraktijk van de auteur.</p>]]></content>
-        <author>
-            <name>Meta Herman de Groot</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tante Stoel]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/440308895/tante-stoel-oswald-schwirtz</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/440308895/tante-stoel-oswald-schwirtz"/>
@@ -121,6 +97,53 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['Ik moet toch ook mijn klootzakje kwijt.']]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438660234/-ik-moet-toch-ook-mijn-klootzakje-kwijt---meta-herman-de-groot</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438660234/-ik-moet-toch-ook-mijn-klootzakje-kwijt---meta-herman-de-groot"/>
+        <updated>2025-11-30T07:12:40.608Z</updated>
+        <summary type="html"><![CDATA[alles wat je moet weten over de relatie tussen ouders en pubers]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438660234?aid=kb-online-bibliotheek&sid=18&dts=1764423448478&sig=a53d87cc7e4d949cc42c25883ee3ff7b7a24df948b56c58c6ad485eeec5cf5ec&width=320" alt="Omslag van ''Ik moet toch ook mijn klootzakje kwijt.''" title="Omslag van ''Ik moet toch ook mijn klootzakje kwijt.''">
+<p>Adviezen voor het verbeteren van de relatie tussen ouders en hun puberkinderen, aan de hand van verhalen uit de therapiepraktijk van de auteur.</p>]]></content>
+        <author>
+            <name>Meta Herman de Groot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iedereen autistisch]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439027969/iedereen-autistisch-gijs-lauret</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439027969/iedereen-autistisch-gijs-lauret"/>
+        <updated>2025-11-30T07:12:39.198Z</updated>
+        <summary type="html"><![CDATA[waarom wij allemaal meer op elkaar lijken dan we denken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439027969?aid=kb-online-bibliotheek&sid=18&dts=1764410458883&sig=98b224bb2bff19b957d0cca54520629aa0d0606f9d02f352ff0107f42facde7c&width=320" alt="Omslag van 'Iedereen autistisch'" title="Omslag van 'Iedereen autistisch'">
+<p>Persoonlijke zoektocht naar de uiteenlopende aspecten van de autismespectrumstoornis die ieder mens tot op zekere hoogte in zich draagt, geschreven door een psycholoog die op 41-jarige leeftijd zelf de diagnose ASS kreeg.</p>]]></content>
+        <author>
+            <name>Gijs Lauret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uit contact]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/441708048/uit-contact-vera-van-brakel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/441708048/uit-contact-vera-van-brakel"/>
+        <updated>2025-11-30T07:12:44.975Z</updated>
+        <summary type="html"><![CDATA[de pijnlijke scheiding tussen een moeder en haar dochter]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A441708048?aid=kb-online-bibliotheek&sid=18&dts=1764486721101&sig=e1806411ccff96fcfe3e4a46da6aca06777f06ccd15416ba4d9b6e633bb55f04&width=320" alt="Omslag van 'Uit contact'" title="Omslag van 'Uit contact'">
+<p>Persoonlijk relaas van de schrijfster over het verlies van contact met haar enige dochter en kleindochter, tegen de achtergrond van haar rooms-katholieke jeugd.</p>]]></content>
+        <author>
+            <name>Vera van Brakel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boreling]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442251742/boreling-martin-koot</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442251742/boreling-martin-koot"/>
+        <updated>2025-11-30T07:12:42.652Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442251742?aid=kb-online-bibliotheek&sid=18&dts=1764486762247&sig=a3d4baac565085d185b79b212fcdc1bddb3615c5bac46a92974e903bf49b2ca7&width=320" alt="Omslag van 'Boreling'" title="Omslag van 'Boreling'">
+<p>Na een eenzame kindertijd vindt de jonge tiener Martin steun en kameraadschap bij een leraar van zijn lagere school. De tol die hij daarvoor betaalt is hoog. In de jaren erna verwerkt hij met horten en stoten de pijnlijke gebeurtenissen. Is het dan echt voorbij, of echoën de gevolgen luider in zijn leven dan hij wil toegeven? De ultieme beproeving dient zich aan wanneer Martins huwelijk op de klippen loopt en de grond onder hem en zijn kinderen lijkt te verdwijnen. Terwijl hij worstelt met systemen en instanties die ongevoelig lijken voor de nuances van menselijke relaties, vindt Martin de moed om op te staan en het juk van zijn jeugd van zich af te schudden. Boreling is een openhartig en toegankelijk geschreven verhaal over hoe de kindertijd ons vormt voor het leven. De auteur laat bovendien zien dat het leven naast veel narigheid, ook overrompelende schoonheid biedt. En die schoonheid raakt. Martin Koot (1968) is schrijver, muziekproducent en drijvende kracht achter diverse culturele evenementen. Daarnaast is hij verbonden aan onderzoeksbureau MoneyView, gerenommeerd voorvechter van transparantie in financiële dienstverlening. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Martin Koot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Schaamte]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/443981892/schaamte-teus-lebbing</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/443981892/schaamte-teus-lebbing"/>
@@ -140,40 +163,6 @@
 <p>Persoonlijk relaas van de Nederlandse cabaretier (1994) over zijn verslaving, de rol van zijn vader in zijn leven en hoe hij de weg omhoog vond.</p>]]></content>
         <author>
             <name>Fimme Bakker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boreling]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442251742/boreling-martin-koot</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442251742/boreling-martin-koot"/>
-        <updated>2025-11-30T07:12:42.652Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442251742?aid=kb-online-bibliotheek&sid=18&dts=1764486762247&sig=a3d4baac565085d185b79b212fcdc1bddb3615c5bac46a92974e903bf49b2ca7&width=320" alt="Omslag van 'Boreling'" title="Omslag van 'Boreling'">
-<p>Na een eenzame kindertijd vindt de jonge tiener Martin steun en kameraadschap bij een leraar van zijn lagere school. De tol die hij daarvoor betaalt is hoog. In de jaren erna verwerkt hij met horten en stoten de pijnlijke gebeurtenissen. Is het dan echt voorbij, of echoën de gevolgen luider in zijn leven dan hij wil toegeven? De ultieme beproeving dient zich aan wanneer Martins huwelijk op de klippen loopt en de grond onder hem en zijn kinderen lijkt te verdwijnen. Terwijl hij worstelt met systemen en instanties die ongevoelig lijken voor de nuances van menselijke relaties, vindt Martin de moed om op te staan en het juk van zijn jeugd van zich af te schudden. Boreling is een openhartig en toegankelijk geschreven verhaal over hoe de kindertijd ons vormt voor het leven. De auteur laat bovendien zien dat het leven naast veel narigheid, ook overrompelende schoonheid biedt. En die schoonheid raakt. Martin Koot (1968) is schrijver, muziekproducent en drijvende kracht achter diverse culturele evenementen. Daarnaast is hij verbonden aan onderzoeksbureau MoneyView, gerenommeerd voorvechter van transparantie in financiële dienstverlening. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Martin Koot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verslaafd aan geld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442998082/verslaafd-aan-geld-bram-bakker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442998082/verslaafd-aan-geld-bram-bakker"/>
-        <updated>2025-11-30T07:12:43.121Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442998082?aid=kb-online-bibliotheek&sid=18&dts=1764486762744&sig=bcda27c461d2ae903d6cd48d09883cb9f2441902521e75545aa8a124555302ed&width=320" alt="Omslag van 'Verslaafd aan geld'" title="Omslag van 'Verslaafd aan geld'">
-<p>'Wie van geld houdt, heeft nooit genoeg geld. En wie van rijkdom houdt, verdient nooit genoeg. Ook dat is maar lucht' staat te lezen in het bijbelboek Prediker. Het past naast een andere oude wijsheid die te denken geeft: 'Geld maakt niet gelukkig.' Waarom realiseren we ons dit zo moeizaam? Waarom is geld de grote motor die schuilgaat achter bijna alle maatschappelijke ontwikkelingen? Geld heeft natuurlijk ook een nuttige functie, maar die wordt geleidelijk overschaduwd door een zwarte kant. Klimaatverandering en oorlogen zijn (ook) uitwassen van de geldbelustheid van machtige mensen, bedrijven en zelfs overheden. In Verslaafd aan geld beschouwt oud-psychiater en verslavingsexpert Bram Bakker een vorm van mateloosheid die zo geaccepteerd is geraakt dat nog maar weinigen zich eraan storen. Terwijl het de hoogste tijd is om deze diagnose eens serieuze aandacht te geven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bram Bakker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het vrouwenhart]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44155380X/het-vrouwenhart-janneke-wittekoek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44155380X/het-vrouwenhart-janneke-wittekoek"/>
-        <updated>2025-11-30T07:12:43.504Z</updated>
-        <summary type="html"><![CDATA[het handboek over jouw hartgezondheid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44155380X?aid=kb-online-bibliotheek&sid=18&dts=1764475113107&sig=9584c5eae6ebec93578a53a388d66487b3e1f910088ea8a4f9100643284772fc&width=320" alt="Omslag van 'Het vrouwenhart'" title="Omslag van 'Het vrouwenhart'">
-<p>Wereldwijd is de sterfte als gevolg van hart- en vaatziekten bij vrouwen nog steeds doodsoorzaak nummer één. Deze hartproblemen kunnen grotendeels worden voorkomen door een gezonde leefstijl en door inzicht te krijgen in je risicofactoren. Door het vroegtijdig signaleren en behandelen van vrouwenhart klachten kan veel leed worden bespaard. Maar er zijn wel belangrijke verschillen in klachtenpatronen en de manier waarop je vrouwenhart ziek kan worden. Dat vraagt om maatwerk voor jou als vrouw. In deze volledig herziene en geactualiseerde editie van Het vrouwenhart geeft dr. Janneke uitleg over alle belangrijke man/vrouw-verschillen en geeft zij talloze tips en adviezen voor de juiste weg naar een betere hartgezondheid, toegankelijke uitleg over je hart, wat er mis kan gaan en hoe je dat herkent. Je leert naast het belang van gezond eten, voldoende bewegen en rust, wat de effecten van te veel stress, opgekropte emoties én een verstoorde hormonale balans op je hartgezondheid kunnen zijn. Leer dr. Janneke beter kennen door haar persoonlijke verhaal te lezen: een verhaal over haar passie voor geneeskunde en het streven naar betere zorg voor vrouwen, wat uiteindelijk tot de oprichting van haar eigen kliniek heeft geleid. Cardioloog en gezondheidswetenschapper dr. Janneke Wittekoek is eigenaar van de HeartLife Klinieken in Utrecht, een expertisecentrum voor hart en gezondheid dat speciale aandacht heeft voor het vrouwenhart. Vanuit haar hart en gebaseerd op persoonlijke ervaringen én gesprekken met duizenden patiënten deelt cardioloog Janneke Wittekoek haar passie voor het vrouwenhart. 'MIJN MISSIE IS OM VROUWENHARTEN BETER TE BEGRIJPEN, TE GENEZEN EN ERVOOR TE ZORGEN DAT ZE NIET ZIEK WORDEN!' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Janneke Wittekoek</name>
         </author>
     </entry>
     <entry>
@@ -200,18 +189,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uit contact]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/441708048/uit-contact-vera-van-brakel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/441708048/uit-contact-vera-van-brakel"/>
-        <updated>2025-11-30T07:12:44.975Z</updated>
-        <summary type="html"><![CDATA[de pijnlijke scheiding tussen een moeder en haar dochter]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A441708048?aid=kb-online-bibliotheek&sid=18&dts=1764486721101&sig=e1806411ccff96fcfe3e4a46da6aca06777f06ccd15416ba4d9b6e633bb55f04&width=320" alt="Omslag van 'Uit contact'" title="Omslag van 'Uit contact'">
-<p>Persoonlijk relaas van de schrijfster over het verlies van contact met haar enige dochter en kleindochter, tegen de achtergrond van haar rooms-katholieke jeugd.</p>]]></content>
-        <author>
-            <name>Vera van Brakel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Onverwacht]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/442052189/onverwacht-hanneke-van-de-plassche</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/442052189/onverwacht-hanneke-van-de-plassche"/>
@@ -221,6 +198,29 @@
 <p>Persoonlijke verhalen en handreikingen over het rouwproces.</p>]]></content>
         <author>
             <name>Hanneke van de Plassche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verslaafd aan geld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442998082/verslaafd-aan-geld-bram-bakker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442998082/verslaafd-aan-geld-bram-bakker"/>
+        <updated>2025-11-30T07:12:43.121Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442998082?aid=kb-online-bibliotheek&sid=18&dts=1764486762744&sig=bcda27c461d2ae903d6cd48d09883cb9f2441902521e75545aa8a124555302ed&width=320" alt="Omslag van 'Verslaafd aan geld'" title="Omslag van 'Verslaafd aan geld'">
+<p>'Wie van geld houdt, heeft nooit genoeg geld. En wie van rijkdom houdt, verdient nooit genoeg. Ook dat is maar lucht' staat te lezen in het bijbelboek Prediker. Het past naast een andere oude wijsheid die te denken geeft: 'Geld maakt niet gelukkig.' Waarom realiseren we ons dit zo moeizaam? Waarom is geld de grote motor die schuilgaat achter bijna alle maatschappelijke ontwikkelingen? Geld heeft natuurlijk ook een nuttige functie, maar die wordt geleidelijk overschaduwd door een zwarte kant. Klimaatverandering en oorlogen zijn (ook) uitwassen van de geldbelustheid van machtige mensen, bedrijven en zelfs overheden. In Verslaafd aan geld beschouwt oud-psychiater en verslavingsexpert Bram Bakker een vorm van mateloosheid die zo geaccepteerd is geraakt dat nog maar weinigen zich eraan storen. Terwijl het de hoogste tijd is om deze diagnose eens serieuze aandacht te geven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Bram Bakker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het vrouwenhart]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44155380X/het-vrouwenhart-janneke-wittekoek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44155380X/het-vrouwenhart-janneke-wittekoek"/>
+        <updated>2025-11-30T07:12:43.504Z</updated>
+        <summary type="html"><![CDATA[het handboek over jouw hartgezondheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44155380X?aid=kb-online-bibliotheek&sid=18&dts=1764475113107&sig=9584c5eae6ebec93578a53a388d66487b3e1f910088ea8a4f9100643284772fc&width=320" alt="Omslag van 'Het vrouwenhart'" title="Omslag van 'Het vrouwenhart'">
+<p>Wereldwijd is de sterfte als gevolg van hart- en vaatziekten bij vrouwen nog steeds doodsoorzaak nummer één. Deze hartproblemen kunnen grotendeels worden voorkomen door een gezonde leefstijl en door inzicht te krijgen in je risicofactoren. Door het vroegtijdig signaleren en behandelen van vrouwenhart klachten kan veel leed worden bespaard. Maar er zijn wel belangrijke verschillen in klachtenpatronen en de manier waarop je vrouwenhart ziek kan worden. Dat vraagt om maatwerk voor jou als vrouw. In deze volledig herziene en geactualiseerde editie van Het vrouwenhart geeft dr. Janneke uitleg over alle belangrijke man/vrouw-verschillen en geeft zij talloze tips en adviezen voor de juiste weg naar een betere hartgezondheid, toegankelijke uitleg over je hart, wat er mis kan gaan en hoe je dat herkent. Je leert naast het belang van gezond eten, voldoende bewegen en rust, wat de effecten van te veel stress, opgekropte emoties én een verstoorde hormonale balans op je hartgezondheid kunnen zijn. Leer dr. Janneke beter kennen door haar persoonlijke verhaal te lezen: een verhaal over haar passie voor geneeskunde en het streven naar betere zorg voor vrouwen, wat uiteindelijk tot de oprichting van haar eigen kliniek heeft geleid. Cardioloog en gezondheidswetenschapper dr. Janneke Wittekoek is eigenaar van de HeartLife Klinieken in Utrecht, een expertisecentrum voor hart en gezondheid dat speciale aandacht heeft voor het vrouwenhart. Vanuit haar hart en gebaseerd op persoonlijke ervaringen én gesprekken met duizenden patiënten deelt cardioloog Janneke Wittekoek haar passie voor het vrouwenhart. 'MIJN MISSIE IS OM VROUWENHARTEN BETER TE BEGRIJPEN, TE GENEZEN EN ERVOOR TE ZORGEN DAT ZE NIET ZIEK WORDEN!' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Janneke Wittekoek</name>
         </author>
     </entry>
     <entry>
@@ -260,17 +260,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hardlopen als lichaamswerk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448558084/hardlopen-als-lichaamswerk-bram-bakker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448558084/hardlopen-als-lichaamswerk-bram-bakker"/>
-        <updated>2025-11-30T07:12:47.040Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448558084?aid=kb-online-bibliotheek&sid=18&dts=1764453759833&sig=47bc8e263e51d1b7b10187c13aaa91a921b4e5b760172de155237ef61fb8cb73&width=320" alt="Omslag van 'Hardlopen als lichaamswerk'" title="Omslag van 'Hardlopen als lichaamswerk'">
-<p>Veel mensen weten dat sporten belangrijk is, maar om nu te zeggen dat ze uitkijken naar iedere training... Dit heeft te maken met hoe je er naar kijkt, en bepaalt ook de manier waarop je het vervolgens beleeft. Je kunt hardlopen vanuit je hoofd, aan de hand van schema's en getallen, omdat je een prestatiedoel hebt zoals het voltooien van een marathon. Maar hardlopen kan ook een laagdrempelige ingang tot je binnenwereld zijn, een manier om contact te maken met je emoties. Dan is het proces het doel, en beoefen je lichaamswerk. Tijdens een rustige lange duurloop kun je in je lijf komen. Hoe dat ook voor jou kan werken lees je in dit boek, waarin de transformatie van wedstrijdatleet naar gepassioneerde liefhebber de rode draad vormt. Praktisch en informatief, ook over andere vormen van lichaamswerk, zoals ademwerk. Bram Bakker (1963) is naast alles wat hij verder doet al zijn hele leven hardloper. Hij was psychiater en is nu van alles, maar vooral meer zichzelf. Hij coacht en traint, maakt podcasts en schrijft boeken. Ook maakt hij theater. Hij is de initiatiefnemer achter de Balanskliniek, een gezondheidsplatform waar het (her)vinden en behouden van een gezonde balans in het leven het centrale thema is. Dit boek bevat ook een nieuw perspectief op de opleiding Runningtherapie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bram Bakker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Het mannenhart]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/448155982/het-mannenhart-janneke-wittekoek</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/448155982/het-mannenhart-janneke-wittekoek"/>
@@ -293,14 +282,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onze levens in Londen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443458073/onze-levens-in-londen-christine-dwyer-hickey</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443458073/onze-levens-in-londen-christine-dwyer-hickey"/>
-        <updated>2025-11-29T07:12:39.145Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443458073?aid=kb-online-bibliotheek&sid=18&dts=1764339449852&sig=f3cb03eada881be79182fa3cdbe706eb96a1009a11849e0d88eb384fde5299f8&width=320" alt="Omslag van 'Onze levens in Londen'" title="Omslag van 'Onze levens in Londen'">
-<p>Het is 1979 als twee Ierse buitenbeentjes elkaar vinden in de uitgestrekte en vaak meedogenloze stad Londen. Milly, een weggelopen tiener, en Pip, een getalenteerde bokser, ontmoeten elkaar in de pub waar Milly een baantje heeft gevonden. Net als Milly worstelt Pip met het verleden, hij zit vol woede en probeert dat te verdoven met alcohol. De liefde tussen hen beiden bloeit, maar lijkt geen kans te krijgen.  In de loop van de decennia leiden ze ieder hun eigen leven. Hoewel ze altijd in elkaars gedachten zijn en hun paden telkens kruisen, zijn ze nooit echt samen. Veertig jaar later trekt Milly zich terug in de leegstaande pub, het enige thuis dat ze ooit heeft gekend, terwijl Pip, met T.S. Eliots The Waste Land op zak, door de straten van Londen dwaalt, op zoek naar een manier om zijn verwoeste leven weer op te pakken.</p><p>Deze prachtige roman over twee levens is het verhaal van de liefde: rauw, teder, verlangend, en biedt een rijk en ontroerend portret van een immer veranderende stad. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hardlopen als lichaamswerk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448558084/hardlopen-als-lichaamswerk-bram-bakker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448558084/hardlopen-als-lichaamswerk-bram-bakker"/>
+        <updated>2025-11-30T07:12:47.040Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448558084?aid=kb-online-bibliotheek&sid=18&dts=1764453759833&sig=47bc8e263e51d1b7b10187c13aaa91a921b4e5b760172de155237ef61fb8cb73&width=320" alt="Omslag van 'Hardlopen als lichaamswerk'" title="Omslag van 'Hardlopen als lichaamswerk'">
+<p>Veel mensen weten dat sporten belangrijk is, maar om nu te zeggen dat ze uitkijken naar iedere training... Dit heeft te maken met hoe je er naar kijkt, en bepaalt ook de manier waarop je het vervolgens beleeft. Je kunt hardlopen vanuit je hoofd, aan de hand van schema's en getallen, omdat je een prestatiedoel hebt zoals het voltooien van een marathon. Maar hardlopen kan ook een laagdrempelige ingang tot je binnenwereld zijn, een manier om contact te maken met je emoties. Dan is het proces het doel, en beoefen je lichaamswerk. Tijdens een rustige lange duurloop kun je in je lijf komen. Hoe dat ook voor jou kan werken lees je in dit boek, waarin de transformatie van wedstrijdatleet naar gepassioneerde liefhebber de rode draad vormt. Praktisch en informatief, ook over andere vormen van lichaamswerk, zoals ademwerk. Bram Bakker (1963) is naast alles wat hij verder doet al zijn hele leven hardloper. Hij was psychiater en is nu van alles, maar vooral meer zichzelf. Hij coacht en traint, maakt podcasts en schrijft boeken. Ook maakt hij theater. Hij is de initiatiefnemer achter de Balanskliniek, een gezondheidsplatform waar het (her)vinden en behouden van een gezonde balans in het leven het centrale thema is. Dit boek bevat ook een nieuw perspectief op de opleiding Runningtherapie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Christine Dwyer Hickey</name>
+            <name>Bram Bakker</name>
         </author>
     </entry>
     <entry>
@@ -315,6 +304,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Onze levens in Londen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443458073/onze-levens-in-londen-christine-dwyer-hickey</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443458073/onze-levens-in-londen-christine-dwyer-hickey"/>
+        <updated>2025-11-29T07:12:39.145Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443458073?aid=kb-online-bibliotheek&sid=18&dts=1764339449852&sig=f3cb03eada881be79182fa3cdbe706eb96a1009a11849e0d88eb384fde5299f8&width=320" alt="Omslag van 'Onze levens in Londen'" title="Omslag van 'Onze levens in Londen'">
+<p>Het is 1979 als twee Ierse buitenbeentjes elkaar vinden in de uitgestrekte en vaak meedogenloze stad Londen. Milly, een weggelopen tiener, en Pip, een getalenteerde bokser, ontmoeten elkaar in de pub waar Milly een baantje heeft gevonden. Net als Milly worstelt Pip met het verleden, hij zit vol woede en probeert dat te verdoven met alcohol. De liefde tussen hen beiden bloeit, maar lijkt geen kans te krijgen.  In de loop van de decennia leiden ze ieder hun eigen leven. Hoewel ze altijd in elkaars gedachten zijn en hun paden telkens kruisen, zijn ze nooit echt samen. Veertig jaar later trekt Milly zich terug in de leegstaande pub, het enige thuis dat ze ooit heeft gekend, terwijl Pip, met T.S. Eliots The Waste Land op zak, door de straten van Londen dwaalt, op zoek naar een manier om zijn verwoeste leven weer op te pakken.</p><p>Deze prachtige roman over twee levens is het verhaal van de liefde: rauw, teder, verlangend, en biedt een rijk en ontroerend portret van een immer veranderende stad. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Christine Dwyer Hickey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mannenborstjes]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456242090/mannenborstjes-bill-mensema</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456242090/mannenborstjes-bill-mensema"/>
@@ -326,14 +326,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anna's keuze]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456242074/anna-s-keuze-dani-van-doorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456242074/anna-s-keuze-dani-van-doorn"/>
-        <updated>2025-11-29T07:12:40.078Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456242074?aid=kb-online-bibliotheek&sid=18&dts=1764339697461&sig=d1ae5782c462dc4084f8556e5d3711db0e232eaf81a0d8ad47a8685a90b94347&width=320" alt="Omslag van 'Anna's keuze'" title="Omslag van 'Anna's keuze'">
-<p>Zelfstandig te lezen vervolg op het succesvolle Anna's twijfels. Op haar landgoed in het Brabantse Waalre begint Anna van Bergen met de opvang van ongehuwde moeders. Met veel zorg begeleidt ze zwangere meisjes naar een nieuwe toekomst. Haar goede vriend Baron Johan Goeree staat haar met raad en daad terzijde. In Anna's omgeving vindt het ene na het andere huwelijk plaats, maar is er ook voor haar nog liefde in het vooruitzicht? Dani van Doorn schrijft historische en hedendaagse romans. Haar verhalen zijn een mix van romantiek, humor en drama, gelardeerd met (historische) feiten. Met haar feelgoodromans stond ze in 2019 en 2022 op de shortlist van de Valentijnprijs voor het beste romantische boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De bokbende van Blokzijl]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456242082/de-bokbende-van-blokzijl-peter-de-zwaan</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456242082/de-bokbende-van-blokzijl-peter-de-zwaan"/>
+        <updated>2025-11-29T07:12:41.233Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456242082?aid=kb-online-bibliotheek&sid=18&dts=1764346381535&sig=ffcbb52e7358ca1c4b4fa1a9165c984a27f49fbe08f13254e14e406d90309607&width=320" alt="Omslag van 'De bokbende van Blokzijl'" title="Omslag van 'De bokbende van Blokzijl'">
+<p>De opdracht kwam van Durk Leport: 'Haal in de buurt van Blokzijl een boot op die ze in dat gebied bok noemen en vaar er mee rond. Zorg dat de bok wordt gestolen en zoek uit wie dat doet.' Wat is er mooier dan zo'n klus midden in de vakantietijd, zeker als je er gratis een Simca bij krijgt. Er gebeurt dagenlang niets tot Jan bij Blokzijl een drone boven zijn hoofd ziet cirkelen. De drone is ook te zien boven het terras van Geertien, een restaurant in het gehucht Muggenbeet dat in een stinkwolk wordt gehuld omdat de Simca meer olie dan benzine verbruikt. Arie meldt dat de kap van hun Yamaha-buitenboordmotor is gestolen en Bob gaat te water in het natuurgebied Weerribben waar de kap lijkt te zijn gedumpt. Daarna volgen de gebeurtenissen elkaar snel op. Arie ontmoet het duo Pet en Pet dat alles ziet wat over de Wetering vaart en hij heeft een gesprek met een pinnige tante die waakt over twee scholieren met een slecht geweten. Jan ontmoet 'ten zuiden van Zwolle' een man die liever tennist dan problemen oplost en Bob gaat in Wanneperveen voor de tweede keer te water, op zoek naar bokken. Ongeveer op hetzelfde moment worden Arie en Jan ontdekt door de man die boten steelt. Ze vluchten naar een schuur ... en dat is niet verstandig. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Dani van Doorn</name>
+            <name>Peter de Zwaan</name>
         </author>
     </entry>
     <entry>
@@ -348,15 +348,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anders-zijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456227474/anders-zijn-viet-thanh-nguyen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456227474/anders-zijn-viet-thanh-nguyen"/>
-        <updated>2025-11-29T07:12:40.827Z</updated>
-        <summary type="html"><![CDATA[De betekenis van de 'ander' in de literatuur]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456227474?aid=kb-online-bibliotheek&sid=18&dts=1764339031435&sig=b63ffd48590792ba2f559a0d6210b28b42323bfb37c143d6610530a1aebe2715&width=320" alt="Omslag van 'Anders-zijn'" title="Omslag van 'Anders-zijn'">
-<p>Waarom worden sommige mensen als ‘anders’ gezien, en wie bepaalt dat?</p><p> In Anders-zijn onderzoekt Pulitzerprijswinnaar Viet Thanh Nguyen in zes bevlogen essays de mechanismen van uitsluiting, representatie en macht.  Vanuit zijn eigen ervaringen als vluchteling, schrijver en academicus stelt Nguyen confronterende vragen over identiteit, culturele toe-eigening en het verhaal van Amerika. De auteur neemt ons mee langs schrijvers uit de geschiedenis: van Shakespeare, Jane Austen en de Brontë-zusters tot Alice Walker, Mahmoud Darwish en Edward Said.</p><p> ‘Nguyen vervlecht moeiteloos persoonlijke reflecties met literaire analyse (…) De essays zijn stuk voor stuk prikkelend, bevatten overtuigende argumenten en geven de lezer volop stof tot nadenken.’ – Publishers Weekly</p><p> ‘Een provocatieve verkenning van de auteur als verteller, antropoloog en ingewijde buitenstaander.’ – Kirkus </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het oog van Zarabanda]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456242104/het-oog-van-zarabanda-rutger-de-bruijn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456242104/het-oog-van-zarabanda-rutger-de-bruijn"/>
+        <updated>2025-11-29T07:12:41.607Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456242104?aid=kb-online-bibliotheek&sid=18&dts=1764343806481&sig=58523a2290f6a5a917a47609c45fe01680e03b509c76703f54f59d5acbe789b5&width=320" alt="Omslag van 'Het oog van Zarabanda'" title="Omslag van 'Het oog van Zarabanda'">
+<p>JE BENT GEBOREN ALS ORIGINEEL STERF NIET ALS EEN KOPIE John Mason De schuchtere onderwijzeres Rica en de uitbundige verpleegkundige Aaf wonen tijdens hun stageperiode in hetzelfde Surinaamse huis. Ze lijken tot elkaar veroordeeld. Na terugkeer in Nederland krijgen ze op Schiphol een daverende ruzie. Rica schreeuwt Aaf toe dat zij haar nooit meer wil zien en vertrekt met stille trom. Toeval of niet, na ruim twee jaar krijgen ze volkomen onverwachts weer contact. Hun levens zijn ondertussen radicaal veranderd. Geleidelijk aan raken ze meer met elkaar verbonden. De psychologische volwassenwording verloopt met vallen en opstaan. Het geheim dat Rica al die jaren met zich meedraagt leidt tot speculaties bij familie en vrienden. Wanneer de dames inmiddels Sarah hebben gezien, wordt Rica's geheim alsnog geopenbaard. Het nieuws slaat in als een bom. * Rutger de Bruijn was werkzaam als (interim)manager in de Human Resources. Sinds 2007 komt hij in Suriname en overwintert daar met zijn vrouw. Het opvallende straatbeeld in Paramaribo, met overal in groepjes fietsende jonge stagiaires, inspireerde hem tot het schrijven van deze Bildungsroman. De gesprekjes die hij met deze ondernemende jonge vrouwen in de loop der jaren had, hebben zijn fantasie getriggerd. * Een meeslepende zoektocht naar liefde, waarheid en thuiskomen Verteld door de ogen van twee vrouwen die je recht in het hart raken Sandra Bernart - docent Online Schrijfschool </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Viet Thanh Nguyen</name>
+            <name>Rutger de Bruijn</name>
         </author>
     </entry>
 </feed>
