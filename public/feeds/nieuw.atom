@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-12-08T07:19:19.038Z</updated>
+    <updated>2025-12-09T07:17:19.756Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -42,17 +42,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bijna een vader]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433228598/bijna-een-vader-alejandro-zambra</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433228598/bijna-een-vader-alejandro-zambra"/>
-        <updated>2025-12-08T07:19:12.468Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433228598?aid=kb-online-bibliotheek&sid=19&dts=1765178351990&sig=934b37aa6c21c3991a6b7fba16fca5095d814b6aaba8d9f1877e71c4199c05b5&width=320" alt="Omslag van 'Bijna een vader'" title="Omslag van 'Bijna een vader'">
-<p>‘Wie valt voor Zambra’s literatuur, heeft een fascinerende weg voor de boeg. Ik ben dol op zijn onbeschaamde durf.' – Enrique Vila-Matas, auteur van Bartleby & Co Niet langer zullen Gonzalo en Carla heimelijk met elkaar vozen onder dezelfde poncho, nauwelijks afgeschermd van de moeder die in dezelfde kamer tv kijkt. Hun puberliefde wordt in de kiem gesmoord. Maar als Gonzalo haar na negen jaar terugziet, krijgt hij een tweede kans. En mét haar een opgave, namelijk vader zijn. Want terwijl hij zich in de tussentijd verloor in de poëzie, heeft Carla een zoon gekregen. En al is Gonzalo niet diens biologische vader, hij moet en zal het beter doen dan de nutteloze mannen uit zijn eigen familie.Dat lukt echter maar ten dele en wanneer er eindelijk een dichtbundel van hem wordt gepubliceerd, verliest hij de vaderambities uit het oog en ook zijn zoon. Vele jaren verstrijken voordat er weer enige hoop gloort op een hereniging. De appel blijkt niet ver van de boom te zijn gevallen, want ook de jongen is verzot op poëzie. Bijna een vader is een roman over het gewicht van liefde, over vaderschap en de tragikomische bevrijdingsstrijd van een man die iets heel anders had verwacht van het leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Alejandro Zambra</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De ex-zoon]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/433228520/de-ex-zoon-sasja-filipenko</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/433228520/de-ex-zoon-sasja-filipenko"/>
@@ -75,36 +64,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stern 111]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434759708/stern-111-lutz-seiler</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434759708/stern-111-lutz-seiler"/>
-        <updated>2025-12-08T07:19:14.188Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434759708?aid=kb-online-bibliotheek&sid=19&dts=1765178353716&sig=428b14063375d2e1680201052ef3603bd2cc81189837e11bf722b7f4374bb991&width=320" alt="Omslag van 'Stern 111'" title="Omslag van 'Stern 111'">
-<p>‘Stern 111 vertelt op grootse wijze over het chaotische ontwaken in Oost-Berlijn na het einde van de DDR .’ – Frankfurter Rundschau Twee dagen na de val van de Muur verlaten Inge en Walter Bischof hun oude leven in het Oost-Duitse Gera. Via opvangcentra en tijdelijke onderkomens in het Westen volgen ze een lang gekoesterde droom, het ‘geheim van hun leven’, waar zelfs hun zoon Carl niets van afwist. Carl weigert de opdracht om de nalatenschap van zijn ouders over te nemen en vlucht naar Oost-Berlijn. Hij wordt opgenomen in de kring van de ‘koene roedel’, een groep jonge mannen en vrouwen die zich bezighoudt met duistere zaakjes en met een guerrillaoorlog om leegstaande panden. Stern 111 geeft een fantastisch panorama van de eerste jaren na de val van de Muur. En het vertelt daarnaast de geschiedenis van een gezin dat de weg terug naar elkaar moet vinden ‘Voor de tweede keer is Lutz Seiler erin geslaagd iets zeer buitengewoons te doen: namelijk in een roman die geschikt is voor “het grote publiek” in de beste zin van het woord, te vertellen over hoe men werkelijk het dichterlijke bestaan leidt, een even euforische als wrede aangelegenheid.’ – Frankfurter Allgemeine Zeitung </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Bijna een vader]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433228598/bijna-een-vader-alejandro-zambra</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433228598/bijna-een-vader-alejandro-zambra"/>
+        <updated>2025-12-08T07:19:12.468Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433228598?aid=kb-online-bibliotheek&sid=19&dts=1765178351990&sig=934b37aa6c21c3991a6b7fba16fca5095d814b6aaba8d9f1877e71c4199c05b5&width=320" alt="Omslag van 'Bijna een vader'" title="Omslag van 'Bijna een vader'">
+<p>‘Wie valt voor Zambra’s literatuur, heeft een fascinerende weg voor de boeg. Ik ben dol op zijn onbeschaamde durf.' – Enrique Vila-Matas, auteur van Bartleby & Co Niet langer zullen Gonzalo en Carla heimelijk met elkaar vozen onder dezelfde poncho, nauwelijks afgeschermd van de moeder die in dezelfde kamer tv kijkt. Hun puberliefde wordt in de kiem gesmoord. Maar als Gonzalo haar na negen jaar terugziet, krijgt hij een tweede kans. En mét haar een opgave, namelijk vader zijn. Want terwijl hij zich in de tussentijd verloor in de poëzie, heeft Carla een zoon gekregen. En al is Gonzalo niet diens biologische vader, hij moet en zal het beter doen dan de nutteloze mannen uit zijn eigen familie.Dat lukt echter maar ten dele en wanneer er eindelijk een dichtbundel van hem wordt gepubliceerd, verliest hij de vaderambities uit het oog en ook zijn zoon. Vele jaren verstrijken voordat er weer enige hoop gloort op een hereniging. De appel blijkt niet ver van de boom te zijn gevallen, want ook de jongen is verzot op poëzie. Bijna een vader is een roman over het gewicht van liefde, over vaderschap en de tragikomische bevrijdingsstrijd van een man die iets heel anders had verwacht van het leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lutz Seiler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alles moet mooi zijn aan de mens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436438135/alles-moet-mooi-zijn-aan-de-mens-sasha-marianna-salzmann</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436438135/alles-moet-mooi-zijn-aan-de-mens-sasha-marianna-salzmann"/>
-        <updated>2025-12-08T07:19:14.784Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436438135?aid=kb-online-bibliotheek&sid=19&dts=1765178354297&sig=8aa11c47873a3743158d1d721e1b1733249316efd3c05a19bf076c813cb07f70&width=320" alt="Omslag van 'Alles moet mooi zijn aan de mens'" title="Omslag van 'Alles moet mooi zijn aan de mens'">
-<p>Briljant boek.’ – Neue Zürcher Zeitung Hoe kan men ‘glorieus’ zijn in een land waar corruptie en onderdrukking heersen, waar alleen diegenen overleven die zich onderwerpen aan het regime? Hoe moet men deze ervaring te boven komen als er niet over gesproken wordt, zelfs niet na de emigratie en zelfs niet met de eigen dochter? ‘Wat zien ze als ze met hun Sovjet-ogen door de gordijnen naar de binnenplaatsen en straten van een Oost-Duitse stad kijken?’ vraagt Nina als ze denkt aan haar moeder Tatjana en haar vriendin Lena, die halverwege de jaren negentig Oekraïne verlieten, in Jena strandden en daar opnieuw begonnen. Lena’s dochter Edi vraagt er al lang niet meer naar, ze wil niets met haar afkomst te maken hebben. In Alles moet mooi zijn aan de mens vertelt Sasha Marianna Salzmann over tijden van omwenteling, van de ‘vleesmolen-tijd’ van de perestrojka tot het huidige Duitsland; hoe systemen desintegreren en mensen worden meegesleurd in de maalstroom van gebeurtenissen. Salzmann volgt vier levens en traceert vol empathie en met grote intensiteit de onverbrekelijke verstrengeling van generaties, door tijd en ruimte heen. ‘Mooier kun je niet vertellen over de pijn van wat verloren is gegaan.’ – Deutschlandfunk Kultur </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sasha Marianna Salzmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De wonderen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434764817/de-wonderen-elena-medel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434764817/de-wonderen-elena-medel"/>
-        <updated>2025-12-08T07:19:15.371Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434764817?aid=kb-online-bibliotheek&sid=19&dts=1765178354892&sig=10dd6f03cba52845f51ae28ee52757fcc6f293de396c572a1d9a637e7b91d2ee&width=320" alt="Omslag van 'De wonderen'" title="Omslag van 'De wonderen'">
-<p>Dit is een roman over geld, het gebrek aan geld, en hoe bepalend dat is voor de levens en lichamen van vrouwen. María en Alicia zijn een grootmoeder en kleindochter die elkaar nooit hebben ontmoet. Beiden trekken naar Madrid op zoek naar werk en onafhankelijkheid, al zitten er tientallen jaren tussen. María, die de kost verdient als schoon ­maakster en verzorgster, en die geld naar huis stuurt voor haar dochtertje, dat ze noodgedwongen heeft achtergelaten; Alicia, in welvaart opgegroeid totdat haar familie door omstandigheden alles kwijtraakte, die gevangen zit in een laagbetaalde baan en een cyclus van afgezaagde ontrouw. Hun beider levens worden gekenmerkt door onzekerheid, en door het beklijvende gevoel van hoe anders het had kunnen zijn. De wonderen is een onthullende roman over klasse, geschiedenis en feminisme; over wat er is veranderd voor vrouwen uit de arbeidersklasse en wat hardnekkig hetzelfde is gebleven. Een politieke roman en een familiesaga met echo’s van het werk van Ernaux, Didion en Ferrante. ‘Een betoverend boek .’ – Avni Doshi, auteur van Verbrande suiker ‘De wonderen is er duidelijk over: geld is de grootste verteller van de wereld.’ – El Cultural ‘Over deze roman zullen we het nog heel lang hebben. En om heel goede redenen.’ – Publishers Weekly ‘Verhaal en stijl gaan hand in hand in een literair wonder dat absoluut persoonlijk is en toch doet denken aan de vermetelheid van Virginia Woolf, de sfeer van Carmen Laforet en de scherpte van Rafael Chirbes.’ – Babelia, El País </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elena Medel</name>
+            <name>Alejandro Zambra</name>
         </author>
     </entry>
     <entry>
@@ -119,6 +86,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De wonderen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434764817/de-wonderen-elena-medel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434764817/de-wonderen-elena-medel"/>
+        <updated>2025-12-08T07:19:15.371Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434764817?aid=kb-online-bibliotheek&sid=19&dts=1765178354892&sig=10dd6f03cba52845f51ae28ee52757fcc6f293de396c572a1d9a637e7b91d2ee&width=320" alt="Omslag van 'De wonderen'" title="Omslag van 'De wonderen'">
+<p>Dit is een roman over geld, het gebrek aan geld, en hoe bepalend dat is voor de levens en lichamen van vrouwen. María en Alicia zijn een grootmoeder en kleindochter die elkaar nooit hebben ontmoet. Beiden trekken naar Madrid op zoek naar werk en onafhankelijkheid, al zitten er tientallen jaren tussen. María, die de kost verdient als schoon ­maakster en verzorgster, en die geld naar huis stuurt voor haar dochtertje, dat ze noodgedwongen heeft achtergelaten; Alicia, in welvaart opgegroeid totdat haar familie door omstandigheden alles kwijtraakte, die gevangen zit in een laagbetaalde baan en een cyclus van afgezaagde ontrouw. Hun beider levens worden gekenmerkt door onzekerheid, en door het beklijvende gevoel van hoe anders het had kunnen zijn. De wonderen is een onthullende roman over klasse, geschiedenis en feminisme; over wat er is veranderd voor vrouwen uit de arbeidersklasse en wat hardnekkig hetzelfde is gebleven. Een politieke roman en een familiesaga met echo’s van het werk van Ernaux, Didion en Ferrante. ‘Een betoverend boek .’ – Avni Doshi, auteur van Verbrande suiker ‘De wonderen is er duidelijk over: geld is de grootste verteller van de wereld.’ – El Cultural ‘Over deze roman zullen we het nog heel lang hebben. En om heel goede redenen.’ – Publishers Weekly ‘Verhaal en stijl gaan hand in hand in een literair wonder dat absoluut persoonlijk is en toch doet denken aan de vermetelheid van Virginia Woolf, de sfeer van Carmen Laforet en de scherpte van Rafael Chirbes.’ – Babelia, El País </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elena Medel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alles moet mooi zijn aan de mens]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436438135/alles-moet-mooi-zijn-aan-de-mens-sasha-marianna-salzmann</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436438135/alles-moet-mooi-zijn-aan-de-mens-sasha-marianna-salzmann"/>
+        <updated>2025-12-08T07:19:14.784Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436438135?aid=kb-online-bibliotheek&sid=19&dts=1765178354297&sig=8aa11c47873a3743158d1d721e1b1733249316efd3c05a19bf076c813cb07f70&width=320" alt="Omslag van 'Alles moet mooi zijn aan de mens'" title="Omslag van 'Alles moet mooi zijn aan de mens'">
+<p>Briljant boek.’ – Neue Zürcher Zeitung Hoe kan men ‘glorieus’ zijn in een land waar corruptie en onderdrukking heersen, waar alleen diegenen overleven die zich onderwerpen aan het regime? Hoe moet men deze ervaring te boven komen als er niet over gesproken wordt, zelfs niet na de emigratie en zelfs niet met de eigen dochter? ‘Wat zien ze als ze met hun Sovjet-ogen door de gordijnen naar de binnenplaatsen en straten van een Oost-Duitse stad kijken?’ vraagt Nina als ze denkt aan haar moeder Tatjana en haar vriendin Lena, die halverwege de jaren negentig Oekraïne verlieten, in Jena strandden en daar opnieuw begonnen. Lena’s dochter Edi vraagt er al lang niet meer naar, ze wil niets met haar afkomst te maken hebben. In Alles moet mooi zijn aan de mens vertelt Sasha Marianna Salzmann over tijden van omwenteling, van de ‘vleesmolen-tijd’ van de perestrojka tot het huidige Duitsland; hoe systemen desintegreren en mensen worden meegesleurd in de maalstroom van gebeurtenissen. Salzmann volgt vier levens en traceert vol empathie en met grote intensiteit de onverbrekelijke verstrengeling van generaties, door tijd en ruimte heen. ‘Mooier kun je niet vertellen over de pijn van wat verloren is gegaan.’ – Deutschlandfunk Kultur </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sasha Marianna Salzmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stern 111]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434759708/stern-111-lutz-seiler</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434759708/stern-111-lutz-seiler"/>
+        <updated>2025-12-08T07:19:14.188Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434759708?aid=kb-online-bibliotheek&sid=19&dts=1765178353716&sig=428b14063375d2e1680201052ef3603bd2cc81189837e11bf722b7f4374bb991&width=320" alt="Omslag van 'Stern 111'" title="Omslag van 'Stern 111'">
+<p>‘Stern 111 vertelt op grootse wijze over het chaotische ontwaken in Oost-Berlijn na het einde van de DDR .’ – Frankfurter Rundschau Twee dagen na de val van de Muur verlaten Inge en Walter Bischof hun oude leven in het Oost-Duitse Gera. Via opvangcentra en tijdelijke onderkomens in het Westen volgen ze een lang gekoesterde droom, het ‘geheim van hun leven’, waar zelfs hun zoon Carl niets van afwist. Carl weigert de opdracht om de nalatenschap van zijn ouders over te nemen en vlucht naar Oost-Berlijn. Hij wordt opgenomen in de kring van de ‘koene roedel’, een groep jonge mannen en vrouwen die zich bezighoudt met duistere zaakjes en met een guerrillaoorlog om leegstaande panden. Stern 111 geeft een fantastisch panorama van de eerste jaren na de val van de Muur. En het vertelt daarnaast de geschiedenis van een gezin dat de weg terug naar elkaar moet vinden ‘Voor de tweede keer is Lutz Seiler erin geslaagd iets zeer buitengewoons te doen: namelijk in een roman die geschikt is voor “het grote publiek” in de beste zin van het woord, te vertellen over hoe men werkelijk het dichterlijke bestaan leidt, een even euforische als wrede aangelegenheid.’ – Frankfurter Allgemeine Zeitung </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lutz Seiler</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elena weet]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/436920298/elena-weet-claudio-pin-eiro</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/436920298/elena-weet-claudio-pin-eiro"/>
@@ -127,6 +127,105 @@
 <p>‘I N T I E M E N V L I J M S C H E R P V E R H A A L.’ – ESCRIBIRTE.COM.AR Elena heeft parkinson, haar dagindeling en schaarse activiteiten hangen daardoor volledig af van de stipte momenten dat ze haar medicijnen inneemt – haar ledematen werken dan een paar uur beter mee en uit lange ervaring weet ze precies hoeveel tijd ze heeft en wat haar actieradius is. Isabel woont aan de andere kant van de stad en hoewel de reis door de stad een schier onmogelijke opgave is voor Elena, móet ze Isabel opzoeken, want zij is degene die kan aantonen dat Elena’s dochter Rita geen zelfmoord heeft gepleegd. Met een strop om haar nek hing ze aan de kerkklok. Rita, die haar verzorgde, die ook bij Elena bleef wonen toen ze haar eerste vriend kreeg. Behendig weet Piñeiro in 'Elena weet' verhaallijnen van heden en verleden door elkaar. Ze schetst een schitterend, pijnlijk portret van de relatie tussen moeder en dochter, laverend tussen afhankelijkheid, haat en liefde, en weet feilloos in woorden te vatten wat het betekent gevangen te zitten in een lichaam dat amper doet wat je het opdraagt. ‘Dit boek fascineert van de eerste tot de laatste bladzijde.’ – Neue Zürcher Zeitung </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Claudio Piñeiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hetze]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436438208/hetze-sasja-filipenko</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436438208/hetze-sasja-filipenko"/>
+        <updated>2025-12-09T07:17:14.555Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436438208?aid=kb-online-bibliotheek&sid=19&dts=1765212342416&sig=ebaf8125690c7d60a677f6b6e4dff2979835d9b2074071ee10d787dcbab2e016&width=320" alt="Omslag van 'Hetze'" title="Omslag van 'Hetze'">
+<p>EEN VERWARRENDE, ANGSTAANJAGENDE LEESERVARING WAAR JE DE RILLINGEN VAN KRIJGT.’ — NDR KULTUR Een journalist die te veel weet. Een zoon die zijn vader verraadt. Een oligarch die geen genade kent. Media die op bestelling iemands reputatie verpesten. Sasja Filipenko vertelt het verhaal van de idealistische journalist Anton Kwint, die het opneemt tegen een oligarch, die op zijn beurt bevel geeft om met Kwint af te rekenen. De hetze begint. Volodja Slavin is een oligarch met politieke ambities. Wanneer de jonge journalist Anton Kwint onthult dat de zelfverklaarde patriot zijn fortuin in het buitenland heeft geparkeerd en dat zijn familie liever aan de Côte d’Azur verblijft dan in Rusland, zweert Slavin wraak. De stemmen van de jagers en de opgejaagde klinken: temporijk, onverbiddelijk, literair meesterlijk gecomponeerd – een roman dicht op de realiteit van een moedig criticus van Rusland en zijn geboorteland Belarus. Het verhaal met de opzet van een muziekstuk ontvouwt zich in filmische scènes, die heen en weer springen tussen de perspectieven van de journalist – zich bewust van zijn missie – en die van de achtervolgers, die trots zijn op hun cynisme.’ – F R A N K F U RT E R A L LG E M E I N E Z E I T U N G </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sasja Filipenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De afgronden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437868044/de-afgronden-pilar-quintana</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437868044/de-afgronden-pilar-quintana"/>
+        <updated>2025-12-09T07:17:14.996Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437868044?aid=kb-online-bibliotheek&sid=19&dts=1765213680424&sig=507c6317a117de20500345f5c0656ba1ddced48a0d256035fd7982d7fdc33098&width=320" alt="Omslag van 'De afgronden'" title="Omslag van 'De afgronden'">
+<p>'De afgronden [schetst] een hartverscheurende kaart van de schrijnende weg naar de vrijheid.’ – Irene Vallejo, auteur van Papyrus. Een geschiedenis van de wereld in boeken. Claudia woont met haar ouders in een flat die bijna dicht groeit van de vele planten, planten die zich naar haar lijken uit te strekken om haar aan te raken. Er is in het gezin sprake van een onderhuidse crisis en er is maar heel weinig nodig om die te laten exploderen. Iedereen beleeft een breekpunt in zijn jeugd, en Claudia vertelt met de scherpe blik van toen ze een kind was over de gebeurtenissen die de kieren van de normaliteit verwijdden, waardoor de ergste angsten binnenslopen, angsten waar amper verweer voor bestaat en die ons naar de rand van de afgrond duwen. De afgronden is een schrijnend verhaal waarin een dochter de onthullingen van haar moeder en de stiltes van haar vader overneemt om er haar eigen wereld mee te creëren. Een roman over het einde van de kindertijd en haar spoken. 'Hoe kan ik samenvatten wat me fascineerde aan Pilar Quintana? De brutale lyriek. Haarweg tegen de verwachting in. Die vlijmscherpe, poëtische en allerminst zelfgenoegzame spanning.’ – Sara Mesa, auteur van Litteken en Een liefde. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Pilar Quintana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deception Island]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437868036/deception-island-paulina-flores</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437868036/deception-island-paulina-flores"/>
+        <updated>2025-12-09T07:17:15.415Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437868036?aid=kb-online-bibliotheek&sid=19&dts=1765212344462&sig=c5e7b793102c732c88fa07f901b7daa446f9db6ae7f579237118a4ad8e6491e3&width=320" alt="Omslag van 'Deception Island'" title="Omslag van 'Deception Island'">
+<p>Net als Alice Munro wekt Flores empathie op met een zorgvuldige aandacht voor details. De mensheid, zo maakt ze duidelijk,aandacht voor details. De mensheid, zo maakt ze duidelijk, is verbonden door een gedeelde kwetsbaarheid.’is verbonden door een gedeelde kwetsbaarheid.’ —— THE GUARDIAN Een jonge vrouw van bijna dertig, Marcela, heeft liefdesverdriet en keuzestress en vertrekt vanuit de Chileense hoofdstad Santiago naar Punta Arenas, aan de Straat van Magellaan in Patagonië, waar haar vader woont na de scheiding van haar moeder. Hij blijkt een Zuid-Koreaan in huis te verbergen, die van een Chinees schip, een varende visverwerkingsfabriek, is gevallen (gegooid, gesprongen?). Tussen de drie – alle drie in zekere zin op de vlucht voor iets – ontstaat een complexe driehoeksverhouding die zich nooit helemaal uitkristalliseert en waarin veel dingen lang onduidelijk blijven. Met Zuid-Koreaanse films en strips als inspiratiebron, schetst millennial Paulina Flores in deze gevoelige, broeierige roman op even poëtische als intense wijze een beeld van haar generatie en haar land, waar bijna terloops de grote problemen van deze tijd doorheen zijn verweven: het leegvissen van de zeeën, ontbossing, klimaatverandering, migratie, ongelijkheid, moderne slavernij. Deception Island is de langverwachte eerste roman van de Chileense Paulina Flores, die internationaal doorbrak met haar debuut 'Een beschamende vertoning. Over Een beschamende vertoning zegt Alejandro Zambra, auteur van Bijna een vader het volgende: ‘Een briljant boek dat de vluchtigheid van misverstanden vastlegt, het moment waarop mislukkingen er minder toe doen dan de behoefte om ze te delen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Paulina Flores</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het mysterie van Mrs. Indonesia]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437880540/het-mysterie-van-mrs--indonesia-y-b--mangunwijaya</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437880540/het-mysterie-van-mrs--indonesia-y-b--mangunwijaya"/>
+        <updated>2025-12-09T07:17:15.886Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437880540?aid=kb-online-bibliotheek&sid=19&dts=1765217315666&sig=6084b79895f64b8d9c39f8f1cbfe4297cec737ea36e17531f070b6686ad852ad&width=320" alt="Omslag van 'Het mysterie van Mrs. Indonesia'" title="Omslag van 'Het mysterie van Mrs. Indonesia'">
+<p>'Honderd jaar eenzaamheid op zijn Indonesisch.' — David van Reybrouck ‘Mangunwijaya is een tovenaar.’ — Dido Michielsen ‘Wat een fantastisch verhaal, ik heb het ademloos en in één vaart uitgelezen.’ — Kester Freriks Het mysterie van Mrs Indonesia begint rond 1942, aan het einde van de ‘Nederlandse tijd’ en vertelt over het beeldschone dorpsmeisje Iin Sulinda – later Pertiwi of Tiwi – dat met haar tante meereist om de was te doen in huize Sukarno. Daar is ze getuige van de Proclamatie waarbij Sukarno de Onafhankelijkheid van het Indonesische volk aankondigt. Ze komt er ook in aanraking met vrijheidsstrijders en neemt uiteindelijk zelf ook actief deel aan de guerrilla. Op een van haar tochten wordt ze door een Nederlandse patrouille gevangengenomen. Een ervaring die haar leven totaal zal veranderen. Hoe deze Pertiwi zich daarna in het postkoloniale Indonesië weet te handhaven, wordt door rasverteller Mangunwijaya op lichtvoetige wijze uit de doeken gedaan. Tegelijkertijd is het een opmerkelijk meelevend verslag van mensen die verstrikt zijn geraakt in de grote maalstroom van Indonesië’s moderne geschiedenis, én het is een blik van binnenuit, aangezien Mangunwijaya zelf als chauffeur van commandant Suharto (de latere president) ook aan de guerrillastrijd had deelgenomen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Y.B. Mangunwijaya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De laatste droom]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443084432/de-laatste-droom-pedro-almodo-var</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443084432/de-laatste-droom-pedro-almodo-var"/>
+        <updated>2025-12-09T07:17:16.291Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443084432?aid=kb-online-bibliotheek&sid=19&dts=1765217861721&sig=184d6b5d6dbb96ab9db2fe3541e6986bc56b087439b774e6b5a93984dc862acb&width=320" alt="Omslag van 'De laatste droom'" title="Omslag van 'De laatste droom'">
+<p>‘Deze verzameling verhalen (ik noem alles een kort verhaal, ik maak geen onderscheid tussen genres) toont de nauwe relatie tussen wat ik schrijf, wat ik film en mijn leven.’ – Pedro Almodóvar De laatste droom bevat een verzameling van twaalf stukken die zo’n zestig levensjaren omvatten. Ze weerspiegelen Almodóvars thema’s, de thema’s die ook telkens in andere vorm terugkeren in zijn cinematografische werk: de pijn en glorie die elke creatieve carrière trouw vergezellen, verlangen als de heersende wet van het leven, de vreselijke opvoeding in de duistere schooljaren bij de paters, en de drang om van elke nabije ervaring een verhaal te maken. Deze bundeling, variërend van korte verhalen tot essays of dagboekfragmenten komt, zoals Almodóvar zelf in het voorwoord schrijft, het dichtst bij een memoir – een ‘gefragmenteerd, onvolledig en een beetje cryptisch memoir’, voegt hij er behulpzaam aan toe. Conventioneel is De laatste droom inderdaad niet, maar het biedt wel een kijkje in de gedachtewereld, de verbeeldingskracht en de obsessies van de beroemde filmmaker. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Pedro Almodóvar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uitgewist]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/425952274/uitgewist-sasja-filipenko</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/425952274/uitgewist-sasja-filipenko"/>
+        <updated>2025-12-09T07:17:16.731Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A425952274?aid=kb-online-bibliotheek&sid=19&dts=1765214252852&sig=bf4e81a74c710238e01af550add2c9e2ad47524bb26a9e71fc0542d0f126ac85&width=320" alt="Omslag van 'Uitgewist'" title="Omslag van 'Uitgewist'">
+<p>‘Een tour de force. Een boek vol rumoeren woede, maar ook grootsheid en zachtheid.’ – Le Figaro Moskou, 1941. Rusland is al in oorlog met nazi-Duitsland, maar de waanzin van de stalinistische zuiveringen woedt nog steeds. Tatjana Aleksejevna is een jonge secretaresse op het ministerie van Buitenlandse Zaken; ze heeft een dochtertje en haar man is opgepakt. Op haar bureau ligt een brief die moet worden vertaald, namelijk een lijst van het Rode Kruis met Russische krijgsgevangenen in Roemenië. Op die lijst staat de naam van haar man. Een dubbele schok: opluchting, want hij leeft! En afgrijzen, omdat ze weet dat krijgsgevangenen en hun families als verraders worden vervolgd en naar de Goelag worden gestuurd. Dan neemt ze een beslissing die haar nog tientallen jaren zal achtervolgen. Zestig jaar later vertelt Tatjana haar levensverhaal aan haar nieuwe buurman Aleksandr, een jonge man wiens leven bruut in tweeën is gescheurd. Tussen de twee ontstaat geleidelijk een onverwachte vriendschap,die tegelijkertijd een verbond is tegen het vergeten. Vertaald door Arie van der Ent </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sasja Filipenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horacio's verhaal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444169962/horacio-s-verhaal-toma-s-gonza-lez</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444169962/horacio-s-verhaal-toma-s-gonza-lez"/>
+        <updated>2025-12-09T07:17:17.173Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444169962?aid=kb-online-bibliotheek&sid=19&dts=1765221541369&sig=c28ea8446277822153cffcc5eb159e1c87e8a379ce6663ec31e13785026f957b&width=320" alt="Omslag van 'Horacio's verhaal'" title="Omslag van 'Horacio's verhaal'">
+<p>Een auteur van wereldklasse.'- Frankfurter Allgemeine Zeitung Horacio's verhaal kent een keur aan ontroerende personages: Horacio zelf in de eerste plaats, zijn vrouw en zes meisjes, zijn onstuitbare en onbeschofte enige zoon, een reeks schoonzussen,zijn zwager, zijn broer-de-schrijver en zijn koopmansbroer. En dan zijn daar nog zijn twee koeien en de kalfjes, maar ook de sinaasappelbomen die schaduw bieden aan zijn Volkswagen van vage herkomst, en tientallen zorgvuldig bewaarde oude spullen - sommige spullen. Terwijl Horacio zijn laatste dagen tegemoet ziet, omringd door iedereen en alles, blijft zijn zwager zich verbazen: 'Hoe is het mogelijk dat iemand zo hangt aan waar hij tegelijkertijd doodsbang voor is,' verwijzend naar Horacio's levenslust ondanks alles. In Horacio's verhaal, dat overloopt van vitaliteit, draait het leven om de kracht van familierelaties en die van de natuur, van het begin tot het onomkeerbare einde. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tomás González</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vrouw op de berg]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440319242/de-vrouw-op-de-berg-eva-baltasar</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440319242/de-vrouw-op-de-berg-eva-baltasar"/>
+        <updated>2025-12-09T07:17:17.611Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440319242?aid=kb-online-bibliotheek&sid=19&dts=1765220685958&sig=2b21e872d9937686e8cb5d8be5440ca44a6e70c408047602eb32595d20009b9d&width=320" alt="Omslag van 'De vrouw op de berg'" title="Omslag van 'De vrouw op de berg'">
+<p>‘Baltasar behandelt gevoelens als radioactief materiaal, dat wil zeggen als iets dat ons doodt en verlicht.’ – El País ‘Een magma van sensaties, twijfels en aspiraties. Een schatkamer!’ – Le Monde De drie korte romans, Permafrost, Boulder en Mammoet zijn metaforen voor de drie hoofdpersonen. In het geval van Permafrost is het de mentale staat waarin de vrouw verkeert: met een permanent bevroren laag die haar isoleert en beschermt tegen een agressieve maatschappij. In Boulder verwijst het naar de immense keien die geïsoleerd liggen in woestijnen, valleien of midden in de oceaan. Ze lijken alles te kunnen dragen, maar verslijten door de wisselvalligheid van het weer, zoals de tweede hoofdpersoon, die door haar geliefde Boulder wordt genoemd. En bij de derde vrouw is er de associatie met een mammoet: een prehistorisch dier, uitgestorven, dat het doelwit werd van jagers. De hoofdpersoon ziet zichzelf zo, ze heeft het gevoel dat ze wordt uitgebuit en opgedreven in de stad, en trekt zich daarom terug op het platteland. Drie vrouwen, drie lichamen, drie levens: De vrouw op de berg bevat drie wilde romans over de grenzen van verlangen en genot, seks, liefde, vrijheid en eenzaamheid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Eva Baltasar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ballade van de bos]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440327229/ballade-van-de-bos-maddalena-vaglio-tanet</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440327229/ballade-van-de-bos-maddalena-vaglio-tanet"/>
+        <updated>2025-12-09T07:17:18.043Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440327229?aid=kb-online-bibliotheek&sid=19&dts=1765218470925&sig=c48128f2c353ae2ef76ab3fda00d6e3b25346ea2cb6fe3f0af87dc1ab69840bf&width=320" alt="Omslag van 'Ballade van de bos'" title="Omslag van 'Ballade van de bos'">
+<p>‘Met Ballade van het bos schreef Vaglio Tanet een schitterende, fijnzinnige debuutroman, geënt op een waargebeurd verhaal, gedocumenteerd door krantenartikelen en familieherinneringen. ‘Ballade van het bos doet me denken dat er iets is in de mens dat niet kan opgeven een lichaam te zijn, een diepe verbondenheid met de aarde.’ – Paolo Cognetti, auteur van de bestseller De acht bergen Het is 1970, een kleine stad aan de voet van de Alpen in de Piëmont. Een juf op een basisschool vertrekt van huis, maar in plaats van naar school gaat ze het bos in. In de krant heeft ze net gelezen dat een van haar leerlingen uit een raam in de beek is gesprongen en is overleden. De juf verdwijnt en dagenlang volgt men de zoektocht met ingehouden adem. Degene die haar vindt is een eenzaam kind, Martino: de vrouw hallucineert, heeft honger en wordt overmand door schuldgevoelens. Martino voelt aan dat ze nog niet klaar is om terug te keren en bezoekt haar in het geheim, brengt haar eten en praat met haar. Maar het bewaren van het geheim drukt zwaar op hem, omdat hij weet dat haar familie wanhopig is... ‘Als een omgekeerde Roodkapje loopt ook de lerares de wolf tegen het lijf, maar dan wel een wolf die in haar woont.’ – La Stampa </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Maddalena Vaglio Tanet</name>
         </author>
     </entry>
     <entry>
@@ -175,6 +274,50 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ontvlamd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444218823/ontvlamd-simone-meier</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444218823/ontvlamd-simone-meier"/>
+        <updated>2025-12-09T07:17:18.473Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444218823?aid=kb-online-bibliotheek&sid=19&dts=1765227187367&sig=7024da9c032ab958ed83f5e51810c8c4db2b72cfc68234948ec93f8a6dee2e6a&width=320" alt="Omslag van 'Ontvlamd'" title="Omslag van 'Ontvlamd'">
+<p>‘Meier is erin geslaagd een mengeling van romanen docu-fictie te creëren die buitengewoon onderhoudend is.’ – SRF1 Vincent van Gogh was arm en onbekend toen hij zich op zevenendertigjarige leeftijd van het leven beroofde. Zijn immense populariteit wereldwijd nú is voor een groot deel te danken aan zijn schoonzus Johanna (Jo) van Gogh-Bonger. Vincents broer Theo stierf slechts zes maanden na zijn broer aan syfilis. De piepjonge weduwe Jo bleef alleen achter met haar zoontje en honderden schilderijen waarin niemand geïnteresseerd was. Jo vond dat dat anders moest en dankzij haar visie en volharding – een vrouwelijke kunsthandelaar in die tijd?! – slaagde ze erin om Vincents kunst wereldberoemd te maken. In 'Ontvlamd' wordt Gina, een studente kunstgeschiedenis, honderd jaar later geïntrigeerd door deze Jo Bonger, die haar een wereld in trekt vol mensen die geobsedeerd zijn door liefde, kunst en visioenen. Ze zoekt na lange tijd haar vader op in Italië, die daar al jaren vruchteloos werkt aan zijn tweede boek na een bestsellerdebuut. Waar haar vader maar niet verder komt, schrijft Gina als in een roes een zinderende roman over een korte maar gedenkwaardige deze liefdesaffaire. 'Ik hou van de stijl, die is glashelder.’– Ann Demeester, directeur Kunsthaus Zürich ‘Een bedwelmend verhaal over onverzettelijke vrouwen in de kunstwereld, een krachtig verhaal dat vanaf de eerste onderhoudende pagina vaart maakt.’ – Wochenzeitung </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Simone Meier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cremulator]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444218831/cremulator-sasja-filipenko</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444218831/cremulator-sasja-filipenko"/>
+        <updated>2025-12-09T07:17:18.891Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444218831?aid=kb-online-bibliotheek&sid=19&dts=1765228978325&sig=a730d45cb53a6a7ff6d9b03a4bf732507c77aa918706d345af85150f19240af1&width=320" alt="Omslag van 'Cremulator'" title="Omslag van 'Cremulator'">
+<p>De vergelijkingen met het heden liggen voor het oprapen, de asmolen van Rusland draait nog altijd op volle kracht.’ – Olaf Koens in de Volkskrant Pjotr Nesterenko kent de dood bij zijn voornaam. Als directeur van het crematorium van Moskou ten tijde van Stalin heeft hij ze allemaal tot as gereduceerd: de dissidenten, de vermeende spionnen en de voormalige helden van de revolutie die het slachtoffer zijn geworden van de zuiveringen. Niettemin is Nesterenko is ervan overtuigd dat hij niet kan sterven. Hij is al ontelbare keren ternauwernood aan de dood ontsnapt – maar dan wordt hij zelf gearresteerd. Als een ware Sheherazade vertelt hij zijn ondervrager tot gekmakens toe over zijn leven, waarbij verbeelding, inbeelding en realiteit om elkaar heen lijken te kronkelen. Ontkomt hij aan de galg? Met Cremulator schreef Filipenko zijn meest huivering­wekkende roman tot op heden. ‘BIJNA TERLOOPS EEN GITZWART COMMENTAAR OP HET RUSLAND VAN VANDAAG.’ – NDR KULTUR </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sasja Filipenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De geheugen van de zee]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443084424/de-geheugen-van-de-zee-petra-rautiainen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443084424/de-geheugen-van-de-zee-petra-rautiainen"/>
+        <updated>2025-12-09T07:17:19.300Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443084424?aid=kb-online-bibliotheek&sid=19&dts=1765217392844&sig=c47cc27ab795c3d7c463622e69298f8bdd1b2f878e522d84cf18f775ee00ab8a&width=320" alt="Omslag van 'De geheugen van de zee'" title="Omslag van 'De geheugen van de zee'">
+<p>‘Een uitstekende schrijfster die op verbazingwekkende wijze een prachtige doordachte tekst en schitterende dromerigheid combineert met hardrealisme.’ – K U L T T U U R I K U K O I S T A A B L O G I De jaren 80 van de vorige eeuw: Aapa, een vrouw van Kven-afkomst, keert na twintig jaar afwezigheid terug naar Noord-Noorwegen om een documentaire te maken over de olie-industrie. Ze wordt in haar geboortestad geconfronteerd met het trauma van haar verleden dat alles te maken heeft met haar moeder. Stukje bij beetje ontdekt de lezer dat Aapa een onbetrouwbare verteller is die het verleden opzettelijk verdraait. Wat is er echt gebeurd met haar overleden moeder? In een tweede plotlijn onderzoekt een onbekende verteller de veranderingen die worden veroorzaakt door de opwarming van de aarde in de Noordelijke IJszee.Pas op de allerlaatste bladzijden neemt het verhaal een verbijsterende wending die alle eerdere aannames omverwerpt. ‘Het geheugen van de zee is een belangrijke roman:alarmerend en effectief.’ – SAVON SANOMAT </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Petra Rautiainen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linea Nigra]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443084475/linea-nigra-jazmina-barrera</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443084475/linea-nigra-jazmina-barrera"/>
+        <updated>2025-12-09T07:17:19.755Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443084475?aid=kb-online-bibliotheek&sid=19&dts=1765229854561&sig=0aab3b86f7d16b4bc663bd241402ed3055b5ca06d68b3307112e4b816c8ea657&width=320" alt="Omslag van 'Linea Nigra'" title="Omslag van 'Linea Nigra'">
+<p>‘Een prachtig, helder essay over de reis door de seizoenen van het moederschap dat licht werpt op de complexe en tegenstrijdige aard van de zwangerschap.’ – THE GUARDIAN Linea nigra is een intieme verkenning van het moeder worden en zijn. Het benadert de zorgen en geneugten vanuit verschillende inspiratiebronnen en (literaire) tradities, van Louise Bourgeois tot Ursula K. Le Guin en het inheemse Nahua-model Luz Jiménez. In dit unieke boek dat niet te classificeren is – laten we zeggen deels memoir en deels manifest – schrijft Barrera zeer lucide en ontwapenend nuchter over haar eerste zwangerschap, de bevalling, borstvoeding en pril moederschap. Ze trekt lijnen tussen moederschap, aardbevingen, maansverduisteringen en creatieve arbeid. Het gelaagde, diepgevoelde werk dat haar levenservaring en overduidelijke talent hebben opgeleverd, verdient alle lof.’ – Vogue ‘Linea nigra een memoir noemen doet het tekort – het bevat zoveel verwijzingen naar beeldende kunst, literatuur en geschiedenis dat het bijna functioneert als een bloemlezing of een meesterlijk samengesteld museum over opvoeding.’ – The Atlantic </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jazmina Barrera</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Eigen baas]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/42247309X/eigen-baas-rutger-koopmans</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/42247309X/eigen-baas-rutger-koopmans"/>
@@ -196,154 +339,6 @@
 <p>Klimaatverandering, overbevolking, pandemieën... de mensheid lijkt een donker tijdperk te betreden, of misschien zelfs te balanceren op de rand van de afgrond. Het inspireert bestsellerauteur Leonoor Levie om de Ark van Noach als basis voor haar nieuwe roman te gebruiken. Tijdens een dancefestival op een cruiseschip in de Middellandse Zee hoopt ze de ontbrekende schakel te vinden die het bijbelse verhaal aan de huidige tijd linkt. Al voordat ze aan boord gaat, krijgt Leonoor gezelschap van een onvoorziene gast. Het is het verontrustende begin van een boottrip waarin alles lijkt te zijn toegestaan wat God verboden heeft. Te midden van pompende beats, drank, drugs en excentrieke figuren vindt Leonoor de verbindende factor die zij zoekt. Maar de prijs die zij daarvoor betaalt, is onevenredig hoog. Wanda Bommer (Amsterdam, 1969) heeft vijf romans op haar naam staan, waarvoor zij zonder uitzondering lovende recensies ontving. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Wanda Bommer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engelen van Maastricht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/42988074X/engelen-van-maastricht-jules-coenegracht</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/42988074X/engelen-van-maastricht-jules-coenegracht"/>
-        <updated>2025-12-07T07:13:13.685Z</updated>
-        <summary type="html"><![CDATA[verhalen uit de stad]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42988074X?aid=kb-online-bibliotheek&sid=18&dts=1765052229714&sig=22e3577fd2a7ece8105d9036bfcfe242eecf09d4a5ba4bfd4ee194582bd46bab&width=320" alt="Omslag van 'Engelen van Maastricht'" title="Omslag van 'Engelen van Maastricht'">
-<p>Bundel korte verhalen waarin de stad Maastricht en haar zeden en gewoonten op zeer herkenbare wijze in mindere of meerdere mate de achtergrond vormen.</p>]]></content>
-        <author>
-            <name>Jules Coenegracht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waddenwolf]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/42919949X/waddenwolf-corine-nijenhuis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/42919949X/waddenwolf-corine-nijenhuis"/>
-        <updated>2025-12-07T07:13:14.937Z</updated>
-        <summary type="html"><![CDATA[de opzienbarende geschiedenis van een jonkheer die de Waddenzee wilde droogleggen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42919949X?aid=kb-online-bibliotheek&sid=18&dts=1765008388113&sig=b5b4c62956fdb9698471307908a4142575e5afe3697fde4de76701eea85d4bdd&width=320" alt="Omslag van 'Waddenwolf'" title="Omslag van 'Waddenwolf'">
-<p>In 1866 heeft jonkheer Pieter Jan Willem Teding van Berkhout het plan om het gebied tussen Friesland en Ameland in te polderen door een dijk te bouwen.</p>]]></content>
-        <author>
-            <name>Corine Nijenhuis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tropenvader]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/427025656/tropenvader-diederik-samwel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/427025656/tropenvader-diederik-samwel"/>
-        <updated>2025-12-07T07:13:15.501Z</updated>
-        <summary type="html"><![CDATA[roman]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427025656?aid=kb-online-bibliotheek&sid=18&dts=1765011706039&sig=a7bbd2e721cf85d96182f4ac4c26e8893141aa87e10cf1caf281bb3c8232aa87&width=320" alt="Omslag van 'Tropenvader'" title="Omslag van 'Tropenvader'">
-<p>Autobiografische reconstructie van het leven van de vader van de auteur, die in 1946 getraumatiseerd uit Nederlands-Indië terugkeert naar Nederland.</p>]]></content>
-        <author>
-            <name>Diederik Samwel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De diva]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/430254059/de-diva-michelle-marly</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/430254059/de-diva-michelle-marly"/>
-        <updated>2025-12-07T07:13:14.054Z</updated>
-        <summary type="html"><![CDATA[Maria Callas - het bewogen liefdesverhaal van de meest beroemde operazangeres]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430254059?aid=kb-online-bibliotheek&sid=18&dts=1765012428363&sig=835f14f60606f31482ae63e60d15cfff9cd1f68acb356ba7d3709941c108b9c1&width=320" alt="Omslag van 'De diva'" title="Omslag van 'De diva'">
-<p>MARIA CALLAS La Divina, 'de goddelijke' Venetië 1957 Maria Callas is de grootste operazangeres van haar tijd. Met haar unieke klank, een stembereik van drie octaven en haar acteerkwaliteiten brengt de betoverende sopraan iedereen in vervoering. De roem heeft echter een schaduwzijde. Het slopende bestaan vergt veel van Maria's stem en er blijft te weinig ruimte over voor de vrouw achter de mythe. Dan ontmoet ze de Griekse reder en miljonair Aristoteles Onassis en beleeft met hem in de roemruchte jetset van de jaren zestig de tijd van haar leven. Totdat Onassis een andere icoon uit die tijd ontmoet: Jackie Kennedy... De Diva is een aangrijpende roman over Maria Callas, als operazangeres ongeëvenaard, maar als ieder mens op zoek naar liefde en geborgenheid. Michelle Marly is het pseudoniem van bestsellerauteur Micaela Jary. Door haar vader, de componist Michael Jary, groeide ze op in de internationale muziekwereld. Ze woont afwisselend in Berlijn en München. Eerder verscheen bij ons haar roman Mademoiselle Coco en het parfum van de liefde (2018). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Michelle Marly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het blauwe wonder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/430864914/het-blauwe-wonder-marcel-ro-zer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/430864914/het-blauwe-wonder-marcel-ro-zer"/>
-        <updated>2025-12-07T07:13:14.493Z</updated>
-        <summary type="html"><![CDATA[roman]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430864914?aid=kb-online-bibliotheek&sid=18&dts=1765026155357&sig=b2f419c9a73870ef6cd062b1fb6e679f7b94fc4b43112dfe35e2b029f72c1bfc&width=320" alt="Omslag van 'Het blauwe wonder'" title="Omslag van 'Het blauwe wonder'">
-<p>Na een burn-out gaat geschiedenisdocent Johan als veerman aan de slag. Maar ook op de veerpont wordt hij belaagd door onbestemde angsten die alles te maken hebben met Duitsland, het land van Rilke en de Endlösung. Duitsland stoot af en trekt aan zoals zijn pont heen en weer vaart, zonder eindbestemming. Om uit deze tredmolen te komen zal Johan op reis moeten, naar Dresden, naar het moment in zijn leven waarop alles klopte. MARCEL RÖZER (1959) is schrijver, journalist en columnist. In 2008 won hij zowel de Hard Gras-prijs voor het beste sportverhaal als de Nico Scheepmakerbokaal voor het beste sportboek. In 2013 publiceerde hij Zo Vader, over de erfenis van een foute keuze: zijn vader diende bij de Waffen SS. Het Blauwe Wonder is Rözers eerste roman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marcel Rözer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dat wordt nooit wat]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43294995X/dat-wordt-nooit-wat-bert-visscher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43294995X/dat-wordt-nooit-wat-bert-visscher"/>
-        <updated>2025-12-07T07:13:15.918Z</updated>
-        <summary type="html"><![CDATA[mijn stuiterende beginjaren op het podium]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43294995X?aid=kb-online-bibliotheek&sid=18&dts=1765030685065&sig=b2850f270249c73942561e0d00a697900f3fea70397da53bbb2ad2f1ff27c986&width=320" alt="Omslag van 'Dat wordt nooit wat'" title="Omslag van 'Dat wordt nooit wat'">
-<p>Als puber al speelde hij het vuur uit z'n sloffen tijdens cabaretavonden op school. Totale gekte zonder enige structuur in een moordend tempo: zo kennen we cabaretier Bert Visscher. En vanaf het begin liepen de zalen zeker vanzelf lekker vol? Welnee, zeg. Vallen en opstaan. Zinloze ritten naar zaaltjes diep in de klei voor vier man, of voorstellingen waarbij het publiek zich nu nog afvraagt wat die man daar op het podium stond te doen. Om daarna tijdens de terugreis diep in de nacht in een truckerscafé boven een gehaktstaaf te hangen met maar één gedachte: dat wordt nooit wat. In dit boek beschrijft Bert op zijn eigen onnavolgbare manier welke fratsen hij heeft moeten uithalen om nu te verzuchten: TOCH NOG IETS GEWORDEN... 'Bert is met stip de leukste mafketel van Nederland.' - Jochem Myjer </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bert Visscher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De coureur]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433956100/de-coureur-paul-van-hooff</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433956100/de-coureur-paul-van-hooff"/>
-        <updated>2025-12-07T07:13:16.688Z</updated>
-        <summary type="html"><![CDATA[roman]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433956100?aid=kb-online-bibliotheek&sid=18&dts=1765009895047&sig=b05557447bd8eb1b86dd78d8c74694e60dfa9deb20843d6c96fb1da09484136b&width=320" alt="Omslag van 'De coureur'" title="Omslag van 'De coureur'">
-<p>Het hele bestaan van motorcoureur Vik Hofstede is gericht op snelle rondetijden. Tot zijn professionele carrière hard en onvoorzien ten einde komt. Zoekend naar een nieuw evenwicht krijgt Vik nog een klap te verwerken: zijn vader heeft niet lang meer te leven. Als laatste wens zou hij graag de uiterst zeldzame Vincent Black Shadow in handen krijgen, tot 1969 in bezit van dichter en motorfanaat Jan Hanlo. Natuurlijk begeert hij dit object niet zonder reden... Samen met zijn nieuwe liefde onderneemt Vik de zoektocht voor zijn vader, die hen onder meer naar Limburg, Friesland en Argentinië brengt. Lukt het hem om de Black Shadow te bemachtigen voordat zijn vader overlijdt? En wat is diens verhaal bij deze legendarische motor? Opnieuw is de coureur verwikkeld in een onverbiddelijke strijd tegen de klok, maar deze keer terug in de tijd. Paul van Hooff maakte als schrijver en avonturier naam met de door lezers en media bejubelde reisboeken Man in het zadel en Van hier tot Tokio. De coureur is zijn eerste roman. Hij woont in Sucre (Bolivia) met zijn tweeling Santiago en Sebastian. 'VEEL SPANNING EN EMOTIE, OOK VOOR DE ECHTE MOTORSPORTLIEFHEBBER.' - WIL HARTOG </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Paul van Hooff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ik kan er nét niet bij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433906707/ik-kan-er-ne-t-niet-bij-sander-verheijen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433906707/ik-kan-er-ne-t-niet-bij-sander-verheijen"/>
-        <updated>2025-12-07T07:13:16.312Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433906707?aid=kb-online-bibliotheek&sid=18&dts=1765008685076&sig=26a2b46630eb3506e3a80bac740fc9e94939da3a6620fd279731435a044a5310&width=320" alt="Omslag van 'Ik kan er nét niet bij'" title="Omslag van 'Ik kan er nét niet bij'">
-<p>Een vader vertelt over de eerste vijf levensjaren van zijn tweelingzoons, die beide gehandicapt zijn.</p>]]></content>
-        <author>
-            <name>Sander Verheijen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vals spel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435042157/vals-spel-marco-knauff</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435042157/vals-spel-marco-knauff"/>
-        <updated>2025-12-07T07:13:17.071Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435042157?aid=kb-online-bibliotheek&sid=18&dts=1765031484152&sig=b40c810cb4d6a12901b516b2035e8289e46978910b23d590c1a8631277ba8bfc&width=320" alt="Omslag van 'Vals spel'" title="Omslag van 'Vals spel'">
-<p>Rechercheurs Marieke de Zwart en Robin Groeneveld onderzoeken twee zaken: een verdacht overlijden in een verzorgingshuis en de moord op een café-uitbaatster.</p>]]></content>
-        <author>
-            <name>Marco Knauff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoe de hele Griekse oudheid in een lift past]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437366022/hoe-de-hele-griekse-oudheid-in-een-lift-past-ted-papakostas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437366022/hoe-de-hele-griekse-oudheid-in-een-lift-past-ted-papakostas"/>
-        <updated>2025-12-07T07:13:17.972Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437366022?aid=kb-online-bibliotheek&sid=18&dts=1765038489152&sig=a53281a275ded404224356c14ab09c3a5fd6557e02c6919f97a5269c7fb75130&width=320" alt="Omslag van 'Hoe de hele Griekse oudheid in een lift past'" title="Omslag van 'Hoe de hele Griekse oudheid in een lift past'">
-<p>Bespreking van de Griekse oudheid aan de hand van een dialoog tussen een archeoloog en een hem onbekende man, die hun kennis en inzicht delen terwijl ze vastzitten in een stilstaande lift.</p>]]></content>
-        <author>
-            <name>Ted Papakostas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Italianen kunnen niks]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43740322X/italianen-kunnen-niks-bert-visscher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43740322X/italianen-kunnen-niks-bert-visscher"/>
-        <updated>2025-12-07T07:13:18.358Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43740322X?aid=kb-online-bibliotheek&sid=18&dts=1765008699842&sig=e7693ab61d2049b3b3a46e4999b786af594549b634634ce171ba0b2901a6761c&width=320" alt="Omslag van 'Italianen kunnen niks'" title="Omslag van 'Italianen kunnen niks'">
-<p>Bert Visscher houdt van Italië. Maar toen hij er een tweede huis kocht,kwamen er wat scheurtjes in de liefde. Natuurlijk is Italië wonderschoon, vond Bert Visscher ook altijd. Sole, mare, ristoranti, vino, limoncello - onbezorgd genoot hij tijdens vakanties van alles wat dit land te bieden had. Tot zijn vrouw en hij hun handtekening zetten onder het koopcontract van hun tweede huis, in de buurt van Napels... Zat hij tijdens het programma Ik vertrek nog op de bank te lachen om het gestuntel van landgenoten over de grens, nu was hijzelf zo'n lachwekkend geval. Dag, terrasjes op het strand in de zon, hallo, bezwete ritten van het ene kantoor naar het andere kantoor, panisch op zoek naar verdwenen makelaars, banken en postkantoren. Kalm blijven als openingstijden ineens veranderd zijn, en rustig opnieuw aanwijzen waar de ramen wél geplaatst hadden moeten worden. Langzaam maar zeker ontdekte hij ook de charme van deze chaos, want ach, misschien zijn wij wel bovenmatig georganiseerd. Neemt niet weg dat Bert en zijn vrouw elkaar regelmatig hoofdschuddend aankijken om te verzuchten: 'Die Italianen kunnen ook echt helemaal niks.'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bert Visscher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dieptedenkers]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434969788/dieptedenkers--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434969788/dieptedenkers--"/>
-        <updated>2025-12-07T07:13:17.514Z</updated>
-        <summary type="html"><![CDATA[Burnier, Dostojewski, Fechner, Husserl, James, Kierkegaard, Otto, Sjestov]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434969788?aid=kb-online-bibliotheek&sid=18&dts=1765037022803&sig=cd4432b2dde87807a72bd8ad9003c25672e45804303bc2056601407b6f1ebd29&width=320" alt="Omslag van 'Dieptedenkers'" title="Omslag van 'Dieptedenkers'">
-<p>Het Fenomenologisch archief van Abraxas|Zuider-Amstelboeken is een dynamisch project. De laatste stand van zaken: https://indd.adobe.com/view/d26ed613-4878-45e7-97c0-a5bd07052276</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wat mama niet vertellen kon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43921372X/wat-mama-niet-vertellen-kon-marcel-maassen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43921372X/wat-mama-niet-vertellen-kon-marcel-maassen"/>
-        <updated>2025-12-07T07:13:18.722Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43921372X?aid=kb-online-bibliotheek&sid=18&dts=1765032116731&sig=d66f2958aa351a9aab6147d37b3a39392e5a997abcdf091b70362ec76077573e&width=320" alt="Omslag van 'Wat mama niet vertellen kon'" title="Omslag van 'Wat mama niet vertellen kon'">
-<p>Stel je voor: je had een halve eeuw een innige band met je moeder, maar na haar dood weet je nog steeds niet wie zij werkelijk was. Het overkwam Cyrilla van der Donk. Haar moeder Irene hield altijd vol dat ze als baby in 1928 was geroofd van haar ouders in Amsterdam en dat ze opgroeide 'ergens in het oosten van Duitsland'. In 1945, vlak na de oorlog, kwam ze moederziel alleen aan in Nederland. Pas na haar dood durfde Cyrilla het verleden van haar getraumatiseerde moeder te onderzoeken. Met schrijver Marcel Maassen ploos zij de verhalen van haar moeder uit en als detectives doken zij in de historische bronnen. Hun meeslepende zoektocht legt een verbijsterende levensgeschiedenis bloot. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marcel Maassen</name>
         </author>
     </entry>
 </feed>
