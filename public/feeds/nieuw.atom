@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-12-15T07:19:39.824Z</updated>
+    <updated>2025-12-16T07:18:52.508Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -28,6 +28,28 @@
 <p>"The energy coming out of the store was so appealing that I walked right in without any intention of buying a record. I do believe that certain energies compel you in life, they push you in one direction or another. Some attract you, others repel you, and that's pretty much how one moves through the world."  An enchanting story about love, both new and lasting. About the yearning for wisdom. An ode to a conscious and full life. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Ish Ait Hamou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794729/13-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794729/13-pieter-aspe"/>
+        <updated>2025-12-13T07:13:12.208Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794729?aid=kb-online-bibliotheek&sid=19&dts=1765609992057&sig=bc66f348e107ca206c322f009e0cd6f3c18148a553d846cc39d3aa1456725e1e&width=320" alt="Omslag van '13'" title="Omslag van '13'">
+<p>Commissaris Van In van de politie in Brugge en onderzoeksrechter Hannelore Martens, die al jaren een relatie hebben, staan op het punt van trouwen. De vondst van een vermoorde man in een hotel gooit roet in het eten.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Op drift]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39479480X/op-drift-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39479480X/op-drift-pieter-aspe"/>
+        <updated>2025-12-13T07:13:12.474Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39479480X?aid=kb-online-bibliotheek&sid=19&dts=1765609992283&sig=ca485361152035dcad523c9500cf770188f5d5505ea7df137d3d35789b8b1011&width=320" alt="Omslag van 'Op drift'" title="Omslag van 'Op drift'">
+<p>De rustige badplaats Blankenkenberge wordt opgeschrikt door de acties van een drugsbende. Nadat er een dode is gevallen, komen commissaris Van In en zijn assistent Versavel in actie.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
         </author>
     </entry>
     <entry>
@@ -64,12 +86,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De vijfde macht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794702/de-vijfde-macht-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794702/de-vijfde-macht-pieter-aspe"/>
-        <updated>2025-12-13T07:13:14.053Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794702?aid=kb-online-bibliotheek&sid=19&dts=1765600221524&sig=f2d4761c8e57030e0cd8289bbbc897f170396625dc1af6cd8ee6b7905b197d3e&width=320" alt="Omslag van 'De vijfde macht'" title="Omslag van 'De vijfde macht'">
-<p>Een moord in de reclamewereld zorgt voor beroering in de hoogste kringen van Brugge.</p>]]></content>
+        <title type="html"><![CDATA[Bankroet]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794664/bankroet-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794664/bankroet-pieter-aspe"/>
+        <updated>2025-12-13T07:13:13.206Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794664?aid=kb-online-bibliotheek&sid=19&dts=1765600222450&sig=052e396c6f2fc35ddc8264aa20015d2610947853adf47fd67d9689f626eddda7&width=320" alt="Omslag van 'Bankroet'" title="Omslag van 'Bankroet'">
+<p>Tijdens een korte vakantie in Venetië raken Van In en zijn vrouw Hannelore betrokken bij de moord op een reder uit Oostende.</p>]]></content>
         <author>
             <name>Pieter Aspe</name>
         </author>
@@ -81,6 +103,116 @@
         <updated>2025-12-13T07:13:13.356Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794850?aid=kb-online-bibliotheek&sid=19&dts=1765594185736&sig=be8ceb4a08731763f8397a43e38d80869aebb87101b69da45a13abae7736c67a&width=320" alt="Omslag van 'De vierde gestalte'" title="Omslag van 'De vierde gestalte'">
 <p>. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grof wild]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794753/grof-wild-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794753/grof-wild-pieter-aspe"/>
+        <updated>2025-12-13T07:13:13.509Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794753?aid=kb-online-bibliotheek&sid=19&dts=1765594726329&sig=e9106a0402a5f6af69f2f87a1936c9e8b90603d1e450f11309c2080ba3f1bd90&width=320" alt="Omslag van 'Grof wild'" title="Omslag van 'Grof wild'">
+<p>De viering van hun zilveren huwelijksjubileum loopt voor een echtpaar uit op een nachtmerrie als de door de vrouw voor een grap ingehuurde figuren echte criminelen blijken te zijn.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vagevuur]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794842/vagevuur-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794842/vagevuur-pieter-aspe"/>
+        <updated>2025-12-13T07:13:13.737Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794842?aid=kb-online-bibliotheek&sid=19&dts=1765609993586&sig=b5c7d50f5b9ecc94c6db9afee2a0543bb6e6eff4966803ec30605aad86c9fda4&width=320" alt="Omslag van 'Vagevuur'" title="Omslag van 'Vagevuur'">
+<p>Commissaris Van In krijgt te maken met de moord op een bekende theaterproducent.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De zevende kamer]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794710/de-zevende-kamer-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794710/de-zevende-kamer-pieter-aspe"/>
+        <updated>2025-12-13T07:13:13.893Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794710?aid=kb-online-bibliotheek&sid=19&dts=1765594197375&sig=7468d31b9ac56656c90bc3599a7729b2f12badbefcccdd1bec6b36adbe46e409&width=320" alt="Omslag van 'De zevende kamer'" title="Omslag van 'De zevende kamer'">
+<p>Een ex-minister van justitie en toekomstig premier wordt dood aangetroffen in de buurt van een luxe bordeel nabij Brugge. Het verband dat Van In legt met de vermoorde en de vindplaats wordt hem niet door iedereen in dank afgenomen.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vijfde macht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794702/de-vijfde-macht-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794702/de-vijfde-macht-pieter-aspe"/>
+        <updated>2025-12-13T07:13:14.053Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794702?aid=kb-online-bibliotheek&sid=19&dts=1765600221524&sig=f2d4761c8e57030e0cd8289bbbc897f170396625dc1af6cd8ee6b7905b197d3e&width=320" alt="Omslag van 'De vijfde macht'" title="Omslag van 'De vijfde macht'">
+<p>Een moord in de reclamewereld zorgt voor beroering in de hoogste kringen van Brugge.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tango]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794834/tango-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794834/tango-pieter-aspe"/>
+        <updated>2025-12-13T07:13:14.284Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794834?aid=kb-online-bibliotheek&sid=19&dts=1765609994123&sig=45be4deab9e27f59bfb2325386d8ef7fc7cac9ab87029997a719999cdeb59bfe&width=320" alt="Omslag van 'Tango'" title="Omslag van 'Tango'">
+<p>Net terug van hun wittebroodsweken in Argentinië krijgen de Brugse commissaris Van In en zijn vrouw, onderzoeksrechter Hannelore Martens, te maken met een zaak waarbij niet alleen de Russische maffia, maar ook hun privéleven betrokken is.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Midasmoorden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39479477X/de-midasmoorden-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39479477X/de-midasmoorden-pieter-aspe"/>
+        <updated>2025-12-13T07:13:14.441Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39479477X?aid=kb-online-bibliotheek&sid=19&dts=1765600224669&sig=08c058269c7972c4173d9d89ff38443248902ec75335ce6dcb6bb0965c3f63ba&width=320" alt="Omslag van 'De Midasmoorden'" title="Omslag van 'De Midasmoorden'">
+<p>De adjunct-commissaris van politie te Brugge wordt geconfronteerd met de moord op een Duitser en een bomaanslag op het standbeeld van Guido Gezelle.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blauw bloed]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794672/blauw-bloed-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794672/blauw-bloed-pieter-aspe"/>
+        <updated>2025-12-13T07:13:14.589Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794672?aid=kb-online-bibliotheek&sid=19&dts=1765600224391&sig=8ad2a73a5da6724a25f224d0b5709fbb5139f5fa48aae570f780c4222a9aec41&width=320" alt="Omslag van 'Blauw bloed'" title="Omslag van 'Blauw bloed'">
+<p>De dood van een man stelt de politie van Brugge voor grote raadsels bij het ontwarren van de juiste familieverhoudingen.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandora]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794818/pandora-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794818/pandora-pieter-aspe"/>
+        <updated>2025-12-13T07:13:14.848Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794818?aid=kb-online-bibliotheek&sid=19&dts=1765600225014&sig=f93e6ff318facf207a939b49172d0be555d92c917b204e781e4164d007279da1&width=320" alt="Omslag van 'Pandora'" title="Omslag van 'Pandora'">
+<p>Er gebeurt te weinig in Brugge; daarom besluit hoofdinspecteur Van In zijn tanden te zetten in een twintig jaar oude zaak.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebus]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794826/rebus-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794826/rebus-pieter-aspe"/>
+        <updated>2025-12-13T07:13:15.014Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794826?aid=kb-online-bibliotheek&sid=19&dts=1765594183576&sig=4b9c5ca7c6942964fd1c84ba79718417991f19fcbe39d4a451fe29388b03c234&width=320" alt="Omslag van 'Rebus'" title="Omslag van 'Rebus'">
+<p>Commissaris Van In en inspecteur Versavel van de politie in Brugge worden geconfronteerd met de mysterieuze dood van een oude man.</p>]]></content>
+        <author>
+            <name>Pieter Aspe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onvoltooid verleden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794796/onvoltooid-verleden-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794796/onvoltooid-verleden-pieter-aspe"/>
+        <updated>2025-12-13T07:13:16.734Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794796?aid=kb-online-bibliotheek&sid=19&dts=1765609996536&sig=de210f7edd44089461d766e426b6d92b6f773a99774ce1cf1f6c69df97c0bdf8&width=320" alt="Omslag van 'Onvoltooid verleden'" title="Omslag van 'Onvoltooid verleden'">
+<p>De Brugse commissaris Van In krijgt te maken met een drievoudige moord met een gevaarlijk, politiek karakter.</p>]]></content>
         <author>
             <name>Pieter Aspe</name>
         </author>
@@ -119,111 +251,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Midasmoorden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39479477X/de-midasmoorden-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39479477X/de-midasmoorden-pieter-aspe"/>
-        <updated>2025-12-13T07:13:14.441Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39479477X?aid=kb-online-bibliotheek&sid=19&dts=1765600224669&sig=08c058269c7972c4173d9d89ff38443248902ec75335ce6dcb6bb0965c3f63ba&width=320" alt="Omslag van 'De Midasmoorden'" title="Omslag van 'De Midasmoorden'">
-<p>De adjunct-commissaris van politie te Brugge wordt geconfronteerd met de moord op een Duitser en een bomaanslag op het standbeeld van Guido Gezelle.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandora]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794818/pandora-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794818/pandora-pieter-aspe"/>
-        <updated>2025-12-13T07:13:14.848Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794818?aid=kb-online-bibliotheek&sid=19&dts=1765600225014&sig=f93e6ff318facf207a939b49172d0be555d92c917b204e781e4164d007279da1&width=320" alt="Omslag van 'Pandora'" title="Omslag van 'Pandora'">
-<p>Er gebeurt te weinig in Brugge; daarom besluit hoofdinspecteur Van In zijn tanden te zetten in een twintig jaar oude zaak.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebus]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794826/rebus-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794826/rebus-pieter-aspe"/>
-        <updated>2025-12-13T07:13:15.014Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794826?aid=kb-online-bibliotheek&sid=19&dts=1765594183576&sig=4b9c5ca7c6942964fd1c84ba79718417991f19fcbe39d4a451fe29388b03c234&width=320" alt="Omslag van 'Rebus'" title="Omslag van 'Rebus'">
-<p>Commissaris Van In en inspecteur Versavel van de politie in Brugge worden geconfronteerd met de mysterieuze dood van een oude man.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankroet]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794664/bankroet-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794664/bankroet-pieter-aspe"/>
-        <updated>2025-12-13T07:13:13.206Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794664?aid=kb-online-bibliotheek&sid=19&dts=1765600222450&sig=052e396c6f2fc35ddc8264aa20015d2610947853adf47fd67d9689f626eddda7&width=320" alt="Omslag van 'Bankroet'" title="Omslag van 'Bankroet'">
-<p>Tijdens een korte vakantie in Venetië raken Van In en zijn vrouw Hannelore betrokken bij de moord op een reder uit Oostende.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grof wild]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794753/grof-wild-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794753/grof-wild-pieter-aspe"/>
-        <updated>2025-12-13T07:13:13.509Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794753?aid=kb-online-bibliotheek&sid=19&dts=1765594726329&sig=e9106a0402a5f6af69f2f87a1936c9e8b90603d1e450f11309c2080ba3f1bd90&width=320" alt="Omslag van 'Grof wild'" title="Omslag van 'Grof wild'">
-<p>De viering van hun zilveren huwelijksjubileum loopt voor een echtpaar uit op een nachtmerrie als de door de vrouw voor een grap ingehuurde figuren echte criminelen blijken te zijn.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794729/13-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794729/13-pieter-aspe"/>
-        <updated>2025-12-13T07:13:12.208Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794729?aid=kb-online-bibliotheek&sid=19&dts=1765609992057&sig=bc66f348e107ca206c322f009e0cd6f3c18148a553d846cc39d3aa1456725e1e&width=320" alt="Omslag van '13'" title="Omslag van '13'">
-<p>Commissaris Van In van de politie in Brugge en onderzoeksrechter Hannelore Martens, die al jaren een relatie hebben, staan op het punt van trouwen. De vondst van een vermoorde man in een hotel gooit roet in het eten.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vagevuur]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794842/vagevuur-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794842/vagevuur-pieter-aspe"/>
-        <updated>2025-12-13T07:13:13.737Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794842?aid=kb-online-bibliotheek&sid=19&dts=1765609993586&sig=b5c7d50f5b9ecc94c6db9afee2a0543bb6e6eff4966803ec30605aad86c9fda4&width=320" alt="Omslag van 'Vagevuur'" title="Omslag van 'Vagevuur'">
-<p>Commissaris Van In krijgt te maken met de moord op een bekende theaterproducent.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Op drift]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39479480X/op-drift-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39479480X/op-drift-pieter-aspe"/>
-        <updated>2025-12-13T07:13:12.474Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39479480X?aid=kb-online-bibliotheek&sid=19&dts=1765609992283&sig=ca485361152035dcad523c9500cf770188f5d5505ea7df137d3d35789b8b1011&width=320" alt="Omslag van 'Op drift'" title="Omslag van 'Op drift'">
-<p>De rustige badplaats Blankenkenberge wordt opgeschrikt door de acties van een drugsbende. Nadat er een dode is gevallen, komen commissaris Van In en zijn assistent Versavel in actie.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibi]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794656/alibi-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794656/alibi-pieter-aspe"/>
-        <updated>2025-12-13T07:13:18.389Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794656?aid=kb-online-bibliotheek&sid=19&dts=1765600221618&sig=fb3db2c049f9ba2f406f39cd2a0ba4cabf1a0026ff601831dd227a7ccc113be2&width=320" alt="Omslag van 'Alibi'" title="Omslag van 'Alibi'">
-<p>Tijdens de opname van een film wordt het lijk van een onbekende gevonden in de auto van de hoofdrolspeler.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blauw bloed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794672/blauw-bloed-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794672/blauw-bloed-pieter-aspe"/>
-        <updated>2025-12-13T07:13:14.589Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794672?aid=kb-online-bibliotheek&sid=19&dts=1765600224391&sig=8ad2a73a5da6724a25f224d0b5709fbb5139f5fa48aae570f780c4222a9aec41&width=320" alt="Omslag van 'Blauw bloed'" title="Omslag van 'Blauw bloed'">
-<p>De dood van een man stelt de politie van Brugge voor grote raadsels bij het ontwarren van de juiste familieverhoudingen.</p>]]></content>
+        <title type="html"><![CDATA[Dood tij]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794737/dood-tij-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794737/dood-tij-pieter-aspe"/>
+        <updated>2025-12-13T07:13:17.693Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794737?aid=kb-online-bibliotheek&sid=19&dts=1765609997544&sig=fccb6542414b52e9d9fe6a963c92b745b437909304f9fe94410313b58531a12e&width=320" alt="Omslag van 'Dood tij'" title="Omslag van 'Dood tij'">
+<p>Commissaris Van In van de politie in Brugge en zijn rechterhand Versavel steken zich in een wespennest als ze onderzoek doen naar de verkrachting van een meisje en een strandlijk.</p>]]></content>
         <author>
             <name>Pieter Aspe</name>
         </author>
@@ -240,34 +273,23 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De zevende kamer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794710/de-zevende-kamer-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794710/de-zevende-kamer-pieter-aspe"/>
-        <updated>2025-12-13T07:13:13.893Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794710?aid=kb-online-bibliotheek&sid=19&dts=1765594197375&sig=7468d31b9ac56656c90bc3599a7729b2f12badbefcccdd1bec6b36adbe46e409&width=320" alt="Omslag van 'De zevende kamer'" title="Omslag van 'De zevende kamer'">
-<p>Een ex-minister van justitie en toekomstig premier wordt dood aangetroffen in de buurt van een luxe bordeel nabij Brugge. Het verband dat Van In legt met de vermoorde en de vindplaats wordt hem niet door iedereen in dank afgenomen.</p>]]></content>
+        <title type="html"><![CDATA[Zonder spijt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794877/zonder-spijt-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794877/zonder-spijt-pieter-aspe"/>
+        <updated>2025-12-13T07:13:18.206Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794877?aid=kb-online-bibliotheek&sid=19&dts=1765609997921&sig=b81bfac3b3e4662b6b44ebe1f3465c29ae7997dbcc5e611ca4e8ab4f66500112&width=320" alt="Omslag van 'Zonder spijt'" title="Omslag van 'Zonder spijt'">
+<p>Commissaris Van In van de politie in Brugge vindt een journalist vermoord in zijn woning en verneemt dat hij op het punt stond ophefmakende details over de Bende van Nijvel te publiceren.</p>]]></content>
         <author>
             <name>Pieter Aspe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tango]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794834/tango-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794834/tango-pieter-aspe"/>
-        <updated>2025-12-13T07:13:14.284Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794834?aid=kb-online-bibliotheek&sid=19&dts=1765609994123&sig=45be4deab9e27f59bfb2325386d8ef7fc7cac9ab87029997a719999cdeb59bfe&width=320" alt="Omslag van 'Tango'" title="Omslag van 'Tango'">
-<p>Net terug van hun wittebroodsweken in Argentinië krijgen de Brugse commissaris Van In en zijn vrouw, onderzoeksrechter Hannelore Martens, te maken met een zaak waarbij niet alleen de Russische maffia, maar ook hun privéleven betrokken is.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onvoltooid verleden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794796/onvoltooid-verleden-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794796/onvoltooid-verleden-pieter-aspe"/>
-        <updated>2025-12-13T07:13:16.734Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794796?aid=kb-online-bibliotheek&sid=19&dts=1765609996536&sig=de210f7edd44089461d766e426b6d92b6f773a99774ce1cf1f6c69df97c0bdf8&width=320" alt="Omslag van 'Onvoltooid verleden'" title="Omslag van 'Onvoltooid verleden'">
-<p>De Brugse commissaris Van In krijgt te maken met een drievoudige moord met een gevaarlijk, politiek karakter.</p>]]></content>
+        <title type="html"><![CDATA[Alibi]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794656/alibi-pieter-aspe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794656/alibi-pieter-aspe"/>
+        <updated>2025-12-13T07:13:18.389Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794656?aid=kb-online-bibliotheek&sid=19&dts=1765600221618&sig=fb3db2c049f9ba2f406f39cd2a0ba4cabf1a0026ff601831dd227a7ccc113be2&width=320" alt="Omslag van 'Alibi'" title="Omslag van 'Alibi'">
+<p>Tijdens de opname van een film wordt het lijk van een onbekende gevonden in de auto van de hoofdrolspeler.</p>]]></content>
         <author>
             <name>Pieter Aspe</name>
         </author>
@@ -284,25 +306,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dood tij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794737/dood-tij-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794737/dood-tij-pieter-aspe"/>
-        <updated>2025-12-13T07:13:17.693Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794737?aid=kb-online-bibliotheek&sid=19&dts=1765609997544&sig=fccb6542414b52e9d9fe6a963c92b745b437909304f9fe94410313b58531a12e&width=320" alt="Omslag van 'Dood tij'" title="Omslag van 'Dood tij'">
-<p>Commissaris Van In van de politie in Brugge en zijn rechterhand Versavel steken zich in een wespennest als ze onderzoek doen naar de verkrachting van een meisje en een strandlijk.</p>]]></content>
+        <title type="html"><![CDATA[Spoorloos]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394794958/spoorloos-luc-deflo</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394794958/spoorloos-luc-deflo"/>
+        <updated>2025-12-14T07:14:05.286Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794958?aid=kb-online-bibliotheek&sid=19&dts=1765630583274&sig=91f097f89113b60190f1d600007bc25cdace613c9b81fd9e39132e893bb9e4d2&width=320" alt="Omslag van 'Spoorloos'" title="Omslag van 'Spoorloos'">
+<p>Nadat in Brussel een 7-jarig meisje is ontvoerd, moet Cel 5, een rechercheteam gespecialiseerd in misdrijven tegen kinderen, haar zien te vinden.</p>]]></content>
         <author>
-            <name>Pieter Aspe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zonder spijt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794877/zonder-spijt-pieter-aspe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794877/zonder-spijt-pieter-aspe"/>
-        <updated>2025-12-13T07:13:18.206Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794877?aid=kb-online-bibliotheek&sid=19&dts=1765609997921&sig=b81bfac3b3e4662b6b44ebe1f3465c29ae7997dbcc5e611ca4e8ab4f66500112&width=320" alt="Omslag van 'Zonder spijt'" title="Omslag van 'Zonder spijt'">
-<p>Commissaris Van In van de politie in Brugge vindt een journalist vermoord in zijn woning en verneemt dat hij op het punt stond ophefmakende details over de Bende van Nijvel te publiceren.</p>]]></content>
-        <author>
-            <name>Pieter Aspe</name>
+            <name>Luc Deflo</name>
         </author>
     </entry>
     <entry>
@@ -312,17 +323,6 @@
         <updated>2025-12-14T07:14:05.077Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794931?aid=kb-online-bibliotheek&sid=19&dts=1765650035428&sig=7deafcf3832798bc8c41e8fcbce016c48e3bd30e72b9cb9d746d20551b190b0b&width=320" alt="Omslag van 'Weerloos'" title="Omslag van 'Weerloos'">
 <p>Commissaris De Deckers speciale rechercheteam moet de schuldigen vinden in een pedofiliezaak die de Belgische gemoederen tot een kookpunt brengt.</p>]]></content>
-        <author>
-            <name>Luc Deflo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spoorloos]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394794958/spoorloos-luc-deflo</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394794958/spoorloos-luc-deflo"/>
-        <updated>2025-12-14T07:14:05.286Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394794958?aid=kb-online-bibliotheek&sid=19&dts=1765630583274&sig=91f097f89113b60190f1d600007bc25cdace613c9b81fd9e39132e893bb9e4d2&width=320" alt="Omslag van 'Spoorloos'" title="Omslag van 'Spoorloos'">
-<p>Nadat in Brussel een 7-jarig meisje is ontvoerd, moet Cel 5, een rechercheteam gespecialiseerd in misdrijven tegen kinderen, haar zien te vinden.</p>]]></content>
         <author>
             <name>Luc Deflo</name>
         </author>
