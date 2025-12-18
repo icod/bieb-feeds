@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-12-17T07:18:04.691Z</updated>
+    <updated>2025-12-18T07:17:41.874Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[The Hawks of Peace]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447753991/the-hawks-of-peace-dmitry-rogozin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447753991/the-hawks-of-peace-dmitry-rogozin"/>
+        <updated>2025-12-08T07:19:10.677Z</updated>
+        <summary type="html"><![CDATA[Notes of the Russian Ambassador]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447753991?aid=kb-online-bibliotheek&sid=19&dts=1765178350089&sig=8d37e30db4b3808982ab5bb9765df560382bd5662c5369b62c59625a8facafa7&width=320" alt="Omslag van 'The Hawks of Peace'" title="Omslag van 'The Hawks of Peace'">
+<p>The Hawks of Peace. Notes of Russian Ambassador is a unique analytical edition where Russian Deputy Premier Dmitry Rogozin shares his notes on personalities and events that shaped the history of post-Communist Russia, believing that without those it would be impossible to understand the past and envisage the future of his country</p>]]></content>
+        <author>
+            <name>Dmitry Rogozin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Een wijze uit het westen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394716930/een-wijze-uit-het-westen-dani%C3%ABl-mok</id>
@@ -17,6 +29,40 @@
 <p>'Een wijze uit het westen' vormt de opmaat tot de nieuwe druk van de Nederlandse vertaling van Rudolf Otto's meesterwerk 'Het heilige'. Dit boek geeft over tijdloze begrippen gevoelens weer uit een levensbeschouwelijk bontgekleurde samenleving. Rudolf Otto en zijn beeld van het heilige staan centraal in deze rijke schakering. Otto inspireerde velen tot het beschrijven van hun relatie met de grootste geheimenis van ons bestaan en de uitingen daarvan in opvoeding, onderwijs, kunst, geloofsbeleving of levensovertuiging. Hun beschouwingen over het mysterium tremendum & fascinans met zijn vele nuanceringen zijn in dit boek gebundeld. Deze keuze vormt de opmaat tot de derde Nederlandse druk van Rudolf Otto's boek 'Het heilige'. Met wetenschappelijke precisie en een fijnzinnig gevoel voor 'alles wat leeft en beeft' overtuigt Rudolf Otto de lezer ervan dat hij de ontsluiering van het fascinerende maar ijzingwekkende mysterie met een gerust hart aan zijn gevoel kan overlaten. Dan wordt de ontmoeting met het heilige concreter en werpt het zijn vruchten af in de ontmoeting met de ander. In 'Een wijze uit het westen' komen godsdienstwetenschappers en theologen, maar ook psychologen, pedagogen, psychiaters en literatoren aan het woord en laten een veelkleurig licht schijnen over het thema van het heilige. Deze veelkleurigheid maakt het denken en de centrale begrippen van Rudolf Otto toegankelijk. Zij plaatst het heilige, numineuze als een overkoepelend begrip boven de verschillende religies en levensovertuigingen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Daniël Mok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metro 2033]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394854829/metro-2033-dmitri-gloechovski</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394854829/metro-2033-dmitri-gloechovski"/>
+        <updated>2025-12-08T07:19:11.321Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394854829?aid=kb-online-bibliotheek&sid=19&dts=1765178350789&sig=93f0652137e54eb9055159d14813624ee9ef216f208c33032f2aab3eee9d3fa9&width=320" alt="Omslag van 'Metro 2033'" title="Omslag van 'Metro 2033'">
+<p>Na een nucleaire holocaust ligt het Moskou van 2033 in puin. De overlevenden leven als ratten in de Ondergrondse, maar ook daar zijn zij niet veilig</p>]]></content>
+        <author>
+            <name>Dmitri Gloechovski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vertrek van station Atocha]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394865804/vertrek-van-station-atocha-ben-lerner</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394865804/vertrek-van-station-atocha-ben-lerner"/>
+        <updated>2025-12-18T07:17:37.488Z</updated>
+        <summary type="html"><![CDATA[roman]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394865804?aid=kb-online-bibliotheek&sid=19&dts=1765996561904&sig=02602e18ce74620f33153e3bd36dc27eeaa3aff5b1815337169efe461f505984&width=320" alt="Omslag van 'Vertrek van station Atocha'" title="Omslag van 'Vertrek van station Atocha'">
+<p>De onzekere bespiegelingen van een jonge Amerikaanse dichter die na het krijgen van een prestigieuze beurs in Madrid onderzoek doet naar de literaire erfenis van de Spaanse Burgeroorlog.</p>]]></content>
+        <author>
+            <name>Ben Lerner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groot slem en andere verhalen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/416680895/groot-slem-en-andere-verhalen-leonid-andrejev</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/416680895/groot-slem-en-andere-verhalen-leonid-andrejev"/>
+        <updated>2025-12-08T07:19:11.829Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A416680895?aid=kb-online-bibliotheek&sid=19&dts=1765178351425&sig=0339c97aeb69ec76b94969a6c19ac3ca00be43489ead251ca08e99328af54ec2&width=320" alt="Omslag van 'Groot slem en andere verhalen'" title="Omslag van 'Groot slem en andere verhalen'">
+<p>Andrejevs actieve periode als schrijver besloeg zo'n twintig jaar in een tumultueuze periode van de geschiedenis van Rusland. De vertwijfeling en de onzekerheid die de oorlog en de revolutie met zich meebrachten beïnvloedden in zijn werk. Themas als de tragiek van eenzaamheid, angst voor de dood, existentiële vertwijfeling en vormen van waanzin en hysterie, die zich veelal in een ziekenhuis of op het sterfbed afspeelden, zijn niet weg te denken uit Andrejevs boeken. In veel van zijn verhalen lopen waan en werkelijkheid door elkaar, waardoor een persoonlijk drama wereldomvattende proporties kan aannemen. Hoewel Andrejev zich aan zeer gevoelige onderwerpen waagde als verkrachting en geslachtsziekte, en daardoor de geschiedenis is ingegaan als een sensationeel en overwegend pessimistisch schrijver, worden veel van zijn betere verhalen gekenmerkt door een humoristische inslag. Deze uitgave bevat een aantal verhalen van Leonid Andrejev die in hun compleetheid en originaliteit de themas en stijl van deze grote Russische meester uitstekend weergeven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Leonid Andrejev</name>
         </author>
     </entry>
     <entry>
@@ -32,27 +78,81 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eerstejaars!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/427612918/eerstejaars--welmoed-barendsen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/427612918/eerstejaars--welmoed-barendsen"/>
-        <updated>2025-12-17T07:17:51.985Z</updated>
-        <summary type="html"><![CDATA[over adten, nassen, kleien en nog veel meer]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427612918?aid=kb-online-bibliotheek&sid=19&dts=1765915439387&sig=563aaae29fc8755f43bed8cef55f7d893522b71690d135ac11875962467b9bba&width=320" alt="Omslag van 'Eerstejaars!'" title="Omslag van 'Eerstejaars!'">
-<p>Hèt leukste boek voor alle nieuwe eerstejaars studenten. Welmoed Barendsen, zelf student, vertelt in dit boek met veel humor en zelfspot, het verhaal van eerstejaars Femke die met een stel andere groentjes wegwijs wordt gemaakt in het studentenleven. Femke maakt, net alle beginnende studenten, kennis met het bruisende, maar vooral ook vermoeiende studentenleven. Het verhaal begint bij de introductietijd waarbij ze samen met een stel andere groentjes wegwijs wordt gemaakt in de grote studentenstad. Femke wordt lid van een studentenvereniging. En zo belandt ze in de wereld van jaarclubs, disputen, studentenhuizen, besturen ... en de beruchte ontgroening. Met vallen en opstaan komt ze erachter dat je studententijd niet alleen om studeren gaat, maar ook om nieuwe vrienden te maken, te feesten en alles uit je dag (en uit je nacht) halen. Met veel slimme tips en adviezen Welmoed Barendsen doet nu een master in Malmö. Eerder schreef ze het succesvolle Lijntje over de jaren dat ze aan anorexia leed. Na haar VWO deed ze vrijwilligerswerk en startte ze met haar studie in Utrecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Dieptedenkers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434969788/dieptedenkers-julian-huxley---rudolf-otto---rufus-jones---william-james</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434969788/dieptedenkers-julian-huxley---rudolf-otto---rufus-jones---william-james"/>
+        <updated>2025-12-18T07:17:38.064Z</updated>
+        <summary type="html"><![CDATA[Burnier, Dostojewski, Fechner, Husserl, James, Kierkegaard, Otto, Sjestov]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434969788?aid=kb-online-bibliotheek&sid=19&dts=1766042257584&sig=e4d815058f7d837f7ba5df6733729a9f84ec5cdc69cd1968b14b569e0686cb23&width=320" alt="Omslag van 'Dieptedenkers'" title="Omslag van 'Dieptedenkers'">
+<p>Het Fenomenologisch archief van Abraxas|Zuider-Amstelboeken is een dynamisch project. De laatste stand van zaken: https://indd.adobe.com/view/d26ed613-4878-45e7-97c0-a5bd07052276</p>]]></content>
         <author>
-            <name>Welmoed Barendsen</name>
+            <name>Julian Huxley</name>
+        </author>
+        <author>
+            <name>Rudolf Otto</name>
+        </author>
+        <author>
+            <name>Rufus Jones</name>
+        </author>
+        <author>
+            <name>William James</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wilhelmina]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/430242573/wilhelmina-gerard-aalders</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/430242573/wilhelmina-gerard-aalders"/>
-        <updated>2025-12-17T07:17:52.441Z</updated>
-        <summary type="html"><![CDATA[mythe, fictie en werkelijkheid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430242573?aid=kb-online-bibliotheek&sid=19&dts=1765906802707&sig=16783357665c4d22a4f848f642b2016c0f7b33b4644f02c57abe1fe83a3814a8&width=320" alt="Omslag van 'Wilhelmina'" title="Omslag van 'Wilhelmina'">
-<p>Terwijl haar koningschap nog steeds met talloze raadsels is omgeven was Wilhelmina (1880 - 1962) als koningin razend populair. Voor haar dood liet ze welbewust documenten vernietigen die dit positieve imago konden aantasten. Historici roemen Wilhelmina's standvastigheid, haar moed en onverzettelijkheid. Met haar ferme toespraken voor Radio Oranje zou zij Nederland door de Tweede Wereldoorlog hebben gesleept. Haar kordate optreden zou ons land van een prominente plaats in het geallieerde bondgenootschap hebben verzekerd. Veel minder bekend waren Wilhelmina's duistere kanten. Ze was allerminst democratisch en van het parlement moest ze weinig hebben. Ze was buitengewoon uit de hoogte, koppig en egocentrisch. Door zelfoverschatting, tunnelvisie en wereldvreemdheid maakte ze menigmaal ernstige inschattingsfouten. Met haar ministers lag Wilhelmina voortdurend overhoop. Na haar zoveelste uitbarsting van razernij vroegen zij zich af 'Is Hare Majesteit wel helemaal normaal?' Uit diepe eerbied hebben biografen nooit de vragen gesteld die ze hadden moeten stellen. Dit boek laat de echte Wilhelmina zien. Ontdaan van de mythes en vergoelijkingen waarmee haar officiële biograaf Fasseur de oude vorstin heeft omgeven. De vraag rijst of iemand met de karaktertrekken van Wilhelmina eigenlijk wel als staatshoofd kon functioneren. 'Gerard Aalders laat er geen twijfel over bestaan dat Wilhelmina's reputatie op drijfzand was gebouwd'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Let the Games Begin]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442273398/let-the-games-begin-rufaro-faith-mazarura</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442273398/let-the-games-begin-rufaro-faith-mazarura"/>
+        <updated>2025-12-18T07:17:39.542Z</updated>
+        <summary type="html"><![CDATA[Zal hun liefde de eindstreep halen...]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442273398?aid=kb-online-bibliotheek&sid=19&dts=1765995650324&sig=c78782d49563e82b16f7488e5d4ffc028b8980f37189c9a91378f1babec01eb1&width=320" alt="Omslag van 'Let the Games Begin'" title="Omslag van 'Let the Games Begin'">
+<p>Let the Games Begin van Rufaro Faith Mazarura is een zinderende romcom over liefde in het olympisch dorp. Een originele en sexy sports romance vol humor en ontroerende momenten. Wanneer Olivia in Athene aankomt voor haar nieuwe baan bij het Internationaal Olympisch Comité, ontdekt ze dat haar functie al is toebedeeld aan de zoon van een miljardair. Er zit maar één ding op: helpen als vrijwilliger in het olympisch dorp.Zeke is in Athene om zijn titel als snelste man ter wereld te verdedigen, maar de wedstrijd roept ongemakkelijke herinneringen op uit zijn verleden. En terwijl de openingsceremonie dichterbij komt, maakt hij zich zorgen over de toekomst van zijn sportcarrière.Als Zeke en Olivia elkaar letterlijk tegen het lijf lopen, staan ze meteen op gespannen voet. Maar wanneer hun wegen elkaar blijven kruisen, worden ze steeds hechter. Kan hun opbloeiende romance de eindstreep halen, of zijn er simpelweg te veel hordes om te nemen?  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Gerard Aalders</name>
+            <name>Rufaro Faith Mazarura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het meisje in de trein]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443349053/het-meisje-in-de-trein-paula-hawkins</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443349053/het-meisje-in-de-trein-paula-hawkins"/>
+        <updated>2025-12-18T07:17:40.062Z</updated>
+        <summary type="html"><![CDATA[Je kent haar niet. Maar ze weet precies wie jij bent]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443349053?aid=kb-online-bibliotheek&sid=19&dts=1765985238586&sig=cd18e90639eb5757b8a3ac22871cbd34c41c103ab53e4ea9636c2b24dc62b268&width=320" alt="Omslag van 'Het meisje in de trein'" title="Omslag van 'Het meisje in de trein'">
+<p>Het meisje in de trein van Paula Hawkins is een van de best verkopende thrillers aller tijden, en is uitgeroepen tot VN Thriller van het Jaar. Nu met voorpublicatie van haar nieuwe thriller Het blauwe uur.Rachel neemt elke ochtend dezelfde trein. Altijd reist ze over hetzelfde traject, langs een rij charmante huizen in een buitenwijk van Londen, waarna de trein voor hetzelfde rode sein stopt. Zo kijkt ze elke ochtend naar een stel dat op hun terras ontbijt. Ze heeft inmiddels het gevoel dat ze hen kent en noemt hen 'Jess en Jason'. In Rachels ogen is hun leven perfect.Op een dag ziet ze iets vreemds in hun tuin. De trein rijdt weer door, maar voor Rachel verandert alles. Als blijkt dat 'Jess' vermist wordt, stapt Rachel naar de politie om haar verhaal te doen. Hiermee raakt ze niet alleen verwikkeld in de gebeurtenissen die volgen, maar ook in de levens van iedereen die erbij betrokken is. Wie is er te vertrouwen? En doet Rachel meer kwaad dan goed door zich met deze zaak te bemoeien?'Een vernieuwend boek dat je in één nacht uitleest.' VN Detective en Thrillergids *****'Ik weet niet wie je bent Paula Hawkins, maar je hebt me de hele nacht wakker gehouden.' Reese Witherspoon'Een eersteklas thriller en een totaal verslavende leeservaring.' S.J. Watson </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Paula Hawkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rookgat]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456421858/rookgat-martin-shaw</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456421858/rookgat-martin-shaw"/>
+        <updated>2025-12-18T07:17:40.582Z</updated>
+        <summary type="html"><![CDATA[Op zoek naar de wildernis in de tijd van de verrekijker]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456421858?aid=kb-online-bibliotheek&sid=19&dts=1766042260164&sig=681c2b1d9c90b6dc63d61819b681cdfbdfe75e09392a229bf1e5074cd874e39b&width=320" alt="Omslag van 'Rookgat'" title="Omslag van 'Rookgat'">
+<p>De mens staat tegenwoordig op meerdere kruispunten tegelijk: we zijn de weg kwijt op het gebied van identiteit, technologie, vertrouwen, liefde en politiek. Door een stortvloed aan verleidelijke beloften van sociale media en het opdoemen van meerdere crises zijn we ons gevoel voor richting verloren. We raken geïsoleerd en zijn alleen. We hebben wel netwerken, maar geen gemeenschappen. In deze verwarrende tijd leidt mytholoog Martin Shaw ons met drie metaforen door de moderne wereld. 'Rookgat' is een oproep om de complexiteit van het hedendaagse leven aan te gaan, van fakenieuws en ouderschap tot de klimaatcrisis en verslavende technologie. Shaw dringt erop aan dat we onze verbeelding herwinnen, onszelf los worstelen van moderne lasten en deze verhalen onze gids laten zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Martin Shaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heleen, een vroege winter]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45656778X/heleen--een-vroege-winter--</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45656778X/heleen--een-vroege-winter--"/>
+        <updated>2025-12-18T07:17:41.873Z</updated>
+        <summary type="html"><![CDATA[Enkele bladen uit Helene’s dagboek]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45656778X?aid=kb-online-bibliotheek&sid=19&dts=1765997064036&sig=8d95db32f1e4a79845fb07bbe41c97ec7607963a64ba20c59a6c4f227c40e8ab&width=320" alt="Omslag van 'Heleen, een vroege winter'" title="Omslag van 'Heleen, een vroege winter'">
+<p>Uit het voorwoord van Helene's dagboeken:  Carry van Bruggen, Najaar 1919 In dezelfde bundel ook: 'Het huisje aan de sloot', 'Eva' en het essay 'Vaderlandsliefde, mensenliefde en pedagogiek'. En… niet duur, wel redactioneel en typografisch tot in de puntjes verzorgd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een kerstlied]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45642184X/een-kerstlied-charles-dickens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45642184X/een-kerstlied-charles-dickens"/>
+        <updated>2025-12-08T07:19:18.407Z</updated>
+        <summary type="html"><![CDATA[Een Kerstlied]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45642184X?aid=kb-online-bibliotheek&sid=19&dts=1765178357944&sig=2ef2ef4f5f310e69c1fdfed28fdda4cbecd8bfe491ce0876aafeaf30ef8835eb&width=320" alt="Omslag van 'Een kerstlied'" title="Omslag van 'Een kerstlied'">
+<p>A Christmas Carol is één van de meest geliefde Kerstverhalen van deze tijd. Voor het eerst gepubliceerd in 1843, weet het verhaal iedere Kerst weer zijn opwachting te maken, in welke vorm dan ook. Ebenezer Scrooge, een zeer onaangename vrek, wordt op Kerstavond bezocht door de geest van zijn overleden partner Jacob Marley. Marley deelt hem mee dat hij drie bezoekers kan verwachten: de geesten van Kerstmis in het Verleden, Heden en Toekomst. Zij laten Scrooge zijn leven overzien, waardoor hij niet langer zijn ogen kan sluiten voor de gevolgen van zijn kille en ongevoelige daden. Scrooge krijgt te zien hoe zijn geldzucht levens heeft verwoest en hoe zijn naam een vieze smaak achterlaat op ieders tong. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Charles Dickens</name>
         </author>
     </entry>
     <entry>
@@ -68,6 +168,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eerstejaars!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/427612918/eerstejaars--welmoed-barendsen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/427612918/eerstejaars--welmoed-barendsen"/>
+        <updated>2025-12-17T07:17:51.985Z</updated>
+        <summary type="html"><![CDATA[over adten, nassen, kleien en nog veel meer]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427612918?aid=kb-online-bibliotheek&sid=19&dts=1765915439387&sig=563aaae29fc8755f43bed8cef55f7d893522b71690d135ac11875962467b9bba&width=320" alt="Omslag van 'Eerstejaars!'" title="Omslag van 'Eerstejaars!'">
+<p>Hèt leukste boek voor alle nieuwe eerstejaars studenten. Welmoed Barendsen, zelf student, vertelt in dit boek met veel humor en zelfspot, het verhaal van eerstejaars Femke die met een stel andere groentjes wegwijs wordt gemaakt in het studentenleven. Femke maakt, net alle beginnende studenten, kennis met het bruisende, maar vooral ook vermoeiende studentenleven. Het verhaal begint bij de introductietijd waarbij ze samen met een stel andere groentjes wegwijs wordt gemaakt in de grote studentenstad. Femke wordt lid van een studentenvereniging. En zo belandt ze in de wereld van jaarclubs, disputen, studentenhuizen, besturen ... en de beruchte ontgroening. Met vallen en opstaan komt ze erachter dat je studententijd niet alleen om studeren gaat, maar ook om nieuwe vrienden te maken, te feesten en alles uit je dag (en uit je nacht) halen. Met veel slimme tips en adviezen Welmoed Barendsen doet nu een master in Malmö. Eerder schreef ze het succesvolle Lijntje over de jaren dat ze aan anorexia leed. Na haar VWO deed ze vrijwilligerswerk en startte ze met haar studie in Utrecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Welmoed Barendsen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De achtste zonnebloemen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/430133561/de-achtste-zonnebloemen-pauline-vijverberg</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/430133561/de-achtste-zonnebloemen-pauline-vijverberg"/>
@@ -80,63 +192,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In de schaduw van Schindler]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436658909/in-de-schaduw-van-schindler-kevin-prenger</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436658909/in-de-schaduw-van-schindler-kevin-prenger"/>
-        <updated>2025-12-17T07:17:53.983Z</updated>
-        <summary type="html"><![CDATA[jodenhelpers uit nazi-Duitsland]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436658909?aid=kb-online-bibliotheek&sid=19&dts=1765905606431&sig=d026432105a70ef3c31efbae10671bb4dc014dcda25da2171d7c53de44eba800&width=320" alt="Omslag van 'In de schaduw van Schindler'" title="Omslag van 'In de schaduw van Schindler'">
-<p>Zelfs in de donkerste tijden zijn er dappere mensen die hun medemenselijkheid laten prevaleren boven haat en eigenbelang. Terwijl de meeste Duitsers zich afzijdig hielden of de Jodenvervolging actief of passief ondersteunden, behielden sommigen hun menslievendheid en boden hulp aan vervolgden in nood. Een succesvol schrijver en een vrouwelijke dierenarts, een ingenieur en een politiek gevangene, een kapitein van een cruiseschip en een blinde bezemfabrikant. Zij - en ze waren de enigen niet - groeiden stuk voor stuk uit tot onbaatzuchtige mensenredders. Alleen zijn zij, in tegenstelling tot Oskar Schindler, relatief onbekend gebleven. Wie waren de Duitsers die met gevaar voor eigen leven hun Joodse medemensen hielpen, terwijl de meesten van hun landgenoten de andere kant opkeken of bijdroegen aan de nazimisdaden? Kevin Prenger deed uitgebreid onderzoek en bracht zes 'Rechtvaardigen onder de Volkeren' bijeen in In de schaduw van Schindler. Prenger toont aan dat het kwaad niet altijd zegeviert. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Wilhelmina]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/430242573/wilhelmina-gerard-aalders</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/430242573/wilhelmina-gerard-aalders"/>
+        <updated>2025-12-17T07:17:52.441Z</updated>
+        <summary type="html"><![CDATA[mythe, fictie en werkelijkheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430242573?aid=kb-online-bibliotheek&sid=19&dts=1765906802707&sig=16783357665c4d22a4f848f642b2016c0f7b33b4644f02c57abe1fe83a3814a8&width=320" alt="Omslag van 'Wilhelmina'" title="Omslag van 'Wilhelmina'">
+<p>Terwijl haar koningschap nog steeds met talloze raadsels is omgeven was Wilhelmina (1880 - 1962) als koningin razend populair. Voor haar dood liet ze welbewust documenten vernietigen die dit positieve imago konden aantasten. Historici roemen Wilhelmina's standvastigheid, haar moed en onverzettelijkheid. Met haar ferme toespraken voor Radio Oranje zou zij Nederland door de Tweede Wereldoorlog hebben gesleept. Haar kordate optreden zou ons land van een prominente plaats in het geallieerde bondgenootschap hebben verzekerd. Veel minder bekend waren Wilhelmina's duistere kanten. Ze was allerminst democratisch en van het parlement moest ze weinig hebben. Ze was buitengewoon uit de hoogte, koppig en egocentrisch. Door zelfoverschatting, tunnelvisie en wereldvreemdheid maakte ze menigmaal ernstige inschattingsfouten. Met haar ministers lag Wilhelmina voortdurend overhoop. Na haar zoveelste uitbarsting van razernij vroegen zij zich af 'Is Hare Majesteit wel helemaal normaal?' Uit diepe eerbied hebben biografen nooit de vragen gesteld die ze hadden moeten stellen. Dit boek laat de echte Wilhelmina zien. Ontdaan van de mythes en vergoelijkingen waarmee haar officiële biograaf Fasseur de oude vorstin heeft omgeven. De vraag rijst of iemand met de karaktertrekken van Wilhelmina eigenlijk wel als staatshoofd kon functioneren. 'Gerard Aalders laat er geen twijfel over bestaan dat Wilhelmina's reputatie op drijfzand was gebouwd'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Kevin Prenger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hitlers winter]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438045491/hitlers-winter-anthony-tucker-jones</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438045491/hitlers-winter-anthony-tucker-jones"/>
-        <updated>2025-12-17T07:17:54.415Z</updated>
-        <summary type="html"><![CDATA[het Ardennenoffensief door Duitse ogen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438045491?aid=kb-online-bibliotheek&sid=19&dts=1765903698266&sig=e060bfd65358113dd25e9dd2fc0de339971d503f236a88f3dc2db872a7376234&width=320" alt="Omslag van 'Hitlers winter'" title="Omslag van 'Hitlers winter'">
-<p>Beschrijving van het Ardennenoffensief in de winter van 1944-1945 uit het perspectief van het Duitse leger, met verslagen van Duitse infanteristen en pantserbemanningen. Met zwart-witfoto’s en kaarten.</p>]]></content>
-        <author>
-            <name>Anthony Tucker-Jones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hitlers beul]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438133684/hitlers-beul-helmut-ortner</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438133684/hitlers-beul-helmut-ortner"/>
-        <updated>2025-12-17T07:17:54.852Z</updated>
-        <summary type="html"><![CDATA[de geschiedenis van de nazi-opperrechter die opdracht gaf tot de moord op duizenden Duitsers]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438133684?aid=kb-online-bibliotheek&sid=19&dts=1765902151177&sig=7f87ba1c0019b5b8bb6f66f1d7cbe9faa64399bb2188edb5b942b4858863db4a&width=320" alt="Omslag van 'Hitlers beul'" title="Omslag van 'Hitlers beul'">
-<p>Levensgeschiedenis van de Duitse nazi-beul en jurist (1893-1945).</p>]]></content>
-        <author>
-            <name>Helmut Ortner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Dordtse affaire]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438133668/de-dordtse-affaire-frank-van-riet</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438133668/de-dordtse-affaire-frank-van-riet"/>
-        <updated>2025-12-17T07:17:55.332Z</updated>
-        <summary type="html"><![CDATA[vervolging, verzet en verraad in en rond Dordrecht]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438133668?aid=kb-online-bibliotheek&sid=19&dts=1765907636055&sig=3fec5e32bce2461807b9f97b9b7f02111aff608fe7e2a48966a666354a31a018&width=320" alt="Omslag van 'De Dordtse affaire'" title="Omslag van 'De Dordtse affaire'">
-<p>Verhandeling over de bezettingsgeschiedenis van Dordrecht tijdens de Tweede Wereldoorlog, met speciale aandacht voor de handlangers van de bezetters en het taboe dat op deze geschiedenis kwam te rusten. Met zwart-witfoto’s.</p>]]></content>
-        <author>
-            <name>Frank van Riet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nederland narcostaat]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437967174/nederland-narcostaat-hans-werdm%C3%B6ller</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437967174/nederland-narcostaat-hans-werdm%C3%B6ller"/>
-        <updated>2025-12-17T07:17:55.835Z</updated>
-        <summary type="html"><![CDATA[na 50 jaar drugshandel en talloze liquidaties]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437967174?aid=kb-online-bibliotheek&sid=19&dts=1765906422795&sig=b706114f0c30da131977bfa311d665fd0376d6bb2090950110e2dedbae4f476c&width=320" alt="Omslag van 'Nederland narcostaat'" title="Omslag van 'Nederland narcostaat'">
-<p>Is Nederland een land van kaas, coke en killers? Dit boek schetst een ontluisterend beeld van hoe Nederland vanaf de jaren zeventig geleidelijk opschoof naar een de facto narcostaat, met de opkomst van nietsontziende misdaadgroepen, corruptie, liquidaties en 'vergismoorden' in de onder- en bovenwereld. Nederland is in de internationale georganiseerde drugscriminaliteit zowel een belangrijk doorvoerland als een productieland van formaat. Met name de havens van Rotterdam en Antwerpen spelen bij de smokkel van cocaïne en als exportmogelijkheid voor Brabantse nederwiet en XTC-pillen een belangrijke rol. Het gedoogbeleid en de politiek van wegkijken heeft de weg geplaveid voor de georganiseerde misdaad. Naast blijvende gezondheidsschade als gevolg van drugsgebruik is er niet alleen sprake van grof geweld en liquidaties, maar ook van criminele geldstromen die verweven raken met de reguliere economie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Hans Werdmöller</name>
+            <name>Gerard Aalders</name>
         </author>
     </entry>
     <entry>
@@ -164,14 +228,63 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Henk Schiffmachers grote Borneo-expeditie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436750791/henk-schiffmachers-grote-borneo-expeditie-henk-schiffmacher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436750791/henk-schiffmachers-grote-borneo-expeditie-henk-schiffmacher"/>
-        <updated>2025-12-17T07:17:57.184Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436750791?aid=kb-online-bibliotheek&sid=19&dts=1765908306113&sig=886a5954e79cd0fe900e29d4a7be0eac7f42af7aa9fde32060daa1531c233b0e&width=320" alt="Omslag van 'Henk Schiffmachers grote Borneo-expeditie'" title="Omslag van 'Henk Schiffmachers grote Borneo-expeditie'">
-<p>Geinspireerd door etnoloog Anton Nieuwenhuis gaat tattoo-artiest Henk Schiffmacher op zoek naar de oorsprong van de tatoeage. Samen met zijn vriend Anthony Kiedis, zanger van de rockgroep Red Hot Chili Peppers, zet hij een expeditie op touw dwars door de binnenlanden van Borneo. Nieuwenhuis deed vijftien maanden over zijn reis; Schiffmacher en zijn medereizigers trekken er zes weken voor uit. Ze weten: het is levensgevaarlijk. Maar ze realiseren zich ook: als we hier levend uitkomen, hebben we een fantastisch verhaal. Daar blijkt niets te veel mee gezegd. Eenmaal op Borneo wordt de expeditie hun bijna noodlottig. Geteisterd door blessures en infecties, belaagd door kruipend, zuigend, bijtend en stekend ongedierte banen de mannen zich een weg door een bijna ondoordringbare jungle. Anthony Kiedis vertelt later in Rolling Stone: 'Het werd de meest angstaanjagende en onaangename overlevingstest waaraan ik mezelf ooit onderworpen heb.' Schiffmacher zegt er nu zelf over: 'Het was een groot avontuur, maar wel een avontuur dat helemaal verkeerd had kunnen aflopen.' Met veel foto's die medereiziger en fotograaf Gerard Wessel indertijd maakte. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hitlers winter]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438045491/hitlers-winter-anthony-tucker-jones</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438045491/hitlers-winter-anthony-tucker-jones"/>
+        <updated>2025-12-17T07:17:54.415Z</updated>
+        <summary type="html"><![CDATA[het Ardennenoffensief door Duitse ogen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438045491?aid=kb-online-bibliotheek&sid=19&dts=1765903698266&sig=e060bfd65358113dd25e9dd2fc0de339971d503f236a88f3dc2db872a7376234&width=320" alt="Omslag van 'Hitlers winter'" title="Omslag van 'Hitlers winter'">
+<p>Beschrijving van het Ardennenoffensief in de winter van 1944-1945 uit het perspectief van het Duitse leger, met verslagen van Duitse infanteristen en pantserbemanningen. Met zwart-witfoto’s en kaarten.</p>]]></content>
         <author>
-            <name>Henk Schiffmacher</name>
+            <name>Anthony Tucker-Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitlers beul]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438133684/hitlers-beul-helmut-ortner</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438133684/hitlers-beul-helmut-ortner"/>
+        <updated>2025-12-17T07:17:54.852Z</updated>
+        <summary type="html"><![CDATA[de geschiedenis van de nazi-opperrechter die opdracht gaf tot de moord op duizenden Duitsers]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438133684?aid=kb-online-bibliotheek&sid=19&dts=1765902151177&sig=7f87ba1c0019b5b8bb6f66f1d7cbe9faa64399bb2188edb5b942b4858863db4a&width=320" alt="Omslag van 'Hitlers beul'" title="Omslag van 'Hitlers beul'">
+<p>Levensgeschiedenis van de Duitse nazi-beul en jurist (1893-1945).</p>]]></content>
+        <author>
+            <name>Helmut Ortner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In de schaduw van Schindler]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436658909/in-de-schaduw-van-schindler-kevin-prenger</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436658909/in-de-schaduw-van-schindler-kevin-prenger"/>
+        <updated>2025-12-17T07:17:53.983Z</updated>
+        <summary type="html"><![CDATA[jodenhelpers uit nazi-Duitsland]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436658909?aid=kb-online-bibliotheek&sid=19&dts=1765905606431&sig=d026432105a70ef3c31efbae10671bb4dc014dcda25da2171d7c53de44eba800&width=320" alt="Omslag van 'In de schaduw van Schindler'" title="Omslag van 'In de schaduw van Schindler'">
+<p>Zelfs in de donkerste tijden zijn er dappere mensen die hun medemenselijkheid laten prevaleren boven haat en eigenbelang. Terwijl de meeste Duitsers zich afzijdig hielden of de Jodenvervolging actief of passief ondersteunden, behielden sommigen hun menslievendheid en boden hulp aan vervolgden in nood. Een succesvol schrijver en een vrouwelijke dierenarts, een ingenieur en een politiek gevangene, een kapitein van een cruiseschip en een blinde bezemfabrikant. Zij - en ze waren de enigen niet - groeiden stuk voor stuk uit tot onbaatzuchtige mensenredders. Alleen zijn zij, in tegenstelling tot Oskar Schindler, relatief onbekend gebleven. Wie waren de Duitsers die met gevaar voor eigen leven hun Joodse medemensen hielpen, terwijl de meesten van hun landgenoten de andere kant opkeken of bijdroegen aan de nazimisdaden? Kevin Prenger deed uitgebreid onderzoek en bracht zes 'Rechtvaardigen onder de Volkeren' bijeen in In de schaduw van Schindler. Prenger toont aan dat het kwaad niet altijd zegeviert. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kevin Prenger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Dordtse affaire]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438133668/de-dordtse-affaire-frank-van-riet</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438133668/de-dordtse-affaire-frank-van-riet"/>
+        <updated>2025-12-17T07:17:55.332Z</updated>
+        <summary type="html"><![CDATA[vervolging, verzet en verraad in en rond Dordrecht]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438133668?aid=kb-online-bibliotheek&sid=19&dts=1765907636055&sig=3fec5e32bce2461807b9f97b9b7f02111aff608fe7e2a48966a666354a31a018&width=320" alt="Omslag van 'De Dordtse affaire'" title="Omslag van 'De Dordtse affaire'">
+<p>Verhandeling over de bezettingsgeschiedenis van Dordrecht tijdens de Tweede Wereldoorlog, met speciale aandacht voor de handlangers van de bezetters en het taboe dat op deze geschiedenis kwam te rusten. Met zwart-witfoto’s.</p>]]></content>
+        <author>
+            <name>Frank van Riet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nederland narcostaat]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437967174/nederland-narcostaat-hans-werdm%C3%B6ller</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437967174/nederland-narcostaat-hans-werdm%C3%B6ller"/>
+        <updated>2025-12-17T07:17:55.835Z</updated>
+        <summary type="html"><![CDATA[na 50 jaar drugshandel en talloze liquidaties]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437967174?aid=kb-online-bibliotheek&sid=19&dts=1765906422795&sig=b706114f0c30da131977bfa311d665fd0376d6bb2090950110e2dedbae4f476c&width=320" alt="Omslag van 'Nederland narcostaat'" title="Omslag van 'Nederland narcostaat'">
+<p>Is Nederland een land van kaas, coke en killers? Dit boek schetst een ontluisterend beeld van hoe Nederland vanaf de jaren zeventig geleidelijk opschoof naar een de facto narcostaat, met de opkomst van nietsontziende misdaadgroepen, corruptie, liquidaties en 'vergismoorden' in de onder- en bovenwereld. Nederland is in de internationale georganiseerde drugscriminaliteit zowel een belangrijk doorvoerland als een productieland van formaat. Met name de havens van Rotterdam en Antwerpen spelen bij de smokkel van cocaïne en als exportmogelijkheid voor Brabantse nederwiet en XTC-pillen een belangrijke rol. Het gedoogbeleid en de politiek van wegkijken heeft de weg geplaveid voor de georganiseerde misdaad. Naast blijvende gezondheidsschade als gevolg van drugsgebruik is er niet alleen sprake van grof geweld en liquidaties, maar ook van criminele geldstromen die verweven raken met de reguliere economie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hans Werdmöller</name>
         </author>
     </entry>
     <entry>
@@ -187,6 +300,17 @@
         </author>
         <author>
             <name>Govert Wisse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Henk Schiffmachers grote Borneo-expeditie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436750791/henk-schiffmachers-grote-borneo-expeditie-henk-schiffmacher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436750791/henk-schiffmachers-grote-borneo-expeditie-henk-schiffmacher"/>
+        <updated>2025-12-17T07:17:57.184Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436750791?aid=kb-online-bibliotheek&sid=19&dts=1765908306113&sig=886a5954e79cd0fe900e29d4a7be0eac7f42af7aa9fde32060daa1531c233b0e&width=320" alt="Omslag van 'Henk Schiffmachers grote Borneo-expeditie'" title="Omslag van 'Henk Schiffmachers grote Borneo-expeditie'">
+<p>Geinspireerd door etnoloog Anton Nieuwenhuis gaat tattoo-artiest Henk Schiffmacher op zoek naar de oorsprong van de tatoeage. Samen met zijn vriend Anthony Kiedis, zanger van de rockgroep Red Hot Chili Peppers, zet hij een expeditie op touw dwars door de binnenlanden van Borneo. Nieuwenhuis deed vijftien maanden over zijn reis; Schiffmacher en zijn medereizigers trekken er zes weken voor uit. Ze weten: het is levensgevaarlijk. Maar ze realiseren zich ook: als we hier levend uitkomen, hebben we een fantastisch verhaal. Daar blijkt niets te veel mee gezegd. Eenmaal op Borneo wordt de expeditie hun bijna noodlottig. Geteisterd door blessures en infecties, belaagd door kruipend, zuigend, bijtend en stekend ongedierte banen de mannen zich een weg door een bijna ondoordringbare jungle. Anthony Kiedis vertelt later in Rolling Stone: 'Het werd de meest angstaanjagende en onaangename overlevingstest waaraan ik mezelf ooit onderworpen heb.' Schiffmacher zegt er nu zelf over: 'Het was een groot avontuur, maar wel een avontuur dat helemaal verkeerd had kunnen aflopen.' Met veel foto's die medereiziger en fotograaf Gerard Wessel indertijd maakte. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Henk Schiffmacher</name>
         </author>
     </entry>
     <entry>
@@ -214,61 +338,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De terugkeer van de Tempelpriesteres]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444285989/de-terugkeer-van-de-tempelpriesteres-michelle-shanti</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444285989/de-terugkeer-van-de-tempelpriesteres-michelle-shanti"/>
-        <updated>2025-12-17T07:17:59.175Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444285989?aid=kb-online-bibliotheek&sid=19&dts=1765912771399&sig=03365fa999e1bb8565e962f2bdbf894c6bf4c31021d2abf44c8eb98de4045cc6&width=320" alt="Omslag van 'De terugkeer van de Tempelpriesteres'" title="Omslag van 'De terugkeer van de Tempelpriesteres'">
-<p>Wanneer Olivia een bureau van haar Joodse grootouders erft, ontdekt ze daarin een manuscript dat in het geheim is geschreven door haar oma. Het manuscript gaat over de leer van de Tempelpriesteressen uit lang vervlogen tijden en de woorden van haar oma leiden Olivia naar een wereldwijd Zusterschap dat streeft naar liefde, vrede en vrijheid.</p><p> Ook vindt Olivia in het bureau een brief die aan haar gericht is. De boodschap in deze brief verandert haar leven volledig. Tegelijkertijd ontmoet ze een man waar ze halsoverkop verliefd op wordt.</p><p> Hoe kan Olivia omgaan met de missie die zich ontvouwt voor haar? En past een romantische liefde nog wel in haar nieuwe leven?</p><p> 'Je weet nog maar de helft van de vrouw die jouw oma was, Olivia. Hoe meer je over haar te weten zult komen, des te meer zal je jezelf snappen. Het magische moment waarop je het diepste geheim van jezelf ontraadselt, zal samenvallen met het grote geheim dat de wereld in zich draagt.'</p><p> Michelle Shanti is auteur van o.a. de bestseller Godin op hoge hakken en Naar liefde en vrijheid. Samen met Geert Kimpen runt zij de uitgeverijen London Books en Paris Books. Daarnaast is ze trainer en coach en heeft ze inmiddels honderden vrouwen begeleid in hun persoonlijke, spirituele en professionele ontwikkeling. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De zaak Roosen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444327088/de-zaak-roosen-frank-cooler</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444327088/de-zaak-roosen-frank-cooler"/>
+        <updated>2025-12-17T07:18:01.893Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444327088?aid=kb-online-bibliotheek&sid=19&dts=1765905964627&sig=4e32ab0dbcf3ce1d3be0b7bca884e3d421c8092a9dbdd7f02b8c98a7e90afaf3&width=320" alt="Omslag van 'De zaak Roosen'" title="Omslag van 'De zaak Roosen'">
+<p>Samenvatting DE ZAAK ROOSEN In een strijd om onschuld, ontdekt hij de waarheid over zichzelf Een afgelegen eiland lijkt het ideale toevluchtsoord voor bezinning. Paul Roosen heeft dat hard nodig: zijn bedrijf en huwelijk verkeren in zwaar weer. Als er plots een moord wordt gepleegd op het ogenschijnlijk vredige eiland wordt Roosen daarvan beschuldigd. Hij heeft geen alibi en zijn vingerafdrukken staan overal op. Het ergste is dat hij ook een motief lijkt te hebben. In zijn zoektocht naar de ware schuldige verandert het eiland in een mijnenveld. De confrontaties dwingen hem om de vastgeroeste aannames over zichzelf en zijn leven te onderzoeken. Lukt het Roosen de vrijheid in zichzelf te vinden en zijn onschuld te bewijzen? 'Een pageturner met verrassende plotwendingen. Ook als het al laat is wil je blijven lezen.' - Maria Genova, journalist en bestsellerauteur Frank Cooler begon zijn carrière als videokunstenaar en groeide uit tot een veelzijdig scenarist en regisseur van commercials, bedrijfsfilms en documentaires. Het idee voor De Zaak Roosen ontstond in de jaren tachtig als script voor een speelfilm. Die film is er (nog) niet gekomen maar het script heeft hij na een lang rijpingsproces vertaald naar een mysterie thriller. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Michelle Shanti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIRCA 40CM]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444700285/circa-40cm-steve-van-herreweghe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444700285/circa-40cm-steve-van-herreweghe"/>
-        <updated>2025-12-17T07:17:59.612Z</updated>
-        <summary type="html"><![CDATA[Een Individuele Revolutie op heldenvoeten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444700285?aid=kb-online-bibliotheek&sid=19&dts=1765911911872&sig=795c91cfb44925b464c0b4189c9ea9f474ed2cdf8b4dd83270fec9d30841c491&width=320" alt="Omslag van 'CIRCA 40CM'" title="Omslag van 'CIRCA 40CM'">
-<p>'Zelfliefde is niet voor watjes, het is wild, het is rebels. Sta op voor jouw individuele revolutie. De geschiedenis wordt niet voor maar door jou geschreven.' Circa 40cm gaat over de reis van de verdwaalde, gesaboteerde doch oerkrachtige Held-in-jou. Met slechts één doel voor ogen: een krachtige en waarachtige doorbraak in je leven. Een intense reis van 40cm: deze van buiten naar binnen en van hoofd naar hart. Met dit buitengewoon inspirerend werk daagt Steve jou uit je ware Zelf te zien, te bevrijden en te worden, doorheen donkere tijden van mis-Leiding. 'Jij bent veel meer dan de vracht die je meezeult, de vloeken die je achtervolgen, de etiketten die je brandmerken, de autoriteiten die je klein houden. Ga voor de waarheid, ga voor het beste.'</p><p>  Steve is therapeut, spreker en schrijver. Hij zet zich, sinds 1999, als 'innerlijk goudzoeker' in voor de rechten, de heling en transformatie van mensen. Zijn artikelen worden door duizenden gelezen en gedeeld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Steve VAN HERREWEGHE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onderhuids]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443933731/onderhuids-suzanne-gerding</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443933731/onderhuids-suzanne-gerding"/>
-        <updated>2025-12-17T07:18:00.029Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443933731?aid=kb-online-bibliotheek&sid=19&dts=1765907650627&sig=1fa6aac5a695bdc8a7cc04a0a596835c2d5a8cebe3605757c5398ec37a8f9bbc&width=320" alt="Omslag van 'Onderhuids'" title="Omslag van 'Onderhuids'">
-<p>Als alles klopt en je leeft de droom van velen, zou je dan twijfelen aan je keuzes? Heb je er reden toe? Floor heeft alles: ze is getrouwd, heeft twee dochters en een goedlopende psychologiepraktijk. Ze heeft geen enkele reden haar gemaakte keuzes te bevragen. Maar als een confrontatie met het verleden een verborgen verlangen blootlegt, wordt zij uitgedaagd hoog spel te spelen met alles wat zij liefheeft. Onderhuids is een tot de verbeelding sprekende, sensueel geschreven roman over liefde, keuzevrijheid en over de bereidheid de eigen waarheid te ontdekken. Suzanne Gerding (Den Haag, 1978) is als coach en trainer werkzaam voor haar eigen bedrijf, alsook voor een landelijke organisatie voor doven en slechthorenden. Daarnaast is zij Buitengewoon Ambtenaar van de Burgerlijke Stand (BABS). Zij woont met haar gezin in Zuid-Holland. "Suzanne Gerding heeft Floors belevenissen opgetekend aan de hand van vlotte dialogen. Het verhaal leest alsof je naar een film kijkt." - De Leeuwarder Courant "Een debuut om te verslinden." - Zij aan Zij "Onderhuids kruipt onder de huid." - ZiZo </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Suzanne Gerding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het geheim van de magische staf]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444331077/het-geheim-van-de-magische-staf-ch%C3%A9---robert-bridgeman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444331077/het-geheim-van-de-magische-staf-ch%C3%A9---robert-bridgeman"/>
-        <updated>2025-12-17T07:18:00.461Z</updated>
-        <summary type="html"><![CDATA[een spiritueel avontuur voor kinderen van 11 tot 111 jaar]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444331077?aid=kb-online-bibliotheek&sid=19&dts=1765907789854&sig=e21a3fbfb22a17b77b2156d054c0d80f5bc62147a13c1bfc923499e8915cd9da&width=320" alt="Omslag van 'Het geheim van de magische staf'" title="Omslag van 'Het geheim van de magische staf'">
-<p>Meg, een slimme 14-jarige, wordt achtervolgd door angstaanjagende nachtmerries waarin ze samen met twee jongens, waaronder de populaire Miko, wegvlucht voor een duistere schaduw. Als haar dromen werkelijkheid lijken te worden, begint een spannende reis vol magie, mysteries en een magische staf met ongekende krachten. Samen ontdekken ze geheimen die hun levens voor altijd zullen veranderen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ché &amp; Robert Bridgeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Van Aardemens tot Lichtwezen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443323283/van-aardemens-tot-lichtwezen-monique-plaisier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443323283/van-aardemens-tot-lichtwezen-monique-plaisier"/>
-        <updated>2025-12-17T07:18:00.901Z</updated>
-        <summary type="html"><![CDATA[De kracht van liefde en verbinding]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443323283?aid=kb-online-bibliotheek&sid=19&dts=1765907798198&sig=506bdc99961d43e73d479215ee804d91cd2b2446faec6438eb956dfe43f5ba1b&width=320" alt="Omslag van 'Van Aardemens tot Lichtwezen'" title="Omslag van 'Van Aardemens tot Lichtwezen'">
-<p>Dat we in ons leven ongenadig, maar ook noodzakelijkerwijs kunnen worden stilgezet blijkt uit dit waargebeurde verhaal. Wanneer een epileptische aanval haar zoon Robert-Jan op zestienjarige leeftijd fataal wordt, kan de hardwerkende, rationele Monique niets anders doen dan in rust kijken naar de schaduwkanten van haar leven en de pijn doorvoelen die diep verankerd ligt in haarzelf. Dit alles met één doel: ze wil haar zoon terugvinden in de wereld waar hij nu is. Al schrijvend leert ze luisteren naar haar hart, wordt de verbinding met haar zoon krachtiger en ervaart ze op een zeer bijzondere wijze begeleiding van Robert-Jan en het universum. Intuïtief voelt ze wat goed voor haar is en door de grenzeloze, onvoorwaardelijke liefde voor haar zoon durft ze stappen te zetten die ze normaal gesproken niet snel had durven nemen. Monique Plaisier maakt van datgene wat haar klein had kunnen krijgen haar grootste krachtbron. Zonder schaamte en in alle naaktheid deelt ze met jou haar diepste gevoelens. De kracht van liefde en verbinding is het eerste deel van de trilogie Van Aardemens tot Lichtwezen, een inspirerend boek vol inzichten en handvatten. Voor iedereen die meer vanuit liefde en verbinding wil leven en zich wil ontwikkelen naar een hoger bewustzijn. Een boek over verlies, rouw en zelfliefde. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Monique Plaisier</name>
+            <name>Frank Cooler</name>
         </author>
     </entry>
     <entry>
@@ -283,81 +360,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De zaak Roosen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444327088/de-zaak-roosen-frank-cooler</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444327088/de-zaak-roosen-frank-cooler"/>
-        <updated>2025-12-17T07:18:01.893Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444327088?aid=kb-online-bibliotheek&sid=19&dts=1765905964627&sig=4e32ab0dbcf3ce1d3be0b7bca884e3d421c8092a9dbdd7f02b8c98a7e90afaf3&width=320" alt="Omslag van 'De zaak Roosen'" title="Omslag van 'De zaak Roosen'">
-<p>Samenvatting DE ZAAK ROOSEN In een strijd om onschuld, ontdekt hij de waarheid over zichzelf Een afgelegen eiland lijkt het ideale toevluchtsoord voor bezinning. Paul Roosen heeft dat hard nodig: zijn bedrijf en huwelijk verkeren in zwaar weer. Als er plots een moord wordt gepleegd op het ogenschijnlijk vredige eiland wordt Roosen daarvan beschuldigd. Hij heeft geen alibi en zijn vingerafdrukken staan overal op. Het ergste is dat hij ook een motief lijkt te hebben. In zijn zoektocht naar de ware schuldige verandert het eiland in een mijnenveld. De confrontaties dwingen hem om de vastgeroeste aannames over zichzelf en zijn leven te onderzoeken. Lukt het Roosen de vrijheid in zichzelf te vinden en zijn onschuld te bewijzen? 'Een pageturner met verrassende plotwendingen. Ook als het al laat is wil je blijven lezen.' - Maria Genova, journalist en bestsellerauteur Frank Cooler begon zijn carrière als videokunstenaar en groeide uit tot een veelzijdig scenarist en regisseur van commercials, bedrijfsfilms en documentaires. Het idee voor De Zaak Roosen ontstond in de jaren tachtig als script voor een speelfilm. Die film is er (nog) niet gekomen maar het script heeft hij na een lang rijpingsproces vertaald naar een mysterie thriller. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De terugkeer van de Tempelpriesteres]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444285989/de-terugkeer-van-de-tempelpriesteres-michelle-shanti</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444285989/de-terugkeer-van-de-tempelpriesteres-michelle-shanti"/>
+        <updated>2025-12-17T07:17:59.175Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444285989?aid=kb-online-bibliotheek&sid=19&dts=1765912771399&sig=03365fa999e1bb8565e962f2bdbf894c6bf4c31021d2abf44c8eb98de4045cc6&width=320" alt="Omslag van 'De terugkeer van de Tempelpriesteres'" title="Omslag van 'De terugkeer van de Tempelpriesteres'">
+<p>Wanneer Olivia een bureau van haar Joodse grootouders erft, ontdekt ze daarin een manuscript dat in het geheim is geschreven door haar oma. Het manuscript gaat over de leer van de Tempelpriesteressen uit lang vervlogen tijden en de woorden van haar oma leiden Olivia naar een wereldwijd Zusterschap dat streeft naar liefde, vrede en vrijheid.</p><p> Ook vindt Olivia in het bureau een brief die aan haar gericht is. De boodschap in deze brief verandert haar leven volledig. Tegelijkertijd ontmoet ze een man waar ze halsoverkop verliefd op wordt.</p><p> Hoe kan Olivia omgaan met de missie die zich ontvouwt voor haar? En past een romantische liefde nog wel in haar nieuwe leven?</p><p> 'Je weet nog maar de helft van de vrouw die jouw oma was, Olivia. Hoe meer je over haar te weten zult komen, des te meer zal je jezelf snappen. Het magische moment waarop je het diepste geheim van jezelf ontraadselt, zal samenvallen met het grote geheim dat de wereld in zich draagt.'</p><p> Michelle Shanti is auteur van o.a. de bestseller Godin op hoge hakken en Naar liefde en vrijheid. Samen met Geert Kimpen runt zij de uitgeverijen London Books en Paris Books. Daarnaast is ze trainer en coach en heeft ze inmiddels honderden vrouwen begeleid in hun persoonlijke, spirituele en professionele ontwikkeling. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Frank Cooler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The last Cathar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447609106/the-last-cathar-robert-bridgeman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447609106/the-last-cathar-robert-bridgeman"/>
-        <updated>2025-12-17T07:18:02.355Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447609106?aid=kb-online-bibliotheek&sid=19&dts=1765903653376&sig=c9fa80782b7036493de52669d0a556bcb9876e68d0447d0aad0e8e470404b568&width=320" alt="Omslag van 'The last Cathar'" title="Omslag van 'The last Cathar'">
-<p>Cursed are they always and everywhere</p><p>Cursed are they day and night and every hour</p><p>Cursed are they when they sleep and when they wake</p><p>Cursed are they when they eat and when they drink</p><p>Cursed are they when they speak and when they are silent</p><p>Thus rang out the black curse of Pope Innocent III from every pulpit in Europe against the Cathars.</p><p>Shortly before he launched a crusade to exterminate them to the last man, woman and child.</p><p>The controversial Cathar priest Guillaume Bélibaste is the last guardian of a thousand-year-old secret.</p><p>The spiritual key that can free humanity from the cruel grip of the dark force that holds it captive.</p><p>Spies of the Inquisition shy away from neither betrayal nor violence to see him burned at the stake.</p><p>Who are his friends, and who are his enemies?</p><p>Can he maintain his dignity under all the pressure?</p><p>And above all: Will Bélibaste manage to keep his freedom in order to pass on the mystery of the Cathars to future generations?</p><p>Will pure light triumph over the black curse?</p><p>  BIO:  Robert Bridgeman is a Dutch author, columnist, transformational coach, and documentary filmmaker. He lived in the Cathar region for five years and conducted field and desk research for this spiritual novel between 2015 and 2023. Robert studies ancient civilizations and has a fascination with prophecies about the transition of mankind. He has published seven non-fiction books on consciousness and spirituality and made four documentaries. He is also the co-founder of the Bridgeman Academy, a leading institute for transformation (coach) training in Holland and Belgium. His debut novel 2044 (London Books – 2020) was well received and earned several nominations and awards. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Robert Bridgeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isa and Max and the flying skateboard]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446865761/isa-and-max-and-the-flying-skateboard-karin-thomas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446865761/isa-and-max-and-the-flying-skateboard-karin-thomas"/>
-        <updated>2025-12-17T07:18:02.908Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446865761?aid=kb-online-bibliotheek&sid=19&dts=1765955882470&sig=af84b4cc82e066a819413e08e700d0b1b0135e59064a86ff92758af9b702f49a&width=320" alt="Omslag van 'Isa and Max and the flying skateboard'" title="Omslag van 'Isa and Max and the flying skateboard'">
-<p>Flaptekst </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Karin Thomas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heelal op hol]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456567518/heelal-op-hol-yannick-fritschy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456567518/heelal-op-hol-yannick-fritschy"/>
-        <updated>2025-12-17T07:18:03.343Z</updated>
-        <summary type="html"><![CDATA[Over de steeds snellere groei van het universum]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456567518?aid=kb-online-bibliotheek&sid=19&dts=1765910982063&sig=e18dfc5520d58f37ec689a90ef24c3afc74750a8508bc0c0029ef177fb4a1cbc&width=320" alt="Omslag van 'Heelal op hol'" title="Omslag van 'Heelal op hol'">
-<p>Het heelal is op hol geslagen. Het dijt namelijk uit, en niet zo'n beetje ook: de uitdijing gaat steeds sneller.</p><p> Deze kosmische groei roept steeds meer vragen op. Waarom begon de ruimte na de oerknal opeens uit te rekken? Waaruit bestaat de mysterieuze 'donkere energie' die de uitdijing aanwakkert? En waarom kunnen we maar niet vastpinnen hoe snel de groei precies verloopt?</p><p> In dit boek vertelt Yannick Fritschy op vlotte en luchtige wijze over de raadselachtige uitdijing van het universum. Hij laat zien hoe Albert Einstein en Georges Lemaître zich hier honderd jaar geleden al het hoofd over braken, en hoe het verschijnsel kosmologen nog altijd kopzorgen geeft. Ondertussen maakt hij allerlei duizelingwekkende kosmische kwesties inzichtelijk. Hoe kan bijvoorbeeld iets dat al oneindig groot is, toch nog uitdijen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Yannick Fritschy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gedoemannen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45656750X/gedoemannen-daphne-jeurgens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45656750X/gedoemannen-daphne-jeurgens"/>
-        <updated>2025-12-17T07:18:03.799Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45656750X?aid=kb-online-bibliotheek&sid=19&dts=1765906033309&sig=7a161988e86d9d4e698430a83818411bacea33a848fdf6b746285321a7182bb7&width=320" alt="Omslag van 'Gedoemannen'" title="Omslag van 'Gedoemannen'">
-<p>Het begon met zijn hand op mijn been tijdens het sollicitatiegesprek... Malis treft jarenlang alleen maar bezette mannen die haar willen strikken voor een avontuurtje. In de worsteling met haar eigen gevoelens, probeert ze deze mannen op afstand te houden. Wanneer ze de kans om met iemand iets serieus op te bouwen lijkt op te geven, komt ze een schoolgenoot van vroeger tegen. Ze had stiekem een crush op hem en nu blijkt hij ook nog eens vrijgezel te zijn! Ze geniet van de opbloeiende relatie maar onverwachts ontdekt ze een geheim netwerk, dat al haar twijfels over de intenties van mannen weer naar boven haalt. Met haar vriendinnen gaat ze op onderzoek uit en komt tot een schokkende ontdekking. Het lukt Malis te infiltreren in de geheime club maar lukt het haar om het geheime pact van de mannen voorgoed om te leggen? Gedoemannen gaat over onoprechtheid, machtsmisbruik en ontrouw. Deze vlot geschreven roman neemt je mee in de hedendaagse wereld van vreemdgaan, sociale media, selfies, bangalijsten en grensoverschrijdend gedrag. Door de herkenbare situaties, zal het veel vrouwen interesseren. Het krachtige statement naar de mannen aan het eind, zorgt voor een echte Eyeopener. Over de auteur: Daphne Jeurgens introduceert in haar debuutroman het woord 'gedoemannen.' Het zijn mannen die met leugens en smoesjes, gedrag vertonen dat gedoe oplevert. Berichten over ontrouw uit haar omgeving, in de media, via verschillende juicekanalen, en haar eigen onsuccesvolle liefdesleven, vormden inspiratie voor dit boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Daphne Jeurgens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In het spoor van Hekate]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456567585/in-het-spoor-van-hekate-annemarie-peters</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456567585/in-het-spoor-van-hekate-annemarie-peters"/>
-        <updated>2025-12-17T07:18:04.251Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456567585?aid=kb-online-bibliotheek&sid=19&dts=1765918271859&sig=95384b68784f468ab377b1bd1c61fb8242c285e7e0e270848a6f31e9cbb83a4f&width=320" alt="Omslag van 'In het spoor van Hekate'" title="Omslag van 'In het spoor van Hekate'">
-<p>Tijdens een vollemaansnacht besluit Marianne Gerson, uit een destructieve relatie te stappen. Dit besluit leidt haar op een magische queeste naar de kleine boerderij van Bernard en zijn verstandelijk beperkte broer Chris in Zuid-Limburg.</p><p> Tijdens dit verblijf ontmoet ze een aantal vrouwen die model staan voor acht godinnen uit de Griekse mythologie. In het spiegelend gelaat van deze vrouwen ontdekt ze onvermoede aspecten van zichzelf.</p><p> Het is met name de oude aardgodin Hecate (Marthe), die als leidsvrouw Marianne de weg wijst naar haar missie. Cruciaal in deze missie is de vondst van de geheime memoires van haar geestelijke tweelingzuster Miet.</p><p> Deze queeste brengt Marianne niet alleen thuis bij haar bestemming maar ontsluit uiteindelijk haar ontvankelijkheid voor de liefde. Deze ontvankelijkheid wordt gedragen door de mystieke realisatie dat alles een manifestatie is van Haar, het vrouwelijke goddelijke principe.</p><p> Annemarie Peters (1955) is schrijfster van Zin beleven, Dochters van de maan en Leef de missie van je ziel. Ze heeft een podcast Psyche & Spirit, om mensen te inspireren hun wezenlijke zelf te ontdekken en te leven.</p><p> Daarnaast heeft ze een praktijk in jungiaanse- en energetische therapie in Apeldoorn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Annemarie Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3167 kilometer. Eén rugzak. Eén waarheid.]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456567305/3167-kilometer--ee-n-rugzak--ee-n-waarheid--guadalupe-mu%C3%B1oz-garcia</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456567305/3167-kilometer--ee-n-rugzak--ee-n-waarheid--guadalupe-mu%C3%B1oz-garcia"/>
-        <updated>2025-12-17T07:18:04.690Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456567305?aid=kb-online-bibliotheek&sid=19&dts=1765904809921&sig=0ce1717ca7533cc1684794464fabee3dce66b41e673bd1dac201a92a05811bc6&width=320" alt="Omslag van '3167 kilometer. Eén rugzak. Eén waarheid.'" title="Omslag van '3167 kilometer. Eén rugzak. Eén waarheid.'">
-<p>Ze was drieëntwintig en liep weg. Niet voor de wereld, maar voor zichzelf</p><p>  Vijf maanden, 3167 kilometer, te voet. Op haar drieëntwintigste trok ze haar wandelschoenen aan, nam haar rugzak mee en vertrok uit Barcelona – richting… onbekend. Geen toer, geen sabbatical, geen yogaretreat, maar gewoon lopen. Alleen haar voeten, haar adem en een stem die steeds luider werd: ik wil mezelf kennen. Voor het eerst in haar leven luisterde ze niet meer naar stemmen die van buitenaf kwamen, maar naar haar binnenste.</p><p>  Vijf maanden, 3167 km, trok ze over bergen, door dorpen, langs onbekenden die haar een bank of matras aanboden. Maar vooral: langs de schaduwen van haar verleden. Geboren in een familie van ex-Jehova’s getuigen die het geloof hadden losgelaten maar de regels vasthielden, groeide ze op tussen schijnvrijheid, schuld en zwijgen. Onderweg begon ze iets anders te voelen: ruimte, vertrouwen en een waarheid die helemaal van haar was.</p><p>  Dit boek is het verslag van die reis; ruw, eerlijk en onverbloemd. Over blaren en stilte. Over couchsurfing, verdwalen en huilen op bergpassen. Over het moment waarop ze besefte: ik hoef niets meer te geloven, ik hoef alleen mezelf te zijn.</p><p>  Een spiritueel-rebelse ode aan verdwalen om thuis te komen.</p><p>IG: @your.journey.with.guadalupe Web: thejourneywithguadalupe.com </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Guadalupe Muñoz Garcia</name>
+            <name>Michelle Shanti</name>
         </author>
     </entry>
 </feed>
