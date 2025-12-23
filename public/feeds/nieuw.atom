@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2025-12-22T07:19:53.676Z</updated>
+    <updated>2025-12-23T07:19:05.830Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[The border dispute between Suriname and Guyana]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442312067/the-border-dispute-between-suriname-and-guyana-evert-g--gonesh</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442312067/the-border-dispute-between-suriname-and-guyana-evert-g--gonesh"/>
+        <updated>2025-12-23T07:18:57.634Z</updated>
+        <summary type="html"><![CDATA[Reflections on a contested territorial triangle]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442312067?aid=kb-online-bibliotheek&sid=19&dts=1766448200513&sig=d8aeaa052a7ced638df021f68ef24f7152da608e93d83e5073028c4caa576592&width=320" alt="Omslag van 'The border dispute between Suriname and Guyana'" title="Omslag van 'The border dispute between Suriname and Guyana'">
+<p>The border dispute between Suriname and Guyana has its roots in colonial times. This book sheds light on the genesis of the border dispute based on historical documents, while outlining the policy followed by the government of the Netherlands regarding this issue and further focuses on relevant aspects of international law and hitherto underexposed, if not hidden, historical facts. The author hopes that this publication could contribute to a balanced assessment of the problem by both governments in their pusuit of a peacefull solution of the border dispute. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Evert G. Gonesh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The World as Home]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442312059/the-world-as-home-yolanda-weldring</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442312059/the-world-as-home-yolanda-weldring"/>
+        <updated>2025-12-23T07:19:00.895Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442312059?aid=kb-online-bibliotheek&sid=19&dts=1766408957650&sig=0fa86dc03ce2f8b935c37addd74eec3dda66f24a0975a7e77b74dc2e5bad06c7&width=320" alt="Omslag van 'The World as Home'" title="Omslag van 'The World as Home'">
+<p>What choices do you make in your life? Which turns do you take and when do you stick to your current path? In The World As Home, Yolanda Weldring tells the story of her now-seventy-year-old life – from a happy childhood in Noord-Holland and a free student time in Groningen to an exhilarating career, which led her via youth care in the Netherlands to development cooperation in Asia and Africa. She candidly describes the special encounters; loved ones, family, friends and colleagues, the lessons she learned and the experiences that shaped her world and self-image. The result is a sharp and inspired plea for a better world, in which we treat each other, animals and nature more humanely and carefully. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Yolanda Weldring</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topvrouw in 7 stappen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/41636828X/topvrouw-in-7-stappen-annette-onrust</id>
@@ -21,24 +44,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[De onvoltooide memoires]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436843412/de-onvoltooide-memoires-mujibur-rahman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436843412/de-onvoltooide-memoires-mujibur-rahman"/>
-        <updated>2025-12-22T07:19:37.006Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436843412?aid=kb-online-bibliotheek&sid=19&dts=1766387976518&sig=119d18de39080c380c27ab9e31c80132bbaa1e93802a5334ffcdc081962982be&width=320" alt="Omslag van 'De onvoltooide memoires'" title="Omslag van 'De onvoltooide memoires'">
+        <id>https://www.onlinebibliotheek.nl/catalogus/436843412/de-onvoltooide-memoires--</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436843412/de-onvoltooide-memoires--"/>
+        <updated>2025-12-23T07:19:01.305Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436843412?aid=kb-online-bibliotheek&sid=19&dts=1766391759243&sig=830bfd7e0c3d6d06547ee0831fb2abe7d0dbf01303b41ac24248575cfabbcb99&width=320" alt="Omslag van 'De onvoltooide memoires'" title="Omslag van 'De onvoltooide memoires'">
 <p>Onvoltooide memoires, op grond van dagboeken over de periode 1920-1955, van Sheikh Mujibur Rahman (1920-1975), de grondlegger van de staat Bangladesh.</p>]]></content>
         <author>
             <name>Mujibur Rahman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Barbarije]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435707957/in-barbarije-john-meilink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435707957/in-barbarije-john-meilink"/>
-        <updated>2025-12-22T07:19:37.771Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435707957?aid=kb-online-bibliotheek&sid=19&dts=1766387977113&sig=27510dad1fe0e949b5babb68bf0840acd7b6d94bcddb90faf52c1a8d14f2031e&width=320" alt="Omslag van 'In Barbarije'" title="Omslag van 'In Barbarije'">
-<p>Het is het jaar 1678. De West-Indiëvaarder Sint Joris vertrekt vol goede moed met een lading Schiedamse jenever en een aantal passagiers richting Paramaribo. Ter hoogte van de Kaapverdische Eilanden slaat het noodlot toe: Algerijnse kapers enteren het schip en alle opvarenden worden in de boeien geslagen. Na een reis vol ontberingen verdwijnen de Hollanders in de wrede wereld van Moorse slavenhandelaren. Thomas Hees, afgezant van de Republiek in Algerije, probeert uit alle macht een vredesverdrag met de plaatselijke machthebbers te sluiten, om zo de Hollandse koopvaarders in de Middellandse Zee te vrijwaren van piraterij en de Hollandse slaven vrij te kopen. Maar de concurrentie is hevig: Engelsen en Fransen schuwen geen middel om Hees dwars te zitten. Tot overmaat van ramp verschijnt er, te midden van intriges, bruut geweld en verraad, een nog grotere vijand in Algiers: de Zwarte Dood. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>John Meilink</name>
         </author>
     </entry>
     <entry>
@@ -48,6 +60,17 @@
         <updated>2025-12-22T07:19:38.403Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435707221?aid=kb-online-bibliotheek&sid=19&dts=1766387977888&sig=295b310f41d81c59d99729b18c53f7c2bbf48ba6ecd726dfdbb4ce4dc31192d4&width=320" alt="Omslag van 'Kroesvee'" title="Omslag van 'Kroesvee'">
 <p>De West-Indische Compagnie heerst over de Afrikaanse Goudkust. Aan de andere kant van de Atlantische Oceaan schreeuwen de plantages om goedkope arbeidskrachten, maar het aanbod is schaars. Afrikaanse koninkrijken en Europese compagnieën handelen volgens oude verdragen, die zorgvuldig worden nagekomen. Als in november 1687 een dorpje in het Denkyira-rijk door illegale slavenhalers wordt leeggeplukt, zijn daarom de rapen gaar. Hollanders, Zeeuwen, Brandenburgers en andere Europeanen vechten om de buit, terwijl lokale stammen proberen wapens te bemachtigen om zo hun invloed uit te breiden. Het resultaat: een moeras van intriges, corruptie en geweld. In die agressieve wereld leeft wit en zwart wantrouwend naast elkaar, verbonden door hebzucht en geteisterd door hitte, ziekte en armoede. Aldemar Burghoutsz, schipper van de Griffioen, probeert zijn ruimen vol te krijgen. Slaven brengen geld op. Zij zijn vee. Kroesvee. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>John Meilink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Barbarije]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435707957/in-barbarije-john-meilink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435707957/in-barbarije-john-meilink"/>
+        <updated>2025-12-22T07:19:37.771Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435707957?aid=kb-online-bibliotheek&sid=19&dts=1766387977113&sig=27510dad1fe0e949b5babb68bf0840acd7b6d94bcddb90faf52c1a8d14f2031e&width=320" alt="Omslag van 'In Barbarije'" title="Omslag van 'In Barbarije'">
+<p>Het is het jaar 1678. De West-Indiëvaarder Sint Joris vertrekt vol goede moed met een lading Schiedamse jenever en een aantal passagiers richting Paramaribo. Ter hoogte van de Kaapverdische Eilanden slaat het noodlot toe: Algerijnse kapers enteren het schip en alle opvarenden worden in de boeien geslagen. Na een reis vol ontberingen verdwijnen de Hollanders in de wrede wereld van Moorse slavenhandelaren. Thomas Hees, afgezant van de Republiek in Algerije, probeert uit alle macht een vredesverdrag met de plaatselijke machthebbers te sluiten, om zo de Hollandse koopvaarders in de Middellandse Zee te vrijwaren van piraterij en de Hollandse slaven vrij te kopen. Maar de concurrentie is hevig: Engelsen en Fransen schuwen geen middel om Hees dwars te zitten. Tot overmaat van ramp verschijnt er, te midden van intriges, bruut geweld en verraad, een nog grotere vijand in Algiers: de Zwarte Dood. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>John Meilink</name>
         </author>
@@ -65,73 +88,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The high 5 habit]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650849/the-high-5-habit-mel-robbins</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650849/the-high-5-habit-mel-robbins"/>
-        <updated>2025-12-22T07:19:39.520Z</updated>
-        <summary type="html"><![CDATA[neem de controle over je leven met één simpele gewoonte]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650849?aid=kb-online-bibliotheek&sid=19&dts=1766387979010&sig=f0b970d82103d6bb226b94ada63815d09abf50b9ddb17b4f459563729f6e269d&width=320" alt="Omslag van 'The high 5 habit'" title="Omslag van 'The high 5 habit'">
-<p>Op basis van wetenschappelijke inzichten leert het de lezer hoe die zelfvertrouwen in een gewoonte kan veranderen.</p>]]></content>
+        <title type="html"><![CDATA[Zin en onzin over coaching]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444127011/zin-en-onzin-over-coaching-eefje-rondeel---aveline-dijkman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444127011/zin-en-onzin-over-coaching-eefje-rondeel---aveline-dijkman"/>
+        <updated>2025-12-23T07:19:01.702Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444127011?aid=kb-online-bibliotheek&sid=19&dts=1766408957535&sig=3991225bd4c8124dd81bdd9e44e1f711bc7d4cb01404683b866704865b322d29&width=320" alt="Omslag van 'Zin en onzin over coaching'" title="Omslag van 'Zin en onzin over coaching'">
+<p>Over coaching wordt veel gezegd en geschreven, maar er wordt nog maar weinig gebruik gemaakt van wetenschappelijke kennis rondom coaching. Dat is zonde, want de wetenschap kan ons waardevolle antwoorden geven op uiteenlopende vraagstukken. Moeten coach en coachee op elkaar lijken voor de beste resultaten? Is online coachen wel effectief? Kan dat ook met een chatbot in plaats van met een echte coach? Kan een leidinggevende een goede coach zijn? Is coaching een overbodige luxe? Heb je werkelijk iets aan wandel- of paardencoaching? Vaak doen over dergelijke vraagstukken de wildste verhalen de ronde. Maar hoe zit het nou echt? In ‘Zin en onzin over coaching’ wordt met een wetenschappelijke bril gekeken naar deze en andere actuele kwesties. En Eefje Rondeel (wetenschapper) en Aveline Dijkman (coach, opleider en supervisor) bespreken de wetenschappelijke tussenstand na aan de keukentafel. Zo kun jij als professional nog beter gefundeerde keuzes maken. Of je nu overweegt om coach te worden, een beginnende of gevorderde coach bent, coaches opleidt of je bezighoudt met de inzet van coaching binnen organisaties: dit boek is onmisbaar voor iedereen die het vak van coach serieus neemt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Mel Robbins</name>
+            <name>Eefje Rondeel</name>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Psychology of Money]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650865/the-psychology-of-money-morgan-housel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650865/the-psychology-of-money-morgan-housel"/>
-        <updated>2025-12-22T07:19:39.967Z</updated>
-        <summary type="html"><![CDATA[tijdloze lessen over rijkdom, hebzucht en geluk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650865?aid=kb-online-bibliotheek&sid=19&dts=1766380188074&sig=dc27c84ba746f3e25158053dad0e65915f92903eb94b1cb798185be67b5eff1d&width=320" alt="Omslag van 'The Psychology of Money'" title="Omslag van 'The Psychology of Money'">
-<p>Over de besluitvorming omtrent geld, met als centrale argument dat die niet steunt op kennis maar op gedrag.</p>]]></content>
         <author>
-            <name>Morgan Housel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voedzaam en Snel - 50x gezonde eenpansgerechten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650008/50x-gezonde-eenpansgerechten-jennifer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650008/50x-gezonde-eenpansgerechten-jennifer"/>
-        <updated>2025-12-22T07:19:40.458Z</updated>
-        <summary type="html"><![CDATA[Lekker, snel en makkelijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650008?aid=kb-online-bibliotheek&sid=19&dts=1766306816283&sig=3052200a9ea536b9b89415fb4a998e82b7da5839cedb2b36a7f9543b453dc41c&width=320" alt="Omslag van 'Voedzaam en Snel - 50x gezonde eenpansgerechten'" title="Omslag van 'Voedzaam en Snel - 50x gezonde eenpansgerechten'">
-<p>Geen zin in gedoe in de keuken of een berg afwas na het eten? Dan is een eenpansgerecht de perfecte uitkomst. In hun tiende kookboek 'Voedzaam & Snel: 50 x gezonde eenpansgerechten' delen Jennifer en Sven vijftig recepten die je eenvoudig in één pan bereidt: voedzaam, makkelijk en vol smaak. Of je nu thuis kookt of op vakantie bent met een gasbrandertje of campingkooktoestel: deze gerechten bewijzen dat je met één pan verrassend veelzijdig kunt koken. Denk aan geurige curry's, snelle pasta's, goedgevulde soepen en stevige stoofpotjes. Gerechten waarin smaken samenkomen en je minder hoeft op te ruimen. Win-win. 50x gezonde eenpansgerechten is ideaal voor drukke doordeweekse dagen, voor gezinnen en voor iedereen die gezond wil koken zonder gedoe. Eén pan, minimale afwas, maximaal resultaat. Eerder verschenen van deze auteurs onder meer de bestsellers '50x luchen zonder brood' en 'Wrap it up!'  'Supergezond en lekker makkelijk om te maken. Om je vingers bij af te likken!' – Grazia</p><p> 'Jennifer en Sven scoren online en offline de pannen van het fornuis!' – Nederlands Dagblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jennifer &amp; Sven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moederreis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650199/moederreis-jessie-harrold</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650199/moederreis-jessie-harrold"/>
-        <updated>2025-12-22T07:19:40.917Z</updated>
-        <summary type="html"><![CDATA[jouw transformatie van vrouw naar moeder]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650199?aid=kb-online-bibliotheek&sid=19&dts=1766319736468&sig=f6a230d9a8bddf8db1f50df2f07a84fe1b6fcc5f04044e9ddcfb9a5570d3db71&width=320" alt="Omslag van 'Moederreis'" title="Omslag van 'Moederreis'">
-<p>Spirituele beschouwing over de persoonlijke transformatie die het moederschap met zich meebrengt.</p>]]></content>
-        <author>
-            <name>Jessie Harrold</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galop door de storm]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650024/galop-door-de-storm-evelien-van-dort</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650024/galop-door-de-storm-evelien-van-dort"/>
-        <updated>2025-12-22T07:19:41.378Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650024?aid=kb-online-bibliotheek&sid=19&dts=1766330446272&sig=beed84cb344ee0f7e7d452ab2b40c1cc913ecf04eb9dd531bfd324e65c26bc82&width=320" alt="Omslag van 'Galop door de storm'" title="Omslag van 'Galop door de storm'">
-<p>Finn maakt een rit met zijn paard Fulco, maar er is een storm op komst. Zijn vriendin Vic besluit hem te gaan zoeken. Zal ze hem op tijd kunnen bereiken? Met tips over de omgang met paarden. Vanaf ca. 10 jaar.</p>]]></content>
-        <author>
-            <name>Evelien van Dort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De zeven huizen van Anna Freud]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650822/de-zeven-huizen-van-anna-freud-isabelle-pandazopoulos</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650822/de-zeven-huizen-van-anna-freud-isabelle-pandazopoulos"/>
-        <updated>2025-12-22T07:19:41.982Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650822?aid=kb-online-bibliotheek&sid=19&dts=1766387981484&sig=1329ba47bd44c003ca71b6321019bcd4c77a588b46ffe89f91e46786948c6427&width=320" alt="Omslag van 'De zeven huizen van Anna Freud'" title="Omslag van 'De zeven huizen van Anna Freud'">
-<p>Anna Freud, de dochter van Sigmund Freud, streeft naar een carrière als psychoanalyticus met bijzondere aandacht voor kinderen. Nadat ze in 1938 met haar familie Wenen ontvlucht, zet ze haar werk in Londen voort.</p>]]></content>
-        <author>
-            <name>Isabelle Pandazopoulos</name>
+            <name>Aveline Dijkman</name>
         </author>
     </entry>
     <entry>
@@ -143,6 +110,18 @@
 <p>De jongen die z'n ouders liet verdwijnen van bestsellerauteur Ben Miller is een hilarisch verhaal dat laat zien: met boos worden bereik je niets. Als Harrison op een kinderfeestje een woedeaanval krijgt, krijgt hij geen ballon aan het einde van het feestje, maar een zwart gat. Aan een touwtje. Zodra hij doorheeft hoe het werkt, grijpt hij elke kans om van dingen af te komen die hem storen. De groenten op zijn bord, de hond van de buren – allemaal verdwijnen ze in het zwarte gat. Harrison wordt er helemaal vrolijk van. Maar thuis krijgt hij een nieuwe uitbarsting. Hij zwaait zijn zwarte gat rond en dan... Oeps! Voor kinderen vanaf 8 jaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Ben Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win win]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650830/win-win-marie-jos%C3%A9-cremers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650830/win-win-marie-jos%C3%A9-cremers"/>
+        <updated>2025-12-23T07:19:02.113Z</updated>
+        <summary type="html"><![CDATA[onderhandelen doe je zo]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650830?aid=kb-online-bibliotheek&sid=19&dts=1766409433770&sig=1df36394e0b68a46189f2d29c5884926a01d15526e9fe5ee70421200febebbce&width=320" alt="Omslag van 'Win win'" title="Omslag van 'Win win'">
+<p>Onderhandelen doe je overal. Op het werk, thuis, in de winkel en in de kroeg. Met je baas, je partner, je kinderen en wildvreemden. Je kunt er niet omheen. Vakkundig onderhandelen is een combinatie van inhoud, spelregels, machtsbalans, sfeer, psychologisch inzicht en techniek. Daarnaast kun je ook nog kiezen voor een onderhandelingsstrategie: samenwerken en begrip tonen of vechten. Hoe je het ook aanpakt, de kunst van goed onderhandelen is opkomen voor je eigen belang zonder de relatie met je onderhandelpartner te schaden. Met andere woorden: het eindresultaat is een win-windeal. Hoe je dat bereikt, leer je met het overzichtelijke stappenplan uit deze waaier. Doe er je voordeel mee! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marie-José Cremers</name>
         </author>
     </entry>
     <entry>
@@ -158,84 +137,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wat ons rest]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650016/wat-ons-rest-elly-griffiths</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650016/wat-ons-rest-elly-griffiths"/>
-        <updated>2025-12-22T07:19:43.768Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650016?aid=kb-online-bibliotheek&sid=19&dts=1766386629564&sig=16a3c133686241c823580817a8397effb4d247af42394aa4c8ea3b584049298f&width=320" alt="Omslag van 'Wat ons rest'" title="Omslag van 'Wat ons rest'">
-<p>Deel 15, het afsluitende deel, in de Ruth Galloway-serie.  Een stel bouwvakkers ontdekt een menselijk skelet achter een muur van café King’s Lynn. Een zaak voor Inspecteur Harry Nelson, die de hulp inschakelt van Ruth Galloway.  Ruth ziet meteen dat de botten niet oud zijn. Ze worden geïdentificeerd als de resten van Emily Pickering, een jonge archeologiestudente die sinds de jaren negentig wordt vermist.  Tijdens hun onderzoek ontdekken Nelson en zijn team een ingewikkeld web van relaties binnen de studentengroep waarin Emily verkeerde. Wat was de link tussen de groep en café King’s Lynn?  Ondertussen maakt Ruth zich niet alleen zorgen over deze zaak. De dreiging van de sluiting van haar afdeling en haar steeds ingewikkelder relatie met Harry Nelson, houden haar uit haar slaap. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elly Griffiths</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onvoltooide symfonie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650032/onvoltooide-symfonie-virginia-andrews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650032/onvoltooide-symfonie-virginia-andrews"/>
-        <updated>2025-12-22T07:19:44.447Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650032?aid=kb-online-bibliotheek&sid=19&dts=1766387983879&sig=7a63223d654570ff530e6459f96c2f1833d8659721c14e91a3b5db344a914b7f&width=320" alt="Omslag van 'Onvoltooide symfonie'" title="Omslag van 'Onvoltooide symfonie'">
-<p>Melody Logan leeft in de overtuiging dat haar moeder, Haille, en haar geliefde stiefvader beiden op tragische wijze zijn omgekomen. Maar alles verandert als ze een recente foto ziet van Haille. Kan het zijn dat haar moeder niet verongelukt is? Of is er iets anders aan de hand? Melody reist onmiddellijk naar Californië, op zoek naar haar moeder.  Maar niets heeft haar erop voorbereid als ze Haille vindt – en die vervolgens beweert geen idee te hebben wie Melody is. Melody's hart is gebroken. Waarom doet haar moeder alsof ze haar niet kent? En waarom heeft Haille haar eigen dood in scène gezet?  Hoewel haar geliefde Cary haar ervan probeert te overtuigen dat ze de zaak beter kan laten rusten, is Melody vastbesloten de waarheid over haar moeder en haar eigen verleden te ontdekken. Pas dan kan ze haar familiegeschiedenis achter zich laten en gelukkig worden met de man van wie ze houdt...  'Onvoltooide symfonie' is het derde deel in de Melody-serie van Virginia Andrews, waarin drie generaties vrouwen in de familie Logan worden gevormd door een familiegeheim dat verstrekkende gevolgen heeft... Het verhaal van Melody en de familie Logan begon in 'Melody' en 'Lied van verlangen' en gaat verder in 'Middernachtmuziek' en 'Verstilde stemmen'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Virginia Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Win win]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650830/win-win-marie-jose--cremers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650830/win-win-marie-jose--cremers"/>
-        <updated>2025-12-22T07:19:45.046Z</updated>
-        <summary type="html"><![CDATA[onderhandelen doe je zo]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650830?aid=kb-online-bibliotheek&sid=19&dts=1766387984570&sig=67047ddfcf43927ab2174ba7e5a81354998020728eb1cf5bf697991d2f525adb&width=320" alt="Omslag van 'Win win'" title="Omslag van 'Win win'">
-<p>Onderhandelen doe je overal. Op het werk, thuis, in de winkel en in de kroeg. Met je baas, je partner, je kinderen en wildvreemden. Je kunt er niet omheen. Vakkundig onderhandelen is een combinatie van inhoud, spelregels, machtsbalans, sfeer, psychologisch inzicht en techniek. Daarnaast kun je ook nog kiezen voor een onderhandelingsstrategie: samenwerken en begrip tonen of vechten. Hoe je het ook aanpakt, de kunst van goed onderhandelen is opkomen voor je eigen belang zonder de relatie met je onderhandelpartner te schaden. Met andere woorden: het eindresultaat is een win-windeal. Hoe je dat bereikt, leer je met het overzichtelijke stappenplan uit deze waaier. Doe er je voordeel mee! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marie-José Cremers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onbedaarlijke jachtlust 2]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650091/onbedaarlijke-jachtlust-2-rosalie-van-someren</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650091/onbedaarlijke-jachtlust-2-rosalie-van-someren"/>
-        <updated>2025-12-22T07:19:45.578Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650091?aid=kb-online-bibliotheek&sid=19&dts=1766339574117&sig=78ee408d757e8d2c82d3241beb9e3c1d541d229339a2a0a098f7ae3ae2b36b4f&width=320" alt="Omslag van 'Onbedaarlijke jachtlust 2'" title="Omslag van 'Onbedaarlijke jachtlust 2'">
-<p>18+. Vicky Vanderpoele heeft het erotische spel Vossenjacht uitgespeeld. Ze is gepromoveerd tot Gouden Vos en krijgt de mogelijkheid om een kamer in Villa Vulpes te bemachtigen. Daarvoor moet ze twee aspirant-Vossen werven. Het klinkt eenvoudig, maar dat blijkt het niet: Vicky is in het erotische spel te onderdanig. Daarnaast komt haar studie in gevaar doordat ze slechte cijfers heeft behaald. Haar aantrekkelijke decaan, Dave Diependijk, doet haar en een medestudente een aanbod. Zal ze erop ingaan? Vicky's verlangen naar intimiteit en passie is ongeremd. Maar kan ze haar pikante opdracht nog met haar studie combineren als ze te maken krijgt met tegenslagen? En zal het haar lukken om haar erotische jacht geheim te houden voor de buitenwereld? Voor Rosalie van Someren zijn de mensen om haar heen een onuitputtelijke bron van inspiratie voor haar ondeugende verhalen. Het liefst laat de vrolijke huisvrouw de hele wereld blozen. In haar dagdromen bedenkt ze talloze plots die ze uitwerkt tot een verhaal. Ze laat haar fantasieën de vrije loop en stelt al haar zintuigen open. Dat ze daarbij uit haar eigen ervaringen put, zal ze niet ontkennen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Rosalie van Someren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tussen as en adem]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456649948/tussen-as-en-adem-deirdre-vinck</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456649948/tussen-as-en-adem-deirdre-vinck"/>
-        <updated>2025-12-22T07:19:46.079Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456649948?aid=kb-online-bibliotheek&sid=19&dts=1766385646588&sig=37e40aa1f69ca0b1fb491ec01f3c891a54f93386e6b0ec851a0ecfa870ff8a79&width=320" alt="Omslag van 'Tussen as en adem'" title="Omslag van 'Tussen as en adem'">
-<p>Fascinerend. Gevaarlijk. Onweerstaanbaar... Wanneer Faye op een regenachtige avond onderuit gaat, ontmoet ze een vreemdeling. Ace. Zijn onverwachtse hulp wekt herinneringen tot leven die ze jarenlang zorgvuldig heeft weggestopt. Hoe dichterbij hij komt, hoe duidelijker het wordt: hij is even fascinerend als gevaarlijk. Kan ze het risico nemen hem toe te laten? Fayes leven draait om rust en controle. Ze doet er alles aan om de vijfjarige Izzy te beschermen tegen de schaduwen van het verleden. Maar wanneer Izzy's nachtmerries aanhouden en Fayes eigen angsten weer opborrelen, dwingt het heden haar om te kiezen. Hoever wil ze gaan om Izzy te beschermen? En wat blijft er over van haarzelf als ze alles geeft? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Deirdre Vinck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alles wat schittert]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45664993X/alles-wat-schittert-virginia-andrews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45664993X/alles-wat-schittert-virginia-andrews"/>
-        <updated>2025-12-22T07:19:46.679Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45664993X?aid=kb-online-bibliotheek&sid=19&dts=1766385669080&sig=f98904b2bfb8fc5213ff520071684b6e8d9cc731c55801aaaf06fbce15cd953a&width=320" alt="Omslag van 'Alles wat schittert'" title="Omslag van 'Alles wat schittert'">
-<p>Ruby is teruggekeerd naar haar oude leven op het platteland van Louisiana, en naar de Cajun-gemeenschap waar haar wortels liggen. Ze is vastbesloten een veilig en warm thuis te creëren voor haar dierbare dochtertje Pearl. Haar oude en eerste liefde Paul Tate heeft haar verwelkomd in zijn huis Cypress Woods, en haar tot zijn vrouw gemaakt – maar ze zijn slechts in naam getrouwd, omdat het schokkende familiegeheim dat hen uit elkaar dreef nog steeds tussen hen in staat.  Ruby zou gelukkig kunnen zijn, ware het niet dat Pauls moeder Gladys niets van haar moet hebben. En dan komt Ruby's verachtelijke zus Gisselle ook nog eens met slecht nieuws over Beau Andreas, Pearls vader en Ruby's grote liefde. Wanhopig op zoek naar een leven dat haar écht gelukkig kan maken, vlucht Ruby terug naar het oude huisje dat ze ooit deelde met haar Grandmère – maar pas als ze voorgoed afrekent met haar verleden, zal ze een nieuwe toekomst kunnen vinden…  'Alles wat schittert' is het derde deel in de Ruby-serie van Virginia Andrews, waarin drie generaties vrouwen in de familie Landry worden gevormd door een familiegeheim dat verstrekkende gevolgen heeft… Het verhaal van Ruby en de family Landry begon in 'Ruby' en 'Parel in de mist' en gaat verder in 'Verborgen juweel' en 'Het gouden web'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Virginia Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellis en de Spiegel van Longatonne]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650148/ellis-en-de-spiegel-van-longatonne-john-brosens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650148/ellis-en-de-spiegel-van-longatonne-john-brosens"/>
-        <updated>2025-12-22T07:19:47.375Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650148?aid=kb-online-bibliotheek&sid=19&dts=1766387986785&sig=b86a16f63c8d232d9caf24e6644de7c42eb9d6d6b46b8ded3b5a0a44e0556afd&width=320" alt="Omslag van 'Ellis en de Spiegel van Longatonne'" title="Omslag van 'Ellis en de Spiegel van Longatonne'">
-<p>Als haar vakantie naar Frankrijk bijna begint gaat Ellis (13) naar de stad om nieuwe schoenen te kopen. Bij een overstap pakt ze de verkeerde bus en bij de eerste de beste halte stapt ze weer uit. Ze is in een wijk terecht gekomen waar ze nooit eerder was. Haar mobieltje is bijna leeg! Ze krijgt hulp van een geheimzinnige vrouw met een zwarte kat aan een riempje. Is de ontmoeting toeval of het begin van een magisch avontuur? Ellis ontdekt in de kelder van een oud kasteel een kast met een spiegel waarin zij dingen ziet die aan anderen voorbijgaan. En achter die kast is het op één plek vreselijk koud. Hoe kan dat? En van wie is de witte caravan in het bos achter het kasteel? Van de man die een maand geleden een onderzoek begon naar de aristocratische familie Saint Mouton de Labrune - en die sindsdien spoorloos is...? John Brosens (1946) is een veelzijdig auteur die al sinds 1998 spannende boeken schrijft voor de jeugd en voor volwassenen in diverse genres. Hij ontving de Lecticus Luisterboekenprijs en scoorde nominaties voor de Thea Beckmanprijs en de Zeeuwse Boekenprijs. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>John Brosens</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stop met praten, begin met raken]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456650180/stop-met-praten--begin-met-raken-sabine-funneman</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456650180/stop-met-praten--begin-met-raken-sabine-funneman"/>
@@ -245,6 +146,17 @@
 <p>Dit is een boek voor leiders met lef! Als leider vertel je voortdurend een verhaal, ook als je zwijgt. Maar hoe weet je of het klopt? Hoe zorg je dat je boodschap raakt, overtuigt en geloofwaardig is? Dit boek is voor iedereen die namens een organisatie spreekt: bestuurders, managers, voorzitters, woordvoerders, teamleiders. Voor iedereen die zich weleens afvraagt: zeg ik nu echt wat ertoe doet? Stop met praten, begin met raken helpt je om op een integere, menselijke en krachtige manier vorm te geven aan wat je vertelt. Niet met trucs of pasklare zinnen, maar met inzichten, vragen, voorbeelden en handvatten die je helpen bij die ene, steeds terugkerende opgave: een verhaal vertellen dat klopt, bij jezelf, bij je boodschap én bij je publiek. Authentiek, betekenisvol en verbonden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Sabine Funneman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wat ons rest]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650016/wat-ons-rest-elly-griffiths</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650016/wat-ons-rest-elly-griffiths"/>
+        <updated>2025-12-22T07:19:43.768Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650016?aid=kb-online-bibliotheek&sid=19&dts=1766386629564&sig=16a3c133686241c823580817a8397effb4d247af42394aa4c8ea3b584049298f&width=320" alt="Omslag van 'Wat ons rest'" title="Omslag van 'Wat ons rest'">
+<p>Deel 15, het afsluitende deel, in de Ruth Galloway-serie.  Een stel bouwvakkers ontdekt een menselijk skelet achter een muur van café King’s Lynn. Een zaak voor Inspecteur Harry Nelson, die de hulp inschakelt van Ruth Galloway.  Ruth ziet meteen dat de botten niet oud zijn. Ze worden geïdentificeerd als de resten van Emily Pickering, een jonge archeologiestudente die sinds de jaren negentig wordt vermist.  Tijdens hun onderzoek ontdekken Nelson en zijn team een ingewikkeld web van relaties binnen de studentengroep waarin Emily verkeerde. Wat was de link tussen de groep en café King’s Lynn?  Ondertussen maakt Ruth zich niet alleen zorgen over deze zaak. De dreiging van de sluiting van haar afdeling en haar steeds ingewikkelder relatie met Harry Nelson, houden haar uit haar slaap. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elly Griffiths</name>
         </author>
     </entry>
     <entry>
@@ -259,63 +171,85 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lied van verlangen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650075/lied-van-verlangen-virginia-andrews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650075/lied-van-verlangen-virginia-andrews"/>
-        <updated>2025-12-22T07:19:49.455Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650075?aid=kb-online-bibliotheek&sid=19&dts=1766387988900&sig=f4821054563bad3fa48dd4d70558a16a1db0adfc2ec4461c78a9ee7032da0d64&width=320" alt="Omslag van 'Lied van verlangen'" title="Omslag van 'Lied van verlangen'">
-<p>Na de plotselinge dood van haar moeder en de schokkende geheimen over haar vader is Melody Logan alleen op de wereld. Ze woont nog steeds bij de familie Logan, maar haar tante Sara ziet in haar slechts de vervanging voor haar eigen overleden dochter, en haar oom Jacob ziet haar als de belichaming van het schandelijke verleden van de familie. Alleen hun zoon Cary lijkt echt om haar te geven, en nu hij niet haar neef blijkt, bloeien tussen Melody en Cary gevoelens op die haar verwarren en opwinden.  Melody weet dat ze Cary's liefde alleen kan beantwoorden als ze de waarheid over haar eigen verborgen verleden heeft ontrafeld. Ondanks de kille dreigementen van 'oma' Olivia, de vrouw die de familie Logan met ijzeren hand leidt, gaat Melody op onderzoek uit. Ze begint bij de mysterieuze Belinda, de vrouw die haar echte grootmoeder is. Haar verhaal biedt Melody hoop dat ze uiteindelijk kan ontdekken wie ze écht is – en daarmee haar rechtmatige plek in de Logan-familie kan innemen. Want het enige wat Melody zoekt is een thuis...  Lied van verlangen is het tweede deel in de Melody-serie van Virginia Andrews, waarin drie generaties vrouwen in de familie Logan worden gevormd door een familiegeheim dat verstrekkende gevolgen heeft... Het verhaal van Melody en de familie Logan begon in 'Melody' en gaat verder in 'Lied van verlangen', 'Onvoltooide symfonie', 'Middernachtmuziek' en 'Verstilde stemmen'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Kleuren van hoop]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456652485/kleuren-van-hoop-sharon-garlough-brown</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456652485/kleuren-van-hoop-sharon-garlough-brown"/>
+        <updated>2025-12-23T07:19:02.504Z</updated>
+        <summary type="html"><![CDATA[bijbelstudiegids]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456652485?aid=kb-online-bibliotheek&sid=19&dts=1766397744995&sig=a84dd987c366e4806c4c81dd062fa32a975f6a4a62c1af834f123b093d612035&width=320" alt="Omslag van 'Kleuren van hoop'" title="Omslag van 'Kleuren van hoop'">
+<p>In 'Kleuren van hoop: bijbelstudiegids'van Sharon Garlough Brown vervolg je je weg met de vier vriendinnen uit de 'Reisgenoten'-serie: Meg, Mara, Charissa en Hannah. Aan de hand van 'Kleuren van hoop', het tweede deel uit de serie, neemt Sharon je acht weken lang mee via prikkelende vragen, inspirerende bijbelverzen en geestelijke oefeningen. Met deze speciale bijbelstudiegids wandel je niet alleen mee met de vier vriendinnen in hun spirituele reis, maar word je zelf ook uitgedaagd om je geestelijk leven opnieuw vorm te geven en je open te stellen voor Gods transformerende genade. Elke week wordt afgesloten met discussievraagen, waardoor het boekje ook perfect te gebruiken is in bijbelstudiegroepen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Virginia Andrews</name>
+            <name>Sharon Garlough Brown</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[U lijkt me een vrij hopeloos geval]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650164/u-lijkt-me-een-vrij-hopeloos-geval-ade-lka-vendl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650164/u-lijkt-me-een-vrij-hopeloos-geval-ade-lka-vendl"/>
-        <updated>2025-12-22T07:19:50.115Z</updated>
-        <summary type="html"><![CDATA[provocatief coachen: interventies die werken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650164?aid=kb-online-bibliotheek&sid=19&dts=1766387989569&sig=03f30dc4ceae2674182875fef8f08e7daeda7fa5167758d726effd64d6661662&width=320" alt="Omslag van 'U lijkt me een vrij hopeloos geval'" title="Omslag van 'U lijkt me een vrij hopeloos geval'">
-<p>Er bestaan grote misverstanden over provocatief coachen: je zou vrijuit je cliënt mogen kwetsen, beledigen en belachelijk maken. Dit boek maakt korte metten met deze opvatting. De therapeutische provocatie is juist een heel zorgvuldige uitnodiging tot een reactie. Een provocatieve coach werkt met humor, liefde en uitdaging om de cliënt te stimuleren zich uit te spreken en zijn kracht te bevorderen. Dit boek maakt helder hoe deze coachingsvorm werkt, welke voordelen ze biedt en geeft je een aantal aanzetten om er zelf mee te experimenteren. Tenminste, als je bereid bent een paar heilige huisjes in hulpverleningsland omver te gooien ... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[The Psychology of Money]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650865/the-psychology-of-money-morgan-housel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650865/the-psychology-of-money-morgan-housel"/>
+        <updated>2025-12-22T07:19:39.967Z</updated>
+        <summary type="html"><![CDATA[tijdloze lessen over rijkdom, hebzucht en geluk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650865?aid=kb-online-bibliotheek&sid=19&dts=1766380188074&sig=dc27c84ba746f3e25158053dad0e65915f92903eb94b1cb798185be67b5eff1d&width=320" alt="Omslag van 'The Psychology of Money'" title="Omslag van 'The Psychology of Money'">
+<p>Over de besluitvorming omtrent geld, met als centrale argument dat die niet steunt op kennis maar op gedrag.</p>]]></content>
         <author>
-            <name>Adélka Vendl</name>
+            <name>Morgan Housel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toponderhandelaars]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650814/toponderhandelaars-maarten-van-rossum---tim-masselink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650814/toponderhandelaars-maarten-van-rossum---tim-masselink"/>
-        <updated>2025-12-22T07:19:50.709Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650814?aid=kb-online-bibliotheek&sid=19&dts=1766317931896&sig=fc797a573317024c77cc5cfbca5b488f331658943aa7522ff41f57fdfbe89326&width=320" alt="Omslag van 'Toponderhandelaars'" title="Omslag van 'Toponderhandelaars'">
-<p>Onderhandelen doen we dag in dag uit, en toch zijn er maar weinig mensen die zich er echt in bekwamen. Dit boek leert je hoe je uit elke onderhandeling meerwaarde kunt halen. En dat terwijl je de relatie verbetert met diegene met wie je onderhandelt. Veel mensen zijn getraind op de theoretisch 'juiste' manier van onderhandelen, maar in de praktijk zie je vaak dat ze keuzes maken die helemaal verkeerd uitpakken. Irrationele keuzes. Toponderhandelaars voorziet in de behoefte aan concrete adviezen van ervaren onderhandelaars om dat te voorkomen. Daarnaast lees je hoe beroemde onderhandelingen zijn verlopen. Vaak gaat bij de onderhandelingen de aandacht achteraf namelijk alleen uit naar de resultaten ervan. Lessen over het onderhandelingsproces gaan vaak verloren. In dit boek krijg je inzicht in de rijke praktijk achter de theorie van Harvard. Je leest over de ervaringen van Nederlandse toponderhandelaars, je ontdekt waar zij het meest op letten tijdens een onderhandeling, en krijgt een aantal gouden tips. Op basis van hun verhalen hebben we het kader van methodisch onderhandelen ontwikkeld, dat ervoor zorgt dat je nooit meer in je oude valkuilen stapt. Aan het woord komen onder anderen Mark Rutte (secretaris-generaal NAVO), Frank Heemskerk (ASML), Marjan van Loon (Shell), Neelie Kroes (Uber/Salesforce), Ed Kronenburg (voormalig ambassadeur in China), Elske Doets (zakenvrouw van het jaar 2017), Stientje van Veldhoven (World Resources Institute), generaal Patrick Cammaert en Edith Schippers (oud-minister van VWS). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het zigzagmeisje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650857/het-zigzagmeisje-elly-griffiths</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650857/het-zigzagmeisje-elly-griffiths"/>
+        <updated>2025-12-23T07:19:02.947Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650857?aid=kb-online-bibliotheek&sid=19&dts=1766393784173&sig=6f336b902da60cffda52af39900fb64d28ffdab8f7112ca584498d17da08947e&width=320" alt="Omslag van 'Het zigzagmeisje'" title="Omslag van 'Het zigzagmeisje'">
+<p>Inspecteur Stephens wordt geconfronteerd met een moord die lijkt op een goocheltruc die hij ooit gezien heeft.</p>]]></content>
         <author>
-            <name>Maarten van Rossum</name>
-        </author>
-        <author>
-            <name>Tim Masselink</name>
+            <name>Elly Griffiths</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doe en denk als Taylor Swift]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650059/doe-en-denk-als-taylor-swift-josephine-inez</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650059/doe-en-denk-als-taylor-swift-josephine-inez"/>
-        <updated>2025-12-22T07:19:51.230Z</updated>
-        <summary type="html"><![CDATA[Authentiek, creatief, strategisch, veerkrachtig, charismatisch, ambitieus, succesvol]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650059?aid=kb-online-bibliotheek&sid=19&dts=1766387058269&sig=ecdd6806cd79704c94d6dab141655acc8c21cf5901a13c7cace0747d6280c049&width=320" alt="Omslag van 'Doe en denk als Taylor Swift'" title="Omslag van 'Doe en denk als Taylor Swift'">
-<p>In Doe en denk als Taylor Swift ontdek je hoe creativiteit, strategisch denken en veerkracht de sleutel zijn tot succes. Dit inspirerende boek duikt in Swifts carrière en laat zien hoe haar authentieke expressie, slimme keuzes en doorzettingsvermogen haar tot een wereldster maakten. Of je nu dromen wilt najagen, kansen wilt benutten of grenzen wilt doorbreken, dit nieuwste deel in de succesvolle Doe en denk als-serie biedt praktische handvatten om met dezelfde vastberadenheid en innovatie je eigen pad te creëren, zoals Taylor dat haar hele leven al doet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Samen safe]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650903/samen-safe-hans-van-der-loo</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650903/samen-safe-hans-van-der-loo"/>
+        <updated>2025-12-23T07:19:03.408Z</updated>
+        <summary type="html"><![CDATA[Hoe kleine gewoontes het grote verschil maken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650903?aid=kb-online-bibliotheek&sid=19&dts=1766391316484&sig=db2e3d45fe65d0c4feb739f632a9383cb7cc19ec66378aefdbb118df5cdd044a&width=320" alt="Omslag van 'Samen safe'" title="Omslag van 'Samen safe'">
+<p>Je veilig voelen is een oerbehoefte. Dat begint al bij een pasgeboren baby die instinctief de armen uitstrekt naar de ander. Ook op het werk verlangen we ernaar om gezien, gehoord en gewaardeerd te worden. Dáár draait het om bij psychologische veiligheid: jezelf kunnen zijn, open communiceren en volwaardig meedoen. In Samen safe laat de auteur zien hoe psychologische veiligheid het fundament vormt voor sterke teams en gezonde samenwerking. Dat weten we al langer, maar initiatieven om de veiligheid te verbeteren hebben maar al te vaak bitter weinig effect, door een onhandige aanpak, blinde vlekken en misverstanden. Ondanks de beste intenties gaat de veiligheid er soms zelfs op achteruit! Psychologische veiligheid moet je niet alleen afspreken, maar vooral dóen. In dit boek daarom geen ingewikkelde theorie of enorme veranderprogramma's, maar een praktische en onderbouwde aanpak waarin juist kleine gewoontes en ogenschijnlijk eenvoudige gebaren het verschil maken. Aan de hand van herkenbare voorbeelden, actuele inzichten en heldere handvatten leer je hoe je samen een werkomgeving creëert waarin mensen floreren. Een plek waar iedereen ertoe doet. De kleine gewoontes en gebaren die we ons samen eigen kunnen maken zullen een groot effect hebben. Samen safe is de praktische gids voor iedereen die met teams werkt en duurzaam wil bouwen aan vertrouwen, openheid en resultaten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Josephine Inez</name>
+            <name>Hans van der Loo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verborgen juweel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456649921/verborgen-juweel-virginia-andrews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456649921/verborgen-juweel-virginia-andrews"/>
-        <updated>2025-12-22T07:19:51.909Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456649921?aid=kb-online-bibliotheek&sid=19&dts=1766387991337&sig=1cac1ccc9e937eaaafa1ecb0cb72d414b5cf5ca12bb9a57af4d1a41699b650af&width=320" alt="Omslag van 'Verborgen juweel'" title="Omslag van 'Verborgen juweel'">
-<p>Pearl is opgegroeid in het liefdevolle thuis dat haar moeder Ruby en vader Beau voor haar gecreëerd hebben, samen met haar jongere tweelingbroers Pierre en Jean. Ze droomt ervan dokter te worden, en ze hoopt ooit net zo'n allesvervullende liefde te vinden zoals haar ouders die delen. Maar ze heeft nog steeds last van terugkerende nachtmerries over de gebeurtenissen in haar vroegste jeugd, en ze weet dat haar ouders oude familiegeheimen voor haar verzwijgen.  Als een van haar broers verongelukt in de bayou, ziet Pearl hoe haar moeder aan het verdriet ten onder gaat en uiteindelijk terugvlucht naar het huis waar ze opgroeide. Pearl houdt nog altijd zielsveel van haar moeder, maar het breekt haar hart om te zien hoe haar achtergebleven broer dodelijk ziek wordt en hun vader steeds vaker antwoorden zoekt in een fles bourbon.  Pearl ziet haar dromen een voor een vlam vatten en ten onder gaan. Ze komt tot het besef dat als ze nog iets van haar toekomst wil redden, ze eerst alle demonen uit het verleden te ruste moet leggen. Met de hulp van een Cajun-man die haar terzijde staat en de ijzeren wil die ze van haar moeder geërfd heeft, gaat Pearl op zoek naar de waarheid die haar hele familie kan bevrijden.  'Verborgen juweel' is het vierde deel in de Ruby-serie van Virginia Andrews, waarin drie generaties vrouwen in de familie Landry worden gevormd door een familiegeheim dat verstrekkende gevolgen heeft… Het verhaal van Pearl en de family Landry begon in 'Ruby', 'Parel in de mist' en 'Alles wat schittert' en gaat verder in 'Het gouden web'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Woman on fire]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650083/woman-on-fire-sheila-de-liz</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650083/woman-on-fire-sheila-de-liz"/>
+        <updated>2025-12-23T07:19:03.802Z</updated>
+        <summary type="html"><![CDATA[beter leven met de overgang]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650083?aid=kb-online-bibliotheek&sid=19&dts=1766396719571&sig=58aab192fb995a4eada3a2548b92bdcf055f4870df6630cbf21e6f316e9993e3&width=320" alt="Omslag van 'Woman on fire'" title="Omslag van 'Woman on fire'">
+<p>Gids over de menopauze, met veel adviezen op het gebeid van gezondheid en welzijn. Met zwart-witillustraties.</p>]]></content>
         <author>
-            <name>Virginia Andrews</name>
+            <name>Sheila de Liz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galop door de storm]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650024/galop-door-de-storm-evelien-van-dort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650024/galop-door-de-storm-evelien-van-dort"/>
+        <updated>2025-12-22T07:19:41.378Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650024?aid=kb-online-bibliotheek&sid=19&dts=1766330446272&sig=beed84cb344ee0f7e7d452ab2b40c1cc913ecf04eb9dd531bfd324e65c26bc82&width=320" alt="Omslag van 'Galop door de storm'" title="Omslag van 'Galop door de storm'">
+<p>Finn maakt een rit met zijn paard Fulco, maar er is een storm op komst. Zijn vriendin Vic besluit hem te gaan zoeken. Zal ze hem op tijd kunnen bereiken? Met tips over de omgang met paarden. Vanaf ca. 10 jaar.</p>]]></content>
+        <author>
+            <name>Evelien van Dort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heldere vlam]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650881/heldere-vlam-heather-kaufman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650881/heldere-vlam-heather-kaufman"/>
+        <updated>2025-12-23T07:19:04.249Z</updated>
+        <summary type="html"><![CDATA[roman]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650881?aid=kb-online-bibliotheek&sid=19&dts=1766393369055&sig=7473c6918039b249af58f39c778db1c346db46435e90415c33135aa479973b0d&width=320" alt="Omslag van 'Heldere vlam'" title="Omslag van 'Heldere vlam'">
+<p>De bijbelse Johanna moet kiezen tussen haar loyaliteit aan haar rijke familie en haar persoonlijke verlangen om Jezus te volgen.</p>]]></content>
+        <author>
+            <name>Heather Kaufman</name>
         </author>
     </entry>
     <entry>
@@ -330,30 +264,95 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coachen met Voice Dialogue]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456650873/coachen-met-voice-dialogue-judith-budde---karin-brugman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456650873/coachen-met-voice-dialogue-judith-budde---karin-brugman"/>
-        <updated>2025-12-22T07:19:52.988Z</updated>
-        <summary type="html"><![CDATA[handboek voor begeleiders]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650873?aid=kb-online-bibliotheek&sid=19&dts=1766349083227&sig=cf59122f49c9bc69335ff2f74f1f5e3b6d840ca4a521918ea12ea838ac55193a&width=320" alt="Omslag van 'Coachen met Voice Dialogue'" title="Omslag van 'Coachen met Voice Dialogue'">
-<p>Voice Dialogue is een ervaringsgerichte methode die steeds bekender wordt onder coaches in Nederland. In Voice Dialogue gaan we er vanuit dat ieder mens uit meerdere ikken of subpersonen bestaat. Deze ikken nemen het stuur geregeld van ons over. Zoals een Pleaser die zorgt dat je geen conflicten krijgt en een Pusher die je aanzet tot overwerken. Grip krijgen In Voice Dialogue gaat de begeleider letterlijk in gesprek met de verschillende ikken van de cliënt. Daardoor leert de cliënt zijn innerlijke krachtenveld beter kennen en meer kanten van zichzelf in te zetten. Met Voice Dialogue help je de cliënt om zelf de regie te nemen over zijn leven in plaats van dat een paar ikken dat doen. In dit eerste Nederlandstalige handboek over Voice Dialogue presenteren Judith Budde en Karin Brugman op levendige wijze hoe je kunt werken met deze methode. Helder en toegankelijk leggen ze de aanpak stap voor stap uit, geïllustreerd door tal van herkenbare voorbeelden. Voor wie 'Coachen met Voice Dialogue' is geschreven voor coaches, loopbaanadviseurs, supervisoren, therapeuten en andere begeleiders. Een onmisbaar naslagwerk voor iedereen die werkt of wil werken met deze prikkelende methode. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een tijd als deze]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45665092X/een-tijd-als-deze-sarah-van-der-maas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45665092X/een-tijd-als-deze-sarah-van-der-maas"/>
+        <updated>2025-12-23T07:19:04.670Z</updated>
+        <summary type="html"><![CDATA[roman]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45665092X?aid=kb-online-bibliotheek&sid=19&dts=1766391335738&sig=0c74326ad159309040c7785e09ccb2922e0f998db7321faee8c417a8e5b0b5db&width=320" alt="Omslag van 'Een tijd als deze'" title="Omslag van 'Een tijd als deze'">
+<p>Na een valse beschuldiging neemt een jonge Duitse architect de identiteit aan van een overleden chauffeur. Terwijl hij noodgedwongen een zwijgend meisje naar Berlijn moet brengen, ziet hij tijdens hun tocht zijn dromen en overtuigingen instorten.</p>]]></content>
         <author>
-            <name>Judith Budde</name>
-        </author>
-        <author>
-            <name>Karin Brugman</name>
+            <name>Sarah van der Maas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De democratische markt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456649964/de-democratische-markt-lisa-herzog</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456649964/de-democratische-markt-lisa-herzog"/>
-        <updated>2025-12-22T07:19:53.675Z</updated>
-        <summary type="html"><![CDATA[hoe meer economische gelijkheid onze politiek kan redden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456649964?aid=kb-online-bibliotheek&sid=19&dts=1766387993101&sig=b98a37c5e37a47bbb8a4f4a2f9f41c3dd7063960d65b8ad19d805db9f7764f6f&width=320" alt="Omslag van 'De democratische markt'" title="Omslag van 'De democratische markt'">
-<p>Filosofisch pleidooi voor een rechtvaardige economie waarin niet de markt maar de democratie centraal staat.</p>]]></content>
+        <title type="html"><![CDATA[U lijkt me een vrij hopeloos geval]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650164/u-lijkt-me-een-vrij-hopeloos-geval-ad%C3%A9lka-vendl</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650164/u-lijkt-me-een-vrij-hopeloos-geval-ad%C3%A9lka-vendl"/>
+        <updated>2025-12-23T07:19:05.047Z</updated>
+        <summary type="html"><![CDATA[provocatief coachen: interventies die werken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650164?aid=kb-online-bibliotheek&sid=19&dts=1766401359545&sig=6e0034aa7631012f26dda02ddcd7a0b251303aff194b85b5d03eb05261fa4a4c&width=320" alt="Omslag van 'U lijkt me een vrij hopeloos geval'" title="Omslag van 'U lijkt me een vrij hopeloos geval'">
+<p>Er bestaan grote misverstanden over provocatief coachen: je zou vrijuit je cliënt mogen kwetsen, beledigen en belachelijk maken. Dit boek maakt korte metten met deze opvatting. De therapeutische provocatie is juist een heel zorgvuldige uitnodiging tot een reactie. Een provocatieve coach werkt met humor, liefde en uitdaging om de cliënt te stimuleren zich uit te spreken en zijn kracht te bevorderen. Dit boek maakt helder hoe deze coachingsvorm werkt, welke voordelen ze biedt en geeft je een aantal aanzetten om er zelf mee te experimenteren. Tenminste, als je bereid bent een paar heilige huisjes in hulpverleningsland omver te gooien ... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lisa Herzog</name>
+            <name>Adélka Vendl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Jakartamethode]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456651896/de-jakartamethode-vincent-bevins</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456651896/de-jakartamethode-vincent-bevins"/>
+        <updated>2025-12-23T07:19:05.432Z</updated>
+        <summary type="html"><![CDATA[hoe het Amerikaanse anticommunisme de wereld veranderde]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456651896?aid=kb-online-bibliotheek&sid=19&dts=1766413764773&sig=e6d354124be07a1de401b12f6ca1076d17744d507f46f0ee570edf9be8c7aa03&width=320" alt="Omslag van 'De Jakartamethode'" title="Omslag van 'De Jakartamethode'">
+<p>Verhandeling over de Amerikaanse overheidssteun aan de Indonesische massamoord op vermeende communisten van 1965, die de weg vrijmaakte voor vergelijkbare campagnes in andere landen.</p>]]></content>
+        <author>
+            <name>Vincent Bevins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moederreis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650199/moederreis-jessie-harrold</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650199/moederreis-jessie-harrold"/>
+        <updated>2025-12-22T07:19:40.917Z</updated>
+        <summary type="html"><![CDATA[jouw transformatie van vrouw naar moeder]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650199?aid=kb-online-bibliotheek&sid=19&dts=1766319736468&sig=f6a230d9a8bddf8db1f50df2f07a84fe1b6fcc5f04044e9ddcfb9a5570d3db71&width=320" alt="Omslag van 'Moederreis'" title="Omslag van 'Moederreis'">
+<p>Spirituele beschouwing over de persoonlijke transformatie die het moederschap met zich meebrengt.</p>]]></content>
+        <author>
+            <name>Jessie Harrold</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tussen as en adem]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456649948/tussen-as-en-adem-deirdre-vinck</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456649948/tussen-as-en-adem-deirdre-vinck"/>
+        <updated>2025-12-22T07:19:46.079Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456649948?aid=kb-online-bibliotheek&sid=19&dts=1766385646588&sig=37e40aa1f69ca0b1fb491ec01f3c891a54f93386e6b0ec851a0ecfa870ff8a79&width=320" alt="Omslag van 'Tussen as en adem'" title="Omslag van 'Tussen as en adem'">
+<p>Fascinerend. Gevaarlijk. Onweerstaanbaar... Wanneer Faye op een regenachtige avond onderuit gaat, ontmoet ze een vreemdeling. Ace. Zijn onverwachtse hulp wekt herinneringen tot leven die ze jarenlang zorgvuldig heeft weggestopt. Hoe dichterbij hij komt, hoe duidelijker het wordt: hij is even fascinerend als gevaarlijk. Kan ze het risico nemen hem toe te laten? Fayes leven draait om rust en controle. Ze doet er alles aan om de vijfjarige Izzy te beschermen tegen de schaduwen van het verleden. Maar wanneer Izzy's nachtmerries aanhouden en Fayes eigen angsten weer opborrelen, dwingt het heden haar om te kiezen. Hoever wil ze gaan om Izzy te beschermen? En wat blijft er over van haarzelf als ze alles geeft? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Deirdre Vinck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verstilde stemmen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456652469/verstilde-stemmen-virginia-andrews</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456652469/verstilde-stemmen-virginia-andrews"/>
+        <updated>2025-12-23T07:19:05.828Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456652469?aid=kb-online-bibliotheek&sid=19&dts=1766400664437&sig=d4a5b24a286c66c755b1fd055f49c122477b00c618694c680d274d8480d0b5bd&width=320" alt="Omslag van 'Verstilde stemmen'" title="Omslag van 'Verstilde stemmen'">
+<p>Olivia Logan is altijd al de verstandige zus geweest, de verantwoordelijke zus. Belinda is in alles haar tegenpool: onbezonnen, flirterig en knap. Waar Olivia op hun vader lijkt, een man zo koud en gedreven als een winterstorm, is Belinda degene die haar uiterlijk inzet om te krijgen wat ze wil. Tot die noodlottige nacht.  In één nacht, een nacht waar ze van hun vader nooit meer over mogen spreken, verandert alles. Het is het begin van een opeenstapeling aan familiegeheimen en schandalen die de levens van generaties Logans zal bepalen. Het is de nacht die van Olivia de vrouw maakt die met ijzeren hand de familie Logan door de komende jaren zal loodsen – en die van Belinda slechts een schim maakt van de vrolijke jonge vrouw wier leven haar toelachte...</p><p>'Verstilde stemmen' is het vijfde en laatste deel in de Melody-serie van Virginia Andrews, waarin drie generaties vrouwen in de familie Logan worden gevormd door een familiegeheim dat verstrekkende gevolgen heeft... Het verhaal van Olivia en de familie Logan begon met het verhaal van Melody in 'Melody', 'Lied van verlangen' en 'Onvoltooide symfonie', en met het verhaal van Laura in 'Middernachtmuziek'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Virginia Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onvoltooide symfonie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650032/onvoltooide-symfonie-virginia-andrews</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650032/onvoltooide-symfonie-virginia-andrews"/>
+        <updated>2025-12-22T07:19:44.447Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650032?aid=kb-online-bibliotheek&sid=19&dts=1766387983879&sig=7a63223d654570ff530e6459f96c2f1833d8659721c14e91a3b5db344a914b7f&width=320" alt="Omslag van 'Onvoltooide symfonie'" title="Omslag van 'Onvoltooide symfonie'">
+<p>Melody Logan leeft in de overtuiging dat haar moeder, Haille, en haar geliefde stiefvader beiden op tragische wijze zijn omgekomen. Maar alles verandert als ze een recente foto ziet van Haille. Kan het zijn dat haar moeder niet verongelukt is? Of is er iets anders aan de hand? Melody reist onmiddellijk naar Californië, op zoek naar haar moeder.  Maar niets heeft haar erop voorbereid als ze Haille vindt – en die vervolgens beweert geen idee te hebben wie Melody is. Melody's hart is gebroken. Waarom doet haar moeder alsof ze haar niet kent? En waarom heeft Haille haar eigen dood in scène gezet?  Hoewel haar geliefde Cary haar ervan probeert te overtuigen dat ze de zaak beter kan laten rusten, is Melody vastbesloten de waarheid over haar moeder en haar eigen verleden te ontdekken. Pas dan kan ze haar familiegeschiedenis achter zich laten en gelukkig worden met de man van wie ze houdt...  'Onvoltooide symfonie' is het derde deel in de Melody-serie van Virginia Andrews, waarin drie generaties vrouwen in de familie Logan worden gevormd door een familiegeheim dat verstrekkende gevolgen heeft... Het verhaal van Melody en de familie Logan begon in 'Melody' en 'Lied van verlangen' en gaat verder in 'Middernachtmuziek' en 'Verstilde stemmen'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Virginia Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lied van verlangen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456650075/lied-van-verlangen-virginia-andrews</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456650075/lied-van-verlangen-virginia-andrews"/>
+        <updated>2025-12-22T07:19:49.455Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456650075?aid=kb-online-bibliotheek&sid=19&dts=1766387988900&sig=f4821054563bad3fa48dd4d70558a16a1db0adfc2ec4461c78a9ee7032da0d64&width=320" alt="Omslag van 'Lied van verlangen'" title="Omslag van 'Lied van verlangen'">
+<p>Na de plotselinge dood van haar moeder en de schokkende geheimen over haar vader is Melody Logan alleen op de wereld. Ze woont nog steeds bij de familie Logan, maar haar tante Sara ziet in haar slechts de vervanging voor haar eigen overleden dochter, en haar oom Jacob ziet haar als de belichaming van het schandelijke verleden van de familie. Alleen hun zoon Cary lijkt echt om haar te geven, en nu hij niet haar neef blijkt, bloeien tussen Melody en Cary gevoelens op die haar verwarren en opwinden.  Melody weet dat ze Cary's liefde alleen kan beantwoorden als ze de waarheid over haar eigen verborgen verleden heeft ontrafeld. Ondanks de kille dreigementen van 'oma' Olivia, de vrouw die de familie Logan met ijzeren hand leidt, gaat Melody op onderzoek uit. Ze begint bij de mysterieuze Belinda, de vrouw die haar echte grootmoeder is. Haar verhaal biedt Melody hoop dat ze uiteindelijk kan ontdekken wie ze écht is – en daarmee haar rechtmatige plek in de Logan-familie kan innemen. Want het enige wat Melody zoekt is een thuis...  Lied van verlangen is het tweede deel in de Melody-serie van Virginia Andrews, waarin drie generaties vrouwen in de familie Logan worden gevormd door een familiegeheim dat verstrekkende gevolgen heeft... Het verhaal van Melody en de familie Logan begon in 'Melody' en gaat verder in 'Lied van verlangen', 'Onvoltooide symfonie', 'Middernachtmuziek' en 'Verstilde stemmen'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Virginia Andrews</name>
         </author>
     </entry>
 </feed>
