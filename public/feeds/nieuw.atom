@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-01-02T07:19:30.503Z</updated>
+    <updated>2026-01-03T07:14:17.113Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -175,6 +175,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Liselotte lernt schwimmen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394604822/liselotte-lernt-schwimmen-marianne-busser---ron-schr%C3%B6der</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394604822/liselotte-lernt-schwimmen-marianne-busser---ron-schr%C3%B6der"/>
+        <updated>2026-01-02T07:19:26.395Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604822?aid=kb-online-bibliotheek&sid=19&dts=1767271486354&sig=d351db5894472ef3a5d1e4528597e81229fc675004be7f0744a91f6bb7d8b81f&width=320" alt="Omslag van 'Liselotte lernt schwimmen'" title="Omslag van 'Liselotte lernt schwimmen'">
+<p>Liselotte ist der Name einer kleinen, hübschen Dame sie bewohnt ein Schloss echt wahr! mit ihren Eltern: ein Königspaar Liselotte und der König fahren Bötchen. Plötzlich fällt der König ins Wasser. 'Dummkopf!' ruft die Königin erschrocken, denn der König kann nicht schwimmen. Darum müssen Liselotte und der König sofort schwimmen lernen. Wird es ihnen gelingen? Ein witziges Vorlesbuch über schwimmen lernen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marianne Busser</name>
+        </author>
+        <author>
+            <name>Ron Schröder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kriege ich ein Küsschen, bitte?]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394604792/kriege-ich-ein-ku-sschen--bitte--marianne-busser---ron-schr%C3%B6der</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394604792/kriege-ich-ein-ku-sschen--bitte--marianne-busser---ron-schr%C3%B6der"/>
@@ -195,20 +209,6 @@
         <updated>2026-01-02T07:19:25.960Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604733?aid=kb-online-bibliotheek&sid=19&dts=1767271486400&sig=8290e703ad5de12edee738bb160bdc916871387d46bfeeaef8e100a6fc2aa501&width=320" alt="Omslag van 'Liselotte va avoir une petite soeur'" title="Omslag van 'Liselotte va avoir une petite soeur'">
 <p>Liselotte est petite et sais-tu où elle habite? tu ne devineras jamais cest dans un palais La reine a un ventre arrondi. Un petit bébé est en train dy pousser. Tout le monde se réjouit à la naissance de la petite Rose, sauf le roi. Il est très contrarié, il aimerait bien pouvoir jouer avec le nouveau bébé. Mais est-ce possible? Cest la question... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marianne Busser</name>
-        </author>
-        <author>
-            <name>Ron Schröder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liselotte lernt schwimmen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394604822/liselotte-lernt-schwimmen-marianne-busser---ron-schr%C3%B6der</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394604822/liselotte-lernt-schwimmen-marianne-busser---ron-schr%C3%B6der"/>
-        <updated>2026-01-02T07:19:26.395Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604822?aid=kb-online-bibliotheek&sid=19&dts=1767271486354&sig=d351db5894472ef3a5d1e4528597e81229fc675004be7f0744a91f6bb7d8b81f&width=320" alt="Omslag van 'Liselotte lernt schwimmen'" title="Omslag van 'Liselotte lernt schwimmen'">
-<p>Liselotte ist der Name einer kleinen, hübschen Dame sie bewohnt ein Schloss echt wahr! mit ihren Eltern: ein Königspaar Liselotte und der König fahren Bötchen. Plötzlich fällt der König ins Wasser. 'Dummkopf!' ruft die Königin erschrocken, denn der König kann nicht schwimmen. Darum müssen Liselotte und der König sofort schwimmen lernen. Wird es ihnen gelingen? Ein witziges Vorlesbuch über schwimmen lernen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marianne Busser</name>
         </author>
