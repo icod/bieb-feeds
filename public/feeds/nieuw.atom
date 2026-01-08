@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-01-07T07:20:11.528Z</updated>
+    <updated>2026-01-08T07:19:49.687Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -20,17 +20,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Appgroep 2.0]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456703349/de-appgroep-2-0-edward-den-ouden</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456703349/de-appgroep-2-0-edward-den-ouden"/>
-        <updated>2026-01-07T07:20:10.581Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456703349?aid=kb-online-bibliotheek&sid=19&dts=1767758120149&sig=76627377de3b6cc3b6ffa04643e80b1b5b76fb9ec969ceee26e247642ff129e4&width=320" alt="Omslag van 'De Appgroep 2.0'" title="Omslag van 'De Appgroep 2.0'">
-<p>We hebben vrijheid ingeruild voor gemak, privacy ingewisseld voor een pushbericht. Niemand kijkt écht meer op. Of toch wel? Vijftien mannen. Eén appgroep. Geen filter. Ze reageren op alles wat schuurt - van aftakeling tot opstand, van algoritmes tot airfryers - gedreven door dadendrang, ironie of simpelweg FOMO. Maar achter hun digitale façade loert ene Van Vleuten. Een stille AIVD-agent met verstrekkende bevoegdheden. Hij leest. Hij registreert. Hij oordeelt. Wat is nog waar als iedereen ronddoolt in zijn eigen mist? En wie bespioneert nu wie? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Edward den Ouden</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ware leegte]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456703233/ware-leegte-sister-chan-khong</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456703233/ware-leegte-sister-chan-khong"/>
@@ -40,6 +29,17 @@
 <p>“Veel van mijn leerlingen zijn ook mijn leraren, en zuster Chan Khong is een van de belangrijksten van hen. Als ik haar boek lees, leer ik nog steeds veel van haar. Een grote, diepe liefde en zorg vormen de basis van haar werk. Haar leven is een spirituele lezing en ze heeft ons veel te vertellen.” - Thich Nhat Hanh, invloedrijke zenmeester, schrijver en vredesactivist uit Vietnam. Auteur van internationale bestsellers waaronder Het wonder van mindfulness en Iedere stap is vrede. Deze unieke autobiografie vertelt het aangrijpende verhaal van een vrouw die de geschiedenis niet alleen leefde, maar ook mede maakte. Deze geheel herziene druk volgt zuster Chan Khong's moedige reis van Vietnam naar Frankrijk en later terug naar Vietnam, na veertig jaar ballingschap. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Sister Chan Khong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Appgroep 2.0]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456703349/de-appgroep-2-0-edward-den-ouden</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456703349/de-appgroep-2-0-edward-den-ouden"/>
+        <updated>2026-01-07T07:20:10.581Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456703349?aid=kb-online-bibliotheek&sid=19&dts=1767758120149&sig=76627377de3b6cc3b6ffa04643e80b1b5b76fb9ec969ceee26e247642ff129e4&width=320" alt="Omslag van 'De Appgroep 2.0'" title="Omslag van 'De Appgroep 2.0'">
+<p>We hebben vrijheid ingeruild voor gemak, privacy ingewisseld voor een pushbericht. Niemand kijkt écht meer op. Of toch wel? Vijftien mannen. Eén appgroep. Geen filter. Ze reageren op alles wat schuurt - van aftakeling tot opstand, van algoritmes tot airfryers - gedreven door dadendrang, ironie of simpelweg FOMO. Maar achter hun digitale façade loert ene Van Vleuten. Een stille AIVD-agent met verstrekkende bevoegdheden. Hij leest. Hij registreert. Hij oordeelt. Wat is nog waar als iedereen ronddoolt in zijn eigen mist? En wie bespioneert nu wie? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Edward den Ouden</name>
         </author>
     </entry>
     <entry>
@@ -89,72 +89,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rymdwang]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/370927524/rymdwang-elisabeth-eybers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/370927524/rymdwang-elisabeth-eybers"/>
-        <updated>2026-01-02T07:19:20.313Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370927524?aid=kb-online-bibliotheek&sid=19&dts=1767338359887&sig=72e50092da16e6075db42991083ef74ba6d8c83f3b70dc224bff79c693553d5f&width=320" alt="Omslag van 'Rymdwang'" title="Omslag van 'Rymdwang'">
-<p>Gedichten in het Zuidafrikaans.</p>]]></content>
-        <author>
-            <name>Elisabeth Eybers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Der liebste papa und ich]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394604989/der-liebste-papa-und-ich-arend-van-dam</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394604989/der-liebste-papa-und-ich-arend-van-dam"/>
-        <updated>2026-01-02T07:19:24.614Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604989?aid=kb-online-bibliotheek&sid=19&dts=1767271486776&sig=b7e1d53e756d1a3b538a05d59fdccec1a78c11a5cca0961584653110728f1096&width=320" alt="Omslag van 'Der liebste papa und ich'" title="Omslag van 'Der liebste papa und ich'">
-<p>Es verspricht ein aufregender Tag zu werden: Papa und Kleiner Bär wollen zum ersten Mal gemeinsam Fische fangen. Kleiner Bär will Papa Bär auf dem Weg zum Fluss zeigen, was er schon alles kann. Er kann Futter suchen. Er kann klettern. Und er kann einen bösen Puma ganz laut anbrummen. Bei ihrer Ankunft am Fluss springt direkt vor ihrer Nase ein großer Fisch aus dem Wasser. Kleiner Bär streckt seine Tatzen aus und In Der liebste Papa und ich bringt Papa Bär seinem Sohn alles bei, was er wissen muss, um genauso groß und stark zu werden wie er selbst. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Arend van Dam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El mejor papa del mundo]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394604997/el-mejor-papa-del-mundo-arend-van-dam</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394604997/el-mejor-papa-del-mundo-arend-van-dam"/>
-        <updated>2026-01-02T07:19:24.192Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604997?aid=kb-online-bibliotheek&sid=19&dts=1767338363609&sig=47555692568e28b8ad148bac731b773f0393a7f480e7e53f241ed494e22b6050&width=320" alt="Omslag van 'El mejor papa del mundo'" title="Omslag van 'El mejor papa del mundo'">
-<p>Hoy promete ser un día emocionante para Osito, ya que papá se lo lleva por primera vez a atrapar peces. De camino al río, Osito quiere enseñarle todo lo que sabe hacer. Sabe buscar comida, escalar y trepar. Incluso se atreve a gruñirle muy fuerte a un puma enfadado. Al llegar al río, Osito ve a un pez que salta en el agua delante de él. Ni corto ni perezoso, se tira y En El mejor papá del mundo, papá oso enseña a su hijo todo lo que debe saber para ser tan grande y fuerte como él. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Arend van Dam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bestand]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/370931491/bestand-elisabeth-eybers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/370931491/bestand-elisabeth-eybers"/>
-        <updated>2026-01-02T07:19:19.803Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370931491?aid=kb-online-bibliotheek&sid=19&dts=1767258800213&sig=8fcdfff08d4a2c339a6e99e8773d19249829831bf2a9b5afa3c9937f5377f6b9&width=320" alt="Omslag van 'Bestand'" title="Omslag van 'Bestand'">
-<p>"Nolens Volens</p><p>Suid-Afrika, toe ek jou moes verlaat  nie om jou domheid maar om eie seer  met tongval wat my land van herkoms meld</p><p>wis ek nog nie dat ek ook as gas sou geld  by hierdie fuif waar hulle jóú trakteer  op amptelike monomane haat."</p>]]></content>
-        <author>
-            <name>Elisabeth Eybers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noodluik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/37092410X/noodluik-elisabeth-eybers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/37092410X/noodluik-elisabeth-eybers"/>
-        <updated>2026-01-02T07:19:20.832Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A37092410X?aid=kb-online-bibliotheek&sid=19&dts=1767338360404&sig=bb77bc4b8e76f64d56ecce23799a7c188ba541362bc9a50ac4904fd047a7a333&width=320" alt="Omslag van 'Noodluik'" title="Omslag van 'Noodluik'">
-<p>Gedichten in het Zuidafrikaans.</p>]]></content>
-        <author>
-            <name>Elisabeth Eybers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Als Freund will ich]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39460542X/als-freund-will-ich-jacques-vriens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39460542X/als-freund-will-ich-jacques-vriens"/>
-        <updated>2026-01-02T07:19:25.011Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39460542X?aid=kb-online-bibliotheek&sid=19&dts=1767271486803&sig=34d3d7a797ed9f9cd4be1261c901341bb328c7d3426fe784e74d4f0e00221939&width=320" alt="Omslag van 'Als Freund will ich'" title="Omslag van 'Als Freund will ich'">
-<p>ein Krokodil, mit dem ich U-Boot spielen kann einen Reiher, mit dem ich um die Wette auf einem Bein stehen kann einen Löwen, mit dem ich in der Wildnis herumstreunen kann ein Känguru, mit dem ich weitspringen kann ein Nilpferd, mit dem ich um die Wette gähnen kann ein Wen möchtest du als Freund? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jacques Vriens</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Onderdak]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/370921348/onderdak-elisabeth-eybers</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/370921348/onderdak-elisabeth-eybers"/>
@@ -162,17 +96,6 @@
         <summary type="html"><![CDATA[gedigte, november 1962-junie 1967]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370921348?aid=kb-online-bibliotheek&sid=19&dts=1767256430536&sig=80167e10fea82233413f857ddbe88112eba69ad67ee5b762e61484eda52eeca8&width=320" alt="Omslag van 'Onderdak'" title="Omslag van 'Onderdak'">
 <p>"Ontheemde</p><p>Haar man het haar nie sonder rede ontslaan,  haar vader het gewag en later doodgegaan,  haar kinders volg elkeen sy eie baan,  daar is geen tuiste om na terug te gaan.</p><p>`Vermoedelik vatbaar vir bereddering.</p><p>Gediplomeerde indelers noteer  `die nuweling spartel nog en gaan probeer.  Maar sy t haar eie baaierd saamgebring."</p>]]></content>
-        <author>
-            <name>Elisabeth Eybers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Versamelde gedigte]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/370927540/versamelde-gedigte-elisabeth-eybers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/370927540/versamelde-gedigte-elisabeth-eybers"/>
-        <updated>2026-01-02T07:19:22.514Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370927540?aid=kb-online-bibliotheek&sid=19&dts=1767338362031&sig=5a237e944b2f4becedcab54c87b3eb73217c6a6d9070e06f818b6adff080d532&width=320" alt="Omslag van 'Versamelde gedigte'" title="Omslag van 'Versamelde gedigte'">
-<p>Vrijwel volledig dichtwerk (tot en met 1999) van de Zuidafrikaanse dichteres (1915- ).</p>]]></content>
         <author>
             <name>Elisabeth Eybers</name>
         </author>
@@ -189,23 +112,34 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dryfsand]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/370922808/dryfsand-elisabeth-eybers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/370922808/dryfsand-elisabeth-eybers"/>
-        <updated>2026-01-02T07:19:23.014Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370922808?aid=kb-online-bibliotheek&sid=19&dts=1767338362610&sig=fa163dd16dd366b80ccdd75b8e115422768c4fc81e4bbf0b35662dded30acdc3&width=320" alt="Omslag van 'Dryfsand'" title="Omslag van 'Dryfsand'">
-<p>Gedichten.</p>]]></content>
+        <title type="html"><![CDATA[Bestand]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/370931491/bestand-elisabeth-eybers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/370931491/bestand-elisabeth-eybers"/>
+        <updated>2026-01-02T07:19:19.803Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370931491?aid=kb-online-bibliotheek&sid=19&dts=1767258800213&sig=8fcdfff08d4a2c339a6e99e8773d19249829831bf2a9b5afa3c9937f5377f6b9&width=320" alt="Omslag van 'Bestand'" title="Omslag van 'Bestand'">
+<p>"Nolens Volens</p><p>Suid-Afrika, toe ek jou moes verlaat  nie om jou domheid maar om eie seer  met tongval wat my land van herkoms meld</p><p>wis ek nog nie dat ek ook as gas sou geld  by hierdie fuif waar hulle jóú trakteer  op amptelike monomane haat."</p>]]></content>
         <author>
             <name>Elisabeth Eybers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nuweling]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/370926625/nuweling-elisabeth-eybers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/370926625/nuweling-elisabeth-eybers"/>
-        <updated>2026-01-02T07:19:21.927Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370926625?aid=kb-online-bibliotheek&sid=19&dts=1767257790416&sig=89d10f2af5cac14247cb615ec19d4641a1c96dcfe643b079d7b797240573e721&width=320" alt="Omslag van 'Nuweling'" title="Omslag van 'Nuweling'">
-<p>Gedichten.</p>]]></content>
+        <title type="html"><![CDATA[Rymdwang]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/370927524/rymdwang-elisabeth-eybers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/370927524/rymdwang-elisabeth-eybers"/>
+        <updated>2026-01-02T07:19:20.313Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370927524?aid=kb-online-bibliotheek&sid=19&dts=1767338359887&sig=72e50092da16e6075db42991083ef74ba6d8c83f3b70dc224bff79c693553d5f&width=320" alt="Omslag van 'Rymdwang'" title="Omslag van 'Rymdwang'">
+<p>Gedichten in het Zuidafrikaans.</p>]]></content>
+        <author>
+            <name>Elisabeth Eybers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noodluik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/37092410X/noodluik-elisabeth-eybers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/37092410X/noodluik-elisabeth-eybers"/>
+        <updated>2026-01-02T07:19:20.832Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A37092410X?aid=kb-online-bibliotheek&sid=19&dts=1767338360404&sig=bb77bc4b8e76f64d56ecce23799a7c188ba541362bc9a50ac4904fd047a7a333&width=320" alt="Omslag van 'Noodluik'" title="Omslag van 'Noodluik'">
+<p>Gedichten in het Zuidafrikaans.</p>]]></content>
         <author>
             <name>Elisabeth Eybers</name>
         </author>
@@ -222,6 +156,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nuweling]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/370926625/nuweling-elisabeth-eybers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/370926625/nuweling-elisabeth-eybers"/>
+        <updated>2026-01-02T07:19:21.927Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370926625?aid=kb-online-bibliotheek&sid=19&dts=1767257790416&sig=89d10f2af5cac14247cb615ec19d4641a1c96dcfe643b079d7b797240573e721&width=320" alt="Omslag van 'Nuweling'" title="Omslag van 'Nuweling'">
+<p>Gedichten.</p>]]></content>
+        <author>
+            <name>Elisabeth Eybers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Versamelde gedigte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/370927540/versamelde-gedigte-elisabeth-eybers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/370927540/versamelde-gedigte-elisabeth-eybers"/>
+        <updated>2026-01-02T07:19:22.514Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370927540?aid=kb-online-bibliotheek&sid=19&dts=1767338362031&sig=5a237e944b2f4becedcab54c87b3eb73217c6a6d9070e06f818b6adff080d532&width=320" alt="Omslag van 'Versamelde gedigte'" title="Omslag van 'Versamelde gedigte'">
+<p>Vrijwel volledig dichtwerk (tot en met 1999) van de Zuidafrikaanse dichteres (1915- ).</p>]]></content>
+        <author>
+            <name>Elisabeth Eybers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dryfsand]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/370922808/dryfsand-elisabeth-eybers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/370922808/dryfsand-elisabeth-eybers"/>
+        <updated>2026-01-02T07:19:23.014Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370922808?aid=kb-online-bibliotheek&sid=19&dts=1767338362610&sig=fa163dd16dd366b80ccdd75b8e115422768c4fc81e4bbf0b35662dded30acdc3&width=320" alt="Omslag van 'Dryfsand'" title="Omslag van 'Dryfsand'">
+<p>Gedichten.</p>]]></content>
+        <author>
+            <name>Elisabeth Eybers</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Respyt]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/370928946/respyt-elisabeth-eybers</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/370928946/respyt-elisabeth-eybers"/>
@@ -230,6 +197,39 @@
 <p>Gedichten in het Afrikaans van de Zuidafrikaanse dichteres (1915- ).</p>]]></content>
         <author>
             <name>Elisabeth Eybers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[El mejor papa del mundo]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394604997/el-mejor-papa-del-mundo-arend-van-dam</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394604997/el-mejor-papa-del-mundo-arend-van-dam"/>
+        <updated>2026-01-02T07:19:24.192Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604997?aid=kb-online-bibliotheek&sid=19&dts=1767338363609&sig=47555692568e28b8ad148bac731b773f0393a7f480e7e53f241ed494e22b6050&width=320" alt="Omslag van 'El mejor papa del mundo'" title="Omslag van 'El mejor papa del mundo'">
+<p>Hoy promete ser un día emocionante para Osito, ya que papá se lo lleva por primera vez a atrapar peces. De camino al río, Osito quiere enseñarle todo lo que sabe hacer. Sabe buscar comida, escalar y trepar. Incluso se atreve a gruñirle muy fuerte a un puma enfadado. Al llegar al río, Osito ve a un pez que salta en el agua delante de él. Ni corto ni perezoso, se tira y En El mejor papá del mundo, papá oso enseña a su hijo todo lo que debe saber para ser tan grande y fuerte como él. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Arend van Dam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Der liebste papa und ich]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394604989/der-liebste-papa-und-ich-arend-van-dam</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394604989/der-liebste-papa-und-ich-arend-van-dam"/>
+        <updated>2026-01-02T07:19:24.614Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604989?aid=kb-online-bibliotheek&sid=19&dts=1767271486776&sig=b7e1d53e756d1a3b538a05d59fdccec1a78c11a5cca0961584653110728f1096&width=320" alt="Omslag van 'Der liebste papa und ich'" title="Omslag van 'Der liebste papa und ich'">
+<p>Es verspricht ein aufregender Tag zu werden: Papa und Kleiner Bär wollen zum ersten Mal gemeinsam Fische fangen. Kleiner Bär will Papa Bär auf dem Weg zum Fluss zeigen, was er schon alles kann. Er kann Futter suchen. Er kann klettern. Und er kann einen bösen Puma ganz laut anbrummen. Bei ihrer Ankunft am Fluss springt direkt vor ihrer Nase ein großer Fisch aus dem Wasser. Kleiner Bär streckt seine Tatzen aus und In Der liebste Papa und ich bringt Papa Bär seinem Sohn alles bei, was er wissen muss, um genauso groß und stark zu werden wie er selbst. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Arend van Dam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Als Freund will ich]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39460542X/als-freund-will-ich-jacques-vriens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39460542X/als-freund-will-ich-jacques-vriens"/>
+        <updated>2026-01-02T07:19:25.011Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39460542X?aid=kb-online-bibliotheek&sid=19&dts=1767271486803&sig=34d3d7a797ed9f9cd4be1261c901341bb328c7d3426fe784e74d4f0e00221939&width=320" alt="Omslag van 'Als Freund will ich'" title="Omslag van 'Als Freund will ich'">
+<p>ein Krokodil, mit dem ich U-Boot spielen kann einen Reiher, mit dem ich um die Wette auf einem Bein stehen kann einen Löwen, mit dem ich in der Wildnis herumstreunen kann ein Känguru, mit dem ich weitspringen kann ein Nilpferd, mit dem ich um die Wette gähnen kann ein Wen möchtest du als Freund? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jacques Vriens</name>
         </author>
     </entry>
     <entry>
@@ -247,12 +247,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kriege ich ein Küsschen, bitte?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394604792/kriege-ich-ein-ku-sschen--bitte--marianne-busser---ron-schr%C3%B6der</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394604792/kriege-ich-ein-ku-sschen--bitte--marianne-busser---ron-schr%C3%B6der"/>
-        <updated>2026-01-02T07:19:25.551Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604792?aid=kb-online-bibliotheek&sid=19&dts=1767338365100&sig=5394f36b3adf3a097c50b302801a68f75e23a880bc86eafa2f19729d1cb6b541&width=320" alt="Omslag van 'Kriege ich ein Küsschen, bitte?'" title="Omslag van 'Kriege ich ein Küsschen, bitte?'">
-<p>In der Morgendämmerung beschließen die Tiere, sich auf den Heimweg zu begeben. Sie wandern durch den Wald und über die Heide, denn ihr fabelhaftes Fest ist zu Ende. Nach dem Kostümfest kann Maus nicht einschlafen. Wer von den maskierten Tieren hat ihr bloß bei der Party solch ein herrliches Küsschen gegeben? Als Igel am nächsten Tag vorbeikommt um zu fragen, ob Maus seine Jacke reparieren könnte, hat Maus keine Zeit. Sie will bei allen Tieren vorbeigehen, um die Küsschen zu testen. So muss sie den maskierten Küsser doch ganz sicher erkennen! Aufgeregt macht Maus sich auf den Weg. Doch dann küsst Kröte zu kalt, und Eichhörnchen zu feucht Als Maus hundert Küsse später enttäuscht nach Hause kommt, erwartet sie eine große Überraschung! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Liselotte lernt schwimmen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394604822/liselotte-lernt-schwimmen-marianne-busser---ron-schr%C3%B6der</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394604822/liselotte-lernt-schwimmen-marianne-busser---ron-schr%C3%B6der"/>
+        <updated>2026-01-02T07:19:26.395Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604822?aid=kb-online-bibliotheek&sid=19&dts=1767271486354&sig=d351db5894472ef3a5d1e4528597e81229fc675004be7f0744a91f6bb7d8b81f&width=320" alt="Omslag van 'Liselotte lernt schwimmen'" title="Omslag van 'Liselotte lernt schwimmen'">
+<p>Liselotte ist der Name einer kleinen, hübschen Dame sie bewohnt ein Schloss echt wahr! mit ihren Eltern: ein Königspaar Liselotte und der König fahren Bötchen. Plötzlich fällt der König ins Wasser. 'Dummkopf!' ruft die Königin erschrocken, denn der König kann nicht schwimmen. Darum müssen Liselotte und der König sofort schwimmen lernen. Wird es ihnen gelingen? Ein witziges Vorlesbuch über schwimmen lernen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marianne Busser</name>
         </author>
@@ -261,12 +261,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liselotte lernt schwimmen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394604822/liselotte-lernt-schwimmen-marianne-busser---ron-schr%C3%B6der</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394604822/liselotte-lernt-schwimmen-marianne-busser---ron-schr%C3%B6der"/>
-        <updated>2026-01-02T07:19:26.395Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604822?aid=kb-online-bibliotheek&sid=19&dts=1767271486354&sig=d351db5894472ef3a5d1e4528597e81229fc675004be7f0744a91f6bb7d8b81f&width=320" alt="Omslag van 'Liselotte lernt schwimmen'" title="Omslag van 'Liselotte lernt schwimmen'">
-<p>Liselotte ist der Name einer kleinen, hübschen Dame sie bewohnt ein Schloss echt wahr! mit ihren Eltern: ein Königspaar Liselotte und der König fahren Bötchen. Plötzlich fällt der König ins Wasser. 'Dummkopf!' ruft die Königin erschrocken, denn der König kann nicht schwimmen. Darum müssen Liselotte und der König sofort schwimmen lernen. Wird es ihnen gelingen? Ein witziges Vorlesbuch über schwimmen lernen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Kriege ich ein Küsschen, bitte?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394604792/kriege-ich-ein-ku-sschen--bitte--marianne-busser---ron-schr%C3%B6der</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394604792/kriege-ich-ein-ku-sschen--bitte--marianne-busser---ron-schr%C3%B6der"/>
+        <updated>2026-01-02T07:19:25.551Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394604792?aid=kb-online-bibliotheek&sid=19&dts=1767338365100&sig=5394f36b3adf3a097c50b302801a68f75e23a880bc86eafa2f19729d1cb6b541&width=320" alt="Omslag van 'Kriege ich ein Küsschen, bitte?'" title="Omslag van 'Kriege ich ein Küsschen, bitte?'">
+<p>In der Morgendämmerung beschließen die Tiere, sich auf den Heimweg zu begeben. Sie wandern durch den Wald und über die Heide, denn ihr fabelhaftes Fest ist zu Ende. Nach dem Kostümfest kann Maus nicht einschlafen. Wer von den maskierten Tieren hat ihr bloß bei der Party solch ein herrliches Küsschen gegeben? Als Igel am nächsten Tag vorbeikommt um zu fragen, ob Maus seine Jacke reparieren könnte, hat Maus keine Zeit. Sie will bei allen Tieren vorbeigehen, um die Küsschen zu testen. So muss sie den maskierten Küsser doch ganz sicher erkennen! Aufgeregt macht Maus sich auf den Weg. Doch dann küsst Kröte zu kalt, und Eichhörnchen zu feucht Als Maus hundert Küsse später enttäuscht nach Hause kommt, erwartet sie eine große Überraschung! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marianne Busser</name>
         </author>
@@ -325,17 +325,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mi Biblia tiene un hilo rojo]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/401207064/mi-biblia-tiene-un-hilo-rojo-peter-van-olst</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/401207064/mi-biblia-tiene-un-hilo-rojo-peter-van-olst"/>
-        <updated>2026-01-01T07:17:59.250Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A401207064?aid=kb-online-bibliotheek&sid=19&dts=1767251878978&sig=3217bbaa94687b85dfbdc2d671126fd1deeddeb2a8fa82f0ee9eac0d30121f21&width=320" alt="Omslag van 'Mi Biblia tiene un hilo rojo'" title="Omslag van 'Mi Biblia tiene un hilo rojo'">
-<p>Con tu Biblia tienes puro oro en las manos. Es el oro de la revelación de Dios a los hombres, también a ti. Lamentablemente muchas veces no nos damos cuenta de esto. Ya la cerramos demasiado rápido – si es que la abrimos aún. El oro no se reconoce, no es valorado como tal. Este libro quiere ayudarte a estudiar los 66 libros de la Biblia y a descubrir su hilo rojo. El hilo rojo de Jesucristo. Para él se prepara lugar en el Antiguo Testamento; en el Nuevo Testamento te es presentado directamente. Fue prometido y vino. Él es el gran Contenido del libro de Dios. Peter van Olst estudió ciencias políticas y teología. Ocho años trabajó como periodista para un periódico cristiano en Holanda. Desde el 2005 es evangelista de la Misión Holandesa Maranatha en el Ecuador. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Peter van Olst</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De spion]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/40633711X/de-spion-paulo-coelho</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/40633711X/de-spion-paulo-coelho"/>
@@ -344,6 +333,17 @@
 <p>De fan oarsprong Fryske Mata Hari (1876-1917) wie de meast begearde frou fan har tiid: in ferneamde eksoatyske dûnseresse dy’t omgong hie mei grutheden en it publyk skokte en yn ferfiering brocht mei har eroatysk laden optredens. Yn De spion brûkt Paulo Coelho syn ferbyldingskrêft om it like gloarjerike as tragyske libben fan Mata Hari op ’en nij te skeppen. Har drege jeugd, har ûngelokkige houlik dat har yn Nederlânsk-Ynje brocht, de tryste wederwarichheden fan har bern, har komeeteftige opkomst as dûnseres, har yntime omgong mei heechpleatste militêren en politisy dy’t har úteinlik op in beskuldiging fan spionaazje en heechferried kaam te stean. It is it ferhaal fan in frou dy’t de moed hie om harsels te befrijen fan it moralisme en it bekrompen boargerfatsoen fan it begjin fan de tweintichste iuw. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Paulo Coelho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mi Biblia tiene un hilo rojo]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/401207064/mi-biblia-tiene-un-hilo-rojo-peter-van-olst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/401207064/mi-biblia-tiene-un-hilo-rojo-peter-van-olst"/>
+        <updated>2026-01-01T07:17:59.250Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A401207064?aid=kb-online-bibliotheek&sid=19&dts=1767251878978&sig=3217bbaa94687b85dfbdc2d671126fd1deeddeb2a8fa82f0ee9eac0d30121f21&width=320" alt="Omslag van 'Mi Biblia tiene un hilo rojo'" title="Omslag van 'Mi Biblia tiene un hilo rojo'">
+<p>Con tu Biblia tienes puro oro en las manos. Es el oro de la revelación de Dios a los hombres, también a ti. Lamentablemente muchas veces no nos damos cuenta de esto. Ya la cerramos demasiado rápido – si es que la abrimos aún. El oro no se reconoce, no es valorado como tal. Este libro quiere ayudarte a estudiar los 66 libros de la Biblia y a descubrir su hilo rojo. El hilo rojo de Jesucristo. Para él se prepara lugar en el Antiguo Testamento; en el Nuevo Testamento te es presentado directamente. Fue prometido y vino. Él es el gran Contenido del libro de Dios. Peter van Olst estudió ciencias políticas y teología. Ocho años trabajó como periodista para un periódico cristiano en Holanda. Desde el 2005 es evangelista de la Misión Holandesa Maranatha en el Ecuador. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Peter van Olst</name>
         </author>
     </entry>
     <entry>
