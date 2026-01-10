@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-01-09T07:20:46.523Z</updated>
+    <updated>2026-01-10T07:14:13.772Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -89,6 +89,18 @@
 <p>In de prekenserie Uit den schat des woords is de 62e jaargang verschenen. Onderstaande predikanten van de Gereformeerde Gemeenten hebben aan deze bundel meegewerkt. Ds. G.J. van Aalst, ds. J. Driessen, ds. J.J. van Eckeveld, ds. A.J. Gunst, ds. B. van der Heiden, ds. G. van Manen, ds. F. Mulder, ds. C. Neele, ds. A. Schreuder, ds. A. Schot, ds. W. Visscher, ds. J.W. Verweij. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Het heil is des Heeren]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39283426X/het-heil-is-des-heeren-c--smits</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39283426X/het-heil-is-des-heeren-c--smits"/>
+        <updated>2026-01-09T07:20:39.530Z</updated>
+        <summary type="html"><![CDATA[5 preken over Jona]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39283426X?aid=kb-online-bibliotheek&sid=19&dts=1767932597254&sig=f790467e4d8a305842309a5d29486002112e184cb11f487f0cf9fce55759fcbe&width=320" alt="Omslag van 'Het heil is des Heeren'" title="Omslag van 'Het heil is des Heeren'">
+<p>Deze bundel over het Bijbelboek Jona bevat vijf niet eerder uitgegeven preken van ds. C. Smits. Thema’s die aan de orde komen zijn: 1. Een grote vis door God beschikt (Jona 2:10) 2. In grote benauwdheid (Jona 2:1-4) 3. Een gebed in het ingewand van de vis (Jona 2:5-9) 4. Jona’s gang naar Ninevé (Jona 3:1-4) 5. Een koninklijk edict (Jona 3:5-9) De preken getuigen van Gods opzoekende zondaarsliefde, zowel voor het goddeloze Ninevé als voor Zijn kind en knecht Jona, die het zo verzondigd had. De preken kenmerken zich door het Schriftuurlijke, bevindelijke onderwijs. Deze bundel is deel 2 in de serie Nalezing. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>C. Smits</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Profetisch perspectief]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394925319/profetisch-perspectief-a--van-der-zwan</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394925319/profetisch-perspectief-a--van-der-zwan"/>
@@ -110,18 +122,6 @@
 <p>Praktische adviezen vanuit een orthodox-gereformeerde invalshoek over het geven aan goede doelen.</p>]]></content>
         <author>
             <name>Evert-Jan Brouwer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het heil is des Heeren]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39283426X/het-heil-is-des-heeren-c--smits</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39283426X/het-heil-is-des-heeren-c--smits"/>
-        <updated>2026-01-09T07:20:39.530Z</updated>
-        <summary type="html"><![CDATA[5 preken over Jona]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39283426X?aid=kb-online-bibliotheek&sid=19&dts=1767932597254&sig=f790467e4d8a305842309a5d29486002112e184cb11f487f0cf9fce55759fcbe&width=320" alt="Omslag van 'Het heil is des Heeren'" title="Omslag van 'Het heil is des Heeren'">
-<p>Deze bundel over het Bijbelboek Jona bevat vijf niet eerder uitgegeven preken van ds. C. Smits. Thema’s die aan de orde komen zijn: 1. Een grote vis door God beschikt (Jona 2:10) 2. In grote benauwdheid (Jona 2:1-4) 3. Een gebed in het ingewand van de vis (Jona 2:5-9) 4. Jona’s gang naar Ninevé (Jona 3:1-4) 5. Een koninklijk edict (Jona 3:5-9) De preken getuigen van Gods opzoekende zondaarsliefde, zowel voor het goddeloze Ninevé als voor Zijn kind en knecht Jona, die het zo verzondigd had. De preken kenmerken zich door het Schriftuurlijke, bevindelijke onderwijs. Deze bundel is deel 2 in de serie Nalezing. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>C. Smits</name>
         </author>
     </entry>
     <entry>
@@ -159,13 +159,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[God wil dat je gezond bent]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456714669/god-wil-dat-je-gezond-bent-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456714669/god-wil-dat-je-gezond-bent-andrew-wommack"/>
-        <updated>2026-01-09T07:20:41.547Z</updated>
-        <summary type="html"><![CDATA[Wat de Bijbel werkelijk zegt over wandelen in goddelijke gezondheid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714669?aid=kb-online-bibliotheek&sid=19&dts=1767932596956&sig=149b55fb5f6899a44c32b74f8a86436141741bf8ce57b5ff4914a0840648041a&width=320" alt="Omslag van 'God wil dat je gezond bent'" title="Omslag van 'God wil dat je gezond bent'">
-<p>Christus betaalde voor de genezing van ons lichaam net zo volledig als Hij betaalde voor de vergeving van onze zonde. Veel mensen vinden het moeilijk om te geloven dat het Gods wil is dat zij gezond zijn. Misschien lijden zij zelf of kijken zij naar een geliefde die veel ziekte en pijn moet doorstaan. In elk geval raken zij ontmoedigd als het erop lijkt dat hun gebeden onbeantwoord blijven. Vervolgens trekken zij de conclusie dat God toestaat dat dit gebeurt, of nog erger, dat Hij de veroorzaker is. Beide ideeën zijn onterecht en twijfelen aan de goedheid van God. In dit boek deelt Andrew de waarheid waarin Gods onvoorwaardelijke liefde en genade reeds heeft voorzien. Genezing is een groot deel van deze voorziening. Hij beantwoordt heel veel vragen inclusief de vraag over Paulus' doorn in het vlees, de soevereiniteit van God en nog veel meer vragen. Als jij, of iemand die je kent, genezing nodig heeft, dan is dit boek voor jou. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De ware aard van God]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456714561/de-ware-aard-van-god-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456714561/de-ware-aard-van-god-andrew-wommack"/>
+        <updated>2026-01-09T07:20:42.131Z</updated>
+        <summary type="html"><![CDATA[Het belang en de betekenis van het begrijpen van Gods karakter]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714561?aid=kb-online-bibliotheek&sid=19&dts=1767943241934&sig=f0e2d1089d12838ed39005392aea517625b355234853da37b2deb5c6e0df8444&width=320" alt="Omslag van 'De ware aard van God'" title="Omslag van 'De ware aard van God'">
+<p>"Ik heb geprobeerd om aan Gods verwachting te voldoen om een perfect mens te zijn, maar het lukt me niet, ik geef het op." "Ik weet dat God van mij houdt, maar het schijnt alsof Hij nooit mijn gebeden beantwoord." "Ik doe alles wat de Bijbel zegt, dus waarom heeft God mij dan niet gezegend zoals Hij heeft beloofd?" "Is God schizofreen? De Bijbel is vol tegenstrijdigheden." Vragen en opmerkingen zoals deze noodzaakten Andrew Wommack om dit uit te leggen door eenvoudige begrippen te introduceren in dit boek. Dikwijls wordt de ware aard van God in het christendom overschaduwd door menselijke opvattingen en handelswijzen -terwijl God niets anders wil dan samen met Zijn kinderen delen in een intieme vriendschap. Als je jezelf afvraagt wie God is, of Hij zich om jou bekommert, laat Andrew Wommack je dan de ware aard van God tonen. Andrew Wommack: "Ik geloof dat de enige reden waarom jij en ik zo weinig van God gehouden hebben is omdat Hij in een verkeerd daglicht is geplaatst en wij het niet begrepen hebben." </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genade de kracht van het evangelie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456714898/genade-de-kracht-van-het-evangelie-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456714898/genade-de-kracht-van-het-evangelie-andrew-wommack"/>
+        <updated>2026-01-09T07:20:43.388Z</updated>
+        <summary type="html"><![CDATA[Het is niet wat jij doet, maar wat Jezus deed]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714898?aid=kb-online-bibliotheek&sid=19&dts=1767932596527&sig=dafacd8a239360e7aead05687ff7a76c838c96a7f9911c85d2a51956dcfc294d&width=320" alt="Omslag van 'Genade de kracht van het evangelie'" title="Omslag van 'Genade de kracht van het evangelie'">
+<p>Genade, de kracht van het Evangelie Uit recent gehouden enquêtes blijkt dat de overgrote meerderheid van de christenen die beweren dat zij wedergeboren zijn, geloven dat hun heil op z'n minst afhankelijk is van hun gedrag en van hun daden. Ja... zij geloven dat Jezus stierf voor hun zonden, maar zij denken dat zij vanaf het moment dat zij Hem hebben aanvaard als hun Redder, aan bepaalde normen moeten voldoen om 'goed genoeg' te zijn. Als dat waar is, wat is dan die norm en hoe weet je wanneer je eraan voldoet? Eeuwenlang heeft de kerk geprobeerd om deze vragen te beantwoorden, maar het heeft altijd geresulteerd in religieuze wettische onderwerping. Dus wat is het antwoord? Het begint met het stellen van de juiste vraag. Het is niet: 'Wat moeten wij doen?' maar wij moeten vragen: 'Wat heeft Jezus gedaan?' Door de openbaring te begrijpen die apostel Paulus had uit het boek Romeinen -van wat Jezus heeft gedaan- zult je nooit meer jezelf afvragen of je aan de norm voldoet </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -178,18 +190,6 @@
         <summary type="html"><![CDATA[Neem geen genoegen met minder]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714472?aid=kb-online-bibliotheek&sid=19&dts=1767932596959&sig=c96668d31985434dab5551a4f55100686694620cb2e1d0d6cc5a3ce0dd50f206&width=320" alt="Omslag van 'Leef vanuit het beste van God'" title="Omslag van 'Leef vanuit het beste van God'">
 <p>Goddelijke gezondheid en voorspoed zijn beter dan Goddelijke genezing en voorziening. Als je leeft in Goddelijke gezondheid en voorspoed, heb je geen wonder nodig om genezen te worden of om je rekeningen te betalen. Als je het verschil tussen die twee niet begrijpt, dan is dat misschien een reden waarom je alleen maar op visite gaat bij het beste van God in plaats van erin te wonen. De meeste christenen bevinden zich in een situatie waar het slechts een kwestie van tijd is voordat er zich weer een crisis voordoet en zij een wonder nodig hebben. Jij denkt dat het misschien prachtig is om van wonder tot wonder te leven, maar dat betekent tegelijkertijd dat je van de ene crisis in de andere gaat! Wonderen zijn prachtig als je er een nodig hebt, maar het is nooit de bedoeling geweest dat je je er voortdurend mee zou redden. God wil jouw situatie veranderen. Leer van Andrew hoe je vandaag kunt leven vanuit het beste van wat God voor je heeft! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrew Wommack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De ware aard van God]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456714561/de-ware-aard-van-god-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456714561/de-ware-aard-van-god-andrew-wommack"/>
-        <updated>2026-01-09T07:20:42.131Z</updated>
-        <summary type="html"><![CDATA[Het belang en de betekenis van het begrijpen van Gods karakter]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714561?aid=kb-online-bibliotheek&sid=19&dts=1767943241934&sig=f0e2d1089d12838ed39005392aea517625b355234853da37b2deb5c6e0df8444&width=320" alt="Omslag van 'De ware aard van God'" title="Omslag van 'De ware aard van God'">
-<p>"Ik heb geprobeerd om aan Gods verwachting te voldoen om een perfect mens te zijn, maar het lukt me niet, ik geef het op." "Ik weet dat God van mij houdt, maar het schijnt alsof Hij nooit mijn gebeden beantwoord." "Ik doe alles wat de Bijbel zegt, dus waarom heeft God mij dan niet gezegend zoals Hij heeft beloofd?" "Is God schizofreen? De Bijbel is vol tegenstrijdigheden." Vragen en opmerkingen zoals deze noodzaakten Andrew Wommack om dit uit te leggen door eenvoudige begrippen te introduceren in dit boek. Dikwijls wordt de ware aard van God in het christendom overschaduwd door menselijke opvattingen en handelswijzen -terwijl God niets anders wil dan samen met Zijn kinderen delen in een intieme vriendschap. Als je jezelf afvraagt wie God is, of Hij zich om jou bekommert, laat Andrew Wommack je dan de ware aard van God tonen. Andrew Wommack: "Ik geloof dat de enige reden waarom jij en ik zo weinig van God gehouden hebben is omdat Hij in een verkeerd daglicht is geplaatst en wij het niet begrepen hebben." </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -230,36 +230,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Genade de kracht van het evangelie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456714898/genade-de-kracht-van-het-evangelie-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456714898/genade-de-kracht-van-het-evangelie-andrew-wommack"/>
-        <updated>2026-01-09T07:20:43.388Z</updated>
-        <summary type="html"><![CDATA[Het is niet wat jij doet, maar wat Jezus deed]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714898?aid=kb-online-bibliotheek&sid=19&dts=1767932596527&sig=dafacd8a239360e7aead05687ff7a76c838c96a7f9911c85d2a51956dcfc294d&width=320" alt="Omslag van 'Genade de kracht van het evangelie'" title="Omslag van 'Genade de kracht van het evangelie'">
-<p>Genade, de kracht van het Evangelie Uit recent gehouden enquêtes blijkt dat de overgrote meerderheid van de christenen die beweren dat zij wedergeboren zijn, geloven dat hun heil op z'n minst afhankelijk is van hun gedrag en van hun daden. Ja... zij geloven dat Jezus stierf voor hun zonden, maar zij denken dat zij vanaf het moment dat zij Hem hebben aanvaard als hun Redder, aan bepaalde normen moeten voldoen om 'goed genoeg' te zijn. Als dat waar is, wat is dan die norm en hoe weet je wanneer je eraan voldoet? Eeuwenlang heeft de kerk geprobeerd om deze vragen te beantwoorden, maar het heeft altijd geresulteerd in religieuze wettische onderwerping. Dus wat is het antwoord? Het begint met het stellen van de juiste vraag. Het is niet: 'Wat moeten wij doen?' maar wij moeten vragen: 'Wat heeft Jezus gedaan?' Door de openbaring te begrijpen die apostel Paulus had uit het boek Romeinen -van wat Jezus heeft gedaan- zult je nooit meer jezelf afvragen of je aan de norm voldoet </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrew Wommack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vind, volg en vervul Gods wil]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435508865/vind--volg-en-vervul-gods-wil-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435508865/vind--volg-en-vervul-gods-wil-andrew-wommack"/>
-        <updated>2026-01-09T07:20:43.785Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435508865?aid=kb-online-bibliotheek&sid=19&dts=1767943243565&sig=1f7405db8d6049eb63dc65e5907ef345a98e3988703d81e9140d436ffc182968&width=320" alt="Omslag van 'Vind, volg en vervul Gods wil'" title="Omslag van 'Vind, volg en vervul Gods wil'">
-<p>De meeste mensen leven zonder doel, ze weten niet wat God met hun leven wil. Velen geloven zelfs dat je Gods wil niet kunt kennen - dat Hij in Zijn soevereiniteit Zijn wil zal laten gebeuren, ongeacht wat jij doet. Dit idee weerhoudt christenen er al sinds mensenheugenis van om Gods plan te leren kennen en Zijn wil te volgen. Maar dat hoeft niet zo te blijven. God heeft je met een specifiek doel geschapen, en het goede nieuws is dat Hij wil dat je ontdekt wat Zijn plan voor jou is. Maar alleen Gods wil ontdekken is niet voldoende. Om naar Zijn wil te leven, moet je weten welke rol jij daarin speelt. Het zal je misschien verbazen dat het volgen van de verlangens van jouw hart er een belangrijk onderdeel van uitmaakt. Tegelijk moeten we leren Zijn wil te onderscheiden van onze eigen ik-gerichte verlangens. Een van de belangrijkste lessen is dat je Gods wil niet kunt vervullen zoals jij dat maar wilt. Gods kracht en timing en jouw gehoorzaamheid en geduld zijn slechts een paar van de benodigdheden. Dit boek legt dit en nog veel meer uit, inclusief hoe Andrew Gods wil voor zijn leven heeft gevonden, gevolgd en vervuld. Dit zal jou op weg helpen om precies hetzelfde te doen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrew Wommack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De kracht van verbeelding]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435165119/de-kracht-van-verbeelding-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435165119/de-kracht-van-verbeelding-andrew-wommack"/>
-        <updated>2026-01-09T07:20:44.118Z</updated>
-        <summary type="html"><![CDATA[ontdek hoe jij van God kunt ontvangen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435165119?aid=kb-online-bibliotheek&sid=19&dts=1767943243901&sig=a5fceee67af6b87bc5d767d45cef8b3f1a50c50507ac4dfe26e96b454b81f882&width=320" alt="Omslag van 'De kracht van verbeelding'" title="Omslag van 'De kracht van verbeelding'">
-<p>Het gebeurt te vaak dat gelovigen bidden voor genezing, maar die genezing nooit ervaren. We bidden voor voorspoed, maar ontvangen die nooit. Hoe komt dat? Omdat we niet begrijpen hoe we de kracht van verbeelding gebruiken op een manier zoals God het bedoeld heeft. We zien onszelf niet gezond. We zien onszelf niet voorspoedig. We zien onszelf niet als overwinnaars. In De kracht van verbeelding zal Andrew Wommack je helpen ontdekken wat de kracht is van je verbeelding en je uitleggen hoe je je voorstellingsvermogen kunt gebruiken om een hoopvolle toekomst te ervaren. Zonder deze kracht zal je Gods plan voor je leven niet kunnen vervullen. Omstandigheden en problemen zullen het je moeilijk maken, maar met de kracht van verbeelding ben je in staat te overwinnen! Onderschat nooit de kracht van je verbeelding! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[God wil dat je gezond bent]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456714669/god-wil-dat-je-gezond-bent-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456714669/god-wil-dat-je-gezond-bent-andrew-wommack"/>
+        <updated>2026-01-09T07:20:41.547Z</updated>
+        <summary type="html"><![CDATA[Wat de Bijbel werkelijk zegt over wandelen in goddelijke gezondheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714669?aid=kb-online-bibliotheek&sid=19&dts=1767932596956&sig=149b55fb5f6899a44c32b74f8a86436141741bf8ce57b5ff4914a0840648041a&width=320" alt="Omslag van 'God wil dat je gezond bent'" title="Omslag van 'God wil dat je gezond bent'">
+<p>Christus betaalde voor de genezing van ons lichaam net zo volledig als Hij betaalde voor de vergeving van onze zonde. Veel mensen vinden het moeilijk om te geloven dat het Gods wil is dat zij gezond zijn. Misschien lijden zij zelf of kijken zij naar een geliefde die veel ziekte en pijn moet doorstaan. In elk geval raken zij ontmoedigd als het erop lijkt dat hun gebeden onbeantwoord blijven. Vervolgens trekken zij de conclusie dat God toestaat dat dit gebeurt, of nog erger, dat Hij de veroorzaker is. Beide ideeën zijn onterecht en twijfelen aan de goedheid van God. In dit boek deelt Andrew de waarheid waarin Gods onvoorwaardelijke liefde en genade reeds heeft voorzien. Genezing is een groot deel van deze voorziening. Hij beantwoordt heel veel vragen inclusief de vraag over Paulus' doorn in het vlees, de soevereiniteit van God en nog veel meer vragen. Als jij, of iemand die je kent, genezing nodig heeft, dan is dit boek voor jou. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -277,6 +254,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De kracht van verbeelding]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435165119/de-kracht-van-verbeelding-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435165119/de-kracht-van-verbeelding-andrew-wommack"/>
+        <updated>2026-01-09T07:20:44.118Z</updated>
+        <summary type="html"><![CDATA[ontdek hoe jij van God kunt ontvangen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435165119?aid=kb-online-bibliotheek&sid=19&dts=1767943243901&sig=a5fceee67af6b87bc5d767d45cef8b3f1a50c50507ac4dfe26e96b454b81f882&width=320" alt="Omslag van 'De kracht van verbeelding'" title="Omslag van 'De kracht van verbeelding'">
+<p>Het gebeurt te vaak dat gelovigen bidden voor genezing, maar die genezing nooit ervaren. We bidden voor voorspoed, maar ontvangen die nooit. Hoe komt dat? Omdat we niet begrijpen hoe we de kracht van verbeelding gebruiken op een manier zoals God het bedoeld heeft. We zien onszelf niet gezond. We zien onszelf niet voorspoedig. We zien onszelf niet als overwinnaars. In De kracht van verbeelding zal Andrew Wommack je helpen ontdekken wat de kracht is van je verbeelding en je uitleggen hoe je je voorstellingsvermogen kunt gebruiken om een hoopvolle toekomst te ervaren. Zonder deze kracht zal je Gods plan voor je leven niet kunnen vervullen. Omstandigheden en problemen zullen het je moeilijk maken, maar met de kracht van verbeelding ben je in staat te overwinnen! Onderschat nooit de kracht van je verbeelding! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wie heeft je verteld dat je naakt bent?]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/435508873/wie-heeft-je-verteld-dat-je-naakt-bent--andrew-wommack</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/435508873/wie-heeft-je-verteld-dat-je-naakt-bent--andrew-wommack"/>
@@ -289,24 +278,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De oorlog is voorbij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436769808/de-oorlog-is-voorbij-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436769808/de-oorlog-is-voorbij-andrew-wommack"/>
-        <updated>2026-01-09T07:20:45.091Z</updated>
-        <summary type="html"><![CDATA[God is niet boos, dus worstel niet langer met zonde en oordeel]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436769808?aid=kb-online-bibliotheek&sid=19&dts=1767943244885&sig=3b03b01350b7135006831c495d2f9ac9e6616b46bfd4a7719af0aded9d9a6f0e&width=320" alt="Omslag van 'De oorlog is voorbij'" title="Omslag van 'De oorlog is voorbij'">
-<p>Het langste conflict duurde 4000 jaar en eindigde in een beslissende overwinning ongeveer 2000 jaar geleden. Toch hebben heel veel mensen dit nieuws nog nooit gehoord, waardoor ze constant oorlog voeren, een worsteling met zonde en oordeel. Aan het Kruis riep Jezus uit: "Het is volbracht", de overwinning was verklaard, en de verzoening begon. Deze overwinning was beloofd toen Jezus werd geboren en de engelen verkondigden: "Eer zij aan God in de hoogste hemelen, en vrede op aarde, in mensen een welbehagen." (Lukas 2:14) Zegt dit dat Jezus kwam om vrede tussen de mensen te brengen? Als dat het geval is, dan heeft Hij ogenschijnlijk gefaald. De vrede waar Hij over sprak, ging niet over vrede brengen tussen mensen, maar tussen God en mensen. Zonde is niet langer het probleem; de prijs werd voor eens en voor altijd betaald. God zond Zijn enige Zoon om onze zonden te dragen, door Zelf zonde te worden. Vervolgens werd alle oordeel over Hem uitgestort zonder dat er genade was voor die zonde. Was Zijn offer genoeg voor jou? Zou God Zijn zegen achterhouden vanwege jouw zonden? Als jij met een onbeleden zonde sterft, ben je dan verloren? De antwoorden in dit boek zullen je vrijmaken van elke veroordeling, geen vonnis zal over jou uitgesproken worden, en je zult vrij zijn van angst. Je zult vrij zijn om de beloofde zegeningen van God in ontvangst te nemen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrew Wommack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geef leiding aan je emoties]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435149741/geef-leiding-aan-je-emoties-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435149741/geef-leiding-aan-je-emoties-andrew-wommack"/>
-        <updated>2026-01-09T07:20:45.333Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435149741?aid=kb-online-bibliotheek&sid=19&dts=1767941924568&sig=7d80f49f5a6994317e186d0c7a6cb1dee03e33217f2b210bf2259da10b67df94&width=320" alt="Omslag van 'Geef leiding aan je emoties'" title="Omslag van 'Geef leiding aan je emoties'">
-<p>Emoties zijn: - bedoeld om van te genieten; - gemaakt tot ons nut; - bedoeld om door ieder mens in goede banen te worden geleid. Zonder na te denken weet je waarschijnlijk nog precies de momenten te herinneren, waarop je ontzettend emotioneel was en bij de minste of geringste tegenslag of uitdaging je zelfbeheersing verloor. Daarna moest je erop terugkomen en je excuses maken voor het feit dat jouw emoties je de baas waren geworden. Dat is voorbij! Geef leiding aan je emoties leert ons hoe we verantwoordelijkheid voor onze emoties moeten nemen en onszelf onder controle kunnen hebben. Andrew Wommack deelt zijn eigen ervaringen, met inbegrip van zijn tijd in Vietnam. Hij laat ons zien waarom we emotionele problemen hebben, hij draagt oplossingen aan uit de Bijbel en vertelt ons waarom Gods antwoorden blijvende resultaten zullen bieden. Leiding geven aan je emoties is gemakkelijker gezegd dan gedaan, maar waar het om gaat, is: Het is mogelijk! Iedereen kan profiteren van dit boek. Er is niet een mens in staat om zijn emoties te negeren of te verwaarlozen en dan toch succesvol en voldaan te zijn in het leven. De waarheden uit Gods Woord in dit boek zullen ervoor zorgen dat je emoties en daden nooit meer hetzelfde zullen zijn! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Vind, volg en vervul Gods wil]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435508865/vind--volg-en-vervul-gods-wil-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435508865/vind--volg-en-vervul-gods-wil-andrew-wommack"/>
+        <updated>2026-01-09T07:20:43.785Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435508865?aid=kb-online-bibliotheek&sid=19&dts=1767943243565&sig=1f7405db8d6049eb63dc65e5907ef345a98e3988703d81e9140d436ffc182968&width=320" alt="Omslag van 'Vind, volg en vervul Gods wil'" title="Omslag van 'Vind, volg en vervul Gods wil'">
+<p>De meeste mensen leven zonder doel, ze weten niet wat God met hun leven wil. Velen geloven zelfs dat je Gods wil niet kunt kennen - dat Hij in Zijn soevereiniteit Zijn wil zal laten gebeuren, ongeacht wat jij doet. Dit idee weerhoudt christenen er al sinds mensenheugenis van om Gods plan te leren kennen en Zijn wil te volgen. Maar dat hoeft niet zo te blijven. God heeft je met een specifiek doel geschapen, en het goede nieuws is dat Hij wil dat je ontdekt wat Zijn plan voor jou is. Maar alleen Gods wil ontdekken is niet voldoende. Om naar Zijn wil te leven, moet je weten welke rol jij daarin speelt. Het zal je misschien verbazen dat het volgen van de verlangens van jouw hart er een belangrijk onderdeel van uitmaakt. Tegelijk moeten we leren Zijn wil te onderscheiden van onze eigen ik-gerichte verlangens. Een van de belangrijkste lessen is dat je Gods wil niet kunt vervullen zoals jij dat maar wilt. Gods kracht en timing en jouw gehoorzaamheid en geduld zijn slechts een paar van de benodigdheden. Dit boek legt dit en nog veel meer uit, inclusief hoe Andrew Gods wil voor zijn leven heeft gevonden, gevolgd en vervuld. Dit zal jou op weg helpen om precies hetzelfde te doen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -335,13 +312,24 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De autoriteit van de gelovige]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436769840/de-autoriteit-van-de-gelovige-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436769840/de-autoriteit-van-de-gelovige-andrew-wommack"/>
-        <updated>2026-01-09T07:20:46.203Z</updated>
-        <summary type="html"><![CDATA[Wat je niet leerde in de kerk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436769840?aid=kb-online-bibliotheek&sid=19&dts=1767941656060&sig=c37f0032fa2648bd074e66ab0eaa58654273fd542702e8377860e34930985fa4&width=320" alt="Omslag van 'De autoriteit van de gelovige'" title="Omslag van 'De autoriteit van de gelovige'">
-<p>Het omstreden onderwerp van de autoriteit van de gelovige in Christus wordt tegenwoordig wijd en zijd in kerkelijke gemeenten besproken. Andrew Wommack geeft een frisse kijk op deze belangrijke geestelijke waarheid. Het zal vragen bij je oproepen over wat je tot nu toe geleerd is, onder andere: 1. Als gelovige autoriteit hebben gekregen, hoe moet je dit dan gebruiken, wanneer gebruik je het, hoe gebruik je het en waarden gebruik je het? Ga er niet van uit dat je het antwoord al weet; ontdek het echt slagveld en leer hoe je de werkelijke vijand kunt herkennen. 2. De meeste mensen geloven dat God onze grootste vijand -satan- geschapen heeft, maar deed Hij dat? Als je het antwoord begrijpt, zal het je vrij maken om je autoriteit als gelovige te gebruiken. 3. Is geestelijke oorlogvoering, zoals dat in veel kerkelijke gemeenten tegenwoordig onderwezen wordt, steekhoudend? Kunnen gelovigen hun autoriteit gebruiken om tegen de duivel en zijn demonen in de lucht te vechten, of vindt de echte strijd in het denken plaats? Het antwoord is een belangrijke voorwaarde om geestelijke veldslagen te winnen. Al gravend in de Schrift legt Andrew de geestelijke betekenis bloot van de keuzes die je maakt, je woorden en daden, en hoe zij van invloed zijn op jouw vermogen om de aanvallen van satan te weerstaan en Gods beste te ontvangen. Ontdek de krachtige waarheden achter echte geestelijke autoriteit en begin resultaat te zien die reëel zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De oorlog is voorbij]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436769808/de-oorlog-is-voorbij-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436769808/de-oorlog-is-voorbij-andrew-wommack"/>
+        <updated>2026-01-09T07:20:45.091Z</updated>
+        <summary type="html"><![CDATA[God is niet boos, dus worstel niet langer met zonde en oordeel]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436769808?aid=kb-online-bibliotheek&sid=19&dts=1767943244885&sig=3b03b01350b7135006831c495d2f9ac9e6616b46bfd4a7719af0aded9d9a6f0e&width=320" alt="Omslag van 'De oorlog is voorbij'" title="Omslag van 'De oorlog is voorbij'">
+<p>Het langste conflict duurde 4000 jaar en eindigde in een beslissende overwinning ongeveer 2000 jaar geleden. Toch hebben heel veel mensen dit nieuws nog nooit gehoord, waardoor ze constant oorlog voeren, een worsteling met zonde en oordeel. Aan het Kruis riep Jezus uit: "Het is volbracht", de overwinning was verklaard, en de verzoening begon. Deze overwinning was beloofd toen Jezus werd geboren en de engelen verkondigden: "Eer zij aan God in de hoogste hemelen, en vrede op aarde, in mensen een welbehagen." (Lukas 2:14) Zegt dit dat Jezus kwam om vrede tussen de mensen te brengen? Als dat het geval is, dan heeft Hij ogenschijnlijk gefaald. De vrede waar Hij over sprak, ging niet over vrede brengen tussen mensen, maar tussen God en mensen. Zonde is niet langer het probleem; de prijs werd voor eens en voor altijd betaald. God zond Zijn enige Zoon om onze zonden te dragen, door Zelf zonde te worden. Vervolgens werd alle oordeel over Hem uitgestort zonder dat er genade was voor die zonde. Was Zijn offer genoeg voor jou? Zou God Zijn zegen achterhouden vanwege jouw zonden? Als jij met een onbeleden zonde sterft, ben je dan verloren? De antwoorden in dit boek zullen je vrijmaken van elke veroordeling, geen vonnis zal over jou uitgesproken worden, en je zult vrij zijn van angst. Je zult vrij zijn om de beloofde zegeningen van God in ontvangst te nemen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geef leiding aan je emoties]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435149741/geef-leiding-aan-je-emoties-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435149741/geef-leiding-aan-je-emoties-andrew-wommack"/>
+        <updated>2026-01-09T07:20:45.333Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435149741?aid=kb-online-bibliotheek&sid=19&dts=1767941924568&sig=7d80f49f5a6994317e186d0c7a6cb1dee03e33217f2b210bf2259da10b67df94&width=320" alt="Omslag van 'Geef leiding aan je emoties'" title="Omslag van 'Geef leiding aan je emoties'">
+<p>Emoties zijn: - bedoeld om van te genieten; - gemaakt tot ons nut; - bedoeld om door ieder mens in goede banen te worden geleid. Zonder na te denken weet je waarschijnlijk nog precies de momenten te herinneren, waarop je ontzettend emotioneel was en bij de minste of geringste tegenslag of uitdaging je zelfbeheersing verloor. Daarna moest je erop terugkomen en je excuses maken voor het feit dat jouw emoties je de baas waren geworden. Dat is voorbij! Geef leiding aan je emoties leert ons hoe we verantwoordelijkheid voor onze emoties moeten nemen en onszelf onder controle kunnen hebben. Andrew Wommack deelt zijn eigen ervaringen, met inbegrip van zijn tijd in Vietnam. Hij laat ons zien waarom we emotionele problemen hebben, hij draagt oplossingen aan uit de Bijbel en vertelt ons waarom Gods antwoorden blijvende resultaten zullen bieden. Leiding geven aan je emoties is gemakkelijker gezegd dan gedaan, maar waar het om gaat, is: Het is mogelijk! Iedereen kan profiteren van dit boek. Er is niet een mens in staat om zijn emoties te negeren of te verwaarlozen en dan toch succesvol en voldaan te zijn in het leven. De waarheden uit Gods Woord in dit boek zullen ervoor zorgen dat je emoties en daden nooit meer hetzelfde zullen zijn! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -354,6 +342,18 @@
         <summary type="html"><![CDATA[Verander je denken en verander je leven]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435149598?aid=kb-online-bibliotheek&sid=19&dts=1767943246309&sig=3c4d2860457772f769cd134cca6c9852c08469a1590b2e02461f92d33d03311a&width=320" alt="Omslag van 'Inleiding tot God wil dat je gezond bent'" title="Omslag van 'Inleiding tot God wil dat je gezond bent'">
 <p>Wat je denkt te weten, kan je wellicht doden. Geloof in verkeerde ideeën kan je ziek maken, je ziek houden, je ellende verhogen en zelfs de dood veroorzaken. Het veranderen van je overtuigingen kan de deur openen naar een hele nieuwe wereld vol mogelijkheden. Dit boek heet: 'God wil dat jij gezond bent'. Mensen denken op verschillende manieren over God - sommige van hun ideeën zijn waar, terwijl andere onjuist zijn. Sommige ideeën brengen ziekte voort; andere brengen gezondheid en genezing voort. Wij geloven dat de hele Bijbel door God geïnspireerd is om de waarheid aan de wereld te openbaren. De genezende ideeën die in dit boekje worden benadrukt, komen uit de Bijbel. Weinig mensen lezen ooit de Bijbel, maar sommigen die dat wel doen komen met heel verschillende ideeën en overtuigingen. Hoe weet je welke waar zijn? Welke zijn van God? We stellen voor dat je ze aan deze toets onderwerpt: brengt het idee of geloof leven, licht, liefde en genezing teweeg? Als dat zo is, dan is dat het bewijs dat het idee van God komt, omdat dat Zijn ware aard is zoals geopenbaard in de Bijbel. Dat is waarom we zoveel genezingsverhalen met jullie delen; ze wijzen je in de goede richting. Elk van de genezingen in dit boekje is voortgekomen uit iemands levenslange studie van de Bijbel. Zijn naam is Andrew Wommack en de vruchten van zijn lessen zijn verbazingwekkend geweest. Duizenden mensen hebben genezing ontvangen en nog veel meer. Ze worden bevrijd en in staat gesteld om vreugde, voldoening en zingeving te ervaren voor de rest van hun leven. Wij hopen dat dit boekje slechts het begin zal zijn van een prachtige relatie met God en dat je zal groeien in de zegeningen van het kennen van de ene ware God. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De autoriteit van de gelovige]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436769840/de-autoriteit-van-de-gelovige-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436769840/de-autoriteit-van-de-gelovige-andrew-wommack"/>
+        <updated>2026-01-09T07:20:46.203Z</updated>
+        <summary type="html"><![CDATA[Wat je niet leerde in de kerk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436769840?aid=kb-online-bibliotheek&sid=19&dts=1767941656060&sig=c37f0032fa2648bd074e66ab0eaa58654273fd542702e8377860e34930985fa4&width=320" alt="Omslag van 'De autoriteit van de gelovige'" title="Omslag van 'De autoriteit van de gelovige'">
+<p>Het omstreden onderwerp van de autoriteit van de gelovige in Christus wordt tegenwoordig wijd en zijd in kerkelijke gemeenten besproken. Andrew Wommack geeft een frisse kijk op deze belangrijke geestelijke waarheid. Het zal vragen bij je oproepen over wat je tot nu toe geleerd is, onder andere: 1. Als gelovige autoriteit hebben gekregen, hoe moet je dit dan gebruiken, wanneer gebruik je het, hoe gebruik je het en waarden gebruik je het? Ga er niet van uit dat je het antwoord al weet; ontdek het echt slagveld en leer hoe je de werkelijke vijand kunt herkennen. 2. De meeste mensen geloven dat God onze grootste vijand -satan- geschapen heeft, maar deed Hij dat? Als je het antwoord begrijpt, zal het je vrij maken om je autoriteit als gelovige te gebruiken. 3. Is geestelijke oorlogvoering, zoals dat in veel kerkelijke gemeenten tegenwoordig onderwezen wordt, steekhoudend? Kunnen gelovigen hun autoriteit gebruiken om tegen de duivel en zijn demonen in de lucht te vechten, of vindt de echte strijd in het denken plaats? Het antwoord is een belangrijke voorwaarde om geestelijke veldslagen te winnen. Al gravend in de Schrift legt Andrew de geestelijke betekenis bloot van de keuzes die je maakt, je woorden en daden, en hoe zij van invloed zijn op jouw vermogen om de aanvallen van satan te weerstaan en Gods beste te ontvangen. Ontdek de krachtige waarheden achter echte geestelijke autoriteit en begin resultaat te zien die reëel zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
