@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-01-10T07:14:13.772Z</updated>
+    <updated>2026-01-11T07:16:08.562Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -51,6 +51,18 @@
         <summary type="html"><![CDATA[thriller]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442929609?aid=kb-online-bibliotheek&sid=19&dts=1767932596826&sig=b3fccb33c01c6b375827a04ed80dd73fc9beaf622599e07bc48ddfda87088178&width=320" alt="Omslag van 'Koel water'" title="Omslag van 'Koel water'">
 <p>De charismatische leider van een vastgoedkantoor wordt na een werkfeest levenloos aangetroffen in zijn bed. Een rechercheur wordt op de zaak gezet en ontrafelt een web van bedrog en corruptie.</p>]]></content>
+        <author>
+            <name>Julienne Brouwers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gouden kooi]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446937185/gouden-kooi-julienne-brouwers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446937185/gouden-kooi-julienne-brouwers"/>
+        <updated>2026-01-11T07:16:08.561Z</updated>
+        <summary type="html"><![CDATA[Wat als je perfecte leven een leugen blijkt?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446937185?aid=kb-online-bibliotheek&sid=19&dts=1768115768064&sig=efb532defb9d8cbc00fd206a3e6a5f6be6e8b0340a3ff5c28b53a25f7a89dce5&width=320" alt="Omslag van 'Gouden kooi'" title="Omslag van 'Gouden kooi'">
+<p>Genomineerd voor de Thrillzone award beste Nederlandstalige thriller van 2025.</p><p> Als succesvol journalist leidt Laurien samen met haar charmante man Boudewijn en hun drie jonge kinderen het ideale leven in een villawijk in Wassenaar. Tot ze op een ochtend een telefoontje krijgt dat haar dochter Fleur niet op school is verschenen. Een zoektocht die begint met panische ongerustheid, eindigt in een gruwelijke ontdekking.</p><p> Forensisch rechercheur Amber de Witt en haar partner John bijten zich vast in de zaak, maar stuiten op een muur van stilzwijgen en schone schijn. Een onverwachte DNA-match en een mysterieuze zegelring leiden hen steeds dieper in de gesloten wereld van oude Wassenaarse families.</p><p>Wanneer Laurien zelf op onderzoek gaat, ontdekt ze dat haar perfecte leven barsten vertoont die dieper gaan dan ze ooit had kunnen vermoeden. Achter de façades van de statige villa’s die haar omringen schuilen donkere geheimen. En iemand is bereid ver te gaan om die verborgen te houden.</p><p>Gouden kooi is deel 2 in de Amber de Witt serie. Alle delen zijn ook los te lezen.</p><p> Een psychologische thriller over hoe het genadeloos najagen van status en succes iemand tot het uiterste kan drijven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Julienne Brouwers</name>
         </author>
@@ -137,17 +149,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De verdediging van het gereformeerde kerkmodel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/409232785/de-verdediging-van-het-gereformeerde-kerkmodel-antoine-de-la-roche-chandieu</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/409232785/de-verdediging-van-het-gereformeerde-kerkmodel-antoine-de-la-roche-chandieu"/>
-        <updated>2026-01-09T07:20:40.659Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A409232785?aid=kb-online-bibliotheek&sid=19&dts=1767943240127&sig=e25b259bdc0fd4f42c2baae2837556e121cb50d8542df5cd3bc76dcd3f3531f1&width=320" alt="Omslag van 'De verdediging van het gereformeerde kerkmodel'" title="Omslag van 'De verdediging van het gereformeerde kerkmodel'">
-<p>Midden in de zestiende eeuw ontstaan in Frankrijk gezelschappen die verlangen naar een persoonlijker omgang met God en een nieuwe vorm van kerkzijn. Daaruit ontstaat náást de katholieke een gereformeerde kerk. Op hun eerste nationale synode te Parijs in 1559 ontwerpen de Franse gereformeerden een kerkorde en geloofsbelijdenis, die als voorbeelden zouden dienen voor de gereformeerde kerk in de Nederlanden. Nauw betrokken bij het ontstaan van de Franse kerkorde is de edelman Antoine de la Roche Chandieu (1534-1591). Met De verdediging van het gereformeerde kerkmodel kiest hij positie in de heftige discussie over de plaats van het gewone gemeentelid binnen het presbyteriaal-synodale kerkmodel. Dr. H.A. Speelman laat aan zijn vertaling een boeiende inleiding voorafgaan over de inhoud en achtergrond van dit werk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Antoine de La Roche Chandieu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Erasmus Sarcerius' Pastorale (1559) en de vorming van predikanten in de zestiende eeuw]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/408636998/erasmus-sarcerius--pastorale--1559--en-de-vorming-van-predikanten-in-de-zestiende-eeuw-c-t--de-groot</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/408636998/erasmus-sarcerius--pastorale--1559--en-de-vorming-van-predikanten-in-de-zestiende-eeuw-c-t--de-groot"/>
@@ -159,15 +160,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De ware aard van God]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456714561/de-ware-aard-van-god-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456714561/de-ware-aard-van-god-andrew-wommack"/>
-        <updated>2026-01-09T07:20:42.131Z</updated>
-        <summary type="html"><![CDATA[Het belang en de betekenis van het begrijpen van Gods karakter]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714561?aid=kb-online-bibliotheek&sid=19&dts=1767943241934&sig=f0e2d1089d12838ed39005392aea517625b355234853da37b2deb5c6e0df8444&width=320" alt="Omslag van 'De ware aard van God'" title="Omslag van 'De ware aard van God'">
-<p>"Ik heb geprobeerd om aan Gods verwachting te voldoen om een perfect mens te zijn, maar het lukt me niet, ik geef het op." "Ik weet dat God van mij houdt, maar het schijnt alsof Hij nooit mijn gebeden beantwoord." "Ik doe alles wat de Bijbel zegt, dus waarom heeft God mij dan niet gezegend zoals Hij heeft beloofd?" "Is God schizofreen? De Bijbel is vol tegenstrijdigheden." Vragen en opmerkingen zoals deze noodzaakten Andrew Wommack om dit uit te leggen door eenvoudige begrippen te introduceren in dit boek. Dikwijls wordt de ware aard van God in het christendom overschaduwd door menselijke opvattingen en handelswijzen -terwijl God niets anders wil dan samen met Zijn kinderen delen in een intieme vriendschap. Als je jezelf afvraagt wie God is, of Hij zich om jou bekommert, laat Andrew Wommack je dan de ware aard van God tonen. Andrew Wommack: "Ik geloof dat de enige reden waarom jij en ik zo weinig van God gehouden hebben is omdat Hij in een verkeerd daglicht is geplaatst en wij het niet begrepen hebben." </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De verdediging van het gereformeerde kerkmodel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/409232785/de-verdediging-van-het-gereformeerde-kerkmodel-antoine-de-la-roche-chandieu</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/409232785/de-verdediging-van-het-gereformeerde-kerkmodel-antoine-de-la-roche-chandieu"/>
+        <updated>2026-01-09T07:20:40.659Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A409232785?aid=kb-online-bibliotheek&sid=19&dts=1767943240127&sig=e25b259bdc0fd4f42c2baae2837556e121cb50d8542df5cd3bc76dcd3f3531f1&width=320" alt="Omslag van 'De verdediging van het gereformeerde kerkmodel'" title="Omslag van 'De verdediging van het gereformeerde kerkmodel'">
+<p>Midden in de zestiende eeuw ontstaan in Frankrijk gezelschappen die verlangen naar een persoonlijker omgang met God en een nieuwe vorm van kerkzijn. Daaruit ontstaat náást de katholieke een gereformeerde kerk. Op hun eerste nationale synode te Parijs in 1559 ontwerpen de Franse gereformeerden een kerkorde en geloofsbelijdenis, die als voorbeelden zouden dienen voor de gereformeerde kerk in de Nederlanden. Nauw betrokken bij het ontstaan van de Franse kerkorde is de edelman Antoine de la Roche Chandieu (1534-1591). Met De verdediging van het gereformeerde kerkmodel kiest hij positie in de heftige discussie over de plaats van het gewone gemeentelid binnen het presbyteriaal-synodale kerkmodel. Dr. H.A. Speelman laat aan zijn vertaling een boeiende inleiding voorafgaan over de inhoud en achtergrond van dit werk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Andrew Wommack</name>
+            <name>Antoine de La Roche Chandieu</name>
         </author>
     </entry>
     <entry>
@@ -178,30 +178,6 @@
         <summary type="html"><![CDATA[Het is niet wat jij doet, maar wat Jezus deed]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714898?aid=kb-online-bibliotheek&sid=19&dts=1767932596527&sig=dafacd8a239360e7aead05687ff7a76c838c96a7f9911c85d2a51956dcfc294d&width=320" alt="Omslag van 'Genade de kracht van het evangelie'" title="Omslag van 'Genade de kracht van het evangelie'">
 <p>Genade, de kracht van het Evangelie Uit recent gehouden enquêtes blijkt dat de overgrote meerderheid van de christenen die beweren dat zij wedergeboren zijn, geloven dat hun heil op z'n minst afhankelijk is van hun gedrag en van hun daden. Ja... zij geloven dat Jezus stierf voor hun zonden, maar zij denken dat zij vanaf het moment dat zij Hem hebben aanvaard als hun Redder, aan bepaalde normen moeten voldoen om 'goed genoeg' te zijn. Als dat waar is, wat is dan die norm en hoe weet je wanneer je eraan voldoet? Eeuwenlang heeft de kerk geprobeerd om deze vragen te beantwoorden, maar het heeft altijd geresulteerd in religieuze wettische onderwerping. Dus wat is het antwoord? Het begint met het stellen van de juiste vraag. Het is niet: 'Wat moeten wij doen?' maar wij moeten vragen: 'Wat heeft Jezus gedaan?' Door de openbaring te begrijpen die apostel Paulus had uit het boek Romeinen -van wat Jezus heeft gedaan- zult je nooit meer jezelf afvragen of je aan de norm voldoet </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrew Wommack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leef vanuit het beste van God]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456714472/leef-vanuit-het-beste-van-god-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456714472/leef-vanuit-het-beste-van-god-andrew-wommack"/>
-        <updated>2026-01-09T07:20:41.820Z</updated>
-        <summary type="html"><![CDATA[Neem geen genoegen met minder]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714472?aid=kb-online-bibliotheek&sid=19&dts=1767932596959&sig=c96668d31985434dab5551a4f55100686694620cb2e1d0d6cc5a3ce0dd50f206&width=320" alt="Omslag van 'Leef vanuit het beste van God'" title="Omslag van 'Leef vanuit het beste van God'">
-<p>Goddelijke gezondheid en voorspoed zijn beter dan Goddelijke genezing en voorziening. Als je leeft in Goddelijke gezondheid en voorspoed, heb je geen wonder nodig om genezen te worden of om je rekeningen te betalen. Als je het verschil tussen die twee niet begrijpt, dan is dat misschien een reden waarom je alleen maar op visite gaat bij het beste van God in plaats van erin te wonen. De meeste christenen bevinden zich in een situatie waar het slechts een kwestie van tijd is voordat er zich weer een crisis voordoet en zij een wonder nodig hebben. Jij denkt dat het misschien prachtig is om van wonder tot wonder te leven, maar dat betekent tegelijkertijd dat je van de ene crisis in de andere gaat! Wonderen zijn prachtig als je er een nodig hebt, maar het is nooit de bedoeling geweest dat je je er voortdurend mee zou redden. God wil jouw situatie veranderen. Leer van Andrew hoe je vandaag kunt leven vanuit het beste van wat God voor je heeft! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrew Wommack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moeiteloos veranderen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456714960/moeiteloos-veranderen-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456714960/moeiteloos-veranderen-andrew-wommack"/>
-        <updated>2026-01-09T07:20:42.442Z</updated>
-        <summary type="html"><![CDATA[Het Woord is het zaad dat je leven kan veranderen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714960?aid=kb-online-bibliotheek&sid=19&dts=1767943242226&sig=6daa393e1b5502921bd72d8152f613f337a33574bcd4ee96cf9d82d5ac93e451&width=320" alt="Omslag van 'Moeiteloos veranderen'" title="Omslag van 'Moeiteloos veranderen'">
-<p>Het Woord van God is als zaad en jouw hart is de grond. De meeste christenen willen verandering in een bepaald gebied van hun leven. Zij blijven maar proberen die veranderingen door te voeren, maar merken al gauw dat zij in dezelfde gewoonten en gedragspatronen terugvallen. Zelfdiscipline en zelfbeheersing hebben hen opnieuw in de steek gelaten. Dus hoe komt blijvende verandering tot stand? Een rups worstelt niet om een vlinder in de cocon te worden. Zaad streeft er niet naar om een boom te worden en vrucht voort te brengen. Zij doen eenvoudig waar zij door God voor ontworpen zijn om te doen, en de verandering vindt plaats, moeiteloos. Het Woord van God is als zaad en jouw hart is de grond. Wanneer het geplant is en gevoed wordt in de grond van jouw hart, begint het te groeien. Het resultaat is transformatie; en de vrucht wordt voor iedereen zichtbaar. Als jij echte verandering in jouw leven wilt, is dit boek voor jou! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -219,12 +195,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De ware aard van God]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456714561/de-ware-aard-van-god-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456714561/de-ware-aard-van-god-andrew-wommack"/>
+        <updated>2026-01-09T07:20:42.131Z</updated>
+        <summary type="html"><![CDATA[Het belang en de betekenis van het begrijpen van Gods karakter]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714561?aid=kb-online-bibliotheek&sid=19&dts=1767943241934&sig=f0e2d1089d12838ed39005392aea517625b355234853da37b2deb5c6e0df8444&width=320" alt="Omslag van 'De ware aard van God'" title="Omslag van 'De ware aard van God'">
+<p>"Ik heb geprobeerd om aan Gods verwachting te voldoen om een perfect mens te zijn, maar het lukt me niet, ik geef het op." "Ik weet dat God van mij houdt, maar het schijnt alsof Hij nooit mijn gebeden beantwoord." "Ik doe alles wat de Bijbel zegt, dus waarom heeft God mij dan niet gezegend zoals Hij heeft beloofd?" "Is God schizofreen? De Bijbel is vol tegenstrijdigheden." Vragen en opmerkingen zoals deze noodzaakten Andrew Wommack om dit uit te leggen door eenvoudige begrippen te introduceren in dit boek. Dikwijls wordt de ware aard van God in het christendom overschaduwd door menselijke opvattingen en handelswijzen -terwijl God niets anders wil dan samen met Zijn kinderen delen in een intieme vriendschap. Als je jezelf afvraagt wie God is, of Hij zich om jou bekommert, laat Andrew Wommack je dan de ware aard van God tonen. Andrew Wommack: "Ik geloof dat de enige reden waarom jij en ik zo weinig van God gehouden hebben is omdat Hij in een verkeerd daglicht is geplaatst en wij het niet begrepen hebben." </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Geest, ziel & lichaam Studiegids]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/45671491X/geest--ziel---lichaam-studiegids-andrew-wommack</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/45671491X/geest--ziel---lichaam-studiegids-andrew-wommack"/>
         <updated>2026-01-09T07:20:43.157Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45671491X?aid=kb-online-bibliotheek&sid=19&dts=1767943242967&sig=341654bcb34014063dc81819a549e802ea5fb31c622cfd4bb84034d3b3d80e2e&width=320" alt="Omslag van 'Geest, ziel & lichaam Studiegids'" title="Omslag van 'Geest, ziel & lichaam Studiegids'">
 <p>Of je nu één enkele les geeft, een kleine groep mensen onderwijst, iemand discipelt, of Geest, ziel & lichaam voor persoonlijke studie doorneemt, deze studiegids is voor jou ontworpen! Elk hoofdstuk bestaat uit een les, een samenvatting, instructies voor de lesgever, vragen over discipelschap, een sectie met de juiste antwoorden, en Bijbelteksten. De samenvatting en vragen over discipelschap kunnen gratis worden gedownload als aanvullend materiaal dat bij deze studiegids hoort. Gebruik dit om zoveel kopieën te maken als er nodig zijn voor jouw groep. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moeiteloos veranderen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456714960/moeiteloos-veranderen-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456714960/moeiteloos-veranderen-andrew-wommack"/>
+        <updated>2026-01-09T07:20:42.442Z</updated>
+        <summary type="html"><![CDATA[Het Woord is het zaad dat je leven kan veranderen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714960?aid=kb-online-bibliotheek&sid=19&dts=1767943242226&sig=6daa393e1b5502921bd72d8152f613f337a33574bcd4ee96cf9d82d5ac93e451&width=320" alt="Omslag van 'Moeiteloos veranderen'" title="Omslag van 'Moeiteloos veranderen'">
+<p>Het Woord van God is als zaad en jouw hart is de grond. De meeste christenen willen verandering in een bepaald gebied van hun leven. Zij blijven maar proberen die veranderingen door te voeren, maar merken al gauw dat zij in dezelfde gewoonten en gedragspatronen terugvallen. Zelfdiscipline en zelfbeheersing hebben hen opnieuw in de steek gelaten. Dus hoe komt blijvende verandering tot stand? Een rups worstelt niet om een vlinder in de cocon te worden. Zaad streeft er niet naar om een boom te worden en vrucht voort te brengen. Zij doen eenvoudig waar zij door God voor ontworpen zijn om te doen, en de verandering vindt plaats, moeiteloos. Het Woord van God is als zaad en jouw hart is de grond. Wanneer het geplant is en gevoed wordt in de grond van jouw hart, begint het te groeien. Het resultaat is transformatie; en de vrucht wordt voor iedereen zichtbaar. Als jij echte verandering in jouw leven wilt, is dit boek voor jou! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -242,13 +242,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uitmuntendheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435508881/uitmuntendheid-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435508881/uitmuntendheid-andrew-wommack"/>
-        <updated>2026-01-09T07:20:44.445Z</updated>
-        <summary type="html"><![CDATA[hoe je een uitmuntende geest nastreeft]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435508881?aid=kb-online-bibliotheek&sid=19&dts=1767943244227&sig=a9ca284a6174d2ea984e5f4236aeed1797305cbdeaf98baab11aa37d7ea0405e&width=320" alt="Omslag van 'Uitmuntendheid'" title="Omslag van 'Uitmuntendheid'">
-<p>Als je eerlijk bent, geef je toe dat je in het leven gepromoveerd wilt worden. Je wilt de voordelen van succes, invloed en welvaart, en daar is niets mis mee. Dat is wat God ook voor jou wil! Promotie komt zelfs van God, en hoewel het afhankelijk is van wat God van iedere persoon vraagt, is het beschikbaar voor elke wedergeboren gelovige! Maar hoewel promotie van God komt, is het niet God Die bepaalt of je gepromoveerd wordt of niet. Dat ben jij. Jij kiest ervoor om gepromoveerd te worden, door ervoor te kiezen een uitmuntende geest te ontwikkelen, en in dit boek zal Andrew Wommack je laten zien hoe. Identiteit in Christus, ware nederigheid, volledige gehoorzaamheid, volharding en een compromisloos standpunt over Gods Woord behoren tot de belangrijkste kenmerken van uitmuntendheid. Aan de hand van voorbeelden uit het leven van Daniël en zijn vrienden, en uit zijn eigen leven, schetst Andrew de belangrijkste kenmerken van uitmuntendheid, waaronder identiteit in Christus, ware nederigheid, volledige gehoorzaamheid, volharding en een compromisloos standpunt over Gods woord. Andrew legt daarentegen ook de gevaren uit van morele relativiteit en mensen behagen, en hoe deze kenmerken gelovigen vaak verlagen naar een leven van middelmatigheid en onmacht. Persoonlijk talent, schoonheid, onderwijs en intelligentie zorgen ook niet voor promotie; het is een toegewijde relatie met God. Het maakt niet uit hoeveel geld je verdient of waar je woont; het maakt niet uit welke connecties je hebt of wat de kleur van je huid is; het is een uitmuntende geest die de ware bepalende factor voor je promotie zal zijn. Laat het boek van Andrew je aanmoedigen om uitmuntendheid na te streven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Leef vanuit het beste van God]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456714472/leef-vanuit-het-beste-van-god-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456714472/leef-vanuit-het-beste-van-god-andrew-wommack"/>
+        <updated>2026-01-09T07:20:41.820Z</updated>
+        <summary type="html"><![CDATA[Neem geen genoegen met minder]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456714472?aid=kb-online-bibliotheek&sid=19&dts=1767932596959&sig=c96668d31985434dab5551a4f55100686694620cb2e1d0d6cc5a3ce0dd50f206&width=320" alt="Omslag van 'Leef vanuit het beste van God'" title="Omslag van 'Leef vanuit het beste van God'">
+<p>Goddelijke gezondheid en voorspoed zijn beter dan Goddelijke genezing en voorziening. Als je leeft in Goddelijke gezondheid en voorspoed, heb je geen wonder nodig om genezen te worden of om je rekeningen te betalen. Als je het verschil tussen die twee niet begrijpt, dan is dat misschien een reden waarom je alleen maar op visite gaat bij het beste van God in plaats van erin te wonen. De meeste christenen bevinden zich in een situatie waar het slechts een kwestie van tijd is voordat er zich weer een crisis voordoet en zij een wonder nodig hebben. Jij denkt dat het misschien prachtig is om van wonder tot wonder te leven, maar dat betekent tegelijkertijd dat je van de ene crisis in de andere gaat! Wonderen zijn prachtig als je er een nodig hebt, maar het is nooit de bedoeling geweest dat je je er voortdurend mee zou redden. God wil jouw situatie veranderen. Leer van Andrew hoe je vandaag kunt leven vanuit het beste van wat God voor je heeft! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -261,6 +261,18 @@
         <summary type="html"><![CDATA[ontdek hoe jij van God kunt ontvangen]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435165119?aid=kb-online-bibliotheek&sid=19&dts=1767943243901&sig=a5fceee67af6b87bc5d767d45cef8b3f1a50c50507ac4dfe26e96b454b81f882&width=320" alt="Omslag van 'De kracht van verbeelding'" title="Omslag van 'De kracht van verbeelding'">
 <p>Het gebeurt te vaak dat gelovigen bidden voor genezing, maar die genezing nooit ervaren. We bidden voor voorspoed, maar ontvangen die nooit. Hoe komt dat? Omdat we niet begrijpen hoe we de kracht van verbeelding gebruiken op een manier zoals God het bedoeld heeft. We zien onszelf niet gezond. We zien onszelf niet voorspoedig. We zien onszelf niet als overwinnaars. In De kracht van verbeelding zal Andrew Wommack je helpen ontdekken wat de kracht is van je verbeelding en je uitleggen hoe je je voorstellingsvermogen kunt gebruiken om een hoopvolle toekomst te ervaren. Zonder deze kracht zal je Gods plan voor je leven niet kunnen vervullen. Omstandigheden en problemen zullen het je moeilijk maken, maar met de kracht van verbeelding ben je in staat te overwinnen! Onderschat nooit de kracht van je verbeelding! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uitmuntendheid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435508881/uitmuntendheid-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435508881/uitmuntendheid-andrew-wommack"/>
+        <updated>2026-01-09T07:20:44.445Z</updated>
+        <summary type="html"><![CDATA[hoe je een uitmuntende geest nastreeft]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435508881?aid=kb-online-bibliotheek&sid=19&dts=1767943244227&sig=a9ca284a6174d2ea984e5f4236aeed1797305cbdeaf98baab11aa37d7ea0405e&width=320" alt="Omslag van 'Uitmuntendheid'" title="Omslag van 'Uitmuntendheid'">
+<p>Als je eerlijk bent, geef je toe dat je in het leven gepromoveerd wilt worden. Je wilt de voordelen van succes, invloed en welvaart, en daar is niets mis mee. Dat is wat God ook voor jou wil! Promotie komt zelfs van God, en hoewel het afhankelijk is van wat God van iedere persoon vraagt, is het beschikbaar voor elke wedergeboren gelovige! Maar hoewel promotie van God komt, is het niet God Die bepaalt of je gepromoveerd wordt of niet. Dat ben jij. Jij kiest ervoor om gepromoveerd te worden, door ervoor te kiezen een uitmuntende geest te ontwikkelen, en in dit boek zal Andrew Wommack je laten zien hoe. Identiteit in Christus, ware nederigheid, volledige gehoorzaamheid, volharding en een compromisloos standpunt over Gods Woord behoren tot de belangrijkste kenmerken van uitmuntendheid. Aan de hand van voorbeelden uit het leven van Daniël en zijn vrienden, en uit zijn eigen leven, schetst Andrew de belangrijkste kenmerken van uitmuntendheid, waaronder identiteit in Christus, ware nederigheid, volledige gehoorzaamheid, volharding en een compromisloos standpunt over Gods woord. Andrew legt daarentegen ook de gevaren uit van morele relativiteit en mensen behagen, en hoe deze kenmerken gelovigen vaak verlagen naar een leven van middelmatigheid en onmacht. Persoonlijk talent, schoonheid, onderwijs en intelligentie zorgen ook niet voor promotie; het is een toegewijde relatie met God. Het maakt niet uit hoeveel geld je verdient of waar je woont; het maakt niet uit welke connecties je hebt of wat de kleur van je huid is; het is een uitmuntende geest die de ware bepalende factor voor je promotie zal zijn. Laat het boek van Andrew je aanmoedigen om uitmuntendheid na te streven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -284,17 +296,6 @@
         <updated>2026-01-09T07:20:43.785Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435508865?aid=kb-online-bibliotheek&sid=19&dts=1767943243565&sig=1f7405db8d6049eb63dc65e5907ef345a98e3988703d81e9140d436ffc182968&width=320" alt="Omslag van 'Vind, volg en vervul Gods wil'" title="Omslag van 'Vind, volg en vervul Gods wil'">
 <p>De meeste mensen leven zonder doel, ze weten niet wat God met hun leven wil. Velen geloven zelfs dat je Gods wil niet kunt kennen - dat Hij in Zijn soevereiniteit Zijn wil zal laten gebeuren, ongeacht wat jij doet. Dit idee weerhoudt christenen er al sinds mensenheugenis van om Gods plan te leren kennen en Zijn wil te volgen. Maar dat hoeft niet zo te blijven. God heeft je met een specifiek doel geschapen, en het goede nieuws is dat Hij wil dat je ontdekt wat Zijn plan voor jou is. Maar alleen Gods wil ontdekken is niet voldoende. Om naar Zijn wil te leven, moet je weten welke rol jij daarin speelt. Het zal je misschien verbazen dat het volgen van de verlangens van jouw hart er een belangrijk onderdeel van uitmaakt. Tegelijk moeten we leren Zijn wil te onderscheiden van onze eigen ik-gerichte verlangens. Een van de belangrijkste lessen is dat je Gods wil niet kunt vervullen zoals jij dat maar wilt. Gods kracht en timing en jouw gehoorzaamheid en geduld zijn slechts een paar van de benodigdheden. Dit boek legt dit en nog veel meer uit, inclusief hoe Andrew Gods wil voor zijn leven heeft gevonden, gevolgd en vervuld. Dit zal jou op weg helpen om precies hetzelfde te doen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrew Wommack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geest, ziel & lichaam]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435149776/geest--ziel---lichaam-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435149776/geest--ziel---lichaam-andrew-wommack"/>
-        <updated>2026-01-09T07:20:45.651Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435149776?aid=kb-online-bibliotheek&sid=19&dts=1767943245444&sig=23341917f7057b7dbc744129b7934ee8c3c5955ad1b6844d00a681b2f5e76878&width=320" alt="Omslag van 'Geest, ziel & lichaam'" title="Omslag van 'Geest, ziel & lichaam'">
-<p>Heb je je ooit afgevraagd wat veranderende toen je 'opnieuw geboren' werd? Je kijkt in de spiegel en ziet dezelfde reflectie - je lichaam is niet veranderd. Je merkt dat je je op dezelfde manier gedraagt en voor dezelfde oude verleidingen bezwijkt - die ook niet leken te veranderen. Dus vraag je je af, is er werkelijk iets veranderd? Het correcte antwoord op die vraag is essentieel voor het ontvangen van God. Als je dit fundamentele begrip niet hebt, zul je je voor altijd onzekere vragen stellen als: 'Hoe kan God van iemand als ik houden?' en 'Hoe kan ik ooit hopen iets van de Heer te ontvangen? Ik verdien het niet, ik ben niet goed genoeg'. Geest, Ziel & Lichaam zal je helpen die en andere onzekere vragen die jouw geloof vernietigen te elimineren. Als je een probleem hebt om van God te ontvangen, moet je dit boek lezen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
@@ -324,6 +325,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Geest, ziel & lichaam]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435149776/geest--ziel---lichaam-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435149776/geest--ziel---lichaam-andrew-wommack"/>
+        <updated>2026-01-09T07:20:45.651Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435149776?aid=kb-online-bibliotheek&sid=19&dts=1767943245444&sig=23341917f7057b7dbc744129b7934ee8c3c5955ad1b6844d00a681b2f5e76878&width=320" alt="Omslag van 'Geest, ziel & lichaam'" title="Omslag van 'Geest, ziel & lichaam'">
+<p>Heb je je ooit afgevraagd wat veranderende toen je 'opnieuw geboren' werd? Je kijkt in de spiegel en ziet dezelfde reflectie - je lichaam is niet veranderd. Je merkt dat je je op dezelfde manier gedraagt en voor dezelfde oude verleidingen bezwijkt - die ook niet leken te veranderen. Dus vraag je je af, is er werkelijk iets veranderd? Het correcte antwoord op die vraag is essentieel voor het ontvangen van God. Als je dit fundamentele begrip niet hebt, zul je je voor altijd onzekere vragen stellen als: 'Hoe kan God van iemand als ik houden?' en 'Hoe kan ik ooit hopen iets van de Heer te ontvangen? Ik verdien het niet, ik ben niet goed genoeg'. Geest, Ziel & Lichaam zal je helpen die en andere onzekere vragen die jouw geloof vernietigen te elimineren. Als je een probleem hebt om van God te ontvangen, moet je dit boek lezen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Geef leiding aan je emoties]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/435149741/geef-leiding-aan-je-emoties-andrew-wommack</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/435149741/geef-leiding-aan-je-emoties-andrew-wommack"/>
@@ -342,18 +354,6 @@
         <summary type="html"><![CDATA[Verander je denken en verander je leven]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435149598?aid=kb-online-bibliotheek&sid=19&dts=1767943246309&sig=3c4d2860457772f769cd134cca6c9852c08469a1590b2e02461f92d33d03311a&width=320" alt="Omslag van 'Inleiding tot God wil dat je gezond bent'" title="Omslag van 'Inleiding tot God wil dat je gezond bent'">
 <p>Wat je denkt te weten, kan je wellicht doden. Geloof in verkeerde ideeën kan je ziek maken, je ziek houden, je ellende verhogen en zelfs de dood veroorzaken. Het veranderen van je overtuigingen kan de deur openen naar een hele nieuwe wereld vol mogelijkheden. Dit boek heet: 'God wil dat jij gezond bent'. Mensen denken op verschillende manieren over God - sommige van hun ideeën zijn waar, terwijl andere onjuist zijn. Sommige ideeën brengen ziekte voort; andere brengen gezondheid en genezing voort. Wij geloven dat de hele Bijbel door God geïnspireerd is om de waarheid aan de wereld te openbaren. De genezende ideeën die in dit boekje worden benadrukt, komen uit de Bijbel. Weinig mensen lezen ooit de Bijbel, maar sommigen die dat wel doen komen met heel verschillende ideeën en overtuigingen. Hoe weet je welke waar zijn? Welke zijn van God? We stellen voor dat je ze aan deze toets onderwerpt: brengt het idee of geloof leven, licht, liefde en genezing teweeg? Als dat zo is, dan is dat het bewijs dat het idee van God komt, omdat dat Zijn ware aard is zoals geopenbaard in de Bijbel. Dat is waarom we zoveel genezingsverhalen met jullie delen; ze wijzen je in de goede richting. Elk van de genezingen in dit boekje is voortgekomen uit iemands levenslange studie van de Bijbel. Zijn naam is Andrew Wommack en de vruchten van zijn lessen zijn verbazingwekkend geweest. Duizenden mensen hebben genezing ontvangen en nog veel meer. Ze worden bevrijd en in staat gesteld om vreugde, voldoening en zingeving te ervaren voor de rest van hun leven. Wij hopen dat dit boekje slechts het begin zal zijn van een prachtige relatie met God en dat je zal groeien in de zegeningen van het kennen van de ene ware God. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrew Wommack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De autoriteit van de gelovige]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436769840/de-autoriteit-van-de-gelovige-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436769840/de-autoriteit-van-de-gelovige-andrew-wommack"/>
-        <updated>2026-01-09T07:20:46.203Z</updated>
-        <summary type="html"><![CDATA[Wat je niet leerde in de kerk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436769840?aid=kb-online-bibliotheek&sid=19&dts=1767941656060&sig=c37f0032fa2648bd074e66ab0eaa58654273fd542702e8377860e34930985fa4&width=320" alt="Omslag van 'De autoriteit van de gelovige'" title="Omslag van 'De autoriteit van de gelovige'">
-<p>Het omstreden onderwerp van de autoriteit van de gelovige in Christus wordt tegenwoordig wijd en zijd in kerkelijke gemeenten besproken. Andrew Wommack geeft een frisse kijk op deze belangrijke geestelijke waarheid. Het zal vragen bij je oproepen over wat je tot nu toe geleerd is, onder andere: 1. Als gelovige autoriteit hebben gekregen, hoe moet je dit dan gebruiken, wanneer gebruik je het, hoe gebruik je het en waarden gebruik je het? Ga er niet van uit dat je het antwoord al weet; ontdek het echt slagveld en leer hoe je de werkelijke vijand kunt herkennen. 2. De meeste mensen geloven dat God onze grootste vijand -satan- geschapen heeft, maar deed Hij dat? Als je het antwoord begrijpt, zal het je vrij maken om je autoriteit als gelovige te gebruiken. 3. Is geestelijke oorlogvoering, zoals dat in veel kerkelijke gemeenten tegenwoordig onderwezen wordt, steekhoudend? Kunnen gelovigen hun autoriteit gebruiken om tegen de duivel en zijn demonen in de lucht te vechten, of vindt de echte strijd in het denken plaats? Het antwoord is een belangrijke voorwaarde om geestelijke veldslagen te winnen. Al gravend in de Schrift legt Andrew de geestelijke betekenis bloot van de keuzes die je maakt, je woorden en daden, en hoe zij van invloed zijn op jouw vermogen om de aanvallen van satan te weerstaan en Gods beste te ontvangen. Ontdek de krachtige waarheden achter echte geestelijke autoriteit en begin resultaat te zien die reëel zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
