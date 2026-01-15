@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-01-14T07:20:20.103Z</updated>
+    <updated>2026-01-15T07:20:23.844Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
-    <entry>
-        <title type="html"><![CDATA[Basta! Er is echt alleen maar liefde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456734171/basta--er-is-echt-alleen-maar-liefde-jolanda-tijmstra</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456734171/basta--er-is-echt-alleen-maar-liefde-jolanda-tijmstra"/>
-        <updated>2026-01-14T07:20:07.699Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456734171?aid=kb-online-bibliotheek&sid=19&dts=1768363405406&sig=d98c73df7fede2313bd227eec01dca189991dd0dc175602299a129dcafef34f6&width=320" alt="Omslag van 'Basta! Er is echt alleen maar liefde'" title="Omslag van 'Basta! Er is echt alleen maar liefde'">
-<p>Basta! Er is écht alleen maar liefde is het ontroerende verhaal over een moeder en dochter, die de weg terugvinden naar elkaar middels vergeving en liefde. Zelfs als dat onmogelijk lijkt. Als Jolanda na een jarenlange radiostilte weer contact opneemt met haar moeder, blijkt zij ongeneeslijk ziek. Tijdens haar ziekbed wordt duidelijk hoeveel pijn er zit in de relatie tussen moeder en dochter. Jolanda worstelt nog altijd met de gevolgen van seksueel misbruik door haar stiefvader en de rol die haar moeder daarin speelde. Tijdens de laatste maanden van haar moeders leven lukt het haar hierover in gesprek te gaan en zo de knellende keten van pijn en destructiviteit in de familie te doorbreken. Basta! Er is écht alleen maar liefde is het ontroerende verhaal over hoe een moeder en dochter de weg terugvinden naar vergeving en liefde. Jolanda laat met haar autobiografie zien dat geen pijn te diep is om te kunnen helen en geen afstand te groot om te overbruggen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jolanda Tijmstra</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ik, de ander]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/45673418X/ik--de-ander-jante-wortel</id>
@@ -38,6 +27,17 @@
 <p>Zonder zichtbare aanleg voor reizen gaan Frank Heinen en zijn vriendin (om onverklaarbare redenen ook wel dr. Pompsky genoemd) op pad: naar Italië, Noord-Frankrijk, naar China. Aangewezen op elkaar, in het schemergebied tussen afzien en vakantie, worstelend met tandwielen, menukaarten en onwillige pensionhouders, zijn ze op weg naar nergens.</p><p>  Reizen is onzin gaat over de wens samen iets mee te maken en over het probleem dat er bij ieder uitzicht altijd iemand voor gaat staan - meestal jijzelf.</p><p>  'Ik lees Frank Heinen altijd; hij is een van de beste schrijvers die we hebben, waar hij ook over schrijft. Hier zijn dat de reisavonturen van een stel met een talent om in treurige hotels terecht te komen. Heerlijk boek!' - Tim Krabbé</p><p></p><p>Frank Heinen  (1985) is schrijver, journalist en columnist voor onder meer de Volkskrant en NOS Studio Voetbal. Met zijn boeken over sport won hij verschillende prijzen. In 2025 won hij het jubileumseizoen van De Slimste Mens. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Frank Heinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basta! Er is echt alleen maar liefde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456734171/basta--er-is-echt-alleen-maar-liefde-jolanda-tijmstra</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456734171/basta--er-is-echt-alleen-maar-liefde-jolanda-tijmstra"/>
+        <updated>2026-01-14T07:20:07.699Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456734171?aid=kb-online-bibliotheek&sid=19&dts=1768363405406&sig=d98c73df7fede2313bd227eec01dca189991dd0dc175602299a129dcafef34f6&width=320" alt="Omslag van 'Basta! Er is echt alleen maar liefde'" title="Omslag van 'Basta! Er is echt alleen maar liefde'">
+<p>Basta! Er is écht alleen maar liefde is het ontroerende verhaal over een moeder en dochter, die de weg terugvinden naar elkaar middels vergeving en liefde. Zelfs als dat onmogelijk lijkt. Als Jolanda na een jarenlange radiostilte weer contact opneemt met haar moeder, blijkt zij ongeneeslijk ziek. Tijdens haar ziekbed wordt duidelijk hoeveel pijn er zit in de relatie tussen moeder en dochter. Jolanda worstelt nog altijd met de gevolgen van seksueel misbruik door haar stiefvader en de rol die haar moeder daarin speelde. Tijdens de laatste maanden van haar moeders leven lukt het haar hierover in gesprek te gaan en zo de knellende keten van pijn en destructiviteit in de familie te doorbreken. Basta! Er is écht alleen maar liefde is het ontroerende verhaal over hoe een moeder en dochter de weg terugvinden naar vergeving en liefde. Jolanda laat met haar autobiografie zien dat geen pijn te diep is om te kunnen helen en geen afstand te groot om te overbruggen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jolanda Tijmstra</name>
         </author>
     </entry>
     <entry>
@@ -119,18 +119,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scherper dan een tweesnijdend zwaard]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456734104/scherper-dan-een-tweesnijdend-zwaard-andrew-wommack</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456734104/scherper-dan-een-tweesnijdend-zwaard-andrew-wommack"/>
-        <updated>2026-01-14T07:20:09.885Z</updated>
-        <summary type="html"><![CDATA[Een samenvatting van zestien krachtige predikingen waardoor het leven van duizenden is veranderd]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456734104?aid=kb-online-bibliotheek&sid=19&dts=1768367910798&sig=5d9a2cb5a1ea7346f20ec3bf0c21117059c2291facac129f5893513f3ec0273e&width=320" alt="Omslag van 'Scherper dan een tweesnijdend zwaard'" title="Omslag van 'Scherper dan een tweesnijdend zwaard'">
-<p>Scherper dan een tweesnijdend zwaard is samengesteld uit samenvattingen van zestien van de meest gevraagde en belangrijke openbaringen die God mij gegeven heeft. Sommigen hebben dit een beknopt naslagwerk genoemd van mijn predikingen. Elk hoofdstuk behandelt een specifiek onderwerp in verkorte vorm. Dit maakt het veel eenvoudiger om te zien hoe deze waar­heden zowel betrekking hebben op elkaar, als afhankelijk zijn van elkaar. Bijvoorbeeld: Als je de genadeboodschap begrijpt, maar je hebt dit niet in evenwicht gebracht met geloof, dan zullen ze geen van beide doeltreffend in jouw leven werkzaam zijn. Ik wil je aanmoedigen om de tijd te nemen dit boek helemaal door te lezen, zodat je een globaal overzicht krijgt. Ga dan terug naar het begin en bestudeer het aanbevolen materiaal dat vermeld staat aan het eind van elk hoofdstuk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrew Wommack</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Leven in de balans tussen Genade & Geloof]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456734082/leven-in-de-balans-tussen-genade---geloof-andrew-wommack</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456734082/leven-in-de-balans-tussen-genade---geloof-andrew-wommack"/>
@@ -138,6 +126,18 @@
         <summary type="html"><![CDATA[Twee sterke krachten samengevoegd om van God te ontvangen]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456734082?aid=kb-online-bibliotheek&sid=19&dts=1768375209970&sig=97ead4550b3b7a517aec1cd3d4d8e484d61573431edcd03b9179b378f67f4a52&width=320" alt="Omslag van 'Leven in de balans tussen Genade & Geloof'" title="Omslag van 'Leven in de balans tussen Genade & Geloof'">
 <p>Genade en geloof worden vaak gezien als krachten die lijnrecht tegenover elkaar staan. Aan de ene kant zijn er veel mensen die de nadruk leggen op Gods genade; zij geloven dat zodra ze gered zijn, de zegeningen van de Heer (vrede, genezing en voorspoed) uitgedeeld zullen worden naar Zijn soevereine wil. Aan de andere kant zijn er veel mensen die de nadruk leggen op geloof. Zij geloven dat wat we van God ontvangen van ons afhangt. Onze bereidheid om het Woord te bestuderen, te bidden en te vasten, naar de kerk te gaan en zelfs onze tiende te betalen, zal allemaal bepalend zijn voor Gods zegen in ons leven. Maar de echte waarheid ligt ergens in het midden. Genade en geloof zijn allebei onmisbare ingrediënten in onze wandel met de Heer. Als je echter op de ene de nadruk legt ten koste van de andere, dan zal - doordat er geen evenwicht is - het moeilijk zijn om van God te ontvangen. Dit gebrek aan begrip heeft geleid tot veel verwarring, frustratie en teleurstelling in het lichaam van Christus. De wereldwijd bekende bijbelleraar Andrew Wommack belicht vele van de misvattingen die hebben geleid tot deze schijnbaar tegenstrijdige opvattingen omtrent genade en geloof en onderwijst hoe je van God kunt ontvangen door ze met elkaar in balans te brengen. Als je moeite hebt met je relatie met God of met begrijpen waarom je gebeden niet beantwoord lijken te worden, dan is dit boek voor jou. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scherper dan een tweesnijdend zwaard]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456734104/scherper-dan-een-tweesnijdend-zwaard-andrew-wommack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456734104/scherper-dan-een-tweesnijdend-zwaard-andrew-wommack"/>
+        <updated>2026-01-14T07:20:09.885Z</updated>
+        <summary type="html"><![CDATA[Een samenvatting van zestien krachtige predikingen waardoor het leven van duizenden is veranderd]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456734104?aid=kb-online-bibliotheek&sid=19&dts=1768367910798&sig=5d9a2cb5a1ea7346f20ec3bf0c21117059c2291facac129f5893513f3ec0273e&width=320" alt="Omslag van 'Scherper dan een tweesnijdend zwaard'" title="Omslag van 'Scherper dan een tweesnijdend zwaard'">
+<p>Scherper dan een tweesnijdend zwaard is samengesteld uit samenvattingen van zestien van de meest gevraagde en belangrijke openbaringen die God mij gegeven heeft. Sommigen hebben dit een beknopt naslagwerk genoemd van mijn predikingen. Elk hoofdstuk behandelt een specifiek onderwerp in verkorte vorm. Dit maakt het veel eenvoudiger om te zien hoe deze waar­heden zowel betrekking hebben op elkaar, als afhankelijk zijn van elkaar. Bijvoorbeeld: Als je de genadeboodschap begrijpt, maar je hebt dit niet in evenwicht gebracht met geloof, dan zullen ze geen van beide doeltreffend in jouw leven werkzaam zijn. Ik wil je aanmoedigen om de tijd te nemen dit boek helemaal door te lezen, zodat je een globaal overzicht krijgt. Ga dan terug naar het begin en bestudeer het aanbevolen materiaal dat vermeld staat aan het eind van elk hoofdstuk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
         </author>
