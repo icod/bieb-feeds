@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-01-15T07:20:23.844Z</updated>
+    <updated>2026-01-16T07:20:06.392Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
-    <entry>
-        <title type="html"><![CDATA[Ik, de ander]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45673418X/ik--de-ander-jante-wortel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45673418X/ik--de-ander-jante-wortel"/>
-        <updated>2026-01-14T07:20:07.895Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45673418X?aid=kb-online-bibliotheek&sid=19&dts=1768363405396&sig=fdc94d47d7a6f945a58484e58fb323d2de5d354ff826cee42731f0ba5e93faa3&width=320" alt="Omslag van 'Ik, de ander'" title="Omslag van 'Ik, de ander'">
-<p>Hij zegt dat hij haar het liefst zou willen opsluiten. Ergens waar niemand bij haar kan, alleen hij. Hij vraagt of het haar beangstigt dat hij dat zegt. Ze zegt nee, en dat meent ze. Pas als hij een tijdje naar haar nek blijft staren en toegeeft dat hij soms de neiging heeft om haar daar net zo lang te bijten tot ze begint te bloeden, tot ze het uitschreeuwt van de pijn en hem smeekt om te stoppen, begint ze zich af te vragen of dit wel normaal is. Of het normaal is om zoiets uit te spreken, laat staan om het te voelen.</p><p>  In Ik, de ander trekt Jante Wortel je langzaam maar zeker mee in het drijfzand van een toxische relatie. Je blijft doorlezen omdat je wilt dat het stopt.</p><p>  Over haar debuut Weerlicht:</p><p>'Vaak moet je even naar adem happen.' - Het Parool</p><p>'Op het puntje van je stoel.' - ⭑⭑⭑⭑, NRC</p><p>'Zindert van onderhuids ongemak.' - ⭑⭑⭑⭑, De Telegraaf</p><p></p><p>Jante Wortel  (1996) debuteerde in 2022 met de roman Weerlicht die werd genomineerd voor De Bronzen Uil, Beste Boek voor Jongeren en de Hebban Debuutprijs. Ook werd ze opgenomen in 11 onder 35, een voorspelling van de literaire sterren van de toekomst door Marja Pruis. Ik, de ander is haar tweede roman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jante Wortel</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Reizen is onzin]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456734139/reizen-is-onzin-frank-heinen</id>
@@ -27,6 +16,17 @@
 <p>Zonder zichtbare aanleg voor reizen gaan Frank Heinen en zijn vriendin (om onverklaarbare redenen ook wel dr. Pompsky genoemd) op pad: naar Italië, Noord-Frankrijk, naar China. Aangewezen op elkaar, in het schemergebied tussen afzien en vakantie, worstelend met tandwielen, menukaarten en onwillige pensionhouders, zijn ze op weg naar nergens.</p><p>  Reizen is onzin gaat over de wens samen iets mee te maken en over het probleem dat er bij ieder uitzicht altijd iemand voor gaat staan - meestal jijzelf.</p><p>  'Ik lees Frank Heinen altijd; hij is een van de beste schrijvers die we hebben, waar hij ook over schrijft. Hier zijn dat de reisavonturen van een stel met een talent om in treurige hotels terecht te komen. Heerlijk boek!' - Tim Krabbé</p><p></p><p>Frank Heinen  (1985) is schrijver, journalist en columnist voor onder meer de Volkskrant en NOS Studio Voetbal. Met zijn boeken over sport won hij verschillende prijzen. In 2025 won hij het jubileumseizoen van De Slimste Mens. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Frank Heinen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ik, de ander]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45673418X/ik--de-ander-jante-wortel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45673418X/ik--de-ander-jante-wortel"/>
+        <updated>2026-01-14T07:20:07.895Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45673418X?aid=kb-online-bibliotheek&sid=19&dts=1768363405396&sig=fdc94d47d7a6f945a58484e58fb323d2de5d354ff826cee42731f0ba5e93faa3&width=320" alt="Omslag van 'Ik, de ander'" title="Omslag van 'Ik, de ander'">
+<p>Hij zegt dat hij haar het liefst zou willen opsluiten. Ergens waar niemand bij haar kan, alleen hij. Hij vraagt of het haar beangstigt dat hij dat zegt. Ze zegt nee, en dat meent ze. Pas als hij een tijdje naar haar nek blijft staren en toegeeft dat hij soms de neiging heeft om haar daar net zo lang te bijten tot ze begint te bloeden, tot ze het uitschreeuwt van de pijn en hem smeekt om te stoppen, begint ze zich af te vragen of dit wel normaal is. Of het normaal is om zoiets uit te spreken, laat staan om het te voelen.</p><p>  In Ik, de ander trekt Jante Wortel je langzaam maar zeker mee in het drijfzand van een toxische relatie. Je blijft doorlezen omdat je wilt dat het stopt.</p><p>  Over haar debuut Weerlicht:</p><p>'Vaak moet je even naar adem happen.' - Het Parool</p><p>'Op het puntje van je stoel.' - ⭑⭑⭑⭑, NRC</p><p>'Zindert van onderhuids ongemak.' - ⭑⭑⭑⭑, De Telegraaf</p><p></p><p>Jante Wortel  (1996) debuteerde in 2022 met de roman Weerlicht die werd genomineerd voor De Bronzen Uil, Beste Boek voor Jongeren en de Hebban Debuutprijs. Ook werd ze opgenomen in 11 onder 35, een voorspelling van de literaire sterren van de toekomst door Marja Pruis. Ik, de ander is haar tweede roman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jante Wortel</name>
         </author>
     </entry>
     <entry>
@@ -41,14 +41,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Als de dieren]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444724397/als-de-dieren-lieselot-mari%C3%ABn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444724397/als-de-dieren-lieselot-mari%C3%ABn"/>
-        <updated>2026-01-14T07:20:08.310Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444724397?aid=kb-online-bibliotheek&sid=19&dts=1768370217458&sig=aeed945d61f90f6a369c4c543a2244e1541803f395d1a5a8286d573fd09862de&width=320" alt="Omslag van 'Als de dieren'" title="Omslag van 'Als de dieren'">
-<p>In het twijfeldonker van onze kamer werd ik belaagd door gedachten zwart als kraaien, die hun rollende keelklanken in mijn schedel krasten en zwermend hun vleugels om mijn oren wiekten. Ze vlogen zo rakelings langs me heen dat ik de wind door hun veren hoorde suizen, als een scheur in het weefsel van de werkelijkheid.</p><p>Als de dieren is een poëtische zoektocht naar taal en betekenis, voor een ervaring die zich tegen beide verzet.</p><p> Lieselot Mariën  studeerde af in filosofie en rechten. Ze werkte achtereenvolgens in het theater, in de keuken en als advocaat. Tegenwoordig maakt ze audiodrama en -documentaires. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hannibal & Gideon]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444687661/hannibal---gideon-maarten-inghels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444687661/hannibal---gideon-maarten-inghels"/>
+        <updated>2026-01-14T07:20:08.753Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444687661?aid=kb-online-bibliotheek&sid=19&dts=1768367909738&sig=455034ea65eee209e4a4c9bce643680ba91b3b8bc07cc78e57a46c5ed01d1dbe&width=320" alt="Omslag van 'Hannibal & Gideon'" title="Omslag van 'Hannibal & Gideon'">
+<p>De olifant kijkt me aan, en tegelijkertijd door me heen. Ik houd de zwarte leiband vast, die losjes om zijn hals hangt. De riem is van leder maar het blijft een ketting. We moeten elkaar nog leren kennen. We hebben nog alle tijd.</p><p> Schrijver Maarten Inghels besluit om met een olifant het voetspoor te volgen van Hannibal Barkas, die in 218 voor Christus met zevenendertig olifanten over de Alpen trok om de Romeinse vijand in de rug aan te vallen. Tot op de dag van vandaag zijn er honderden boeken geschreven waarin wetenschappers debatteren over de juiste Alpenpas die Hannibal nam. Ook ondernamen meerdere avonturiers eerdere pogingen om deze mythische tocht te herbeleven.</p><p>Wat dreef deze mannen om met olifanten de bergen in te trekken, in het spoor van de beroemde krijgsheer? En is avontuur niet gewoon ene geprivilegieerde vorm van vluchten?</p><p>Leiband in de bezwete hand, met daaraan Gideon, een olifant uit een safaripark bij Lyon, begint Inghels aan de zware klim. Over tien dagen moet Italië in zicht zijn.</p><p> Maarten Inghels  is dichter, schrijver en beeldend kunstenaar. In 2021 verscheen zijn roman Het mirakel van België over zijn ervaringen met de grootste meesteroplichter ter wereld. Van 2016 tot 2018 was hij Stadsdichter van Antwerpen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lieselot Mariën</name>
+            <name>Maarten Inghels</name>
         </author>
     </entry>
     <entry>
@@ -63,17 +63,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hannibal & Gideon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444687661/hannibal---gideon-maarten-inghels</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444687661/hannibal---gideon-maarten-inghels"/>
-        <updated>2026-01-14T07:20:08.753Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444687661?aid=kb-online-bibliotheek&sid=19&dts=1768367909738&sig=455034ea65eee209e4a4c9bce643680ba91b3b8bc07cc78e57a46c5ed01d1dbe&width=320" alt="Omslag van 'Hannibal & Gideon'" title="Omslag van 'Hannibal & Gideon'">
-<p>De olifant kijkt me aan, en tegelijkertijd door me heen. Ik houd de zwarte leiband vast, die losjes om zijn hals hangt. De riem is van leder maar het blijft een ketting. We moeten elkaar nog leren kennen. We hebben nog alle tijd.</p><p> Schrijver Maarten Inghels besluit om met een olifant het voetspoor te volgen van Hannibal Barkas, die in 218 voor Christus met zevenendertig olifanten over de Alpen trok om de Romeinse vijand in de rug aan te vallen. Tot op de dag van vandaag zijn er honderden boeken geschreven waarin wetenschappers debatteren over de juiste Alpenpas die Hannibal nam. Ook ondernamen meerdere avonturiers eerdere pogingen om deze mythische tocht te herbeleven.</p><p>Wat dreef deze mannen om met olifanten de bergen in te trekken, in het spoor van de beroemde krijgsheer? En is avontuur niet gewoon ene geprivilegieerde vorm van vluchten?</p><p>Leiband in de bezwete hand, met daaraan Gideon, een olifant uit een safaripark bij Lyon, begint Inghels aan de zware klim. Over tien dagen moet Italië in zicht zijn.</p><p> Maarten Inghels  is dichter, schrijver en beeldend kunstenaar. In 2021 verscheen zijn roman Het mirakel van België over zijn ervaringen met de grootste meesteroplichter ter wereld. Van 2016 tot 2018 was hij Stadsdichter van Antwerpen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Maarten Inghels</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Het gore lef]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/448495023/het-gore-lef-sarah-arnolds</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/448495023/het-gore-lef-sarah-arnolds"/>
@@ -82,6 +71,17 @@
 <p>In de verhalen in Het gore lef wordt volop gelogen. Want een leugen is een geweldige manier om te ontsnappen aan de waarheid - die vaak te pijnlijk is, of te saai. En het is zo makkelijk. Iedereen kan het. Je liegt tegen je vrienden, je masseur, je ouders, je kinderen, je partner of tegen jezelf. Moeilijker is het om ermee op te houden.</p><p>  'De verhalen van Sarah Arnolds zijn geweldig goed. Schrijnend én mild, laconiek en tegelijk vol mysterie. Ze trekken kalm maar doelgericht je hoofd binnen, om daar voorlopig niet meer weg te gaan. Niet te geloven dat dit een debuut is; elk verhaal treft doel.' -  Rob van Essen</p><p></p><p> Sarah Arnolds  (1992) studeerde af aan de Gerrit Rietveld Academie. Ze schreef filmscenario's en publiceerde verhalen in De Gids, Extra Extra Magazine en MacGuffin. Het gore lef is haar debuut. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Sarah Arnolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Als de dieren]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444724397/als-de-dieren-lieselot-mari%C3%ABn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444724397/als-de-dieren-lieselot-mari%C3%ABn"/>
+        <updated>2026-01-14T07:20:08.310Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444724397?aid=kb-online-bibliotheek&sid=19&dts=1768370217458&sig=aeed945d61f90f6a369c4c543a2244e1541803f395d1a5a8286d573fd09862de&width=320" alt="Omslag van 'Als de dieren'" title="Omslag van 'Als de dieren'">
+<p>In het twijfeldonker van onze kamer werd ik belaagd door gedachten zwart als kraaien, die hun rollende keelklanken in mijn schedel krasten en zwermend hun vleugels om mijn oren wiekten. Ze vlogen zo rakelings langs me heen dat ik de wind door hun veren hoorde suizen, als een scheur in het weefsel van de werkelijkheid.</p><p>Als de dieren is een poëtische zoektocht naar taal en betekenis, voor een ervaring die zich tegen beide verzet.</p><p> Lieselot Mariën  studeerde af in filosofie en rechten. Ze werkte achtereenvolgens in het theater, in de keuken en als advocaat. Tegenwoordig maakt ze audiodrama en -documentaires. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lieselot Mariën</name>
         </author>
     </entry>
     <entry>
@@ -96,17 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ti amo]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456734120/ti-amo-hanne-%C3%B8rstavik</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456734120/ti-amo-hanne-%C3%B8rstavik"/>
-        <updated>2026-01-14T07:20:09.429Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456734120?aid=kb-online-bibliotheek&sid=19&dts=1768364411852&sig=79a1fc5a9f49ecd39d36d570de3b4c14f85352e8d7ec6b957b7d5f06dcc0901e&width=320" alt="Omslag van 'Ti amo'" title="Omslag van 'Ti amo'">
-<p></p>]]></content>
-        <author>
-            <name>Hanne Ørstavik</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Moeiteloos veranderen studiegids]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456734090/moeiteloos-veranderen-studiegids-andrew-wommack</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456734090/moeiteloos-veranderen-studiegids-andrew-wommack"/>
@@ -116,6 +105,17 @@
 <p>Of je nu op zondag in de kerk onderwijs geeft, een kleine groep mensen onderwijst, iemand persoonlijk begeleidt of Moeiteloos veranderen voor jezelf bestudeert, deze studiegids is speciaal voor jou ontworpen! Iedere studie bestaat uit een Les, een Samenvatting, een Leidraad voor de Docent, Discipelschapsvragen, Antwoorden en Bijbelverzen. Sommige lessen bevatten ook Aanvullende Informatie. Van elke les kun je de Samenvatting, de Discipelschapsvragen en de Bijbelverzen gratis downloaden. Van deze materialen kun je net zoveel exemplaren afdrukken als je nodig hebt om anderen te onderwijzen. De andere materialen zijn voornamelijk bedoeld voor jou als docent. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Wommack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ti amo]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456734120/ti-amo-hanne-%C3%B8rstavik</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456734120/ti-amo-hanne-%C3%B8rstavik"/>
+        <updated>2026-01-14T07:20:09.429Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456734120?aid=kb-online-bibliotheek&sid=19&dts=1768364411852&sig=79a1fc5a9f49ecd39d36d570de3b4c14f85352e8d7ec6b957b7d5f06dcc0901e&width=320" alt="Omslag van 'Ti amo'" title="Omslag van 'Ti amo'">
+<p></p>]]></content>
+        <author>
+            <name>Hanne Ørstavik</name>
         </author>
     </entry>
     <entry>
@@ -143,17 +143,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ontaard]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456730583/ontaard-nicole-van-der-spek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456730583/ontaard-nicole-van-der-spek"/>
-        <updated>2026-01-14T07:20:10.647Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456730583?aid=kb-online-bibliotheek&sid=19&dts=1768320035524&sig=5d9b970cefeb5c5945a59e7895804858ae189bcdb0c9136b57151e4f45493728&width=320" alt="Omslag van 'Ontaard'" title="Omslag van 'Ontaard'">
-<p>Wanneer er bij het Zilvermeer menselijke resten worden gevonden, duikt onderzoeksjournalist Maaike de Ridder in een oude vermissingszaak. Als voormalig oorlogsverslaggever kent ze de klappen van de zweep, maar niets bereidt haar voor op wat ze ontdekt. Hoe dieper Maaike graaft, hoe donkerder het familiegeheim dat boven water komt: een geheime adoptie, een verscheurd gezin en keuzes met onomkeerbare gevolgen. Terwijl ze dichter bij de waarheid komt, wordt ze in de gaten gehouden. Iemand die alles op alles zet om te voorkomen dat het geheim ooit het daglicht ziet. Sommige waarheden kunnen beter begraven blijven. Maaike weet één ding zeker: die moeten naar boven komen. Een thriller over offers, schuld en de prijs van de waarheid. Nicole van der Spek (1974) heeft als cultureel antropoloog en natuurvoedingsadviseur een rijke kennis en ervaring in menselijk gedrag, cultuur en gezondheid. Ze schrijft met diepgang over gevoelige thema's zoals rouw, verdriet en afscheid en ze schuwt daarbij maatschappelijke thema's onderwerpen niet. Van haar hand verscheen eerder de psychologische thriller Ongezien en de novelle Ontspoord. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nicole van der Spek</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Verhaaltjes voor het sterven gaan]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456730575/verhaaltjes-voor-het-sterven-gaan-chris-hoksbergen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456730575/verhaaltjes-voor-het-sterven-gaan-chris-hoksbergen"/>
@@ -162,6 +151,17 @@
 <p>Wat doe je als je psychiater zegt gedachten te kunnen lezen? Eva, een op non-actief gestelde arts, spreekt af in een verlaten kroeg met de psychiater die het oordeel over haar toekomst zal vellen. Wanneer deze man binnenkomt, lijkt hij niet alleen de sleutel te hebben tot Eva's grimmige verleden, maar ook tot dat van Jurgen, de ogenschijnlijk doodgewone barman. Met zijn onverwachte benadering en 'verhaaltjes voor het sterven gaan', verandert de psychiater de avond in een ontmoeting die alles wat Eva en Jurgen over het leven denken te weten, op zijn kop zet. Wat moeten ze met zo'n bizarre verschijning? En wat doen Eva en Jurgen als de beweringen van de psychiater in absurditeit toenemen? Verhaaltjes voor het sterven gaan is een duistere zoektocht naar de waarheid, waarin ieder woord en elke blik de personages dichter bij hun diepste angsten brengt </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Chris Hoksbergen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ontaard]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456730583/ontaard-nicole-van-der-spek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456730583/ontaard-nicole-van-der-spek"/>
+        <updated>2026-01-14T07:20:10.647Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456730583?aid=kb-online-bibliotheek&sid=19&dts=1768320035524&sig=5d9b970cefeb5c5945a59e7895804858ae189bcdb0c9136b57151e4f45493728&width=320" alt="Omslag van 'Ontaard'" title="Omslag van 'Ontaard'">
+<p>Wanneer er bij het Zilvermeer menselijke resten worden gevonden, duikt onderzoeksjournalist Maaike de Ridder in een oude vermissingszaak. Als voormalig oorlogsverslaggever kent ze de klappen van de zweep, maar niets bereidt haar voor op wat ze ontdekt. Hoe dieper Maaike graaft, hoe donkerder het familiegeheim dat boven water komt: een geheime adoptie, een verscheurd gezin en keuzes met onomkeerbare gevolgen. Terwijl ze dichter bij de waarheid komt, wordt ze in de gaten gehouden. Iemand die alles op alles zet om te voorkomen dat het geheim ooit het daglicht ziet. Sommige waarheden kunnen beter begraven blijven. Maaike weet één ding zeker: die moeten naar boven komen. Een thriller over offers, schuld en de prijs van de waarheid. Nicole van der Spek (1974) heeft als cultureel antropoloog en natuurvoedingsadviseur een rijke kennis en ervaring in menselijk gedrag, cultuur en gezondheid. Ze schrijft met diepgang over gevoelige thema's zoals rouw, verdriet en afscheid en ze schuwt daarbij maatschappelijke thema's onderwerpen niet. Van haar hand verscheen eerder de psychologische thriller Ongezien en de novelle Ontspoord. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nicole van der Spek</name>
         </author>
     </entry>
     <entry>
@@ -209,36 +209,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dag Sanne]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394599543/dag-sanne-marjan-van-den-berg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394599543/dag-sanne-marjan-van-den-berg"/>
-        <updated>2026-01-14T07:20:13.477Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394599543?aid=kb-online-bibliotheek&sid=19&dts=1768326232173&sig=87257e32d9c4f51b51629f72e464cb7a186bab2f0efe61d6d1c62a4ac4da47ef&width=320" alt="Omslag van 'Dag Sanne'" title="Omslag van 'Dag Sanne'">
-<p>Sannes leven kent nauwelijks momenten van rust, ook nu beleeft ze van alles. Reina vertrekt met het hele gezin naar het buitenland, Sanne zonder werk achterlatend. Als ook echtgenoot Frank dan geheel onverwacht zijn baan verliest, lijkt het leven donkergrijs. Toch lukt het Sanne om de moed erin te houden en Frank uit zijn depressie te trekken. Samen gaan ze op zoek naar een nieuwe levensvervulling; ze kopen een camping! Frank gaat vol energie aan de slag en Sanne probeert de draden van haar oude en nieuwe leven met elkaar te verbinden. Ondertussen zorgt zoon Wichard voor een dubbelzinnige verrassing, lijkt vriendin Yvonne eindelijk het geluk te vinden en veroorzaakt zus Cathy de nodige opwinding.  De belevenissen van Sanne zijn verdrietig, vermakelijk, hartverwarmend, hilarisch en vol onvoorziene wendingen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Of ik gek ben]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394786572/of-ik-gek-ben-michiel-stroink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394786572/of-ik-gek-ben-michiel-stroink"/>
+        <updated>2026-01-14T07:20:15.730Z</updated>
+        <summary type="html"><![CDATA[roman]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394786572?aid=kb-online-bibliotheek&sid=19&dts=1768320411403&sig=2f81aa5fec5555cbd481fb5bb46a0f5b85b538d674db019824f5ed8eeedfe752&width=320" alt="Omslag van 'Of ik gek ben'" title="Omslag van 'Of ik gek ben'">
+<p>Een jonge kunstenaar vertelt over zijn leven in een tbs-kliniek.</p>]]></content>
         <author>
-            <name>Marjan van den Berg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanne]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39459956X/sanne-marjan-van-den-berg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39459956X/sanne-marjan-van-den-berg"/>
-        <updated>2026-01-14T07:20:13.949Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39459956X?aid=kb-online-bibliotheek&sid=19&dts=1768321366934&sig=8cbf92d5ce502e28e2bd24e28f6a148c17adbb57da27e151e029ea9d070b25fa&width=320" alt="Omslag van 'Sanne'" title="Omslag van 'Sanne'">
-<p>Sanne is een gewone bijzondere vrouw; warm, hartelijk, onzeker, doortastend, kwetsbaar, stoer, dromerig, nuchter. En Sanne maakt van alles mee met de mensen om haar heen: Frank, haar echtgenoot die veel van huis is voor zijn werk, bedoelt het wel goed maar brengt het vaak zo miserabel. Wichard, haar vijftienjarige zoon, zoekt zoals een echte puber betaamt voortdurend de grenzen van haar moederlijke gezag. Yvonne, haar vriendin, denkt de ware liefde gevonden te hebben en het is Sanne die haar de minder rooskleurige waarheid moet vertellen. Reina, haar werkgeefster, klampt zich aan Sanne vast als aan een reddingsboei en sleept haar mee naar een paragnoste. Mathilde, haar moeder, heeft slechts oog voor één persoon: Henk Portielje, haar nieuwe vlam. Cathy, haar egocentrische zus, weet nog steeds hoe ze Sanne voor haar karretje moet spannen. En als het maar even rustig dreigt te worden, kondigt het volgende voorval zich alweer aan. Vermakelijk, verdrietig, hilarisch, pijnlijk, leuk, teleurstellend, maar bovenal: herkenbaar. Met Sanne leef je mee zoals met een goede vriendin. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marjan van den Berg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanne, Sanne]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394599578/sanne--sanne-marjan-van-den-berg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394599578/sanne--sanne-marjan-van-den-berg"/>
-        <updated>2026-01-14T07:20:14.367Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394599578?aid=kb-online-bibliotheek&sid=19&dts=1768325735395&sig=cdbd3eb1bde2155a6c127bed8baf2541aeff6d1ff8d50fbb2da8d33a43d68285&width=320" alt="Omslag van 'Sanne, Sanne'" title="Omslag van 'Sanne, Sanne'">
-<p>Samen met man Frank en zoon Wichard werkt Sanne keihard om hun camping 't Raetsel tot een succesvolle onderneming te maken. Maar kampeerders heb je niet voor het uitkiezen; de campinggasten zorgen regelmatig voor consternatie en plegen een aanslag op de gemoedsrust van Sanne en haar mannen. Eén campinggaste in het bijzonder gedraagt zich wel erg raadselachtige en doet de relatie van Sanne en Frank op zijn grondvesten trillen. Sanne hoopt bij haar vriending Yvonne op adem te kunnen komen, maar krijgt er juist een zorg bij als het tot haar doordringt hoe penibel de situatie is waarin Yvonne verkeert. Als de gebeurtenissen dan in een stroomversnelling raken word het zelfs echt gevaarlijk voor Sanne. Gelukkig houdt juffrouw Schaap het hoofd koel en grijpt doortastend in op die momenten dat het echt nodig is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marjan van den Berg</name>
+            <name>Michiel Stroink</name>
         </author>
     </entry>
     <entry>
@@ -248,6 +227,17 @@
         <updated>2026-01-14T07:20:14.819Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394599586?aid=kb-online-bibliotheek&sid=19&dts=1768319519738&sig=e99fed0a0e899b0a30a84fc92ecca0f7711cce55c56b8f1045a042f2578b1e92&width=320" alt="Omslag van 'Uit het leven van Sanne'" title="Omslag van 'Uit het leven van Sanne'">
 <p>Sanne zorgt, holt en probeert het thuisfront zo goed mogelijk te bewaken, terwijl haar man Frank in het buitenland zit voor zijn werk. En Sanne heeft haar handen vol: Moeder Mathilde krijgt overwacht een zwaar verlies te dragen en kan bij haar dappere beslissingen rekenen op Sannes onvoorwaardelijke steun. Zus Cathy gedraagt zich zo onmogelijk dat Sanne wel gedwongen wordt om harde waarheden te spreken. Zoon Wichard dreigt verliefd te worden, heeft zijn zinnen gezet op een brommer en houdt met zijn nachtelijke avonturen Sanne uit haar slaap. Vriendin Yvonne wordt door de man van haar dromen meegesleurd in een nachtmerrie, waaruit Sanne haar slechts ternauwernood kan redden.  Werkgeefster Reina brengt onder bijzondere omstandigheden een gezonde dochter ter wereld. Vanaf dat moment is de band tussen Sanne en Reina hechter dan ooit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marjan van den Berg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dag Sanne]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394599543/dag-sanne-marjan-van-den-berg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394599543/dag-sanne-marjan-van-den-berg"/>
+        <updated>2026-01-14T07:20:13.477Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394599543?aid=kb-online-bibliotheek&sid=19&dts=1768326232173&sig=87257e32d9c4f51b51629f72e464cb7a186bab2f0efe61d6d1c62a4ac4da47ef&width=320" alt="Omslag van 'Dag Sanne'" title="Omslag van 'Dag Sanne'">
+<p>Sannes leven kent nauwelijks momenten van rust, ook nu beleeft ze van alles. Reina vertrekt met het hele gezin naar het buitenland, Sanne zonder werk achterlatend. Als ook echtgenoot Frank dan geheel onverwacht zijn baan verliest, lijkt het leven donkergrijs. Toch lukt het Sanne om de moed erin te houden en Frank uit zijn depressie te trekken. Samen gaan ze op zoek naar een nieuwe levensvervulling; ze kopen een camping! Frank gaat vol energie aan de slag en Sanne probeert de draden van haar oude en nieuwe leven met elkaar te verbinden. Ondertussen zorgt zoon Wichard voor een dubbelzinnige verrassing, lijkt vriendin Yvonne eindelijk het geluk te vinden en veroorzaakt zus Cathy de nodige opwinding.  De belevenissen van Sanne zijn verdrietig, vermakelijk, hartverwarmend, hilarisch en vol onvoorziene wendingen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marjan van den Berg</name>
         </author>
@@ -264,15 +254,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Of ik gek ben]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394786572/of-ik-gek-ben-michiel-stroink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394786572/of-ik-gek-ben-michiel-stroink"/>
-        <updated>2026-01-14T07:20:15.730Z</updated>
-        <summary type="html"><![CDATA[roman]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394786572?aid=kb-online-bibliotheek&sid=19&dts=1768320411403&sig=2f81aa5fec5555cbd481fb5bb46a0f5b85b538d674db019824f5ed8eeedfe752&width=320" alt="Omslag van 'Of ik gek ben'" title="Omslag van 'Of ik gek ben'">
-<p>Een jonge kunstenaar vertelt over zijn leven in een tbs-kliniek.</p>]]></content>
+        <title type="html"><![CDATA[Sanne, Sanne]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394599578/sanne--sanne-marjan-van-den-berg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394599578/sanne--sanne-marjan-van-den-berg"/>
+        <updated>2026-01-14T07:20:14.367Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394599578?aid=kb-online-bibliotheek&sid=19&dts=1768325735395&sig=cdbd3eb1bde2155a6c127bed8baf2541aeff6d1ff8d50fbb2da8d33a43d68285&width=320" alt="Omslag van 'Sanne, Sanne'" title="Omslag van 'Sanne, Sanne'">
+<p>Samen met man Frank en zoon Wichard werkt Sanne keihard om hun camping 't Raetsel tot een succesvolle onderneming te maken. Maar kampeerders heb je niet voor het uitkiezen; de campinggasten zorgen regelmatig voor consternatie en plegen een aanslag op de gemoedsrust van Sanne en haar mannen. Eén campinggaste in het bijzonder gedraagt zich wel erg raadselachtige en doet de relatie van Sanne en Frank op zijn grondvesten trillen. Sanne hoopt bij haar vriending Yvonne op adem te kunnen komen, maar krijgt er juist een zorg bij als het tot haar doordringt hoe penibel de situatie is waarin Yvonne verkeert. Als de gebeurtenissen dan in een stroomversnelling raken word het zelfs echt gevaarlijk voor Sanne. Gelukkig houdt juffrouw Schaap het hoofd koel en grijpt doortastend in op die momenten dat het echt nodig is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Michiel Stroink</name>
+            <name>Marjan van den Berg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanne]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39459956X/sanne-marjan-van-den-berg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39459956X/sanne-marjan-van-den-berg"/>
+        <updated>2026-01-14T07:20:13.949Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39459956X?aid=kb-online-bibliotheek&sid=19&dts=1768321366934&sig=8cbf92d5ce502e28e2bd24e28f6a148c17adbb57da27e151e029ea9d070b25fa&width=320" alt="Omslag van 'Sanne'" title="Omslag van 'Sanne'">
+<p>Sanne is een gewone bijzondere vrouw; warm, hartelijk, onzeker, doortastend, kwetsbaar, stoer, dromerig, nuchter. En Sanne maakt van alles mee met de mensen om haar heen: Frank, haar echtgenoot die veel van huis is voor zijn werk, bedoelt het wel goed maar brengt het vaak zo miserabel. Wichard, haar vijftienjarige zoon, zoekt zoals een echte puber betaamt voortdurend de grenzen van haar moederlijke gezag. Yvonne, haar vriendin, denkt de ware liefde gevonden te hebben en het is Sanne die haar de minder rooskleurige waarheid moet vertellen. Reina, haar werkgeefster, klampt zich aan Sanne vast als aan een reddingsboei en sleept haar mee naar een paragnoste. Mathilde, haar moeder, heeft slechts oog voor één persoon: Henk Portielje, haar nieuwe vlam. Cathy, haar egocentrische zus, weet nog steeds hoe ze Sanne voor haar karretje moet spannen. En als het maar even rustig dreigt te worden, kondigt het volgende voorval zich alweer aan. Vermakelijk, verdrietig, hilarisch, pijnlijk, leuk, teleurstellend, maar bovenal: herkenbaar. Met Sanne leef je mee zoals met een goede vriendin. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marjan van den Berg</name>
         </author>
     </entry>
     <entry>
