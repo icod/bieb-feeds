@@ -2,103 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-01-22T07:22:25.103Z</updated>
+    <updated>2026-01-23T07:20:54.382Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
-    <entry>
-        <title type="html"><![CDATA[Een prachtvolk, die honden!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456628312/een-prachtvolk--die-honden--ivan-boenin---vasili-grossman---vladimir-giljarovski---aleksandr</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456628312/een-prachtvolk--die-honden--ivan-boenin---vasili-grossman---vladimir-giljarovski---aleksandr"/>
-        <updated>2026-01-22T07:22:16.084Z</updated>
-        <summary type="html"><![CDATA[korte verhalen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456628312?aid=kb-online-bibliotheek&sid=19&dts=1768981822847&sig=a40d5e279b03733ab21dc497403da76956766e23bcec50b27637dabaa38bd3b3&width=320" alt="Omslag van 'Een prachtvolk, die honden!'" title="Omslag van 'Een prachtvolk, die honden!'">
-<p>‘Een prachtvolk, die honden!’ Met deze woorden eerde Anton Tsjechov de harige viervoeters en zijn geliefde teckels in het bijzonder – en hij was niet de enige Russische schrijver met een grote liefde voor honden.</p><p>In deze unieke selectie Russische hondenverhalen is de hond méér dan een huisdier. Soms een reddingsboei, een laatste houvast in een grillige wereld, dan weer een stille getuige van de menselijke ziel en een spiegel van de samenleving. Ook riepen schrijvers de hulp in van deze trouwe metgezellen om – soms op speelse, soms op bedekte wijze – kritiek te leveren op de Russische maatschappij.</p><p>Ontroerend, bizar, geestig en meeslepend – Een prachtvolk, die honden! is een ode aan de hond én aan de kracht van verhalen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ivan Boenin</name>
-        </author>
-        <author>
-            <name>Vasili Grossman</name>
-        </author>
-        <author>
-            <name>Vladimir Giljarovski</name>
-        </author>
-        <author>
-            <name>Aleksandr Koeprin</name>
-        </author>
-        <author>
-            <name>Ivan Toergenjev</name>
-        </author>
-        <author>
-            <name>Dmitri Mamin-Sibirjak</name>
-        </author>
-        <author>
-            <name>Fjodor Sologoeb</name>
-        </author>
-        <author>
-            <name>Teffi</name>
-        </author>
-        <author>
-            <name>Jevgeni Zamjatin</name>
-        </author>
-        <author>
-            <name>Varlam Sjalamov</name>
-        </author>
-        <author>
-            <name>Ljoedmila Oelitskaja</name>
-        </author>
-        <author>
-            <name>Ljoedmila Petroesjevskaja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maar Dat Doet Taylor Swift Ook]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456703225/maar-dat-doet-taylor-swift-ook-gideon-karting</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456703225/maar-dat-doet-taylor-swift-ook-gideon-karting"/>
-        <updated>2026-01-22T07:22:20.537Z</updated>
-        <summary type="html"><![CDATA[De verborgen wetten en geheime spelregels van muziekmarketing (en hoe jij ze kan toepassen)]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456703225?aid=kb-online-bibliotheek&sid=19&dts=1769013734215&sig=9ff87e6b8df49f1de50edb6f21ced4dd4b9df79365b5fee248e7952f074379d0&width=320" alt="Omslag van 'Maar Dat Doet Taylor Swift Ook'" title="Omslag van 'Maar Dat Doet Taylor Swift Ook'">
-<p>Gideon Karting heeft in meer dan vijfentwintig jaar vrijwel elke rol in de muziekindustrie gespeeld. Hij begon als plakker van posters, werkte als manager en platenbaas en groeide uit tot organisator van de grootste concerten en festivals in Nederland. Op zijn cv prijken shows van o.a. Adele, Harry Styles, Blackpink, Arctic Monkeys, Lady Gaga en Bruno Mars. Zijn weg bewandelde hij niet zonder vallen of opstaan: hij ontdekte dat succes nooit één-op-één te kopiëren is en dat het maken van fouten vaak de beste lessen oplevert. Door schade en schande wijs geworden fileert hij in dit boek de ongeschreven wetten van de muziekmarketing - van legendarische campagnes uit het verleden tot hypegedreven stunts van nu. Het resultaat: een even vermakelijke als eerlijke kijk achter de schermen van de muziekindustrie met verhalen die je normaal alleen backstage opvangt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Gideon Karting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het recht van een roofdier]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456642641/het-recht-van-een-roofdier-anna-starobinets</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456642641/het-recht-van-een-roofdier-anna-starobinets"/>
-        <updated>2026-01-22T07:22:21.092Z</updated>
-        <summary type="html"><![CDATA[Een beestachtige dierendetective]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456642641?aid=kb-online-bibliotheek&sid=19&dts=1769009748242&sig=7e52f7d6508f2f0ae94af3fa11ea079632c389ec5dbc0a8021350e77224a68f9&width=320" alt="Omslag van 'Het recht van een roofdier'" title="Omslag van 'Het recht van een roofdier'">
-<p>Op Hoeve Jachtlust aan de rand van het Verre Bos is iets gruwelijk mis: er is een kip vermoord. Heeft Vosje echt bloed aan haar poten, of probeert iemand de bewoners van het Verre Bos een loer te draaien? En wat is de rol van Dina Arling? Inspecteur Das en Daskat starten een onderzoek, maar de dader is ze telkens een stapje voor. Ze moeten hem vinden voordat Rex en zijn waakhonden een Grote Jacht openen op het Verre Bos.</p><p>Dit tweede deel van de Beestachtige Dierendetectives is een spannende whodunit voor kinderen van negen tot twaalf jaar die van detectives, listige dieren en verrassende ontknopingen houden.</p><p>Anna Starobinets schrijft sinds 2009 kinderboeken, nadat ze door het moederschap de wereld van de kinderfantasie ontdekte. De Beestachtige Dierendetectives (2019) zijn een groot succes geworden door de levendige personages en de fantasierijke wereld. Ze laten kinderen op speelse wijze ontdekken hoe belangrijk vriendschap, moed en samenwerken zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Anna Starobinets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In het hol van de wolf]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456642072/in-het-hol-van-de-wolf-anna-starobinets</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456642072/in-het-hol-van-de-wolf-anna-starobinets"/>
-        <updated>2026-01-22T07:22:23.443Z</updated>
-        <summary type="html"><![CDATA[Een beestachtige dierendetective]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456642072?aid=kb-online-bibliotheek&sid=19&dts=1769066542050&sig=0855943e5884f4e1c64ad99e5165814964c2450d457a5aa97e3a590b87e829f4&width=320" alt="Omslag van 'In het hol van de wolf'" title="Omslag van 'In het hol van de wolf'">
-<p>Er heerst onrust in het altijd zo vredige Verre Bos. Haas is verdwenen en de kikkers hebben op KwaakBoek gelezen dat hij beestachtig is vermoord. Is dat echt zo? Inspecteur Das gaat de zaak grondig onderzoeken, samen met de jonge politieagent Daskat. Met tekeningen in kleur. Vanaf ca. 9 jaar.</p>]]></content>
-        <author>
-            <name>Anna Starobinets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Appgroep 2.0]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456703349/de-appgroep-2-0-edward-den-ouden</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456703349/de-appgroep-2-0-edward-den-ouden"/>
-        <updated>2026-01-22T07:22:24.234Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456703349?aid=kb-online-bibliotheek&sid=19&dts=1769066543639&sig=c7582452fd3b0a9ca7e964a5bdd0065772d62b2d3f3d7c86ff4e24b28d31f7eb&width=320" alt="Omslag van 'De Appgroep 2.0'" title="Omslag van 'De Appgroep 2.0'">
-<p>We hebben vrijheid ingeruild voor gemak, privacy ingewisseld voor een pushbericht. Niemand kijkt écht meer op. Of toch wel? Vijftien mannen. Eén appgroep. Geen filter. Ze reageren op alles wat schuurt - van aftakeling tot opstand, van algoritmes tot airfryers - gedreven door dadendrang, ironie of simpelweg FOMO. Maar achter hun digitale façade loert ene Van Vleuten. Een stille AIVD-agent met verstrekkende bevoegdheden. Hij leest. Hij registreert. Hij oordeelt. Wat is nog waar als iedereen ronddoolt in zijn eigen mist? En wie bespioneert nu wie? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Edward den Ouden</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Slot erop]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/442328273/slot-erop-lisanne-stam</id>
@@ -108,17 +16,6 @@
 <p>Ooit, jong en tot over zijn oren, dacht Giel zijn grote liefde gevonden te hebben. Maar dat bleek een doodlopende weg en nu, jaren later, is hij veel minder naïef. Wel is Giel achtergebleven met vele vragen, waarvan de belangrijkste is: bestaat er wel zoiets als ware liefde? Francien is al jaren getrouwd met haar jeugdliefde Jay. Ook bij haar wankelt het geloof in de liefde, want de band met Jay, waarvan ze ooit dacht dat die onbreekbaar was, blijkt toch brozer dan gedacht. Giel en Francien kennen elkaar al van jongs af aan. Althans, dat denken ze. Zij ziet hem als de rokkenjager, hij ziet haar als de eeuwige dromer. Maar naarmate ze meer met elkaar omgaan, komen ze erachter dat ze elkaar toch niet zo goed kenden als ze dachten. Sterker nog, misschien kenden ze zelfs zichzelf niet zo goed. En naarmate ze ontdekken wie ze werkelijk zijn, komen ze er ook achter dat de liefde soms veel dichterbij is dan je ooit had verwacht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Lisanne Stam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verleid op kantoor]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456796762/verleid-op-kantoor-claudia-vanzegbroeck</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456796762/verleid-op-kantoor-claudia-vanzegbroeck"/>
-        <updated>2026-01-21T07:22:24.767Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456796762?aid=kb-online-bibliotheek&sid=19&dts=1768921008351&sig=7567eb02c65185dea8f41c675030427043ccdafc6434b9ad077d09746a477f30&width=320" alt="Omslag van 'Verleid op kantoor'" title="Omslag van 'Verleid op kantoor'">
-<p>Chloe is een 25-jarige Belgische vrijgezel, die al 5 jaar in New York woont. Ze heeft een rustig leventje opgebouwd en leeft samen met haar vriendin Joëlle in een appartement op Lexington Avenue. Ze werkt als managementassistent bij Fashion Enterprises, een groot modebedrijf. Chloe is gelukkig, maar op een dag wordt haar leven op zijn kop gezet door haar nieuwe baas, Manuel Ruiz, een Spanjaard, die tien jaar ouder is en heel dominant. Voor Chloë's is hij haar droomman, maar ze is bang haar baan te verliezen. Claudia Vanzegbroeck wil met deze erotische roman aantonen dat een goede verhaallijn net zo belangrijk is als het neerzetten van elegante pikante scènes. In combinatie met de psychologische diepgang en conflicten staat ze garant voor veel leesplezier. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Claudia Vanzegbroeck</name>
         </author>
     </entry>
     <entry>
@@ -141,6 +38,17 @@
 <p>Arty Vonk laat zich niet beperken door haar afkomst of haar geslacht. Binnen de door mannen gedomineerde kunstwereld van de jaren tien van de vorige eeuw kiest ze haar eigen pad. Vanuit Kampen trekt ze naar Amsterdam en logeert ze vaak in het kunstenaarsdorp Laren. Zonder geld, zonder status en zonder opleiding, maar wel met een onverzettelijke wil. Ze bedenkt steeds een list om gezien en gewaardeerd te worden en creëert daarbij haar eigen wereld. Ze sluit zich aan bij de vrouwenbeweging en gaat verschillende al dan niet berekenende liefdesrelaties aan. Maar leidt het tot succes...? Henriëtte de Smet was televisiemaker. Tegenwoordig werkt zij als tekstschrijver. Ze heeft inmiddels negen feelgoodromans op haar naam, waarvan drie historische romans. Judith Wiersema -beeldhouwer: 'Ineens was ik door deze meeslepende roman totaal in die tijd. Diep respect voor zoveel kennis en verrassende wendingen!'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Henriëtte de Smet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verleid op kantoor]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456796762/verleid-op-kantoor-claudia-vanzegbroeck</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456796762/verleid-op-kantoor-claudia-vanzegbroeck"/>
+        <updated>2026-01-21T07:22:24.767Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456796762?aid=kb-online-bibliotheek&sid=19&dts=1768921008351&sig=7567eb02c65185dea8f41c675030427043ccdafc6434b9ad077d09746a477f30&width=320" alt="Omslag van 'Verleid op kantoor'" title="Omslag van 'Verleid op kantoor'">
+<p>Chloe is een 25-jarige Belgische vrijgezel, die al 5 jaar in New York woont. Ze heeft een rustig leventje opgebouwd en leeft samen met haar vriendin Joëlle in een appartement op Lexington Avenue. Ze werkt als managementassistent bij Fashion Enterprises, een groot modebedrijf. Chloe is gelukkig, maar op een dag wordt haar leven op zijn kop gezet door haar nieuwe baas, Manuel Ruiz, een Spanjaard, die tien jaar ouder is en heel dominant. Voor Chloë's is hij haar droomman, maar ze is bang haar baan te verliezen. Claudia Vanzegbroeck wil met deze erotische roman aantonen dat een goede verhaallijn net zo belangrijk is als het neerzetten van elegante pikante scènes. In combinatie met de psychologische diepgang en conflicten staat ze garant voor veel leesplezier. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Claudia Vanzegbroeck</name>
         </author>
     </entry>
     <entry>
@@ -177,17 +85,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De klauwen van de lynx]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444169466/de-klauwen-van-de-lynx-karin-smirnoff</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444169466/de-klauwen-van-de-lynx-karin-smirnoff"/>
-        <updated>2026-01-19T07:23:57.390Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444169466?aid=kb-online-bibliotheek&sid=19&dts=1768730400036&sig=a0fa1166aa31c9963f5adfe4525bf5b4fb0603f9e92e65ce5a8a2b2adb047b30&width=320" alt="Omslag van 'De klauwen van de lynx'" title="Omslag van 'De klauwen van de lynx'">
-<p>Een lokale mijnwerker wordt vermoord aangetroffen in een stadje in het verre noorden van Zweden.</p><p>Mikael Blomkvist, die onderweg is naar het noorden om dichter bij zijn dochter te zijn, realiseert zich dat dit een zaak voor hem is. Als hij het verhaal achter de moord begint te ontrafelen valt er nog een slachtoffer: een klimaatactivist.</p><p>Intussen is Lisbeth Salander een prooi geworden voor de onderwereld. Haar vriend en vertrouweling door de jaren heen, de hacker Plague, is verdwenen en Svala, haar nichtje, is in levensgevaar. Svala’s stiefvader is net vrijgelaten uit de gevangenis en zint op wraak… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Karin Smirnoff</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Festival]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/447153560/festival-suzanne-vermeer</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/447153560/festival-suzanne-vermeer"/>
@@ -210,14 +107,151 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We did OK, kid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456747931/we-did-ok--kid-anthony-hopkins</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456747931/we-did-ok--kid-anthony-hopkins"/>
-        <updated>2026-01-18T07:14:48.450Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747931?aid=kb-online-bibliotheek&sid=19&dts=1768637131785&sig=7c488e71665771af1993c6ab534b8a22265ace3f0a8cc878990c16b40356ca4c&width=320" alt="Omslag van 'We did OK, kid'" title="Omslag van 'We did OK, kid'">
-<p>In We did OK, kid neemt Sir Anthony Hopkins je vol overgave mee in zijn illustere film- en theatercarrière. Met openhartigheid en een stem die zowel boeiend als kwetsbaar is, doet Hopkins verslag van de verschillende mijlpalen in zijn carrière en biedt hij een uniek inkijkje in de genialiteit achter een paar van zijn meest iconische rollen. Dat doet hij allemaal zonder de diepe dalen uit zijn persoonlijke leven te schuwen: zijn alcoholverslaving kostte hem zijn eerste huwelijk, zijn relatie met zijn enige kind en zelfs bijna zijn leven. Dat laatste helpt hem om nu zonder alcohol door het leven te gaan - al een halve eeuw lang. Naarmate de jaren verstrijken, wordt hij steeds meer geconfronteerd met vragen over zijn sterfelijkheid en bereidt hij zich voor om te ontdekken wat zijn vader Het Grote Geheim noemde.  We did OK, kid is een rauwe en persoonlijke memoir, geschreven door een complexe, iconische acteur die het publiek al zestig jaar inspireert met zijn verbluffende optredens. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De klauwen van de lynx]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444169466/de-klauwen-van-de-lynx-karin-smirnoff</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444169466/de-klauwen-van-de-lynx-karin-smirnoff"/>
+        <updated>2026-01-19T07:23:57.390Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444169466?aid=kb-online-bibliotheek&sid=19&dts=1768730400036&sig=a0fa1166aa31c9963f5adfe4525bf5b4fb0603f9e92e65ce5a8a2b2adb047b30&width=320" alt="Omslag van 'De klauwen van de lynx'" title="Omslag van 'De klauwen van de lynx'">
+<p>Een lokale mijnwerker wordt vermoord aangetroffen in een stadje in het verre noorden van Zweden.</p><p>Mikael Blomkvist, die onderweg is naar het noorden om dichter bij zijn dochter te zijn, realiseert zich dat dit een zaak voor hem is. Als hij het verhaal achter de moord begint te ontrafelen valt er nog een slachtoffer: een klimaatactivist.</p><p>Intussen is Lisbeth Salander een prooi geworden voor de onderwereld. Haar vriend en vertrouweling door de jaren heen, de hacker Plague, is verdwenen en Svala, haar nichtje, is in levensgevaar. Svala’s stiefvader is net vrijgelaten uit de gevangenis en zint op wraak… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Anthony Hopkins</name>
+            <name>Karin Smirnoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De DallerGut dromenwinkel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747680/de-dallergut-dromenwinkel-miye-lee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747680/de-dallergut-dromenwinkel-miye-lee"/>
+        <updated>2026-01-18T07:14:49.461Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747680?aid=kb-online-bibliotheek&sid=19&dts=1768662846015&sig=e101f6a159df912bdd6f11c5da06b65968e1f58cb92cf7c8698039897e0d90c7&width=320" alt="Omslag van 'De DallerGut dromenwinkel'" title="Omslag van 'De DallerGut dromenwinkel'">
+<p>In een mysterieus stadje, diep verborgen in ons collectieve onderbewustzijn, vind je een bijzondere winkel waar dromen te koop zijn. Dag en nacht schuifelen slaperige bezoekers naar binnen om hun volgende avontuur uit te zoeken. Voor Penny, een enthousiaste nieuwe medewerker, is werken in deze winkel een droom die uitkomt. Terwijl ze de geheimen van deze wonderlijke wereld ontdekt, bouwt Penny een band op met onvergetelijke personages: de flamboyante en wijze eigenaar DallerGut, een beroemde droomontwerper, een nachtmerrieproducent, en de vele klanten die dromen om te genezen, te groeien of simpelweg te ontsnappen aan hun dagelijkse leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Miye Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het huwelijk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456748016/het-huwelijk-o-j--mullen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456748016/het-huwelijk-o-j--mullen"/>
+        <updated>2026-01-23T07:20:52.868Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748016?aid=kb-online-bibliotheek&sid=19&dts=1769098581732&sig=954708b89dc85c21fa4909f702b4705254b740361a16fc076b25e7db359820bf&width=320" alt="Omslag van 'Het huwelijk'" title="Omslag van 'Het huwelijk'">
+<p>Als niemand weet dat je in gevaar bent, kan ook niemand je redden...  Het Baxter huis in de Lowther Hills, in Schotland, staat al tientallen jaren te koop. Het is vervallen en vrijwel onbewoonbaar, en niemand is erin geïnteresseerd. Maar voor één potentiele koper zijn de afgelegen locatie en de rattenplaag in de kelder precies waar hij naar op zoek is.  Het eerste jaar van Mackenzie en Dereks huwelijk was perfect. Maar nu verdenkt Derek Mackenzie van een affaire, en wanneer ze merkt dat haar man steeds meer controle op haar uitoefent, realiseert ze zich dat ze een vreselijke fout heeft gemaakt.  Als ze plotseling verdwijnt, nadat ze heeft gedreigd Derek te verlaten, gelooft niemand dat ze is ontvoerd. Het zal aan inspecteur Geddes zijn om de waarheid te achterhalen...  Perfect voor fans van Robert Galbraith, Ian Rankin en Ann Cleeves </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>O.J. Mullen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De verkeerde vrouw]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747923/de-verkeerde-vrouw-o-j--mullen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747923/de-verkeerde-vrouw-o-j--mullen"/>
+        <updated>2026-01-23T07:20:53.398Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747923?aid=kb-online-bibliotheek&sid=19&dts=1769100478705&sig=bd7af3b4098fd40eaaa18f6f1926c683ff292e7b52a6994e911a80c68a5d23c1&width=320" alt="Omslag van 'De verkeerde vrouw'" title="Omslag van 'De verkeerde vrouw'">
+<p>Iedereen heeft geheimen. Zijn de jouwe het waard om voor te sterven?  Julia Sutherland weet niet zo goed wat ze moet vinden van haar nieuwe collega. Ellis Kirkbride is vriendelijk, charmant en knap, maar er is ook iets anders... Hij is te glad, te zelfverzekerd, en hij staat ook altijd net te dichtbij. Normaal gesproken zou ze haar zorgen delen met haar man Rob, maar die is de laatste tijd nogal afstandelijk. Daarnaast heeft Julia een geheim waar hij absoluut niet achter mag komen...  Ellis Kirkbride dacht dat hij de perfecte vrouw had gevonden. Ze heeft alles wat hij zoekt, maar zij is niet geïnteresseerd in hem. En dat is onacceptabel...  Een verhaal over verwrongen liefde en ijzingwekkende wraak. Perfect voor fans van Claire Douglas en K.L. Slater. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>O.J. Mullen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waar we thuishoren]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456748083/waar-we-thuishoren-sarah-bennett</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456748083/waar-we-thuishoren-sarah-bennett"/>
+        <updated>2026-01-17T07:14:23.153Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748083?aid=kb-online-bibliotheek&sid=19&dts=1768553628298&sig=f11e39e99f01907e084e8f8e681f183b15bb1cda235f48920f64567b64031ee9&width=320" alt="Omslag van 'Waar we thuishoren'" title="Omslag van 'Waar we thuishoren'">
+<p>Familie, liefde en een eeuwenoud geheim: welkom op Juniper Meadows  Op papier heeft Hope Travers een idyllisch leven. Ze woont op een gezellige boerderij in het adembenemende landschap van de Cotswolds, samen met haar moeder, tante en ooms, nicht en een heleboel honden. Ze weet dat ze bevoorrecht en geliefd is.  Maar alle families hebben geheimen, en de familie Travers is geen uitzondering. Hun boerderij staat op het landgoed Juniper Meadows, dat van generatie op generatie is doorgegeven. De familie verdient de kost via allerlei ondernemingen en projecten. Wanneer er een opgraving wordt gestart en de bouwploeg op historische resten stuit, komt de geschiedenis van de familie Travers steeds meer onder de loep te liggen.  Hope lijkt het geluk te hebben gevonden met de plaatselijke archeoloog Cameron Ferguson, die het onderzoek leidt, maar wanneer er dingen fout gaan op het landgoed en er familiegeheimen aan het licht komen, begint Hope zich af te vragen of ze een grote fout heeft gemaakt door het verleden op te graven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sarah Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De honden die we zijn]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456748008/de-honden-die-we-zijn-alex-boogers---leon-verdonschot</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456748008/de-honden-die-we-zijn-alex-boogers---leon-verdonschot"/>
+        <updated>2026-01-17T07:14:12.260Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748008?aid=kb-online-bibliotheek&sid=19&dts=1768628765600&sig=931016cc5dedab37ce166db86ce7fd0f78dcbb75aa3abf46e8edd69b50d91a65&width=320" alt="Omslag van 'De honden die we zijn'" title="Omslag van 'De honden die we zijn'">
+<p>De Honden Die We Zijn is een gesprek tussen deze twee vrienden die drie liefdes delen: literatuur, vechtsport, en honden. Een ode aan de hond en de band tussen dier en mens. Het boek verkent de hond in populaire cultuur, films en literatuur. Leon en Alex vragen vragen zich af waarom zoveel mensen honden nodig hebben. Wat ze betekenen. Wat ze ons geven. Wat ze ons nalaten. Hoe ze naar ons kijken, als de honden die ze denken dat we zijn, als de mensen die we zijn, de mensen die we kunnen zijn, die we misschien moeten zijn.  Van Cesar Millan tot de honden in verhalen van Franz Kafka, van de legendarische Japanse hond Hachi tot de puppy van John Wick: ze komen allemaal langs in de levendige, sprankelende dialoog van Boogers en Verdonschot, die ook zichzelf en elkaar bevragen, uitdagen en troosten over hun liefde voor honden, en alles waar die voor staat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Alex Boogers</name>
+        </author>
+        <author>
+            <name>Leon Verdonschot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het lichaam is onschuldig]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456748164/het-lichaam-is-onschuldig-gaite-jansen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456748164/het-lichaam-is-onschuldig-gaite-jansen"/>
+        <updated>2026-01-17T07:14:13.913Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748164?aid=kb-online-bibliotheek&sid=19&dts=1768634053363&sig=99592fb3c80a8fb9ea68a0deba446e172a036c826ae704105463a6d2ee4062dc&width=320" alt="Omslag van 'Het lichaam is onschuldig'" title="Omslag van 'Het lichaam is onschuldig'">
+<p>Wanneer de ambitieuze Margaret de kans krijgt om te dansen bij het prestigieuze gezelschap The National in New York, laat ze zonder aarzelen haar leven en geliefde in Nederland achter. Maar al op de eerste dag van de repetities wordt ze totaal overweldigd: niet alleen door de intensiteit van de choreografie, maar vooral door Olivia, een charismatische en beroemde choreografe die twintig jaar ouder is dan zij.  Wat begint als bewondering, groeit uit tot een allesomvattende obsessie. Margaret raakt verstrikt in een gevaarlijke driehoeksverhouding van verlangen en macht, waarin niet alleen Olivia, maar ook haar man - de artistiek leider van The National - een beslissende rol speelt.  Het lichaam is onschuldig is een beklemmende roman over manipulatie, hartstocht en de grens tussen overgave en verlies van jezelf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Gaite Jansen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storm in papa's hoofd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456748032/storm-in-papa-s-hoofd-lucas-van-de-meerendonk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456748032/storm-in-papa-s-hoofd-lucas-van-de-meerendonk"/>
+        <updated>2026-01-17T07:14:22.653Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748032?aid=kb-online-bibliotheek&sid=19&dts=1768576474576&sig=f8568e5174701b908b796b59b31bc8623b969f6cd843534a49bafa828c7d1385&width=320" alt="Omslag van 'Storm in papa's hoofd'" title="Omslag van 'Storm in papa's hoofd'">
+<p>Het stormt in papa's hoofd, het regent, waait en onweert. Soms is het zo erg dat het dondert in huis. Het liefst wil papa schuilen voor het noodweer, samen met zijn dochter, maar wat als dat even niet lukt? Een prachtig prentenboek over de worsteling van een vader met mentale problemen die zijn dochter hiervoor wil beschermen, gebaseerd op persoonlijke ervaring. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lucas van de Meerendonk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Je had me bij 'château']]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747664/je-had-me-bij--ch%C3%A2teau--portia-macintosh</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747664/je-had-me-bij--ch%C3%A2teau--portia-macintosh"/>
+        <updated>2026-01-23T07:20:53.861Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747664?aid=kb-online-bibliotheek&sid=19&dts=1769101134858&sig=efb1d7be39351dc2f6bfc7c95e14cf3dc9539ea4e045301b2b6c0963d5f4df99&width=320" alt="Omslag van 'Je had me bij 'château''" title="Omslag van 'Je had me bij 'château''">
+<p>Twee onweerstaanbare mannen, één vrouw met een schrijfcrisis en bergen vol romantiek... Wie wordt de hoofdrolspeler in Ambers persoonlijke romcom?  Amber Page, auteur van romantische komedies, zit compleet vast. Haar redacteur vindt dat haar boeken wel wat meer 'spice' kunnen gebruiken - Ambers allergrootste nachtmerrie. Plotseling staat haar carrière op losse schroeven.  Dus wanneer ze de kans krijgt om vlak voor de feestdagen deel te nemen aan een exclusieve schrijfretreat in een prachtig chateau in de winterse Franse Alpen, zegt ze met enige tegenzin ja. Misschien helpt een adembenemend uitzicht haar toch aan nieuwe inspiratie.  Maar terwijl ze met weinig succes probeert haar verhalen wat pittiger te maken - met dubieuze tips van haar flamboyante collega-schrijvers - dient zich een heel ander plot aan: haar eigen romcom.  Een hilarische love triangle en een heerlijk romantisch verhaal van bestsellerauteur Portia MacIntosh. Perfect voor fans van romantische feelgood en Franse flair. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Portia MacIntosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De man die uit de lucht viel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747877/de-man-die-uit-de-lucht-viel-jan-stocklassa</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747877/de-man-die-uit-de-lucht-viel-jan-stocklassa"/>
+        <updated>2026-01-23T07:20:54.380Z</updated>
+        <summary type="html"><![CDATA[en de jacht op de vergeten Lockerbie-terrorist]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747877?aid=kb-online-bibliotheek&sid=19&dts=1769098428834&sig=4b8ad81930eada266b4a3901a5b757050c1d07edbe38238f2f74b46b42615778&width=320" alt="Omslag van 'De man die uit de lucht viel'" title="Omslag van 'De man die uit de lucht viel'">
+<p>Onderzoekend journalistiek verslag over de bomaanslag op een boeing waarbij een Zweedse diplomaat om het leven kwam.</p>]]></content>
+        <author>
+            <name>Jan Stocklassa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thuis met Nick]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45674780X/thuis-met-nick-nick-toet</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45674780X/thuis-met-nick-nick-toet"/>
+        <updated>2026-01-17T07:14:26.219Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45674780X?aid=kb-online-bibliotheek&sid=19&dts=1768576363043&sig=02a48dc28af931e93970ae7794debb2aa5f686ec5faf01f4228f3bd5ac9eb983&width=320" alt="Omslag van 'Thuis met Nick'" title="Omslag van 'Thuis met Nick'">
+<p>Thuis met Nick is geen gewoon kookboek. Het is een liefdesverklaring aan eten - en aan alles wat eten voor ons betekent. Voor Nick Toet is eten nooit simpelweg brandstof. Het is herinnering, troost, verbondenheid. Het is hoe je oma haar liefde liet zien met een extra schep stamppot, hoe je vrienden je een pan soep brachten toen je het moeilijk had en hoe de geur van knoflook en sambal je terugbrengt naar het huis waar je opgroeide.  In dit boek deelt Nick zijn favoriete gerechten, verhalen en herinneringen. Gerechten met wortels in familie, vriendschap en het leven zelf: van vrolijke avonden die eindigden met broodjes bouwen om vier uur 's nachts tot familierecepten die smaken naar thuiskomen. Thuis met Nick nodigt je uit om liefde vast te leggen in een pan stoofvlees of een schaal vol pasta. Want eten is nooit alleen eten - het is samen zijn, vieren, rouwen, lachen en troosten. Met Thuis met Nick kook je niet alleen iets lekkers; je legt momenten vast die je nooit meer vergeet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nick Toet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De stiltefabriek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747974/de-stiltefabriek-bridget-collins</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747974/de-stiltefabriek-bridget-collins"/>
+        <updated>2026-01-19T07:23:59.083Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747974?aid=kb-online-bibliotheek&sid=19&dts=1768738573026&sig=89bb25425b461e83522bcb07549758411e25f1257b6a98fd3202b845a5d838ca&width=320" alt="Omslag van 'De stiltefabriek'" title="Omslag van 'De stiltefabriek'">
+<p>Sophia Ashmore-Percy begeleidt haar man in 1820 naar een Grieks eiland waar hij onderzoek doet naar een geheimzinnige spin die een bijzonder spinrag kan produceren. Jaren later komt een audioloog in aanraking met een mysterieuze man die bovennatuurlijke zijde aanbiedt om geluiden te dempen.</p>]]></content>
+        <author>
+            <name>Bridget Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burgerbijbel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747699/burgerbijbel-ramon-brugman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747699/burgerbijbel-ramon-brugman"/>
+        <updated>2026-01-18T07:14:51.009Z</updated>
+        <summary type="html"><![CDATA[Van vis- en vegaburger tot vlees- en wildburger]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747699?aid=kb-online-bibliotheek&sid=19&dts=1768650329686&sig=ee5795d679ab36e1e36d7df8137739e6d012a5b868012f5fcff629dcc16c76e5&width=320" alt="Omslag van 'Burgerbijbel'" title="Omslag van 'Burgerbijbel'">
+<p>In Burgerbijbel van Ramon Brugman vind je meer dan 200 recepten voor verschillende burgers van vlees, vis, groente en peulvruchten. Van een klassieke cheeseburger tot sappige smashburger of vegaburger van zoete aardappel. Leer hoe je de lekkerste broodjes of buns kneedt en afbakt. Maak van allerlei ingrediënten de perfecte patty als basis van je burger. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ramon Brugman</name>
         </author>
     </entry>
     <entry>
@@ -233,153 +267,81 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het huis Chouette]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456748091/het-huis-chouette-fenneke-wekker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456748091/het-huis-chouette-fenneke-wekker"/>
-        <updated>2026-01-17T07:14:20.258Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748091?aid=kb-online-bibliotheek&sid=19&dts=1768557938613&sig=e03e29f005459a2fd5671f055fdee2d927b04d47ddd0ecd23a09b138a595542b&width=320" alt="Omslag van 'Het huis Chouette'" title="Omslag van 'Het huis Chouette'">
-<p>Op de vlucht voor zichzelf en haar verleden koopt Janneke een oud huis in een boerendorp in Frankrijk om tot rust te komen. Ondanks haar onverklaarbare liefde voor het koude, gehavende arbeidershuisje, gaat het nestelen niet vanzelf.  Om haar eigen demonen te bezweren verdiept ze zich in de geschiedenis van de familie Chouette die het huis drie generaties bewoonde: grootvader Leon en grootmoeder Josephine die zonder de Eerste Wereldoorlog niet getrouwd waren geweest, kinderen Gabriel, Robert en Simon, waarvan de laatste getraumatiseerd uit de Frans-Algerijnse dekolonisatieoorlog terugkeerde en kleinzoon Pierre die door de zelf gestookte calvados in de gevangenis belandde.  Hoe meer de voormalige bewoners zich aan haar opdringen, hoe beter Janneke inziet dat het gewelddadige verleden van deze familie gelijkenissen vertoont met haar eigen geschiedenis, hoe meer ze zich thuis begint te voelen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Zanger Ronald zingt de blues]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747818/zanger-ronald-zingt-de-blues-walter-van-den-berg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747818/zanger-ronald-zingt-de-blues-walter-van-den-berg"/>
+        <updated>2026-01-17T07:14:14.482Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747818?aid=kb-online-bibliotheek&sid=19&dts=1768634054025&sig=59812afb8e360aa03de4daf52bfdbddd62dcef29addeb855c1aa0f3ff945a435&width=320" alt="Omslag van 'Zanger Ronald zingt de blues'" title="Omslag van 'Zanger Ronald zingt de blues'">
+<p>Als volkszanger Ron te horen krijgt dat hij ongeneeslijk ziek is, besluit hij de dag door te brengen zoals hij altijd heeft geleefd: zingend in kroegen, weglopend van verantwoordelijkheden. Met zijn twijfelachtige vriend Joop Vissekom verzint hij een benefietconcert waarbij de bekende zanger Marco B. zou komen optreden - een plan dat net zo onwaarschijnlijk is als Rons pogingen zijn leven op orde te krijgen.  Maar terwijl hij van kroeg naar kroeg zwalkt, met een groeiend publiek op Facebook en een denkbeeldige Marco B. in het vooruitzicht, dringen de spoken uit zijn verleden zich op. De stilte van zijn vader, het geweld van zijn stiefvader, zijn eigen tijd in de gevangenis, en vooral: zijn mislukte vaderschap. Zijn broer Cor probeert hem te laten zien dat niet de grote drama's, maar juist de stille verwaarlozing het meeste pijn doet - een les die Ron misschien te laat leert.  Zanger Ronald zingt de blues is een tragikomisch verhaal over vaders en zonen, over weglopen en thuiskomen, en over hoe de kleinste leugens die we onszelf vertellen soms de grootste zijn.  Quotes:  'Lees Walter van den Berg!' Arjen Lubach  'Heel erg goed, zo 'klein' en daardoor groots, zo zwierig en gecontroleerd.' Gerbrand Bakker  'Zanger Ronald lives a little, sings a little, 'sloeg een man de pijp uit', raakt alles kwijt en komt tot helderheid.' Manon Uphoff </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Fenneke Wekker</name>
+            <name>Walter van den Berg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De 113e assistent-bibliothecaris]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456747907/de-113e-assistent-bibliothecaris-stuart-wilson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456747907/de-113e-assistent-bibliothecaris-stuart-wilson"/>
-        <updated>2026-01-17T07:14:24.116Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747907?aid=kb-online-bibliotheek&sid=19&dts=1768570577822&sig=40c04be6238a981b2d4f90df0144c9c24f2918e94d364a6ac75467c6b4310a4d&width=320" alt="Omslag van 'De 113e assistent-bibliothecaris'" title="Omslag van 'De 113e assistent-bibliothecaris'">
-<p>Oliver is een dertienjarige jongen die plots wordt geselecteerd voor de (onverwacht) gevaarlijke positie van 113e assistent-bibliothecaris van een bibliotheek. Als hij een langer leven wil leiden dan de 112 assistent-bibliothecarissen die hem voorgingen, moet Oliver zo snel mogelijk leren over alle geheimen van de bieb en de magie van de boeken. En hij had nog wel gedacht dat het werken in een bibliotheek saai zou zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een jaar na jou]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747656/een-jaar-na-jou-shari-low</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747656/een-jaar-na-jou-shari-low"/>
+        <updated>2026-01-17T07:14:25.723Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747656?aid=kb-online-bibliotheek&sid=19&dts=1768562255969&sig=89ad59f0d347a2cbef4cd81fb0a5d21124214ea311891c7107bcea3ac06fabce&width=320" alt="Omslag van 'Een jaar na jou'" title="Omslag van 'Een jaar na jou'">
+<p>Als je voor een tweesprong staat, ben jij de enige die het juiste pad kan kiezen...</p><p>Tress Walker  is een jaar geleden haar man verloren bij een auto-ongeluk, toen hij een weekendje weg was met zijn maîtresse en zij in het ziekenhuis aan het bevallen was van hun zoon. Ze bleef achter met liefdesverdriet, maar naarmate de tijd vordert, moet Tress kiezen of ze haar gebroken hart wil beschermen of dat ze zich wil openstellen voor een nieuwe liefde.</p><p>Het was een enorme schok voor  Noah Clark  toen hij erachter kwam dat zijn vrouw en zijn beste vriend een affaire hadden. Maar nu vraagt de liefde van zijn leven hem om een tweede kans. Kunnen ze echt terug naar hoe het was nu het vertrouwen er niet meer is?  Noahs zus,  Keri Clark , is net geghost door de man van wie ze houdt. Wanneer een bericht van een vreemde haar vertelt waarom, moest ze beslissen of ze het wil vergeten en vergeven, of dat ze hem wil laten boeten.</p><p>Veertig jaar lang was de prachtige  Odette Devine  een geliefde actrice in een Schotse tv-serie. Vandaag de dag voelt ze zich verloren, verraden, en wil ze weten of dit payback is voor een leugen die ze vier decennia geleden had verteld.</p><p>Vierentwintig uur. Vier choquerende geheimen. Een verhaal over liefde, verlies en tweede kansen.</p><p>Voor fans van Marian Keyes en Jenny Colgan.  'Een plezier om te lezen, van begin tot eind!' - Jenny Colgan </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Stuart Wilson</name>
+            <name>Shari Low</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aan de oever van de rivier]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456747672/aan-de-oever-van-de-rivier-ingrid-kluvers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456747672/aan-de-oever-van-de-rivier-ingrid-kluvers"/>
-        <updated>2026-01-17T07:14:23.601Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747672?aid=kb-online-bibliotheek&sid=19&dts=1768553887556&sig=df102a0ae9ce8804b3cc6bf9df3ee5a26c3b32d2b6344f3804087e5a3893a5b6&width=320" alt="Omslag van 'Aan de oever van de rivier'" title="Omslag van 'Aan de oever van de rivier'">
-<p>De zeventigjarige Louise kijkt vanuit haar appartement uit op de Amstel. Aan de oever ligt een plastic zandbak in de vorm van een blauwe schelp te wachten tot de plantsoenendienst hem op komt halen. Op een avond ziet ze hoe iemand de zandschelp in het water probeert te duwen en ze haast zich ernaartoe.  Eenmaal bij de oever, is de persoon verdwenen en drijft de schelp de rivier op. Louise bedenkt zich geen moment, duikt in het water en zwemt erachteraan om te voorkomen dat-ie naar de bodem zinkt. Halverwege ontdekt ze tot haar schrik dat er een baby in de schelp ligt. Ze neemt een beslissing die haar zal terugwerpen op zaken waarvan ze dacht dat ze die allang achter zich had gelaten.  Aan de oever van de rivier is een roman over loslaten en de angst voor verlies. Een verhaal over de keuzes die we zelf maken en de keuzes die voor ons gemaakt worden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Project D.I.N.O.]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45674763X/project-d-i-n-o--timon-verbeeck</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45674763X/project-d-i-n-o--timon-verbeeck"/>
+        <updated>2026-01-17T07:14:27.783Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45674763X?aid=kb-online-bibliotheek&sid=19&dts=1768634067315&sig=30aacb8d6d0bd2cf6a157f5bcd1cd4431241869d46df6723cb3f7ebaa026deeb&width=320" alt="Omslag van 'Project D.I.N.O.'" title="Omslag van 'Project D.I.N.O.'">
+<p>Het is de eerste dag van de vakantie en Timon verveelt zich dood. Hij verveelt zich zelfs zo erg dat hij per ongeluk de kamer in brand steekt. Typisch! Zijn ouders besluiten om Timon de zwaarste straf ooit te geven: hij moet op Frans taalkamp... Gelukkig weet de knappe kerel te ontsnappen en zo heeft hij de komende twee weken écht vakantie. Zonder de leerkracht Frans en zonder zijn ouders! Maar dan raakt Timon verzeild in een zeer duister complot. Een geheime missie met de naam Project D.I.N.O. De missie is zelfs zó geheim, dat we helemaal niet mogen verklappen dat het over dinosaurussen gaat.</p><p> LET OP: EPUB3, ALLEEN TE LEZEN OP TABLET, LAPTOP OF MOBIELE TELEFOON. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ingrid Kluvers</name>
+            <name>Timon Verbeeck</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De knallende waarheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456747788/de-knallende-waarheid-danny-de-looze</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456747788/de-knallende-waarheid-danny-de-looze"/>
-        <updated>2026-01-18T07:14:51.476Z</updated>
-        <summary type="html"><![CDATA[Weetjes over scheetjes]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747788?aid=kb-online-bibliotheek&sid=19&dts=1768648503161&sig=5b38bdecdbdbace6c7e1dc69c891f5927b93e78e2d5c318efe485d2e1b592362&width=320" alt="Omslag van 'De knallende waarheid'" title="Omslag van 'De knallende waarheid'">
-<p>Wat is een scheet? Hoeveel scheten laat je ongeveer per dag? Waarom stinkt jouw scheet wel en die van je beste vriend niet? En kun je iemand vergassen met een extreem stinkende wind? Op deze belangrijke vragen geeft maag- en darmspecialist en topdokter Danny De Looze maar al te graag een antwoord. Samen met Billie en Charlie (en niet te vergeten: met Scheetman) legt hij de stinkende waarheid over jouw scheten (en die van anderen) bloot. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De IJsdoder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747885/de-ijsdoder-ross-greenwood</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747885/de-ijsdoder-ross-greenwood"/>
+        <updated>2026-01-17T07:14:19.320Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747885?aid=kb-online-bibliotheek&sid=19&dts=1768554303732&sig=fbe68008cb000adabc03dbdc5bcb75df950170d72315c93140269256e690a5d4&width=320" alt="Omslag van 'De IJsdoder'" title="Omslag van 'De IJsdoder'">
+<p>Het derde deel in de bloedstollende Inspecteur Barton-serie.  De winter komt eraan, en inspecteur Barton staat voor de zwaarste zaak uit zijn carrière...  De therapeut van Ellen Toole heeft haar aangeraden het verleden achter zich te laten, maar met haar geheimzinnige familiegeschiedenis, is dat makkelijker gezegd dan gedaan. De lange winternachten werpen hun dreigende schaduw, en nu haar moeder op sterven ligt, voelt Ellen zich eenzamer dan ooit. Wanneer blijkt dat Ellens moeder geheimen heeft bewaard over een verleden dat nog duisterder is dan ze ooit had kunnen vermoeden, moet ze antwoorden vinden als ze enige hoop op een toekomst wil hebben.  Inspecteur Barton en zijn team zijn nog aan het bijkomen van een bijzonder zware en gruwelijke zaak, dus een melding van een ontvoering, gevolgd door de vondst van twee lichamen, komt op het slechtst mogelijke moment. Er loopt een moordenaar rond, en die moet gestopt worden voordat hij opnieuw toeslaat. Deze winter staat wraak centraal in Ellens gedachten, en Barton worstelt met zijn moeilijkste zaak tot nu toe.  Hoe kan Barton de waarheid achterhalen als alle getuigen dood zijn? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Danny De Looze</name>
+            <name>Ross Greenwood</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zachtjes, neem ik afscheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456747710/zachtjes--neem-ik-afscheid-priscilla-presley</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456747710/zachtjes--neem-ik-afscheid-priscilla-presley"/>
-        <updated>2026-01-17T07:14:12.803Z</updated>
-        <summary type="html"><![CDATA[Leven na Elvis]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747710?aid=kb-online-bibliotheek&sid=19&dts=1768634052366&sig=aef3f3a449ac5466d5abc2dba08bac365b1c985ad4d532f3e6255c94513df373&width=320" alt="Omslag van 'Zachtjes, neem ik afscheid'" title="Omslag van 'Zachtjes, neem ik afscheid'">
-<p>Zachtjes, neem ik afscheid is de langverwachte en intieme memoires van Priscilla Beaulieu Presley. Op haar veertiende ontmoette Priscilla Elvis, drie jaar later bezocht ze hem op Graceland. Ze trouwden en Elvis en Graceland zouden haar nooit meer loslaten ondanks hun scheiding en zijn dood in 1977. Ze hadden immers samen dochter Lisa Marie. Priscilla Presley zorgde ervoor dat Graceland behouden bleef als erfgoed, ontpopte zich als dierenactivist, iconisch komedie-actrice en ondernemer. Maar ze is vooral een moeder en vrouw. Achter de glamour, zit een geschiedenis van een man en kinderen met verslavingen. Een verhaal over jezelf blijven ontwikkelen om te overleven. Maar het onverwachte, verwoestende verlies van drie naaste familieleden bracht Priscilla op haar knieën. Ze deelt haar reis met een waardigheid die troost en geruststelling biedt aan iedereen die heeft geleden en een schijnbaar ondraaglijk verlies heeft doorstaan. Een gepassioneerd en voor iedereen inspirerend verhaal over het vinden van je plek in de wereld, Zachtjes, neem ik afscheid, neemt de lezer mee met Priscilla op haar lange weg naar huis en het verwerken van verlies. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Kintsugi]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456748105/kintsugi-esther-bakker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456748105/kintsugi-esther-bakker"/>
+        <updated>2026-01-17T07:14:27.208Z</updated>
+        <summary type="html"><![CDATA[Sommige dingen zijn mooier als ze eerst gebroken zijn]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748105?aid=kb-online-bibliotheek&sid=19&dts=1768550874952&sig=86ea7b2f3169e7a844d5f32002cc5c9a349a54151b26c388b317acde47fbe9b2&width=320" alt="Omslag van 'Kintsugi'" title="Omslag van 'Kintsugi'">
+<p>Omdat hun ouders een relatie hebben, moeten Laura en Bowen in één huis gaan wonen. Laura zit niet echt te wachten op een stiefbroer, zeker niet als blijkt dat haar beste vriendin Bobbie hem wel ziet zitten. Bowen is gezakt voor zijn eindexamen, terwijl zijn klasgenoten gaan studeren. Kortom: er is veel aan de hand. Weten Laura en Bowen elkaar te vinden in deze zomer vol verandering? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Priscilla Presley</name>
+            <name>Esther Bakker</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het elfde manuscript]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456747869/het-elfde-manuscript-anne-holt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456747869/het-elfde-manuscript-anne-holt"/>
-        <updated>2026-01-17T07:14:21.657Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747869?aid=kb-online-bibliotheek&sid=19&dts=1768625788775&sig=a43362257dbcf825d068200012262ee04b5559ffdcab19e1addc7a4a27198575&width=320" alt="Omslag van 'Het elfde manuscript'" title="Omslag van 'Het elfde manuscript'">
-<p>In de kofferbak van een auto wordt het naakte lichaam van een dode vrouw gevonden. Haar lichaam is intact, maar haar gezicht is volledig verminkt. Niemand weet wie ze is. Niemand heeft haar als vermist opgegeven. Politieagent Henrik Holme staat voor een raadsel en roept de hulp in van zijn voormalige mentor, de gepensioneerde politielegende Hanne Wilhelmsen.  Tegelijkertijd heeft de jonge redacteur Ebba Braut, nog maar net begonnen bij de grootste uitgeverij van Noorwegen, de opdracht gekregen om het verloren gegane manuscript van een van de bestverkopende auteurs van het land op te sporen. Ook Ebba klopt aan bij Hanne Wilhelmsen, die net haar eerste misdaadroman heeft ingeleverd - maar zich met geen van beide zaken wil bemoeien. Totdat blijkt dat ze niet anders kan...  'Op pakkende wijze bouwt ze [Anne Holt] haar verhaal heel slim op, waarbij ze steeds voor twists en verrassingen zorgt. Haar taalgebruik en zinsconstructie verdienen een pluim en ze scharen Holt bij de top van de Europese thrillerauteurs.' Hebban </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Voor we oud worden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747893/voor-we-oud-worden-clare-swatman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747893/voor-we-oud-worden-clare-swatman"/>
+        <updated>2026-01-17T07:14:16.978Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747893?aid=kb-online-bibliotheek&sid=19&dts=1768634054594&sig=2c07cd7bfdc7ccc900d2a40c785bef99c35ddeb6840767db4a9b3b0ba1ed0d70&width=320" alt="Omslag van 'Voor we oud worden'" title="Omslag van 'Voor we oud worden'">
+<p>Vijfentwintig jaar later is de liefde van haar leven terug. Wil het lot hen een tweede kans geven?  Toen de zevenjarige Fran Will voor het eerst ontmoette, wist ze meteen dat ze voor elkaar gemaakt waren. Elf jaar lang waren ze onafscheidelijk, maar toen verdween Will op achttienjarige leeftijd plotseling uit haar leven.  Vijfentwintig jaar later is Will terug. Kan ze hem nog een kans geven?  Fran draagt het liefdesverdriet van al die jaren nog steeds met zich mee en gunt hem geen blik waardig. De prijs die Will moet betalen is de waarheid: de waarheid over waarom hij vertrok, en waarom hij nu is teruggekeerd. Maar ook Fran heeft zo haar eigen geheimen. Het moment is aangebroken om te beslissen wat zij en Will echt willen in het leven - voor het te laat is.  Perfect voor fans van Sophie Cousens en Isabelle Broom. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Anne Holt</name>
+            <name>Clare Swatman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slowcookerbijbel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456748024/slowcookerbijbel-bas-robben</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456748024/slowcookerbijbel-bas-robben"/>
-        <updated>2026-01-17T07:14:24.646Z</updated>
-        <summary type="html"><![CDATA[Recepten om groente, vis en vlees perfect te garen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748024?aid=kb-online-bibliotheek&sid=19&dts=1768557554469&sig=e7451ddea368dde5bc3d17a292170b9dfbd1909e708989a4b69c591b3224806a&width=320" alt="Omslag van 'Slowcookerbijbel'" title="Omslag van 'Slowcookerbijbel'">
-<p>Gebruik je slowcooker in het weekend om te ontbijten met shakshuka, te lunchen met Thaise kiptaco's of 's avonds een wildstoof op tafel te zetten. Stoof pompoenparten en wortels en serveer met een specerijenboter. Zelfs chocoladerijstepap met marshmallowfluff tover je als nagerecht zó uit je slowcooker. Bas laat met Slowcookerbijbel zien hoe je gevarieerd en smaakvol kunt koken met je slowcooker. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[We did OK, kid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456747931/we-did-ok--kid-anthony-hopkins</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456747931/we-did-ok--kid-anthony-hopkins"/>
+        <updated>2026-01-18T07:14:48.450Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747931?aid=kb-online-bibliotheek&sid=19&dts=1768637131785&sig=7c488e71665771af1993c6ab534b8a22265ace3f0a8cc878990c16b40356ca4c&width=320" alt="Omslag van 'We did OK, kid'" title="Omslag van 'We did OK, kid'">
+<p>In We did OK, kid neemt Sir Anthony Hopkins je vol overgave mee in zijn illustere film- en theatercarrière. Met openhartigheid en een stem die zowel boeiend als kwetsbaar is, doet Hopkins verslag van de verschillende mijlpalen in zijn carrière en biedt hij een uniek inkijkje in de genialiteit achter een paar van zijn meest iconische rollen. Dat doet hij allemaal zonder de diepe dalen uit zijn persoonlijke leven te schuwen: zijn alcoholverslaving kostte hem zijn eerste huwelijk, zijn relatie met zijn enige kind en zelfs bijna zijn leven. Dat laatste helpt hem om nu zonder alcohol door het leven te gaan - al een halve eeuw lang. Naarmate de jaren verstrijken, wordt hij steeds meer geconfronteerd met vragen over zijn sterfelijkheid en bereidt hij zich voor om te ontdekken wat zijn vader Het Grote Geheim noemde.  We did OK, kid is een rauwe en persoonlijke memoir, geschreven door een complexe, iconische acteur die het publiek al zestig jaar inspireert met zijn verbluffende optredens. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Bas Robben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pasta semplice]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456748067/pasta-semplice-janneke-philippi</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456748067/pasta-semplice-janneke-philippi"/>
-        <updated>2026-01-17T07:14:21.179Z</updated>
-        <summary type="html"><![CDATA[Meer dan 100 eenvoudige pasta's voor doordeweeks en het weekend]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748067?aid=kb-online-bibliotheek&sid=19&dts=1768557243490&sig=47844e3fe9cccc3ee6111bf411ce470075a97428560e3b8c11f56c8e9b3c17b3&width=320" alt="Omslag van 'Pasta semplice'" title="Omslag van 'Pasta semplice'">
-<p>Pasta Semplice bevat meer dan 100 eenvoudige pastarecepten voor doordeweeks en in het weekend. Klassieke pasta's en nieuwe snelle pastafavorieten, naast eenpanspasta's en pastaschotels uit de oven. Voor het weekend zijn er pasta's met stoofvlees en verse pasta's zonder pastamachine. Ze vragen wat meer tijd, maar zijn net zo simpel te bereiden. Voor bij de pasta geeft Janneke heerlijk pizza-, focacce- en broodrecepten, die ook al zo eenvoudig zijn, en je pastamaaltijd helemaal áf maken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Janneke Philippi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storm in papa's hoofd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456748032/storm-in-papa-s-hoofd-lucas-van-de-meerendonk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456748032/storm-in-papa-s-hoofd-lucas-van-de-meerendonk"/>
-        <updated>2026-01-17T07:14:22.653Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748032?aid=kb-online-bibliotheek&sid=19&dts=1768576474576&sig=f8568e5174701b908b796b59b31bc8623b969f6cd843534a49bafa828c7d1385&width=320" alt="Omslag van 'Storm in papa's hoofd'" title="Omslag van 'Storm in papa's hoofd'">
-<p>Het stormt in papa's hoofd, het regent, waait en onweert. Soms is het zo erg dat het dondert in huis. Het liefst wil papa schuilen voor het noodweer, samen met zijn dochter, maar wat als dat even niet lukt? Een prachtig prentenboek over de worsteling van een vader met mentale problemen die zijn dochter hiervoor wil beschermen, gebaseerd op persoonlijke ervaring. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lucas van de Meerendonk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writer's Block]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45674813X/writer-s-block-michel-van-egmond</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45674813X/writer-s-block-michel-van-egmond"/>
-        <updated>2026-01-17T07:14:25.234Z</updated>
-        <summary type="html"><![CDATA[Van Picasso tot Gijp: een zoektocht naar het perfecte verhaal]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45674813X?aid=kb-online-bibliotheek&sid=19&dts=1768634064800&sig=d0d3d3ad7896f290d7f24e375dd397972d781c1d291ddc34985de56b747aefa8&width=320" alt="Omslag van 'Writer's Block'" title="Omslag van 'Writer's Block'">
-<p>Aangespoord door die ene, telkens terugkerende vraag - 'wanneer ga je nu eens over iets anders schrijven dan voetbal?' - treedt Michel van Egmond in Writer's Block buiten de lijnen van het sportveld.  Op zijn vertrouwde lichte toon - bekend van bestsellers als Gijp, Kieft, Derksen en Topshow - bericht hij dit keer over zijn persoonlijke fascinaties, over bijzondere mensen met bijzondere levens, over zijn eigen leven, over ongelooflijke en ten onrechte vergeten gebeurtenissen en nog steeds, af en toe, ook over voetbal...</p><p>Het resultaat is een originele en voortrazende mozaïek-vertelling, met verhalen over een bonte verzameling aan kunstenaars, avonturiers, muzikanten, zwervers, schrijvers, voetballers, acteurs, tv-persoonlijkheden, terroristen, boksers en politici, alsmede een wonderkind, een oorlogsfotograaf en zelfs een paar honden.  Van Pablo Picasso tot René van der Gijp, van Wilfried de Jong tot Joe DiMaggio, van Robert F. Kennedy tot Willy van de Kerkhof en van Matthijs van Nieuwkerk tot Errol Flynn: allemaal komen ze voorbij in Van Egmonds zoektocht naar het perfecte verhaal, met als resultaat een boek dat bijna ongemerkt bomvol bijzondere levensgeschiedenissen zit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Michel van Egmond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thuis met Nick]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45674780X/thuis-met-nick-nick-toet</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45674780X/thuis-met-nick-nick-toet"/>
-        <updated>2026-01-17T07:14:26.219Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45674780X?aid=kb-online-bibliotheek&sid=19&dts=1768576363043&sig=02a48dc28af931e93970ae7794debb2aa5f686ec5faf01f4228f3bd5ac9eb983&width=320" alt="Omslag van 'Thuis met Nick'" title="Omslag van 'Thuis met Nick'">
-<p>Thuis met Nick is geen gewoon kookboek. Het is een liefdesverklaring aan eten - en aan alles wat eten voor ons betekent. Voor Nick Toet is eten nooit simpelweg brandstof. Het is herinnering, troost, verbondenheid. Het is hoe je oma haar liefde liet zien met een extra schep stamppot, hoe je vrienden je een pan soep brachten toen je het moeilijk had en hoe de geur van knoflook en sambal je terugbrengt naar het huis waar je opgroeide.  In dit boek deelt Nick zijn favoriete gerechten, verhalen en herinneringen. Gerechten met wortels in familie, vriendschap en het leven zelf: van vrolijke avonden die eindigden met broodjes bouwen om vier uur 's nachts tot familierecepten die smaken naar thuiskomen. Thuis met Nick nodigt je uit om liefde vast te leggen in een pan stoofvlees of een schaal vol pasta. Want eten is nooit alleen eten - het is samen zijn, vieren, rouwen, lachen en troosten. Met Thuis met Nick kook je niet alleen iets lekkers; je legt momenten vast die je nooit meer vergeet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nick Toet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ik sta in wilde schoonheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456748059/ik-sta-in-wilde-schoonheid-susan-smit</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456748059/ik-sta-in-wilde-schoonheid-susan-smit"/>
-        <updated>2026-01-17T07:14:19.834Z</updated>
-        <summary type="html"><![CDATA[Meer dan 100 gedichten over het vrouwenlichaam, geschreven door vrouwen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456748059?aid=kb-online-bibliotheek&sid=19&dts=1768634059431&sig=7f62ee5244adca6c635466817850d7c59d42429f56c6a39742b0e3255a9782b2&width=320" alt="Omslag van 'Ik sta in wilde schoonheid'" title="Omslag van 'Ik sta in wilde schoonheid'">
-<p>Lieve vrouw, kom erbij. Wees welkom in onze prachtige, weelderige, wilde tuin. Wandel maar naar binnen, hier zijn we onder elkaar. Zie hoe mooi en sterk ons vrouwenlichaam is, inclusief al onze eigenaardigheden. Hoe fijntjes ze is afgestemd. Hoe ze jong en onbezonnen kan zijn, hoe ze leven kan geven en hoe ze tekens draagt van de tijd. Hoe ruimhartig ze in staat stelt om te jubelen, te rouwen, te verwerken, te verlustigen.  In deze bundel staan meer dan 100 gedichten over het vrouwenlichaam, door Nederlandse en Vlaamse dichters die er een bewonen, geselecteerd door Susan Smit. Ik sta in wilde schoonheid wil bevrijden en aanklagen, maar vooral vieren. Want een vrouw zijn, is verrukkelijk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Susan Smit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burgerbijbel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456747699/burgerbijbel-ramon-brugman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456747699/burgerbijbel-ramon-brugman"/>
-        <updated>2026-01-18T07:14:51.009Z</updated>
-        <summary type="html"><![CDATA[Van vis- en vegaburger tot vlees- en wildburger]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456747699?aid=kb-online-bibliotheek&sid=19&dts=1768650329686&sig=ee5795d679ab36e1e36d7df8137739e6d012a5b868012f5fcff629dcc16c76e5&width=320" alt="Omslag van 'Burgerbijbel'" title="Omslag van 'Burgerbijbel'">
-<p>In Burgerbijbel van Ramon Brugman vind je meer dan 200 recepten voor verschillende burgers van vlees, vis, groente en peulvruchten. Van een klassieke cheeseburger tot sappige smashburger of vegaburger van zoete aardappel. Leer hoe je de lekkerste broodjes of buns kneedt en afbakt. Maak van allerlei ingrediënten de perfecte patty als basis van je burger. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ramon Brugman</name>
+            <name>Anthony Hopkins</name>
         </author>
     </entry>
 </feed>
