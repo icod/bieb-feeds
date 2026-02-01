@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-01-31T07:23:20.001Z</updated>
+    <updated>2026-02-01T07:32:42.081Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Wie is hier de baas]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45729521X/wie-is-hier-de-baas-nicole-snow</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45729521X/wie-is-hier-de-baas-nicole-snow"/>
+        <updated>2026-02-01T07:32:42.079Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45729521X?aid=kb-online-bibliotheek&sid=19&dts=1769849972488&sig=94ed8d755a60a92f731e253e85c2005bb9a3057df656746537ee3ae62c4086c4&width=320" alt="Omslag van 'Wie is hier de baas'" title="Omslag van 'Wie is hier de baas'">
+<p>Sabrina gelooft in ongeluk. En terecht, zo lijkt het, want op vrijdag de dertiende gaat alles mis. Eerst verslaapt ze zich gigantisch, dan wordt een van haar hakken opgevreten door de lift en dan meldt haar baas dat ze haar baan kwijt is. Om zichzelf te troosten, gaat Sabrina naar haar favoriete koffietent voor een cinnamon latte, die ze meeneemt naar het park. Net als ze op een bankje zit te genieten van de troostkoffie, komt er op hoge poten een man naar haar toe die eist dat ze daar weggaat omdat ze in "zijn licht" zit. Eh, hallo? Sabrina, die er helemaal klaar mee is voor vandaag, laat dit niet over zich heen komen... Iets waar Magnus zo van onder de indruk is dat hij haar direct wil aannemen als zijn executive assistant. Zo begint een heerlijk verhaal vol aantrekken en afstoten, waarin Sabrina en Magnus elkaar beter leren kennen dan ze ooit iemand hebben toegestaan. 'Wie is hier de baas' is het eerste deel in de grappige en levensechte office romance-serie Chicago CEO's van Nicole Snow. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nicole Snow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De verloren meisjes van Ierland]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456734147/de-verloren-meisjes-van-ierland-susanne-o-leary</id>
@@ -232,6 +243,53 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De zoemsteen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444254692/de-zoemsteen-arend-van-dam</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444254692/de-zoemsteen-arend-van-dam"/>
+        <updated>2026-01-31T07:23:19.313Z</updated>
+        <summary type="html"><![CDATA[Verhalen uit de grond]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254692?aid=kb-online-bibliotheek&sid=19&dts=1769783498740&sig=705c657af9ffec7484f5abc5a292fe6d8d9480b25783117eb1a4c8c6b185620d&width=320" alt="Omslag van 'De zoemsteen'" title="Omslag van 'De zoemsteen'">
+<p>Het eerste deel in een fijne nieuwe serie voor leergierige lezers In een toegankelijk geschreven stapelverhaal vertelt Arend van Dam over zeven bijzondere archeologische vondsten van Nederlandse bodem. De kies van een mammoet bijvoorbeeld. Dit magnifieke dier liep hier tienduizend jaar geleden rond tussen gevaarlijke dieren als de holenbeer, de grottenleeuw en de sabeltandtijger en de mens. En over een rode jurk van zuivere zijde van 300 jaar oud, die gevonden werd in het wrak van een schip. Van wie was deze jurk? Wat is er met haar gebeurd? En over de intrigerende zoemsteen van 7500 jaar oud, waarvan we nog steeds niet zo goed weten wat je ermee kon doen. Maakte hij muziek? Kon je ermee spelen? Of kon je er misschien mee om hulp roepen? De zoemsteen is een boeiende verhalenbundel voor beginnende lezers. Roland Sillem maakte de prachtige illustraties. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Arend van Dam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het is jullie zo gegund]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44426003X/het-is-jullie-zo-gegund-thijs-launspach</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44426003X/het-is-jullie-zo-gegund-thijs-launspach"/>
+        <updated>2026-01-31T07:23:19.999Z</updated>
+        <summary type="html"><![CDATA[Als een kind krijgen niet vanzelf gaat]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44426003X?aid=kb-online-bibliotheek&sid=19&dts=1769783481479&sig=e4268e9cb2d78e0c60c5c7019b733b02b1ff4c159eab23ae80f09a4cb9db2aa7&width=320" alt="Omslag van 'Het is jullie zo gegund'" title="Omslag van 'Het is jullie zo gegund'">
+<p>Wanneer wat je zo graag wilt, niet lukt  Psycholoog en bestsellerauteur Thijs Launspach probeert met zijn partner jaren kinderen te krijgen en belandt er zelfs voor in een vruchtbaarheidstraject. Terwijl zijn relatie aan een zijden draadje hangt, probeert hij te dealen met alle verdriet en frustratie. En dan blijkt: aan al die psychologische kennis heb je, in het heetst van de strijd, precies niets. Een eerlijk boek vol wrange humor, dat troost biedt aan koppels die lijden aan verminderde vruchtbaarheid, en dan vooral de 'manvormige aanhangsels' onder hen.</p><p>Thijs Launspach (1988) is psycholoog, auteur en spreker. Op zijn naam staan de bestsellers Fokking Druk, Asociale media en Je bent al genoeg. Hij schrijft een wekelijkse column voor het Algemeen Dagblad en geeft les bij The School of Life. Ook maakt hij de podcast Normale mensen bestaan niet en geeft hij regelmatig psychologische duiding in het publieke debat. Het is jullie zo gegund is zijn persoonlijkste boek to nu toe. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Thijs Launspach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44425997X/waarom-de-laagsteprijsgarantie-ervoor-zorgt-dat-jij-te-veel-betaalt-jona-van-loenen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44425997X/waarom-de-laagsteprijsgarantie-ervoor-zorgt-dat-jij-te-veel-betaalt-jona-van-loenen"/>
+        <updated>2026-01-31T07:23:19.784Z</updated>
+        <summary type="html"><![CDATA[Antwoorden op vragen die economen niet durven te stellen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44425997X?aid=kb-online-bibliotheek&sid=19&dts=1769794324512&sig=fcac6166b209d7d01100b8b91cc948ad1fc2bcb6d7633c754b833e2c6283d7dc&width=320" alt="Omslag van 'Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt'" title="Omslag van 'Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt'">
+<p>Dit boek geeft antwoord op de belangrijkste vragen die economen niet durven te stellen  'Deze verfrissende kijk op de economie zou iedereen moeten lezen.' Pieter Uittenbogaard, Leraar van het jaar 2023-2024</p><p>Waarom houden cafés elke week, maar boekenwinkels nooit een happy hour? Waarom verdienen Taylor Swift en CEO's zo veel (en jij en ik zo weinig)? Waarom is het juist goed als overheden blunders maken? En waarom zorgt de laagsteprijsgarantie ervoor dat jij te veel betaalt?</p><p>Hoewel de economie ons leven en de maatschappij compleet beheerst, weten de meesten van ons op deze simpele vragen geen antwoord te geven. Dit boek brengt daar voorgoed verandering in. Jona van Loenen ontrafelt de fabels en mythen van de economie en geeft antwoorden op de belangrijkste vragen die economen niet durven te stellen. Zodat jij de economie, en daarmee vooral de wereld en je eigen leven, eindelijk écht begrijpt.</p><p>Jona van Loenen behaalde aan Bocconi University in Milaan de master Finance summa cum laude. Daarna begon hij een master Financial Economics, maar besloot om te stoppen met studeren, omdat hij door zijn studie juist steeds minder van de échte economie begreep. Jona stond vanaf 2018 als Head of Research aan de basis van Gain.pro, een van de snelst groeiende FinTech start-ups in Europa. Sinds 2021 is Jona publicist voor o.a. de Volkskrant, Trouw, Het Parool, Het Financieele Dagblad en NRC. Daarnaast heeft hij de populaire Substack 'De Undercover Econoom'.</p><p>Over Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt:'Deze verfrissende kijk op de economie zou iedereen moeten lezen.' Pieter Uittenbogaard, Leraar van het jaar 2023-2024</p><p>'In Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt analyseert Jona van Loenen tachtig jaar economische ontwikkeling en deelt met ons wat hij allemaal leerde door te stoppen met z'n studie economie. Hopelijk kunnen we met zijn inzichten betere antwoorden formuleren op de fatale gevolgen van ons doorgeslagen consumptisme.' Harm Edens </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jona van Loenen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De twee levens van Kaia]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444254714/de-twee-levens-van-kaia-chris-kooi</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444254714/de-twee-levens-van-kaia-chris-kooi"/>
+        <updated>2026-01-31T07:23:19.057Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254714?aid=kb-online-bibliotheek&sid=19&dts=1769784314312&sig=7ec6252ec1077bea03a5b6961183c1dd115c3134c782c3b9ca2eaf673f79d049&width=320" alt="Omslag van 'De twee levens van Kaia'" title="Omslag van 'De twee levens van Kaia'">
+<p>Over een normale jongen in een heel vreemde wereld.</p><p>Kaia en zijn moeder verhuizen heel vaak, meestal omdat ze de huur niet meer kunnen betalen. Wanneer Kaia’s oma spoorloos verdwijnt, besluit zijn moeder dat ze in háár huis gaan wonen. Kaia hoopt dat dit het begin is van een nieuw leven waarin zijn moeder gelukkiger is en hij minder vaak afscheid hoeft te nemen. Kaia gaat ook nu weer naar een nieuwe school. Op een dag, wanneer hij iets uit een boek moet kopiëren, is de school plotseling omringd door een mysterieuze mist, en gek genoeg lijkt hij helemaal alleen te zijn. Geen andere leerlingen, geen leraren... Het is het begin van een duizelingwekkend avontuur met verschillende werelden, dubbelgangers en een complot. Samen met zijn klasgenoot Sue zal hij alles op alles moeten zetten om het mysterie van de dubbelgangers te ontrafelen. Voor lezers vanaf 10 jaar. Voor fans van Jumanji, Back to the Future en Stranger Things </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Chris Kooi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nederland]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444259848/nederland-alle-geschiedenis-ooit---arco-gnocchi---nynke-de-jong---thom-aalmoes</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444259848/nederland-alle-geschiedenis-ooit---arco-gnocchi---nynke-de-jong---thom-aalmoes"/>
@@ -268,29 +326,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De twee levens van Kaia]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444254714/de-twee-levens-van-kaia-chris-kooi</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444254714/de-twee-levens-van-kaia-chris-kooi"/>
-        <updated>2026-01-31T07:23:19.057Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254714?aid=kb-online-bibliotheek&sid=19&dts=1769784314312&sig=7ec6252ec1077bea03a5b6961183c1dd115c3134c782c3b9ca2eaf673f79d049&width=320" alt="Omslag van 'De twee levens van Kaia'" title="Omslag van 'De twee levens van Kaia'">
-<p>Over een normale jongen in een heel vreemde wereld.</p><p>Kaia en zijn moeder verhuizen heel vaak, meestal omdat ze de huur niet meer kunnen betalen. Wanneer Kaia’s oma spoorloos verdwijnt, besluit zijn moeder dat ze in háár huis gaan wonen. Kaia hoopt dat dit het begin is van een nieuw leven waarin zijn moeder gelukkiger is en hij minder vaak afscheid hoeft te nemen. Kaia gaat ook nu weer naar een nieuwe school. Op een dag, wanneer hij iets uit een boek moet kopiëren, is de school plotseling omringd door een mysterieuze mist, en gek genoeg lijkt hij helemaal alleen te zijn. Geen andere leerlingen, geen leraren... Het is het begin van een duizelingwekkend avontuur met verschillende werelden, dubbelgangers en een complot. Samen met zijn klasgenoot Sue zal hij alles op alles moeten zetten om het mysterie van de dubbelgangers te ontrafelen. Voor lezers vanaf 10 jaar. Voor fans van Jumanji, Back to the Future en Stranger Things </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Chris Kooi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De zoemsteen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444254692/de-zoemsteen-arend-van-dam</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444254692/de-zoemsteen-arend-van-dam"/>
-        <updated>2026-01-31T07:23:19.313Z</updated>
-        <summary type="html"><![CDATA[Verhalen uit de grond]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254692?aid=kb-online-bibliotheek&sid=19&dts=1769783498740&sig=705c657af9ffec7484f5abc5a292fe6d8d9480b25783117eb1a4c8c6b185620d&width=320" alt="Omslag van 'De zoemsteen'" title="Omslag van 'De zoemsteen'">
-<p>Het eerste deel in een fijne nieuwe serie voor leergierige lezers In een toegankelijk geschreven stapelverhaal vertelt Arend van Dam over zeven bijzondere archeologische vondsten van Nederlandse bodem. De kies van een mammoet bijvoorbeeld. Dit magnifieke dier liep hier tienduizend jaar geleden rond tussen gevaarlijke dieren als de holenbeer, de grottenleeuw en de sabeltandtijger en de mens. En over een rode jurk van zuivere zijde van 300 jaar oud, die gevonden werd in het wrak van een schip. Van wie was deze jurk? Wat is er met haar gebeurd? En over de intrigerende zoemsteen van 7500 jaar oud, waarvan we nog steeds niet zo goed weten wat je ermee kon doen. Maakte hij muziek? Kon je ermee spelen? Of kon je er misschien mee om hulp roepen? De zoemsteen is een boeiende verhalenbundel voor beginnende lezers. Roland Sillem maakte de prachtige illustraties. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Arend van Dam</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Voor altijd op de vlucht]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/445994029/voor-altijd-op-de-vlucht-angelo-schenkers</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/445994029/voor-altijd-op-de-vlucht-angelo-schenkers"/>
@@ -300,30 +335,6 @@
 <p>Een indringend verhaal over een zoektocht en het Amsterdam van begin 20e eeuw – 'Een prachtboek!' Michiel Romeyn  Na het overlijden van zijn opa Jan (1915-1991) krijgt Angelo Schenkers van zijn oma een foto met daarop de ouders van zijn opa. Hoewel Jan een verhalenverteller was, sprak hij nauwelijks over zijn familie. Het enige wat Schenkers weet, is dat Jan de jongste was van vermoedelijk achttien kinderen. Maar de foto van zijn overgrootouders laat Schenkers daarna niet meer los.</p><p>Het is het begin van een zoektocht naar zijn Friese voorouders, een verhaal dat eind negentiende eeuw begint in het oudste en armste gedeelte van de Amsterdamse binnenstad. Schenkers stuit op een schokkend verleden. Wie waren deze mensen? Kloppen de verhalen van een vlucht naar Duitsland? En was dat de reden voor het stilzwijgen? Zo toont Voor altijd op de vlucht hoeveel er in vier generaties kan veranderen: in een stad en binnen een familie.</p><p>Angelo Schenkers studeerde notarieel recht in Leiden. Aangemoedigd door zijn vriend Gustaaf Peek zegde hij zijn carrière van kantoorbanen vaarwel en meldde zich aan bij de Schrijversvakschool in Amsterdam. Onder toeziend oog van docente Aleid Truijens zette hij de eerste woorden van zijn boek Voor altijd op de vlucht op papier.</p><p>De pers over Voor altijd op de vlucht: 'Rauw beeld van helletocht in arm Amsterdam.' NRC</p><p> 'In Amsterdam, [dat] bevolkt wordt door kleurrijke figuren met namen als Bleke Willem, Annetje de Bochel en Wil de Paardekop, krijgt elke generatie het beter dan de vorige. […] Zo toont Voor altijd op de vlucht hoeveel er in vier generaties kan veranderen.' Ons Amsterdam </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Angelo Schenkers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44425997X/waarom-de-laagsteprijsgarantie-ervoor-zorgt-dat-jij-te-veel-betaalt-jona-van-loenen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44425997X/waarom-de-laagsteprijsgarantie-ervoor-zorgt-dat-jij-te-veel-betaalt-jona-van-loenen"/>
-        <updated>2026-01-31T07:23:19.784Z</updated>
-        <summary type="html"><![CDATA[Antwoorden op vragen die economen niet durven te stellen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44425997X?aid=kb-online-bibliotheek&sid=19&dts=1769794324512&sig=fcac6166b209d7d01100b8b91cc948ad1fc2bcb6d7633c754b833e2c6283d7dc&width=320" alt="Omslag van 'Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt'" title="Omslag van 'Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt'">
-<p>Dit boek geeft antwoord op de belangrijkste vragen die economen niet durven te stellen  'Deze verfrissende kijk op de economie zou iedereen moeten lezen.' Pieter Uittenbogaard, Leraar van het jaar 2023-2024</p><p>Waarom houden cafés elke week, maar boekenwinkels nooit een happy hour? Waarom verdienen Taylor Swift en CEO's zo veel (en jij en ik zo weinig)? Waarom is het juist goed als overheden blunders maken? En waarom zorgt de laagsteprijsgarantie ervoor dat jij te veel betaalt?</p><p>Hoewel de economie ons leven en de maatschappij compleet beheerst, weten de meesten van ons op deze simpele vragen geen antwoord te geven. Dit boek brengt daar voorgoed verandering in. Jona van Loenen ontrafelt de fabels en mythen van de economie en geeft antwoorden op de belangrijkste vragen die economen niet durven te stellen. Zodat jij de economie, en daarmee vooral de wereld en je eigen leven, eindelijk écht begrijpt.</p><p>Jona van Loenen behaalde aan Bocconi University in Milaan de master Finance summa cum laude. Daarna begon hij een master Financial Economics, maar besloot om te stoppen met studeren, omdat hij door zijn studie juist steeds minder van de échte economie begreep. Jona stond vanaf 2018 als Head of Research aan de basis van Gain.pro, een van de snelst groeiende FinTech start-ups in Europa. Sinds 2021 is Jona publicist voor o.a. de Volkskrant, Trouw, Het Parool, Het Financieele Dagblad en NRC. Daarnaast heeft hij de populaire Substack 'De Undercover Econoom'.</p><p>Over Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt:'Deze verfrissende kijk op de economie zou iedereen moeten lezen.' Pieter Uittenbogaard, Leraar van het jaar 2023-2024</p><p>'In Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt analyseert Jona van Loenen tachtig jaar economische ontwikkeling en deelt met ons wat hij allemaal leerde door te stoppen met z'n studie economie. Hopelijk kunnen we met zijn inzichten betere antwoorden formuleren op de fatale gevolgen van ons doorgeslagen consumptisme.' Harm Edens </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jona van Loenen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het is jullie zo gegund]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44426003X/het-is-jullie-zo-gegund-thijs-launspach</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44426003X/het-is-jullie-zo-gegund-thijs-launspach"/>
-        <updated>2026-01-31T07:23:19.999Z</updated>
-        <summary type="html"><![CDATA[Als een kind krijgen niet vanzelf gaat]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44426003X?aid=kb-online-bibliotheek&sid=19&dts=1769783481479&sig=e4268e9cb2d78e0c60c5c7019b733b02b1ff4c159eab23ae80f09a4cb9db2aa7&width=320" alt="Omslag van 'Het is jullie zo gegund'" title="Omslag van 'Het is jullie zo gegund'">
-<p>Wanneer wat je zo graag wilt, niet lukt  Psycholoog en bestsellerauteur Thijs Launspach probeert met zijn partner jaren kinderen te krijgen en belandt er zelfs voor in een vruchtbaarheidstraject. Terwijl zijn relatie aan een zijden draadje hangt, probeert hij te dealen met alle verdriet en frustratie. En dan blijkt: aan al die psychologische kennis heb je, in het heetst van de strijd, precies niets. Een eerlijk boek vol wrange humor, dat troost biedt aan koppels die lijden aan verminderde vruchtbaarheid, en dan vooral de 'manvormige aanhangsels' onder hen.</p><p>Thijs Launspach (1988) is psycholoog, auteur en spreker. Op zijn naam staan de bestsellers Fokking Druk, Asociale media en Je bent al genoeg. Hij schrijft een wekelijkse column voor het Algemeen Dagblad en geeft les bij The School of Life. Ook maakt hij de podcast Normale mensen bestaan niet en geeft hij regelmatig psychologische duiding in het publieke debat. Het is jullie zo gegund is zijn persoonlijkste boek to nu toe. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Thijs Launspach</name>
         </author>
     </entry>
     <entry>
@@ -356,16 +367,5 @@
         <updated>2026-01-29T07:35:27.311Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382014839?aid=kb-online-bibliotheek&sid=19&dts=1769598752334&sig=66b3f1be8b298aa08b7108bd38c847a30a42c1de9fd575bc655fb0760c6ba540&width=320" alt="Omslag van 'Prediker, Hooglied, Spreuken, Psalmen'" title="Omslag van 'Prediker, Hooglied, Spreuken, Psalmen'">
 <p>'IJdelheid der ijdelheden, het is al ijdelheid onder de zon,' zegt Prediker. Het boek Prediker gaat over de zinloosheid van het leven, over eenzaamheid en over verlies. Aangenomen wordt dat het is geschreven door koning Salomo, die regeerde over Israël van ca. 975 tot 925 voor Chr. Prediker treft ons als een verlicht, weldenkend mens, iemand die zich op oudere leeftijd afvraagt wat het leven de moeite waard maakt en daarop als antwoord geeft: onze jeugd, en het plezier in ons werk. En daar meteen aan toevoegt: maar wat blijft daarvan over? De mens wordt oud en sterft, en alles wat hij in zijn levensjaren heeft opgebouwd, zal verloren gaan. Salomo is een wijze koning, maar ook een man die teleurgesteld is in de liefde en een vader die teleurgesteld is in zijn nageslacht. De sombere slotsom dat alles nutteloos is, wordt weersproken door het boek zelf, dat inmiddels drieduizend jaar lang aan miljoenen mensen de troost biedt van gedeelde eenzaamheid. * Aangevuld met het Boek der Spreuken, het Hooglied, en het Boek der Psalmen.* De boeken zijn onderdeel van de Statenbijbel. De eerste druk hiervan verscheen in 1637 in Dordrecht en heeft grote invloed gehad op de vorming van een Nederlandse standaardtaal. De tekst komt rechtstreeks uit het Grieks en Hebreeuws, en ook dat is bijzonder. Tot dat moment waren Nederlandse bijbels vertalingen van andere vertalingen. De boeken zijn niet alleen een bron van filosofische en religieuze inspiratie, maar vormen ook een hoogtepunt van de wereldliteratuur. De taal is prachtig en rijk aan beelden, gezegdes en uitdrukkingen die nog elke dag worden gebruikt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De weg terug]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/38201491X/de-weg-terug-erich-maria-remarque</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/38201491X/de-weg-terug-erich-maria-remarque"/>
-        <updated>2026-01-29T07:35:30.405Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A38201491X?aid=kb-online-bibliotheek&sid=19&dts=1769595499064&sig=8e5d8f4a8cf8a19ea4704646b5cc01fad3ffa77ee31ce95c760be087fa9b49eb&width=320" alt="Omslag van 'De weg terug'" title="Omslag van 'De weg terug'">
-<p>Na de hel van de Eerste Wereldoorlog moeten de teruggekeerde soldaten trachten zich weer aan te passen aan het dagelijks leven van de gewone burger</p>]]></content>
-        <author>
-            <name>Erich Maria Remarque</name>
-        </author>
     </entry>
 </feed>
