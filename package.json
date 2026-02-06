@@ -25,7 +25,7 @@
   "homepage": "https://github.com/icod/bieb-feeds#readme",
   "type": "module",
   "devDependencies": {
-    "jasmine": "^5.9.0"
+    "jasmine": "^6.0.0"
   },
   "dependencies": {
     "feed": "^5.1.0",
