@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-02-09T07:51:33.938Z</updated>
+    <updated>2026-02-10T07:54:55.452Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Moordvent]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink"/>
+        <updated>2026-02-05T07:44:42.806Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456463704?aid=kb-online-bibliotheek&sid=19&dts=1770195505220&sig=daa3830128d94a9ad6c73d49bbf2a835ef28d2736f6ed8cb50cd0f846dc88994&width=320" alt="Omslag van 'Moordvent'" title="Omslag van 'Moordvent'">
+<p>De altijd zo alerte Ellen mist de signalen om haar giftige relatie met Johan, die voor haar de aantrekkelijkste man ter wereld is, te beëindigen voor het te laat is. Wanneer trekt het waas voor haar ogen op en ziet ze de werkelijkheid? De coronapandemie maakt haar echt wakker. Als ze achter de voordeur vaker in de hel verkeert dan in de hemel, moet ze alles op alles zetten om aan zijn manipulaties het hoofd te bieden en te overleven. Ambitieus als ze is werkt ze intussen aan een gewaagd plan om voorgoed van hem af te komen. Gaat dat haar lukken? "Zinderende vrouwenthriller met spicy randje". Wemmie Wolf, jurylid Nederlands Thrillerfestival Jolanda Esselink, voorheen copywriter, redacteur en journalist. In 2022 besloot ze het roer om te gooien en zich te storten op het schrijven van blogs en verhalen die je raken. Deze gelaagde thriller Moordvent, met gaslighting in de hoofdrol, is haar debuut. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jolanda Esselink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wat eens ongeschonden was]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456487522/wat-eens-ongeschonden-was-jos-govaarts---mark-de-groot</id>
@@ -22,20 +33,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het tuinfeest]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456661085/het-tuinfeest-elly-wassenaar---ronald-van-assen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456661085/het-tuinfeest-elly-wassenaar---ronald-van-assen"/>
-        <updated>2026-02-05T07:44:44.324Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456661085?aid=kb-online-bibliotheek&sid=19&dts=1770194100323&sig=9b57b81789ae501fe13479ed0552e006d1f84577901b91aea456814731cda10b&width=320" alt="Omslag van 'Het tuinfeest'" title="Omslag van 'Het tuinfeest'">
-<p>Een grote stenen tuintafel, gedragen door fraaie metalen pootjes, siert de weelderige tuin. In het strak aangeharkte gras wachten lege statafels op hun bezoekers. Gekleurde lampjes geven het geheel een sprookjesachtige sfeer tijdens deze zwoele avond waarin de schemering alvast inzet. In de riante buitenkoelkast wachten hapjes en drankjes om genuttigd te worden. Bijna idyllisch. Bijna? Ja, het is te mooi om waar te zijn. Want straks als de gasten komen, zullen zij de serene sfeer verpesten met dominante verlangens die soms vragen om een rigoureuze beslissing. Of kunnen zij hun oerdriften niet beheersen bij de confrontatie met die ene spannende bezoeker die hun hart sneller laat kloppen. Een onbedwingbaar verlangen om toe te geven aan hun schaduwkant. Een tuinfeest, het klinkt zo veilig, maar onderhuids sluimert er veel. Meer dan jij en ik kunnen vermoeden ... AUTEURS Tessa te Loo, Miriam Ootjers, Angelina van Kemenade, Annemieke Taffijn, Isabelle Smit, Marianne Sinke, Anke Verbraak, Roan Botman, Carlijn Peeters, Simcha Bakker, Luc Vos, R.R. Marion, Mathijs Meeuwissen, Sacha Voogd, Ingrid Buijs & Ariane van Nol, Conny Hoogendoorn, Elsje Margriet van der Heijden, Miriam Lucia, Gerhard Pijnenburg, Chamira Hellingman, Laura Weterings, Michael Vonk, Wendy Sempels, Monique Horlings, Esther Roos, Wendy Middelkoop, Ilona Poot, Rien Floris, Noël Sies, Benoit van der Cruysse, Pieter de Jong, Bert Goedhart, Suzanne Schuijt </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elly Wassenaar</name>
-        </author>
-        <author>
-            <name>Ronald van Assen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Een muur van croutons]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456463690/een-muur-van-croutons-michiel-richards</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456463690/een-muur-van-croutons-michiel-richards"/>
@@ -47,14 +44,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moordvent]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink"/>
-        <updated>2026-02-05T07:44:42.806Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456463704?aid=kb-online-bibliotheek&sid=19&dts=1770195505220&sig=daa3830128d94a9ad6c73d49bbf2a835ef28d2736f6ed8cb50cd0f846dc88994&width=320" alt="Omslag van 'Moordvent'" title="Omslag van 'Moordvent'">
-<p>De altijd zo alerte Ellen mist de signalen om haar giftige relatie met Johan, die voor haar de aantrekkelijkste man ter wereld is, te beëindigen voor het te laat is. Wanneer trekt het waas voor haar ogen op en ziet ze de werkelijkheid? De coronapandemie maakt haar echt wakker. Als ze achter de voordeur vaker in de hel verkeert dan in de hemel, moet ze alles op alles zetten om aan zijn manipulaties het hoofd te bieden en te overleven. Ambitieus als ze is werkt ze intussen aan een gewaagd plan om voorgoed van hem af te komen. Gaat dat haar lukken? "Zinderende vrouwenthriller met spicy randje". Wemmie Wolf, jurylid Nederlands Thrillerfestival Jolanda Esselink, voorheen copywriter, redacteur en journalist. In 2022 besloot ze het roer om te gooien en zich te storten op het schrijven van blogs en verhalen die je raken. Deze gelaagde thriller Moordvent, met gaslighting in de hoofdrol, is haar debuut. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het tuinfeest]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456661085/het-tuinfeest-elly-wassenaar---ronald-van-assen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456661085/het-tuinfeest-elly-wassenaar---ronald-van-assen"/>
+        <updated>2026-02-05T07:44:44.324Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456661085?aid=kb-online-bibliotheek&sid=19&dts=1770194100323&sig=9b57b81789ae501fe13479ed0552e006d1f84577901b91aea456814731cda10b&width=320" alt="Omslag van 'Het tuinfeest'" title="Omslag van 'Het tuinfeest'">
+<p>Een grote stenen tuintafel, gedragen door fraaie metalen pootjes, siert de weelderige tuin. In het strak aangeharkte gras wachten lege statafels op hun bezoekers. Gekleurde lampjes geven het geheel een sprookjesachtige sfeer tijdens deze zwoele avond waarin de schemering alvast inzet. In de riante buitenkoelkast wachten hapjes en drankjes om genuttigd te worden. Bijna idyllisch. Bijna? Ja, het is te mooi om waar te zijn. Want straks als de gasten komen, zullen zij de serene sfeer verpesten met dominante verlangens die soms vragen om een rigoureuze beslissing. Of kunnen zij hun oerdriften niet beheersen bij de confrontatie met die ene spannende bezoeker die hun hart sneller laat kloppen. Een onbedwingbaar verlangen om toe te geven aan hun schaduwkant. Een tuinfeest, het klinkt zo veilig, maar onderhuids sluimert er veel. Meer dan jij en ik kunnen vermoeden ... AUTEURS Tessa te Loo, Miriam Ootjers, Angelina van Kemenade, Annemieke Taffijn, Isabelle Smit, Marianne Sinke, Anke Verbraak, Roan Botman, Carlijn Peeters, Simcha Bakker, Luc Vos, R.R. Marion, Mathijs Meeuwissen, Sacha Voogd, Ingrid Buijs & Ariane van Nol, Conny Hoogendoorn, Elsje Margriet van der Heijden, Miriam Lucia, Gerhard Pijnenburg, Chamira Hellingman, Laura Weterings, Michael Vonk, Wendy Sempels, Monique Horlings, Esther Roos, Wendy Middelkoop, Ilona Poot, Rien Floris, Noël Sies, Benoit van der Cruysse, Pieter de Jong, Bert Goedhart, Suzanne Schuijt </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jolanda Esselink</name>
+            <name>Elly Wassenaar</name>
+        </author>
+        <author>
+            <name>Ronald van Assen</name>
         </author>
     </entry>
     <entry>
@@ -139,8 +139,8 @@
         <title type="html"><![CDATA[De verloren meisjes van Ierland]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456734147/de-verloren-meisjes-van-ierland-susanne-o-leary</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456734147/de-verloren-meisjes-van-ierland-susanne-o-leary"/>
-        <updated>2026-01-31T07:23:05.520Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456734147?aid=kb-online-bibliotheek&sid=19&dts=1769782462389&sig=f719384fc7adf6ddcd79cc4194e5bbe5fea122d2f28d0fd6fe3f90cb6e0c515d&width=320" alt="Omslag van 'De verloren meisjes van Ierland'" title="Omslag van 'De verloren meisjes van Ierland'">
+        <updated>2026-02-10T07:54:44.874Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456734147?aid=kb-online-bibliotheek&sid=19&dts=1770710084348&sig=025d31cff1a083cda2bd912e6ac01da9eebfbf03f7680743a1560daab16fa4e5&width=320" alt="Omslag van 'De verloren meisjes van Ierland'" title="Omslag van 'De verloren meisjes van Ierland'">
 <p>Het pittoreske strand van Wild Rose Bay is niet de plek waar Lydia Butler ooit dacht te belanden. Maar nu ze alles is kwijtgeraakt, heeft ze geen andere keus. Met haar dochter Sunny neemt Lydia haar intrek in de vervallen cottage die ze van haar oudtante heeft geërfd. Hier, in dit kleine dorp aan zee, kan ze Sunny beschermen tegen de roddels in Dublin en de echte reden waarom ze nergens anders meer heen kunnen…</p><p>De cottage hoort bij een oud complex van de kustwacht, en de andere bewoners komen allemaal langs om zich voor te stellen. Lydia voelt zich direct minder alleen, en is gefascineerd door hun verhalen over haar oudtante. De Amerikaanse kunstenaar Jason O’Callaghan, die recht naast Lydia en Sunny woont, valt haar extra op.</p><p>Maar terwijl Lydia steeds meer tot rust begint te komen, dreigt het geheim dat ze voor Sunny bewaart naar buiten te komen. En wanneer ze zich meer en meer aangetrokken voelt tot Jason, weet ze dat ze het verleden onder ogen zal moeten zien. Heeft ze eindelijk mensen gevonden die haar onvoorwaardelijk zullen accepteren, of zal de waarheid haar dwingen om de cottage voorgoed achter zich te laten?</p><p>  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Susanne O’Leary</name>
@@ -150,9 +150,9 @@
         <title type="html"><![CDATA[Pelle en de voetbalprofessor]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/457277815/pelle-en-de-voetbalprofessor-thomas-olsthoorn</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/457277815/pelle-en-de-voetbalprofessor-thomas-olsthoorn"/>
-        <updated>2026-01-31T07:23:05.759Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457277815?aid=kb-online-bibliotheek&sid=19&dts=1769811652227&sig=8454535f18be9d87d7278b4c50b15dee52708d732298f4b3e691804e57eb34ff&width=320" alt="Omslag van 'Pelle en de voetbalprofessor'" title="Omslag van 'Pelle en de voetbalprofessor'">
-<p>Een spannend avontuur voor voetbalfans vanaf 8 jaar! Pelle is gek op voetbal en speelt zo vaak als hij kan met zijn vrienden. Sinds kort is de parkeerplaats naast de oude fabriek hun favoriete voetbalplek. Er is alleen een probleem: zijn vriendjes spelen nog beter en Pelle wordt daarom altijd als laatste gekozen. Als de bal op een dag door een ruit van de fabriek vliegt, gaat Pelle naar binnen. Daar ontmoet hij de voetbalprofessor. Die weet wel een manier om Pelle te helpen. Maar daar moet hij hard voor aan de slag… Zal het Pelle lukken om te leren dribbelen als Kylian Mbappé, te passen als Kevin De Bruyne en een penalty te scoren als Virgil van Dijk? Pelle en de voetbalprofessor is een fijn toegankelijk verhaal over voetbal voor jongens en meisjes vanaf 8 jaar, met heel veel voetbalweetjes en stoere illustraties van ivan & ilia. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <updated>2026-02-10T07:54:45.489Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457277815?aid=kb-online-bibliotheek&sid=19&dts=1770710085003&sig=27dd23c4141a6a484730b29384e39d9315edd0f20cb68acf6c445b8c0d75412b&width=320" alt="Omslag van 'Pelle en de voetbalprofessor'" title="Omslag van 'Pelle en de voetbalprofessor'">
+<p>Pelle is gek op voetbal maar wordt altijd als laatste gekozen… Dan ontmoet hij de voetbalprofessor, die hem helpt om te leren dribbelen, passen en penalty's te scoren. Met illustraties in kleur. Vanaf ca. 8 jaar.</p>]]></content>
         <author>
             <name>Thomas Olsthoorn</name>
         </author>
@@ -161,9 +161,9 @@
         <title type="html"><![CDATA[Het vertroebelde oog]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444259775/het-vertroebelde-oog-han-van-bree</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444259775/het-vertroebelde-oog-han-van-bree"/>
-        <updated>2026-01-31T07:23:13.135Z</updated>
+        <updated>2026-02-10T07:54:46.092Z</updated>
         <summary type="html"><![CDATA[Het onbegrepen leven van Greet Hofmans]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259775?aid=kb-online-bibliotheek&sid=19&dts=1769782539155&sig=704356dfbce6e092889945555fcb9a6b5ec50c1d43fb9766787e4c9ba25f6cb1&width=320" alt="Omslag van 'Het vertroebelde oog'" title="Omslag van 'Het vertroebelde oog'">
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259775?aid=kb-online-bibliotheek&sid=19&dts=1770710085639&sig=597e7fe8784f66a706bf0b56be6e406dbd525da135e21130497ccb9396225f2d&width=320" alt="Omslag van 'Het vertroebelde oog'" title="Omslag van 'Het vertroebelde oog'">
 <p>Onthullende biografie werpt nieuw licht op Greet Hofmans  Greet Hofmans was in 1956 maandenlang wereldnieuws. Van Zweden tot de Verenigde Staten, van Frankrijk tot Venezuela: overal verschenen artikelen over de 'gebedsgenezeres' die het huwelijk van het Nederlandse koningspaar zo ernstig had verstoord dat een echtscheiding dreigde. Hofmans zou koningin Juliana hebben behekst en gevaarlijke pacifistische denkbeelden hebben ingefluisterd. De ophef leidde ertoe dat Juliana alle banden met Hofmans moest verbreken. Achteraf bleek prins Bernhard verantwoordelijk voor de demonisering van Hofmans, die als een 'Raspoetin' de geschiedenisboeken inging.</p><p>Gebruikmakend van diverse niet eerder geraadpleegde (privé)archieven schetst Han van Bree in Het vertroebelde oog een genuanceerd beeld van de persoon Hofmans. Wie was deze Amsterdamse vrouw van eenvoudige komaf, bij wie zo velen – van jong tot oud, van arm tot rijk, van laaggeschoold tot hooggeleerd – te rade gingen als ze ergens mee zaten? Was zij inderdaad een sturende en manipulatieve intrigante? Had zij voor de monarchie gevaarlijke religieuze opvattingen? En bovenal: wat wilde zij bereiken? Door haar hele leven te beschouwen, geeft Van Bree een completer beeld van Hofmans en biedt hij een nieuwe, heldere kijk op de wijze waarop zij onder meer Juliana, maar ook Wilhelmina en zelfs Bernhard terzijde stond.</p><p>Gebaseerd op volledig nieuw archiefmateriaal Met niet eerder gepubliceerde foto's</p><p>Han van Bree (1957) studeerde geschiedenis in Utrecht en Gent en specialiseerde zich op het Nederlandse koningshuis. Voor de NOS maakte hij over koningin Juliana, prins Bernhard en prins Claus diverse documentaires, die werden uitgezonden in de weken na hun overlijden. In 2015 promoveerde hij in Leiden op De geest van het Oude Loo – Juliana en haar vriendenkring 1947-1957. Daarnaast schreef hij onder andere de bestseller Beatrix, koningin der Nederlanden en was hij van 1983 tot 2022 verantwoordelijk voor de reeks Het aanzien van. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Han van Bree</name>
@@ -173,8 +173,8 @@
         <title type="html"><![CDATA[Levenslessen van 100-jarigen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/445993669/levenslessen-van-100-jarigen-marjon-bolwijn</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/445993669/levenslessen-van-100-jarigen-marjon-bolwijn"/>
-        <updated>2026-01-31T07:23:18.296Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445993669?aid=kb-online-bibliotheek&sid=19&dts=1769785602249&sig=ccb285cec2dfa9702dd69e716e21c2a9393323501f7fce6500d1efd0b576a845&width=320" alt="Omslag van 'Levenslessen van 100-jarigen'" title="Omslag van 'Levenslessen van 100-jarigen'">
+        <updated>2026-02-10T07:54:46.660Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445993669?aid=kb-online-bibliotheek&sid=19&dts=1770710086229&sig=e3542af61fbc9b39472dfbf5e7d24103723d21ba77a61d7883d1c4937049d453&width=320" alt="Omslag van 'Levenslessen van 100-jarigen'" title="Omslag van 'Levenslessen van 100-jarigen'">
 <p>De opvolger van het succesvolle Levenslessen van 100-jarigen  Een uniek gezelschap rasoptimisten: zo zou je de 100-jarigen in Levenslessen van 100-jarigen kunnen noemen. Hun positieve instelling heeft hen vaak door moeilijke tijden geholpen, en zorgde ervoor dat ze met een open blik naar de toekomst keken. In haar gesprekken met 100-jarigen vielen Volkskrant-journalist Marjon Bolwijn een paar dingen op die kenmerkend zijn voor hun uitzonderlijke vitaliteit. Zo woont twee derde nog zelfstandig, gebruikt een meerderheid een smartphone, computer of tablet, rijdt één op de tien nog auto en stappen er drie regelmatig op de fiets. Eén eeuweling breekt zelfs nog wereldrecords schoolslag en borstcrawl.</p><p>De levensverhalen van 100-jarigen in dit boek bieden een boeiende kijk op een eeuw geschiedenis door de ogen van onze oudste medeburgers. Of ze nu op hun 16e voor dwangarbeid op de trein werden gezet naar een vreemd land, na de oorlog naar Canada vertrokken, waar het flink ploeteren was om een nieuw bestaan op te bouwen, of als 8-jarige al voor een gezin met twaalf kinderen moesten koken: ze zijn er allemaal 100 jaar mee geworden.</p><p>Deel 2 van Levenslessen van 100-jarigen, waarvan meer dan 10.000 exemplaren zijn verkocht Inclusief interviews met 100-jarige Nederlandse emigranten in Canada</p><p>Uit Levenslessen van 100-jarigen – Deel 2: 'Drie keer in de week zwem ik 1000 meter. Het zwembad is maar vijf minuten rijden met mijn auto. Als ik in de ochtend geen zin heb, ga ik toch, want ik weet dat ik mij na het zwemmen altijd beter voel. Glijden door het water maakt mij gelukkig.' Betty Brussel, 100 jaar</p><p>Marjon Bolwijn is journalist. Ze begon haar loopbaan bij Het Parool en werkt nu bij de Volkskrant, waar ze begon als buitenlandredacteur. Haar hart ligt bij sociaal-maatschappelijke onderwerpen en de persoonlijke verhalen achter thema's als migratie en armoede. Voor de Volkskrant interviewde ze tientallen 100-jarigen, een zeer populaire rubriek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marjon Bolwijn</name>
@@ -184,10 +184,10 @@
         <title type="html"><![CDATA[Fasten your seatbelt and enjoy the ride]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/445993731/fasten-your-seatbelt-and-enjoy-the-ride-maud-wessels</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/445993731/fasten-your-seatbelt-and-enjoy-the-ride-maud-wessels"/>
-        <updated>2026-01-31T07:23:18.767Z</updated>
+        <updated>2026-02-10T07:54:47.215Z</updated>
         <summary type="html"><![CDATA[Hoe mijn wereldreis mij leerde leven]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445993731?aid=kb-online-bibliotheek&sid=19&dts=1769782842438&sig=7437732ee39404af86eda187644eb92dec73fc8cdf75f6b29a2122c8af2a0573&width=320" alt="Omslag van 'Fasten your seatbelt and enjoy the ride'" title="Omslag van 'Fasten your seatbelt and enjoy the ride'">
-<p>'Je kan mij overal op de wereld neerzetten en ik weet dat het goedkomt'  Al van kleins af aan fantaseert Maud over een enkeltje bestemming onbekend; nieuwsgierig naar de wereld om haar heen en vol enthousiasme om nieuwe horizons te ontdekken. In 2022 is het moment dan eindelijk daar: met dromen groter dan angsten vertrekt ze naar Mexico en zegt ze haar vertrouwde Nederlandse leven gedag.</p><p>Zonder vastomlijnd plan of enig idee waar ze aan begint, reist Maud uiteindelijk 28 maanden door 15 landen. Inmiddels is ze 29.512 foto's, 12 bezoeken van het thuisfront, 2 extra tassen aan bagage, 7 opgelopen littekens en duizenden ontmoetingen met mensen van tientallen verschillende nationaliteiten verder. Het was nooit het plan om zolang weg te blijven en ze had nooit durven dromen dat deze wereldreis haar zoveel zou brengen.</p><p>De reis brengt niet alleen waanzinnige avonturen, maar ook momenten van kwetsbaarheid en zelfreflectie met zich mee. Maud leert over haar angsten heen te stappen en dichter bij zichzelf te komen. Ze neemt je mee op een reis naar binnen en naar buiten, vol verwondering over de wereld die zowel groots als klein kan zijn.</p><p>'Maud is zo'n typische wervelwind die je maar zelden tegenkomt in je leven. Alles wordt meteen energiek, stormachtig én vrolijk! Het is iemand waarbij je vanaf moment één alles wil weten, horen en nu dus ook zeker lezen!' - Splinter Chabot, schrijver en programmamaker</p><p>'Maud weet haar avonturen te vertalen in levenslessen die je écht raken – een ode aan durven vertrouwen, risico's nemen en volop leven.' - Evi Hanssen, auteur en voormalig presentator 3 op Reis</p><p>Maud Wessels reisde tweeënhalf jaar rond en heeft geskied, gehiked, gesurft, gekickbokst, Spaans geleerd in Guatemala, een scooterongeluk gehad (en daardoor twee maanden vastgezeten op een Thais eiland), een retraite gedaan, rondgereisd in busjes op allerlei verschillende plekken, gewoond in Nieuw-Zeeland en Australië, gedanst van zonsopgang tot -ondergang, in de hospitality gewerkt, als cowgirl te paard en al motor besturend koeien gevangen in de outback, een yoga teacher course behaald in India, tien dagen in stilte gemediteerd in Sri Lanka, salmonella opgelopen in Vietnam, de helft van haar backpack kwijtgeraakt in Mexico en ziekenhuizen bezocht in onder andere Laos, Indonesië en Filipijnen, en meer bestemmingen. Maar bovenal heeft ze een rondje om de wereld gereisd en is ze voorlopig nog niet klaar met zich verwonderen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445993731?aid=kb-online-bibliotheek&sid=19&dts=1770710086780&sig=ef7c64b98019010bf22d858ddd01c0645caadbc7bb6fedffa68d10165b4d1390&width=320" alt="Omslag van 'Fasten your seatbelt and enjoy the ride'" title="Omslag van 'Fasten your seatbelt and enjoy the ride'">
+<p>Reisbeschrijving van een jonge vrouw die een wereldreis door vijftien landen maakte, met aandacht voor zelfreflectie en persoonlijke groei.</p>]]></content>
         <author>
             <name>Maud Wessels</name>
         </author>
@@ -196,37 +196,57 @@
         <title type="html"><![CDATA[Broeder Joep]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444259953/broeder-joep-joep-van-poorten</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444259953/broeder-joep-joep-van-poorten"/>
-        <updated>2026-01-31T07:23:06.312Z</updated>
+        <updated>2026-02-10T07:54:47.766Z</updated>
         <summary type="html"><![CDATA[Van sjoelen tot steunkousen: verhalen van de afdeling voor ouderen met dementie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259953?aid=kb-online-bibliotheek&sid=19&dts=1769782836749&sig=1f365911f3e3fd96c1c7e14fd948fa417d96a2118e576ae210febf90396a585e&width=320" alt="Omslag van 'Broeder Joep'" title="Omslag van 'Broeder Joep'">
-<p>Broeder Joep vertelt eerlijke, ontroerende en grappige verhalen uit de ouderenzorg</p><p>  Van  Broeder Joep  zijn al meer dan 10.000 exemplaren verkocht!</p><p>  Joep van Poorten werkt als verzorgende in een verpleeghuis in Eindhoven, met (veelal) bewoners met dementie. Op Instagram en TikTok laat hij zien dat de zorg veel meer is dan alleen maar billen wassen. En dat slaat dankzij zijn humor, likeability en gouden (zorg)hart enorm aan.</p><p>In dit boek neemt Joep de lezer mee de afdeling op en zijn leven in. Kijk mee over zijn schouder en ontdek hoe bijzonder, aangrijpend en soms zwaar, maar ook leuk en grappig werken in de zorg kan zijn.</p><p>Ineens gaat de bel van Leny. Wanneer ik bijna bij haar kamer ben, hoor ik haar al gillen: 'Zuster, zuster!' Ik stap naar binnen, en zeg: 'Hi Leny, wat is er aan de hand?' Ze is helemaal in paniek, wijst naar een donkere hoek van de kamer en roept: 'Daar, daar staat een man! Stuur hem weg!' Wat zeg je dan? 'Nee Leny, kan ik niet doen, zoek het maar uit'? Natuurlijk niet. Met opgeheven hoofd en grote passen loop ik naar de hoek. Ik probeer zo stoer mogelijk te klinken, maar m'n stem slaat een beetje over als ik tegen de antieke staande lamp zeg: 'Meneer, wij zijn gesloten! Ik wil u vriendelijk verzoeken om het pand te verlaten!' Als ik terugloop zeg ik tegen Leny: 'Die komt niet meer terug, hoor.'</p><p>Joep van Poorten werkt als verzorgende IG (individuele gezondheidszorg) op een psychogeriatrische afdeling van een verpleeghuis in Eindhoven. Op deze afdeling wonen mensen met een psychische stoornis die verband houdt met ouderdom, zoals (veelal) dementie. Hij is bekend van TikTok en Instagram, waar hij video's post over zijn belevenissen op zijn werk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259953?aid=kb-online-bibliotheek&sid=19&dts=1770710087349&sig=6e2060d92f75a7979b9ee904e691c826e9775dca15b3274014e939649d3a8121&width=320" alt="Omslag van 'Broeder Joep'" title="Omslag van 'Broeder Joep'">
+<p>Persoonlijk relaas over het werken op een afdeling voor ouderen met dementie in een verpleeghuis.</p>]]></content>
         <author>
             <name>Joep van Poorten</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vive le tour, vive les femmes]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/445994223/vive-le-tour--vive-les-femmes-julia-mulli%C3%A9---tim-de-vries</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/445994223/vive-le-tour--vive-les-femmes-julia-mulli%C3%A9---tim-de-vries"/>
-        <updated>2026-01-31T07:23:14.158Z</updated>
-        <summary type="html"><![CDATA[De roerige geschiedenis van de Ronde van Frankrijk voor vrouwen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445994223?aid=kb-online-bibliotheek&sid=19&dts=1769801186321&sig=3dc213c8453f555292d90f4d0dc4accc6b58377390f94045e480e1f05aa4339b&width=320" alt="Omslag van 'Vive le tour, vive les femmes'" title="Omslag van 'Vive le tour, vive les femmes'">
-<p>De eerste geschiedenis van de Tour de France voor vrouwen  Dit is het eerste standaardwerk over de Tour de France voor vrouwen. Julia Mullié en Tim de Vries kruipen in het wiel van knechten en kampioenen en diepen alle tot en met 2024 verreden Tours grondig uit. Van Marianne Martin tot Marianne Vos en van Maria Canins tot Lotte Kopecky. Herbeleef iconische momenten uit de wielergeschiedenis, zoals de surplace van Leontien van Moorsel en Jeannie Longo op de Alpe d'Huez, de bloedstollende ontknoping van 2024 op diezelfde berg, of een van de vele andere hoogtepunten.</p><p>'Over het mannenwielrennen, en zeker de Tour de France, verschijnt er genoeg, maar we vonden het allebei een groot gemis dat er nog geen allesomvattend boek is over de geschiedenis van de Tour voor vrouwen. Toen dachten we: dan moeten we het zelf maar doen.'</p><p>Met medewerking van veel (internationale) toprensters Met veel verhalen over Nederlandse en Vlaamse wielrensters Inclusief foto's</p><p>Julia Mullié is kunsthistoricus en werkzaam als onafhankelijk onderzoeker en tentoonstellingsmaker. Ze publiceerde verschillende boeken en organiseerde daarnaast tentoonstellingen. Gezien haar diepgewortelde passie voor wielrennen en uitgebreide ervaring als onderzoeker en auteur is dit boek een natuurlijke uitbreiding van haar oeuvre.</p><p>Tim de Vries werd al op jonge leeftijd gegrepen door het wielervirus en als commentator van Eurosport volgt hij de belangrijkste wedstrijden van het internationale vrouwenpeloton. Daarnaast heeft hij een grote fascinatie voor het rijke verleden en de ontwikkeling van het vrouwenwielrennen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hotel Pico Bello en de zaak van de horlogedief]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444254722/hotel-pico-bello-en-de-zaak-van-de-horlogedief-vivian-den-hollander</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444254722/hotel-pico-bello-en-de-zaak-van-de-horlogedief-vivian-den-hollander"/>
+        <updated>2026-02-10T07:54:48.337Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254722?aid=kb-online-bibliotheek&sid=19&dts=1770710087895&sig=bdb19a61d7bd02b45ea8753ec57b989d1a9fb4371e79895c11d19c1b9f8ed47d&width=320" alt="Omslag van 'Hotel Pico Bello en de zaak van de horlogedief'" title="Omslag van 'Hotel Pico Bello en de zaak van de horlogedief'">
+<p>De vader van Bart en Bibi heeft een oude boot gekocht die hij wil verbouwen tot een hotel. Als alles klaar is, worden Bart en Bibi vals beschuldigd van diefstal. Met illustraties in grijstinten. Vanaf ca. 7 jaar.</p>]]></content>
         <author>
-            <name>Julia Mullié</name>
+            <name>Vivian den Hollander</name>
         </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superjuffie steelt een paard]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444254706/superjuffie-steelt-een-paard-janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444254706/superjuffie-steelt-een-paard-janneke-schotveld"/>
+        <updated>2026-02-10T07:54:48.901Z</updated>
+        <summary type="html"><![CDATA[en andere verhalen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254706?aid=kb-online-bibliotheek&sid=19&dts=1770710088464&sig=37596bc3e4bade186413e668540e44cd9d66409999a9f05fe368ff879fecb0ba&width=320" alt="Omslag van 'Superjuffie steelt een paard'" title="Omslag van 'Superjuffie steelt een paard'">
+<p>Bundeling van elf Superjuffieverhalen waarin er weer de nodige dieren in nood worden gered. Met zwart-witillustraties. Voorlezen vanaf ca. 7 jaar, zelf lezen vanaf ca. 8 jaar.</p>]]></content>
         <author>
-            <name>Tim de Vries</name>
+            <name>Janneke Schotveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44425997X/waarom-de-laagsteprijsgarantie-ervoor-zorgt-dat-jij-te-veel-betaalt-jona-van-loenen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44425997X/waarom-de-laagsteprijsgarantie-ervoor-zorgt-dat-jij-te-veel-betaalt-jona-van-loenen"/>
+        <updated>2026-02-10T07:54:49.451Z</updated>
+        <summary type="html"><![CDATA[Antwoorden op vragen die economen niet durven te stellen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44425997X?aid=kb-online-bibliotheek&sid=19&dts=1770710089017&sig=c24fe59f59300d352b2e5d149e4d66226bd1915b9b88d4a5db79cb0c9d9bac57&width=320" alt="Omslag van 'Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt'" title="Omslag van 'Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt'">
+<p>Inleidende verkenning over de economie, aan de hand van verschillende vragen en hardnekkige mythen.</p>]]></content>
+        <author>
+            <name>Jona van Loenen</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nederland]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444259848/nederland-alle-geschiedenis-ooit---arco-gnocchi---nynke-de-jong---thom-aalmoes</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444259848/nederland-alle-geschiedenis-ooit---arco-gnocchi---nynke-de-jong---thom-aalmoes"/>
-        <updated>2026-01-31T07:23:18.545Z</updated>
+        <updated>2026-02-10T07:54:50.025Z</updated>
         <summary type="html"><![CDATA[100 verhalen waar je hoge ogen mee gooit]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259848?aid=kb-online-bibliotheek&sid=19&dts=1769783084780&sig=134d521e603912aafc88a44ce746659c4e3703c7fc032a6b8e091bc3ea55d932&width=320" alt="Omslag van 'Nederland'" title="Omslag van 'Nederland'">
-<p>Een nieuwe reeks van de makers van de populairste geschiedenispodcast  Iedereen heeft wel een oom, buurvrouw, vriend(in) of collega die dol is op smeuïge geschiedenisverhalen. Over excentrieke koningen bijvoorbeeld, of juist heldendaden van gewone mensen. De populaire podcast Alle Geschiedenis Ooit gaat iedere week op zoek naar precies dit soort anekdotes. In dit boek gaat die zoektocht verder.</p><p>In Alle Geschiedenis Ooit - Nederland, het eerste deel in deze reeks, nemen de makers je in korte, pakkende verhalen mee door de hoogtepunten uit de Nederlandse geschiedenis. Van indorock tot Julius Caesar en van een mislukte revolutie tot de uitvinding van xtc. Voor iedereen die dol is op de mooiste feiten en weetjes uit de geschiedenis van Nederland.</p><p>Een greep uit de onderwerpen:</p><p>De keer dat Nederlanders hun premier opaten Het turfschip van Breda De overstroming met de slechtste pr ooit Hoe de tulpenmanie écht in elkaar stak En nog veel meer meeslepende verhalen</p><p>Andrea Huntjens, Arco Gnocchi, Nynke de Jong en Thom Aalmoes hebben alle vier een liefde voor geschiedenis, van lokale verhalen tot de Tweede Wereldoorlog. Samen maken ze de podcast Alle Geschiedenis Ooit, waarin écht iedereen aan bod komt, van de Spice Girls tot Adolf Hitler. Andrea Huntjens is daarnaast historicus en maker van de podcast Radio Oranje, samen met Arco Gnocchi, auteur van Ajax in 125 verhalen. Nynke de Jong is schrijver en theatermaker, Thom Aalmoes is redacteur en podcastmaker.</p><p>Over dit boek:'Deze verhalen laten zien dat ons brave kikkerlandje eigenlijk een historische freakshow is.' Lisa Loeb</p><p> 'Een bonte verzameling van de smakelijkste geschiedenissnacks.' Diederik Jekel </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259848?aid=kb-online-bibliotheek&sid=19&dts=1770710089597&sig=0146687757136d08f70a3814ad990fa100f8af18fca6191716298dc6df14d08f&width=320" alt="Omslag van 'Nederland'" title="Omslag van 'Nederland'">
+<p>Verzameling van 100 bijzondere verhalen uit de Nederlandse geschiedenis.</p>]]></content>
         <author>
             <name>Alle Geschiedenis Ooit</name>
         </author>
@@ -244,60 +264,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[75 jaar Formule 1]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444259813/75-jaar-formule-1-olav-mol</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444259813/75-jaar-formule-1-olav-mol"/>
-        <updated>2026-01-31T07:23:12.077Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259813?aid=kb-online-bibliotheek&sid=19&dts=1769781834453&sig=901d668aa3db5269f83b45f869998b4c4d40c89bc7450307f008a4401c76f968&width=320" alt="Omslag van '75 jaar Formule 1'" title="Omslag van '75 jaar Formule 1'">
-<p>Olav Mol over de geschiedenis van de sport die leeft als nooit tevoren – 75 jaar Formule 1  In 2025 bestaat het wereldkampioenschap Formule 1 precies 75 jaar. Deze verjaardag is geen seniorenfeestje. Integendeel, de koningsklasse van de autosport heeft in recente jaren juist nieuwe energie gekregen. Wereldwijd is er een grote groei aan fans en de strijd op het circuit is spannender dan ooit.</p><p>Wat in 1950 begon als een promotiemiddel voor autofabrikanten en een dure hobby voor rijke heren, is uitgegroeid tot een topsport en miljardenbusiness. De relatief eenvoudige auto's die door één monteur werden onderhouden, zijn nu technologische hoogstandjes uit fabrieken met meer dan duizend medewerkers.</p><p>In 75 jaar Formule 1 neemt Olav Mol je mee terug in de tijd. Je leest over legendes van de sport als Juan Manuel Fangio, Jim Clark, Graham Hill, Ayrton Senna en Michael Schumacher. En over de spraakmakende karakters náást de baan: Enzo Ferrari, Colin Chapman, Bernie Ecclestone, Frank Williams, Ron Dennis en – terug van weggeweest – Flavio Briatore.</p><p>Van het prille begin in de jaren vijftig tot de dominantie van Max Verstappen anno nu: dit boek heeft het allemaal en is een must voor iedere Formule 1-fan.</p><p>Olav Mol debuteerde in 1991 als Formule 1- commentator en sindsdien versloeg hij ruim 600 Grands Prix, meer dan de helft van alle races in de 75 jaar. In 2016 werd hij onderscheiden met de Theo Koomen Award voor het beste sportcommentaar van het jaar. Hij is de vaste F1-commentator en medeoprichter van Grand Prix Radio. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Olav Mol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onze kunstmatige toekomst]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443090440/onze-kunstmatige-toekomst-joris-krijger</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443090440/onze-kunstmatige-toekomst-joris-krijger"/>
-        <updated>2026-01-31T07:23:14.517Z</updated>
-        <summary type="html"><![CDATA[Wat wij willen met AI (en AI met ons)]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443090440?aid=kb-online-bibliotheek&sid=19&dts=1769805013938&sig=258e3a5ef8a379bf4b4b9c33371bb2bc23cfcb3e5dc45e6b68a014a7a23a315c&width=320" alt="Omslag van 'Onze kunstmatige toekomst'" title="Omslag van 'Onze kunstmatige toekomst'">
-<p>Zijn we als maatschappij klaar voor het AI Tijdperk?  Artificial Intelligence dringt overal door. Het is dé technologische revolutie van deze eeuw en is nu al bezig het fundament onder onze samenleving te veranderen. Maar zijn we voorbereid op de grote maatschappelijke uitdagingen die dit met zich meebrengt? En betekent 'meer AI' automatisch vooruitgang?  </p><p>In dit boek gaat AI-ethicus Joris Krijger op zoek naar het grotere verhaal achter de razendsnelle ontwikkelingen op het gebied van AI. De belangrijkste vragen zijn daarin geen technische vragen over het programmeren van slimme machines, maar ethische vragen over het (her)programmeren van onze samenleving. Krijger onderzoekt niet alleen welke problemen AI-systemen voor ons gaan oplossen, maar ook wat ze niet op gaan lossen en welke nieuwe problemen ze creëren. Hij schetst een beeld van waar onze maatschappij naartoe beweegt – en stelt de vraag of dat de kunstmatige toekomst is die we willen. </p><p>Joris Krijger was een van de eerste officiële AI-ethici in Nederland. Na een studiecombinatie van Filosofie, Psychologie en Film & Literatuur (summa cum laude) in Leiden, begon hij in 2019 als ethiek- en AI-specialist bij de huidige ASN Bank en als promovendus ethiek en AI aan de Erasmus Universiteit Rotterdam. Hij publiceerde diverse wetenschappelijke artikelen over AI-ethiek en stukken van zijn hand verschenen o.a. in Trouw en de Volkskrant. Daarnaast is Krijger Founding Editorial Board Member van Nature Springer's AI & Ethics Journal en medeoprichter van EDSA, een vereniging waar grote publieke en private organisaties de ethische dilemma's rond de inzet van algoritmen bespreken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Joris Krijger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roadblock]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444259945/roadblock-sophie-wester</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444259945/roadblock-sophie-wester"/>
-        <updated>2026-01-31T07:23:06.805Z</updated>
-        <summary type="html"><![CDATA[Zou jij kunnen leven met een loodzware leugen?]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259945?aid=kb-online-bibliotheek&sid=19&dts=1769784310126&sig=25fcccc4b732acd0ea7aaa9ac1654515c5d36447fcdabbd0ae013e132c0577ca&width=320" alt="Omslag van 'Roadblock'" title="Omslag van 'Roadblock'">
-<p>Eén onbezonnen beslissing, enorme gevolgen… Drie vrienden fietsen ’s nachts na een schuurfeest dronken naar huis. Onderweg lijkt het de jongens heel grappig om met betonblokken de weg te versperren. Dan scheurt er echter met grote snelheid een auto op de versperring af. Een grote klap… gevolgd door stilte. Geschrokken besluiten de jongens niets te zeggen. Maar al snel wordt duidelijk dat dit niet zo makkelijk gaat: de politie is op zoek naar de dader. En er is nóg iemand die hen zoekt – en zelfs naar het leven lijkt te staan… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sophie Wester</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waar wachten we op?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448832755/waar-wachten-we-op--dennis-storm</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448832755/waar-wachten-we-op--dennis-storm"/>
-        <updated>2026-01-31T07:23:13.398Z</updated>
-        <summary type="html"><![CDATA[Waarom er lef nodig is om de wereld te veranderen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832755?aid=kb-online-bibliotheek&sid=19&dts=1769798581930&sig=36a9295496eb7881bb2d3ced9465e55a39fda5f5288942a35cc0004eefea2ca1&width=320" alt="Omslag van 'Waar wachten we op?'" title="Omslag van 'Waar wachten we op?'">
-<p>Een inspirerend verhaal over wat het ons oplevert als we beter voor de aarde zorgen</p><p>Zelfhulpboeken, ijsbaden, diëten en supplementen, we zijn continu bezig met ons geluk en onze gezondheid. Ondertussen verschijnt het ene wetenschappelijke rapport na het andere waarin staat dat we onze leefomgeving vernietigen. Blijkbaar zien we niet dat een florerende aarde de eerste voorwaarde is voor frisse lucht, rijke oogsten, schoon drinkwater, algemene gezondheid en mooie natuur. Hebben we dat niet, dan worden we ziek en ongelukkig.</p><p>Hoe komt het dat de ernst van de situatie maar niet tot ons doordringt? Dat we ondanks alle waarschuwingen gewoon maar doorgaan met consumeren en vervuilen?</p><p>In dit boek betoogt Dennis Storm dat er een ander verhaal verteld moet worden: niet hoe de wereld eruitziet als we niets doen, maar wat het ons oplevert als we wél andere keuzes maken: een wereld met schone en groene steden, prachtige natuur, sterke economieën en tevreden inwoners.</p><p>Waar wachten we op?</p><p>Dennis Storm reisde jarenlang de wereld over voor zijn werk als programmamaker en presentator van verschillende reisseries. Sinds 2015 is hij aangesloten bij uitgeverij Spectrum waarvoor hij onder andere schrijft over zijn liefde voor architectuur en minimalisme en wat die voor ons kunnen betekenen bij het omarmen van een groene toekomst. Eerder verschenen Weg ermee. Over de schoonheid van minimalisme (2018) en Als gezond verstand koning was. Over de schoonheid van een groene revolutie (2020). Waar wachten we op? is zijn vijfde boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dennis Storm</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Focus Routine]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444259902/focus-routine-oscar-de-bos</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444259902/focus-routine-oscar-de-bos"/>
-        <updated>2026-01-31T07:23:12.617Z</updated>
+        <updated>2026-02-10T07:54:50.571Z</updated>
         <summary type="html"><![CDATA[Krijg structureel meer gedaan in een wereld vol afleiding]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259902?aid=kb-online-bibliotheek&sid=19&dts=1769784317584&sig=7c9f1a53bedcce088b8da9e103b60b3530d173aec3036736b3dc4aadd7ef9ced&width=320" alt="Omslag van 'Focus Routine'" title="Omslag van 'Focus Routine'">
-<p>Krijg meer overzicht en focus in je werkweek  Na het overweldigende succes van Focus AAN/UIT gaat Oscar de Bos in Focus routine dieper in op de vraag: hoe zorg je voor meer focus in je werkritme? Aan de hand van verschillende thema's, nieuw wetenschappelijk onderzoek en inspirerende voorbeelden uit de praktijk ontwerp je je eigen routine om zo meer gedaan te krijgen met minder stress.</p><p>We hebben steeds meer vrijheid om onze werkweek in te delen zoals we zelf willen. Maar waar flexibiliteit eerst alleen als voordeel werd gezien, heeft het er ook voor gezorgd dat we ons werkritme zijn kwijtgeraakt. Het is vervangen door een chaos van flexwerken, korte berichtjes en bomvolle agenda's met vaste vergaderingen. Deze onrust is funest voor onze productiviteit en levert bovendien ontzettend veel stress op.</p><p>Met het aanleren van nieuwe gewoontes proberen we houvast te vinden, maar de echte oplossing ligt in een rigoureuzere aanpak. Het boek geeft antwoorden op vragen als: Wanneer is het goed om gas te geven op een project? Wanneer kun je het beste pauzeren? Wat is een goed moment om onbereikbaar te zijn? En wanneer plan je een overleg in?</p><p>Oscar de Bos verdiept zich als eigenaar van trainingsbureau Focus Academy in de wetenschap rond productiviteit en focus. Naast co-auteur van de boeken Focus AAN/UIT en Focus bites is hij Tiny Habits-coach, ontwikkelaar van diverse apps en presentator van de Focus bites-podcast, waarin hij maandelijks de laatste wetenschappelijke inzichten en de nieuwste tools voor meer focus deelt.</p><p>Over Focus AAN/UIT:'Een van de betere managementboeken die ik de afgelopen tijd gelezen heb.' Wim van den Berg, statisticus Applied Plant Research aan Wageningen University & Research</p><p>'Dit boek staat boordevol concrete tips, tools, apps en methodes die je gelijk kunt inzetten.' Roeland Reinders, oprichter van Connecting Works</p><p>'We maken onszelf gek door altijd meer en harder te werken. Dit boek biedt praktische handvatten om deze vicieuze cirkel te doorbreken en de kwaliteit van leven én werken te verbeteren!' Astrid van Leeuwen, leading senior Operational Risk Management bij De Volksbank</p><p>'Focus AAN/UIT doet wat het belooft. Als je het uit hebt, weet je beter waar je valkuilen liggen en hoe je ervoor kunt zorgen dat je meer focus krijgt.' Ann-Lynn Hamelink, eindredacteur bij RTL Z </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259902?aid=kb-online-bibliotheek&sid=19&dts=1770710090150&sig=1eb2d6384df8ad2f3df29a36b486222f5c42e60a9a1bdc78ac88e0d0029414ea&width=320" alt="Omslag van 'Focus Routine'" title="Omslag van 'Focus Routine'">
+<p>Praktisch handboek over hoe men geconcentreerder kan werken, waardoor je de productiviteit verhoogt en stress vermindert. Met illustraties in zwart-wit.</p>]]></content>
         <author>
             <name>Oscar de Bos</name>
         </author>
@@ -306,9 +279,9 @@
         <title type="html"><![CDATA[Oorlogsgeheimen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444260056/oorlogsgeheimen-jacques-vriens</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444260056/oorlogsgeheimen-jacques-vriens"/>
-        <updated>2026-01-31T07:23:17.786Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444260056?aid=kb-online-bibliotheek&sid=19&dts=1769785605523&sig=de2c0ed1444838725549dca34d632b9fe563ac7304bc86f113114afd1ac8c7eb&width=320" alt="Omslag van 'Oorlogsgeheimen'" title="Omslag van 'Oorlogsgeheimen'">
-<p>Een Vriens-klassieker opnieuw uitgebracht, ter ere van 80 jaar vrijheid'Oorlogsgeheimen' is een van de hoogtepunten uit het oeuvre van meesterverteller Jacques Vriens. In 2025 vieren we 80 jaar vrijheid: een prachtige aanleiding om het geliefde verhaal van Tuur en Maartje opnieuw uit te brengen in een hardcoveruitgave met prachtig nieuw omslag.Het Zuid-Limburgse dorp waar de elfjarige Tuur woont, is bezet door de Duitsers. Tuur en zijn buurmeisje Maartje vinden het in het begin wel spannend. Langzaam maar zeker komen de kinderen erachter dat de bezetters in staat zijn tot de ergste dingen. De volwassenen proberen zoveel mogelijk voor hen geheim te houden: de Engelse piloot die op zolder verstopt zit, wie de Duitsers helpen (zoals hun eigen meester) en wie in het verzet zit. Maar op een dag vertelt Maartje aan Tuur dat zij zelf ook een groot en gevaarlijk geheim heeft. Ineens komt de oorlog heel dichtbij...'Oorlogsgeheimen' is een ware klassieker en everseller: een prachtig kinderboek over de Tweede Wereldoorlog in Limburg om zelf te lezen vanaf 10 jaar. Er werden al meer dan 100.000 exemplaren van verkocht en het boek werd verfilmd. Mark Janssen maakte het prachtige omslag. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <updated>2026-02-10T07:54:51.121Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444260056?aid=kb-online-bibliotheek&sid=19&dts=1770710090697&sig=770fc6107d08b02dd7066cddefa5f94a98cee2d2fcd30ef76eff048753cfd465&width=320" alt="Omslag van 'Oorlogsgeheimen'" title="Omslag van 'Oorlogsgeheimen'">
+<p>Het Zuid-Limburgse dorpje waar Tuur (11) woont, is bezet door de Duitsers. Als Tuur ontdekt dat zijn buurmeisje Maartje een groot geheim heeft, komt de oorlog wel heel dichtbij. Vanaf ca. 10 jaar.</p>]]></content>
         <author>
             <name>Jacques Vriens</name>
         </author>
@@ -317,59 +290,82 @@
         <title type="html"><![CDATA[Liefdesbrieven van een kampbeul]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444259864/liefdesbrieven-van-een-kampbeul-rik-kuiper</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444259864/liefdesbrieven-van-een-kampbeul-rik-kuiper"/>
-        <updated>2026-01-31T07:23:13.623Z</updated>
+        <updated>2026-02-10T07:54:51.779Z</updated>
         <summary type="html"><![CDATA[Het waargebeurde verhaal van een ontsnapte Nederlandse SS’er, een secretaresse uit Kamp Amersfoort en de zoektocht van hun zoon naar de waarheid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259864?aid=kb-online-bibliotheek&sid=19&dts=1769781895430&sig=30b426d2867b98c1ff7b3e466572fa91e65bd716d527cfe93dc9e0829ee3f701&width=320" alt="Omslag van 'Liefdesbrieven van een kampbeul'" title="Omslag van 'Liefdesbrieven van een kampbeul'">
-<p>Kan iedereen uitgroeien tot oorlogsmisdadiger, als de omstandigheden daarom vragen?  'Hoeveel ik van Fokko'tje houd, kan ik niet schrijven en niet met woorden zeggen, Erika. Maar als ik bij jullie ben, dan zul je dat wel merken: dat geldt ook voor jou, Vrouwke.' Uit een brief van Willem aan Erika</p><p>Willem van der Neut mishandelde als bewaker in Kamp Amersfoort vele gevangenen en maakte deel uit van het executiepeloton. Wat was hij voor een man? Was hij een 'beestmens', zoals de naoorlogse kranten hem noemden? Een psychopaat, die in het kamp driften botvierde die hij eerder onderdrukte? Of was hij een doodgewone man die door de bijzondere omstandigheden in een monster veranderde?</p><p>Van der Neut werd na de oorlog gearresteerd en tot de doodstraf veroordeeld. Vanuit gevangenschap schreef hij honderden brieven aan zijn geliefde Erika en hun zoontje Fokko. Maar hoe oprecht waren die brieven? En waarom stopte het contact met Erika en Fokko nadat hij uit de gevangenis wist te ontsnappen en onderdook in West-Duitsland? In een poging tot antwoorden te komen reconstrueert journalist Rik Kuiper dit verhaal. In de hoop dat deze geschiedenis ons meer leert over de duistere kanten van de mensheid, waar we vandaag de dag nog altijd mee te maken hebben.</p><p>Rik Kuiper is verslaggever bij de Volkskrant. Het liefst schrijft hij waargebeurde verhalen die spannend blijven tot het einde, zoals zijn verslag over een tragische expeditie op de Mount Everest of over een Friese Siamese tweeling die in de jaren 50 wereldnieuws werd. Hij schrijft ook kortere verhalen, zoals de wekelijkse serie Die ene leerling. Rik werd twee keer genomineerd voor De Tegel en is driemaal door de Stichting Verhalende Journalistiek uitgeroepen tot 'Meesterverteller'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259864?aid=kb-online-bibliotheek&sid=19&dts=1770710091275&sig=6a7c3a4648ab350cc532d0072d1e865aa13ca18ee29bfeaea7adab51e771cfb1&width=320" alt="Omslag van 'Liefdesbrieven van een kampbeul'" title="Omslag van 'Liefdesbrieven van een kampbeul'">
+<p>Persoonlijk getint verslag van de speurtocht naar de levensgeschiedenis van de Nederlandse SS’er en kampbeul Willem van der Neut (1919-1983).</p>]]></content>
         <author>
             <name>Rik Kuiper</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hotel Pico Bello en de zaak van de horlogedief]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444254722/hotel-pico-bello-en-de-zaak-van-de-horlogedief-vivian-den-hollander</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444254722/hotel-pico-bello-en-de-zaak-van-de-horlogedief-vivian-den-hollander"/>
-        <updated>2026-01-31T07:23:12.397Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254722?aid=kb-online-bibliotheek&sid=19&dts=1769814295427&sig=00c655a9622ad90c7bc462d7c943f9a7d0400dfbc7a8f4d35bb847d92b6a165a&width=320" alt="Omslag van 'Hotel Pico Bello en de zaak van de horlogedief'" title="Omslag van 'Hotel Pico Bello en de zaak van de horlogedief'">
-<p>Het leven van Bart en Bibi wordt opeens compleet overhoop gegooid: hun vader Carlo heeft besloten een oude boot om te toveren tot een schitterende hotelboot. Na de eerste schrik merken ze gelukkig dat het toch wel leuk is om op een boot te wonen. En al helemaal om de boot mooi op te knappen! Helaas zit niet iedereen in hun nieuwe buurt te wachten op de komst van het hotel. En als er dan ook nog eens dure horloges uit het huis van een bekende tv-presentator worden gestolen, is de chaos compleet. Bibi en Bart worden ineens verdacht van de diefstal, terwijl ze er niets mee te maken hebben! Lukt het Bibi en Bart om te ontdekken wie de horloges dan wél hebben gestolen? Hotel Pico Bello en de zaak van de horlogedief is een spannend verhaal om zelf te lezen vanaf 7 jaar. Federico van Lunter maakte de grappige illustraties. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Waar wachten we op?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448832755/waar-wachten-we-op--dennis-storm</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448832755/waar-wachten-we-op--dennis-storm"/>
+        <updated>2026-02-10T07:54:52.381Z</updated>
+        <summary type="html"><![CDATA[Waarom er lef nodig is om de wereld te veranderen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832755?aid=kb-online-bibliotheek&sid=19&dts=1770710091900&sig=2ecb3a2a56c54a8923830a92be149ce4301e5375131232bf8c21e86c78ee7d32&width=320" alt="Omslag van 'Waar wachten we op?'" title="Omslag van 'Waar wachten we op?'">
+<p>Verhandeling over de noodzaak om andere keuzes te maken voor een gezonde en groene toekomst. Met zwart-wit illustraties.</p>]]></content>
         <author>
-            <name>Vivian den Hollander</name>
+            <name>Dennis Storm</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zionisten, terroristen, activisten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444259899/zionisten--terroristen--activisten-omar-dweik</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444259899/zionisten--terroristen--activisten-omar-dweik"/>
-        <updated>2026-01-31T07:23:06.016Z</updated>
-        <summary type="html"><![CDATA[Het Israëlisch-Palestijns conflict door de ogen van jongeren]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259899?aid=kb-online-bibliotheek&sid=19&dts=1769788407430&sig=526c4f9f7acd0d276ad26f5e78c3e9104b8fc18edea6f3bc58ea5598f9c777ae&width=320" alt="Omslag van 'Zionisten, terroristen, activisten'" title="Omslag van 'Zionisten, terroristen, activisten'">
-<p>Het Israël-Palestinaconflict door de ogen van jongeren  Sinds de aanval van Hamas op 7 oktober 2023 in Israël, heerst er oorlog in de Gazastrook. Het vormt het startpunt van Zionisten, terroristen, activisten van Omar Dweik over het Israël- Palestinaconflict dat al jarenlang gaande is. De stem van de jongeren rondom dit conflict werd nog maar zelden gehoord en daar zal Dweik met dit boek verandering in brengen.</p><p>Dweik gaat in op de beeldvorming onder jongeren en het activisme van Israëli's, Palestijnen en Nederlanders rondom het Israël-Palestinaconflict. Hoe ziet deze nieuwe generatie activisten zichzelf, hun identiteit en hun geschiedenis? En in welke mate beïnvloeden zij op hun beurt weer, met behulp van sociale media, de beeldvorming van Nederlanders rondom dit conflict? Het resultaat is een journalistiek, politiek analytisch en persoonlijk boek over een van de meest ingewikkelde conflicten van dit moment.</p><p>Omar Dweik is de zoon van een Palestijnse vader en een Nederlandse moeder. Hij raakte al op jonge leeftijd geïnteresseerd in politiek en internationale betrekkingen en is vooral geïnteresseerd in de kernproblemen van conflicten en de oplossingen daarvoor. Als onderzoeker aan de Universiteit van Tilburg bestudeert Dweik Palestijnse en Israëlische jonge activisten, hun ideologieën en de verspreiding daarvan in de onlinesfeer. Dweik is een veelgevraagd expert over dit onderwerp in de media. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[75 jaar Formule 1]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444259813/75-jaar-formule-1-olav-mol</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444259813/75-jaar-formule-1-olav-mol"/>
+        <updated>2026-02-10T07:54:53.037Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259813?aid=kb-online-bibliotheek&sid=19&dts=1770710092509&sig=3bfefb7592765f321640f0f59a0d53813acf7e3ad682f7a3b64d957287bbe635&width=320" alt="Omslag van '75 jaar Formule 1'" title="Omslag van '75 jaar Formule 1'">
+<p>Geschiedenis van de Formule 1 in de periode 1950-2025.</p>]]></content>
         <author>
-            <name>Omar Dweik</name>
+            <name>Olav Mol</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In de ban van Vietnam]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444259821/in-de-ban-van-vietnam-rimko-van-der-maar</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444259821/in-de-ban-van-vietnam-rimko-van-der-maar"/>
-        <updated>2026-01-31T07:23:06.532Z</updated>
-        <summary type="html"><![CDATA[De Vietnamese onafhankelijkheidsstrijd en het Westen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259821?aid=kb-online-bibliotheek&sid=19&dts=1769786947960&sig=9f059d2e5abeb3d6e3bbb66ae915164f8388208d573b5391ae3fe9869f2234ae&width=320" alt="Omslag van 'In de ban van Vietnam'" title="Omslag van 'In de ban van Vietnam'">
-<p>De oorlog in Vietnam was ook een propagandaoorlog – 50 jaar sinds het einde van de Vietnamoorlog  Vijftig jaar na de val van Saigon in 1975 vertelt dit boek het verhaal van de oorlog in Vietnam vanuit Vietnamees perspectief. Historici hebben veel onderzoek gedaan naar de wereldwijde kritiek op het Amerikaanse militaire optreden in Vietnam, maar de invloed van de verschillende strijdende Vietnamese partijen op de vorming van de westerse publieke opinie is daarbij altijd onderbelicht gebleven.</p><p>In In de ban van Vietnam bespreekt Rimko van der Maar de voorgeschiedenis van de Vietnamoorlog, waarbij vooral het leven van de communist en propagandist Ho Chi Minh veel aandacht krijgt. Wie was hij en hoe groot was zijn rol in de beeldvorming rondom Vietnam? Vervolgens laat Van der Maar zien hoe de Noord-Vietnamese communisten, maar ook hun Zuid-Vietnamese mede- en tegenstanders, contact legden in het Westen – waaronder in Nederland – en welke methodes zij gebruikten om de publieke opinie hier in hun voordeel te beïnvloeden. Het resultaat is een diepgaande nieuwe kijk op een propagandaoorlog die vandaag de dag actueler lijkt dan ooit.</p><p>Rimko van der Maar is universitair docent Geschiedenis van de internationale betrekkingen aan de Universiteit van Amsterdam. Hij promoveerde in 2007 op de Nederlandse reacties op de Vietnamoorlog en schreef onder meer de veelgeprezen biografie Herman van Roijen (1905-1991). Een diplomaat van klasse (samen met Hans Meijer). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Onze kunstmatige toekomst]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443090440/onze-kunstmatige-toekomst-joris-krijger</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443090440/onze-kunstmatige-toekomst-joris-krijger"/>
+        <updated>2026-02-10T07:54:53.605Z</updated>
+        <summary type="html"><![CDATA[Wat wij willen met AI (en AI met ons)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443090440?aid=kb-online-bibliotheek&sid=19&dts=1770710093161&sig=61d398ea345d8aeb4bdfc1c7c1bb1367b4efd3584b8c4130fc2dfeef27f2b017&width=320" alt="Omslag van 'Onze kunstmatige toekomst'" title="Omslag van 'Onze kunstmatige toekomst'">
+<p>Verhandeling over de ethische aspecten van kunstmatige intelligentie.</p>]]></content>
         <author>
-            <name>Rimko van der Maar</name>
+            <name>Joris Krijger</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Superjuffie steelt een paard]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444254706/superjuffie-steelt-een-paard-janneke-schotveld</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444254706/superjuffie-steelt-een-paard-janneke-schotveld"/>
-        <updated>2026-01-31T07:23:18.022Z</updated>
-        <summary type="html"><![CDATA[en andere verhalen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254706?aid=kb-online-bibliotheek&sid=19&dts=1769783474429&sig=9c16a85cbf045b1439a9c249f4c7aa1ca18184a8fa6533a66b7a0cd3a5594a6a&width=320" alt="Omslag van 'Superjuffie steelt een paard'" title="Omslag van 'Superjuffie steelt een paard'">
-<p>Grappige en spannende verhalen over de leukste juf ter wereld: Superjuffie! In deze fijne verhalenbundel zijn tien grappige en spannende verhalen van Superjuffie opgenomen. Zo zorgt een kat in nood ervoor dat juf Josje halverwege de sportdag weg moet, terwijl ze net in het doel staat en iedereen toekijkt. Ook veroorzaken pas geredde dieren regelmatig chaos in de klas, zoals Fred de fret die iets te veel energie heeft, of de kikker die het hoofd van meester Snor een prima plek vindt om even op te stranden. Maar ook buiten schooltijd redt Superjuffie volop dieren, een meeuw die vastzit in de brievenbus van de snackbar, bijvoorbeeld, of een vis die net is gevangen door een slaperige visser. En dat paard, heeft ze dat nu gestolen of gered? Superjuffie steelt een paard en andere verhalen is een must-have voor de vele fans van de Superjuffie-serie, maar is ook goed los te lezen voor wie de serie niet kent. Annet Schaap maakte de grappige illustraties. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Voor altijd op de vlucht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/445994029/voor-altijd-op-de-vlucht-angelo-schenkers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/445994029/voor-altijd-op-de-vlucht-angelo-schenkers"/>
+        <updated>2026-02-10T07:54:54.199Z</updated>
+        <summary type="html"><![CDATA[Een Amsterdams familieverhaal]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445994029?aid=kb-online-bibliotheek&sid=19&dts=1770710093728&sig=8479a47806a59ec0dac6367852d5990907503294e1dc8cfb85ec271f32ece8e8&width=320" alt="Omslag van 'Voor altijd op de vlucht'" title="Omslag van 'Voor altijd op de vlucht'">
+<p>Familiegeschiedenis van de grootouders van de auteur, zich afspelend in Amsterdam. Met zwart-witfoto’s.</p>]]></content>
         <author>
-            <name>Janneke Schotveld</name>
+            <name>Angelo Schenkers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De twee levens van Kaia]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444254714/de-twee-levens-van-kaia-chris-kooi</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444254714/de-twee-levens-van-kaia-chris-kooi"/>
+        <updated>2026-02-10T07:54:54.880Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254714?aid=kb-online-bibliotheek&sid=19&dts=1770710094396&sig=e4e93d326d66a3261da7bbf9883d482982edb2d7747b29246bc02c987b815626&width=320" alt="Omslag van 'De twee levens van Kaia'" title="Omslag van 'De twee levens van Kaia'">
+<p>Kaia (11) kan na veel verhuizingen samen met zijn moeder in het huis van zijn verdwenen oma wonen. Als hij op zijn nieuwe school een boek kopieert, komt hij terecht in een wereld vol dubbelgangers. Zal het hem lukken om dit mysterie te ontrafelen? Vanaf ca. 10 jaar.</p>]]></content>
+        <author>
+            <name>Chris Kooi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het is jullie zo gegund]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44426003X/het-is-jullie-zo-gegund-thijs-launspach</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44426003X/het-is-jullie-zo-gegund-thijs-launspach"/>
+        <updated>2026-02-10T07:54:55.452Z</updated>
+        <summary type="html"><![CDATA[Als een kind krijgen niet vanzelf gaat]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44426003X?aid=kb-online-bibliotheek&sid=19&dts=1770710095012&sig=18d8cf23275bd473d7a8ab217c7c4e2987d80f6e28801631f0638dbd863e561b&width=320" alt="Omslag van 'Het is jullie zo gegund'" title="Omslag van 'Het is jullie zo gegund'">
+<p>Persoonlijk relaas van een psycholoog (1988) over zijn vruchtbaarheidsproblemen, met aandacht voor de impact op de relatie met zijn partner.</p>]]></content>
+        <author>
+            <name>Thijs Launspach</name>
         </author>
     </entry>
 </feed>
