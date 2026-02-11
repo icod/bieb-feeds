@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-02-10T07:54:55.452Z</updated>
+    <updated>2026-02-11T07:51:01.172Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
-    <entry>
-        <title type="html"><![CDATA[Moordvent]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink"/>
-        <updated>2026-02-05T07:44:42.806Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456463704?aid=kb-online-bibliotheek&sid=19&dts=1770195505220&sig=daa3830128d94a9ad6c73d49bbf2a835ef28d2736f6ed8cb50cd0f846dc88994&width=320" alt="Omslag van 'Moordvent'" title="Omslag van 'Moordvent'">
-<p>De altijd zo alerte Ellen mist de signalen om haar giftige relatie met Johan, die voor haar de aantrekkelijkste man ter wereld is, te beëindigen voor het te laat is. Wanneer trekt het waas voor haar ogen op en ziet ze de werkelijkheid? De coronapandemie maakt haar echt wakker. Als ze achter de voordeur vaker in de hel verkeert dan in de hemel, moet ze alles op alles zetten om aan zijn manipulaties het hoofd te bieden en te overleven. Ambitieus als ze is werkt ze intussen aan een gewaagd plan om voorgoed van hem af te komen. Gaat dat haar lukken? "Zinderende vrouwenthriller met spicy randje". Wemmie Wolf, jurylid Nederlands Thrillerfestival Jolanda Esselink, voorheen copywriter, redacteur en journalist. In 2022 besloot ze het roer om te gooien en zich te storten op het schrijven van blogs en verhalen die je raken. Deze gelaagde thriller Moordvent, met gaslighting in de hoofdrol, is haar debuut. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jolanda Esselink</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Wat eens ongeschonden was]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456487522/wat-eens-ongeschonden-was-jos-govaarts---mark-de-groot</id>
@@ -33,17 +22,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een muur van croutons]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456463690/een-muur-van-croutons-michiel-richards</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456463690/een-muur-van-croutons-michiel-richards"/>
-        <updated>2026-02-05T07:44:43.842Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456463690?aid=kb-online-bibliotheek&sid=19&dts=1770212983415&sig=a246f5b401553e03eaee6c8e725a0b90b18e6b1f745370fa03868f24cccfda23&width=320" alt="Omslag van 'Een muur van croutons'" title="Omslag van 'Een muur van croutons'">
-<p>De vader van Joseph kan zich overal verstoppen. In een achterafstraat van San Francisco, met een nylonkous over zijn hoofd. Onder een motorhelm, op de set van een Woody Allen film. Achter een muur van croutons, in een volkswijk van Los Angeles. Al deze verstoppartijen maken dat Joseph zich levenslang afvraagt: wie is die pa van mij nou eigenlijk? In een vertelling waarin dagen decennia worden, en kleine jongens groot, gloort de hoop dat zijn vader ooit een begrijpelijk en beminnelijk man zal zijn. Maar bestaat dat soort vaders wel? ‘In deze roman gaan feit en fictie een huwelijk met elkaar aan. Een vechthuwelijk, waar de vonken van afvliegen. Een muur van croutons laat je nadenken over de vraag of ook een onhebbelijk mens een zekere tederheid verdient.’ (de review die Kurt Vonnegut had geschreven, had hij nog geleefd) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Michiel Richards</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Het tuinfeest]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456661085/het-tuinfeest-elly-wassenaar---ronald-van-assen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456661085/het-tuinfeest-elly-wassenaar---ronald-van-assen"/>
@@ -55,6 +33,28 @@
         </author>
         <author>
             <name>Ronald van Assen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een muur van croutons]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456463690/een-muur-van-croutons-michiel-richards</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456463690/een-muur-van-croutons-michiel-richards"/>
+        <updated>2026-02-05T07:44:43.842Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456463690?aid=kb-online-bibliotheek&sid=19&dts=1770212983415&sig=a246f5b401553e03eaee6c8e725a0b90b18e6b1f745370fa03868f24cccfda23&width=320" alt="Omslag van 'Een muur van croutons'" title="Omslag van 'Een muur van croutons'">
+<p>De vader van Joseph kan zich overal verstoppen. In een achterafstraat van San Francisco, met een nylonkous over zijn hoofd. Onder een motorhelm, op de set van een Woody Allen film. Achter een muur van croutons, in een volkswijk van Los Angeles. Al deze verstoppartijen maken dat Joseph zich levenslang afvraagt: wie is die pa van mij nou eigenlijk? In een vertelling waarin dagen decennia worden, en kleine jongens groot, gloort de hoop dat zijn vader ooit een begrijpelijk en beminnelijk man zal zijn. Maar bestaat dat soort vaders wel? ‘In deze roman gaan feit en fictie een huwelijk met elkaar aan. Een vechthuwelijk, waar de vonken van afvliegen. Een muur van croutons laat je nadenken over de vraag of ook een onhebbelijk mens een zekere tederheid verdient.’ (de review die Kurt Vonnegut had geschreven, had hij nog geleefd) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Michiel Richards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moordvent]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink"/>
+        <updated>2026-02-05T07:44:42.806Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456463704?aid=kb-online-bibliotheek&sid=19&dts=1770195505220&sig=daa3830128d94a9ad6c73d49bbf2a835ef28d2736f6ed8cb50cd0f846dc88994&width=320" alt="Omslag van 'Moordvent'" title="Omslag van 'Moordvent'">
+<p>De altijd zo alerte Ellen mist de signalen om haar giftige relatie met Johan, die voor haar de aantrekkelijkste man ter wereld is, te beëindigen voor het te laat is. Wanneer trekt het waas voor haar ogen op en ziet ze de werkelijkheid? De coronapandemie maakt haar echt wakker. Als ze achter de voordeur vaker in de hel verkeert dan in de hemel, moet ze alles op alles zetten om aan zijn manipulaties het hoofd te bieden en te overleven. Ambitieus als ze is werkt ze intussen aan een gewaagd plan om voorgoed van hem af te komen. Gaat dat haar lukken? "Zinderende vrouwenthriller met spicy randje". Wemmie Wolf, jurylid Nederlands Thrillerfestival Jolanda Esselink, voorheen copywriter, redacteur en journalist. In 2022 besloot ze het roer om te gooien en zich te storten op het schrijven van blogs en verhalen die je raken. Deze gelaagde thriller Moordvent, met gaslighting in de hoofdrol, is haar debuut. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jolanda Esselink</name>
         </author>
     </entry>
     <entry>
@@ -128,8 +128,8 @@
         <title type="html"><![CDATA[Wie is hier de baas]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/45729521X/wie-is-hier-de-baas-nicole-snow</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/45729521X/wie-is-hier-de-baas-nicole-snow"/>
-        <updated>2026-02-01T07:32:42.079Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45729521X?aid=kb-online-bibliotheek&sid=19&dts=1769849972488&sig=94ed8d755a60a92f731e253e85c2005bb9a3057df656746537ee3ae62c4086c4&width=320" alt="Omslag van 'Wie is hier de baas'" title="Omslag van 'Wie is hier de baas'">
+        <updated>2026-02-11T07:50:58.882Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45729521X?aid=kb-online-bibliotheek&sid=19&dts=1770735793051&sig=7b28a9f5d81008b76f6a24abebae70a4f35281fafc6bbfde21e1d74f25099c17&width=320" alt="Omslag van 'Wie is hier de baas'" title="Omslag van 'Wie is hier de baas'">
 <p>Sabrina gelooft in ongeluk. En terecht, zo lijkt het, want op vrijdag de dertiende gaat alles mis. Eerst verslaapt ze zich gigantisch, dan wordt een van haar hakken opgevreten door de lift en dan meldt haar baas dat ze haar baan kwijt is. Om zichzelf te troosten, gaat Sabrina naar haar favoriete koffietent voor een cinnamon latte, die ze meeneemt naar het park. Net als ze op een bankje zit te genieten van de troostkoffie, komt er op hoge poten een man naar haar toe die eist dat ze daar weggaat omdat ze in "zijn licht" zit. Eh, hallo? Sabrina, die er helemaal klaar mee is voor vandaag, laat dit niet over zich heen komen... Iets waar Magnus zo van onder de indruk is dat hij haar direct wil aannemen als zijn executive assistant. Zo begint een heerlijk verhaal vol aantrekken en afstoten, waarin Sabrina en Magnus elkaar beter leren kennen dan ze ooit iemand hebben toegestaan. 'Wie is hier de baas' is het eerste deel in de grappige en levensechte office romance-serie Chicago CEO's van Nicole Snow. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Nicole Snow</name>
@@ -205,38 +205,18 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hotel Pico Bello en de zaak van de horlogedief]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444254722/hotel-pico-bello-en-de-zaak-van-de-horlogedief-vivian-den-hollander</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444254722/hotel-pico-bello-en-de-zaak-van-de-horlogedief-vivian-den-hollander"/>
-        <updated>2026-02-10T07:54:48.337Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254722?aid=kb-online-bibliotheek&sid=19&dts=1770710087895&sig=bdb19a61d7bd02b45ea8753ec57b989d1a9fb4371e79895c11d19c1b9f8ed47d&width=320" alt="Omslag van 'Hotel Pico Bello en de zaak van de horlogedief'" title="Omslag van 'Hotel Pico Bello en de zaak van de horlogedief'">
-<p>De vader van Bart en Bibi heeft een oude boot gekocht die hij wil verbouwen tot een hotel. Als alles klaar is, worden Bart en Bibi vals beschuldigd van diefstal. Met illustraties in grijstinten. Vanaf ca. 7 jaar.</p>]]></content>
+        <title type="html"><![CDATA[Vive le tour, vive les femmes]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/445994223/vive-le-tour--vive-les-femmes-julia-mulli%C3%A9---tim-de-vries</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/445994223/vive-le-tour--vive-les-femmes-julia-mulli%C3%A9---tim-de-vries"/>
+        <updated>2026-02-11T07:50:59.560Z</updated>
+        <summary type="html"><![CDATA[De roerige geschiedenis van de Ronde van Frankrijk voor vrouwen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445994223?aid=kb-online-bibliotheek&sid=19&dts=1770796259005&sig=ecebb1b7d3820f05aca491f2f122f0305adedce46f6ea7e43b4bc2b9dcc55c60&width=320" alt="Omslag van 'Vive le tour, vive les femmes'" title="Omslag van 'Vive le tour, vive les femmes'">
+<p>Geschiedenis van de Ronde van Frankrijk voor vrouwen. Met zwart-witfoto’s en -illustraties.</p>]]></content>
         <author>
-            <name>Vivian den Hollander</name>
+            <name>Julia Mullié</name>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superjuffie steelt een paard]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444254706/superjuffie-steelt-een-paard-janneke-schotveld</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444254706/superjuffie-steelt-een-paard-janneke-schotveld"/>
-        <updated>2026-02-10T07:54:48.901Z</updated>
-        <summary type="html"><![CDATA[en andere verhalen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254706?aid=kb-online-bibliotheek&sid=19&dts=1770710088464&sig=37596bc3e4bade186413e668540e44cd9d66409999a9f05fe368ff879fecb0ba&width=320" alt="Omslag van 'Superjuffie steelt een paard'" title="Omslag van 'Superjuffie steelt een paard'">
-<p>Bundeling van elf Superjuffieverhalen waarin er weer de nodige dieren in nood worden gered. Met zwart-witillustraties. Voorlezen vanaf ca. 7 jaar, zelf lezen vanaf ca. 8 jaar.</p>]]></content>
         <author>
-            <name>Janneke Schotveld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44425997X/waarom-de-laagsteprijsgarantie-ervoor-zorgt-dat-jij-te-veel-betaalt-jona-van-loenen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44425997X/waarom-de-laagsteprijsgarantie-ervoor-zorgt-dat-jij-te-veel-betaalt-jona-van-loenen"/>
-        <updated>2026-02-10T07:54:49.451Z</updated>
-        <summary type="html"><![CDATA[Antwoorden op vragen die economen niet durven te stellen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44425997X?aid=kb-online-bibliotheek&sid=19&dts=1770710089017&sig=c24fe59f59300d352b2e5d149e4d66226bd1915b9b88d4a5db79cb0c9d9bac57&width=320" alt="Omslag van 'Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt'" title="Omslag van 'Waarom de laagsteprijsgarantie ervoor zorgt dat jij te veel betaalt'">
-<p>Inleidende verkenning over de economie, aan de hand van verschillende vragen en hardnekkige mythen.</p>]]></content>
-        <author>
-            <name>Jona van Loenen</name>
+            <name>Tim de Vries</name>
         </author>
     </entry>
     <entry>
@@ -261,6 +241,53 @@
         </author>
         <author>
             <name>Andrea Huntjens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[75 jaar Formule 1]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444259813/75-jaar-formule-1-olav-mol</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444259813/75-jaar-formule-1-olav-mol"/>
+        <updated>2026-02-10T07:54:53.037Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259813?aid=kb-online-bibliotheek&sid=19&dts=1770710092509&sig=3bfefb7592765f321640f0f59a0d53813acf7e3ad682f7a3b64d957287bbe635&width=320" alt="Omslag van '75 jaar Formule 1'" title="Omslag van '75 jaar Formule 1'">
+<p>Geschiedenis van de Formule 1 in de periode 1950-2025.</p>]]></content>
+        <author>
+            <name>Olav Mol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onze kunstmatige toekomst]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443090440/onze-kunstmatige-toekomst-joris-krijger</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443090440/onze-kunstmatige-toekomst-joris-krijger"/>
+        <updated>2026-02-10T07:54:53.605Z</updated>
+        <summary type="html"><![CDATA[Wat wij willen met AI (en AI met ons)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443090440?aid=kb-online-bibliotheek&sid=19&dts=1770710093161&sig=61d398ea345d8aeb4bdfc1c7c1bb1367b4efd3584b8c4130fc2dfeef27f2b017&width=320" alt="Omslag van 'Onze kunstmatige toekomst'" title="Omslag van 'Onze kunstmatige toekomst'">
+<p>Verhandeling over de ethische aspecten van kunstmatige intelligentie.</p>]]></content>
+        <author>
+            <name>Joris Krijger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roadblock]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444259945/roadblock-sophie-wester</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444259945/roadblock-sophie-wester"/>
+        <updated>2026-02-11T07:51:00.041Z</updated>
+        <summary type="html"><![CDATA[Zou jij kunnen leven met een loodzware leugen?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259945?aid=kb-online-bibliotheek&sid=19&dts=1770741279819&sig=b7a5f8f8a22c02dd146f98061c749aa7de216514ecae9cbaf44269bbf7519e6f&width=320" alt="Omslag van 'Roadblock'" title="Omslag van 'Roadblock'">
+<p>Drie vrienden fietsen ’s nachts na een feestje dronken naar huis en besluiten een grap uit te halen. Maar deze zogenaamde grap heeft ernstige gevolgen. Vanaf ca. 14 jaar.</p>]]></content>
+        <author>
+            <name>Sophie Wester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waar wachten we op?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448832755/waar-wachten-we-op--dennis-storm</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448832755/waar-wachten-we-op--dennis-storm"/>
+        <updated>2026-02-10T07:54:52.381Z</updated>
+        <summary type="html"><![CDATA[Waarom er lef nodig is om de wereld te veranderen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832755?aid=kb-online-bibliotheek&sid=19&dts=1770710091900&sig=2ecb3a2a56c54a8923830a92be149ce4301e5375131232bf8c21e86c78ee7d32&width=320" alt="Omslag van 'Waar wachten we op?'" title="Omslag van 'Waar wachten we op?'">
+<p>Verhandeling over de noodzaak om andere keuzes te maken voor een gezonde en groene toekomst. Met zwart-wit illustraties.</p>]]></content>
+        <author>
+            <name>Dennis Storm</name>
         </author>
     </entry>
     <entry>
@@ -299,73 +326,50 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waar wachten we op?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448832755/waar-wachten-we-op--dennis-storm</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448832755/waar-wachten-we-op--dennis-storm"/>
-        <updated>2026-02-10T07:54:52.381Z</updated>
-        <summary type="html"><![CDATA[Waarom er lef nodig is om de wereld te veranderen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832755?aid=kb-online-bibliotheek&sid=19&dts=1770710091900&sig=2ecb3a2a56c54a8923830a92be149ce4301e5375131232bf8c21e86c78ee7d32&width=320" alt="Omslag van 'Waar wachten we op?'" title="Omslag van 'Waar wachten we op?'">
-<p>Verhandeling over de noodzaak om andere keuzes te maken voor een gezonde en groene toekomst. Met zwart-wit illustraties.</p>]]></content>
+        <title type="html"><![CDATA[Hotel Pico Bello en de zaak van de horlogedief]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444254722/hotel-pico-bello-en-de-zaak-van-de-horlogedief-vivian-den-hollander</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444254722/hotel-pico-bello-en-de-zaak-van-de-horlogedief-vivian-den-hollander"/>
+        <updated>2026-02-10T07:54:48.337Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254722?aid=kb-online-bibliotheek&sid=19&dts=1770710087895&sig=bdb19a61d7bd02b45ea8753ec57b989d1a9fb4371e79895c11d19c1b9f8ed47d&width=320" alt="Omslag van 'Hotel Pico Bello en de zaak van de horlogedief'" title="Omslag van 'Hotel Pico Bello en de zaak van de horlogedief'">
+<p>De vader van Bart en Bibi heeft een oude boot gekocht die hij wil verbouwen tot een hotel. Als alles klaar is, worden Bart en Bibi vals beschuldigd van diefstal. Met illustraties in grijstinten. Vanaf ca. 7 jaar.</p>]]></content>
         <author>
-            <name>Dennis Storm</name>
+            <name>Vivian den Hollander</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[75 jaar Formule 1]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444259813/75-jaar-formule-1-olav-mol</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444259813/75-jaar-formule-1-olav-mol"/>
-        <updated>2026-02-10T07:54:53.037Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259813?aid=kb-online-bibliotheek&sid=19&dts=1770710092509&sig=3bfefb7592765f321640f0f59a0d53813acf7e3ad682f7a3b64d957287bbe635&width=320" alt="Omslag van '75 jaar Formule 1'" title="Omslag van '75 jaar Formule 1'">
-<p>Geschiedenis van de Formule 1 in de periode 1950-2025.</p>]]></content>
+        <title type="html"><![CDATA[Zionisten, terroristen, activisten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444259899/zionisten--terroristen--activisten-omar-dweik</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444259899/zionisten--terroristen--activisten-omar-dweik"/>
+        <updated>2026-02-11T07:51:00.570Z</updated>
+        <summary type="html"><![CDATA[Het Israëlisch-Palestijns conflict door de ogen van jongeren]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259899?aid=kb-online-bibliotheek&sid=19&dts=1770732515065&sig=218e8d58d9b8e40f996841b5e9e806fea575c30d50c65dfacc335e90c72def5a&width=320" alt="Omslag van 'Zionisten, terroristen, activisten'" title="Omslag van 'Zionisten, terroristen, activisten'">
+<p>Beschrijving van de visie van jongeren, met name christelijke jongeren en Nederlandse Palestijnen, op het Israël-Palestinaconflict, met aandacht voor onder andere de beeldvorming op social media.</p>]]></content>
         <author>
-            <name>Olav Mol</name>
+            <name>Omar Dweik</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onze kunstmatige toekomst]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443090440/onze-kunstmatige-toekomst-joris-krijger</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443090440/onze-kunstmatige-toekomst-joris-krijger"/>
-        <updated>2026-02-10T07:54:53.605Z</updated>
-        <summary type="html"><![CDATA[Wat wij willen met AI (en AI met ons)]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443090440?aid=kb-online-bibliotheek&sid=19&dts=1770710093161&sig=61d398ea345d8aeb4bdfc1c7c1bb1367b4efd3584b8c4130fc2dfeef27f2b017&width=320" alt="Omslag van 'Onze kunstmatige toekomst'" title="Omslag van 'Onze kunstmatige toekomst'">
-<p>Verhandeling over de ethische aspecten van kunstmatige intelligentie.</p>]]></content>
+        <title type="html"><![CDATA[In de ban van Vietnam]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444259821/in-de-ban-van-vietnam-rimko-van-der-maar</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444259821/in-de-ban-van-vietnam-rimko-van-der-maar"/>
+        <updated>2026-02-11T07:51:01.171Z</updated>
+        <summary type="html"><![CDATA[De Vietnamese onafhankelijkheidsstrijd en het Westen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444259821?aid=kb-online-bibliotheek&sid=19&dts=1770796260692&sig=6ecf5d1cc6ac21b4d89d24355b5e01fd1a166f6de6723943ab807bc5c5c4689f&width=320" alt="Omslag van 'In de ban van Vietnam'" title="Omslag van 'In de ban van Vietnam'">
+<p>Verhandeling over de invloed van verschillende Vietnamese partijen op de westelijke beeldvorming omtrent de Vietnamoorlog. Met foto’s en kaart.</p>]]></content>
         <author>
-            <name>Joris Krijger</name>
+            <name>Rimko van der Maar</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voor altijd op de vlucht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/445994029/voor-altijd-op-de-vlucht-angelo-schenkers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/445994029/voor-altijd-op-de-vlucht-angelo-schenkers"/>
-        <updated>2026-02-10T07:54:54.199Z</updated>
-        <summary type="html"><![CDATA[Een Amsterdams familieverhaal]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445994029?aid=kb-online-bibliotheek&sid=19&dts=1770710093728&sig=8479a47806a59ec0dac6367852d5990907503294e1dc8cfb85ec271f32ece8e8&width=320" alt="Omslag van 'Voor altijd op de vlucht'" title="Omslag van 'Voor altijd op de vlucht'">
-<p>Familiegeschiedenis van de grootouders van de auteur, zich afspelend in Amsterdam. Met zwart-witfoto’s.</p>]]></content>
+        <title type="html"><![CDATA[Superjuffie steelt een paard]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444254706/superjuffie-steelt-een-paard-janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444254706/superjuffie-steelt-een-paard-janneke-schotveld"/>
+        <updated>2026-02-10T07:54:48.901Z</updated>
+        <summary type="html"><![CDATA[en andere verhalen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254706?aid=kb-online-bibliotheek&sid=19&dts=1770710088464&sig=37596bc3e4bade186413e668540e44cd9d66409999a9f05fe368ff879fecb0ba&width=320" alt="Omslag van 'Superjuffie steelt een paard'" title="Omslag van 'Superjuffie steelt een paard'">
+<p>Bundeling van elf Superjuffieverhalen waarin er weer de nodige dieren in nood worden gered. Met zwart-witillustraties. Voorlezen vanaf ca. 7 jaar, zelf lezen vanaf ca. 8 jaar.</p>]]></content>
         <author>
-            <name>Angelo Schenkers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De twee levens van Kaia]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444254714/de-twee-levens-van-kaia-chris-kooi</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444254714/de-twee-levens-van-kaia-chris-kooi"/>
-        <updated>2026-02-10T07:54:54.880Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254714?aid=kb-online-bibliotheek&sid=19&dts=1770710094396&sig=e4e93d326d66a3261da7bbf9883d482982edb2d7747b29246bc02c987b815626&width=320" alt="Omslag van 'De twee levens van Kaia'" title="Omslag van 'De twee levens van Kaia'">
-<p>Kaia (11) kan na veel verhuizingen samen met zijn moeder in het huis van zijn verdwenen oma wonen. Als hij op zijn nieuwe school een boek kopieert, komt hij terecht in een wereld vol dubbelgangers. Zal het hem lukken om dit mysterie te ontrafelen? Vanaf ca. 10 jaar.</p>]]></content>
-        <author>
-            <name>Chris Kooi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het is jullie zo gegund]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44426003X/het-is-jullie-zo-gegund-thijs-launspach</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44426003X/het-is-jullie-zo-gegund-thijs-launspach"/>
-        <updated>2026-02-10T07:54:55.452Z</updated>
-        <summary type="html"><![CDATA[Als een kind krijgen niet vanzelf gaat]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44426003X?aid=kb-online-bibliotheek&sid=19&dts=1770710095012&sig=18d8cf23275bd473d7a8ab217c7c4e2987d80f6e28801631f0638dbd863e561b&width=320" alt="Omslag van 'Het is jullie zo gegund'" title="Omslag van 'Het is jullie zo gegund'">
-<p>Persoonlijk relaas van een psycholoog (1988) over zijn vruchtbaarheidsproblemen, met aandacht voor de impact op de relatie met zijn partner.</p>]]></content>
-        <author>
-            <name>Thijs Launspach</name>
+            <name>Janneke Schotveld</name>
         </author>
     </entry>
 </feed>
