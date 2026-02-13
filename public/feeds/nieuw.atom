@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-02-12T07:46:14.568Z</updated>
+    <updated>2026-02-13T07:44:53.886Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Het verraad]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456974008/het-verraad-judy-summers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456974008/het-verraad-judy-summers"/>
+        <updated>2026-02-13T07:44:53.398Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456974008?aid=kb-online-bibliotheek&sid=19&dts=1770890684736&sig=1a37a714cb5d1befb8cd5b8f7905f99da129bab91974781f9cc0f78bdf1499ed&width=320" alt="Omslag van 'Het verraad'" title="Omslag van 'Het verraad'">
+<p>1848. De familie Shaw heeft veel monden te voeden. Sinds de moeder van de kinderen is overleden en hun vader door een ongeluk gehandicapt is geraakt, moeten ze zelf zien te overleven. Uiteindelijk lukt dat niet meer, en de twaalfjarige Meg moet samen met haar jongere zusje Rosie naar het werkhuis verhuizen. Er wordt beloofd dat ze in de zomer weer naar huis mogen, maar de tijd verstrijkt en niemand komt hen ophalen. Het werkhuis wordt met harde hand geleid door een sadistische directrice, en om te overleven moet Meg zelf een uitweg zien te vinden. Dit is het eerste deel in de historische serie 'Dochters van de stad' die zich afspeelt in het Victoriaanse Liverpool in de jaren 1840. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Judy Summers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vertel het niemand]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/457361565/vertel-het-niemand-linda-jansma</id>
@@ -41,13 +52,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beren op de weg]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/410546283/beren-op-de-weg-gijs-van-middelkoop</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/410546283/beren-op-de-weg-gijs-van-middelkoop"/>
-        <updated>2026-02-12T07:45:55.598Z</updated>
-        <summary type="html"><![CDATA[een avontuurlijke fietsreis door Canada en de Verenigde Staten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A410546283?aid=kb-online-bibliotheek&sid=19&dts=1770882355154&sig=88ac9254be6b612254ed2ebcb8f30c380b2d4ffa63d858ac58d504503c4ce3d4&width=320" alt="Omslag van 'Beren op de weg'" title="Omslag van 'Beren op de weg'">
-<p>Gijs van Middelkoop en zijn vriendin Aimée gaan weer fietsen! Dwars door de Rocky Mountains deze keer, in Canada en de USA. Tijdens het eerste deel van hun reis moeten ze de weg nogal eens delen met hongerige beren. En dat zorgt voor de nodige complicaties. Een jaar later vervolgen ze hun tocht, maar dan duiken er hele andere beren op. Het is zelfs zo erg, dat de fiets tijdelijk aan de kant moet worden gezet. En net wanneer de rust een beetje terugkeert, barst het natuurgeweld los. Dan moeten ze alsnog alle zeilen bijzetten, om te voorkomen dat deze reis in een nachtmerrie eindigt... Gijs van Middelkoop is een begenadigd verteller, die zijn belevenissen op grootse wijze weet te verwoorden. Daarmee wordt Beren op de weg een spannend, onderhoudend en hilarisch boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Amerikanen fietsen niet]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/410546275/amerikanen-fietsen-niet-gijs-van-middelkoop</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/410546275/amerikanen-fietsen-niet-gijs-van-middelkoop"/>
+        <updated>2026-02-12T07:45:56.659Z</updated>
+        <summary type="html"><![CDATA[van Miami naar San Francisco door het land van de auto]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A410546275?aid=kb-online-bibliotheek&sid=19&dts=1770882356214&sig=9dde3123008d39abad5b57cf832b9271c8821ead886906dfa99b5231324577f9&width=320" alt="Omslag van 'Amerikanen fietsen niet'" title="Omslag van 'Amerikanen fietsen niet'">
+<p>Verslag van een fietstocht van Miami naar San Francisco.</p>]]></content>
         <author>
             <name>Gijs van Middelkoop</name>
         </author>
@@ -65,13 +76,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amerikanen fietsen niet]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/410546275/amerikanen-fietsen-niet-gijs-van-middelkoop</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/410546275/amerikanen-fietsen-niet-gijs-van-middelkoop"/>
-        <updated>2026-02-12T07:45:56.659Z</updated>
-        <summary type="html"><![CDATA[van Miami naar San Francisco door het land van de auto]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A410546275?aid=kb-online-bibliotheek&sid=19&dts=1770882356214&sig=9dde3123008d39abad5b57cf832b9271c8821ead886906dfa99b5231324577f9&width=320" alt="Omslag van 'Amerikanen fietsen niet'" title="Omslag van 'Amerikanen fietsen niet'">
-<p>Verslag van een fietstocht van Miami naar San Francisco.</p>]]></content>
+        <title type="html"><![CDATA[Beren op de weg]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/410546283/beren-op-de-weg-gijs-van-middelkoop</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/410546283/beren-op-de-weg-gijs-van-middelkoop"/>
+        <updated>2026-02-12T07:45:55.598Z</updated>
+        <summary type="html"><![CDATA[een avontuurlijke fietsreis door Canada en de Verenigde Staten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A410546283?aid=kb-online-bibliotheek&sid=19&dts=1770882355154&sig=88ac9254be6b612254ed2ebcb8f30c380b2d4ffa63d858ac58d504503c4ce3d4&width=320" alt="Omslag van 'Beren op de weg'" title="Omslag van 'Beren op de weg'">
+<p>Gijs van Middelkoop en zijn vriendin Aimée gaan weer fietsen! Dwars door de Rocky Mountains deze keer, in Canada en de USA. Tijdens het eerste deel van hun reis moeten ze de weg nogal eens delen met hongerige beren. En dat zorgt voor de nodige complicaties. Een jaar later vervolgen ze hun tocht, maar dan duiken er hele andere beren op. Het is zelfs zo erg, dat de fiets tijdelijk aan de kant moet worden gezet. En net wanneer de rust een beetje terugkeert, barst het natuurgeweld los. Dan moeten ze alsnog alle zeilen bijzetten, om te voorkomen dat deze reis in een nachtmerrie eindigt... Gijs van Middelkoop is een begenadigd verteller, die zijn belevenissen op grootse wijze weet te verwoorden. Daarmee wordt Beren op de weg een spannend, onderhoudend en hilarisch boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Gijs van Middelkoop</name>
         </author>
@@ -100,17 +111,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De glasmaakster]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443397600/de-glasmaakster-tracy-chevalier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443397600/de-glasmaakster-tracy-chevalier"/>
-        <updated>2026-02-12T07:45:58.237Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443397600?aid=kb-online-bibliotheek&sid=19&dts=1770882322750&sig=0bf2bd678f7778eac33e411e36a2e4011257421a3d504b694191754df94221e2&width=320" alt="Omslag van 'De glasmaakster'" title="Omslag van 'De glasmaakster'">
-<p>Venetië, 1486. Aan de overkant van de lagune ligt Murano. De tijd stroomt hier anders - net als het glas waar de meesters van het eiland hun leven lang mee leren werken. Het is niet de bedoeling dat vrouwen met glas werken, maar Orsola Rosso lapt de regels aan haar laars om haar familie van de ondergang te redden. Ze werkt in het geheim omdat ze weet dat haar glazen kralen perfect moeten zijn om door mannen geaccepteerd te worden. Maar perfectie kan een mensenleven duren. De lezer volgt Orsola op een tijdreis door de eeuwen heen terwijl ze haar vakmanschap aanscherpt, door oorlog en pest, tragedie en triomf, liefde en verlies. De kralen die ze creëert zullen de halzen sieren van keizerinnen en courtisanes van Parijs tot Wenen - maar zal Orsola ooit het respect verdienen van degenen die het dichtst bij haar staan? Tracy Chevalier is een meester in haar eigen vak, en haar nieuwste roman De glasmaakster is levendig, inventief en betoverend: een virtuoos portret van een vrouw, een familie en een stad die net zo eeuwig zijn als hun glas. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tracy Chevalier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De vrouw van Montparnasse]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard"/>
@@ -120,6 +120,17 @@
 <p>Biografische roman over het leven van de Franse filosofe en schrijver (1908-1986), met aandacht voor haar zoektocht naar vrijheid in de liefde en in haar carrière.</p>]]></content>
         <author>
             <name>Caroline Bernard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De glasmaakster]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443397600/de-glasmaakster-tracy-chevalier</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443397600/de-glasmaakster-tracy-chevalier"/>
+        <updated>2026-02-12T07:45:58.237Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443397600?aid=kb-online-bibliotheek&sid=19&dts=1770882322750&sig=0bf2bd678f7778eac33e411e36a2e4011257421a3d504b694191754df94221e2&width=320" alt="Omslag van 'De glasmaakster'" title="Omslag van 'De glasmaakster'">
+<p>Venetië, 1486. Aan de overkant van de lagune ligt Murano. De tijd stroomt hier anders - net als het glas waar de meesters van het eiland hun leven lang mee leren werken. Het is niet de bedoeling dat vrouwen met glas werken, maar Orsola Rosso lapt de regels aan haar laars om haar familie van de ondergang te redden. Ze werkt in het geheim omdat ze weet dat haar glazen kralen perfect moeten zijn om door mannen geaccepteerd te worden. Maar perfectie kan een mensenleven duren. De lezer volgt Orsola op een tijdreis door de eeuwen heen terwijl ze haar vakmanschap aanscherpt, door oorlog en pest, tragedie en triomf, liefde en verlies. De kralen die ze creëert zullen de halzen sieren van keizerinnen en courtisanes van Parijs tot Wenen - maar zal Orsola ooit het respect verdienen van degenen die het dichtst bij haar staan? Tracy Chevalier is een meester in haar eigen vak, en haar nieuwste roman De glasmaakster is levendig, inventief en betoverend: een virtuoos portret van een vrouw, een familie en een stad die net zo eeuwig zijn als hun glas. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tracy Chevalier</name>
         </author>
     </entry>
     <entry>
@@ -145,17 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Orlanda]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/457552565/orlanda-jacqueline-harpman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/457552565/orlanda-jacqueline-harpman"/>
-        <updated>2026-02-12T07:46:03.652Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552565?aid=kb-online-bibliotheek&sid=19&dts=1770882360111&sig=7229c5ebbbc3df1d4ae43f7da72c7092ee54c7b10c5ac143f10770b1ae52db09&width=320" alt="Omslag van 'Orlanda'" title="Omslag van 'Orlanda'">
-<p>Welke man of vrouw heeft er nooit van gedroomd om op zijn minst één keer te veranderen van leefwereld door in het lichaam en de geest van een ander te kruipen? Aline Berger zal deze gedaanteverwisseling aan den lijve ondergaan. Ze wacht op het Parijse Gare du Nord op de trein naar Brussel. Ze leest een roman van Virginia Woolf, maar haar gedachten dwalen af en richten zich plotseling op een onbekende blonde jongeman van een jaar of twintig, Lucien Lefrène. Op dat moment besluit Aline het onmogelijke waar te maken: een deel van haarzelf, haar mannelijke kant, verhuist van haar vrouwenlichaam naar dat van de jongen. Een duizelingwekkende ervaring... Nu Aline in Lucien woont, kijkt ze naar de Aline die ze heeft verlaten. Ze wordt, zij worden, meegesleurd in een avontuur waarin de situaties noodzakelijkerwijs onverwacht zijn, de affaires scabreus, de toenadering tussen de individuen verrassend. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jacqueline Harpman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wilgenkind]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/457552476/wilgenkind-josha-zwaan</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/457552476/wilgenkind-josha-zwaan"/>
@@ -164,6 +164,17 @@
 <p>Wanneer Hannah hoort dat haar vader ernstig ziek is, belandt ze tegen wil en dank in de rol van mantelzorger. Aanvankelijk met veel weerstand, maar in de loop van de maanden met steeds meer overtuiging, zorgt Hannah ervoor dat de laatste fase van haar vaders leven draaglijk voor hem is. Aan zijn sterfbed komen herinneringen boven aan haar moeder die stierf toen Hannah veertien was. Ook doet Hannah een aantal ontdekkingen over het leven van haar vader. Langzaam wordt duidelijk waar de verwijdering begonnen is en wat de oorzaak is van haar vaders onvermogen om een betrokken ouder te zijn. In eerste instantie lijkt de verwijdering te maken te hebben met Hannahs abortus in haar studententijd, maar verzwegen gebeurtenissen in het verleden blijken een veel grotere rol te spelen. Wilgenkind is een aangrijpende roman over de misverstanden tussen ouders en kinderen, over familiegeheimen en het verzwijgen daarvan, en over de rollen die worden omgekeerd wanneer kinderen opeens voor hun ouders moeten zorgen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Josha Zwaan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orlanda]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/457552565/orlanda-jacqueline-harpman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/457552565/orlanda-jacqueline-harpman"/>
+        <updated>2026-02-12T07:46:03.652Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552565?aid=kb-online-bibliotheek&sid=19&dts=1770882360111&sig=7229c5ebbbc3df1d4ae43f7da72c7092ee54c7b10c5ac143f10770b1ae52db09&width=320" alt="Omslag van 'Orlanda'" title="Omslag van 'Orlanda'">
+<p>Welke man of vrouw heeft er nooit van gedroomd om op zijn minst één keer te veranderen van leefwereld door in het lichaam en de geest van een ander te kruipen? Aline Berger zal deze gedaanteverwisseling aan den lijve ondergaan. Ze wacht op het Parijse Gare du Nord op de trein naar Brussel. Ze leest een roman van Virginia Woolf, maar haar gedachten dwalen af en richten zich plotseling op een onbekende blonde jongeman van een jaar of twintig, Lucien Lefrène. Op dat moment besluit Aline het onmogelijke waar te maken: een deel van haarzelf, haar mannelijke kant, verhuist van haar vrouwenlichaam naar dat van de jongen. Een duizelingwekkende ervaring... Nu Aline in Lucien woont, kijkt ze naar de Aline die ze heeft verlaten. Ze wordt, zij worden, meegesleurd in een avontuur waarin de situaties noodzakelijkerwijs onverwacht zijn, de affaires scabreus, de toenadering tussen de individuen verrassend. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jacqueline Harpman</name>
         </author>
     </entry>
     <entry>
@@ -201,14 +212,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[O, Caledonia]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker"/>
-        <updated>2026-02-12T07:46:06.466Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505652?aid=kb-online-bibliotheek&sid=19&dts=1770882365999&sig=5d91af2827b9d8d42f459c810fa5c7e0ce216d8914b661be199a0f46c7b43ad7&width=320" alt="Omslag van 'O, Caledonia'" title="Omslag van 'O, Caledonia'">
-<p>Onder aan de trap van het kasteel, gekleed in haar moeders zwart kanten avondjurk, ligt Janet, in de verwrongen houding die duidt op moord... O, Caledonia is een verbluffende roman, waarin de kettingreactie van gebeurtenissen wordt beschreven die leidt tot de bizarre dood van een zestienjarig meisje, gesitueerd in Schotland in de jaren veertig en vijftig. Opgroeiend in een geïsoleerde en eenzame wereld wendt Barkers verdoemde jonge heldin zich tot de literatuur, de natuur en tot haar tante Lila, die haar korte momenten van troost bieden in een verder grimmig bestaan. Mensen, vogels en andere dieren bevolken een verhaal dat zowel sfeervol als geestig en vlijmscherp is. Het familiemotto - moriens sed invictus (stervend maar onoverwonnen) - is een toepasselijk grafschrift voor de wilde en dappere Janet, wier vurige vastberadenheid om trouw te blijven aan zichzelf haar tot een van de onvergetelijkste heldinnen van de hedendaagse literatuur maakt. Op meesterlijke wijze roept Elspeth Barker het barre klimaat van Schotland voor de geest in deze gothic roman, die wel wordt vergeleken met het werk van de Brontës, Edgar Allen Poe en We hebben altijd in het kasteel gewoond van Shirley Jackson. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Maqluba]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444505687/maqluba-sari-bashi</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444505687/maqluba-sari-bashi"/>
+        <updated>2026-02-12T07:46:09.887Z</updated>
+        <summary type="html"><![CDATA[Een Palestijns-israëlisch liefdesverhaal]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505687?aid=kb-online-bibliotheek&sid=19&dts=1770882369425&sig=bf37e5d5694a52328da1cd40a3c97b1d9192e91a29d45916813d6d33d09eec86&width=320" alt="Omslag van 'Maqluba'" title="Omslag van 'Maqluba'">
+<p>Osama is een Palestijnse professor die vastzit in de stad Ramallah op de Westelijke Jordaanoever en alleen maar kan dromen van congressen in het buitenland of een bezoekje aan zijn moeder in Gaza. Sari is een Israëlisch-Amerikaanse mensenrechtenadvocaat, wier passie voor vrijheid haar ertoe brengt de Westelijke Jordaanoever te doorkruisen en het op te nemen tegen de Israëlische autoriteiten in rechtszaken namens Osama en anderen die worden onderworpen aan strenge reisbeperkingen. Hun verhaal laat zien hoe zij hun plaats in de Israëlisch-Palestijnse samenleving proberen te vinden. De pogingen van Sari en Osama om hun relatie onder vrijwel onmogelijke omstandigheden in stand te houden, tonen de vervreemding en scheve verhoudingen die een halve eeuw militaire bezetting van Palestina tussen Palestijnen en Israëliërs heeft gecreëerd. 'Maqloubah' betekent 'ondersteboven' in het Arabisch, naar het traditionele Palestijnse kip-en-rijstgerecht waarvan de pot, zodra het koken voltooid is, ondersteboven op een serveerschaal wordt gezet. Sari en Osama ontdekken dat belangrijke aspecten van hun twee verschillende werelden lijnrecht tegenover elkaar lijken te staan en nauwelijks ruimte laten om van de ander te houden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Elspeth Barker</name>
+            <name>Sari Bashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rijpheid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss"/>
+        <updated>2026-02-12T07:46:09.289Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505679?aid=kb-online-bibliotheek&sid=19&dts=1770882027898&sig=dd9b7284565637fec4926d81ab9393ce0f4c7fd1fe441a489069ca7c45c6bb29&width=320" alt="Omslag van 'Rijpheid'" title="Omslag van 'Rijpheid'">
+<p>Edith woont in haar eentje aan de Ierse kust, waar haar gedachten afdwalen naar een zomer, lang geleden, die nog steeds een grote impact op haar leven heeft. Ze onderhoudt een intense vriendschap met Meabh en een intens fysieke relatie met haar buurman. In de jaren zestig werd de zeventienjarige Edith naar een villa aan het Comomeer gestuurd om haar zwangere zus Lydia, een balletdanseres, bij te staan. In dat leven tussen de dansers en omgeven door schoonheid wordt er een delicate spanning opgebouwd die leidt tot een indringende scène waarin Lydia bevalt en vervolgens haar baby ter adoptie afstaat. Sarah Moss schrijft in Rijpheid op een bijna hypnotiserende manier over het lichaam: de ruimte die het inneemt, de cyclus van het leven, het begin en het verval ervan. Bovendien weet ze als geen ander gevoelens van erbij willen horen, vriendschap, familie, eenzaamheid en vooral liefde tot leven te wekken. Rijpheid is een roman vol schoonheid, verdriet en diepmenselijke ervaringen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sarah Moss</name>
         </author>
     </entry>
     <entry>
@@ -220,6 +243,28 @@
 <p>Een jonge vrouw zet haar eigen dood in scène om aan haar familie te ontsnappen. Na jaren van sociale ketenen wil ze breken met de rol van vrouw, moeder en minnares: ze weigert nog langer een leven te leiden dat door anderen wordt gedicteerd. Jaren later keert Elisabeth terug naar het huis dat ze ooit verliet. Oude foto's brengen herinneringen terug: een zomer op het platteland, haar ervaringen op de nonnenschool, een liefdesrelatie op het werk, het huwelijksleven in de middenklasse en het tweede huwelijk van haar man met haar vriendin Käthe. Deze herinneringen onthullen haar tweestrijd: ooit verkoos ze vrijheid en onafhankelijkheid boven bescherming, toch verlangde ze haar hele leven naar genegenheid, warmte en veiligheid. In plaats van een voortkabbelend 'geluk' koos ze voor 'een handvol leven'. Een handvol leven, gepubliceerd in 1955, is een bijzonder eigentijds portret van een vrouw die weigert de haar toegewezen rol te aanvaarden en besluit haar man en kind achter te laten op zoek naar vrijheid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marlen Haushofer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korstmos]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627089/korstmos-rinske-bouwman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627089/korstmos-rinske-bouwman"/>
+        <updated>2026-02-12T07:46:08.785Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627089?aid=kb-online-bibliotheek&sid=19&dts=1770882368315&sig=80f58747b5037dcbb6d735d5ea039013a0628015544f804ff22b168301d7f12b&width=320" alt="Omslag van 'Korstmos'" title="Omslag van 'Korstmos'">
+<p>Marius is buschauffeur, beginnend vogelaar en mantelzorger van zijn vrouw Philo, die al jaren langer leeft dan verwacht. Als game developer tipt ze hem The Otherworld, een online virtuele wereld, waar mensen van over de hele wereld samenkomen en zichzelf kunnen zijn, of juist helemaal niet. In The Otherworld koopt Marius een eiland van pixels en hij begint een diervriendelijke tijgerfokkerij, waar hij elke vrijdagavond een steeds drukker bezocht online feest geeft. Door nieuwe mensen te ontmoeten en een eigen sociaal leven op te bouwen bereidt hij zich zo goed mogelijk voor op een leven na Philo’s dood. Hoewel ze al jaren samen zijn ontstaan er barstjes in de evenwichtige symbiose tussen Marius en Philo. Marius haalt inspiratie uit de natuur om hem heen. Hij krijgt tips van schapen, mieren en zijn eigen kat Ruud. Ook een zwaan probeert hem te troosten. Toch wordt de kloof tussen Marius en Philo groter, tot er een tijger in zijn huiskamer staat. Een echte, niet een van pixels. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Rinske Bouwman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O, Caledonia]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker"/>
+        <updated>2026-02-12T07:46:06.466Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505652?aid=kb-online-bibliotheek&sid=19&dts=1770882365999&sig=5d91af2827b9d8d42f459c810fa5c7e0ce216d8914b661be199a0f46c7b43ad7&width=320" alt="Omslag van 'O, Caledonia'" title="Omslag van 'O, Caledonia'">
+<p>Onder aan de trap van het kasteel, gekleed in haar moeders zwart kanten avondjurk, ligt Janet, in de verwrongen houding die duidt op moord... O, Caledonia is een verbluffende roman, waarin de kettingreactie van gebeurtenissen wordt beschreven die leidt tot de bizarre dood van een zestienjarig meisje, gesitueerd in Schotland in de jaren veertig en vijftig. Opgroeiend in een geïsoleerde en eenzame wereld wendt Barkers verdoemde jonge heldin zich tot de literatuur, de natuur en tot haar tante Lila, die haar korte momenten van troost bieden in een verder grimmig bestaan. Mensen, vogels en andere dieren bevolken een verhaal dat zowel sfeervol als geestig en vlijmscherp is. Het familiemotto - moriens sed invictus (stervend maar onoverwonnen) - is een toepasselijk grafschrift voor de wilde en dappere Janet, wier vurige vastberadenheid om trouw te blijven aan zichzelf haar tot een van de onvergetelijkste heldinnen van de hedendaagse literatuur maakt. Op meesterlijke wijze roept Elspeth Barker het barre klimaat van Schotland voor de geest in deze gothic roman, die wel wordt vergeleken met het werk van de Brontës, Edgar Allen Poe en We hebben altijd in het kasteel gewoond van Shirley Jackson. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elspeth Barker</name>
         </author>
     </entry>
     <entry>
@@ -246,37 +291,28 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Korstmos]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446627089/korstmos-rinske-bouwman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446627089/korstmos-rinske-bouwman"/>
-        <updated>2026-02-12T07:46:08.785Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627089?aid=kb-online-bibliotheek&sid=19&dts=1770882368315&sig=80f58747b5037dcbb6d735d5ea039013a0628015544f804ff22b168301d7f12b&width=320" alt="Omslag van 'Korstmos'" title="Omslag van 'Korstmos'">
-<p>Marius is buschauffeur, beginnend vogelaar en mantelzorger van zijn vrouw Philo, die al jaren langer leeft dan verwacht. Als game developer tipt ze hem The Otherworld, een online virtuele wereld, waar mensen van over de hele wereld samenkomen en zichzelf kunnen zijn, of juist helemaal niet. In The Otherworld koopt Marius een eiland van pixels en hij begint een diervriendelijke tijgerfokkerij, waar hij elke vrijdagavond een steeds drukker bezocht online feest geeft. Door nieuwe mensen te ontmoeten en een eigen sociaal leven op te bouwen bereidt hij zich zo goed mogelijk voor op een leven na Philo’s dood. Hoewel ze al jaren samen zijn ontstaan er barstjes in de evenwichtige symbiose tussen Marius en Philo. Marius haalt inspiratie uit de natuur om hem heen. Hij krijgt tips van schapen, mieren en zijn eigen kat Ruud. Ook een zwaan probeert hem te troosten. Toch wordt de kloof tussen Marius en Philo groter, tot er een tijger in zijn huiskamer staat. Een echte, niet een van pixels. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Op scoutingkamp]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/457552522/op-scoutingkamp-sandra-kuipers---mireille-hovius</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/457552522/op-scoutingkamp-sandra-kuipers---mireille-hovius"/>
+        <updated>2026-02-12T07:46:11.093Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552522?aid=kb-online-bibliotheek&sid=19&dts=1770882370632&sig=bfb3b287af18ae6e2c9cfffa3cbf6b6bd20d86ba9b7abfcd3a09a634ca2be352&width=320" alt="Omslag van 'Op scoutingkamp'" title="Omslag van 'Op scoutingkamp'">
+<p>Twee scoutingverenigingen wedijveren om het clubgebouw. Wie wint de vlottentocht? Froekje en Mies met de gidsen of Kasper met de verkenners? Beiden gaan 100% voor de winst. Maar of de strijd ook het beste in ze naar boven haalt? 'Ik hoor niks.' Kasper trekt één wenkbrauw op. 'Ja,' zegt Froekje met trillende stem. 'Jullie winnen de vlottentocht.' 'Juist!' Nu grijnst hij. 'Froekie begint het te leren. En dan nog wat: JIJ wordt mijn knecht.' Sandra Kuipers (1973) en Mireille Hovius (1975) schrijven samen kinderboeken. Het idee daarvoor is ontstaan op de basisschool, waar Sandra werkt als leerkracht en de twee kinderen van Mireille naar school gaan. Na schooltijd praat en zij over hun gezamenlijke passie en niet veel later zaten ze achter de schrijftafel. Hun droom werd werkelijkheid: Voor je ligt het tweede boek uit hun serie: Froekje & Mies, op scoutingkamp. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Rinske Bouwman</name>
+            <name>Sandra Kuipers</name>
+        </author>
+        <author>
+            <name>Mireille Hovius</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rijpheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss"/>
-        <updated>2026-02-12T07:46:09.289Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505679?aid=kb-online-bibliotheek&sid=19&dts=1770882027898&sig=dd9b7284565637fec4926d81ab9393ce0f4c7fd1fe441a489069ca7c45c6bb29&width=320" alt="Omslag van 'Rijpheid'" title="Omslag van 'Rijpheid'">
-<p>Edith woont in haar eentje aan de Ierse kust, waar haar gedachten afdwalen naar een zomer, lang geleden, die nog steeds een grote impact op haar leven heeft. Ze onderhoudt een intense vriendschap met Meabh en een intens fysieke relatie met haar buurman. In de jaren zestig werd de zeventienjarige Edith naar een villa aan het Comomeer gestuurd om haar zwangere zus Lydia, een balletdanseres, bij te staan. In dat leven tussen de dansers en omgeven door schoonheid wordt er een delicate spanning opgebouwd die leidt tot een indringende scène waarin Lydia bevalt en vervolgens haar baby ter adoptie afstaat. Sarah Moss schrijft in Rijpheid op een bijna hypnotiserende manier over het lichaam: de ruimte die het inneemt, de cyclus van het leven, het begin en het verval ervan. Bovendien weet ze als geen ander gevoelens van erbij willen horen, vriendschap, familie, eenzaamheid en vooral liefde tot leven te wekken. Rijpheid is een roman vol schoonheid, verdriet en diepmenselijke ervaringen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[In de basket]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/457552557/in-de-basket-folkert-oldersma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/457552557/in-de-basket-folkert-oldersma"/>
+        <updated>2026-02-12T07:46:13.312Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552557?aid=kb-online-bibliotheek&sid=19&dts=1770882372875&sig=ab28f8144caa4ddf553e3f47beb6540a618e5b353e6a7a8cba794959e269c8d7&width=320" alt="Omslag van 'In de basket'" title="Omslag van 'In de basket'">
+<p>Teun is helemaal weg van basketbal. Bij zijn club De Dolphins valt hij op door zijn geweldige spel. Zijn jaloerse teamgenoot Kasper zit hem echter voortdurend dwars. Als Teun de kans krijgt voor het basketbalspel naar de Verenigde Staten te gaan, wacht hem daar een aangename verrassing. Maar die blijkt tegelijk ook heel onaangenaam... De twee kleinzonen van schrijver Folkert Oldersma zijn enthousiaste basketballers. Zij fluisterden hem verhalen in over beroemde basketballers, legden de spelregels uit en dropten leuke feitjes over de sport. Het verhaal bedacht hij zelf. 'Het enthousiasme spat van het verhaal af. Voor jeugd die overweegt te gaan basketballen zal dit boek de doorslag geven.' Wil je van alles weten over basketbal en heb je zin in een fijn verhaal? Het jeugdboek 'In de basket' bevat het boeiende verhaal over de basketballende Teun en geeft bovendien veel leuke weetjes over deze sport. Je leert over de regels, leest over beroemde basketballers en komt alles aan de weet over records. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sarah Moss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maqluba]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444505687/maqluba-sari-bashi</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444505687/maqluba-sari-bashi"/>
-        <updated>2026-02-12T07:46:09.887Z</updated>
-        <summary type="html"><![CDATA[Een Palestijns-israëlisch liefdesverhaal]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505687?aid=kb-online-bibliotheek&sid=19&dts=1770882369425&sig=bf37e5d5694a52328da1cd40a3c97b1d9192e91a29d45916813d6d33d09eec86&width=320" alt="Omslag van 'Maqluba'" title="Omslag van 'Maqluba'">
-<p>Osama is een Palestijnse professor die vastzit in de stad Ramallah op de Westelijke Jordaanoever en alleen maar kan dromen van congressen in het buitenland of een bezoekje aan zijn moeder in Gaza. Sari is een Israëlisch-Amerikaanse mensenrechtenadvocaat, wier passie voor vrijheid haar ertoe brengt de Westelijke Jordaanoever te doorkruisen en het op te nemen tegen de Israëlische autoriteiten in rechtszaken namens Osama en anderen die worden onderworpen aan strenge reisbeperkingen. Hun verhaal laat zien hoe zij hun plaats in de Israëlisch-Palestijnse samenleving proberen te vinden. De pogingen van Sari en Osama om hun relatie onder vrijwel onmogelijke omstandigheden in stand te houden, tonen de vervreemding en scheve verhoudingen die een halve eeuw militaire bezetting van Palestina tussen Palestijnen en Israëliërs heeft gecreëerd. 'Maqloubah' betekent 'ondersteboven' in het Arabisch, naar het traditionele Palestijnse kip-en-rijstgerecht waarvan de pot, zodra het koken voltooid is, ondersteboven op een serveerschaal wordt gezet. Sari en Osama ontdekken dat belangrijke aspecten van hun twee verschillende werelden lijnrecht tegenover elkaar lijken te staan en nauwelijks ruimte laten om van de ander te houden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sari Bashi</name>
+            <name>Folkert Oldersma</name>
         </author>
     </entry>
     <entry>
@@ -292,42 +328,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Op scoutingkamp]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/457552522/op-scoutingkamp-sandra-kuipers---mireille-hovius</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/457552522/op-scoutingkamp-sandra-kuipers---mireille-hovius"/>
-        <updated>2026-02-12T07:46:11.093Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552522?aid=kb-online-bibliotheek&sid=19&dts=1770882370632&sig=bfb3b287af18ae6e2c9cfffa3cbf6b6bd20d86ba9b7abfcd3a09a634ca2be352&width=320" alt="Omslag van 'Op scoutingkamp'" title="Omslag van 'Op scoutingkamp'">
-<p>Twee scoutingverenigingen wedijveren om het clubgebouw. Wie wint de vlottentocht? Froekje en Mies met de gidsen of Kasper met de verkenners? Beiden gaan 100% voor de winst. Maar of de strijd ook het beste in ze naar boven haalt? 'Ik hoor niks.' Kasper trekt één wenkbrauw op. 'Ja,' zegt Froekje met trillende stem. 'Jullie winnen de vlottentocht.' 'Juist!' Nu grijnst hij. 'Froekie begint het te leren. En dan nog wat: JIJ wordt mijn knecht.' Sandra Kuipers (1973) en Mireille Hovius (1975) schrijven samen kinderboeken. Het idee daarvoor is ontstaan op de basisschool, waar Sandra werkt als leerkracht en de twee kinderen van Mireille naar school gaan. Na schooltijd praat en zij over hun gezamenlijke passie en niet veel later zaten ze achter de schrijftafel. Hun droom werd werkelijkheid: Voor je ligt het tweede boek uit hun serie: Froekje & Mies, op scoutingkamp. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sandra Kuipers</name>
-        </author>
-        <author>
-            <name>Mireille Hovius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het Samaelsverbond]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45755262X/het-samaelsverbond-terrence-lauerhohn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45755262X/het-samaelsverbond-terrence-lauerhohn"/>
-        <updated>2026-02-12T07:46:11.700Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45755262X?aid=kb-online-bibliotheek&sid=19&dts=1770882371216&sig=3a4bc0221eac19c77f275a6c1f7b891932449ef218c2fc8fb0c91790ff73ee8a&width=320" alt="Omslag van 'Het Samaelsverbond'" title="Omslag van 'Het Samaelsverbond'">
-<p>Gebaseerd op een waargebeurd verhaal. Mark Ainsworth neemt zijn intrek in het Great Lake Plaza hotel in Chicago. Zijn broer is vermist en het laatste spoor leidt naar deze locatie. Wat Mark niet weet - en wat geen enkele buitenstaander weet - is dat het gebouw al sinds de voltooiing in de negentiende eeuw een afschuwelijk geheim verbergt. Terrence Lauerhohn zet met donkergekleurde pen de toon in zijn verhalen. Zodra je een van zijn boeken openslaat golf je mee op de vaak duistere stromen van zijn proza. Menig lezer kan niet eerder dan na de allerlaatste punt loskomen van de bloedstollende spanning en de suspense die hij in zijn verhalen weet te leggen. Terrence is geboren op 31 mei 1960 in 's-Hertogenbosch. Hij woonde zo'n dertig jaar in Bergen op zoom. Nu woont hij in het Zeeuwse Rilland, prachtig ingeklemd tussen de beide Scheldes. Behalve zijn boeken zijn sinds 2014 ook een aantal kortverhalen van hem in genre-magazines en verhalenbundels gepubliceerd, waarvan verschillende in de USA. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Terrence Lauerhohn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In de basket]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/457552557/in-de-basket-folkert-oldersma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/457552557/in-de-basket-folkert-oldersma"/>
-        <updated>2026-02-12T07:46:13.312Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552557?aid=kb-online-bibliotheek&sid=19&dts=1770882372875&sig=ab28f8144caa4ddf553e3f47beb6540a618e5b353e6a7a8cba794959e269c8d7&width=320" alt="Omslag van 'In de basket'" title="Omslag van 'In de basket'">
-<p>Teun is helemaal weg van basketbal. Bij zijn club De Dolphins valt hij op door zijn geweldige spel. Zijn jaloerse teamgenoot Kasper zit hem echter voortdurend dwars. Als Teun de kans krijgt voor het basketbalspel naar de Verenigde Staten te gaan, wacht hem daar een aangename verrassing. Maar die blijkt tegelijk ook heel onaangenaam... De twee kleinzonen van schrijver Folkert Oldersma zijn enthousiaste basketballers. Zij fluisterden hem verhalen in over beroemde basketballers, legden de spelregels uit en dropten leuke feitjes over de sport. Het verhaal bedacht hij zelf. 'Het enthousiasme spat van het verhaal af. Voor jeugd die overweegt te gaan basketballen zal dit boek de doorslag geven.' Wil je van alles weten over basketbal en heb je zin in een fijn verhaal? Het jeugdboek 'In de basket' bevat het boeiende verhaal over de basketballende Teun en geeft bovendien veel leuke weetjes over deze sport. Je leert over de regels, leest over beroemde basketballers en komt alles aan de weet over records. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Folkert Oldersma</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rafelranden van een Kampong]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/457552530/rafelranden-van-een-kampong-marian-puijk</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/457552530/rafelranden-van-een-kampong-marian-puijk"/>
@@ -339,14 +339,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We zijn verdwaald]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/457552603/we-zijn-verdwaald-manon-duintjer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/457552603/we-zijn-verdwaald-manon-duintjer"/>
-        <updated>2026-02-12T07:46:14.567Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552603?aid=kb-online-bibliotheek&sid=19&dts=1770882373954&sig=893c6c0a946941b4544af90bd3c818eca4f61256d46fda53c78ed2b761036840&width=320" alt="Omslag van 'We zijn verdwaald'" title="Omslag van 'We zijn verdwaald'">
-<p>Hoe worden we wie we zijn? Komt er een moment dat we accepteren dat we niet altijd de antwoorden krijgen die we denken nodig te hebben? Wanneer Kims vader zijn gezin verlaat om in India verlichting te zoeken, blijft zij achter met vragen en een diep wantrouwen tegenover alles wat met spiritualiteit te maken heeft. Jaren later reist Kim samen met haar vader naar India in de hoop nader tot elkaar te komen. Ze trekken via de stranden van Goa naar een ashram in het zuiden van India. Zal Kim de antwoorden vinden die ze zoekt? We zijn verdwaald is een indringende coming of age roman over de impact die de keuzes van ouders kunnen hebben op een kind. Met een scherp oog voor de absurditeit van het leven schetst Manon Duintjer een herkenbare zoektocht naar verbondenheid en betekenis. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Niet ziek genoeg]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/457552468/niet-ziek-genoeg-linda-beukeboom</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/457552468/niet-ziek-genoeg-linda-beukeboom"/>
+        <updated>2026-02-13T07:44:53.886Z</updated>
+        <summary type="html"><![CDATA[Een schokkend, waargebeurd verhaal over falende hulp, stigma en strijd]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552468?aid=kb-online-bibliotheek&sid=19&dts=1770887406288&sig=e2bb0b1450395a2838dd4d63c9d6fbe67497dc7ceb8c0af381c0df530ee94331&width=320" alt="Omslag van 'Niet ziek genoeg'" title="Omslag van 'Niet ziek genoeg'">
+<p>Wat als je pijn echt is, maar niemand je gelooft? Linda leeft met ondraaglijke buikpijn en zoekt medische hulp, maar vindt alleen ongeloof. Specialisten kijken niet verder, plakken er een label op en laten haar aan haar lot over. Linda's verleden met seksueel misbruik wordt psychosomatisch tegen haar gebruikt. Ze raakt uitgeput, wanhopig en onzichtbaar. Tijdens een kerstvakantie in Zwitserland stort alles in. Een spoedoperatie onthult de waarheid: een ernstige aandoening die in Nederland niet werd opgemerkt. Dan weigert haar zorgverzekeraar de operatie te vergoeden... Niet ziek genoeg is een aangrijpende, op waarheid geïnspireerde roman over falende zorg, menselijke hardheid en de strijd om serieus genomen te worden. Dit achtste boek van Linda Beukeboom is autobiografisch. In haar werk geeft ze aan wat vaak onzegbaar blijft aan de hand van ingrijpende gebeurtenissen, waarbij ze zich bedient van scherpe observaties en emotionele eerlijkheid. Linda is met haar partner woonachtig in de kop van Drenthe. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Manon Duintjer</name>
+            <name>Linda Beukeboom</name>
         </author>
     </entry>
 </feed>
