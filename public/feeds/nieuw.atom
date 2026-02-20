@@ -2,32 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-02-19T07:44:15.869Z</updated>
+    <updated>2026-02-20T07:42:32.803Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
-        <title type="html"><![CDATA[Hoe praat je met een populist?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013528/hoe-praat-je-met-een-populist--huub-buijssen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013528/hoe-praat-je-met-een-populist--huub-buijssen"/>
-        <updated>2026-02-15T07:33:31.523Z</updated>
-        <summary type="html"><![CDATA[Handleiding voor feestdagen, familiediners en vrijmibo's]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013528?aid=kb-online-bibliotheek&sid=19&dts=1771140811039&sig=ab3c529794a386c4da7fdfa39bfb491aae7ffdc94ddebfa94248c0d66b80e219&width=320" alt="Omslag van 'Hoe praat je met een populist?'" title="Omslag van 'Hoe praat je met een populist?'">
-<p>Hoe praat je met die oom die lijnrecht tegenover je staat? Heeft je zwager gelijk of ben je het gewoon met hem eens? Kunnen links en rechts elkaar ooit begrijpen? Hoe praat je met een populist? geeft inzicht in hoe onze overtuigingen, aan beide kanten van het politieke spectrum, zijn geworteld en hoe je zonder ruzie met elkaar in gesprek gaat en blijft. Het biedt vaardigheden die je niet allen kunt toepassen in politieke discussies, maar ook in gesprekken op de werkvloer, in je vriendenkring en zelfs om je relatie te redden. 'Praktische tips voor een ontspannen (kerst)diner zonder ongemakkelijke stiltes of verhitte discussies.'  Telegraaf  'Een sympathiek handboekje waarin je leert hoe je moet praten met een populist.'  De Volkskrant </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Ontmaskerd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458113999/ontmaskerd-anita-str%C3%B8m---342</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458113999/ontmaskerd-anita-str%C3%B8m---342"/>
+        <updated>2026-02-20T07:42:29.932Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458113999?aid=kb-online-bibliotheek&sid=20&dts=1771538681901&sig=9bef12a8fa53c21bf822b6793e05550bbc8b6713a893e528e7f0f636929552fe&width=320" alt="Omslag van 'Ontmaskerd'" title="Omslag van 'Ontmaskerd'">
+<p>Trondheim, 1918. Margrete heeft het bewustzijn verloren en Jonas maakt zich grote zorgen. Hij is bang dat ze besmet is geraakt met de verschrikkelijke Spaanse griep, die haar het leven kan kosten. Tegelijkertijd wordt duidelijk dat dokter Hauge een duister geheim met zich meedraagt. Zijn façade begint ernstige barsten te vertonen. Ontmaskerd is het vijfde boek in de schitterende serie Vroedvrouw in Nidaros, over de jonge Margrete die menig lot in haar handen houdt. Het is een hartverwarmend verhaal over het wel en wee in statige herenhuizen en slapeloze nachten op de verlosgang van de kraamkliniek, over verlangen en liefde, en over de keuzes van het hart die noodlottige gevolgen kunnen hebben voor de toekomst. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Huub Buijssen</name>
+            <name>Anita Strøm</name>
+        </author>
+        <author>
+            <name>342</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zoon van Hamas]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013382/zoon-van-hamas-mosab-hassan-yousef</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013382/zoon-van-hamas-mosab-hassan-yousef"/>
-        <updated>2026-02-15T07:33:32.097Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013382?aid=kb-online-bibliotheek&sid=19&dts=1771058092589&sig=8048436c2b7938c912e40670f3653e94a0a2c92ae976893e80d1e25f89f52c7d&width=320" alt="Omslag van 'Zoon van Hamas'" title="Omslag van 'Zoon van Hamas'">
-<p>Wat gaat er schuil achter het masker van Hamas? Is er hoop voor het Palestijnse volk? Bestaat er een oplossing voor het Palestina-conflict? Wat gebeurt er in Israëlische gevangenissen? De Groene Prins werd hij genoemd. Palestijn en toegewijd moslim. Zoon en beoogd opvolger van één van de meest vooraanstaande Hamas-leiders. Insider in de Palestijnse politiek. Hij onderging Israëlische gevangenschap en martelingen. Uit liefde voor zijn volk sloot hij een pact met Shin Beth, de Israëlische geheime dienst. En hij trotseerde de toorn van familie en vrienden door christen te worden. Mosab Hassan Yousef woont op een geheim adres in Californië.</p><p>Waargebeurd verhaal over terreur, verraad, politieke intriges en onmogelijke keuzes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Perilous Action]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458113964/perilous-action-layla-heart</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458113964/perilous-action-layla-heart"/>
+        <updated>2026-02-20T07:42:30.419Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458113964?aid=kb-online-bibliotheek&sid=20&dts=1771547092054&sig=6611759d068c9eb899a2a8228bcd646c0835d67a17e9e0839eaf9ef5e210d603&width=320" alt="Omslag van 'Perilous Action'" title="Omslag van 'Perilous Action'">
+<p>Vera and her pack have the start of a plan of how they're going to take down the Hearts, until a picture of the pack goes viral on social media and changes everything...</p><p>After all the problems the pack has been through lately, from the complications during the mission, to finding Luca and the kids, to Vera and Mathew going into pheromone withdrawal, life has calmed down somewhat. Only somewhat, as the six mates are working hard to come up with a plan to take down the place where Mathew and Luca used to be kept by the Hearts. It might not topple the Suits Syndicate, or even the Hearts, but they have to start somewhere, and with the two men's knowledge of the building and organisation, this seemed the best option.  Things are going well, that is, until a picture of the pack at the hospital starts being shared on social media. In it, Vera and Mathew are both holding print-outs of their sonograms and the suit Mathew is wearing isn't as tailored as he used to wear, as he's famous for wearing. It's a beautiful and happy picture, if it didn't expose Mathew's secret to the world.  Now the pack not only have to worry about the Hearts, but Mathew's organisation comes under threat as other organisations try to exploit this new knowledge, putting the whole pack in grave danger...</p><p>This is the ninth out of twelve novellas following Vera and her mates in the Her Vicious Pack serial, a dark contemporary reverse harem/Why Choose romance set in a sweet Omegaverse world about a criminal found family empire with dreams of 'expanding the family'. This novella may include any of these elements: steamy scenes, 'I need tissues NOW' moments, cries of 'why, oh, why' and cliffhangers that make you bite your nails (and curse the author). This serial has MF, MM, FF and group scenes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Mosab Hassan Yousef</name>
+            <name>Layla Heart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De man zonder gezicht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458113980/de-man-zonder-gezicht-dennis-j%C3%BCrgensen---331</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458113980/de-man-zonder-gezicht-dennis-j%C3%BCrgensen---331"/>
+        <updated>2026-02-20T07:42:30.896Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458113980?aid=kb-online-bibliotheek&sid=20&dts=1771532268212&sig=44ab00c19098d4e0fada39adc15095f6b946f99027bf6f33522c9b60d60b7d9f&width=320" alt="Omslag van 'De man zonder gezicht'" title="Omslag van 'De man zonder gezicht'">
+<p>Tijdens een wandeling op een zandbank ver op de Deense Waddenzee worden een jonge leerkracht en zijn leerling plotseling verrast door een dichte, angstaanjagende mist. Ze raken van elkaar gescheiden en wanneer het water begint te stijgen, raakt de leerkracht in paniek. Een schreeuw in de mist leidt hem naar de jongen, die over een lijk gebogen staat. Vanaf de zeebodem staart een gezicht omhoog. Maar ze zijn niet alleen. Uit de witte leegte doemt een mysterieuze gezichtsloze gestalte op die de leerkracht bewusteloos slaat. Wanneer hij bijkomt, is de jongen weg. Het is overigens niet de eerste keer dat er een kind verdwijnt in het Deense kustdorpje Melum. Een jaar geleden verdween een zesjarig meisje, en aangezien de politie van Zuid-Jutland er niet in slaagde om het meisje of de dader te vinden, worden er nu experts van buitenaf bij gehaald. Het lijk ligt op de Deens-Duitse grens, dus de Deense en Duitse politie zullen moeten samenwerken. De man zonder gezicht is het eerste boek in de serie over rechercheurs Lykke Teit en Rudi Lehmann. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dennis Jürgensen</name>
+        </author>
+        <author>
+            <name>331</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verlossing]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458113972/verlossing-anita-str%C3%B8m---342</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458113972/verlossing-anita-str%C3%B8m---342"/>
+        <updated>2026-02-20T07:42:31.320Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458113972?aid=kb-online-bibliotheek&sid=20&dts=1771543799287&sig=82f7394cc22812fd6bdc5f77771ebf125dc1db607c7803ef58346b4a1027444d&width=320" alt="Omslag van 'Verlossing'" title="Omslag van 'Verlossing'">
+<p>Trondheim, 1918. Jonas is buiten zichzelf als hij thuiskomt in een leeg huis, en er volgt een bloedstollende race tegen de klok om zijn verdwenen zoon en kindermeisje te vinden. Intussen gaat één van de weeskinderen in de kliniek een onzekere toekomst tegemoet. Het is aan Margrete om bijtijds een bloedverwant op te sporen die het meisje een liefdevol thuis kan bieden – maar dan moet ze tegen de strenge hoofdvroedvrouw ingaan en haar eigen positie riskeren. Verlossing is het zesde boek in de schitterende serie Vroedvrouw in Nidaros, over de jonge Margrete die menig lot in haar handen houdt. Het is een hartverwarmend verhaal over het wel en wee in statige herenhuizen en slapeloze nachten op de verlosgang van de kraamkliniek, over verlangen en liefde, en over de keuzes van het hart die noodlottige gevolgen kunnen hebben voor de toekomst. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Anita Strøm</name>
+        </author>
+        <author>
+            <name>342</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niet moeder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013560/niet-moeder-fiona-fortuin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013560/niet-moeder-fiona-fortuin"/>
+        <updated>2026-02-15T07:33:40.649Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013560?aid=kb-online-bibliotheek&sid=19&dts=1771085611556&sig=2f8dd84b5e9eacb9ddcdcae33c493a2cfd5aa1847fe4ec42122574cb82d3bfcd&width=320" alt="Omslag van 'Niet moeder'" title="Omslag van 'Niet moeder'">
+<p>Wat betekent het om vrouw te zijn zonder kinderen, in een samenleving waar moederschap de norm is? In dit boek laat Fiona Fortuin zien hoe diep die norm verankerd is – in taal, beleid en in het alledaagse leven – en wat dit betekent voor wie niet in dat plaatje past.  Ze schrijft over de oordelen, aannames en stiltes rondom het niet-moederschap, waarmee ze een ge­sprek opent dat weinig wordt gevoerd. Een persoon­lijke, scherpe en noodzakelijke zoektocht die verkent wat mogelijk is als oude normen worden losgelaten. Hef de stilte op, houd je niet langer koest, laat je kennen door de ander – dat is de boodschap van deze kleine, mooie queeste. – José Rozenbroek, hoofdredacteur Margriet Fiona Fortuin laat in dit boek overtuigend zien hoe hardnekkig de norm van moederschap is. – Annemie Halsema is Socrates hoogleraar aan de Universiteit Leiden en universitair hoofddocent Filosofie aan de Vrije Universiteit </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Fiona Fortuin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nieuw mens worden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013447/nieuw-mens-worden-jan-scheele-goedhart</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013447/nieuw-mens-worden-jan-scheele-goedhart"/>
+        <updated>2026-02-20T07:42:31.874Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013447?aid=kb-online-bibliotheek&sid=20&dts=1771573351431&sig=8bc6e17a9f901709d5e7c18f4d4c690d8a8616375b5df5547eb71f638e4136ae&width=320" alt="Omslag van 'Nieuw mens worden'" title="Omslag van 'Nieuw mens worden'">
+<p>Theologische verhandeling over de essentie van het christelijk geloof, met aandacht voor de rol van kennis.</p>]]></content>
+        <author>
+            <name>Jan Scheele-Goedhart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het officiële Glowmovies boek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013188/het-offici%C3%ABle-glowmovies-boek-rik-kleeven---jesper-weijs</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013188/het-offici%C3%ABle-glowmovies-boek-rik-kleeven---jesper-weijs"/>
+        <updated>2026-02-17T07:45:06.456Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013188?aid=kb-online-bibliotheek&sid=20&dts=1771239308459&sig=3bec876aaa56354764e55cde989f5db5ae75308c35fbb40fcc37453633fc86fd&width=320" alt="Omslag van 'Het officiële Glowmovies boek'" title="Omslag van 'Het officiële Glowmovies boek'">
+<p>Rik en Jesper van Glowmovies nemen je mee achter de schermen van hun YouTube-avontuur. Ze vertellen over hoe ze begonnen zijn, wat hun hoogtepunten waren en welke leuke ontmoetingen ze hadden met fans. Met afbeeldingen. Vanaf ca. 9 jaar.</p>]]></content>
+        <author>
+            <name>Rik Kleeven</name>
+        </author>
+        <author>
+            <name>Jesper Weijs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alles doet het nog]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45801320X/alles-doet-het-nog-willeke-brouwer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45801320X/alles-doet-het-nog-willeke-brouwer"/>
+        <updated>2026-02-20T07:42:32.287Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45801320X?aid=kb-online-bibliotheek&sid=20&dts=1771516844254&sig=9ddb860d9cb68fc08b6aac52adb77b845a0d8e6eb6ddb437c04885aabe9e6c8e&width=320" alt="Omslag van 'Alles doet het nog'" title="Omslag van 'Alles doet het nog'">
+<p>Persoonlijke anekdotes van een vrouw die na een lang huwelijk aan een zoektocht naar nieuwe liefde begint, vol grappige, herkenbare en ongemakkelijke momenten. Met zwart-witillustraties.</p>]]></content>
+        <author>
+            <name>Willeke Brouwer</name>
         </author>
     </entry>
     <entry>
@@ -43,89 +120,141 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Linkse Mannen - Onteigen de boer?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013374/de-linkse-mannen---onteigen-de-boer--wilbert-van-de-kamp---bram-douwes</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013374/de-linkse-mannen---onteigen-de-boer--wilbert-van-de-kamp---bram-douwes"/>
-        <updated>2026-02-15T07:33:37.200Z</updated>
-        <summary type="html"><![CDATA[Onderzoek naar een realistische oplossing voor een impopulair probleem]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013374?aid=kb-online-bibliotheek&sid=19&dts=1771140816649&sig=4ee8a45f711c5dbe1710d9cdadfde876d9f964e036adaa9cb28a0348bf43a4e0&width=320" alt="Omslag van 'De Linkse Mannen - Onteigen de boer?'" title="Omslag van 'De Linkse Mannen - Onteigen de boer?'">
-<p>Het is tijd voor échte realistische oplossingen voor grote dringende problemen en daarom schrijven wij – De Linkse Mannen – dit boek voor jou. Van Den Haag hoef je het inmiddels allemaal niet meer te verwachten: daar zitten ze gevangen in een eeuwigdurende verkiezingscampagne. Toch moet er van alles gebeuren en dus doen wij het maar. We beginnen bij de stikstofcrisis. Dit is geen pamflet. We betogen niet dat de boer moet worden onteigend, maar onderzoeken of het een goed idee is of juist helemaal niet. Wat is er nu eigenlijk aan de hand en waarom wordt het maar niet opgelost? Je hebt kortom, hands-on-journalistiek in handen. Het veld in en de boer op! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Strijd om een land]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013471/strijd-om-een-land-arie-kok</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013471/strijd-om-een-land-arie-kok"/>
+        <updated>2026-02-15T07:33:46.848Z</updated>
+        <summary type="html"><![CDATA[Israël-Palestina in 100 vragen en antwoorden]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013471?aid=kb-online-bibliotheek&sid=19&dts=1771094251710&sig=1803b3b1e48ebd280533503b2414d5c74837f6478c822305349075f88c1d8787&width=320" alt="Omslag van 'Strijd om een land'" title="Omslag van 'Strijd om een land'">
+<p>In 'Strijd om een land' bespreekt journalist Arie Kok alle belangrijke vragen over het Israëlisch-Palestijnse conflict. Hoe verhoudt Hamas zich tot Hezbollah? Waarom heeft Israël geen grondwet? Waarom accepteert de Arabische bevolking de VN-resolutie van 1947 niet? Deze en nog veel andere vragen over komen in dit boek aan de orde. Hiermee wil de auteur de lezer helpen om helderheid te krijgen in de situatie in het Midden-Oosten en een mening te vormen. De auteur gaat voor de antwoorden te rade bij onafhankelijke wetenschappers en deskundigen, waaronder Bart Wallet, Joas Wagemakers en Dineke Houtman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Wilbert van de Kamp</name>
-        </author>
-        <author>
-            <name>Bram Douwes</name>
+            <name>Arie Kok</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diep verborgen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013684/diep-verborgen-karen-rose</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013684/diep-verborgen-karen-rose"/>
-        <updated>2026-02-15T07:33:35.493Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013684?aid=kb-online-bibliotheek&sid=19&dts=1771140814826&sig=26a3b51d098c7faf08092dac2767c0347532d0fd4c6e94912a11dc27ff52dc4a&width=320" alt="Omslag van 'Diep verborgen'" title="Omslag van 'Diep verborgen'">
-<p>Phineas Bishop, nachtbeveiliger bij Broussard Private Investigations, wordt valselijk beschuldigd na een gewelddadige inbraak op kantoor. Om zijn naam te zuiveren, werkt hij samen met Cora Winslow. Samen ontdekken zij, met hulp van het Broussard-team, een netwerk van fraude en moord in het Garden District van New Orleans. Oude geheimen komen aan het licht. De duistere intriges zorgen ervoor dat ze moeten vrezen voor hun leven. In een race tegen de klok vechten ze om de waarheid boven tafel te krijgen en hun leven veilig te stellen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Zoon van Hamas]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013382/zoon-van-hamas-mosab-hassan-yousef</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013382/zoon-van-hamas-mosab-hassan-yousef"/>
+        <updated>2026-02-15T07:33:32.097Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013382?aid=kb-online-bibliotheek&sid=19&dts=1771058092589&sig=8048436c2b7938c912e40670f3653e94a0a2c92ae976893e80d1e25f89f52c7d&width=320" alt="Omslag van 'Zoon van Hamas'" title="Omslag van 'Zoon van Hamas'">
+<p>Wat gaat er schuil achter het masker van Hamas? Is er hoop voor het Palestijnse volk? Bestaat er een oplossing voor het Palestina-conflict? Wat gebeurt er in Israëlische gevangenissen? De Groene Prins werd hij genoemd. Palestijn en toegewijd moslim. Zoon en beoogd opvolger van één van de meest vooraanstaande Hamas-leiders. Insider in de Palestijnse politiek. Hij onderging Israëlische gevangenschap en martelingen. Uit liefde voor zijn volk sloot hij een pact met Shin Beth, de Israëlische geheime dienst. En hij trotseerde de toorn van familie en vrienden door christen te worden. Mosab Hassan Yousef woont op een geheim adres in Californië.</p><p>Waargebeurd verhaal over terreur, verraad, politieke intriges en onmogelijke keuzes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Karen Rose</name>
+            <name>Mosab Hassan Yousef</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volledig normaal & absoluut prima]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013234/volledig-normaal---absoluut-prima-rosie-viva</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013234/volledig-normaal---absoluut-prima-rosie-viva"/>
-        <updated>2026-02-16T07:48:45.503Z</updated>
-        <summary type="html"><![CDATA[Leven met een bipolaire stoornis]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013234?aid=kb-online-bibliotheek&sid=19&dts=1771162202707&sig=2bb16987ab790f95d8a8350cedbef6cc8a78fbd893ad42fe11d93d5f19a7adb9&width=320" alt="Omslag van 'Volledig normaal & absoluut prima'" title="Omslag van 'Volledig normaal & absoluut prima'">
-<p>Persoonlijk relaas over het leven met een bipolaire stoornis, waarbij de auteur, een (foto-) model, het doel heeft het taboe rondom mentale gezondheid te doorbreken en de opvatting van wat ’normaal’ is op te rekken.</p>]]></content>
+        <title type="html"><![CDATA[Het ultieme broodjesboek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013641/het-ultieme-broodjesboek-broodjestester</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013641/het-ultieme-broodjesboek-broodjestester"/>
+        <updated>2026-02-16T07:48:41.230Z</updated>
+        <summary type="html"><![CDATA[Meer dan 50 recepten voor alles tussen brood - van smashburger tot lobster roll]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013641?aid=kb-online-bibliotheek&sid=20&dts=1771228116599&sig=6416ecfae60e4a373da4908368c14c986c3e7aac8144c443dd5459954f5bc2e4&width=320" alt="Omslag van 'Het ultieme broodjesboek'" title="Omslag van 'Het ultieme broodjesboek'">
+<p>In Het Ultieme Broodjesboek delen Friso en Martijn van @broodjestester de recepten van ontdekkingen die ze deden tijdens hun jarenlange jacht op het perfecte broodje. Van klassiekers tot de nieuwste TikTok-toppers: dit maak je gewoon thuis. Voor elke craving, elk moment en elk level is er een passend recept te vinden. Plus persoonlijke favorieten, hero-stories en tips voor de allerbeste broodjeszaken per stad en provincie. Dit broodjesboek? Kun je gerust halen!</p><p>Bestel het boek vóór 28 oktober en krijg meer dan alleen papier en inkt!</p><p>Het Broodjespaspoort, alleen voor preorder legends  Bij je preorder-exemplaar ontvang je automatisch het exclusieve Broodjespaspoort, gewoon meegeleverd in het boek. Daarmee krijg je acties en deals bij (broodjes)zaken die het écht snappen. Jij laat 'm zien, zij stempelen 'm af. Dit paspoort verschijnt maar één keer en verdwijnt daarna voorgoed.  Kans op vette prijzen  Naast het paspoort maak je ook nog eens kans op prijzen waar je trek van krijgt: 12 x 2 tickets voor een Broodjestester workshop bij The Bastard t.w.v. €250,-Een halfjaar Beemster® kaas t.w.v. €105,-Een giftcard van SPRS.me t.w.v. €449,-3x T-Bone Steak bij Chateaubriand in Heemstede t.w.v. €60,-  Waarom preorderen?  Omdat je dit boek als eerste in huis wil hebben. Omdat je een paspoort vol behoorlijke beukers van deals op de mat wil vinden. En omdat de Broodjestester dit boek met hart en ziel hebben gemaakt voor iedereen die, net als zij, vindt dat het leven te kort is voor slechte broodjes. Plus: die prijzen wil je gewoon pakken. Stuur je aankoopbewijs uiterlijk 4 november naar broodjestester@kosmosuitgevers.nl om kans te maken op één van de prijzen.  Over de auteurs:  Broers Friso en Martijn Nelis van @broodjestester reizen sinds 2013 stad en land af op zoek naar de allerbeste broodjes en delen hun ongezouten mening online. Broodjestester begon als een blog en groeide via Instagram en TikTok uit tot een ware broodjesbeweging. Dit is hun eerste kookboek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Rosie Viva</name>
+            <name>Broodjestester</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De afrekening]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013498/de-afrekening-ingrid-oonincx</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013498/de-afrekening-ingrid-oonincx"/>
-        <updated>2026-02-16T07:48:46.066Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013498?aid=kb-online-bibliotheek&sid=19&dts=1771150790440&sig=646630e770ab81549c3679a2d612133f404525a3298b35336a210aa7601cc459&width=320" alt="Omslag van 'De afrekening'" title="Omslag van 'De afrekening'">
-<p>De psychologische thriller De afrekening is een boek over een schoolshooting op een middelbare school. Wanneer een schutter een school in Tilburg binnendringt en gericht leerlingen en docenten begint neer te schieten, kan docent Carmen net op tijd ontsnappen. Zij vlucht met haar klas naar de zolder van het gebouw. Ook concierge Rita weet zich met een paar kinderen te verstoppen. Rita belt 112 en houdt telefonisch contact met de leider van het arrestatieteam. Rita voelt dat ze wordt ingehaald door haar verleden en besluit alles op alles te zetten om de motieven van de dader te achterhalen. Een thriller met een sterke vrouwelijk hoofdpersoon over de gevaren van chatgroepen en extreemrechtse bewegingen. Voor fans van de Netflix-serie Adolescence en Charles Den Tex. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Expeditie Gifvis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013455/expeditie-gifvis-petra-van-rijssen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013455/expeditie-gifvis-petra-van-rijssen"/>
+        <updated>2026-02-16T07:48:42.673Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013455?aid=kb-online-bibliotheek&sid=19&dts=1771173139655&sig=1515765c62ad8c51c0d3ce5eb2d9162dfa659cfe6329b22411ca57e9b6068985&width=320" alt="Omslag van 'Expeditie Gifvis'" title="Omslag van 'Expeditie Gifvis'">
+<p>In 'Expeditie Gifvis' van Petra van Rijssen vindt Amir het niks aan op zijn nieuwe school. Er zijn drie klierjongens in de klas die hem steeds moeten hebben. Gelukkig helpt zijn klasgenootje Olivia hem om zich thuis te voelen in groep acht en het pesten te negeren.  Ondertussen zitten de pestkoppen met een probleem. Ze hebben hun neef beloofd om in ruil voor geld otters te vergiftigen, want die zwemmen steeds zijn palingfuiken in. Omdat ze met te weinig zijn zetten ze Amir en Oliva zo onder druk dat ze wel mee móéten helpen.  Maar in het geheim verzinnen Amir en Olivia een list om het plan te saboteren... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ingrid Oonincx</name>
+            <name>Petra van Rijssen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duister geheim]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013390/duister-geheim-ida-axelsson---asa-bonelli</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013390/duister-geheim-ida-axelsson---asa-bonelli"/>
-        <updated>2026-02-16T07:48:46.566Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013390?aid=kb-online-bibliotheek&sid=19&dts=1771144485872&sig=4b933e23a09a1922108bfdf1db7b7e9fd892c03e26f97cba7bb7e27a75acd9af&width=320" alt="Omslag van 'Duister geheim'" title="Omslag van 'Duister geheim'">
-<p>Billlie Karlsson-serie boek 2. Podcastmaker Billie Karlsson gaat undercover als leraar op een middelbare school om de moord op de zeventienjarige Leo te onderzoeken. Ze stuit daarbij op een netwerk van corruptie en criminaliteit. Al snel blijkt dat Leo informatie had die bepaalde figuren in de duistere onderwereld van Stockholm in gevaar bracht en dat zijn dood een poging van de daders is om hun eigen belangen te beschermen. Tegelijkertijd wordt Billies beste vriendin, politieagente Klara, geconfronteerd met de gevolgen van een politie-inval die tragisch eindigt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Samen sterk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45801351X/samen-sterk-ina-van-der-beek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45801351X/samen-sterk-ina-van-der-beek"/>
+        <updated>2026-02-16T07:48:42.192Z</updated>
+        <summary type="html"><![CDATA[Dagboek voor kinderen van 8-12]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45801351X?aid=kb-online-bibliotheek&sid=19&dts=1771158361029&sig=6f96b59f718474de75a2ccf9e93baa696ea49bed59c7fc8b63e05ff963d3e4e2&width=320" alt="Omslag van 'Samen sterk'" title="Omslag van 'Samen sterk'">
+<p>'Samen sterk. M&ijlig;n dagboekreis met God' van Ina van der Beek is een interactief en leerzaam dagboek voor kinderen van 8-12 jaar. Elke week werk je een bijbelverhaal door uit het Oude of Nieuwe Testament. Naast de overdenking is er zowat elke dag een opdracht, gebed of vraag. Er wordt gebruikgemaakt van de Bijbel in Gewone Taal. Dit dagboek verscheen eerder onder de titel 'Oeroud & springlevend' en is volledig herzien. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ida Axelsson</name>
-        </author>
-        <author>
-            <name>Asa Bonelli</name>
+            <name>Ina van der Beek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Ethiopiërs]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013501/de-ethiopi%C3%ABrs-steven-kaplan</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013501/de-ethiopi%C3%ABrs-steven-kaplan"/>
-        <updated>2026-02-15T07:33:44.220Z</updated>
-        <summary type="html"><![CDATA[Geschiedenis van een eeuwenoude beschaving]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013501?aid=kb-online-bibliotheek&sid=19&dts=1771078501108&sig=9102d51d0822b511aae06bfffd385d95ec414cd17a49040224662e2626848a81&width=320" alt="Omslag van 'De Ethiopiërs'" title="Omslag van 'De Ethiopiërs'">
-<p>In ‘De Ethiopiërs’ biedt Steven Kaplan een nieuw perspectief op de Ethiopische geschiedenis vanaf ca. 1000 v.Chr. tot 1500 n.Chr. Ethiopië, de thuisbasis van tal van volkeren, talen en religies, is al sinds mensenheugenis het hart van culturele, religieuze en politieke ontwikkelingen in de Hoorn van Afrika. De regio was een grootmacht in de oudheid en behield als enige Afrikaanse staat zijn onafhankelijkheid tijdens het hoogtepunt van het Europese kolonialisme. De rijke maar complexe geschiedenis van het gebied dat nu Ethiopië is, is een kluwen. Historicus Steven Kaplan ontrafelt deze deskundig.</p><p>Kaplan beschrijft onder meer de opkomst en de ondergang van het koninkrijk Aksum, hervertelt het beroemde verhaal van de koningin van Sheba, duidt de rol van het christendom en de islam in de geschiedenis van Ethiopië en belicht de rotskerken van Lalibela, de koning die in Ethiopië een ‘Nieuw Jeruzalem’ wilde bouwen.</p><p>'Het is een boeiend en zeer lezenswaardig: een boek dat goed bijdraagt aan het verder blootleggen van de Afrikaanse geschiedenis en een puzzelstuk toevoegt aan de wereldgeschiedenis.' — Alles over boeken en schrijvers </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hoe praat je met een populist?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013528/hoe-praat-je-met-een-populist--huub-buijssen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013528/hoe-praat-je-met-een-populist--huub-buijssen"/>
+        <updated>2026-02-15T07:33:31.523Z</updated>
+        <summary type="html"><![CDATA[Handleiding voor feestdagen, familiediners en vrijmibo's]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013528?aid=kb-online-bibliotheek&sid=19&dts=1771140811039&sig=ab3c529794a386c4da7fdfa39bfb491aae7ffdc94ddebfa94248c0d66b80e219&width=320" alt="Omslag van 'Hoe praat je met een populist?'" title="Omslag van 'Hoe praat je met een populist?'">
+<p>Hoe praat je met die oom die lijnrecht tegenover je staat? Heeft je zwager gelijk of ben je het gewoon met hem eens? Kunnen links en rechts elkaar ooit begrijpen? Hoe praat je met een populist? geeft inzicht in hoe onze overtuigingen, aan beide kanten van het politieke spectrum, zijn geworteld en hoe je zonder ruzie met elkaar in gesprek gaat en blijft. Het biedt vaardigheden die je niet allen kunt toepassen in politieke discussies, maar ook in gesprekken op de werkvloer, in je vriendenkring en zelfs om je relatie te redden. 'Praktische tips voor een ontspannen (kerst)diner zonder ongemakkelijke stiltes of verhitte discussies.'  Telegraaf  'Een sympathiek handboekje waarin je leert hoe je moet praten met een populist.'  De Volkskrant </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Steven Kaplan</name>
+            <name>Huub Buijssen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ezelsoren en muurbloempjes]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013196/ezelsoren-en-muurbloempjes-sarah-monzon</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013196/ezelsoren-en-muurbloempjes-sarah-monzon"/>
-        <updated>2026-02-15T07:33:36.552Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013196?aid=kb-online-bibliotheek&sid=19&dts=1771066899473&sig=ed21213722ca895c9aa3f5e712454d71a89c2ba0ac1589930f0a1b9420c29906&width=320" alt="Omslag van 'Ezelsoren en muurbloempjes'" title="Omslag van 'Ezelsoren en muurbloempjes'">
-<p>In 'Ezelsoren en muurbloempjes' van Sarah Monzon verliest de nieuwe bibliothecaresse Evangeline Kelly zich maar al te graag in een heerlijke romance. Haar eigen liefdesverhaal heeft ze afgeschreven nadat haar verloofde haar heeft gedumpt vanwege haar haaraandoening. Maar dat betekent niet dat ze de liefde volledig de rug toekeert. Integendeel, vastbesloten om iedereen het sprookje te gunnen dat ze zelf heeft moeten opgeven, besluit Evangeline voor koppelaarster te spelen en lezers met elkaar te matchen op basis van de door hen gelezen boeken. Tattoo-artiest Tai Davis weet maar al te goed hoe snel mensen hem veroordelen zodra ze hem zien, dus hij is niet verrast dat ook de eigenzinnige nieuwe bibliothecaresse hem direct in een hokje stopt en gelooft in zijn bad-boyreputatie. Oké, hij had misschien beter geen ezelsoren in haar boeken kunnen maken, maar toch… Ondanks haar aanvankelijke afkeuring is Tai gefascineerd door haar matchmaking-project en besluit hij een afspraak met haar te maken: hij helpt haar aan informatie over de mensen die ze aan elkaar wil koppelen als zij belooft een keer met hem op date te gaan. Al snel ontdekken de twee dat de mooiste match misschien wel dichterbij is dan ze ooit hadden gedacht </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Solo reizen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013250/solo-reizen-liesbeth-rasker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013250/solo-reizen-liesbeth-rasker"/>
+        <updated>2026-02-15T07:33:38.164Z</updated>
+        <summary type="html"><![CDATA[Hoe je in je eentje de wereld trotseert]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013250?aid=kb-online-bibliotheek&sid=19&dts=1771057448978&sig=8c46e08eb2cdb63f037f5febb5e5e060fd606dff16fcdcb614be3289ce35253a&width=320" alt="Omslag van 'Solo reizen'" title="Omslag van 'Solo reizen'">
+<p>Liesbeth Rasker, fervent soloreiziger, laat in Solo reizen zien hoe je in je eentje de wereld verkent. Stel, je hebt tijd, zin en geld om op reis te gaan, maar er is niemand die mee kan. Blijf je dan thuis? Natuurlijk niet! Solo reizen is niet eng, niet moeilijk, en al helemaal niet gek. Wat dacht je van een rondreis door Italië, wilde olifanten spotten in Sri Lanka of op een onbewoond eiland kamperen in de Filipijnen? De wereld ligt aan je voeten, en daar heb je helemaal niemand voor nodig. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sarah Monzon</name>
+            <name>Liesbeth Rasker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Enchanted Greenhouse]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013277/the-enchanted-greenhouse-sarah-beth-durst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013277/the-enchanted-greenhouse-sarah-beth-durst"/>
+        <updated>2026-02-18T07:46:11.223Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013277?aid=kb-online-bibliotheek&sid=20&dts=1771344762236&sig=639e734a7998ce93f20515d47c1f59f89ab83f97dfe0aefcbcb90d7d3bc0ed89&width=320" alt="Omslag van 'The Enchanted Greenhouse'" title="Omslag van 'The Enchanted Greenhouse'">
+<p>Een bibliothecaresse wordt als straf voor het gebruik van magie getransformeerd tot een houten beeld. Ze ontwaakt op een winters eiland met magische kassen, waar ze een norse tuinman ontmoet. Als de magie in zijn kassen verstoord raakt, besluit zij hem te helpen.</p>]]></content>
+        <author>
+            <name>Sarah Beth Durst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kerst aan zee]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013129/kerst-aan-zee-julie-klassen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013129/kerst-aan-zee-julie-klassen"/>
+        <updated>2026-02-20T07:42:32.802Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013129?aid=kb-online-bibliotheek&sid=20&dts=1771514801229&sig=fdfdd6bd3618988be1e8a2a53960b4341c5f9e6e8bc4929959ca61c43bf79aed&width=320" alt="Omslag van 'Kerst aan zee'" title="Omslag van 'Kerst aan zee'">
+<p>De zussen Summers bereiden het Sea View-pension voor op het kerstfeest. Ze kijken ernaar uit, en dan komen er ook nog twee knappe mannen op hun pad...</p>]]></content>
+        <author>
+            <name>Julie Klassen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schuilen voor de storm]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013439/schuilen-voor-de-storm-ellie-dean</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013439/schuilen-voor-de-storm-ellie-dean"/>
+        <updated>2026-02-15T07:33:30.933Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013439?aid=kb-online-bibliotheek&sid=19&dts=1771055913578&sig=cc0b76102d329c6e1866af21833e00186418565ad120f62cc5d96040a1f5fee4&width=320" alt="Omslag van 'Schuilen voor de storm'" title="Omslag van 'Schuilen voor de storm'">
+<p>Het is 1943 en April Wilton draagt haar steentje bij door haar werk voor de marine in Portsmouth. Ze wordt verliefd op een Amerikaanse soldaat die haar de hemel belooft, en het leven lacht haar toe. Maar dat alles stort in als ze ongepland zwanger blijkt. Oneervol ontslagen en de deur gewezen door haar moeder weet April niet wat ze moet doen. Het lot brengt haar naar Cliffehaven en het pension van Peggy Reilly. Daar vindt ze wel de steun en warmte die ze nu zo nodig heeft. Maar is dat genoeg om haar door deze zware tijd te helpen? 'Schuilen voor de storm' is het elfde boek in de serie 'Een veilige haven' van Ellie Dean. Lees ook haar eerdere boeken over de belevenissen van Peggy Reilly en de jonge vrouwen die hun plek vinden in haar pension terwijl Engeland zucht onder de ontberingen van de Tweede Wereldoorlog. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ellie Dean</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het Survival Cheatboek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013714/het-survival-cheatboek-ramzee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013714/het-survival-cheatboek-ramzee"/>
+        <updated>2026-02-15T07:33:39.618Z</updated>
+        <summary type="html"><![CDATA[Lukt het Kamal om te overleven in de wildernis?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013714?aid=kb-online-bibliotheek&sid=19&dts=1771072056065&sig=d5c0a87fae4c640d17756cf7a7ea469652bb4a8c55a1875cb36e0caf3ac4a10f&width=320" alt="Omslag van 'Het Survival Cheatboek'" title="Omslag van 'Het Survival Cheatboek'">
+<p>Kamals klas gaat op survivalkamp en hij heeft beloofd het beruchte Beest van Kraggelwoud op te sporen. Kamal stort zichzelf in de wildernis met niets anders dan zijn twee beste vrienden, zijn verstand en het mysterieuze Cheatboek. Het Cheatboek belooft lezers lifehacks voor letterlijk elke gelegenheid… Maar kan het boek Kamal helpen om te overleven in het wild en heelhuids thuis te komen? Ga met Kamal mee op zijn hilarische nieuwe avontuur, van de briljante auteur-illustrator RAMZEE. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ramzee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vianne]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013323/vianne-joanne-harris</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013323/vianne-joanne-harris"/>
+        <updated>2026-02-15T07:33:37.656Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013323?aid=kb-online-bibliotheek&sid=19&dts=1771057394046&sig=aeac0d1c60ecfdf79bd738520a8eba5825f74d0a947f683797a5a2811e19a0b1&width=320" alt="Omslag van 'Vianne'" title="Omslag van 'Vianne'">
+<p>Op de avond van 4 juli strooit een jonge zwangere vrouw de as van haar moeder uit in New York en volgt de roep van de wind naar de Franse kuststad Marseille. Ze vindt een baan als serveerster, maakt vrienden en ontdekt haar liefde voor koken, voor chocolade en haar magische kracht om geheimen te onthullen. Haar gave heeft echter een prijs, en bovendien heeft Vianne haar eigen geheim... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Joanne Harris</name>
         </author>
     </entry>
     <entry>
@@ -144,15 +273,47 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solo reizen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013250/solo-reizen-liesbeth-rasker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013250/solo-reizen-liesbeth-rasker"/>
-        <updated>2026-02-15T07:33:38.164Z</updated>
-        <summary type="html"><![CDATA[Hoe je in je eentje de wereld trotseert]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013250?aid=kb-online-bibliotheek&sid=19&dts=1771057448978&sig=8c46e08eb2cdb63f037f5febb5e5e060fd606dff16fcdcb614be3289ce35253a&width=320" alt="Omslag van 'Solo reizen'" title="Omslag van 'Solo reizen'">
-<p>Liesbeth Rasker, fervent soloreiziger, laat in Solo reizen zien hoe je in je eentje de wereld verkent. Stel, je hebt tijd, zin en geld om op reis te gaan, maar er is niemand die mee kan. Blijf je dan thuis? Natuurlijk niet! Solo reizen is niet eng, niet moeilijk, en al helemaal niet gek. Wat dacht je van een rondreis door Italië, wilde olifanten spotten in Sri Lanka of op een onbewoond eiland kamperen in de Filipijnen? De wereld ligt aan je voeten, en daar heb je helemaal niemand voor nodig. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het schaduwnetwerk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013552/het-schaduwnetwerk-tony-kent</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013552/het-schaduwnetwerk-tony-kent"/>
+        <updated>2026-02-18T07:46:11.731Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013552?aid=kb-online-bibliotheek&sid=20&dts=1771338311439&sig=ef260b11e19bc753fda94df6539b033659fcec7267eaf171bf36a6cb91536950&width=320" alt="Omslag van 'Het schaduwnetwerk'" title="Omslag van 'Het schaduwnetwerk'">
+<p>Nadat een oude vriend van hem slachtoffer is geworden van een terroristische aanslag in Den Haag, ontdekt een advocaat dat er sprake is van een internationale politieke samenzwering. Samen met een collega van het Internationaal Strafhof gaat hij op onderzoek uit, met verstrekkende gevolgen…</p>]]></content>
         <author>
-            <name>Liesbeth Rasker</name>
+            <name>Tony Kent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diep verborgen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013684/diep-verborgen-karen-rose</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013684/diep-verborgen-karen-rose"/>
+        <updated>2026-02-15T07:33:35.493Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013684?aid=kb-online-bibliotheek&sid=19&dts=1771140814826&sig=26a3b51d098c7faf08092dac2767c0347532d0fd4c6e94912a11dc27ff52dc4a&width=320" alt="Omslag van 'Diep verborgen'" title="Omslag van 'Diep verborgen'">
+<p>Phineas Bishop, nachtbeveiliger bij Broussard Private Investigations, wordt valselijk beschuldigd na een gewelddadige inbraak op kantoor. Om zijn naam te zuiveren, werkt hij samen met Cora Winslow. Samen ontdekken zij, met hulp van het Broussard-team, een netwerk van fraude en moord in het Garden District van New Orleans. Oude geheimen komen aan het licht. De duistere intriges zorgen ervoor dat ze moeten vrezen voor hun leven. In een race tegen de klok vechten ze om de waarheid boven tafel te krijgen en hun leven veilig te stellen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Karen Rose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De stem van de herder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013587/de-stem-van-de-herder-charles-martin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013587/de-stem-van-de-herder-charles-martin"/>
+        <updated>2026-02-16T07:48:47.975Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013587?aid=kb-online-bibliotheek&sid=19&dts=1771165055422&sig=ad33484d0891df4b7c5a5583502078400765d7bd4deb36dd089d3256d429f266&width=320" alt="Omslag van 'De stem van de herder'" title="Omslag van 'De stem van de herder'">
+<p>Murphy Sheperd raakt opnieuw betrokken bij een levensgevaarlijke zaak, wanneer drie dochters van een presidentskandidaat worden ontvoerd. Tegelijkertijd rouwt hij om het verlies van zijn mentor, die zijn leven gaf in een strijd tegen een voortdurend kwaad.</p>]]></content>
+        <author>
+            <name>Charles Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leeuwenharten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013404/leeuwenharten-dan-jones</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013404/leeuwenharten-dan-jones"/>
+        <updated>2026-02-15T07:33:43.086Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013404?aid=kb-online-bibliotheek&sid=19&dts=1771078214912&sig=4e0c8ed4e8f87947a887ecec1bad12adb8692ec05dadb48fbc34efe0b5eec27f&width=320" alt="Omslag van 'Leeuwenharten'" title="Omslag van 'Leeuwenharten'">
+<p>‘Leeuwenharten’ is een epische roman over kameraadschap en overleven in een meedogenloze tijd. Met historische precisie en de spanning van een thriller brengt Dan Jones de middeleeuwen ontzettend dichtbij.</p><p>Het is 1350. De pest grijpt om zich heen, koninkrijken staan tegenover elkaar en overal dreigt oorlog. Door dit onzekere landschap beweegt zich een groep huurlingen, bekend als de Essex Dogs.</p><p>Verspreid over Zuid-Engeland zijn de mannen van de Essex Dogs elkaar uit het oog verloren. De een woont aan het luisterrijke hof van de koning, de ander houdt nauwelijks zijn hoofd boven water, en weer anderen zijn op levensgevaarlijke missie. En dan gebeurt er iets wat de Essex Dogs weer bij elkaar brengt. Ze zullen moeten overleven terwijl de wereld om hen heen in brand staat en hun vriendschap en loyaliteit flink op de proef wordt gesteld. Het gevecht is voor deze mannen nog niet voorbij.</p><p>‘Leeuwenharten’ is het derde deel van de spannende Crécy trilogie, ook te lezen als standalone. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dan Jones</name>
         </author>
     </entry>
     <entry>
@@ -168,99 +329,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verloren dochter]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45801334X/verloren-dochter-megan-miranda</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45801334X/verloren-dochter-megan-miranda"/>
-        <updated>2026-02-15T07:33:30.424Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45801334X?aid=kb-online-bibliotheek&sid=19&dts=1771140809843&sig=4fef44627593000e67f19bea370fdc11c4900a6526110f0b3f354bc77c1b933e&width=320" alt="Omslag van 'Verloren dochter'" title="Omslag van 'Verloren dochter'">
-<p>Wanneer Hazel Sharp, de dochter van het voormalige gerespecteerde hoofd van de politie van Mirror Lake, onverwacht het huis erft waarin ze is opgegroeid, gaat ze terug naar het stadje – en de mensen – die ze bijna een decennium eerder achter zich heeft gelaten. Maar er keert meer terug uit het verleden: een droogte heeft de regio getroffen en terwijl het waterniveau in het meer blijft dalen, beginnen lang verborgen geheimen tevoorschijn te komen… inclusief bewijs dat mogelijk eindelijk het mysterie van de verdwijning van haar moeder kan oplossen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Megan Miranda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De stem van de herder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013587/de-stem-van-de-herder-charles-martin</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013587/de-stem-van-de-herder-charles-martin"/>
-        <updated>2026-02-16T07:48:47.975Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013587?aid=kb-online-bibliotheek&sid=19&dts=1771165055422&sig=ad33484d0891df4b7c5a5583502078400765d7bd4deb36dd089d3256d429f266&width=320" alt="Omslag van 'De stem van de herder'" title="Omslag van 'De stem van de herder'">
-<p>Murphy Sheperd raakt opnieuw betrokken bij een levensgevaarlijke zaak, wanneer drie dochters van een presidentskandidaat worden ontvoerd. Tegelijkertijd rouwt hij om het verlies van zijn mentor, die zijn leven gaf in een strijd tegen een voortdurend kwaad.</p>]]></content>
-        <author>
-            <name>Charles Martin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alles begint bij jou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013412/alles-begint-bij-jou-beth-moran</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013412/alles-begint-bij-jou-beth-moran"/>
-        <updated>2026-02-17T07:45:03.821Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013412?aid=kb-online-bibliotheek&sid=20&dts=1771245236014&sig=cec7ace3d11f68aaf8e8bf1b851caaacd108ef32ec489e48e3744d67917a059f&width=320" alt="Omslag van 'Alles begint bij jou'" title="Omslag van 'Alles begint bij jou'">
-<p>Een zwangerschapscoach en alleenstaande moeder zorgt altijd voor anderen en weinig voor zichzelf. Wanneer een oude bekende verschijnt, staat ze voor de uitdaging om ruimte in haar leven te creëren voor haar eigen gevoelens.</p>]]></content>
-        <author>
-            <name>Beth Moran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Enchanted Greenhouse]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013277/the-enchanted-greenhouse-sarah-beth-durst</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013277/the-enchanted-greenhouse-sarah-beth-durst"/>
-        <updated>2026-02-18T07:46:11.223Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013277?aid=kb-online-bibliotheek&sid=20&dts=1771344762236&sig=639e734a7998ce93f20515d47c1f59f89ab83f97dfe0aefcbcb90d7d3bc0ed89&width=320" alt="Omslag van 'The Enchanted Greenhouse'" title="Omslag van 'The Enchanted Greenhouse'">
-<p>Een bibliothecaresse wordt als straf voor het gebruik van magie getransformeerd tot een houten beeld. Ze ontwaakt op een winters eiland met magische kassen, waar ze een norse tuinman ontmoet. Als de magie in zijn kassen verstoord raakt, besluit zij hem te helpen.</p>]]></content>
-        <author>
-            <name>Sarah Beth Durst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overleven in de wildernis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013366/overleven-in-de-wildernis-miriam-lancewood</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013366/overleven-in-de-wildernis-miriam-lancewood"/>
-        <updated>2026-02-15T07:33:41.615Z</updated>
-        <summary type="html"><![CDATA[Mijn mindset in onvoorspelbare situaties]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013366?aid=kb-online-bibliotheek&sid=19&dts=1771061482062&sig=718bae4a55d7b9f4cc985e230059a0bf3109037cb0296dfe04d5b3a843cbbd91&width=320" alt="Omslag van 'Overleven in de wildernis'" title="Omslag van 'Overleven in de wildernis'">
-<p>Wil jij leren hoe je je voorbereidt op een zelfvoorzienend bestaan? In Overleven in de wildernis deelt Miriam Lancewood haar ervaringen en praktische survivaltechnieken. Miriam woonde zeven jaar in de wildernis van Nieuw-Zeeland en trekt nog steeds maandenlang door ongerepte natuur. Ze weet als geen ander hoe het is om volledig op jezelf aangewezen te zijn. In dit boek ontdek je hoe je je mentaal en praktisch voorbereidt op een leven buiten de gebaande paden. Met inspirerende verhalen en praktische adviezen laat Miriam zien hoe je meer zelfredzaam en onafhankelijk wordt. Of je nu een avonturier bent of gewoon wilt leren hoe je beter voorbereid bent op uitdagende situaties – Overleven in de wildernis is jouw gids naar een vrijer leven.  'It's better to be a warrior in the garden than a gardener in the war.' – Miriam Lancewood </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Miriam Lancewood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het schaduwnetwerk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013552/het-schaduwnetwerk-tony-kent</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013552/het-schaduwnetwerk-tony-kent"/>
-        <updated>2026-02-18T07:46:11.731Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013552?aid=kb-online-bibliotheek&sid=20&dts=1771338311439&sig=ef260b11e19bc753fda94df6539b033659fcec7267eaf171bf36a6cb91536950&width=320" alt="Omslag van 'Het schaduwnetwerk'" title="Omslag van 'Het schaduwnetwerk'">
-<p>Nadat een oude vriend van hem slachtoffer is geworden van een terroristische aanslag in Den Haag, ontdekt een advocaat dat er sprake is van een internationale politieke samenzwering. Samen met een collega van het Internationaal Strafhof gaat hij op onderzoek uit, met verstrekkende gevolgen…</p>]]></content>
-        <author>
-            <name>Tony Kent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geestelijke begeleiding]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013218/geestelijke-begeleiding-william-a--barry---william-j--connolly</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013218/geestelijke-begeleiding-william-a--barry---william-j--connolly"/>
-        <updated>2026-02-15T07:33:43.668Z</updated>
-        <summary type="html"><![CDATA[Ignatiaanse wegwijzers voor het pastoraat]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013218?aid=kb-online-bibliotheek&sid=19&dts=1771072070445&sig=67c0573ed524ab03938b24a0a7dd71b563c890473dfe1c156bdd13cc62c7c64c&width=320" alt="Omslag van 'Geestelijke begeleiding'" title="Omslag van 'Geestelijke begeleiding'">
-<p>‘Geestelijke begeleiding’ van William A. Barry en William J. Connolly is een inspirerend boek voor wie anderen wil helpen bij het ontwikkelen en onderhouden van hun relatie met God. De auteurs benadrukken dat God voortdurend spreekt via gevoelens, verlangens en ervaringen. De rol van een geestelijk begeleider is om te helpen zelf Gods stem op het spoor te komen. Het boek beschrijft diverse aspecten van geestelijke begeleiding en geeft praktische tips. Deze klassieker is geworteld in de oudste christelijke traditie en de inzichten van Ignatius van Loyola. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>William A. Barry</name>
-        </author>
-        <author>
-            <name>William J. Connolly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De vallei van belofte]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013145/de-vallei-van-belofte-elizabeth-musser</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013145/de-vallei-van-belofte-elizabeth-musser"/>
-        <updated>2026-02-18T07:46:12.229Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013145?aid=kb-online-bibliotheek&sid=20&dts=1771330971356&sig=fc7a464f6ec4451c1c81a39e3914600e1ea64b4f025cf8ab8e83eec9aa6c2dbb&width=320" alt="Omslag van 'De vallei van belofte'" title="Omslag van 'De vallei van belofte'">
-<p>Na de dood van haar vader neemt een vrouw zijn werk voor het Franse verzet over, waarbij ze Joodse kinderen onderdak biedt. Samen met een legerpredikant en een tiener proberen ze te overleven terwijl de geallieerden de Provence bevrijden.</p>]]></content>
-        <author>
-            <name>Elizabeth Musser</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Voordat ik loslaat]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/458013285/voordat-ik-loslaat-gabrielle-meyer</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/458013285/voordat-ik-loslaat-gabrielle-meyer"/>
@@ -269,30 +337,6 @@
 <p>Een jonge vrouw kan tijdreizen en leidt parallelle levens. Op haar verjaardag moet ze definitief voor één van deze levens kiezen, en dus ook tussen de mannen in haar verschillende tijdlijnen...</p>]]></content>
         <author>
             <name>Gabrielle Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013757/abd-justin-marozzi</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013757/abd-justin-marozzi"/>
-        <updated>2026-02-18T07:46:13.240Z</updated>
-        <summary type="html"><![CDATA[De geschiedenis van slavernij en slavenhandel in de islamitische wereld]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013757?aid=kb-online-bibliotheek&sid=20&dts=1771350991098&sig=048657916b5acf3d00861145bf669c6386082f9888cc05c05efb7c0423138849&width=320" alt="Omslag van 'Abd'" title="Omslag van 'Abd'">
-<p>Geschiedenis van de slavernij in islamitische samenlevingen van de zevende eeuw tot en met het heden, waarbij miljoenen mensen van diverse achtergronden tot slaaf werden gemaakt. Met afbeeldingen in zwart-wit.</p>]]></content>
-        <author>
-            <name>Justin Marozzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Met hangen en wurgen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013609/met-hangen-en-wurgen-a-j--van-loon</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013609/met-hangen-en-wurgen-a-j--van-loon"/>
-        <updated>2026-02-15T07:33:44.863Z</updated>
-        <summary type="html"><![CDATA[Een korte wereldgeschiedenis van de doodstraf]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013609?aid=kb-online-bibliotheek&sid=19&dts=1771140824324&sig=aaaf36c20597fbc8c137bf8a9c84f5731518087cc247f94fba78c618904b94ff&width=320" alt="Omslag van 'Met hangen en wurgen'" title="Omslag van 'Met hangen en wurgen'">
-<p>In ‘Met hangen en wurgen’ neemt historicus A.J. van Loon de lezer mee op een indringende reis door 4000 jaar wereldgeschiedenis van de doodstraf. Van verdrinking in het oude Mesopotamië tot de ophanging van Saddam Hoessein in 2006: in dit boek staan de gruwelijke, vaak bizarre manieren waarop samenlevingen wereldwijd de doodstraf uitvoerden centraal.</p><p>Hoewel in meer dan twee derde van alle landen de doodstraf inmiddels is afgeschaft, was deze eeuwenlang een vast onderdeel van rechtspraak en machtsvertoon. Van Loon biedt een bloedstollende bloemlezing van de meest voorkomende en opmerkelijke executiemethoden, zoals levend begraven, vierendelen, ophangen en verbranden. Hij gaat daarbij in op de historische en maatschappelijke context waarin de betreffende executievorm werd toegepast. Naast wereldwijde voorbeelden richt Van Loon zich ook specifiek op de geschiedenis van de doodstraf in Nederland en België.</p><p>'Een toegankelijk, afwisselend geschiedenisboek vol gruwel, maar ook met diepgang én een vleugje humor.' - Suusjeleest </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>A.J. van Loon</name>
         </author>
     </entry>
     <entry>
@@ -305,52 +349,6 @@
 <p>Een verhandeling over een holistische benadering van het bestrijden van chronische pijn.</p>]]></content>
         <author>
             <name>Han Samwel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het geheim van Monte Pesto]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013730/het-geheim-van-monte-pesto-thijs-noorlandt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013730/het-geheim-van-monte-pesto-thijs-noorlandt"/>
-        <updated>2026-02-18T07:46:14.425Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013730?aid=kb-online-bibliotheek&sid=20&dts=1771400773987&sig=a7c8abdc1e88c01b72aa60cd321781060cb4fa08cfd5266e06ee70b865d38d27&width=320" alt="Omslag van 'Het geheim van Monte Pesto'" title="Omslag van 'Het geheim van Monte Pesto'">
-<p>Mats woont in pretpark Avontura, waar hij met zijn vrienden Saar en Joris allerlei avonturen beleeft. Als directeur Zwaaistraal de sfeer in het park dreigt te verpesten met allerlei vervelende nieuwe regels, komen de vrienden in actie. Met zwart-wittekeningen. Vanaf ca. 10 jaar.</p>]]></content>
-        <author>
-            <name>Thijs Noorlandt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het Survival Cheatboek]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013714/het-survival-cheatboek-ramzee</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013714/het-survival-cheatboek-ramzee"/>
-        <updated>2026-02-15T07:33:39.618Z</updated>
-        <summary type="html"><![CDATA[Lukt het Kamal om te overleven in de wildernis?]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013714?aid=kb-online-bibliotheek&sid=19&dts=1771072056065&sig=d5c0a87fae4c640d17756cf7a7ea469652bb4a8c55a1875cb36e0caf3ac4a10f&width=320" alt="Omslag van 'Het Survival Cheatboek'" title="Omslag van 'Het Survival Cheatboek'">
-<p>Kamals klas gaat op survivalkamp en hij heeft beloofd het beruchte Beest van Kraggelwoud op te sporen. Kamal stort zichzelf in de wildernis met niets anders dan zijn twee beste vrienden, zijn verstand en het mysterieuze Cheatboek. Het Cheatboek belooft lezers lifehacks voor letterlijk elke gelegenheid… Maar kan het boek Kamal helpen om te overleven in het wild en heelhuids thuis te komen? Ga met Kamal mee op zijn hilarische nieuwe avontuur, van de briljante auteur-illustrator RAMZEE. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ramzee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achter de schermen bij de psycholoog]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013463/achter-de-schermen-bij-de-psycholoog-rudy-vandamme</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013463/achter-de-schermen-bij-de-psycholoog-rudy-vandamme"/>
-        <updated>2026-02-15T07:33:34.258Z</updated>
-        <summary type="html"><![CDATA[75 verhalen uit de praktijk van een psycholoog en coach]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013463?aid=kb-online-bibliotheek&sid=19&dts=1771140813829&sig=c915094365cd513c037a8889c54ada6014830f7bb271d87f8b5b7b0cc58268f7&width=320" alt="Omslag van 'Achter de schermen bij de psycholoog'" title="Omslag van 'Achter de schermen bij de psycholoog'">
-<p>75 herkenbare en verrassende verhalen uit de praktijk – Dr. Rudy Vandamme</p><p>Een unieke inkijk in de wereld van de psycholoog.</p><p>In 'Achter de schermen' bij de psycholoog deelt Dr. Rudy Vandamme 75 korte, krachtige en verrassend herkenbare verhalen uit zijn praktijk als psycholoog, coach en trainer. Dit boek over mentale gezondheid en persoonlijke groei biedt een unieke blik achter de schermen van de psychologische praktijk.</p><p>Van cliënten die worstelen met burn-out of keuzestress tot mensen die verlangen naar meer zingeving, elk verhaal nodigt uit tot zelfreflectie en bewust leven. De verhalen zijn luchtig geschreven maar rijk aan psychologische inzichten, perfect voor wie interesse heeft in persoonlijke ontwikkeling of wil begrijpen hoe therapie en coaching écht werken.</p><p>Wat je kunt verwachten:  75 toegankelijke verhalen uit de praktijk van een ervaren psycholoog Elke sessie eindigt met een helder inzicht of reflectie-oefening Geschreven met empathie, humor en diepgang Ideaal voor lezers van psychologie boeken, coaches en mensen die zichzelf beter willen begrijpen  Rudy Vandamme: "Ik schreef dit boek om mensen houvast te bieden in een onzekere wereld. Licht geschreven, met ruimte voor een lach, verwondering en vooral: betekenisvolle inzichten. Dit boek helpt je om op een andere manier te kijken naar je eigen uitdagingen – met mildheid en nieuwsgierigheid.”</p><p>Over de auteur: Dr. Rudy Vandamme is psycholoog, filosoof en expert in ontwikkelingsgericht coachen. Als oprichter van het Deep Evolvement Instituut begeleidt hij al meer dan 25 jaar mensen in hun persoonlijke en professionele ontwikkeling. Hij is een veelgevraagd spreker en auteur, bekend om zijn warme en mensgerichte benadering van psychologische thema’s.</p><p>Voor wie is dit boek?  Voor iedereen die geïnteresseerd is in mentale gezondheid, coaching of therapie Voor mensen die op zoek zijn naar richting, groei en verdieping Voor coaches, psychologen en hulpverleners die geïnspireerd willen worden Voor lezers van boeken zoals De Meeste Mensen Deugen, Tussen Je Oren, of Waar gezwegen wordt  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Rudy Vandamme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vianne]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013323/vianne-joanne-harris</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013323/vianne-joanne-harris"/>
-        <updated>2026-02-15T07:33:37.656Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013323?aid=kb-online-bibliotheek&sid=19&dts=1771057394046&sig=aeac0d1c60ecfdf79bd738520a8eba5825f74d0a947f683797a5a2811e19a0b1&width=320" alt="Omslag van 'Vianne'" title="Omslag van 'Vianne'">
-<p>Op de avond van 4 juli strooit een jonge zwangere vrouw de as van haar moeder uit in New York en volgt de roep van de wind naar de Franse kuststad Marseille. Ze vindt een baan als serveerster, maakt vrienden en ontdekt haar liefde voor koken, voor chocolade en haar magische kracht om geheimen te onthullen. Haar gave heeft echter een prijs, en bovendien heeft Vianne haar eigen geheim... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Joanne Harris</name>
         </author>
     </entry>
     <entry>
