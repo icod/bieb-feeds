@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-02-25T07:48:13.143Z</updated>
+    <updated>2026-02-26T07:46:20.166Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -140,17 +140,6 @@
 <p>Van de Australische outback naar een heus prinsdom!Tammy is diep geschokt. Ze heeft een neefje, van wie ze de voogd blijkt te zijn. En Henry is niet alleen wees, maar ook de kroonprins van het prinsdom Broitenburg! Omdat de baby daar nu officieel moet worden aangewezen als troonopvolger, reist ze er met hem heen. Begeleid door Marc, de oom van Henry. Die erg afstandelijk doet, maar ook heel aantrekkelijk is!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marion Lennox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laat hem niet binnen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44715351X/laat-hem-niet-binnen-lisa-jewell</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44715351X/laat-hem-niet-binnen-lisa-jewell"/>
-        <updated>2026-02-23T07:49:19.929Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44715351X?aid=kb-online-bibliotheek&sid=20&dts=1771832938688&sig=3d2705299da85d03b318faa2d5c6626725f06b105fccf69d4041d802dd151f86&width=320" alt="Omslag van 'Laat hem niet binnen'" title="Omslag van 'Laat hem niet binnen'">
-<p>Het is de perfecte man. Hij zegt dat hij van je houdt. Je denkt dat hij misschien wel voor jou gemaakt is. Het duurt dan ook niet lang voordat hij je huis – en je hart – is binnengedrongen. Maar dan verdwijnt hij, soms dagenlang. Je weet niet waarheen of met wie. En je realiseert je, terugkijkend, dat je jezelf gewaarschuwd zou hebben: laat hem niet binnen.</p><p>Over eerdere boeken van Lisa Jewell: </p><p>‘Bestsellerauteur Lisa Jewell schrijft aan de lopende band steengoede thrillers. En ook dit is weer zo spannend dat je ’m in één ruk wilt uitlezen.’ – GRAZIA</p><p>‘Met het knap opgebouwde, adembenemend spannende Niets is waar heeft thrillergrootheid Lisa Jewell zichzelf overtroffen.’ – MARGRIET</p><p>‘Een ijzingwekkend verhaal.’ – TROUW </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lisa Jewell</name>
         </author>
     </entry>
     <entry>
@@ -342,6 +331,17 @@
 <p>Dus dát noemen ze een nacht om nooit te vergeten!Welgeteld één nacht bracht tycoon Jeff door met Darcy, maar vergeten kan hij haar niet. Hij is dan ook dolblij als ze plotseling in zijn kantoor staat - zwanger en wel! Hij wil niets liever dan haar in zijn leven hebben, maar zij heeft heel andere plannen. Dus als hij niet wil dat de vrouw van zijn dromen ervandoor gaat, zal hij al zijn verleidingskunsten moeten inzetten…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Mira Lyn Kelly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spel van uitersten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44395612X/spel-van-uitersten-nora-roberts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44395612X/spel-van-uitersten-nora-roberts"/>
+        <updated>2026-02-26T07:46:20.165Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44395612X?aid=kb-online-bibliotheek&sid=20&dts=1772023635502&sig=51cff210b8b059609d40c0ca9d6967a8a7146194f91df2d6c1dbd404702c3c45&width=320" alt="Omslag van 'Spel van uitersten'" title="Omslag van 'Spel van uitersten'">
+<p>Uitersten trekken elkaar aan in dit zinderende verhaal van Nora Roberts…Het mag dan goed betalen, en volgens zijn agent ook goed zijn voor zijn imago, reclame maken voor een mannenmodelijn is niet iets waar honkballer Parks Kones op zit te wachten. Hij is een sporter, geen fotomodel!Lekker dan! Krijgt ze de een of andere over het paard getilde honkballer voor de camera, in plaats van een ervaren model. Fotograaf Brooke Gordon weet nu al dat deze opdracht haar bloed, zweet en tranen gaat kosten. En het helpt ook niet dat ze zich enorm tot Parks aangetrokken voelt…Al vanaf hun eerste ontmoeting springen de vonken er tussen hen vanaf, en dat wordt tijdens de samenwerking alleen maar heftiger. Toch heeft Brooke goede redenen om Parks niet écht dichtbij te laten komen...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nora Roberts</name>
         </author>
     </entry>
 </feed>
