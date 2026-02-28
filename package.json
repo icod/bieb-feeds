@@ -28,7 +28,7 @@
     "jasmine": "^5.9.0"
   },
   "dependencies": {
-    "feed": "^5.1.0",
+    "feed": "^5.2.0",
     "node-html-parser": "^7.0.1"
   }
 }
