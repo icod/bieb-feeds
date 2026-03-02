@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-03-01T07:27:52.963Z</updated>
+    <updated>2026-03-02T07:43:59.541Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -48,14 +48,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kus haar vaarwel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447378880/kus-haar-vaarwel-lisa-gardner</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447378880/kus-haar-vaarwel-lisa-gardner"/>
-        <updated>2026-03-01T07:27:48.070Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447378880?aid=kb-online-bibliotheek&sid=20&dts=1772294079775&sig=2bf1dd146fe2e48c7acaa56dd747afef1f0aaadf3f5fdb00e06a28075871bb1a&width=320" alt="Omslag van 'Kus haar vaarwel'" title="Omslag van 'Kus haar vaarwel'">
-<p>Frankie Elkin is gespecialiseerd in verdwijningszaken van lang geleden. Toch neemt ze in de snikhete straten van Tucson dezaak van een nog vrij recente vermissing op zich. De vrouw die vermist wordt is Sabera Ahmadi, een jonge moeder met een oorlogstrauma. Haar man en de politie lijken niet bezorgd te zijn over haar verdwijning, maar Frankie weet hoe een trauma werkt, en dat dat nooit tot iets goeds leidt. Ze besluit dat de vrouw gevonden moet worden voor haar iets overkomt.Een paar dagen later wordt Sabera gezien op camerabeelden: ze loopt weg van de plaats delict van een dubbele moord. Frankie realiseert zich dat Sabera niet zo onschuldig is als ze lijkt. Het antwoord op de vragen rond haar verdwijning moet worden gezocht in het verleden van Sabera, maar daarmee brengt Frankie hun beider levens in gevaar.</p><p>Ze heeft te veel gezien, nu is ze nergens meer veilig </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Vlaamse vergezichten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447379097/vlaamse-vergezichten-erwin-mortier</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447379097/vlaamse-vergezichten-erwin-mortier"/>
+        <updated>2026-03-01T07:27:49.700Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447379097?aid=kb-online-bibliotheek&sid=20&dts=1772295811106&sig=f9c0b0cf4f33cafd66e624d58398b6aecd771854fb222f5aa76c417dda68e827&width=320" alt="Omslag van 'Vlaamse vergezichten'" title="Omslag van 'Vlaamse vergezichten'">
+<p>Tot zijn grote verwondering ontdekt Erwin Mortier op een dag dat een verre voorvader van hem, ene Jozef Tessely, in 1864 secretaris was van een van de eerste literaire verenigingen in Vlaanderen. Generaties later liep een andere Tessely, Mortiers grootvader, met de arm in de Hitlergroet geheven voorbij de Brusselse Beurs, voor datzelfde Vlaanderen. Dit familieverleden zet Mortier aan tot een reis naar de bronnen van zijn schrijverschap, in licht en schaduw. Hij beziet met mededogen de vroege geschiedenis van de Vlaamse letteren in het jonge België, en hij luistert met deernis naar de schuld en schaamte van de generaties die hem hebben gevormd en getekend. ‘Ik schrijf omdat ik al schrijvende kan spreken en zwijgen tegelijk.’ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lisa Gardner</name>
+            <name>Erwin Mortier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De hoop van Holwerd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44737916X/de-hoop-van-holwerd-anita-terpstra</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44737916X/de-hoop-van-holwerd-anita-terpstra"/>
+        <updated>2026-03-01T07:27:50.243Z</updated>
+        <summary type="html"><![CDATA[Het verhaal van een dorp, een eiland en een zee]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44737916X?aid=kb-online-bibliotheek&sid=20&dts=1772295172226&sig=b94d8fdc023d2990e4563017a2682af199a2c69a0fb3eb9efcb1fde51c840b14&width=320" alt="Omslag van 'De hoop van Holwerd'" title="Omslag van 'De hoop van Holwerd'">
+<p>Ooit lag Holwerd aan zee. Als onderdeel van een handelsroute en dankzij de vruchtbare grond rondom floreerde het Friese dorpje. Het groeide bijna uit tot een stad, maar na talloze overstromingen werden dijken opgeworpen die de levensader van Holwerd langzaam dichtknepen. Jongeren trokken weg, de middenstand verdween, werkgelegenheid nam af. Aan de hand van haar eigen familiegeschiedenis vertelt Anita Terpstra het verhaal van het dorp en zijn inwoners, maar ook dat van Friesland en zijn relatie met de zee. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Anita Terpstra</name>
         </author>
     </entry>
     <entry>
@@ -83,29 +95,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vlaamse vergezichten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447379097/vlaamse-vergezichten-erwin-mortier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447379097/vlaamse-vergezichten-erwin-mortier"/>
-        <updated>2026-03-01T07:27:49.700Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447379097?aid=kb-online-bibliotheek&sid=20&dts=1772295811106&sig=f9c0b0cf4f33cafd66e624d58398b6aecd771854fb222f5aa76c417dda68e827&width=320" alt="Omslag van 'Vlaamse vergezichten'" title="Omslag van 'Vlaamse vergezichten'">
-<p>Tot zijn grote verwondering ontdekt Erwin Mortier op een dag dat een verre voorvader van hem, ene Jozef Tessely, in 1864 secretaris was van een van de eerste literaire verenigingen in Vlaanderen. Generaties later liep een andere Tessely, Mortiers grootvader, met de arm in de Hitlergroet geheven voorbij de Brusselse Beurs, voor datzelfde Vlaanderen. Dit familieverleden zet Mortier aan tot een reis naar de bronnen van zijn schrijverschap, in licht en schaduw. Hij beziet met mededogen de vroege geschiedenis van de Vlaamse letteren in het jonge België, en hij luistert met deernis naar de schuld en schaamte van de generaties die hem hebben gevormd en getekend. ‘Ik schrijf omdat ik al schrijvende kan spreken en zwijgen tegelijk.’ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Erwin Mortier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De hoop van Holwerd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44737916X/de-hoop-van-holwerd-anita-terpstra</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44737916X/de-hoop-van-holwerd-anita-terpstra"/>
-        <updated>2026-03-01T07:27:50.243Z</updated>
-        <summary type="html"><![CDATA[Het verhaal van een dorp, een eiland en een zee]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44737916X?aid=kb-online-bibliotheek&sid=20&dts=1772295172226&sig=b94d8fdc023d2990e4563017a2682af199a2c69a0fb3eb9efcb1fde51c840b14&width=320" alt="Omslag van 'De hoop van Holwerd'" title="Omslag van 'De hoop van Holwerd'">
-<p>Ooit lag Holwerd aan zee. Als onderdeel van een handelsroute en dankzij de vruchtbare grond rondom floreerde het Friese dorpje. Het groeide bijna uit tot een stad, maar na talloze overstromingen werden dijken opgeworpen die de levensader van Holwerd langzaam dichtknepen. Jongeren trokken weg, de middenstand verdween, werkgelegenheid nam af. Aan de hand van haar eigen familiegeschiedenis vertelt Anita Terpstra het verhaal van het dorp en zijn inwoners, maar ook dat van Friesland en zijn relatie met de zee. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Anita Terpstra</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De race om het Majoranadeeltje]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/447379232/de-race-om-het-majoranadeeltje-gerard-janssen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/447379232/de-race-om-het-majoranadeeltje-gerard-janssen"/>
@@ -114,6 +103,17 @@
 <p>In De race om het Majoranadeeltje volgen we quantumwetenschapper Leo Kouwenhoven, een pionier in de race om de ultieme quantumcomputer te bouwen. Een machine die rekent ‘zoals God’, en die ons zal helpen om ons begrip van de wereld te herzien. Met miljardeninvesteringen en in een intense internationale competitie proberen wetenschappers en bedrijven een machine te creëren die zulke complexe problemen oplost dat zelfs de krachtigste supercomputers er niet aan kunnen tippen. Maar geld, geopolitieke macht, pionierswerk en wetenschappelijke integriteit staan op gespannen voet. Een razend spannend verhaal over de rise and fall van een grootse wetenschapper en de nietsontziende strijd om wereldmacht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Gerard Janssen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Witte nachten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447379186/witte-nachten-urszula-honek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447379186/witte-nachten-urszula-honek"/>
+        <updated>2026-03-01T07:27:51.600Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447379186?aid=kb-online-bibliotheek&sid=20&dts=1772293919016&sig=0507944d23b29d565cafc5b201e0e755e8e14de23f5630d44fdbd1d1ed754ef2&width=320" alt="Omslag van 'Witte nachten'" title="Omslag van 'Witte nachten'">
+<p>Urszula Honek schrijft in Witte nachten met een ongelooflijk rijk taalpalet aan kleuren en stijlen over de verlangende, verdrietige, liefdevolle mensen uit een slaperig dorp aan de voet van de Poolse Beskiden. Ingebed in het verlaten, heuvelachtige boslandschap geeft ze hun in dertien met elkaar verbonden verhalen een stem. Zobeschrijft ze in een verhaal vrienden die elkaar van school kennen en op zoek zijn naar werk. In een ander staat een meisje haar grootmoeder bij als die sterft, zonder het te weten. In weer een ander verhaal wil een ongetrouwde jonge vrouw meer van het leven dan haar wordt geboden. Het leven in het dorp wordt gekenmerkt doornaamloze angsten die raken aan het verleden, maar ook door vriendschap, empathie en een verbondenheid met alles wat leeft. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Urszula Honek</name>
         </author>
     </entry>
     <entry>
@@ -128,14 +128,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Witte nachten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447379186/witte-nachten-urszula-honek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447379186/witte-nachten-urszula-honek"/>
-        <updated>2026-03-01T07:27:51.600Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447379186?aid=kb-online-bibliotheek&sid=20&dts=1772293919016&sig=0507944d23b29d565cafc5b201e0e755e8e14de23f5630d44fdbd1d1ed754ef2&width=320" alt="Omslag van 'Witte nachten'" title="Omslag van 'Witte nachten'">
-<p>Urszula Honek schrijft in Witte nachten met een ongelooflijk rijk taalpalet aan kleuren en stijlen over de verlangende, verdrietige, liefdevolle mensen uit een slaperig dorp aan de voet van de Poolse Beskiden. Ingebed in het verlaten, heuvelachtige boslandschap geeft ze hun in dertien met elkaar verbonden verhalen een stem. Zobeschrijft ze in een verhaal vrienden die elkaar van school kennen en op zoek zijn naar werk. In een ander staat een meisje haar grootmoeder bij als die sterft, zonder het te weten. In weer een ander verhaal wil een ongetrouwde jonge vrouw meer van het leven dan haar wordt geboden. Het leven in het dorp wordt gekenmerkt doornaamloze angsten die raken aan het verleden, maar ook door vriendschap, empathie en een verbondenheid met alles wat leeft. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Kus haar vaarwel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447378880/kus-haar-vaarwel-lisa-gardner</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447378880/kus-haar-vaarwel-lisa-gardner"/>
+        <updated>2026-03-01T07:27:48.070Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447378880?aid=kb-online-bibliotheek&sid=20&dts=1772294079775&sig=2bf1dd146fe2e48c7acaa56dd747afef1f0aaadf3f5fdb00e06a28075871bb1a&width=320" alt="Omslag van 'Kus haar vaarwel'" title="Omslag van 'Kus haar vaarwel'">
+<p>Frankie Elkin is gespecialiseerd in verdwijningszaken van lang geleden. Toch neemt ze in de snikhete straten van Tucson dezaak van een nog vrij recente vermissing op zich. De vrouw die vermist wordt is Sabera Ahmadi, een jonge moeder met een oorlogstrauma. Haar man en de politie lijken niet bezorgd te zijn over haar verdwijning, maar Frankie weet hoe een trauma werkt, en dat dat nooit tot iets goeds leidt. Ze besluit dat de vrouw gevonden moet worden voor haar iets overkomt.Een paar dagen later wordt Sabera gezien op camerabeelden: ze loopt weg van de plaats delict van een dubbele moord. Frankie realiseert zich dat Sabera niet zo onschuldig is als ze lijkt. Het antwoord op de vragen rond haar verdwijning moet worden gezocht in het verleden van Sabera, maar daarmee brengt Frankie hun beider levens in gevaar.</p><p>Ze heeft te veel gezien, nu is ze nergens meer veilig </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Urszula Honek</name>
+            <name>Lisa Gardner</name>
         </author>
     </entry>
     <entry>
@@ -197,17 +197,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De heerser op de eiken troon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458185221/de-heerser-op-de-eiken-troon-k-a--linde</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458185221/de-heerser-op-de-eiken-troon-k-a--linde"/>
-        <updated>2026-02-24T07:45:40.554Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458185221?aid=kb-online-bibliotheek&sid=20&dts=1771916326297&sig=2e8f043b26b222ef42acb753d01ee752dd2f8d6c175b343bc556ec083d5020b0&width=320" alt="Omslag van 'De heerser op de eiken troon'" title="Omslag van 'De heerser op de eiken troon'">
-<p>Kierse McKenna heeft het Monsterverdrag verbroken. Alweer. Het was niet helemaal haar schuld. De klus leek zo simpel: een door goblins gemaakte armband stelen van de koningin van de nimfen. Die armband moest ze vervolgens ruilen voor een manier om de waarheid over haar verleden te ontdekken. Maar alles gaat mis... En dan duikt hij op om haar te redden. Graves, de tovenaar die haar in de val heeft gelokt, verraden en aan haar lot heeft overgelaten. Hij is een schurk. Een monster met een mooi gezicht. En hij weet altijd precies wat ze wil. Maar Graves doet nooit iets voor niets. Hij heeft een klus voor zijn favoriete kleine dievegge. Een klus waarvoor ze tegenover de machtigste monsters zal komen staan, onder wie zijn aartsvijand de eikenkoning. Er is een oud artefact gevonden en alleen samen maken ze een goede kans om het te stelen. Dus Kierse moet hem gewoon toelaten. Maar als ze eenmaal een monster toelaat, is hij onmogelijk te vergeten... en nog moeilijker te weerstaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>K.A. Linde</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Polderweg]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/45818523X/polderweg-roan-botman</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/45818523X/polderweg-roan-botman"/>
@@ -216,6 +205,17 @@
 <p>'Ze is niet thuisgekomen, Max.' Zo vertelt zijn schoonmoeder aan Max dat Lotte vermist is. Lotte die hem halsoverkop verliet, nadat ze geesten zag op haar kantoor in Rotterdam. Zelfs in hun appartement zochten de spoken haar op. Max begint zijn zoektocht in Baakhuizen, het dorp waar Lotte is opgegroeid en naartoe vluchtte. Het dorp waaruit Max met geweld is weggejaagd. Om zijn vriendin te vinden, moet hij het dorp en zijn verleden onder ogen komen. Polderweg is een bovennatuurlijke thriller over je ergens thuis voelen of juist niet. Roan Botman schrijft al jaren korte verhalen die in verschillende verhalenbundels zijn gepubliceerd. Met zijn novelles "Besef" en "Spiegel" was hij een van de winnaars in twee edities van de Zwarte Sneeuw- wedstrijden van Godijn Publishing. Met het korte verhaal "Mért" won Roan een schrijversfestival, waarover de jury zei: 'Dit verhaal trok ons vanaf de eerste zinnen mee de drek in.' Polderweg is Roans eerste boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Roan Botman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De heerser op de eiken troon]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458185221/de-heerser-op-de-eiken-troon-k-a--linde</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458185221/de-heerser-op-de-eiken-troon-k-a--linde"/>
+        <updated>2026-02-24T07:45:40.554Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458185221?aid=kb-online-bibliotheek&sid=20&dts=1771916326297&sig=2e8f043b26b222ef42acb753d01ee752dd2f8d6c175b343bc556ec083d5020b0&width=320" alt="Omslag van 'De heerser op de eiken troon'" title="Omslag van 'De heerser op de eiken troon'">
+<p>Kierse McKenna heeft het Monsterverdrag verbroken. Alweer. Het was niet helemaal haar schuld. De klus leek zo simpel: een door goblins gemaakte armband stelen van de koningin van de nimfen. Die armband moest ze vervolgens ruilen voor een manier om de waarheid over haar verleden te ontdekken. Maar alles gaat mis... En dan duikt hij op om haar te redden. Graves, de tovenaar die haar in de val heeft gelokt, verraden en aan haar lot heeft overgelaten. Hij is een schurk. Een monster met een mooi gezicht. En hij weet altijd precies wat ze wil. Maar Graves doet nooit iets voor niets. Hij heeft een klus voor zijn favoriete kleine dievegge. Een klus waarvoor ze tegenover de machtigste monsters zal komen staan, onder wie zijn aartsvijand de eikenkoning. Er is een oud artefact gevonden en alleen samen maken ze een goede kans om het te stelen. Dus Kierse moet hem gewoon toelaten. Maar als ze eenmaal een monster toelaat, is hij onmogelijk te vergeten... en nog moeilijker te weerstaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>K.A. Linde</name>
         </author>
     </entry>
     <entry>
@@ -268,81 +268,48 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aartsvijand]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447153595/aartsvijand-gregg-hurwitz</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447153595/aartsvijand-gregg-hurwitz"/>
-        <updated>2026-02-23T07:49:36.557Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153595?aid=kb-online-bibliotheek&sid=20&dts=1771748132068&sig=44e3b45ba59b4d72cd80b5c03afb7eee9c0716fac71353cd6a28d8c044a1e13b&width=320" alt="Omslag van 'Aartsvijand'" title="Omslag van 'Aartsvijand'">
-<p>Evan Smoak, alias Orphan X, is een voormalige geheim agent die al jaren zijn vijanden de baas is door zich strikt te houden aan een code die hij ‘De Tien Geboden’ noemt. En door slechts een enkele vertrouweling in zijn leven toe te laten. Tommy Stojack, een begaafde wapensmid die veel van Evans wapens en gevechtsuitrusting heeft gemaakt, is misschien wel Evans allerbeste vriend.  Maar wanneer Tommy een van Evans regels overtreedt, komt hier een abrupt einde aan. Met dodelijke gevolgen... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Laat hem niet binnen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44715351X/laat-hem-niet-binnen-lisa-jewell</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44715351X/laat-hem-niet-binnen-lisa-jewell"/>
+        <updated>2026-02-23T07:49:19.929Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44715351X?aid=kb-online-bibliotheek&sid=20&dts=1771832938688&sig=3d2705299da85d03b318faa2d5c6626725f06b105fccf69d4041d802dd151f86&width=320" alt="Omslag van 'Laat hem niet binnen'" title="Omslag van 'Laat hem niet binnen'">
+<p>Het is de perfecte man. Hij zegt dat hij van je houdt. Je denkt dat hij misschien wel voor jou gemaakt is. Het duurt dan ook niet lang voordat hij je huis – en je hart – is binnengedrongen. Maar dan verdwijnt hij, soms dagenlang. Je weet niet waarheen of met wie. En je realiseert je, terugkijkend, dat je jezelf gewaarschuwd zou hebben: laat hem niet binnen.</p><p>Over eerdere boeken van Lisa Jewell: </p><p>‘Bestsellerauteur Lisa Jewell schrijft aan de lopende band steengoede thrillers. En ook dit is weer zo spannend dat je ’m in één ruk wilt uitlezen.’ – GRAZIA</p><p>‘Met het knap opgebouwde, adembenemend spannende Niets is waar heeft thrillergrootheid Lisa Jewell zichzelf overtroffen.’ – MARGRIET</p><p>‘Een ijzingwekkend verhaal.’ – TROUW </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Gregg Hurwitz</name>
+            <name>Lisa Jewell</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verhitte kus]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443956030/verhitte-kus-abby-green</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443956030/verhitte-kus-abby-green"/>
-        <updated>2026-02-23T07:49:35.533Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443956030?aid=kb-online-bibliotheek&sid=20&dts=1771832975075&sig=b7490a41fcb677354b84e9df9bb43df408f1f020127837bc43fc0d550ef2cb3c&width=320" alt="Omslag van 'Verhitte kus'" title="Omslag van 'Verhitte kus'">
-<p>Kan ze de roep van de woestijn weerstaan?Jaren geleden viel Julia als een blok voor Kaden, de Emir van Burquat. Destijds dacht ze dat ze het geluk had gevonden, tot er door verraad een eind kwam aan hun zinderende affaire. Nu staat Kaden onverwacht vóór haar. Julia weet dat ze hem moet afwijzen, maar of dat lukt? Hij is namelijk nog net zo onweerstaanbaar als toen!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Als in een nachtmerrie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443955956/als-in-een-nachtmerrie-lena-diaz</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443955956/als-in-een-nachtmerrie-lena-diaz"/>
+        <updated>2026-02-23T07:49:18.415Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443955956?aid=kb-online-bibliotheek&sid=20&dts=1771832957996&sig=01ed60173b7be833a3062b46ae26b82f93969797f31237b4b4d068e017b194ef&width=320" alt="Omslag van 'Als in een nachtmerrie'" title="Omslag van 'Als in een nachtmerrie'">
+<p>Getuigenbescherming is marshal Ryan Jackson wel toevertrouwd, maar de zaak van maffia-accountant Jessica Delaney is zelfs voor hem uitzonderlijk. Na haar getuigenis tegen haar baas moet hij ervoor zorgen dat ze een nieuw leven kan beginnen. Een gevaarlijke onderneming, die een aantal collega's al het leven heeft gekost. De situatie wordt nog hachelijker als Jessica's huis afbrandt en er maar één conclusie mogelijk is: ze zijn verraden...Dit verhaal is eerder verschenen </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Abby Green</name>
+            <name>Lena Diaz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De eeuwige neezegger]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444483594/de-eeuwige-neezegger-jade-vening</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444483594/de-eeuwige-neezegger-jade-vening"/>
-        <updated>2026-02-24T07:45:41.032Z</updated>
-        <summary type="html"><![CDATA[Haar verhaal dreigt vast te lopen. Tot ze met hem aan een nieuw avontuur begint...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444483594?aid=kb-online-bibliotheek&sid=20&dts=1771843764699&sig=6d7e698040e784e8d80cae5152a01d373c091ff5db8fe7850dff7a4288bb533d&width=320" alt="Omslag van 'De eeuwige neezegger'" title="Omslag van 'De eeuwige neezegger'">
-<p>De eeuwige neezegger is het nieuwe boek van feelgoodtalent Jade Vening. Iris heeft twee talenten: tekenen en nee zeggen. Sinds ze een ernstige gehoorbeschadiging opliep, is haar werk als illustrator echter opgedroogd en gebruikt ze haar tweede talent net een tikje te veel. Maar dan krijgt ze een droomopdracht: het nieuwste boek van de mysterieuze kinderboekenschrijver Boris Aslan illustreren. Hun samenwerking verloopt echter verre van soepel, doordat de norse auteur het haar niet makkelijk maakt. Alles verandert wanneer ze een plan smeedt om Boris, die worstelt met een writer’s block, een handje te helpen. Terwijl ze samenwerken aan het verhaal, ontdekt ze dat je ook zonder te kunnen horen naar je hart kunt luisteren. En misschien bloeit er wel meer op dan alleen hun creativiteit… Lessen in de liefde is een hilarische en hartverwarmende feelgoodserie over vier vrienden, Fiona, Iris, Roos en Boaz, die allemaal iets te leren hebben over het leven én over de liefde. De eeuwige neezegger is het tweede deel in de serie, maar alle delen zijn ook afzonderlijk te lezen.</p><p></p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Baby van de chirurg]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443956103/baby-van-de-chirurg-fiona-lowe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443956103/baby-van-de-chirurg-fiona-lowe"/>
+        <updated>2026-02-23T07:49:18.978Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443956103?aid=kb-online-bibliotheek&sid=20&dts=1771832958571&sig=142982292ea050212516232d7e67c4248cd30014f1c7a11368cd1dc42d742135&width=320" alt="Omslag van 'Baby van de chirurg'" title="Omslag van 'Baby van de chirurg'">
+<p>Claire is dolblij dat ze de kans krijgt haar opleiding te voltooien bij de wereldberoemde kinderchirurg Alistair North. Dat hij bekend staat als playboy, interesseert haar niet: ze wil gewoon zoveel mogelijk van hem leren. Maar dan springen op de eerste dag al de nodige vonken tussen hen over…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jade Vening</name>
+            <name>Fiona Lowe</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schitterende liefde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44386523X/schitterende-liefde-susan-stephens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44386523X/schitterende-liefde-susan-stephens"/>
-        <updated>2026-02-23T07:49:36.017Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44386523X?aid=kb-online-bibliotheek&sid=20&dts=1771832247323&sig=fa62e1752936acca11b8a7f85fbdd1c21b234a3f9b67d7122401f0355562990b&width=320" alt="Omslag van 'Schitterende liefde'" title="Omslag van 'Schitterende liefde'">
-<p>Leila heeft er genoeg van......om verlegen genoemd te worden. Dus ze grijpt haar kans wanneer ze tijdens een familiefeestje in Skavanga, gelegen in de ijskoude poolcirkel, Raffa Leon tegen het lijf loopt. Zal hij haar met zijn Spaanse passie weten te ontdooien?Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Ik ben de dood]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44334907X/ik-ben-de-dood-chris-carter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44334907X/ik-ben-de-dood-chris-carter"/>
+        <updated>2026-02-23T07:49:19.472Z</updated>
+        <summary type="html"><![CDATA[Hij verbergt een gruwelijk geheim...]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44334907X?aid=kb-online-bibliotheek&sid=20&dts=1771756318804&sig=bc9a8fcc444c6f7202a7c1023057aba6694d7d9ec9e9296943824065c7be4423&width=320" alt="Omslag van 'Ik ben de dood'" title="Omslag van 'Ik ben de dood'">
+<p>Ik ben de dood is een bloedstollende serial killer-thriller van ThrillZone Award-winnaar Chris Carter. Elk boek in de Robert Hunter-serie kan worden gelezen als een standalone. Zeven dagen na de ontvoering van een twintigjarige vrouw wordt op een grasveld dicht bij de internationale luchthaven van Los Angeles haar lichaam gevonden. Haar ledematen zijn zo neergelegd dat ze een ster lijken te vormen. Uit de autopsie blijkt dat de vrouw op een verschrikkelijke manier is vermoord. Maar er wordt meer ontdekt… Rechercheur Robert Hunter krijgt de zaak toegewezen en wordt vrijwel direct geconfronteerd met een tweede slachtoffer. Hij realiseert zich dat hij snel moet zijn, want deze moordenaar lijkt voor niets of niemand terug te deinzen. Kan Hunter de mysterieuze crimineel stoppen?  ‘Carter is cum laude geslaagd. Karakters, dialogen, plot, tempo, sfeer, geloofwaardigheid: het klopt allemaal als een zwerende vinger.’ VN Detective en ThrillergidsOver eerder werk:‘Carter is van de lugubere details, sterke personen en een keispannend verhaal.’ Boekhandel Oisterwijk‘Een thriller die je als lezer niet loslaat. Je leest een paar pagina’s, legt het boek weg maar het houdt je bezig.’ Bruna Raalte‘Een huiveringwekkende rilling zal over je lijf lopen als je leest wat er hier gaande is! Chapeau.’ ThrillZone </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Susan Stephens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De ideale uitdaging]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44395609X/de-ideale-uitdaging-kate-hardy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44395609X/de-ideale-uitdaging-kate-hardy"/>
-        <updated>2026-02-23T07:49:33.515Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44395609X?aid=kb-online-bibliotheek&sid=20&dts=1771832973031&sig=cab972d1ae6962d216f1fa90e1cc14e17ad5eb6e1a277f56ed6939d5a363a6a1&width=320" alt="Omslag van 'De ideale uitdaging'" title="Omslag van 'De ideale uitdaging'">
-<p>Aristocraat en playboy George is verslaafd aan adrenaline, en dat is meteen ook de reden waarom hij nu heel hard een fysiotherapeut nodig heeft. Serena is rustig en kalm, zijn absolute tegenpool. Maar tot zijn verbazing krijgt hij meer adrenaline door haar dan door de extreem gevaarlijke sporten die hij beoefent!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kate Hardy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een vurig voorstel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443865159/een-vurig-voorstel-susan-napier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443865159/een-vurig-voorstel-susan-napier"/>
-        <updated>2026-02-24T07:45:41.992Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443865159?aid=kb-online-bibliotheek&sid=20&dts=1771856143399&sig=6452ec50e16db872c2a9551bd01e2c823651cb5ae59337ea3ae4bdaa3a88c39c&width=320" alt="Omslag van 'Een vurig voorstel'" title="Omslag van 'Een vurig voorstel'">
-<p>Anya heeft een nieuwe baan......als lerares aan de plaatselijke middelbare school. Ze snapt echter totaal niet waarom Scott Tyler, een meedogenloze advocaat en lid van het schoolbestuur, zo fel op haar benoeming tegen is. Of waarom hij haar zo laat blozen...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Susan Napier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liefde als geschenk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443956057/liefde-als-geschenk-marion-lennox</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443956057/liefde-als-geschenk-marion-lennox"/>
-        <updated>2026-02-23T07:49:34.555Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443956057?aid=kb-online-bibliotheek&sid=20&dts=1771758833558&sig=304d12f7d9111079e5e8b5896200878329cff425ddce7ccf3ee6997163ec2fdd&width=320" alt="Omslag van 'Liefde als geschenk'" title="Omslag van 'Liefde als geschenk'">
-<p>Van de Australische outback naar een heus prinsdom!Tammy is diep geschokt. Ze heeft een neefje, van wie ze de voogd blijkt te zijn. En Henry is niet alleen wees, maar ook de kroonprins van het prinsdom Broitenburg! Omdat de baby daar nu officieel moet worden aangewezen als troonopvolger, reist ze er met hem heen. Begeleid door Marc, de oom van Henry. Die erg afstandelijk doet, maar ook heel aantrekkelijk is!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marion Lennox</name>
+            <name>Chris Carter</name>
         </author>
     </entry>
     <entry>
@@ -354,6 +321,39 @@
 <p>Gabrielles tranen bevriezen op haar wangen......in de koude, besneeuwde tuin van het landhuis van haar beste vriendin, die net moeder is geworden. Zelf smacht ze naar een baby, maar vreest dat dat onmogelijk is. Tot ze rijke playboy Santiago Velazquez ontmoet...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Jennie Lucas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liefde en luiers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443955999/liefde-en-luiers-peggy-moreland</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443955999/liefde-en-luiers-peggy-moreland"/>
+        <updated>2026-02-23T07:49:21.066Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443955999?aid=kb-online-bibliotheek&sid=20&dts=1771832960506&sig=33461925a84179c7138f9205c6b4368de42ac0236f03ba4a2eaaf332775f6cec&width=320" alt="Omslag van 'Liefde en luiers'" title="Omslag van 'Liefde en luiers'">
+<p>Ontdekt hij nou een heel nieuwe kant van zichzelf?Het geruzie met zijn broers na de begrafenis van zijn vader drijft Ace Tanner tot het uiterste. Als er dan ook nog plotseling een zekere Maggie op de stoep staat die beweert dat zijn vader een baby had en dat hij voor het kind moet zorgen, is de maat compleet vol. Gelukkig is Maggie bereid om de zorg met hem te delen…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Peggy Moreland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O, wat een nacht!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443956065/o--wat-een-nacht--mira-lyn-kelly</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443956065/o--wat-een-nacht--mira-lyn-kelly"/>
+        <updated>2026-02-23T07:49:21.686Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443956065?aid=kb-online-bibliotheek&sid=20&dts=1771832961156&sig=02dc6bb88c3f76bacacc0d39e7062df59255a2ff3456a172c469725394f14d1f&width=320" alt="Omslag van 'O, wat een nacht!'" title="Omslag van 'O, wat een nacht!'">
+<p>Dus dát noemen ze een nacht om nooit te vergeten!Welgeteld één nacht bracht tycoon Jeff door met Darcy, maar vergeten kan hij haar niet. Hij is dan ook dolblij als ze plotseling in zijn kantoor staat - zwanger en wel! Hij wil niets liever dan haar in zijn leven hebben, maar zij heeft heel andere plannen. Dus als hij niet wil dat de vrouw van zijn dromen ervandoor gaat, zal hij al zijn verleidingskunsten moeten inzetten…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Mira Lyn Kelly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vlucht in het huwelijk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443865086/vlucht-in-het-huwelijk-donna-fletcher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443865086/vlucht-in-het-huwelijk-donna-fletcher"/>
+        <updated>2026-02-23T07:49:22.211Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443865086?aid=kb-online-bibliotheek&sid=20&dts=1771768337660&sig=c5a80432f231f15b638a841886e1cbf716a7f3b65a5f5e7994cda44ed777e9c8&width=320" alt="Omslag van 'Vlucht in het huwelijk'" title="Omslag van 'Vlucht in het huwelijk'">
+<p>Als een sexy Schot aye, lass in je oor fluistert...De Schotse Hooglanden, 1508Honora Tannach is opgetogen als er een huwelijk voor haar is gearrangeerd: zo kan ze eindelijk haar wrede stiefvader ontvluchten. De moed zinkt haar echter in de schoenen als blijkt dat ze moet trouwen met Cavan Sinclare. Deze woeste krijger heeft haar al een keer afgewezen: hij wilde een dappere vrouw, geen ‘grijs muisje’...Ze is dan ook niet verrast als hij haar zo veel mogelijk ontloopt en al zijn tijd besteedt aan vijandelijkheden met een rivaliserende clan. Maar al snel neemt Honora geen genoegen meer met zijn ontwijkende gedrag. Hoe kan ze hem ervan overtuigen dat ook een huwelijk heel spannend kan zijn?Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Donna Fletcher</name>
         </author>
     </entry>
 </feed>
