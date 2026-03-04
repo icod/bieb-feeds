@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-03-03T07:37:06.062Z</updated>
+    <updated>2026-03-04T07:33:27.422Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[De bedelaarsopera]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/409038237/de-bedelaarsopera-john-gay</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/409038237/de-bedelaarsopera-john-gay"/>
+        <updated>2026-03-04T07:33:27.421Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A409038237?aid=kb-online-bibliotheek&sid=20&dts=1772555688315&sig=af1ed9322672eec97099aec51673b8c93a273519867aedc3481ab8e75c49f405&width=320" alt="Omslag van 'De bedelaarsopera'" title="Omslag van 'De bedelaarsopera'">
+<p>Moderne versie van het verhaal van John Gay uit 1728 over de onderwereld van Londen, waar diefstal, moord, corruptie, list en bedrog aan de orde van de dag zijn.</p>]]></content>
+        <author>
+            <name>John Gay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lichaam te huur]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/457361530/lichaam-te-huur-manisa-fenenga---emely-blind---tim-tate</id>
@@ -343,17 +354,6 @@
 <p>Van de Australische outback naar een heus prinsdom!Tammy is diep geschokt. Ze heeft een neefje, van wie ze de voogd blijkt te zijn. En Henry is niet alleen wees, maar ook de kroonprins van het prinsdom Broitenburg! Omdat de baby daar nu officieel moet worden aangewezen als troonopvolger, reist ze er met hem heen. Begeleid door Marc, de oom van Henry. Die erg afstandelijk doet, maar ook heel aantrekkelijk is!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marion Lennox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haar Spaanse veroveraar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443865221/haar-spaanse-veroveraar-jennie-lucas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443865221/haar-spaanse-veroveraar-jennie-lucas"/>
-        <updated>2026-02-23T07:49:20.420Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443865221?aid=kb-online-bibliotheek&sid=20&dts=1771768329646&sig=e15a50a2bef647d9fa14469fa07f908a2ad4acdab391c383c5b1ec1b7c1e1be5&width=320" alt="Omslag van 'Haar Spaanse veroveraar'" title="Omslag van 'Haar Spaanse veroveraar'">
-<p>Gabrielles tranen bevriezen op haar wangen......in de koude, besneeuwde tuin van het landhuis van haar beste vriendin, die net moeder is geworden. Zelf smacht ze naar een baby, maar vreest dat dat onmogelijk is. Tot ze rijke playboy Santiago Velazquez ontmoet...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jennie Lucas</name>
         </author>
     </entry>
 </feed>
