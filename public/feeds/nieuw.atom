@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-03-10T07:36:29.239Z</updated>
+    <updated>2026-03-11T07:38:50.876Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Een nieuw begin]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443409609/een-nieuw-begin-toon-tellegen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443409609/een-nieuw-begin-toon-tellegen"/>
+        <updated>2026-03-11T07:38:38.305Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443409609?aid=kb-online-bibliotheek&sid=20&dts=1773138499754&sig=fce80e4653f70d7b9e2d24ac9b3f6ef7984eac5f1dbb5d7605b44ecdc0fc9eb0&width=320" alt="Omslag van 'Een nieuw begin'" title="Omslag van 'Een nieuw begin'">
+<p>Korte dierenverhalen die sprankelen van hoop en goede voornemens.</p>]]></content>
+        <author>
+            <name>Toon Tellegen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kairos]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442203357/kairos-jenny-erpenbeck</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442203357/kairos-jenny-erpenbeck"/>
+        <updated>2026-03-11T07:38:38.755Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442203357?aid=kb-online-bibliotheek&sid=20&dts=1773135538124&sig=112445ef6e0f5daebbd20a90189ef518f4594368b8d09227d1f239353356cd5b&width=320" alt="Omslag van 'Kairos'" title="Omslag van 'Kairos'">
+<p>Oost-Berlijn, 1986. Katharina en Hans ontmoeten elkaar toevallig in de bus en voelen zich onmiddellijk sterk tot elkaar aangetrokken. Zij is een studente van 19, hij is 34 jaar ouder, getrouwd en een succes­vol schrijver en radiomaker. De twee beleven een allesverzengen­de liefde, die echter verre van gelijkwaardig is. De oudere Hans leert Katharina over het leven, maar als zij haar eigen weg begint te gaan, ontwikkelt hij een agressie jegens haar, die sadistische en paranoïde trekken vertoont. En ondertussen voltrekt zich ook nog eens ingrijpende maatschappelijke en politieke omwenteling.  ‘Een van de droefgeestigste en mooiste romans die ik ooit heb gelezen.’ – The Guardian ‘Haar schrijfstijl is precies en ritmisch als een symfonieorkest.’ – Frankfurter Allgemeine Zeiting </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jenny Erpenbeck</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Verdwenen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/442716583/verdwenen-sara-paretsky</id>
@@ -16,6 +38,279 @@
 <p>Detective V.I. Warshawski vindt een zwaargewonde tiener die uit het ziekenhuis verdwijnt voordat haar identiteit kan worden vastgesteld. Al snel ontdekt V.I. dat allerlei machthebbers en gangsters uit Chicago het meisje willen vermoorden, en dat ook zij gevaar loopt.</p>]]></content>
         <author>
             <name>Sara Paretsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schokbestendig]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45830770X/schokbestendig-dai-carter---derek-de-vries</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45830770X/schokbestendig-dai-carter---derek-de-vries"/>
+        <updated>2026-03-11T07:38:39.177Z</updated>
+        <summary type="html"><![CDATA[Vergroot je weerbaarheid in een wereld vol onzekerheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45830770X?aid=kb-online-bibliotheek&sid=20&dts=1773135543440&sig=f29db1128985e59290519d528de7c09de460c9a13e664dc4121bcbadc19d3032&width=320" alt="Omslag van 'Schokbestendig'" title="Omslag van 'Schokbestendig'">
+<p>Persoonlijk getinte gids met overlevingstips en tips voor het verhogen van de weerbaarheid.</p>]]></content>
+        <author>
+            <name>Dai Carter</name>
+        </author>
+        <author>
+            <name>Derek de Vries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bob Popcorn wordt beroemd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45830767X/bob-popcorn-wordt-beroemd-maranke-rinck</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45830767X/bob-popcorn-wordt-beroemd-maranke-rinck"/>
+        <updated>2026-03-11T07:38:39.658Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45830767X?aid=kb-online-bibliotheek&sid=20&dts=1773136433997&sig=4dce7abbe07117d031f86d8080992b6a628da232ce28192d52ac8a8301a108ba&width=320" alt="Omslag van 'Bob Popcorn wordt beroemd'" title="Omslag van 'Bob Popcorn wordt beroemd'">
+<p>Bob Popcorn wordt per ongeluk ontdekt. Voordat hij het weet is hij een superster! Maar is beroemd zijn wel zo leuk? Bob krijgt veel aandacht, maar er worden ook nare dingen over hem gezegd... Wat kan zijn vriendin Ellis doen om dit te stoppen? Met grappige zwart-witillustraties. Vanaf ca. 7,5 jaar.</p>]]></content>
+        <author>
+            <name>Maranke Rinck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gevangen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458307505/gevangen-lilja-sigur%C3%B0ard%C3%B3ttir</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458307505/gevangen-lilja-sigur%C3%B0ard%C3%B3ttir"/>
+        <updated>2026-03-11T07:38:40.288Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307505?aid=kb-online-bibliotheek&sid=20&dts=1773135217317&sig=2fe132a306f9b94efe711f962879e90efd2d41cd043495ab29c4936ea4648c6e&width=320" alt="Omslag van 'Gevangen'" title="Omslag van 'Gevangen'">
+<p>Een IJslandse vrouw woont met haar zoontje in Florida om haar verleden als drugskoerier te ontvluchten. Als haar zoontje wordt ontvoerd, besluit ze om de confrontatie met haar vijanden aan te gaan.</p>]]></content>
+        <author>
+            <name>Lilja Sigurðardóttir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zusje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458307610/zusje-janneke-schotveld---rifka-mels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458307610/zusje-janneke-schotveld---rifka-mels"/>
+        <updated>2026-03-11T07:38:40.771Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307610?aid=kb-online-bibliotheek&sid=20&dts=1773135637283&sig=db71681dc92ad6b1464fe3f6da8abf4d13f8b99f789fb7603162267b4346570a&width=320" alt="Omslag van 'Zusje'" title="Omslag van 'Zusje'">
+<p>Rifka stapt op de fiets richting Noorwegen na een heftige gebeurtenis in haar familie. Terwijl ze probeert los te komen van haar gelovige milieu en worstelt met haar seksuele geaardheid, moet ze ook nog omgaan met een groot verdriet. Met twee kaarten. Vanaf ca. 15 jaar.</p>]]></content>
+        <author>
+            <name>Janneke Schotveld</name>
+        </author>
+        <author>
+            <name>Rifka Mels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ecoliberalisme]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458307602/ecoliberalisme-kees-klomp</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458307602/ecoliberalisme-kees-klomp"/>
+        <updated>2026-03-11T07:38:41.195Z</updated>
+        <summary type="html"><![CDATA[Een veranderverhaal over ware vrijheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307602?aid=kb-online-bibliotheek&sid=20&dts=1773157822657&sig=790691e6665a41d26b05c20fa27c89e50904a35024b30d311e1ce22ffc4c33c5&width=320" alt="Omslag van 'Ecoliberalisme'" title="Omslag van 'Ecoliberalisme'">
+<p>Betoog over de gevolgen van het kapitalistische systeem, waarin gepleit wordt voor verandering naar een nieuwe liberale samenlevingsvorm. Met zwart-witillustraties.</p>]]></content>
+        <author>
+            <name>Kees Klomp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koppig hart]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458307513/koppig-hart-vi-keeland---penelope-ward</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458307513/koppig-hart-vi-keeland---penelope-ward"/>
+        <updated>2026-03-11T07:38:41.580Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307513?aid=kb-online-bibliotheek&sid=20&dts=1773134577475&sig=62c608ae7c6486cc46c91fcdbcb994993ca6164f5b8b6e7264e0c7c2bda43478&width=320" alt="Omslag van 'Koppig hart'" title="Omslag van 'Koppig hart'">
+<p>Kan Rush zijn grote liefde Gia vergeven?  Gia had een droomzomer: een huis aan het strand, een fijne bijbaan en een hete affaire met haar knappe baas Rush. Maar ze heeft een groot geheim dat ze hem niet durft te vertellen. Ze zal wel moeten, want de waarheid laat zich niet lang meer verbergen. Precies nu Rush zich weer eens heeft opengesteld voor een relatie, zal Gia zijn hart moeten breken. Hoe zorg je ervoor dat de liefde van je leven je vergeeft als je een grote fout hebt gemaakt? Daar komt Gia nog op terug als ze een antwoord op die vraag heeft gevonden. Tot die tijd heeft ze maar één keus: alles op het spel zetten om te proberen het hart van Rush terug te winnen.</p><p>Koppig hart is het meeslepende vervolg op Knappe rebel. Knappe rebel eerst lezen of luisteren wordt sterk aangeraden!  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Vi Keeland</name>
+        </author>
+        <author>
+            <name>Penelope Ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mogen zijn wie je bent]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44599374X/mogen-zijn-wie-je-bent-annemaaike-serlier-van-den-bergh---stella-braam</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44599374X/mogen-zijn-wie-je-bent-annemaaike-serlier-van-den-bergh---stella-braam"/>
+        <updated>2026-03-11T07:38:42.071Z</updated>
+        <summary type="html"><![CDATA[Troost vinden en geven als het levenseinde nadert]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44599374X?aid=kb-online-bibliotheek&sid=20&dts=1773136352170&sig=abd6ee94fdfc6b5a9d60c7b5fbef2f86fecfa229831bac478d1dd6ceaf65a144&width=320" alt="Omslag van 'Mogen zijn wie je bent'" title="Omslag van 'Mogen zijn wie je bent'">
+<p>Persoonlijke beschouwing van de Nederlandse neuropsycholoog (1965-2023) over het vinden van troost bij ongeneselijke ziekte, onder andere op basis van haar ervaringen met borstkanker, de psychologie en het christelijk geloof.</p>]]></content>
+        <author>
+            <name>Annemaaike Serlier-van den Bergh</name>
+        </author>
+        <author>
+            <name>Stella Braam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buitenstaanders in brieven]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/449119602/buitenstaanders-in-brieven-renate-dorrestein---alex-boogers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/449119602/buitenstaanders-in-brieven-renate-dorrestein---alex-boogers"/>
+        <updated>2026-03-11T07:38:42.519Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A449119602?aid=kb-online-bibliotheek&sid=20&dts=1773134905595&sig=58d55114e2d7e92544a05ad1f16dc154db4ff967978bbdd21c64f36dfba11ae1&width=320" alt="Omslag van 'Buitenstaanders in brieven'" title="Omslag van 'Buitenstaanders in brieven'">
+<p>Correspondentie tussen de Nederlandse schrijvers (1970 en 1954-2018) over onderwerpen als schrijverschap en ziekte.</p>]]></content>
+        <author>
+            <name>Renate Dorrestein</name>
+        </author>
+        <author>
+            <name>Alex Boogers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wilhelmus]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444678174/wilhelmus-tim-berbers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444678174/wilhelmus-tim-berbers"/>
+        <updated>2026-03-11T07:38:43.383Z</updated>
+        <summary type="html"><![CDATA[Mijn grootvader bij de Waffen-ss]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444678174?aid=kb-online-bibliotheek&sid=20&dts=1773148814634&sig=1230ea430ccf2ac4596282284f1636d633fcc254f331541abd38a7e33301e54f&width=320" alt="Omslag van 'Wilhelmus'" title="Omslag van 'Wilhelmus'">
+<p>Verslag van de zoektocht van een kleinzoon naar het SS-verleden van zijn grootvader.</p>]]></content>
+        <author>
+            <name>Tim Berbers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De rode koe]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444690158/de-rode-koe-hans-depelchin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444690158/de-rode-koe-hans-depelchin"/>
+        <updated>2026-03-11T07:38:43.795Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444690158?aid=kb-online-bibliotheek&sid=20&dts=1773137507422&sig=21db83547c65eda5f18cde44460e20d3e9d4a60865973efa6689b9b9888c429f&width=320" alt="Omslag van 'De rode koe'" title="Omslag van 'De rode koe'">
+<p>Een jongeman groeit op in het elitaire hotel van zijn grootouders. Als er vooraanstaande gasten verdwijnen, probeert een privédetective te achterhalen wat er is gebeurd. Ondertussen krijgt radicaal gedachtegoed met oude wortels voet aan de grond in Europa.</p>]]></content>
+        <author>
+            <name>Hans Depelchin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het inferno van Slauerhoff]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627402/het-inferno-van-slauerhoff-luuk-imhann</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627402/het-inferno-van-slauerhoff-luuk-imhann"/>
+        <updated>2026-03-11T07:38:44.319Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627402?aid=kb-online-bibliotheek&sid=20&dts=1773137254567&sig=2f9c558e62a08d02a33c961d1bce3f64e8f5bce11536436d3bd53d1d94928ef3&width=320" alt="Omslag van 'Het inferno van Slauerhoff'" title="Omslag van 'Het inferno van Slauerhoff'">
+<p>In 1934 beleeft een Nederlandse schrijver en arts een bewogen dag in zijn dokterspraktijk in Tanger. Ondertussen rouwt hij om zijn zoon, die twee jaar eerder dood werd geboren.</p>]]></content>
+        <author>
+            <name>Luuk Imhann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echt niet meant to be]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44599407X/echt-niet-meant-to-be-meghan-quinn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44599407X/echt-niet-meant-to-be-meghan-quinn"/>
+        <updated>2026-03-11T07:38:44.709Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44599407X?aid=kb-online-bibliotheek&sid=20&dts=1773135745798&sig=915e1bd43565760986d9b7dc868c73beb4268c8e7ce01be178b10b955d684a9b&width=320" alt="Omslag van 'Echt niet meant to be'" title="Omslag van 'Echt niet meant to be'">
+<p>Twee collega's die elkaar niet mogen, worden door omstandigheden gedwongen samen te wonen, wat leidt tot onverwachte gevoelens.</p>]]></content>
+        <author>
+            <name>Meghan Quinn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vuile handen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444690190/vuile-handen-marco-kunst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444690190/vuile-handen-marco-kunst"/>
+        <updated>2026-03-11T07:38:45.156Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444690190?aid=kb-online-bibliotheek&sid=20&dts=1773158907619&sig=2fbf5d732e0d1b72b54f614ec660f000203a4c1461ae6903e3068d0fa6d33c84&width=320" alt="Omslag van 'Vuile handen'" title="Omslag van 'Vuile handen'">
+<p>Achim maakt zich zorgen over de wereld en het klimaat. Hij wil echt iets veranderen en neemt daarom een extreme stap. Zijn zus Leila vertrouwt het gedrag van haar broer niet. Lukt het haar om hem te stoppen? Vanaf ca. 14 jaar.</p>]]></content>
+        <author>
+            <name>Marco Kunst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collided]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44463861X/collided-lauren-asher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44463861X/collided-lauren-asher"/>
+        <updated>2026-03-11T07:38:45.595Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44463861X?aid=kb-online-bibliotheek&sid=20&dts=1773136462728&sig=43180eb96f6dc3634afa2d0fb956e297d6c290b1800272d7b16dd082c2b394ec&width=320" alt="Omslag van 'Collided'" title="Omslag van 'Collided'">
+<p>Een Formule 1-ster en een vrouw uit het team van zijn tegenstander worden ‘friends with benefits', maar hun deal heeft een einddatum. Kunnen ze daarna terug naar hun oude vriendschap?</p>]]></content>
+        <author>
+            <name>Lauren Asher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het wilde-vrouwenpad]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44827342X/het-wilde-vrouwenpad-brigitte-ars</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44827342X/het-wilde-vrouwenpad-brigitte-ars"/>
+        <updated>2026-03-11T07:38:46.012Z</updated>
+        <summary type="html"><![CDATA[Avontuurlijke wandelingen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44827342X?aid=kb-online-bibliotheek&sid=20&dts=1773137460166&sig=cceb312bec17edffcd12af3fb9b02c5fc0c698a15a0528753bcdd76db26d3840&width=320" alt="Omslag van 'Het wilde-vrouwenpad'" title="Omslag van 'Het wilde-vrouwenpad'">
+<p>Gebundelde reisverslagen van wandeltochten die de auteur maakte op twaalf zogenoemde ‘vrouwenpaden’, historische wandelpaden verbonden met verschillende vrijgevochten vrouwen. Met illustraties.</p>]]></content>
+        <author>
+            <name>Brigitte Ars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watermeloenman]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/445993944/watermeloenman-henk-van-straten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/445993944/watermeloenman-henk-van-straten"/>
+        <updated>2026-03-11T07:38:46.913Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445993944?aid=kb-online-bibliotheek&sid=20&dts=1773136604613&sig=05de1d8d3636d7aaf441a1f0176e1dc51f2793dee17af76c240cbde2161222fc&width=320" alt="Omslag van 'Watermeloenman'" title="Omslag van 'Watermeloenman'">
+<p>Tijdens een nachtelijke verkenning van zijn bos struikelt een boswachter over een watermeloen, die gevuld blijkt te zijn met drugs. Hierdoor raakt hij verstrikt in een web van misdaad. Ondertussen ontdekt hij dat hij een twaalfjarige zoon heeft...</p>]]></content>
+        <author>
+            <name>Henk van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play along]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448832542/play-along-liz-tomforde</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448832542/play-along-liz-tomforde"/>
+        <updated>2026-03-11T07:38:47.343Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832542?aid=kb-online-bibliotheek&sid=20&dts=1773135431120&sig=9515db0705bb4b099cfc2c747980239c06721ff4798bceeaa39174959be34922&width=320" alt="Omslag van 'Play along'" title="Omslag van 'Play along'">
+<p>Een jonge sportarts staat op het punt te beginnen aan haar droombaan, maar trouwt tijdens een wilde nacht in Las Vegas onbedachtzaam met een honkbalspeler die haar liever niet ziet vertrekken. Hij probeert haar ervan te overtuigen dat ze het perfecte koppel vormen.</p>]]></content>
+        <author>
+            <name>Liz Tomforde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Girl abroad]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446626937/girl-abroad-elle-kennedy</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446626937/girl-abroad-elle-kennedy"/>
+        <updated>2026-03-11T07:38:48.261Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446626937?aid=kb-online-bibliotheek&sid=20&dts=1773137818367&sig=7b18abaea4f4c64a4dcbd7ff82422ae3707f0b4cbcfa67080f714663a6f438d2&width=320" alt="Omslag van 'Girl abroad'" title="Omslag van 'Girl abroad'">
+<p>Een jaar in Londen. Hoeveel regels kan ze breken? Wanneer Abbey Bly de kans krijgt om een jaar in Londen te gaan studeren, grijpt ze die met beide handen aan. Ze verheugt zich er enorm op om de stad te gaan verkennen, én om op eigen benen te staan, ver weg van haar lieve maar erg overbezorgde rockster-vader. Wanneer ze aankomt in haar nieuwe huis, komt ze er tot haar schrik achter dat al haar huisgenoten mannen blijken te zijn. Aantrekkelijke mannen… Maar de huisregels zijn duidelijk: na flink wat drama met een oud-bewoner zijn alleen platonische relaties toegestaan. Abbey heeft zich altijd keurig aan alle regels gehouden, maar nu merkt ze ineens dat ze al haar regels breekt. Ze liegt tegen haar vader, en ze krijgt een crush op niet één, maar twee verboden mannen. En dan raakt ze ook nog eens via een onderzoek voor haar studie verstrikt in een verborgen geheim van een adellijke familie. Als Abbey liefde, antwoorden of een toekomst in Londen wil, zal ze moeten beslissen welke regels – en welk hart – ze zal moeten breken.  Girl abroad is een standalone romance van bestsellerauteur Elle Kennedy, bekend van onder andere De deal, het eerste deel van de Off Campus-serie, wereldwijd al door minstens een miljoen lezers gelezen en geluisterd.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elle Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verbroken stilte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/449051366/verbroken-stilte-chantal-van-mierlo</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/449051366/verbroken-stilte-chantal-van-mierlo"/>
+        <updated>2026-03-11T07:38:48.683Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A449051366?aid=kb-online-bibliotheek&sid=20&dts=1773136116787&sig=c0cbfacdc566c9e820417924532a7ed19a3a4bc5c2f342c47768d4d3af19b463&width=320" alt="Omslag van 'Verbroken stilte'" title="Omslag van 'Verbroken stilte'">
+<p>Gedragsdeskundige Lara en misdaadjournalist Vincent maken een podcast over een zaak van elf jaar geleden, toen een paardentrainster dood gevonden werd. Wanneer Lara informatie deelt met Vincent over een grote drugszaak die hij al jaren onderzoekt, komen hun levens en die van anderen in groot gevaar.</p>]]></content>
+        <author>
+            <name>Chantal van Mierlo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De grote zaal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/445993847/de-grote-zaal-jacoba-van-velde</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/445993847/de-grote-zaal-jacoba-van-velde"/>
+        <updated>2026-03-11T07:38:49.180Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445993847?aid=kb-online-bibliotheek&sid=20&dts=1773140812959&sig=f9ab10f47764a665275216ed7614c8fb1f3055556b1466f53afe1c7b5a2af1bd&width=320" alt="Omslag van 'De grote zaal'" title="Omslag van 'De grote zaal'">
+<p>Geertruide wordt op een dag wakker in een bed op een zaal. Ze vermoedt dat ze naar een verpleegtehuis is gebracht en heeft vage herinneringen aan een beroerte. Haar dochter Helena, die in Parijs woont, kan haar maar weinig bezoeken. Terwijl Geertruide terugkijkt op hun leven en zich angstig afvraagt wat er komen gaat, vertelt Helena ook háár verhaal. Net voordat ze sterft beseft Geertruide dat ze de drang naar zelfstandigheid van haar dochter meer waardeert dan ze haar ooit heeft getoond. De grote zaal is een juweel vol mededogen, over de eenzaamheid die ouderdom met zich mee kan brengen en over het onvermijdelijke einde van ieders leven.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jacoba van Velde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alleen voor hem]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447609114/alleen-voor-hem-tessa-bailey</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447609114/alleen-voor-hem-tessa-bailey"/>
+        <updated>2026-03-11T07:38:49.665Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447609114?aid=kb-online-bibliotheek&sid=20&dts=1773138554702&sig=b72184dc712379cdf6beec8585105787b9bb1bd1165d3332aca5f280ae791d59&width=320" alt="Omslag van 'Alleen voor hem'" title="Omslag van 'Alleen voor hem'">
+<p>Story Brooks is twee weken voor haar trouwdag gedumpt door haar verloofde. Alsof dat nog niet erg genoeg is, heeft haar vader, een beruchte onderhandelaar van de NYPD, net een hartaanval gehad. Story heeft geen contact met haar vader, maar omdat ze haar gevoelens over de verbroken verloving niet onder ogen wil zien, springt ze op het vliegtuig om de relatie met haar vader te herstellen voordat het te laat is. Daniel Chase is een knappe politieman, gespecialiseerd in onderhandelen met gijzelnemers. Hij is nog nooit door een vrouw afgewezen, dus als hij in het ziekenhuis door een knappe dame bij de snoepautomaat een blauwtje loopt, maakt hij er zijn missie van om haar te verleiden. Eén klein probleempje: ze is de dochter van zijn mentor, die hem expliciet heeft verboden om zijn dochter te versieren. Daniel en Story kunnen hun intense aantrekkingskracht niet weerstaan en beginnen een hete affaire. Maar wanneer er een aantal onverwachte geheimen onthuld worden, komt hun toch al verboden relatie onder druk te staan. Is er een toekomst voor Story en Daniel?  Alleen voor hem is het vierde deel in de spicy Line of Duty-serie, waarvan alle delen los van elkaar te lezen of luisteren zijn. Tessa Bailey werd beroemd met haar wereldwijde bestseller Een zomer vol verrassingen (It happened one summer). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tessa Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red flags]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444690174/red-flags-robin-venn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444690174/red-flags-robin-venn"/>
+        <updated>2026-03-11T07:38:50.069Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444690174?aid=kb-online-bibliotheek&sid=20&dts=1773135436030&sig=d2b433cc9863c3fc838ba66713a6e131bc345a3dd77f84d9187cc49a5cc65301&width=320" alt="Omslag van 'Red flags'" title="Omslag van 'Red flags'">
+<p>Een jonge vrouw probeert na een mislukte relatie haar leven weer op de rit te krijgen en gaat werken in een Amsterdams vijfsterrenhotel waar ze in de ban raakt van een mysterieuze gast. Met illustraties in zwart-wit.</p>]]></content>
+        <author>
+            <name>Robin Venn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Rode Olifant]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444687734/de-rode-olifant-kees--t-hart</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444687734/de-rode-olifant-kees--t-hart"/>
+        <updated>2026-03-11T07:38:50.875Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444687734?aid=kb-online-bibliotheek&sid=20&dts=1773134917342&sig=747a6a2fcf8d39dd73086d267667dd3efd7c5435fa09eb1e8ac9f7eec9cae204&width=320" alt="Omslag van 'De Rode Olifant'" title="Omslag van 'De Rode Olifant'">
+<p>Een expert op het gebied van winkel- en warenhuismanagement onderzoekt de mogelijkheden voor de oprichting van een warenhuismuseum in Den Haag. Zijn onderzoek brengt hem naar enkele internationale tentoonstellingen.</p>]]></content>
+        <author>
+            <name>Kees 't Hart</name>
         </author>
     </entry>
     <entry>
@@ -31,6 +326,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[In verlatenheid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456680284/in-verlatenheid-l-h--wiener</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456680284/in-verlatenheid-l-h--wiener"/>
+        <updated>2026-03-08T07:26:22.525Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456680284?aid=kb-online-bibliotheek&sid=20&dts=1772909580405&sig=247a77a67085a997aebdce157cc6db7654fa87ad351e298fbe3aa354633e0121&width=320" alt="Omslag van 'In verlatenheid'" title="Omslag van 'In verlatenheid'">
+<p>Nadat zijn Laatste Vriendin hem verlaten heeft gaat Lodewijk Wiener, gepensioneerd docent, gebrekkige minnaar en geboren schrijver, de wanhoop te lijf en op zoek naar een manier om de eenzaamheid te overwinnen. Hij blikt terug op zijn leven en legt vast wie hij was of had willen zijn, nu de onvermijdelijke Dood, nog wat talmend, maar onvermurwbaar, op weg is naar zijn huis. Niet anoniem passeren is tenslotte het credo van iedere schrijver. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>L.H. Wiener</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Waarden]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456680497/waarden-maja-g%C3%B6pel</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456680497/waarden-maja-g%C3%B6pel"/>
@@ -39,18 +345,6 @@
 <p>Hoe bied je de crisissen van deze wereld het hoofd? Om die vraag te beantwoorden duikt Maja Göpel in de geschiedenis van onze waarden. Waar komen ze vandaan, en hoe hebben ze ons als burgers gevormd? Waaraan kennen we gewicht toe? Göpel identificeert drie pijlers: vrijheid, solidariteit en rechtvaardigheid. Alleen zijn we die waarden meer en meer op het ‘ik’ gaan betrekken, en minder en minder op het ‘wij’. Om onze democratie te laten functioneren is het noodzakelijk om gezamenlijk op te trekken. Kunnen we de uitdagingen van de toekomst het hoofd bieden door de essentie van onze waarden opnieuw te onderzoeken? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Maja Göpel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man neemt vrouw]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45668087X/man-neemt-vrouw-eva-hofman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45668087X/man-neemt-vrouw-eva-hofman"/>
-        <updated>2026-03-08T07:26:21.689Z</updated>
-        <summary type="html"><![CDATA[Aantekeningen uit het patriarchaat]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45668087X?aid=kb-online-bibliotheek&sid=20&dts=1772879252778&sig=48998d091e50b0874ffd4921c427a073450fe01ef3f6c3e8944978f8f71b7145&width=320" alt="Omslag van 'Man neemt vrouw'" title="Omslag van 'Man neemt vrouw'">
-<p>De backlash tegen de overwinningen van het feminisme in de jaren 2010 wordt aangewakkerd en uitgebuit door zowel de politiek als grote sociale media. Op elke feministische golf volgt conservatieve backlash. Deze keer is die niet alleen sterker, maar door het vergrootglas van het internet ook zichtbaarder dan ooit. Onder mannen groeit een gevoel van machtsverlies, en verworven rechten staan weer onder druk. Eva Hofman onderzoekt de giftige tegenreactie van het patriarchaat: luidruchtig, ziedend en viral. Nieuwe generaties moeten niet alleen opnieuw beginnen aan een strijd die al besloten leek, maar zich ook wapenen tegen een door het internet versterkt conservatief geluid. Aan de hand van scherpe essays over klassieke misogynie, rechtse feministen en de hedendaagse digitale backlash laat Hofman zien hoe vrouwenhaat zich telkens opnieuw uitvindt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Eva Hofman</name>
         </author>
     </entry>
     <entry>
@@ -65,303 +359,6 @@
         </author>
         <author>
             <name>Peter Kee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In verlatenheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456680284/in-verlatenheid-l-h--wiener</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456680284/in-verlatenheid-l-h--wiener"/>
-        <updated>2026-03-08T07:26:22.525Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456680284?aid=kb-online-bibliotheek&sid=20&dts=1772909580405&sig=247a77a67085a997aebdce157cc6db7654fa87ad351e298fbe3aa354633e0121&width=320" alt="Omslag van 'In verlatenheid'" title="Omslag van 'In verlatenheid'">
-<p>Nadat zijn Laatste Vriendin hem verlaten heeft gaat Lodewijk Wiener, gepensioneerd docent, gebrekkige minnaar en geboren schrijver, de wanhoop te lijf en op zoek naar een manier om de eenzaamheid te overwinnen. Hij blikt terug op zijn leven en legt vast wie hij was of had willen zijn, nu de onvermijdelijke Dood, nog wat talmend, maar onvermurwbaar, op weg is naar zijn huis. Niet anoniem passeren is tenslotte het credo van iedere schrijver. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>L.H. Wiener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koeman]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444642692/koeman-jan-wester</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444642692/koeman-jan-wester"/>
-        <updated>2026-03-08T07:26:22.952Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444642692?aid=kb-online-bibliotheek&sid=20&dts=1772902920718&sig=95666ba96a824fcd232df170a54eef0282aada058d1332f742492b420caafe9f&width=320" alt="Omslag van 'Koeman'" title="Omslag van 'Koeman'">
-<p>Voor Jaap Koeman zijn alle dagen hetzelfde. Het ritme van de koeien bepaalt, alleen het contract met Campina doet ertoe. Tot Anne verschijnt en vader zegt dat er een kind moet komen om de toekomst van de boerderij veilig te stellen. Jaap knikt, zwijgend als altijd. Voor Anne biedt het moederschap de kans om te ontsnappen aan de klauwen van de god van honger. In deze duizelingwekkende hervertelling van een klassieke mythe broeit een vervreemdend verhaal over een kind dat nooit had mogen bestaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jan Wester</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dagen van melk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444642625/dagen-van-melk-jutta-chorus</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444642625/dagen-van-melk-jutta-chorus"/>
-        <updated>2026-03-08T07:26:23.448Z</updated>
-        <summary type="html"><![CDATA[De geschiedenis van ons familiebedrijf]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444642625?aid=kb-online-bibliotheek&sid=20&dts=1772954783043&sig=db28336d6cc23bcad4b15ad522c6a10ef1f3ee48d3ec72d90dc9473d4119e453&width=320" alt="Omslag van 'Dagen van melk'" title="Omslag van 'Dagen van melk'">
-<p>Zestien was Jutta’s opa toen hij in 1915 melk ging ophalen bij boeren in de buurt. Tegen de tijd dat Jutta werd geboren reed hij in een Mercedes en rookte hij dikke sigaren. Dit bijna Amerikaanse familieverhaal van armoe naar rijkdom speelt zich af tegen de wonderbaarlijke geschiedenis van de melkproductie in Nederland. Grootvader Leen Menken bracht met ‘Melk is goed voor elk’ de zuiveldrank aan de man en was de laatste particuliere melkproducent in Nederland. Door gesprekken met haar ooms en tantes, herinneringen van opa Leen en archiefonderzoek reconstrueert Chorus de opkomst en de nadagen van het familiebedrijf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jutta Chorus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Als je de stad binnenrijdt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394901029/als-je-de-stad-binnenrijdt-rob-waumans</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394901029/als-je-de-stad-binnenrijdt-rob-waumans"/>
-        <updated>2026-03-08T07:26:23.848Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394901029?aid=kb-online-bibliotheek&sid=20&dts=1772888957759&sig=3987952cfb8ca3662d5f7eb7968f09acbad90e00a560fa719c07ae7826e7670b&width=320" alt="Omslag van 'Als je de stad binnenrijdt'" title="Omslag van 'Als je de stad binnenrijdt'">
-<p>Een eenzame en wereldvreemde parkeerwachter voert met grote plichtsbetrachting, maar ook persoonlijke wraakgevoelens zijn werkzaamheden uit in Amsterdam-Oost.</p>]]></content>
-        <author>
-            <name>Rob Waumans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De nacht van Lolita]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394902440/de-nacht-van-lolita-rob-waumans</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394902440/de-nacht-van-lolita-rob-waumans"/>
-        <updated>2026-03-08T07:26:24.275Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394902440?aid=kb-online-bibliotheek&sid=20&dts=1772894520973&sig=3478467081bb767aa43fdc0c8cead48d4722259f1a623299b996f415717d9ffa&width=320" alt="Omslag van 'De nacht van Lolita'" title="Omslag van 'De nacht van Lolita'">
-<p>Een jongeman wil een droomdebuut schrijven, maar moet eerst in het reine komen met zijn verleden.</p>]]></content>
-        <author>
-            <name>Rob Waumans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luisteren &cetera]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/424438100/luisteren--cetera-pieter-steinz---bertram-mourits</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/424438100/luisteren--cetera-pieter-steinz---bertram-mourits"/>
-        <updated>2026-03-08T07:26:24.674Z</updated>
-        <summary type="html"><![CDATA[De popmuziek van de jaren vijftig tot nu in 104 klassieke albums]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424438100?aid=kb-online-bibliotheek&sid=20&dts=1772892112872&sig=9390e766b8332b25458e41bfd084b518b9e9bc38246b0990324e865b5652ce13&width=320" alt="Omslag van 'Luisteren &cetera'" title="Omslag van 'Luisteren &cetera'">
-<p>In ‘Luisteren &cetera’ vertellen Pieter Steinz en Bertram Mourits het fantastische verhaal van popmuziek in 104 klassieke albums en de artiesten die ze opnamen. De jeugd van tegenwoordig luistert naar Drake, maar ook naar The Smiths of ABBA – van alles door elkaar dus en zo hoort het ook. Maar Spotify Discover Weekly mag dan een geweldige manier zijn om onbekende muziek te leren kennen, je leert er niet van waarom Oasis iets weg heeft van The Beatles. Steinz en Mourits beschrijven hoe al die soorten muziek met elkaar in verband staan, waar ze vandaan komen en hoe ze uiteen gingen lopen. Ergens in de jaren vijftig, toen blues, gospel en country samenkwamen en met een big bang ontploften, ontstond het universum van de pop zoals we dat inmiddels kennen. In de jaren tachtig en negentig werden nieuwe stromingen als house en hiphop opgenomen in de veelzijdige tempel van de popmuziek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Pieter Steinz</name>
-        </author>
-        <author>
-            <name>Bertram Mourits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het koopinfuus]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439028051/het-koopinfuus-chantal-schinkels</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439028051/het-koopinfuus-chantal-schinkels"/>
-        <updated>2026-03-08T07:26:25.152Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439028051?aid=kb-online-bibliotheek&sid=20&dts=1772954784759&sig=9e15340454bddaa70b3bc05d1ed696bdfd30fef260d57ce52779a9d5ddda73cf&width=320" alt="Omslag van 'Het koopinfuus'" title="Omslag van 'Het koopinfuus'">
-<p>Je hebt het in een gesprek over een bepaald type sneakers en even later zie je van precies die sneakers online een advertentie. Toeval? Natuurlijk niet. Adverteerders en online retailers verzamelen op grote schaal data over consumenten die ze vervolgens weer inzetten om ons nóg meer te laten kopen. Ze gaan steeds verder in hun drang naar meer data en meer conversie – zonder zich de vraag te stellen of hun werkwijze wel ethisch verantwoord is. Online shoppen is een casino geworden waarbij alles erop is gericht om je door te laten spelen. Uit onderzoek blijkt dat 97 procent van de meest gebruikte webshops een vorm van misleiding bevat, van artikelen die ongevraagd worden toegevoegd aan je winkelmandje tot accounts die bijna onmogelijk zijn te verwijderen. Er zit dataverzameling op hoog niveau achter, die heel bewust wordt ingezet om ons koopverslaafd te maken. En dat geldt niet alleen voor de bekende big tech-bedrijven zoals Google en Amazon: ook in Nederland worden we op grote schaal aan het koopinfuus gelegd. In dit boek onderzoekt Chantal Schinkels welke grenzen we precies overgaan en laat ze zien waarom (zelf)regulering keihard nodig is. Daarbij biedt ze bedrijven die wél ethisch verantwoord willen gaan werken een heldere blauwdruk en geeft ze een aanzet voor een nieuwe ethische code voor de hele sector. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Chantal Schinkels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verborgen in de schaduw]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443056633/verborgen-in-de-schaduw-viveca-sten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443056633/verborgen-in-de-schaduw-viveca-sten"/>
-        <updated>2026-03-08T07:26:25.480Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443056633?aid=kb-online-bibliotheek&sid=20&dts=1772879233285&sig=573515e708fc57161c6ee65c0b3b9b7912c6c93de5b01132d828907471bf1293&width=320" alt="Omslag van 'Verborgen in de schaduw'" title="Omslag van 'Verborgen in de schaduw'">
-<p>Verborgen in de schaduw van thrillerauteur Viveca Sten is het bloedstollende vervolg op de internationale bestseller Verborgen in de sneeuw.</p><p> In het prachtige skioord Åre is moord zeldzaam, en al helemaal zoals die op voormalig olympisch skiër Johan Andersson, die vastgebonden en doodgeslagen in het bos wordt aangetroffen. Maar wat heeft zo'n woede kunnen uitlokken? En bij wie?</p><p> Terwijl rechercheurs Hanna Ahlander en Daniel Lindskog zich een weg proberen te banen door de groeiende lijst van verdachten, ontdekken ze dat de moord op Andersson slechts het begin is van een verontrustende, nog grotere zaak…</p><p> 'Sten levert een bloedstollend vervolg op Verborgen in de sneeuw en duikt diep in het leven van haar personages, wat zorgt voor een genuanceerd en emotioneel verhaal.' Publishers Weekly </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Viveca Sten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De val van Tammy Davidson]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44031951X/de-val-van-tammy-davidson-lex-passchier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44031951X/de-val-van-tammy-davidson-lex-passchier"/>
-        <updated>2026-03-08T07:26:25.314Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44031951X?aid=kb-online-bibliotheek&sid=20&dts=1772891636573&sig=0e6d066dd882bb9cc47905aace95bb0c17b14c3423b137d48d9b6be3ca0f7b93&width=320" alt="Omslag van 'De val van Tammy Davidson'" title="Omslag van 'De val van Tammy Davidson'">
-<p>Een onweerstaanbare pageturner van Lex Passchier, de prijswinnende schrijver van hitseries als Oogappels en Gooische Vrouwen.</p><p> Puck maakt tijdens een kampeervakantie in Zuid-Frankrijk iets gruwelijks mee. Haar lot lijkt onlosmakelijk verbonden met dat van Jonathan, een voortvluchtige moordenaar. Maar wat is de connectie? Tijdens de klopjacht op Jonathan belandt rechercheur Cees Vermunt in Griekenland, waar een jonge vrouw meer weet. Lukt het om, in een race tegen de klok, Jonathan te vinden en een nog groter onheil te voorkomen?</p><p> Een fenomenaal gecomponeerde thriller vol plotwendingen, waarin de spanning virtuoos wordt opgeschroefd en alle verhaallijnen in een zinderende finale bij elkaar komen.</p><p> Lex Passchier(1976) werkte als script-editor en scenarioschrijver mee aan televisieseries als Baantjer, Grijpstra & De Gier, Spangen, Moordvrouw, Heer & Meester, Diepe Gronden, De 12 van Oldenheim en De 12 van Schouwendam. Hij schrijft scenarios voor de hitserie Oogappels en voor de nieuwe reeks van Gooische vrouwen.</p><p> Over  De val van Tammy Davidson :  Spannend, sfeervol, slim en ontroerend. De liefde van Passchier voor zijn personages en hun (binnen)wereld is voelbaar tot de laatste pagina. Ik had allerlei deadlines, maar zodra ik begon te lezen heb ik die opgeschoven. Lang leve Tammy Davidson! Elvin Post, schrijver van De cursus </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lex Passchier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een voor een]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344850/een-voor-een-freida-mcfadden</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344850/een-voor-een-freida-mcfadden"/>
-        <updated>2026-03-08T07:26:25.659Z</updated>
-        <summary type="html"><![CDATA[Slechts een van hen zal levend thuiskomen...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344850?aid=kb-online-bibliotheek&sid=20&dts=1772878773609&sig=5cc669ee9267f37716d185d673c1fb8e12f89728cbbd19cad1fcb5ef8c74dbbc&width=320" alt="Omslag van 'Een voor een'" title="Omslag van 'Een voor een'">
-<p>Een nacht slapen op de koude grond, omringd door bladeren — zo had Claire Matchett zich haar vakantie niet voorgesteld. Dit zou juist een ontsnapping worden aan de stress van haar werk en de zorg voor haar jonge kinderen. Een kans om te werken aan haar vastgelopen huwelijk. Een ontspannen week wandelen en bubbelen in een jacuzzi, samen met twee bevriende stellen. Het klonk als de perfecte getaway. Maar dan begeeft Claire's minivan het op een verlaten zandweg. Zonder bereik op hun telefoons zit er niks anders op dan te voet verder te gaan naar het hotel. Alleen blijken de bossen minder eenvoudig te doorkruisen dan ze hadden gedacht. Uren later zijn ze verdwaald. Hopeloos verdwaald. En terwijl ze dieper het bos in trekken, wordt de groep stukje bij beetje kleiner. Eén voor één valt er iemand weg, op mysterieuze wijze. Worden ze gevolgd door een roofdier? Of komt het gevaar van binnenuit?Wat het ook is — hoe langer het duurt, hoe duidelijker het wordt: Slechts één van hen zal levend thuiskomen.</p><p>'Als je van bloedstollende spanning houdt, móét je de boeken van Freida McFadden lezen.' - Libelle </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Freida McFadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De moord op Evert Hingst]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344540/de-moord-op-evert-hingst-bregje-bleeker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344540/de-moord-op-evert-hingst-bregje-bleeker"/>
-        <updated>2026-03-08T07:26:25.828Z</updated>
-        <summary type="html"><![CDATA[Mijn spannende zoektocht naar de moord op consigliere Evert Hingst en de opkomst van de witteboordencriminaliteit]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344540?aid=kb-online-bibliotheek&sid=20&dts=1772890705987&sig=cac408c1ff9ee56eaa73c389d2f6a698911ded22e9df055d6c233c94a4635b11&width=320" alt="Omslag van 'De moord op Evert Hingst'" title="Omslag van 'De moord op Evert Hingst'">
-<p>Waarom fascineren drugsbaronnen ons meer dan corrupte advocaten? Bregje Bleeker duikt in de onderwereld van witteboordencriminaliteit en onthult waarom deze misdaad zo gevaarlijk onzichtbaar blijft. 2005, Amsterdamse Beethovenbuurt: advocaat Evert Hingst wordt vermoord. Hij wordt het symbool van ondermijning, de fatale vermenging van nette beroepen met georganiseerde misdaad. Maar wie was deze man eigenlijk? Bregje Bleeker schreef een spannende journalistieke onderzoek. Bleeker reconstrueert niet alleen Hingst's leven, maar legt de explosieve groei bloot van witteboordencriminaliteit in Nederland. Ze interviewt topcriminelen zoals Mink Kok, advocaten, wetenschappers en rechercheurs die het systeem van binnenuit kennen. Ze baseerde haar verhaal op vele interviews met topcriminelen zoals Mink Kok, advocaten, wetenschappers en recherche én op haar eerdere persoonlijke ervaringen met het criminele milieu waarin Hingst rondliep. En passant lost ze de moord op hem op. Bleeker toont aan waarom we bankrovers wel crimineel vinden, maar belastingontduikers vaak niet. Ze analyseert hoe advocaten en notarissen cruciale schakels werden in witwasoperaties en drugshandel. Perfect voor liefhebbers van onderzoeksjournalistiek en true crime die verder willen kijken dan gewelddadige misdaad. Bleeker gebruikt haar persoonlijke ervaringen met het criminele milieu om toegang te krijgen tot verhalen die anders onverteld zouden blijven. Ontdek hoe witteboordencriminaliteit onze samenleving ondermijnt en waarom Hingst's moord veel meer onthult dan alleen één tragische dood. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bregje Bleeker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Femke Halsema]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344303/femke-halsema-david-hielkema---tim-wagemakers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344303/femke-halsema-david-hielkema---tim-wagemakers"/>
-        <updated>2026-03-08T07:26:25.994Z</updated>
-        <summary type="html"><![CDATA[Burgemeester van Amsterdam]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344303?aid=kb-online-bibliotheek&sid=20&dts=1772882778699&sig=2955241bb40045bf5d36ef7584f3a1899372b7b183b8623f17804bf72344794a&width=320" alt="Omslag van 'Femke Halsema'" title="Omslag van 'Femke Halsema'">
-<p>Femke Halsema is een van de meest geliefde en verguisde bestuurders van Nederland. Sinds haar aantreden als burgemeester van de hoofdstad staat ze weer volop in de belangstelling. Uit gesprekken met meer dan honderd mensen in haar omgeving en een ongekende toegang tot de Stopera rijst nu een nieuw beeld op van de eigenzinnige wijze waarop Halsema haar ambt invult. Wat betekent het om de eerste vrouwelijke burgemeester te zijn in de 750-jarige geschiedenis van Amsterdam? Hoe gaat ze te werk? Van de thriller rond haar benoeming en de coronaprotesten tot haar herbenoeming en de spanningen in de stad na 7 oktober 2023: in Femke Halsema komen Hielkema en Wagemakers dichterbij dan ooit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>David Hielkema</name>
-        </author>
-        <author>
-            <name>Tim Wagemakers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Werk als een monnik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344265/werk-als-een-monnik-shoukei-matsumoto</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344265/werk-als-een-monnik-shoukei-matsumoto"/>
-        <updated>2026-03-08T07:26:26.157Z</updated>
-        <summary type="html"><![CDATA[Boeddhistische lessen voor het moderne werkende leven]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344265?aid=kb-online-bibliotheek&sid=20&dts=1772902571268&sig=3e91bc64be87d126bcaf7a0d0e14f92140bd9afea9484ec7d12a48c55c42db49&width=320" alt="Omslag van 'Werk als een monnik'" title="Omslag van 'Werk als een monnik'">
-<p>Tijdens lange werkdagen met een eindeloze hoeveelheid e-mails en monnik saaie videocalls voelen we soms alleen nog maar een sleur. Zou het niet anders kunnen? In Werk als een monnik biedt de Japanse boeddhistische monnik Shoukei Matsumoto een frisse kijk op werkgeluk. In de vorm van een gesprek tussen een zakenman en een tempelmonnik verkent hij alles van de eenvoud omarmen en helder communiceren tot het voorkomen van een burn-out en het belang van dagelijkse rituelen. Onderweg ontdek je eeuwenoude wijsheden en hedendaagse inzichten – allemaal doordacht toegepast op het moderne leven. Van net afgestudeerden tot ervaren professionals: de gesprekken in dit boek bieden betekenisvolle handvatten voor een bewustere weg voorwaarts. Met Werk als een monnik vind je rust in de drukte en een diepere voldoening in je dagelijkse werk en leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Shoukei Matsumoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De crash]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344346/de-crash-freida-mcfadden</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344346/de-crash-freida-mcfadden"/>
-        <updated>2026-03-08T07:26:26.310Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344346?aid=kb-online-bibliotheek&sid=20&dts=1772871782689&sig=1d922c44a3c7e5b3550e4355947b2f68cdacef79af7fca447e118a904c1efd20&width=320" alt="Omslag van 'De crash'" title="Omslag van 'De crash'">
-<p>Tegan is acht maanden zwanger, alleen en probeert wanhopig om haar leven op de rit de krijgen. Terwijl ze onderweg is naar haar broer, rijdt ze recht op een sneeuwstorm af. Gestrand op het platteland van Maine vraagt Tegan zich af of ze geen enorme fout heeft gemaakt. Dan wordt ze gered door een stel dat haar onderdak biedt. Maar er klopt iets niet. Tegan moet er alles aan doen om zichzelf en haar ongeboren kind te redden.</p><p>'Als je van bloedstollende spanning houdt, móét je de boeken van Freida McFadden lezen' - Libelle </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Freida McFadden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het grote klusboek]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344206/het-grote-klusboek-sjaak-vane</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344206/het-grote-klusboek-sjaak-vane"/>
-        <updated>2026-03-08T07:26:26.552Z</updated>
-        <summary type="html"><![CDATA[Durven, doen, doorzetten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344206?aid=kb-online-bibliotheek&sid=20&dts=1772954786391&sig=55a71cc479e63f73e9b7bb7ea381a555c0e6f16e91b40541e783d0421725609a&width=320" alt="Omslag van 'Het grote klusboek'" title="Omslag van 'Het grote klusboek'">
-<p>Een stekker monteren, een tuintafel timmeren of je huis opknappen: we willen het graag zelf kunnen. Maar hoe te beginnen? In Het grote klusboek legt klusser Sjaak Vane glashelder uit hoe je spijkert, schroeft, zaagt en schuurt. Hij maakt je wegwijs in de bouwmarkt en laat stap voor stap zien hoe je kleine en grote klussen in huis aanpakt. Van een lamp ophangen en een kozijn schilderen tot het isoleren van de zolder. Helder en met humor vertelt hij over zijn succesprojecten én over zijn blunders. Klussen is durven, doen en doorzetten. Met dit boek verleg je steeds weer je grenzen. Ga aan de slag. Je kunt meer dan je denkt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sjaak Vane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morlands schaduw]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344370/morlands-schaduw-cherry-duyns</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344370/morlands-schaduw-cherry-duyns"/>
-        <updated>2026-03-08T07:26:26.724Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344370?aid=kb-online-bibliotheek&sid=20&dts=1772891611103&sig=f1f4db94c773770ca7b183a441553e97f8a080c190f55f857a571e0af41188c1&width=320" alt="Omslag van 'Morlands schaduw'" title="Omslag van 'Morlands schaduw'">
-<p>Een man kijkt uit over zee, op een Waddeneiland in de nazomer. In de stilte en de rust probeert hij zich neer te leggen bij de pensionering die hem is opgelegd. Herinneringen zoeken hem op, aan zijn jongensjaren in de droomwereld van de bioscoop waar zijn flamboyante vader directeur was; aan zijn afgebrokkelde bestaan als maker van muziekdocumentaires. En dan schrijft een vrouw hem: is hij de halfbroer naar wie zij al zo lang op zoek is? Wie is die vrouw?  Nieuwsgierigheid wint het van tegenzin. Hij reist met haar mee naar IJsland waar haar leven zich afspeelde. Daar breekt haar geheim open en kantelt zijn verleden. In Morlands schaduw weet Cherry Duyns intense gevoelens van verlies, verzet en schoonheidservaring op te roepen. In het decor van zee, vogels en duinen is Morlands schaduw een melancholische roman waarin adembenemende ruimte en vergeefsheid de lezer in de ban houden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Cherry Duyns</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dood in Berlijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344648/dood-in-berlijn-christoph-peters</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344648/dood-in-berlijn-christoph-peters"/>
-        <updated>2026-03-08T07:26:26.981Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344648?aid=kb-online-bibliotheek&sid=20&dts=1772954786817&sig=bb79d3d9e71160752741f3d02add0807208f1f5c6f6d5009b94a1929355d634a&width=320" alt="Omslag van 'Dood in Berlijn'" title="Omslag van 'Dood in Berlijn'">
-<p>Berlijn, 9 november 2022. Terwijl de oorlog in Oekraïne Duitsland in zijn greep houdt, opent in een vooraanstaande galerie de eerste solotentoonstelling van de jonge kunstenaar Fabian Kolb. Een avond die zijn doorbraak zou moeten betekenen. Fabians ouders reizen ervoor af uit Krefeld, zijn oom – partij-ideoloog van Neue Rechte in de Bondsdag – overweegt zijn opwachting te maken, en zijn vader ruikt kansen voor zijn netwerk. Maar hoe dichter het openingsmoment nadert, hoe groter Fabians innerlijke onrust wordt. Dood in Berlijn is een indringende, actuele roman over kunst en geweten, over familie en morele compromissen – midden in het spanningsveld van onze tijd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Christoph Peters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wanneer de wereld slaapt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344591/wanneer-de-wereld-slaapt-francesca-albanese</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344591/wanneer-de-wereld-slaapt-francesca-albanese"/>
-        <updated>2026-03-08T07:26:27.139Z</updated>
-        <summary type="html"><![CDATA[Verhalen, woorden en wonden uit Palestina]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344591?aid=kb-online-bibliotheek&sid=20&dts=1772953982676&sig=9b977b668535ca1b1a3be73ca1e15686986c42f4f83120e1b6dac998b37d9b30&width=320" alt="Omslag van 'Wanneer de wereld slaapt'" title="Omslag van 'Wanneer de wereld slaapt'">
-<p>Hoe is het mogelijk dat de waarheid leugen is geworden en de leugen waarheid?' In Wanneer de wereld slaapt biedt Francesca Albanese, speciaal VN-rapporteur, een indringend en persoonlijk beeld van Palestina. Aan de hand van tien portretten – van kinderen zonder thuis tot oorlogschirurgen – brengt ze de systematische onderdrukking en de actuele genocide in Gaza helder in kaart. Met deze diepmenselijke verhalen toont ze de ontluisterende realiteit, maar ook de onvoorstelbare veerkracht van een volk dat beroofd is van zijn thuis, stem en toekomst. Onverschrokken stelt Albanese vragen die soms te ingewikkeld zijn om te beantwoorden. Maar als één ding duidelijk wordt in dit boek, is het wel dat de wereld zich niet langer aan deze vragen kan onttrekken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Francesca Albanese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waarom (n)iemand bij je wil werken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344192/waarom--n-iemand-bij-je-wil-werken-jesse-geul</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344192/waarom--n-iemand-bij-je-wil-werken-jesse-geul"/>
-        <updated>2026-03-08T07:26:27.303Z</updated>
-        <summary type="html"><![CDATA[Dé no-nonsenseaanpak van recruitment]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344192?aid=kb-online-bibliotheek&sid=20&dts=1772950826120&sig=38e47ab050b40124f8cc1e8c5c78cd33a9b3ce668e3b3c6d3d4fa48859fa78c1&width=320" alt="Omslag van 'Waarom (n)iemand bij je wil werken'" title="Omslag van 'Waarom (n)iemand bij je wil werken'">
-<p>Moeite met het vinden van de juiste mensen? Je bent niet de enige. Openstaande vacatures, kandidaten die afhaken of de verkeerde mensen die aangenomen worden – terwijl de oplossing vaak verrassend simpel is. In dit boek laat Jesse Geul zien waarom het zo vaak misgaat: slechte vacatureteksten, trage procedures, oppervlakkige gesprekken. Hij fileert de fouten (zei er iemand marktconform salaris?) en geeft je concrete alternatieven die wél werken. Geen droge theorie maar scherp, geestig en direct toepasbaar. Van vacatures die de juiste mensen aantrekken tot sollicitatiegesprekken die de beste kandidaat opleveren. Offboarding? Minstens zo belangrijk als onboarding. Salaris? Altijd vermelden (ja, echt). Met dit boek maak je recruitment eerlijker, menselijker en véél effectiever. Een must-read voor iedereen die wil leren hoe sollicitanten denken, hoe je daarop inspeelt en hoe je je onderscheidt als werkgever. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jesse Geul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winterstrijders]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344710/winterstrijders-olivier-norek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344710/winterstrijders-olivier-norek"/>
-        <updated>2026-03-08T07:26:27.456Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344710?aid=kb-online-bibliotheek&sid=20&dts=1772891776066&sig=d7a08a0824829f9d8736fd4cface95ccd45e87421811168a50a98a83addebe96&width=320" alt="Omslag van 'Winterstrijders'" title="Omslag van 'Winterstrijders'">
-<p>'Eén enkele man kan de loop van de geschiedenis veranderen. In het hart van mogelijk de barste winter die het land ooit kende, in het hart van mogelijk de bloederigste oorlog die het ooit voerde, was Finland getuige van de geboorte van een legende in de gedaante van de scherpschutter Simo Häyhä, alias de Witte Dood.'</p><p>November 1939. Het oppermachtige Rode Leger van Stalin valt Finland binnen. Een klein land waar arbeiders en boeren het met oude jachtgeweren moeten opnemen tegen een miljoenenlegioen van geharde beroepssoldaten. Tijdens deze Winteroorlog groeit één boerenzoon uit tot een legendarische scherpschutter: de Witte Dood. Zijn dodelijke trefzekerheid staat symbool voor wie zijn eigen huis en haard moet verdedigen, en met zijn heldhaftige vastberadenheid verandert hij de loop van de geschiedenis. Winterstrijders vertelt het bloedstollende verhaal over heldenmoed onder onmogelijke omstandigheden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Olivier Norek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ik weet dat jij weet dat ik het weet]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344745/ik-weet-dat-jij-weet-dat-ik-het-weet-steven-pinker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344745/ik-weet-dat-jij-weet-dat-ik-het-weet-steven-pinker"/>
-        <updated>2026-03-08T07:26:27.624Z</updated>
-        <summary type="html"><![CDATA[De impact van gemeenschappelijke kennis op macht, relaties en het dagelijkse leven]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344745?aid=kb-online-bibliotheek&sid=20&dts=1772944961827&sig=a49ede6286fd9341a6ee3aa0510d7a1e717124bb3975d1dafa2a6818678d231d&width=320" alt="Omslag van 'Ik weet dat jij weet dat ik het weet'" title="Omslag van 'Ik weet dat jij weet dat ik het weet'">
-<p>Zonder dat we er ons bewust van zijn denken wij continu over elkaars gedachten over elkaars gedachten, tot in het oneindige. Dit wordt in de psychologie gemeenschappelijke kennis ('common knowledge') genoemd en Steven Pinker laat zien dat dit een enorme impact heeft op ons sociale, politieke en economische leven. Gemeenschappelijke kennis is nodig voor het maken van willekeurige maar complementaire keuzes zoals rechts rijden, en zich verenigen achter een politieke leider of beweging. Maar mensen doen ook hun best om gemeenschappelijke kennis te vermijden: zo doen we soms of we de olifant in de kamer niet zien. Pinker laat zien hoe de verborgen logica van gemeenschappelijke kennis veel mysteries van het leven kan verklaren: financiële bubbels en crashes, revoluties die uit het niets lijken te komen, de uitbarsting van shaming op sociale media en academische cancelcultuur en de ongemakkelijkheid van een eerste date. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Steven Pinker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prins van de wolken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344559/prins-van-de-wolken-gianni-riotta</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344559/prins-van-de-wolken-gianni-riotta"/>
-        <updated>2026-03-08T07:26:27.862Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344559?aid=kb-online-bibliotheek&sid=20&dts=1772954787701&sig=9bc534bf85d8340acd528d615fa6cb6bbdb582590f6f15fa2629f7507c83e746&width=320" alt="Omslag van 'Prins van de wolken'" title="Omslag van 'Prins van de wolken'">
-<p>Palermo, 1945. Een gebombardeerde stad vol naoorlogse onrust. Kolonel Carlo Terzo, een expert op het gebied van militaire geschiedenis en een briljant strateeg, heeft zich hier teruggetrokken met zijn vrouw, die ernstig ziek is. De kolonel heeft het gevoel dat hij heeft gefaald: hij kent de hele militaire geschiedenis uit zijn hoofd, maar heeft zelf nog nooit gevochten, laat staan een dode gezien. Zijn leven verandert als twee jonge geliefden elkaar met zijn toestemming heimelijk in zijn huis ontmoeten. Via hen komt hij in contact met de communistische beweging, en met boeren die rebelleren tegen de grootgrondbezitters. Tegen wil en dank raakt de kolonel betrokken bij hun strijd, en krijgt hij ineens toch nog de kans zijn eigen strijd te voeren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Gianni Riotta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het versnellingseffect]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344656/het-versnellingseffect-farid-tabarki---joey-hullegie</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344656/het-versnellingseffect-farid-tabarki---joey-hullegie"/>
-        <updated>2026-03-08T07:26:28.551Z</updated>
-        <summary type="html"><![CDATA[De kunst van strategisch navigeren in een steeds sneller veranderende wereld]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344656?aid=kb-online-bibliotheek&sid=20&dts=1772954788384&sig=4fd753810eda9b5e0d899013baa2edb7c814f7cd6d726abe842aa305d25f3051&width=320" alt="Omslag van 'Het versnellingseffect'" title="Omslag van 'Het versnellingseffect'">
-<p>De wereld verandert niet alleen snel – de verandering zélf versnelt. Technologie en informatie stuwen elkaar op, autoriteit brokkelt af, fysieke grenzen verliezen betekenis, en zelfs het idee van wie wij als mens zouden moeten zijn staat op losse schroeven. Farid Tabarki en Joey Hullegie zien door de chaos heen. Met een rijk register aan voorbeelden – van ondergrondse schimmelnetwerken tot de strategie van een superheldenteam, van managementtheorie tot nachtclub – tonen ze hoe onze tijd niet meer wordt gevormd door één grote uitvinding, maar door het moordende tempo van verandering zelf.</p><p>‘Het versnellingseffect’ biedt houvast én strategie voor iedereen die niet achter de feiten aan wil lopen. Ontdek hoe je als samenleving, organisatie en professional de versnelling van valkuil verandert in een bondgenoot.</p><p>‘Een uitnodigende gids voor iedereen die wil werken aan een veerkrachtige samenleving en onderweg zelf wil meebewegen.’ - Laurentien van Oranje</p><p>‘In sport en in leiderschap draait het om het vermogen om je aan te passen. Het versnellingseffect laat zien hoe diezelfde wendbaarheid nu van ons allemaal gevraagd wordt.’ - Clarence Seedorf, ex-topvoetballer, ondernemer </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Farid Tabarki</name>
-        </author>
-        <author>
-            <name>Joey Hullegie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hofdames]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344427/hofdames-marjan-berk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344427/hofdames-marjan-berk"/>
-        <updated>2026-03-08T07:26:28.718Z</updated>
-        <summary type="html"><![CDATA[Verhalen uit een eigenzinnig Amsterdams hofje]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344427?aid=kb-online-bibliotheek&sid=20&dts=1772876238160&sig=cabdd49453d827e7a68feacb3165978b426a0a906d377d8cdfe453a6e5338fb2&width=320" alt="Omslag van 'Hofdames'" title="Omslag van 'Hofdames'">
-<p>Sinds enige jaren woont Marjan Berk in het Occohofje aan de Nieuwe Keizersgracht te Amsterdam. Het werd in 1758 gesticht door de zakenvrouw Cornelia Occo, die zich hardmaakte voor zelfstandige woonruimte voor onbemiddelde bejaarde vrouwen, weduwen en wezen. Meer dan tweehonderdvijftig jaar later wordt het hofje nog altijd uitsluitend bewoond door vrouwen. Met de haar zo kenmerkende vrolijke nieuwsgierigheid vertelt Berk de bijzondere, grappige en vaak ontroerende verhalen van de huidige bewoonsters. Geïnspireerd door de nog altijd actuele ideeën van Cornelia Occo geeft ze een liefdevol inkijkje in de eigenzinnige vrouwenlevens die in het Amsterdamse hofje samenkomen. Berk laat zien: sterke, onafhankelijke vrouwen zijn van alle tijden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marjan Berk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vintage forever]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344613/vintage-forever-anouk-oc%C3%A9anne</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344613/vintage-forever-anouk-oc%C3%A9anne"/>
-        <updated>2026-03-09T07:45:39.976Z</updated>
-        <summary type="html"><![CDATA[Van roaring twenties tot Y2K: jouw ultieme vintage-gids]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344613?aid=kb-online-bibliotheek&sid=20&dts=1773042274800&sig=bc546d2aa4652cef92a9247d9789237fa38bd424ff0777fe942ef53f96a934a7&width=320" alt="Omslag van 'Vintage forever'" title="Omslag van 'Vintage forever'">
-<p>Of je nu een beginnende speurder of een ervaren schatgraver bent, met deze prachtig vormgegeven gids weet je voortaan:Hoe je via het waslabel de precieze leeftijd van je Levi's jeans kunt achterhalenDat modebewust écht iets anders is dan stijlvol, en hoe je van trendgebonden naar tijdloos gaatOf die Louis Vuitton-tas voor een prikkie op een rommelmarkt niet te mooi is om waar te zijnWaarom vintage dragen óók verzet is tegen het uitbuitende modesysteemEn waarom Chanel eigenlijk zo iconisch is; en Paris Hilton stiekem ook Anouk Océanne lééft voor vintage. Al meer dan 15 jaar struint ze alle winkels, markten en thriftshops af, op zoek naar dat ene perfecte jasje of die iconische designertas. Ze had zelfs haar eigen vintagewinkel in Amsterdam. In deze toegankelijke gids biedt ze een moderne kijk op tijdloze kleding. Ze deelt haar geheimen voor het vinden van de mooiste en meest unieke stukken en laat zien hoe je je kunt laten inspireren door de iconische stijlen van de afgelopen eeuw. Van stijl voorbij de trends tot het onderhouden van je vintage pieces – Vintage forever geeft je alle tools om een garderobe op te bouwen waar je voor altijd van zult houden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Anouk Océanne</name>
         </author>
     </entry>
 </feed>
