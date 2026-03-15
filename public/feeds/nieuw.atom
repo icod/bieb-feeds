@@ -2,66 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-03-14T07:30:43.526Z</updated>
+    <updated>2026-03-15T07:39:33.405Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
-        <title type="html"><![CDATA[Een ansichtkaart van Puffin Island]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344214/een-ansichtkaart-van-puffin-island-christie-barlow</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344214/een-ansichtkaart-van-puffin-island-christie-barlow"/>
-        <updated>2026-03-13T07:39:21.954Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344214?aid=kb-online-bibliotheek&sid=20&dts=1773336088252&sig=72e64ce85e4808b56795ac9c4bc01c977724380a214654962b39d56831c29bae&width=320" alt="Omslag van 'Een ansichtkaart van Puffin Island'" title="Omslag van 'Een ansichtkaart van Puffin Island'">
-<p>Een oude ansichtkaart gooit het leven van een jonge dertiger op zijn kop. In plaats van een geplande tour door Europa, besluit ze af te reizen naar een afgelegen eiland, vastbesloten om een geheim uit haar oma’s verleden te ontrafelen. Wat daar gebeurt, zal haar leven voorgoed veranderen.</p>]]></content>
+        <title type="html"><![CDATA[3PAK Goed Verhaal 2025]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453633455/3pak-goed-verhaal-2025-buddy-tegenbosch---dilan-yurdakul---maartje-wortel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453633455/3pak-goed-verhaal-2025-buddy-tegenbosch---dilan-yurdakul---maartje-wortel"/>
+        <updated>2026-03-15T07:39:32.077Z</updated>
+        <summary type="html"><![CDATA[3x een goed verhaal]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453633455?aid=kb-online-bibliotheek&sid=20&dts=1773514867863&sig=b0f157328731b9c5a56f7d9fec95978948f16c444c46a8986bb46bed67c766c7&width=320" alt="Omslag van '3PAK Goed Verhaal 2025'" title="Omslag van '3PAK Goed Verhaal 2025'">
+<p>3PAK  3x een goed verhaal</p><p>Buddy Tegenbosch  Uithaler  Melvin haalt voor een crimineel netwerk drugs uit containers in de haven. Het is snel money maken. Maar je moet ook op tijd kappen. Daarom is dit écht de allerlaatste keer.</p><p>Dilan Yurdakul  Je bent een meisje  Wat als het thuis heel anders is dan buiten? Als je naveltruitjes wilt dragen en verliefd wordt, maar moeder en oma alles 'ongepast' vinden. Een jonge vrouw groeit op tussen vrijheid en beperking.</p><p>Maartje Wortel  Kiespijn  Dries is een denker. Maar wie niet kan kiezen komt tot niets, zegt zijn vader. Je moet schijt hebben en dóén, zeggen zijn vrienden. Maar is denken ook niet doen? Een verhaal over hoe keuzes je leven kunnen beïnvloeden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Christie Barlow</name>
+            <name>Buddy Tegenbosch</name>
+        </author>
+        <author>
+            <name>Dilan Yurdakul</name>
+        </author>
+        <author>
+            <name>Maartje Wortel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mi casa Peru]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344567/mi-casa-peru-katinka-lansink-dodero</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344567/mi-casa-peru-katinka-lansink-dodero"/>
-        <updated>2026-03-13T07:39:20.354Z</updated>
-        <summary type="html"><![CDATA[80 recepten uit de Peruaanse keuken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344567?aid=kb-online-bibliotheek&sid=20&dts=1773336448108&sig=01fd7d20afdca17d06cdd62d799f23c46eb0a6c2c4afeb8b997f0e30890439d4&width=320" alt="Omslag van 'Mi casa Peru'" title="Omslag van 'Mi casa Peru'">
-<p>Ontdek de rijke keuken van Peru in dit Peruaanse kookboek van Katinka Lansink Dodero. Maak kennis met kleurrijke gerechten, comfortfood en cocktails, elk op smaak gebracht met prachtige verhalen. De recepten in Mi casa Peru zijn eenvoudig te bereiden, met makkelijk verkrijgbare ingrediënten. Maak bijvoorbeeld groene bierrijst met eend, jackfruitnacho’s met salsa en natuurlijk diverse variaties op de Peruaanse trots ceviche – en beleef Peru op zijn puurst.</p><p>Katinka Lansink Dodero kreeg van haar ouders de liefde voor de Peruaanse keuken mee. En van deze magische keuken heeft ze haar thuis gemaakt. Katinka is culinair adviseur, geeft kookworkshops en ontwikkelt Peruaanse recepten voor restaurants. Met haar merk cevicheceviche zet ze de Peruaanse keuken op de kaart. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De avonturen van Kareltje (toen hij nog niet krom stond)]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344362/de-avonturen-van-kareltje--toen-hij-nog-niet-krom-stond--kevin-hassing</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344362/de-avonturen-van-kareltje--toen-hij-nog-niet-krom-stond--kevin-hassing"/>
+        <updated>2026-03-13T07:39:16.111Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344362?aid=kb-online-bibliotheek&sid=20&dts=1773343648806&sig=d4f41c5232bb26f73df4ff9ea4d31ce3b76245008e100e670950435eb81a2273&width=320" alt="Omslag van 'De avonturen van Kareltje (toen hij nog niet krom stond)'" title="Omslag van 'De avonturen van Kareltje (toen hij nog niet krom stond)'">
+<p>Kareltje en Hinkelien wonen in een woonwagen waarmee ze vaak theaterstukken opvoeren. Als ze aankomen in een nieuw dorp, ontdekken ze dat de inwoners gepest worden. Daar moeten ze iets aan doen... Met gekleurde illustraties. Voorlezen vanaf ca. 6 jaar, zelf lezen vanaf ca. 9 jaar.</p>]]></content>
         <author>
-            <name>Katinka Lansink Dodero</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stormpaard]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344826/stormpaard-holly-surplice</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344826/stormpaard-holly-surplice"/>
-        <updated>2026-03-13T07:39:20.914Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344826?aid=kb-online-bibliotheek&sid=20&dts=1773344564483&sig=5466fee1ca652a4e0e9f66a32216c6d4fc9625e6076621a652a4d9cbbd764215&width=320" alt="Omslag van 'Stormpaard'" title="Omslag van 'Stormpaard'">
-<p>Na het overlijden van Merryns vader voelt ze zichzelf alleen. Ze is op zoek naar troost en verbondenheid als ze in het bos een mysterieus paard ontmoet dat haar eenzaamheid doet wegnemen. Met kleurenillustraties. Vanaf ca. 9 jaar.</p>]]></content>
-        <author>
-            <name>Holly Surplice</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bommel en ik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45834415X/bommel-en-ik-enne-koens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45834415X/bommel-en-ik-enne-koens"/>
-        <updated>2026-03-13T07:39:19.313Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45834415X?aid=kb-online-bibliotheek&sid=20&dts=1773384780330&sig=f9c68f69f2b2c1ecf7c8a3d4242fecf314eb93c0827c7595a72bc97a8e7c7f66&width=320" alt="Omslag van 'Bommel en ik'" title="Omslag van 'Bommel en ik'">
-<p>Yuki (ik-persoon) en Sem spelen graag dat ze een hond zijn. Als ze naar groep 4 gaan, vindt Yuki dat stilzitten maar niks. Yuki verandert in de klas in de hond Bommel, waarna de vrienden ruzie krijgen. Kan Yuki de vriendschap redden? Met illustraties in zwart-wit en geel. Vanaf ca. 7 jaar.</p>]]></content>
-        <author>
-            <name>Enne Koens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wie is de baas?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344737/wie-is-de-baas--arwen-kleyngeld</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344737/wie-is-de-baas--arwen-kleyngeld"/>
-        <updated>2026-03-13T07:39:22.477Z</updated>
-        <summary type="html"><![CDATA[Alles over politiek (en hoe het werkt)]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344737?aid=kb-online-bibliotheek&sid=20&dts=1773353054019&sig=607b9cea44dd775f2641057dd9e9b62990373b7f556f9c8ef7e933cf034082b9&width=320" alt="Omslag van 'Wie is de baas?'" title="Omslag van 'Wie is de baas?'">
-<p>Leer alles over politiek. Met informatieve stukken, verhalen en zwart-witillustraties met steunkleur blauw. Vanaf ca. 9 t/m 12 jaar.</p>]]></content>
-        <author>
-            <name>Arwen Kleyngeld</name>
+            <name>Kevin Hassing</name>
         </author>
     </entry>
     <entry>
@@ -88,36 +60,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De avonturen van Kareltje (toen hij nog niet krom stond)]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344362/de-avonturen-van-kareltje--toen-hij-nog-niet-krom-stond--kevin-hassing</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344362/de-avonturen-van-kareltje--toen-hij-nog-niet-krom-stond--kevin-hassing"/>
-        <updated>2026-03-13T07:39:16.111Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344362?aid=kb-online-bibliotheek&sid=20&dts=1773343648806&sig=d4f41c5232bb26f73df4ff9ea4d31ce3b76245008e100e670950435eb81a2273&width=320" alt="Omslag van 'De avonturen van Kareltje (toen hij nog niet krom stond)'" title="Omslag van 'De avonturen van Kareltje (toen hij nog niet krom stond)'">
-<p>Kareltje en Hinkelien wonen in een woonwagen waarmee ze vaak theaterstukken opvoeren. Als ze aankomen in een nieuw dorp, ontdekken ze dat de inwoners gepest worden. Daar moeten ze iets aan doen... Met gekleurde illustraties. Voorlezen vanaf ca. 6 jaar, zelf lezen vanaf ca. 9 jaar.</p>]]></content>
-        <author>
-            <name>Kevin Hassing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter - Dansen in het donker]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45834480X/winter---dansen-in-het-donker-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45834480X/winter---dansen-in-het-donker-tamara-postma"/>
-        <updated>2026-03-13T07:39:21.395Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45834480X?aid=kb-online-bibliotheek&sid=20&dts=1773335040048&sig=3a086569d687a9f888bbe5cc9d067687185bc2a384632ac1d330bbf83cc7cea8&width=320" alt="Omslag van 'Winter - Dansen in het donker'" title="Omslag van 'Winter - Dansen in het donker'">
-<p>Dansen in het donker is het elfde deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  De komst van haar kindje had een nieuw begin moeten markeren, maar in plaats van rust en geluk te voelen, voelt Rosie zich overweldigd. De gebeurtenissen in de maanden voorafgaand aan de bevalling hebben diepe sporen achtergelaten – emotioneel, mentaal en lichamelijk. Hoe geef je liefde en veiligheid aan een ander als je zelf nog wankelt? Hoe verwerk je wat er is gebeurd, als je nauwelijks de tijd hebt om adem te halen? Terwijl dag en nacht in elkaar overvloeien, moet Rosie niet alleen haar weg vinden in het moederschap, maar ook in het helen van zichzelf. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Winter - Rozen in de winter]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45834463X/winter---rozen-in-de-winter-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45834463X/winter---rozen-in-de-winter-tamara-postma"/>
+        <updated>2026-03-13T07:39:17.749Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45834463X?aid=kb-online-bibliotheek&sid=20&dts=1773335077467&sig=91e1821388d7c799a3ab2d46341bd0420273c06856845140221746eb44ae4203&width=320" alt="Omslag van 'Winter - Rozen in de winter'" title="Omslag van 'Winter - Rozen in de winter'">
+<p>Rozen in de winter is het tiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Na jaren van tegenslagen en twijfels heeft Rosie het gevoel dat alles eindelijk op zijn plek valt. Ze is gelukkig in haar huwelijk, kijkt vol verwachting uit naar de komst van haar eerste kindje en begint vol enthousiasme aan een frisse, veelbelovende carrièrestap. Maar dan duikt uit het niets een oude bekende op, iemand van wie ze dacht nooit meer iets te horen… Terwijl haar zorgvuldig opgebouwde leven uit balans wankelt, moet Rosie beslissen hoever ze bereid is te gaan om zichzelf én haar toekomst te beschermen. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Tamara Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ontvoerd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344788/ontvoerd-dan-ames</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344788/ontvoerd-dan-ames"/>
-        <updated>2026-03-13T07:39:18.816Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344788?aid=kb-online-bibliotheek&sid=20&dts=1773335306482&sig=47c7a9b7c7d2ef60fffdc0bbf5ae36f6b4d79718b2935262ef5df4480ba250e0&width=320" alt="Omslag van 'Ontvoerd'" title="Omslag van 'Ontvoerd'">
-<p>Ontvoerd is het tiende deel van de Jack Reacher Cases, geschreven door Dan Ames.Het speelt zich af in de wereld van Lee Childs Jack Reacher. Wanneer Lauren Pauling erachter komt dat haar zus is ontvoerd, haast ze zich om uit te zoeken wie haar heeft ontvoerd en waarom.  Pauling schakelt de hulp in van privédetective Wade Carver uit Zuid-Florida, en al snel ontdekt ze dat de misdaad te maken heeft met de altijd ongrijpbare Jack Reacher. 'Een non-stop achtbaanrit.' USA Today </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Ames</name>
         </author>
     </entry>
     <entry>
@@ -132,6 +82,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ontvoerd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344788/ontvoerd-dan-ames</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344788/ontvoerd-dan-ames"/>
+        <updated>2026-03-13T07:39:18.816Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344788?aid=kb-online-bibliotheek&sid=20&dts=1773335306482&sig=47c7a9b7c7d2ef60fffdc0bbf5ae36f6b4d79718b2935262ef5df4480ba250e0&width=320" alt="Omslag van 'Ontvoerd'" title="Omslag van 'Ontvoerd'">
+<p>Ontvoerd is het tiende deel van de Jack Reacher Cases, geschreven door Dan Ames.Het speelt zich af in de wereld van Lee Childs Jack Reacher. Wanneer Lauren Pauling erachter komt dat haar zus is ontvoerd, haast ze zich om uit te zoeken wie haar heeft ontvoerd en waarom.  Pauling schakelt de hulp in van privédetective Wade Carver uit Zuid-Florida, en al snel ontdekt ze dat de misdaad te maken heeft met de altijd ongrijpbare Jack Reacher. 'Een non-stop achtbaanrit.' USA Today </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dan Ames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bommel en ik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45834415X/bommel-en-ik-enne-koens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45834415X/bommel-en-ik-enne-koens"/>
+        <updated>2026-03-13T07:39:19.313Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45834415X?aid=kb-online-bibliotheek&sid=20&dts=1773384780330&sig=f9c68f69f2b2c1ecf7c8a3d4242fecf314eb93c0827c7595a72bc97a8e7c7f66&width=320" alt="Omslag van 'Bommel en ik'" title="Omslag van 'Bommel en ik'">
+<p>Yuki (ik-persoon) en Sem spelen graag dat ze een hond zijn. Als ze naar groep 4 gaan, vindt Yuki dat stilzitten maar niks. Yuki verandert in de klas in de hond Bommel, waarna de vrienden ruzie krijgen. Kan Yuki de vriendschap redden? Met illustraties in zwart-wit en geel. Vanaf ca. 7 jaar.</p>]]></content>
+        <author>
+            <name>Enne Koens</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cocina Nikkei]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/458344877/cocina-nikkei-katinka-lansink-dodero</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/458344877/cocina-nikkei-katinka-lansink-dodero"/>
@@ -143,12 +115,124 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Winter - Rozen in de winter]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45834463X/winter---rozen-in-de-winter-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45834463X/winter---rozen-in-de-winter-tamara-postma"/>
-        <updated>2026-03-13T07:39:17.749Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45834463X?aid=kb-online-bibliotheek&sid=20&dts=1773335077467&sig=91e1821388d7c799a3ab2d46341bd0420273c06856845140221746eb44ae4203&width=320" alt="Omslag van 'Winter - Rozen in de winter'" title="Omslag van 'Winter - Rozen in de winter'">
-<p>Rozen in de winter is het tiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Na jaren van tegenslagen en twijfels heeft Rosie het gevoel dat alles eindelijk op zijn plek valt. Ze is gelukkig in haar huwelijk, kijkt vol verwachting uit naar de komst van haar eerste kindje en begint vol enthousiasme aan een frisse, veelbelovende carrièrestap. Maar dan duikt uit het niets een oude bekende op, iemand van wie ze dacht nooit meer iets te horen… Terwijl haar zorgvuldig opgebouwde leven uit balans wankelt, moet Rosie beslissen hoever ze bereid is te gaan om zichzelf én haar toekomst te beschermen. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Mi casa Peru]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344567/mi-casa-peru-katinka-lansink-dodero</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344567/mi-casa-peru-katinka-lansink-dodero"/>
+        <updated>2026-03-13T07:39:20.354Z</updated>
+        <summary type="html"><![CDATA[80 recepten uit de Peruaanse keuken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344567?aid=kb-online-bibliotheek&sid=20&dts=1773336448108&sig=01fd7d20afdca17d06cdd62d799f23c46eb0a6c2c4afeb8b997f0e30890439d4&width=320" alt="Omslag van 'Mi casa Peru'" title="Omslag van 'Mi casa Peru'">
+<p>Ontdek de rijke keuken van Peru in dit Peruaanse kookboek van Katinka Lansink Dodero. Maak kennis met kleurrijke gerechten, comfortfood en cocktails, elk op smaak gebracht met prachtige verhalen. De recepten in Mi casa Peru zijn eenvoudig te bereiden, met makkelijk verkrijgbare ingrediënten. Maak bijvoorbeeld groene bierrijst met eend, jackfruitnacho’s met salsa en natuurlijk diverse variaties op de Peruaanse trots ceviche – en beleef Peru op zijn puurst.</p><p>Katinka Lansink Dodero kreeg van haar ouders de liefde voor de Peruaanse keuken mee. En van deze magische keuken heeft ze haar thuis gemaakt. Katinka is culinair adviseur, geeft kookworkshops en ontwikkelt Peruaanse recepten voor restaurants. Met haar merk cevicheceviche zet ze de Peruaanse keuken op de kaart. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Katinka Lansink Dodero</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stormpaard]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344826/stormpaard-holly-surplice</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344826/stormpaard-holly-surplice"/>
+        <updated>2026-03-13T07:39:20.914Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344826?aid=kb-online-bibliotheek&sid=20&dts=1773344564483&sig=5466fee1ca652a4e0e9f66a32216c6d4fc9625e6076621a652a4d9cbbd764215&width=320" alt="Omslag van 'Stormpaard'" title="Omslag van 'Stormpaard'">
+<p>Na het overlijden van Merryns vader voelt ze zichzelf alleen. Ze is op zoek naar troost en verbondenheid als ze in het bos een mysterieus paard ontmoet dat haar eenzaamheid doet wegnemen. Met kleurenillustraties. Vanaf ca. 9 jaar.</p>]]></content>
+        <author>
+            <name>Holly Surplice</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter - Dansen in het donker]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45834480X/winter---dansen-in-het-donker-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45834480X/winter---dansen-in-het-donker-tamara-postma"/>
+        <updated>2026-03-13T07:39:21.395Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45834480X?aid=kb-online-bibliotheek&sid=20&dts=1773335040048&sig=3a086569d687a9f888bbe5cc9d067687185bc2a384632ac1d330bbf83cc7cea8&width=320" alt="Omslag van 'Winter - Dansen in het donker'" title="Omslag van 'Winter - Dansen in het donker'">
+<p>Dansen in het donker is het elfde deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  De komst van haar kindje had een nieuw begin moeten markeren, maar in plaats van rust en geluk te voelen, voelt Rosie zich overweldigd. De gebeurtenissen in de maanden voorafgaand aan de bevalling hebben diepe sporen achtergelaten – emotioneel, mentaal en lichamelijk. Hoe geef je liefde en veiligheid aan een ander als je zelf nog wankelt? Hoe verwerk je wat er is gebeurd, als je nauwelijks de tijd hebt om adem te halen? Terwijl dag en nacht in elkaar overvloeien, moet Rosie niet alleen haar weg vinden in het moederschap, maar ook in het helen van zichzelf. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tamara Postma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een ansichtkaart van Puffin Island]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344214/een-ansichtkaart-van-puffin-island-christie-barlow</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344214/een-ansichtkaart-van-puffin-island-christie-barlow"/>
+        <updated>2026-03-13T07:39:21.954Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344214?aid=kb-online-bibliotheek&sid=20&dts=1773336088252&sig=72e64ce85e4808b56795ac9c4bc01c977724380a214654962b39d56831c29bae&width=320" alt="Omslag van 'Een ansichtkaart van Puffin Island'" title="Omslag van 'Een ansichtkaart van Puffin Island'">
+<p>Een oude ansichtkaart gooit het leven van een jonge dertiger op zijn kop. In plaats van een geplande tour door Europa, besluit ze af te reizen naar een afgelegen eiland, vastbesloten om een geheim uit haar oma’s verleden te ontrafelen. Wat daar gebeurt, zal haar leven voorgoed veranderen.</p>]]></content>
+        <author>
+            <name>Christie Barlow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wie is de baas?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344737/wie-is-de-baas--arwen-kleyngeld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344737/wie-is-de-baas--arwen-kleyngeld"/>
+        <updated>2026-03-13T07:39:22.477Z</updated>
+        <summary type="html"><![CDATA[Alles over politiek (en hoe het werkt)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344737?aid=kb-online-bibliotheek&sid=20&dts=1773353054019&sig=607b9cea44dd775f2641057dd9e9b62990373b7f556f9c8ef7e933cf034082b9&width=320" alt="Omslag van 'Wie is de baas?'" title="Omslag van 'Wie is de baas?'">
+<p>Leer alles over politiek. Met informatieve stukken, verhalen en zwart-witillustraties met steunkleur blauw. Vanaf ca. 9 t/m 12 jaar.</p>]]></content>
+        <author>
+            <name>Arwen Kleyngeld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter - Terug naar jou]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344575/winter---terug-naar-jou-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344575/winter---terug-naar-jou-tamara-postma"/>
+        <updated>2026-03-13T07:39:23.078Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344575?aid=kb-online-bibliotheek&sid=20&dts=1773341793491&sig=675fd66a68f354e996de83e9e87ede7aaf80afbff22fe24c38ea539db7a341e2&width=320" alt="Omslag van 'Winter - Terug naar jou'" title="Omslag van 'Winter - Terug naar jou'">
+<p>Terug naar jou is het twaalfde deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Eindelijk lijkt alles goed te gaan in het leven van Rosie. Geen drama, geen onverwachte wendingen – alleen maar stabiliteit en voorspoed. Maar juist die kalmte begint te knagen. De dagen rijgen zich aaneen zonder echte uitdaging, en Rosie merkt dat haar leven wel heel voorspelbaar is geworden. Samen met haar beste vriendin Lou start ze een ambitieus project dat al snel alle verwachtingen overtreft. Wat begon als een spontane ingeving, groeit uit tot een groot succes en trekt de aandacht van mensen binnen én buiten hun vertrouwde kring. Maar succes brengt ook nieuwe verantwoordelijkheden, oude onzekerheden en onverwachte spanningen met zich mee… Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tamara Postma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter - Het einde van de wereld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344583/winter---het-einde-van-de-wereld-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344583/winter---het-einde-van-de-wereld-tamara-postma"/>
+        <updated>2026-03-13T07:39:23.570Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344583?aid=kb-online-bibliotheek&sid=20&dts=1773335746704&sig=ac0b432e1f95b03ec4b7292889881dfaa27b2c966be587dccdbe5fa54a941b83&width=320" alt="Omslag van 'Winter - Het einde van de wereld'" title="Omslag van 'Winter - Het einde van de wereld'">
+<p>Het einde van de wereld is het dertiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Net als Noah een enorme fout maakt en zo zijn huwelijk met Rosie op het spel zet, blijkt Logan in moeilijkheden te zitten. Zonder aarzeling besluiten Rosie en Noah af te reizen naar Cuba, vastbesloten om Logan te vinden en hem te helpen. Maar zit hij wel op hun komst te wachten? De broers staan lijnrecht tegenover elkaar, en Rosie bevindt zich opnieuw tussen hen in – verstrikt in gevoelens die ze dacht allang verwerkt te hebben. Kan ze eindelijk een keuze maken tussen de twee? Of heeft het lot allang beslist, nog voordat zij er zelf aan toe is? Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tamara Postma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strijdlust]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344664/strijdlust-dan-ames</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344664/strijdlust-dan-ames"/>
+        <updated>2026-03-13T07:39:24.088Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344664?aid=kb-online-bibliotheek&sid=20&dts=1773339760688&sig=67f8a18887b6fe58a0626f31f3fde99ad422cff6d1d0ff9fa05d58d328e51a96&width=320" alt="Omslag van 'Strijdlust'" title="Omslag van 'Strijdlust'">
+<p>Strijdlust is het dertiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher.    Drie vrouwen worden bruut vermoord in een klein dorp in Indiana. Michael Tallon ontvangt vrijwel meteen daarna een telefoontje van een ex-collega van de Special Ops met een urgent verzoek. Een van de vrouwen die is vermoord was zijn zus, en hij heeft de hulp van Tallon nodig om de moordenaars op te sporen en wraak te nemen.  Ondertussen begint een mysterieuze man die zichzelf 'Reacher' noemt, de aandacht te trekken van de overheidsinstanties. Het duurt niet lang voordat er een gewelddadige confrontatie tussen beide zaken volgt, een die escaleert tot een choquerende en onvergetelijke achtbaanrit.  'Het plot raast vooruit met een razendsnel tempo. Goede actiescènes – dit is een must-read!' Amazon.com </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dan Ames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gerechtigheid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344230/gerechtigheid-dan-ames</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344230/gerechtigheid-dan-ames"/>
+        <updated>2026-03-13T07:39:24.673Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344230?aid=kb-online-bibliotheek&sid=20&dts=1773387564210&sig=ac6e48df1d6a115f27407c4a27338ee4c9497e4bec8e5c64daf900a3e60a64ee&width=320" alt="Omslag van 'Gerechtigheid'" title="Omslag van 'Gerechtigheid'">
+<p>Gerechtigheid is het twaalfde deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher.  Voormalig FBI-agent Lauren Pauling wordt door de mysterieuze cliënt van een advocatenkantoor ingehuurd om de verdwijning van een jongeman in Belize te onderzoeken. Een jongen die misschien wel, of misschien juist niet, de zoon van Jack Reacher is.  Pauling raakt al snel verstrikt in een complex web van gevaarlijke leugens en moorddadige geheimen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dan Ames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het recept voor geluk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344621/het-recept-voor-geluk-katharina-herzog</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344621/het-recept-voor-geluk-katharina-herzog"/>
+        <updated>2026-03-13T07:39:25.175Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344621?aid=kb-online-bibliotheek&sid=20&dts=1773334969409&sig=dcb98a63dbc48bc5d862c140ff6311d117522a92c0d8de8fcc5d8ccedadf10c7&width=320" alt="Omslag van 'Het recept voor geluk'" title="Omslag van 'Het recept voor geluk'">
+<p>Het recept voor geluk is het eerste deel in de nieuwe serie De smaak van Cornwall van Katharina Herzog, bekend van de serie Het Schotse boekendorp.  Sophie Wilde is een van de succesvolste restaurantcritici van Londen. Maar wanneer ze in een persoonlijke crisis belandt, begaat ze een fatale fout tijdens de langverwachte opening van het restaurant van model Annabelle Scott. Sophie's vernietigende recensie over het restaurant – en over Annabelle zelf – veroorzaakt een onverwachte storm aan kritiek. Haar hoofdredacteur verplicht haar tot een sabbatical en houdt haar bovendien aan haar publieke uitspraak dat ze overal ter wereld een sterrenrestaurant zou kunnen opzetten. Hij stuurt haar naar Port Haven, aan de kust van Cornwall. Sophie verhuist halsoverkop met haar moeder en tienerdochter naar het kleine havenstadje en neemt daar de leiding over van de vervallen Smugglers' Inn, inclusief het excentrieke personeel dat helemaal niets ziet in haar ambitie om er een toprestaurant van te maken. Het enige lichtpuntje is kok Lennox, die er net zo goed uitziet als hij kookt. Maar kan Sophie onder deze omstandigheden echt een gastronomisch adres uit de grond stampen? Of is het haar eigen leven dat een compleet nieuw recept nodig heeft? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Katharina Herzog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter - Alles of niets]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344273/winter---alles-of-niets-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344273/winter---alles-of-niets-tamara-postma"/>
+        <updated>2026-03-13T07:39:25.624Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344273?aid=kb-online-bibliotheek&sid=20&dts=1773335719442&sig=174b68e0979833d4b9807b25eee0f89e1bea91aa412256a95d24945bbd31d740&width=320" alt="Omslag van 'Winter - Alles of niets'" title="Omslag van 'Winter - Alles of niets'">
+<p>Alles of niets is het veertiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Samen met haar man Noah en hun kinderen vormt Rosie een ogenschijnlijk doorsnee, liefdevol gezin. Maar achter die alledaagse façade schuilt een verdriet dat nog altijd als een schaduw over hun gezin valt. Bijna vier jaar geleden verloren Rosie en Noah iemand die onlosmakelijk verbonden was met hun leven, iemand die hun wereld mede vormde. En hoewel de tijd voortschrijdt, blijkt verdriet hardnekkig. Want ondanks het feit dat ze alles heeft waar ze ooit van droomde – liefde, kinderen, stabiliteit – voelt ze zich leeg, op afstand van zichzelf en haar leven. Wat ontbreekt er, en durft ze dat onder ogen te komen? Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Tamara Postma</name>
         </author>
@@ -165,17 +249,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het recept voor geluk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344621/het-recept-voor-geluk-katharina-herzog</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344621/het-recept-voor-geluk-katharina-herzog"/>
-        <updated>2026-03-13T07:39:25.175Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344621?aid=kb-online-bibliotheek&sid=20&dts=1773334969409&sig=dcb98a63dbc48bc5d862c140ff6311d117522a92c0d8de8fcc5d8ccedadf10c7&width=320" alt="Omslag van 'Het recept voor geluk'" title="Omslag van 'Het recept voor geluk'">
-<p>Het recept voor geluk is het eerste deel in de nieuwe serie De smaak van Cornwall van Katharina Herzog, bekend van de serie Het Schotse boekendorp.  Sophie Wilde is een van de succesvolste restaurantcritici van Londen. Maar wanneer ze in een persoonlijke crisis belandt, begaat ze een fatale fout tijdens de langverwachte opening van het restaurant van model Annabelle Scott. Sophie's vernietigende recensie over het restaurant – en over Annabelle zelf – veroorzaakt een onverwachte storm aan kritiek. Haar hoofdredacteur verplicht haar tot een sabbatical en houdt haar bovendien aan haar publieke uitspraak dat ze overal ter wereld een sterrenrestaurant zou kunnen opzetten. Hij stuurt haar naar Port Haven, aan de kust van Cornwall. Sophie verhuist halsoverkop met haar moeder en tienerdochter naar het kleine havenstadje en neemt daar de leiding over van de vervallen Smugglers' Inn, inclusief het excentrieke personeel dat helemaal niets ziet in haar ambitie om er een toprestaurant van te maken. Het enige lichtpuntje is kok Lennox, die er net zo goed uitziet als hij kookt. Maar kan Sophie onder deze omstandigheden echt een gastronomisch adres uit de grond stampen? Of is het haar eigen leven dat een compleet nieuw recept nodig heeft? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Katharina Herzog</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De vlucht van Mannus]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/458344354/de-vlucht-van-mannus-esther-wittenberg</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/458344354/de-vlucht-van-mannus-esther-wittenberg"/>
@@ -187,58 +260,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Winter - Alles of niets]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344273/winter---alles-of-niets-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344273/winter---alles-of-niets-tamara-postma"/>
-        <updated>2026-03-13T07:39:25.624Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344273?aid=kb-online-bibliotheek&sid=20&dts=1773335719442&sig=174b68e0979833d4b9807b25eee0f89e1bea91aa412256a95d24945bbd31d740&width=320" alt="Omslag van 'Winter - Alles of niets'" title="Omslag van 'Winter - Alles of niets'">
-<p>Alles of niets is het veertiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Samen met haar man Noah en hun kinderen vormt Rosie een ogenschijnlijk doorsnee, liefdevol gezin. Maar achter die alledaagse façade schuilt een verdriet dat nog altijd als een schaduw over hun gezin valt. Bijna vier jaar geleden verloren Rosie en Noah iemand die onlosmakelijk verbonden was met hun leven, iemand die hun wereld mede vormde. En hoewel de tijd voortschrijdt, blijkt verdriet hardnekkig. Want ondanks het feit dat ze alles heeft waar ze ooit van droomde – liefde, kinderen, stabiliteit – voelt ze zich leeg, op afstand van zichzelf en haar leven. Wat ontbreekt er, en durft ze dat onder ogen te komen? Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Varda II]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459533436/varda-ii-garvin-pouw</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459533436/varda-ii-garvin-pouw"/>
+        <updated>2026-03-15T07:39:32.531Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459533436?aid=kb-online-bibliotheek&sid=20&dts=1773522326141&sig=05c84051f912c797a90848c1c9c147e1331ce4ff3de52149d2aef18aabb6eaaf&width=320" alt="Omslag van 'Varda II'" title="Omslag van 'Varda II'">
+<p>Eeuwen nadat de Heksdraak Naztraza keizerin Yir heeft vervloekt met het eeuwig leven duiken de eerste eigen magiërs op onder de Varda. De politiek ambitieuze vader van Verax zet alles op alles om het kanselierschap voor zijn familie in de wacht te slepen. Het is zijn dochter Frax die zijn hoop moet waarmaken door het op te nemen tegen Vanareh van het rivaliserende huis van Veltras. Wie van de Jacht-sterren vult het eerst haar bloedbokaal en verzekerd zich van Yir's nalatenschap? Varda 2 bundelt drie splinternieuwe verhalen uit de wereld van de Varda. Ditmaal staan de ambities van de Duistere God centraal. Hoe kan de meester der demonen zich het luchtruim boven Valtada eigen maken en welke rol is daarbij weggelegd voor de vervloekte keizerin? Auteur: Garvin Pouw </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tamara Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gerechtigheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344230/gerechtigheid-dan-ames</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344230/gerechtigheid-dan-ames"/>
-        <updated>2026-03-13T07:39:24.673Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344230?aid=kb-online-bibliotheek&sid=20&dts=1773387564210&sig=ac6e48df1d6a115f27407c4a27338ee4c9497e4bec8e5c64daf900a3e60a64ee&width=320" alt="Omslag van 'Gerechtigheid'" title="Omslag van 'Gerechtigheid'">
-<p>Gerechtigheid is het twaalfde deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher.  Voormalig FBI-agent Lauren Pauling wordt door de mysterieuze cliënt van een advocatenkantoor ingehuurd om de verdwijning van een jongeman in Belize te onderzoeken. Een jongen die misschien wel, of misschien juist niet, de zoon van Jack Reacher is.  Pauling raakt al snel verstrikt in een complex web van gevaarlijke leugens en moorddadige geheimen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Ames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strijdlust]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344664/strijdlust-dan-ames</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344664/strijdlust-dan-ames"/>
-        <updated>2026-03-13T07:39:24.088Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344664?aid=kb-online-bibliotheek&sid=20&dts=1773339760688&sig=67f8a18887b6fe58a0626f31f3fde99ad422cff6d1d0ff9fa05d58d328e51a96&width=320" alt="Omslag van 'Strijdlust'" title="Omslag van 'Strijdlust'">
-<p>Strijdlust is het dertiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher.    Drie vrouwen worden bruut vermoord in een klein dorp in Indiana. Michael Tallon ontvangt vrijwel meteen daarna een telefoontje van een ex-collega van de Special Ops met een urgent verzoek. Een van de vrouwen die is vermoord was zijn zus, en hij heeft de hulp van Tallon nodig om de moordenaars op te sporen en wraak te nemen.  Ondertussen begint een mysterieuze man die zichzelf 'Reacher' noemt, de aandacht te trekken van de overheidsinstanties. Het duurt niet lang voordat er een gewelddadige confrontatie tussen beide zaken volgt, een die escaleert tot een choquerende en onvergetelijke achtbaanrit.  'Het plot raast vooruit met een razendsnel tempo. Goede actiescènes – dit is een must-read!' Amazon.com </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Ames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter - Het einde van de wereld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344583/winter---het-einde-van-de-wereld-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344583/winter---het-einde-van-de-wereld-tamara-postma"/>
-        <updated>2026-03-13T07:39:23.570Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344583?aid=kb-online-bibliotheek&sid=20&dts=1773335746704&sig=ac0b432e1f95b03ec4b7292889881dfaa27b2c966be587dccdbe5fa54a941b83&width=320" alt="Omslag van 'Winter - Het einde van de wereld'" title="Omslag van 'Winter - Het einde van de wereld'">
-<p>Het einde van de wereld is het dertiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Net als Noah een enorme fout maakt en zo zijn huwelijk met Rosie op het spel zet, blijkt Logan in moeilijkheden te zitten. Zonder aarzeling besluiten Rosie en Noah af te reizen naar Cuba, vastbesloten om Logan te vinden en hem te helpen. Maar zit hij wel op hun komst te wachten? De broers staan lijnrecht tegenover elkaar, en Rosie bevindt zich opnieuw tussen hen in – verstrikt in gevoelens die ze dacht allang verwerkt te hebben. Kan ze eindelijk een keuze maken tussen de twee? Of heeft het lot allang beslist, nog voordat zij er zelf aan toe is? Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamara Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter - Terug naar jou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344575/winter---terug-naar-jou-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344575/winter---terug-naar-jou-tamara-postma"/>
-        <updated>2026-03-13T07:39:23.078Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344575?aid=kb-online-bibliotheek&sid=20&dts=1773341793491&sig=675fd66a68f354e996de83e9e87ede7aaf80afbff22fe24c38ea539db7a341e2&width=320" alt="Omslag van 'Winter - Terug naar jou'" title="Omslag van 'Winter - Terug naar jou'">
-<p>Terug naar jou is het twaalfde deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Eindelijk lijkt alles goed te gaan in het leven van Rosie. Geen drama, geen onverwachte wendingen – alleen maar stabiliteit en voorspoed. Maar juist die kalmte begint te knagen. De dagen rijgen zich aaneen zonder echte uitdaging, en Rosie merkt dat haar leven wel heel voorspelbaar is geworden. Samen met haar beste vriendin Lou start ze een ambitieus project dat al snel alle verwachtingen overtreft. Wat begon als een spontane ingeving, groeit uit tot een groot succes en trekt de aandacht van mensen binnen én buiten hun vertrouwde kring. Maar succes brengt ook nieuwe verantwoordelijkheden, oude onzekerheden en onverwachte spanningen met zich mee… Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamara Postma</name>
+            <name>Garvin Pouw</name>
         </author>
     </entry>
     <entry>
@@ -250,6 +279,42 @@
 <p>Een betoverend verhaal over verloren liefdes en geheimen, in een klein dorp aan de Ierse kust.</p><p>Maggie herinnert zich haar zomers in Sandy Cove alsof het gisteren was. Zwemmen in het kristalheldere water, schelpen zoeken en wegdromen op het strand. Wanneer ze ziet dat ‘haar’ oude huisje huur is, hoopt ze dat een zomer aan zee haar kan helpen te herstellen van een gebroken hart.</p><p>Tot haar grote vreugde ontdekt Maggie dat haar beste vriendin van vroeger, Sorcha, en Sorcha’s neef Brian nog steeds in het dorp wonen. Samen genieten ze van avonden in de lokale pub alsof de tijd heeft stilgestaan. Als Brian onthult dat hij vroeger verliefd was op Maggie, kan ze niet anders dan opmerken hoe knap hij is geworden.</p><p>Maar dan vindt Maggie op zolder een doosje vol liefdesbrieven die ze ooit uitwisselde met een Amerikaanse jongen die ze die zomer had leren kennen. Tijdens hun laatste nacht samen op het strand, beloofden ze elkaar altijd weer te vinden. Al snel blijkt dat Maggie niet de enige is die is teruggekeerd naar Sandy Cove.</p><p>Verscheurd tussen haar groeiende gevoelens voor Brian en de romance die ze al jaren in haar hart meedraagt, beseft Maggie dat haar zomer ingewikkelder wordt dan ze had verwacht. Zal ze haar ware liefde vinden, of wordt deze vakantie in Sandy Cove haar laatste? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Susanne O’Leary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tussen twee werelden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/457361506/tussen-twee-werelden-sofie-van-beek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/457361506/tussen-twee-werelden-sofie-van-beek"/>
+        <updated>2026-03-15T07:39:32.980Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457361506?aid=kb-online-bibliotheek&sid=20&dts=1773492889466&sig=8933863f6064eb12e281ded3445d5362ab0b5d2762ddaa72bc5fe3103ca1960e&width=320" alt="Omslag van 'Tussen twee werelden'" title="Omslag van 'Tussen twee werelden'">
+<p>In dit tweede deel "Tussen twee werelden" van de trilogie "De verborgen planeet" worden Casper en Sofie tot het uiterste getest en moeten ze hun vaardigheden snel verder ontwikkelen. De planeet Ceridwen gunt hun namelijk geen lange jeugd. Twee jaar zijn verstreken sinds het geheime genootschap in zijn voortbestaan wordt bedreigd door een opstandige magier. Zowel Casper als Sofie hebben het moeilijk op school. Sofie is naar Arnhem verhuisd en heeft hun verkering uitgemaakt. Dan wordt het geheime genootschap op aarde opnieuw aangevallen. Alle sporen leiden naar de verborgen planeet, waar de macht van de magiër snel toeneemt. Joke en Casper reizen samen naar Ceridwen in een poging hun vrienden te redden. Als ze daar aankomen, klapt de val van de vijand dicht. Over de schrijver: "Houd Sofie van Beek in de gaten. Haar verhaal getuigt van een originele en fantasierijke geest die zich niet zal laten temmen." Joke Reinders. Juryrapport schrijfwedstrijd voor kinderen Wageningen, 2007. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sofie van Beek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moordvent]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink"/>
+        <updated>2026-03-14T07:30:43.525Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456463704?aid=kb-online-bibliotheek&sid=20&dts=1773399464888&sig=0ee076827e2ae5015abf50ac8382df463f0249378df4675d5364b671b69d9965&width=320" alt="Omslag van 'Moordvent'" title="Omslag van 'Moordvent'">
+<p>De altijd zo alerte Ellen mist de signalen om haar giftige relatie met Johan, die voor haar de aantrekkelijkste man ter wereld is, te beëindigen voor het te laat is. Wanneer trekt het waas voor haar ogen op en ziet ze de werkelijkheid? De coronapandemie maakt haar echt wakker. Als ze achter de voordeur vaker in de hel verkeert dan in de hemel, moet ze alles op alles zetten om aan zijn manipulaties het hoofd te bieden en te overleven. Ambitieus als ze is werkt ze intussen aan een gewaagd plan om voorgoed van hem af te komen. Gaat dat haar lukken? "Zinderende vrouwenthriller met spicy randje". Wemmie Wolf, jurylid Nederlands Thrillerfestival Jolanda Esselink, voorheen copywriter, redacteur en journalist. In 2022 besloot ze het roer om te gooien en zich te storten op het schrijven van blogs en verhalen die je raken. Deze gelaagde thriller Moordvent, met gaslighting in de hoofdrol, is haar debuut. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jolanda Esselink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wat eens ongeschonden was]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456487522/wat-eens-ongeschonden-was-jos-govaarts---mark-de-groot</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456487522/wat-eens-ongeschonden-was-jos-govaarts---mark-de-groot"/>
+        <updated>2026-03-14T07:30:41.340Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456487522?aid=kb-online-bibliotheek&sid=20&dts=1773428260455&sig=d051f10b63ed56602b1e89a432839021ab57aa6962c06a62f311fc347d14cddc&width=320" alt="Omslag van 'Wat eens ongeschonden was'" title="Omslag van 'Wat eens ongeschonden was'">
+<p>'Wat eens ongeschonden was' is het tweede deel uit de serie 'De Scalda Moorden'. De daad is verleden, het teken ervan blijft. Hoogseizoen in Vlissingen. Een zwaargehavend lijk spoelt aan op het Badstrand. Een milieuambtenaar wordt vermist. Inspecteur Hugo Noot en zijn collega Ankie Verhage komen op het spoor van een chemisch bedrijf dat verdacht wordt van illegale lozingen pfas in de Westerschelde. Als er meer slachtoffers vallen, zijn Hugo en Ankie ervan overtuigd dat een onzichtbare hand een web van leugens en schijnwaarheden weeft. Verleden en heden raken verstrikt. Liefde en wraak blijken nauw verbonden. Jos Govaarts en Mark de Groot hebben hun krachten gebundeld met het schrijven van de serie "De Scalda Moorden", die zich afspeelt in Zeeland met op de achtergrond de Westerschelde. Onderlinge persoonlijke verhoudingen tussen de personages spelen een belangrijke rol. ------ Over het eerste deel "Soms komt niet thuis wat vertrokken is": "Degelijk speurwerk, een slimme, menselijke inspecteur en dito collega's maken van dit debuut een aangename policier" - VN Detective- en thrillergids "Een uitstekende, bijna on-Nederlandse start van een detectiveserie" - Cees van Rhienen, juryvoorzitter Nederlands Thrillerfestival "Het is genieten van de mooie zinnen die een situatie beeldend maken" - Boekenkrant 4 sterren - Hebban </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jos Govaarts</name>
+        </author>
+        <author>
+            <name>Mark de Groot</name>
         </author>
     </entry>
     <entry>
@@ -275,75 +340,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wat eens ongeschonden was]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456487522/wat-eens-ongeschonden-was-jos-govaarts---mark-de-groot</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456487522/wat-eens-ongeschonden-was-jos-govaarts---mark-de-groot"/>
-        <updated>2026-03-14T07:30:41.340Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456487522?aid=kb-online-bibliotheek&sid=20&dts=1773428260455&sig=d051f10b63ed56602b1e89a432839021ab57aa6962c06a62f311fc347d14cddc&width=320" alt="Omslag van 'Wat eens ongeschonden was'" title="Omslag van 'Wat eens ongeschonden was'">
-<p>'Wat eens ongeschonden was' is het tweede deel uit de serie 'De Scalda Moorden'. De daad is verleden, het teken ervan blijft. Hoogseizoen in Vlissingen. Een zwaargehavend lijk spoelt aan op het Badstrand. Een milieuambtenaar wordt vermist. Inspecteur Hugo Noot en zijn collega Ankie Verhage komen op het spoor van een chemisch bedrijf dat verdacht wordt van illegale lozingen pfas in de Westerschelde. Als er meer slachtoffers vallen, zijn Hugo en Ankie ervan overtuigd dat een onzichtbare hand een web van leugens en schijnwaarheden weeft. Verleden en heden raken verstrikt. Liefde en wraak blijken nauw verbonden. Jos Govaarts en Mark de Groot hebben hun krachten gebundeld met het schrijven van de serie "De Scalda Moorden", die zich afspeelt in Zeeland met op de achtergrond de Westerschelde. Onderlinge persoonlijke verhoudingen tussen de personages spelen een belangrijke rol. ------ Over het eerste deel "Soms komt niet thuis wat vertrokken is": "Degelijk speurwerk, een slimme, menselijke inspecteur en dito collega's maken van dit debuut een aangename policier" - VN Detective- en thrillergids "Een uitstekende, bijna on-Nederlandse start van een detectiveserie" - Cees van Rhienen, juryvoorzitter Nederlands Thrillerfestival "Het is genieten van de mooie zinnen die een situatie beeldend maken" - Boekenkrant 4 sterren - Hebban </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Ontaard]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456730583/ontaard-nicole-van-der-spek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456730583/ontaard-nicole-van-der-spek"/>
+        <updated>2026-03-15T07:39:33.404Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456730583?aid=kb-online-bibliotheek&sid=20&dts=1773476456480&sig=454717a7539f290876d57893e678dba870eb5b1558a08599e7c63eb19912d1cc&width=320" alt="Omslag van 'Ontaard'" title="Omslag van 'Ontaard'">
+<p>Wanneer er bij het Zilvermeer menselijke resten worden gevonden, duikt onderzoeksjournalist Maaike de Ridder in een oude vermissingszaak. Als voormalig oorlogsverslaggever kent ze de klappen van de zweep, maar niets bereidt haar voor op wat ze ontdekt. Hoe dieper Maaike graaft, hoe donkerder het familiegeheim dat boven water komt: een geheime adoptie, een verscheurd gezin en keuzes met onomkeerbare gevolgen. Terwijl ze dichter bij de waarheid komt, wordt ze in de gaten gehouden. Iemand die alles op alles zet om te voorkomen dat het geheim ooit het daglicht ziet. Sommige waarheden kunnen beter begraven blijven. Maaike weet één ding zeker: die moeten naar boven komen. Een thriller over offers, schuld en de prijs van de waarheid. Nicole van der Spek (1974) heeft als cultureel antropoloog en natuurvoedingsadviseur een rijke kennis en ervaring in menselijk gedrag, cultuur en gezondheid. Ze schrijft met diepgang over gevoelige thema's zoals rouw, verdriet en afscheid en ze schuwt daarbij maatschappelijke thema's onderwerpen niet. Van haar hand verscheen eerder de psychologische thriller Ongezien en de novelle Ontspoord. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jos Govaarts</name>
-        </author>
-        <author>
-            <name>Mark de Groot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verhaaltjes voor het sterven gaan]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456730575/verhaaltjes-voor-het-sterven-gaan-chris-hoksbergen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456730575/verhaaltjes-voor-het-sterven-gaan-chris-hoksbergen"/>
-        <updated>2026-03-14T07:30:41.819Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456730575?aid=kb-online-bibliotheek&sid=20&dts=1773429589406&sig=5f45fab848fac83462a5922beaad8ff86e1593148c1b788bc4e0201f56fa3ca9&width=320" alt="Omslag van 'Verhaaltjes voor het sterven gaan'" title="Omslag van 'Verhaaltjes voor het sterven gaan'">
-<p>Wat doe je als je psychiater zegt gedachten te kunnen lezen? Eva, een op non-actief gestelde arts, spreekt af in een verlaten kroeg met de psychiater die het oordeel over haar toekomst zal vellen. Wanneer deze man binnenkomt, lijkt hij niet alleen de sleutel te hebben tot Eva's grimmige verleden, maar ook tot dat van Jurgen, de ogenschijnlijk doodgewone barman. Met zijn onverwachte benadering en 'verhaaltjes voor het sterven gaan', verandert de psychiater de avond in een ontmoeting die alles wat Eva en Jurgen over het leven denken te weten, op zijn kop zet. Wat moeten ze met zo'n bizarre verschijning? En wat doen Eva en Jurgen als de beweringen van de psychiater in absurditeit toenemen? Verhaaltjes voor het sterven gaan is een duistere zoektocht naar de waarheid, waarin ieder woord en elke blik de personages dichter bij hun diepste angsten brengt </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Chris Hoksbergen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sterrenkind]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/457443278/sterrenkind-beck-palmas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/457443278/sterrenkind-beck-palmas"/>
-        <updated>2026-03-14T07:30:42.291Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457443278?aid=kb-online-bibliotheek&sid=20&dts=1773424108196&sig=834624e0e5a45a9261910cf5074865e6c197a0a5448500d62a127f185c54e04a&width=320" alt="Omslag van 'Sterrenkind'" title="Omslag van 'Sterrenkind'">
-<p>Nightstar, deel 1 "Hallo, Mercutio. Wanneer je dit hoort is deze versie dood ..." Haar dromen toonden haar dat ze dodelijk gewond zou raken. Ze vertelden haar niet dat ze daarna terugkomt, een teruggehaalde kopie van haar stervende zelf. Haar oorspronkelijke versie geeft haar de opdracht terug te gaan naar de wereld die ze als tiener heeft verlaten, ver van het ruimteschip dat ze als haar thuis beschouwt. Helaas heeft ze haar opvolger niet verteld wat die daar moet doen. Mercutio heeft hooguit zes dagen voordat ook zij overlijdt. Ze moet haar verdrongen verleden onder ogen zien en de geheimen van haar vermoorde familie ontrafelen. Geeft dit haar de antwoorden die ze nodig heeft voordat ze haar bestemming bereikt? Als ze die al weet te bereiken ... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Beck Palmas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het tuinfeest]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456661085/het-tuinfeest-elly-wassenaar---ronald-van-assen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456661085/het-tuinfeest-elly-wassenaar---ronald-van-assen"/>
-        <updated>2026-03-14T07:30:42.720Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456661085?aid=kb-online-bibliotheek&sid=20&dts=1773391857223&sig=685d25dd9b3bf5cb29428fc9118faf7689d2aebb4de5b2492a677e0e4ba58dcc&width=320" alt="Omslag van 'Het tuinfeest'" title="Omslag van 'Het tuinfeest'">
-<p>Een grote stenen tuintafel, gedragen door fraaie metalen pootjes, siert de weelderige tuin. In het strak aangeharkte gras wachten lege statafels op hun bezoekers. Gekleurde lampjes geven het geheel een sprookjesachtige sfeer tijdens deze zwoele avond waarin de schemering alvast inzet. In de riante buitenkoelkast wachten hapjes en drankjes om genuttigd te worden. Bijna idyllisch. Bijna? Ja, het is te mooi om waar te zijn. Want straks als de gasten komen, zullen zij de serene sfeer verpesten met dominante verlangens die soms vragen om een rigoureuze beslissing. Of kunnen zij hun oerdriften niet beheersen bij de confrontatie met die ene spannende bezoeker die hun hart sneller laat kloppen. Een onbedwingbaar verlangen om toe te geven aan hun schaduwkant. Een tuinfeest, het klinkt zo veilig, maar onderhuids sluimert er veel. Meer dan jij en ik kunnen vermoeden ... AUTEURS Tessa te Loo, Miriam Ootjers, Angelina van Kemenade, Annemieke Taffijn, Isabelle Smit, Marianne Sinke, Anke Verbraak, Roan Botman, Carlijn Peeters, Simcha Bakker, Luc Vos, R.R. Marion, Mathijs Meeuwissen, Sacha Voogd, Ingrid Buijs & Ariane van Nol, Conny Hoogendoorn, Elsje Margriet van der Heijden, Miriam Lucia, Gerhard Pijnenburg, Chamira Hellingman, Laura Weterings, Michael Vonk, Wendy Sempels, Monique Horlings, Esther Roos, Wendy Middelkoop, Ilona Poot, Rien Floris, Noël Sies, Benoit van der Cruysse, Pieter de Jong, Bert Goedhart, Suzanne Schuijt </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elly Wassenaar</name>
-        </author>
-        <author>
-            <name>Ronald van Assen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polderweg]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45818523X/polderweg-roan-botman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45818523X/polderweg-roan-botman"/>
-        <updated>2026-03-14T07:30:43.117Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45818523X?aid=kb-online-bibliotheek&sid=20&dts=1773417401478&sig=76a6644ad3735094c1a3705d14d1a8f6b2b3d8922e4aa51b1c85a7ce76547e0e&width=320" alt="Omslag van 'Polderweg'" title="Omslag van 'Polderweg'">
-<p>'Ze is niet thuisgekomen, Max.' Zo vertelt zijn schoonmoeder aan Max dat Lotte vermist is. Lotte die hem halsoverkop verliet, nadat ze geesten zag op haar kantoor in Rotterdam. Zelfs in hun appartement zochten de spoken haar op. Max begint zijn zoektocht in Baakhuizen, het dorp waar Lotte is opgegroeid en naartoe vluchtte. Het dorp waaruit Max met geweld is weggejaagd. Om zijn vriendin te vinden, moet hij het dorp en zijn verleden onder ogen komen. Polderweg is een bovennatuurlijke thriller over je ergens thuis voelen of juist niet. Roan Botman schrijft al jaren korte verhalen die in verschillende verhalenbundels zijn gepubliceerd. Met zijn novelles "Besef" en "Spiegel" was hij een van de winnaars in twee edities van de Zwarte Sneeuw- wedstrijden van Godijn Publishing. Met het korte verhaal "Mért" won Roan een schrijversfestival, waarover de jury zei: 'Dit verhaal trok ons vanaf de eerste zinnen mee de drek in.' Polderweg is Roans eerste boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Roan Botman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moordvent]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456463704/moordvent-jolanda-esselink"/>
-        <updated>2026-03-14T07:30:43.525Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456463704?aid=kb-online-bibliotheek&sid=20&dts=1773399464888&sig=0ee076827e2ae5015abf50ac8382df463f0249378df4675d5364b671b69d9965&width=320" alt="Omslag van 'Moordvent'" title="Omslag van 'Moordvent'">
-<p>De altijd zo alerte Ellen mist de signalen om haar giftige relatie met Johan, die voor haar de aantrekkelijkste man ter wereld is, te beëindigen voor het te laat is. Wanneer trekt het waas voor haar ogen op en ziet ze de werkelijkheid? De coronapandemie maakt haar echt wakker. Als ze achter de voordeur vaker in de hel verkeert dan in de hemel, moet ze alles op alles zetten om aan zijn manipulaties het hoofd te bieden en te overleven. Ambitieus als ze is werkt ze intussen aan een gewaagd plan om voorgoed van hem af te komen. Gaat dat haar lukken? "Zinderende vrouwenthriller met spicy randje". Wemmie Wolf, jurylid Nederlands Thrillerfestival Jolanda Esselink, voorheen copywriter, redacteur en journalist. In 2022 besloot ze het roer om te gooien en zich te storten op het schrijven van blogs en verhalen die je raken. Deze gelaagde thriller Moordvent, met gaslighting in de hoofdrol, is haar debuut. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jolanda Esselink</name>
+            <name>Nicole van der Spek</name>
         </author>
     </entry>
 </feed>
