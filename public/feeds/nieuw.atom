@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-03-18T07:48:07.313Z</updated>
+    <updated>2026-03-19T07:42:00.450Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -35,17 +35,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44306122X/x-pascal-engman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44306122X/x-pascal-engman"/>
-        <updated>2026-03-18T07:47:58.194Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44306122X?aid=kb-online-bibliotheek&sid=20&dts=1773745812497&sig=9df3894015ae0cdd42b2265ceebab61c1ea32e136c88dcc5b56c388176ef8fe3&width=320" alt="Omslag van 'X'" title="Omslag van 'X'">
-<p>Als rechercheur Vanessa Frank de moord op de vrouw van een profvoetballer onderzoekt, stuit ze op de duistere en criminele kant van de sportwereld.</p>]]></content>
-        <author>
-            <name>Pascal Engman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Slag of stoot]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/441238165/slag-of-stoot-meghan-quinn</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/441238165/slag-of-stoot-meghan-quinn"/>
@@ -54,6 +43,17 @@
 <p>Vrienden. Huisgenoten. Lovers? Baseballspeler Maddox Paige is een echte bad boy. Wanneer zijn beste vriendin Kinsley voor haar nieuwe baan een huis zoekt in Chicago, biedt hij aan dat ze een tijdje bij hem kan blijven slapen tot ze iets gevonden heeft. De twee kennen elkaar al hun hele leven, dus Maddox weet zeker dat huisgenoten zijn hun makkelijk af zal gaan. Kinsley trekt in bij Maddox, en ze hebben het supergezellig samen. Maddox merkt na een tijdje dat hij veel liever tijd met Kinsley op de bank doorbrengt dan dat hij uitgaat met zijn teamgenoten. En dat hij smoorverliefd op zijn beste vriendin begint te worden… Slag of stoot is het vijfde deel van de Brentwood-serie van bestsellerauteur Meghan Quinn. Ze schrijft verslavende boeken vol steam en humor. Alle delen zijn los van elkaar te lezen of luisteren, en de serie begint met Op slag verliefd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Meghan Quinn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44306122X/x-pascal-engman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44306122X/x-pascal-engman"/>
+        <updated>2026-03-18T07:47:58.194Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44306122X?aid=kb-online-bibliotheek&sid=20&dts=1773745812497&sig=9df3894015ae0cdd42b2265ceebab61c1ea32e136c88dcc5b56c388176ef8fe3&width=320" alt="Omslag van 'X'" title="Omslag van 'X'">
+<p>Als rechercheur Vanessa Frank de moord op de vrouw van een profvoetballer onderzoekt, stuit ze op de duistere en criminele kant van de sportwereld.</p>]]></content>
+        <author>
+            <name>Pascal Engman</name>
         </author>
     </entry>
     <entry>
@@ -93,6 +93,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De meedogenloze detectives]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45830753X/de-meedogenloze-detectives-evelien-mentink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45830753X/de-meedogenloze-detectives-evelien-mentink"/>
+        <updated>2026-03-18T07:48:02.024Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45830753X?aid=kb-online-bibliotheek&sid=20&dts=1773745888590&sig=1038fa2c00526193de5335cff072275253f9e577ca3467f9aa384c7f8f895996&width=320" alt="Omslag van 'De meedogenloze detectives'" title="Omslag van 'De meedogenloze detectives'">
+<p>Als op een buurtfeest in David’s buurt plots een moord plaatsvindt raken hij en zijn buurmeisje Nina verwikkeld in een spannende zoektocht naar de moordenaar. Zullen ze de waarheid achterhalen? Vanaf ca. 10 jaar.</p>]]></content>
+        <author>
+            <name>Evelien Mentink</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Een landhuis vol geheimen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/458307815/een-landhuis-vol-geheimen-marieke-smithuis</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/458307815/een-landhuis-vol-geheimen-marieke-smithuis"/>
@@ -116,17 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De meedogenloze detectives]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45830753X/de-meedogenloze-detectives-evelien-mentink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45830753X/de-meedogenloze-detectives-evelien-mentink"/>
-        <updated>2026-03-18T07:48:02.024Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45830753X?aid=kb-online-bibliotheek&sid=20&dts=1773745888590&sig=1038fa2c00526193de5335cff072275253f9e577ca3467f9aa384c7f8f895996&width=320" alt="Omslag van 'De meedogenloze detectives'" title="Omslag van 'De meedogenloze detectives'">
-<p>Als op een buurtfeest in David’s buurt plots een moord plaatsvindt raken hij en zijn buurmeisje Nina verwikkeld in een spannende zoektocht naar de moordenaar. Zullen ze de waarheid achterhalen? Vanaf ca. 10 jaar.</p>]]></content>
-        <author>
-            <name>Evelien Mentink</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De vrouw de baas]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/446937177/de-vrouw-de-baas-marijn-heemskerk</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/446937177/de-vrouw-de-baas-marijn-heemskerk"/>
@@ -136,29 +136,6 @@
 <p>Opstellen over prostitutie in Nederland.</p>]]></content>
         <author>
             <name>Marijn Heemskerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/449078760/rebel-elle-kennedy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/449078760/rebel-elle-kennedy"/>
-        <updated>2026-03-18T07:48:02.935Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A449078760?aid=kb-online-bibliotheek&sid=20&dts=1773745958843&sig=34090faac862295cc5629933a13e364a76899cb622a13a1b1cd0cc73ddcae5f1&width=320" alt="Omslag van 'Rebel'" title="Omslag van 'Rebel'">
-<p>Casey is veel veranderd sinds ze vorig jaar bijna omkwam bij een ongeluk. Fenn koestert een groot geheim: hij weet iets belangrijks over haar bijna-dood ervaring. Wanneer zijn geheim uitkomt, probeert hij Casey weer voor zich te winnen. Vanaf ca. 15 jaar en ouder.</p>]]></content>
-        <author>
-            <name>Elle Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Door de barrière]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444690352/door-de-barri%C3%A8re-mariska-van-sprundel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444690352/door-de-barri%C3%A8re-mariska-van-sprundel"/>
-        <updated>2026-03-18T07:48:03.388Z</updated>
-        <summary type="html"><![CDATA[Hoe ga je om met de mentale uitdagingen van het hardlopen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444690352?aid=kb-online-bibliotheek&sid=20&dts=1773756820594&sig=ee882b39b9f637dbff568c103ad37e8768bdb26228f76d8c8b3c09e7038ec43b&width=320" alt="Omslag van 'Door de barrière'" title="Omslag van 'Door de barrière'">
-<p>Bespreking van de mentale aspecten van hardlopen.</p>]]></content>
-        <author>
-            <name>Mariska van Sprundel</name>
         </author>
     </entry>
     <entry>
@@ -197,39 +174,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boy next door]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444605991/boy-next-door-vi-keeland</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444605991/boy-next-door-vi-keeland"/>
-        <updated>2026-03-18T07:48:05.079Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444605991?aid=kb-online-bibliotheek&sid=20&dts=1773747833153&sig=b16fea87999ea882e2a93bea00b037ac0f188086f0ae338402193da92507da0e&width=320" alt="Omslag van 'Boy next door'" title="Omslag van 'Boy next door'">
-<p>Het geweldige nieuwe verhaal van Vi Keeland, bekend van De baas, De rivalen en veel andere heerlijke romances Na haar scheiding is Val op 37-jarige leeftijd ineens weer single na ruim twintig jaar. Ze besluit de zomer in haar eentje door te brengen in haar vakantiehuisje. Haar beste vriendin vindt dat ze lang genoeg heeft getreurd, en maakt een profiel voor haar aan op een datingapp. Val is heel erg tegen, helemaal als ze het gemaakte profiel onder ogen krijgt. Tot een van de gesprekken die ze heeft ineens wel heel erg leuk is. Ze is gecharmeerd van deze man, en laat zich overhalen om met hem af te spreken voor een drankje. Tot haar schrik blijkt de man met wie ze aan het praten is Ford te zijn, de zoon van de buren van het zomerhuisje naast dat van haar. Ford is heel aantrekkelijk, maar ook bijna tien jaar jonger dan Val. Ze vindt hem veel te jong, en kapt de date af. Maar raad eens wie die zomer in het zomerhuis van zijn ouders verblijft…? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Vi Keeland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dagdroom]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444690336/dagdroom-hannah-grace</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444690336/dagdroom-hannah-grace"/>
-        <updated>2026-03-18T07:48:05.642Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444690336?aid=kb-online-bibliotheek&sid=20&dts=1773749011175&sig=b6c942cd69da4504133e1140b6ad621dc1a618bfbf9cd1454e6e49a0f6e18902&width=320" alt="Omslag van 'Dagdroom'" title="Omslag van 'Dagdroom'">
-<p>Als een slimme studente een ijshockyer bijles geeft, bloeit daaruit een mooie vriendschap op.</p>]]></content>
-        <author>
-            <name>Hannah Grace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hou je stil]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444679995/hou-je-stil-marjolein-visser</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444679995/hou-je-stil-marjolein-visser"/>
-        <updated>2026-03-18T07:48:06.075Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444679995?aid=kb-online-bibliotheek&sid=20&dts=1773752577510&sig=422caefb46631c463f701aac72e5495dfe06f03f9e81eaa781b18e08026c41af&width=320" alt="Omslag van 'Hou je stil'" title="Omslag van 'Hou je stil'">
-<p>Een teruggetrokken jongen die Mexico is ontvlucht, probeert zijn leven op te bouwen tijdens een stage aan een Nederlandse universiteit.</p>]]></content>
-        <author>
-            <name>Marjolein Visser</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De tijd, de waarheid en de geschiedenis]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/448832828/de-tijd--de-waarheid-en-de-geschiedenis-piet-de-rooy</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/448832828/de-tijd--de-waarheid-en-de-geschiedenis-piet-de-rooy"/>
@@ -253,6 +197,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hou je stil]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444679995/hou-je-stil-marjolein-visser</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444679995/hou-je-stil-marjolein-visser"/>
+        <updated>2026-03-18T07:48:06.075Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444679995?aid=kb-online-bibliotheek&sid=20&dts=1773752577510&sig=422caefb46631c463f701aac72e5495dfe06f03f9e81eaa781b18e08026c41af&width=320" alt="Omslag van 'Hou je stil'" title="Omslag van 'Hou je stil'">
+<p>Een teruggetrokken jongen die Mexico is ontvlucht, probeert zijn leven op te bouwen tijdens een stage aan een Nederlandse universiteit.</p>]]></content>
+        <author>
+            <name>Marjolein Visser</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kinderen in oorlogstijd]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/446626880/kinderen-in-oorlogstijd-steffie-van-den-oord</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/446626880/kinderen-in-oorlogstijd-steffie-van-den-oord"/>
@@ -261,6 +216,51 @@
 <p>Verzameling van veertien persoonlijke verhalen over de uiteenlopende ervaringen van Nederlandse kinderen tijdens de Tweede Wereldoorlog. Met zwart-witfoto’s.</p>]]></content>
         <author>
             <name>Steffie van den Oord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dagdroom]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444690336/dagdroom-hannah-grace</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444690336/dagdroom-hannah-grace"/>
+        <updated>2026-03-18T07:48:05.642Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444690336?aid=kb-online-bibliotheek&sid=20&dts=1773749011175&sig=b6c942cd69da4504133e1140b6ad621dc1a618bfbf9cd1454e6e49a0f6e18902&width=320" alt="Omslag van 'Dagdroom'" title="Omslag van 'Dagdroom'">
+<p>Als een slimme studente een ijshockyer bijles geeft, bloeit daaruit een mooie vriendschap op.</p>]]></content>
+        <author>
+            <name>Hannah Grace</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/449078760/rebel-elle-kennedy</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/449078760/rebel-elle-kennedy"/>
+        <updated>2026-03-18T07:48:02.935Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A449078760?aid=kb-online-bibliotheek&sid=20&dts=1773745958843&sig=34090faac862295cc5629933a13e364a76899cb622a13a1b1cd0cc73ddcae5f1&width=320" alt="Omslag van 'Rebel'" title="Omslag van 'Rebel'">
+<p>Casey is veel veranderd sinds ze vorig jaar bijna omkwam bij een ongeluk. Fenn koestert een groot geheim: hij weet iets belangrijks over haar bijna-dood ervaring. Wanneer zijn geheim uitkomt, probeert hij Casey weer voor zich te winnen. Vanaf ca. 15 jaar en ouder.</p>]]></content>
+        <author>
+            <name>Elle Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Door de barrière]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444690352/door-de-barri%C3%A8re-mariska-van-sprundel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444690352/door-de-barri%C3%A8re-mariska-van-sprundel"/>
+        <updated>2026-03-18T07:48:03.388Z</updated>
+        <summary type="html"><![CDATA[Hoe ga je om met de mentale uitdagingen van het hardlopen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444690352?aid=kb-online-bibliotheek&sid=20&dts=1773756820594&sig=ee882b39b9f637dbff568c103ad37e8768bdb26228f76d8c8b3c09e7038ec43b&width=320" alt="Omslag van 'Door de barrière'" title="Omslag van 'Door de barrière'">
+<p>Bespreking van de mentale aspecten van hardlopen.</p>]]></content>
+        <author>
+            <name>Mariska van Sprundel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boy next door]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444605991/boy-next-door-vi-keeland</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444605991/boy-next-door-vi-keeland"/>
+        <updated>2026-03-18T07:48:05.079Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444605991?aid=kb-online-bibliotheek&sid=20&dts=1773747833153&sig=b16fea87999ea882e2a93bea00b037ac0f188086f0ae338402193da92507da0e&width=320" alt="Omslag van 'Boy next door'" title="Omslag van 'Boy next door'">
+<p>Het geweldige nieuwe verhaal van Vi Keeland, bekend van De baas, De rivalen en veel andere heerlijke romances Na haar scheiding is Val op 37-jarige leeftijd ineens weer single na ruim twintig jaar. Ze besluit de zomer in haar eentje door te brengen in haar vakantiehuisje. Haar beste vriendin vindt dat ze lang genoeg heeft getreurd, en maakt een profiel voor haar aan op een datingapp. Val is heel erg tegen, helemaal als ze het gemaakte profiel onder ogen krijgt. Tot een van de gesprekken die ze heeft ineens wel heel erg leuk is. Ze is gecharmeerd van deze man, en laat zich overhalen om met hem af te spreken voor een drankje. Tot haar schrik blijkt de man met wie ze aan het praten is Ford te zijn, de zoon van de buren van het zomerhuisje naast dat van haar. Ford is heel aantrekkelijk, maar ook bijna tien jaar jonger dan Val. Ze vindt hem veel te jong, en kapt de date af. Maar raad eens wie die zomer in het zomerhuis van zijn ouders verblijft…? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Vi Keeland</name>
         </author>
     </entry>
     <entry>
@@ -293,25 +293,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beauty en de boer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45954666X/beauty-en-de-boer-jos%C3%A9-vriens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45954666X/beauty-en-de-boer-jos%C3%A9-vriens"/>
-        <updated>2026-03-16T08:03:54.202Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45954666X?aid=kb-online-bibliotheek&sid=20&dts=1773563366436&sig=9b294c8970438586437ef9ed6a63e43b79bebab3b9327b878b677242261efe9d&width=320" alt="Omslag van 'Beauty en de boer'" title="Omslag van 'Beauty en de boer'">
-<p>Priscilla is een verwende jonge vrouw, die nooit veel moeite hoeft te doen om te krijgen wat ze wil. Ze verveelt zich en heeft behoefte aan een uitdaging, die zich al snel aandient in de gedaante van een nietsvermoedende boer. Met haar vriendin Samantha sluit ze de weddenschap dat ze de boerenzoon binnen een korte tijd zo kan veranderen dat hij een aantrekkelijke man wordt die volledig voor haar valt. Het slachtoffer heeft er echter andere ideeën over... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De schoonzoon]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459546589/de-schoonzoon-rita-muilwijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459546589/de-schoonzoon-rita-muilwijk"/>
+        <updated>2026-03-16T08:03:56.042Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459546589?aid=kb-online-bibliotheek&sid=20&dts=1773570037339&sig=8fccc4d883ea181a0f692396434f0e54a4bf6e62fb2f80f44d41422e3691526b&width=320" alt="Omslag van 'De schoonzoon'" title="Omslag van 'De schoonzoon'">
+<p>De schoonzoon is een psychologische roman over Een vader die zijn dochter volledig opeist. Een moeder die tegen wil en dank buitenspel komt te staan. Een schoonzoon die met charme en sluwheid aan geheimen morrelt tot de waarheid zich onvermijdelijk openbaart. Een plot dat zich onverwacht opent als een val. Deze tragikomische roman laat zien hoe macht niet luid schreeuwt, maar zacht fluistert - via aanrakingen, stiltes, verleiding. Rita Muilwijk (Bloedkoralen, De geluktheorie) schrijft met onderhuidse spanning, wrange humor en een scherp oog voor menselijke verhoudingen. Een roman die, in de geest van Foucault, laat zien hoe macht zich hecht aan het lichaam, juist daar waar liefde het meest vanzelfsprekend lijkt. Muilwijk schrijft met vaart en hanteert een soepele schrijfstijl. Deze auteur schuwt controversiële onderwerpen niet. Dat is een compliment in onze geborneerde maatschappij. Lex Jansen Net zoals in Bloedkoralen zijn de dialogen weer sterk. Marcel Möring </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>José Vriens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een harde noot]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459546635/een-harde-noot-jos%C3%A9-vriens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459546635/een-harde-noot-jos%C3%A9-vriens"/>
-        <updated>2026-03-16T08:03:55.580Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459546635?aid=kb-online-bibliotheek&sid=20&dts=1773640025853&sig=b17f23706b710a5683639cb0fb355de8f2b89967f24144215def1ebd91942e70&width=320" alt="Omslag van 'Een harde noot'" title="Omslag van 'Een harde noot'">
-<p>Magda Teurlings wordt dood aangetroffen in de bibliotheek. In eerste instantie lijkt het op een hartstilstand, maar al snel komt de bevriende huisarts erachter dat er iets heel anders aan de hand is. Ze blijkt om het leven te zijn gebracht. Iedereen die op dat moment aanwezig was wordt verdacht, maar de aandacht gaat vooral uit naar Janos, de Griekse vriend van dochter Naomi. Hij heeft een motief én een strafblad. Naomi kan niet geloven dat haar vriend tot zoiets in staat is. Als ze echter op de computer van haar moeder allerlei belastende e-mails en foto's aantreft, dringt het langzaam tot haar door dat met de dood van haar moeder haar hele leven op losse schroeven komt te staan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>José Vriens</name>
+            <name>Rita Muilwijk</name>
         </author>
     </entry>
     <entry>
@@ -344,25 +333,37 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De schoonzoon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459546589/de-schoonzoon-rita-muilwijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459546589/de-schoonzoon-rita-muilwijk"/>
-        <updated>2026-03-16T08:03:56.042Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459546589?aid=kb-online-bibliotheek&sid=20&dts=1773570037339&sig=8fccc4d883ea181a0f692396434f0e54a4bf6e62fb2f80f44d41422e3691526b&width=320" alt="Omslag van 'De schoonzoon'" title="Omslag van 'De schoonzoon'">
-<p>De schoonzoon is een psychologische roman over Een vader die zijn dochter volledig opeist. Een moeder die tegen wil en dank buitenspel komt te staan. Een schoonzoon die met charme en sluwheid aan geheimen morrelt tot de waarheid zich onvermijdelijk openbaart. Een plot dat zich onverwacht opent als een val. Deze tragikomische roman laat zien hoe macht niet luid schreeuwt, maar zacht fluistert - via aanrakingen, stiltes, verleiding. Rita Muilwijk (Bloedkoralen, De geluktheorie) schrijft met onderhuidse spanning, wrange humor en een scherp oog voor menselijke verhoudingen. Een roman die, in de geest van Foucault, laat zien hoe macht zich hecht aan het lichaam, juist daar waar liefde het meest vanzelfsprekend lijkt. Muilwijk schrijft met vaart en hanteert een soepele schrijfstijl. Deze auteur schuwt controversiële onderwerpen niet. Dat is een compliment in onze geborneerde maatschappij. Lex Jansen Net zoals in Bloedkoralen zijn de dialogen weer sterk. Marcel Möring </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een harde noot]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459546635/een-harde-noot-jos%C3%A9-vriens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459546635/een-harde-noot-jos%C3%A9-vriens"/>
+        <updated>2026-03-16T08:03:55.580Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459546635?aid=kb-online-bibliotheek&sid=20&dts=1773640025853&sig=b17f23706b710a5683639cb0fb355de8f2b89967f24144215def1ebd91942e70&width=320" alt="Omslag van 'Een harde noot'" title="Omslag van 'Een harde noot'">
+<p>Magda Teurlings wordt dood aangetroffen in de bibliotheek. In eerste instantie lijkt het op een hartstilstand, maar al snel komt de bevriende huisarts erachter dat er iets heel anders aan de hand is. Ze blijkt om het leven te zijn gebracht. Iedereen die op dat moment aanwezig was wordt verdacht, maar de aandacht gaat vooral uit naar Janos, de Griekse vriend van dochter Naomi. Hij heeft een motief én een strafblad. Naomi kan niet geloven dat haar vriend tot zoiets in staat is. Als ze echter op de computer van haar moeder allerlei belastende e-mails en foto's aantreft, dringt het langzaam tot haar door dat met de dood van haar moeder haar hele leven op losse schroeven komt te staan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Rita Muilwijk</name>
+            <name>José Vriens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een ansichtkaart van Puffin Island]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458344214/een-ansichtkaart-van-puffin-island-christie-barlow</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458344214/een-ansichtkaart-van-puffin-island-christie-barlow"/>
-        <updated>2026-03-13T07:39:21.954Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344214?aid=kb-online-bibliotheek&sid=20&dts=1773336088252&sig=72e64ce85e4808b56795ac9c4bc01c977724380a214654962b39d56831c29bae&width=320" alt="Omslag van 'Een ansichtkaart van Puffin Island'" title="Omslag van 'Een ansichtkaart van Puffin Island'">
-<p>Een oude ansichtkaart gooit het leven van een jonge dertiger op zijn kop. In plaats van een geplande tour door Europa, besluit ze af te reizen naar een afgelegen eiland, vastbesloten om een geheim uit haar oma’s verleden te ontrafelen. Wat daar gebeurt, zal haar leven voorgoed veranderen.</p>]]></content>
+        <title type="html"><![CDATA[Beauty en de boer]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45954666X/beauty-en-de-boer-jos%C3%A9-vriens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45954666X/beauty-en-de-boer-jos%C3%A9-vriens"/>
+        <updated>2026-03-16T08:03:54.202Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45954666X?aid=kb-online-bibliotheek&sid=20&dts=1773563366436&sig=9b294c8970438586437ef9ed6a63e43b79bebab3b9327b878b677242261efe9d&width=320" alt="Omslag van 'Beauty en de boer'" title="Omslag van 'Beauty en de boer'">
+<p>Priscilla is een verwende jonge vrouw, die nooit veel moeite hoeft te doen om te krijgen wat ze wil. Ze verveelt zich en heeft behoefte aan een uitdaging, die zich al snel aandient in de gedaante van een nietsvermoedende boer. Met haar vriendin Samantha sluit ze de weddenschap dat ze de boerenzoon binnen een korte tijd zo kan veranderen dat hij een aantrekkelijke man wordt die volledig voor haar valt. Het slachtoffer heeft er echter andere ideeën over... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Christie Barlow</name>
+            <name>José Vriens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wie is de baas?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458344737/wie-is-de-baas--arwen-kleyngeld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458344737/wie-is-de-baas--arwen-kleyngeld"/>
+        <updated>2026-03-13T07:39:22.477Z</updated>
+        <summary type="html"><![CDATA[Alles over politiek (en hoe het werkt)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458344737?aid=kb-online-bibliotheek&sid=20&dts=1773353054019&sig=607b9cea44dd775f2641057dd9e9b62990373b7f556f9c8ef7e933cf034082b9&width=320" alt="Omslag van 'Wie is de baas?'" title="Omslag van 'Wie is de baas?'">
+<p>Leer alles over politiek. Met informatieve stukken, verhalen en zwart-witillustraties met steunkleur blauw. Vanaf ca. 9 t/m 12 jaar.</p>]]></content>
+        <author>
+            <name>Arwen Kleyngeld</name>
         </author>
     </entry>
 </feed>
