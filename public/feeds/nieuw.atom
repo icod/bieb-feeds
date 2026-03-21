@@ -2,11 +2,238 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-03-20T07:40:48.067Z</updated>
+    <updated>2026-03-21T07:28:33.246Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Drive Me Home]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458303917/drive-me-home-carly-robyn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458303917/drive-me-home-carly-robyn"/>
+        <updated>2026-03-21T07:28:22.400Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458303917?aid=kb-online-bibliotheek&sid=20&dts=1774056297450&sig=9f80a6aea9a6a187318129be68bd4f8f8aa43607172c5933fcf7a5a651c35589&width=320" alt="Omslag van 'Drive Me Home'" title="Omslag van 'Drive Me Home'">
+<p>Charlotte Walker weet na haar afstuderen nog niet wat ze wil, dus grijpt ze haar kans om de wereld rond te reizen met haar broer en zijn Formule 1-team. Wat het nog beter maakt: Lucas Adler, AlphaVites stercoureur, en een getatoeëerde Griekse god die tot leven lijkt te zijn gekomen. Ze is al jaren verliefd op hem en hun zinderende chemie is onmogelijk te ontkennen.</p><p>Lucas weet dat Charlotte, het zusje van zijn teamgenoot, taboe is. Hij heeft door bittere ervaring geleerd dat grenzen overschrijden relaties kan verwoesten. Maar als ze onderweg voortdurend samen zijn, daagt de prachtige Charlotte – met haar charme en aanstekelijke energie – hem uit zoals niemand dat ooit eerder heeft gedaan.</p><p>Terwijl hun gevoelens groeien, moeten Charlotte en Lucas beslissen of hun ‘lang en gelukkig’ een prijs is waarvoor het de moeite waard is om te vechten – tot aan de finish… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Carly Robyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De steppewolf]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394885651/de-steppewolf-hermann-hesse</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394885651/de-steppewolf-hermann-hesse"/>
+        <updated>2026-03-21T07:28:22.827Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394885651?aid=kb-online-bibliotheek&sid=20&dts=1774077793001&sig=e61427e92ae1fc6df779c8e199661ebc22168970050d61c382791453a1acb960&width=320" alt="Omslag van 'De steppewolf'" title="Omslag van 'De steppewolf'">
+<p>De Steppewolf is het symbool voor de figuur Harry Haller, die als een wrede wolf eenzaam door de steppe van deze wereld doolt, ertegen in opstand komt, overal doorheen wil breken. Het is een tocht door donkere labyrinten van hartstocht, laster, twijfel, nihilisme en tot de rand van zelfmoord leidende walging. Het verhaal biedt niet zoals Siddharta een harmonische oplossing, maar eindigt ook niet vertwijfeld. Haller begint het leven opnieuw. Hij wordt zich bewust dat achter alle verschijnselen in deze wereld tijdloos en onaantastbaar de ideeën staan, dat er een hogere, onvergankelijke wereld is van waaruit de geest tot de mensen spreekt en een gouden spoor trekt door het warrige duister. Hermann Hesse (1877-1962) ontving in 1946 de Nobelprijs voor Literatuur. Tot zijn beroemdste romans horen Demian, Siddharta, Narziss en Goldmund en Het Kralenspel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hermann Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het kralenspel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394885643/het-kralenspel-hermann-hesse</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394885643/het-kralenspel-hermann-hesse"/>
+        <updated>2026-03-21T07:28:23.413Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394885643?aid=kb-online-bibliotheek&sid=20&dts=1774078102923&sig=26065780e42436793592aa74a5a43f2ae010b2a05b1682d2c1a429116c77b88d&width=320" alt="Omslag van 'Het kralenspel'" title="Omslag van 'Het kralenspel'">
+<p>Het Kralenspel is een utopische roman over de strijd van de mens tegen de barbaarse machtswellust. Decor van deze toekomstroman is de denkbeeldige staat Kastalië, waarin het 'Kralenspel', een ongekend instrument, de totale inhoud en alle waarden van onze cultuur heeft verwerkt. Wat Hesse - diep geschokt door de Tweede Wereldoorlog - wilde, was de genezende krachten zichtbaar maken die uit de chaos weer tot orde kunnen leiden. Het Kralenspel wordt beschouwd als het magnum opus van de in 1946 met de Nobelprijs voor Literatuur bekroonde schrijver. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hermann Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siddhartha]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394882431/siddhartha-hermann-hesse</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394882431/siddhartha-hermann-hesse"/>
+        <updated>2026-03-21T07:28:23.946Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394882431?aid=kb-online-bibliotheek&sid=20&dts=1774056268006&sig=0f1516ad073e475b79856349b09d3ccb882f162b3b88f3a9f01de9067fab7f8a&width=320" alt="Omslag van 'Siddhartha'" title="Omslag van 'Siddhartha'">
+<p>Een jonge Brahmaan uit het oude India moet verschillende stadia, reikend van ascese tot wellustig genieten, doormaken voordat het streven naar macht en bezit wordt overwonnen ten gunste van harmonie en waarachtigheid.</p>]]></content>
+        <author>
+            <name>Hermann Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Narziss en Goldmund]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394887751/narziss-en-goldmund-hermann-hesse</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394887751/narziss-en-goldmund-hermann-hesse"/>
+        <updated>2026-03-21T07:28:24.345Z</updated>
+        <summary type="html"><![CDATA[een vertelling]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394887751?aid=kb-online-bibliotheek&sid=20&dts=1774059630655&sig=f0e2cf729382cc11d7dd8102630584bc674ed13f06a70102b770ed8aa8eb3234&width=320" alt="Omslag van 'Narziss en Goldmund'" title="Omslag van 'Narziss en Goldmund'">
+<p>In de late middeleeuwen krijgt in de relatie tussen twee totaal verschillende mannen het conflict tussen ascese en de zinnelijkheid gestalte.</p>]]></content>
+        <author>
+            <name>Hermann Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demian]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/427882435/demian-hermann-hesse</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/427882435/demian-hermann-hesse"/>
+        <updated>2026-03-21T07:28:24.738Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427882435?aid=kb-online-bibliotheek&sid=20&dts=1774056176449&sig=f963e1f7ab32d9616ff4bde7aecbc6b246ebd7892269b8720d017f76fc99801f&width=320" alt="Omslag van 'Demian'" title="Omslag van 'Demian'">
+<p>Beschrijving van de psychische rijping van een scholier, die zeer wordt beïnvloed door zijn iets oudere schoolkameraad Demian.</p>]]></content>
+        <author>
+            <name>Hermann Hesse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hier klopt iets niet]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459616560/hier-klopt-iets-niet-don-de-jong</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459616560/hier-klopt-iets-niet-don-de-jong"/>
+        <updated>2026-03-21T07:28:25.200Z</updated>
+        <summary type="html"><![CDATA[Waarom ik alles opgaf om mezelf te redden]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459616560?aid=kb-online-bibliotheek&sid=20&dts=1774056177908&sig=354e7f7cf0489b4a1c154c81c93333674efa45e285c8b4bf09916129ccdf9108&width=320" alt="Omslag van 'Hier klopt iets niet'" title="Omslag van 'Hier klopt iets niet'">
+<p>Ruim 1,1 miljoen volgers kijken naar Dons dagelijkse vlogs vol gekke stunts, snelle auto’s en toffe reizen. Maar wat zij niet zien, is dat hij mentaal en fysiek steeds verder aftakelt. Als het echt niet meer gaat, neemt hij een ingrijpend besluit: hij stopt met YouTube, verkoopt zijn auto’s en huizen en gaat weer op de zolderkamer bij zijn ouders wonen.  In Hier klopt iets niet vertelt Don eindelijk het echte verhaal. Over zijn liefde voor YouTube, zijn leven als hartpatiënt en de trauma’s die hij jarenlang wegstopte – tot ze keihard terugkwamen in de vorm van PTSS, waardoor hij wel met alles móést stoppen. Hij pakt zijn PTSS net zo radicaal aan als alles in zijn leven, van een extreem dieet tot psychedelica. Wat volgt is een jaar vol therapie en diepe dalen, maar ook inzichten in wat er echt toe doet in het leven.  Rauw, grappig en openhartig – dit is Don zoals je hem nog nooit eerder hebt gezien.  ‘Een verhaal dat binnenkomt en blijft hangen. Don bewijst dat echte kracht ontstaat wanneer je het lef hebt om je grootste angsten niet weg te duwen, maar ze recht in de ogen te kijken.’ – Mark Tuitert </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Don De Jong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een langzaam stervende zaak]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447153447/een-langzaam-stervende-zaak-elizabeth-george</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447153447/een-langzaam-stervende-zaak-elizabeth-george"/>
+        <updated>2026-03-21T07:28:25.652Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153447?aid=kb-online-bibliotheek&sid=20&dts=1774054885520&sig=f8a19cb92ee0eb715ea245075fdee8f3b60ea042efda42a32f965650edfde291&width=320" alt="Omslag van 'Een langzaam stervende zaak'" title="Omslag van 'Een langzaam stervende zaak'">
+<p>Michael Lobb wordt dood aangetroffen op de vloer van de tinlegeringwerkplaats van zijn familie in Cornwall. Het is al verdacht genoeg dat zijn lichaam werd gevonden door een vertegenwoordiger van EcoMining, een bedrijf dat graag het land van zijn familie wil overnemen. De situatie wordt nog vreemder wanneer blijkt dat Michael de meerderheidsaandeelhouder van het bedrijf was en het enige obstakel vormde voor het sluiten van een deal.</p><p>Detective Beatrice Hannaford ontdekt al snel enkele mysterieuze gebeurtenissen in de dagen voor Michaels dood. Hierdoor wijst de verdenking in een andere richting.</p><p>Dan verschijnt Kayla, een jonge vrouw die half zo oud is als Michael en die onlangs weduwe is geworden.</p><p>Inspecteur Thomas Lynley en zijn collega Barbara Havers worden ingeschakeld om de misdaad op te lossen en gerechtigheid te zoeken in een gemeenschap vol wantrouwende mensen die alle buitenstaanders vrezen… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elizabeth George</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeugd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444294813/jeugd-peter-heerschop---viggo-waas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444294813/jeugd-peter-heerschop---viggo-waas"/>
+        <updated>2026-03-21T07:28:26.071Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444294813?aid=kb-online-bibliotheek&sid=20&dts=1774059629661&sig=83b16b41f1931f4159f2406dca5622d3dd2423e10fde7dbe5954aed2e35c5923&width=320" alt="Omslag van 'Jeugd'" title="Omslag van 'Jeugd'">
+<p>Wie is die jongen? Dat vroeg Viggo zich opeens af terwijl hij naar een jeugdfoto van zichzelf zat te staren. Wat is er over van die jongen? Ben ik dat ook nog? Peter vond dat gelijk een prachtig uitgangspunt voor een nieuwe theatervoorstelling. Viggo niet. Maar wel om elkaar de verhalen van toen te vertellen. Immers, jongens waren wij! Daarom een week naar Texel.</p><p>Wat gebeurt er als twee mannen die elkaar al veertig jaar kennen een week lang samen in een huisje op Texel gaan zitten om herinneringen op te halen? Dan ontstaat er een boek vol ontroerende verhalen, grappige anekdotes en eerlijke inzichten over hoe het is om jong te zijn – én ouder te worden.</p><p>Met de onbevangenheid van toen en de wijsheid van nu blikken Peter Heerschop en Viggo Waas terug op hun kindertijd, hun ouders, de geur van patchoeli, voetbalplaatjes, eerste liefdes, vouwfietsen en gymleraren. Met hun kenmerkende humor en warmte graven ze in een gedeeld verleden dat soms verrassend verschillend blijkt. Jeugd is een boek over ouder worden, herinneren, loslaten en vasthouden – en over hoe je, zelfs met een halve eeuw ervaring, nog altijd die jongen van toen kunt zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Peter Heerschop</name>
+        </author>
+        <author>
+            <name>Viggo Waas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De dondermaker]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447153463/de-dondermaker-tina-martin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447153463/de-dondermaker-tina-martin"/>
+        <updated>2026-03-21T07:28:26.475Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153463?aid=kb-online-bibliotheek&sid=20&dts=1774059628158&sig=5603f88d997907a1aaf239d1c6703286e76de8306e3e5300f5fdcb8a4c98be9d&width=320" alt="Omslag van 'De dondermaker'" title="Omslag van 'De dondermaker'">
+<p>Bij 22 graden onder nul wordt het lichaam van een verminkte man gevonden op het ijs. Rechercheur Idun Lind en haar collega Tareq Shaheen onderzoeken de moord en belanden in een wereld die draait om geld, geweld en macht, en waarin jonge vrouwen als handelswaar dienen.Jaren eerder volgen we Peter en Silje, twee kinderen die onder schrijnende omstandigheden een hechte vriendschap opbouwen.Verleden en heden worden met elkaar verweven in een bloedstollende misdaadroman waarin de waarde van een mensenleven schrikbarend licht wordt bevonden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tina Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schaduwspel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447064673/schaduwspel-cilla-en-rolf-b%C3%B6rjlind</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447064673/schaduwspel-cilla-en-rolf-b%C3%B6rjlind"/>
+        <updated>2026-03-21T07:28:26.850Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447064673?aid=kb-online-bibliotheek&sid=20&dts=1774047733522&sig=85687a07dd2bd52f4b360cba0adc4e5993d9cdde6e5580271ab0be8500f072ca&width=320" alt="Omslag van 'Schaduwspel'" title="Omslag van 'Schaduwspel'">
+<p>Een lichaam in een verlaten Zweeds boseen oude Sami-offerplaatsen een gemeenschap die leeft in angst</p><p>Wanneer in het bos bij Slagtjärn een lichaam wordt gevonden in een mierenhoop, wordt Olivia Rönning ingeschakeld om de politie te helpen. Het lichaam is deels opgegeten en het hoofd ontbreekt. Er zijn geen vingerafdrukken in de registers te vinden en niemand is vermist gemeld. De bloedsporen die worden aangetroffen bij een oude Sami-offerplaats veroorzaken onrust in het dorp. Hoewel de gemeenschap openstaat voor buitenstaanders, groeit de spanning, mede door de aanwezigheid van een geïsoleerde fascistische familie. De dorpelingen zijn terughoudend om mee te werken met de politie, waardoor Olivia uiteindelijk de hulp moet inschakelen van Tom Stilton en Mette Olsäter.</p><p>  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Cilla En Rolf Börjlind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[59 minuten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447153412/59-minuten-holly-seddon</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447153412/59-minuten-holly-seddon"/>
+        <updated>2026-03-21T07:28:27.289Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153412?aid=kb-online-bibliotheek&sid=20&dts=1774059631647&sig=352a9b096ebe1ab9d94de6ed646f5748ee8f382786bf92d8b9820e0e02afca89&width=320" alt="Omslag van '59 minuten'" title="Omslag van '59 minuten'">
+<p>Wat zou je doen als je wist dat je nog slechts 59 minuten had voordat alles wat je liefhebt voorgoed verloren gaat? </p><p>Het is een gewone avond. Mensen zijn bezig met hun dagelijkse bezigheden: ze zijn onderweg naar huis, koken voor hun gezin, kruipen met hun geliefden op de bank. En dan komt het schokkende nieuwsbericht binnen dat ieders wereld op zijn kop zet:</p><p>Groot alarm. Dreiging nucleaire raketaanval voor Zuid-Engeland. 59 minuten tot inslag. Zoek onmiddellijk een schuilplaats. Dit is geen test.</p><p>Drie vrouwen vechten wanhopig om hun families te bereiken en te beschermen te midden van totale chaos. De gebruikelijke terugweg naar huis verandert in een nachtmerrie, met gevaar en onzekerheid op elke hoek. Zoek onmiddellijk veiligheid, want de tijd tikt weg...</p><p>  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Holly Seddon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewitched]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447153382/rewitched-lucy-jane-wood</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447153382/rewitched-lucy-jane-wood"/>
+        <updated>2026-03-21T07:28:27.735Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153382?aid=kb-online-bibliotheek&sid=20&dts=1774045650999&sig=77901ea88dc1b7f7addc381f0f287479f2af0ad780a6dd123eadd89d22bb856b&width=320" alt="Omslag van 'Rewitched'" title="Omslag van 'Rewitched'">
+<p>Belladonna Blackthorn is haar magie niet verloren, maar ze heeft het ook al lang niet gevoeld. De combinatie van haar werk in een boekwinkel in Londen, een toxische baas en het geheimhouden van haar identiteit valt zwaar, en dan heeft het perfectioneren van haar krachten geen voorrang.</p><p>Wanneer ze dertig wordt, roept Belles koven haar op voor een test, waarbij ze haar magie voorgoed zou kunnen verliezen. Ze heeft de maand oktober om zich te bewijzen, maar wordt tegengewerkt door duistere krachten. Belle heeft hulp nodig – van de vrouwen in haar leven, een onverwachte mentor én van een (frustrerende) bewaker die heeft gezworen haar te beschermen…</p><p>‘Rewitched heeft een magisch effect op de lezer… Dit is het ideale boek voor een herfstige of winterse avond.’ – My Weekly</p><p>‘Heerlijk. Een perfect boek om je onder een dekentje mee te verschuilen!’ – Bella</p><p>‘Soms is alles wat je nodig hebt de romanequivalent van Gilmore Girls…’ – Stylist </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lucy Jane Wood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pristina]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394902416/pristina-toine-heijmans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394902416/pristina-toine-heijmans"/>
+        <updated>2026-03-21T07:28:28.181Z</updated>
+        <summary type="html"><![CDATA[roman]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394902416?aid=kb-online-bibliotheek&sid=20&dts=1774024556806&sig=7113e95858621f70fb096006ab02ade23ea17f94db801cc4109a943689ff210c&width=320" alt="Omslag van 'Pristina'" title="Omslag van 'Pristina'">
+<p>'Pristina' van Toine Heijmans gaat over Albert Drilling, succesvol ambtenaar: trouw aan zijn minister en aan de wet. Zijn missies zijn geheim; in de voering van zijn colbert is tienduizend euro genaaid. Onderweg naar een eiland in de Noordzee leest hij het dossier van de jonge vrouw die hij zoekt. Een opdracht van niks. Maar op het eiland gelden andere wetten. 'Pristina' is een broeierig schimmenspel tussen twee mensen die tot elkaar zijn veroordeeld. De een leeft in hotels, de ander in vreemdelingenkampen. Allebei proberen ze het beste uit hun leven te halen, en allebei weten ze dat een van hen gaat verliezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Toine Heijmans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/407952160/fuzzie-hanna-bervoets</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/407952160/fuzzie-hanna-bervoets"/>
+        <updated>2026-03-21T07:28:28.583Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A407952160?aid=kb-online-bibliotheek&sid=20&dts=1774021280993&sig=71105dd03e2f7ec560fe149265d67c074691acb8a8d305a9f4e65fa58c45d22e&width=320" alt="Omslag van 'Fuzzie'" title="Omslag van 'Fuzzie'">
+<p>Enkele mensen ontvangen op raadselachtige wijze een pluizig bolletje dat tegen hen praat en hen lijkt te begrijpen.</p>]]></content>
+        <author>
+            <name>Hanna Bervoets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nederland ligt er prima bij]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/413345084/nederland-ligt-er-prima-bij-toine-heijmans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/413345084/nederland-ligt-er-prima-bij-toine-heijmans"/>
+        <updated>2026-03-21T07:28:29.069Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A413345084?aid=kb-online-bibliotheek&sid=20&dts=1774021244640&sig=192458ba03dccfa58e1dc4ba11d442e9d7555db002fde68b046f20298093522f&width=320" alt="Omslag van 'Nederland ligt er prima bij'" title="Omslag van 'Nederland ligt er prima bij'">
+<p>'Nederland ligt er prima bij' is een portret van een prima land, geschreven door Toine Heijmans, de journalist met misschien wel de mooiste pen van Nederland. Over Nederland valt een hoop te zeuren. Als je sommige opiniemakers en politici moet geloven, staan we aan de rand van de afgrond: vanachter hun vaak digitale spreekgestoeltes schetsen ze het beeld van een verdeeld land in verwarring, ten prooi aan populisme en moreel verval. Maar wie echt gaat kijken ziet: Nederland ligt er prima bij. Toine Heijmans doorkruist ons land nu bijna drie jaar, als rondreizend columnist voor de Volkskrant. Hij komt overal en praat met iedereen. In binnensteden en buitenwijken, bij grote en kleine kwesties. Hij is bij de koning en bij de premier, maar ook bij de verliefde wethouder, de graaiende zorgbobo, en bij de man die probeert los van alles te leven in een bos. In Nederland ligt er prima bij komen al die schitterend vertelde verhalen bij elkaar. Heijmans neemt zijn lezers mee over de binnenwegen van de samenleving, en laat zien hoe aan tekentafels genomen beslissingen hun weerslag hebben op de levens van mensen in het land. Hij bezoekt een stervende kerk, nukkige salafisten, onbegrepen vluchtelingen en een overtuigde ganzenvergasser. Samen vormen zijn miniaturen een zeldzaam levendig en haarfijn beeld van het land en de tijd waarin we leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Toine Heijmans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Met mijn vader is niks mis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/422921246/met-mijn-vader-is-niks-mis-toine-heijmans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/422921246/met-mijn-vader-is-niks-mis-toine-heijmans"/>
+        <updated>2026-03-21T07:28:29.479Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A422921246?aid=kb-online-bibliotheek&sid=20&dts=1774029654486&sig=6fd4b8a24d32196c222d59475ed60da26b5c76090bdb272727c6f2c623f898f5&width=320" alt="Omslag van 'Met mijn vader is niks mis'" title="Omslag van 'Met mijn vader is niks mis'">
+<p>Persoonlijke columns door de Volkskrant-columnist over zijn vader die Alzheimer krijgt.</p>]]></content>
+        <author>
+            <name>Toine Heijmans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De moeders van Mahipar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434759880/de-moeders-van-mahipar-forugh-karimi</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434759880/de-moeders-van-mahipar-forugh-karimi"/>
+        <updated>2026-03-21T07:28:30.013Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434759880?aid=kb-online-bibliotheek&sid=20&dts=1774078109590&sig=fde18f425dad8e07ebcf135f562dbc7819e594a94fdbbecc8314ff9665409595&width=320" alt="Omslag van 'De moeders van Mahipar'" title="Omslag van 'De moeders van Mahipar'">
+<p>Ramín Sam Manzel (34) is radioloog. Als hij op vrijdag 6 januari 2017 terugkomt van zijn avond dienst treft hij zijn vrouw Sarah aan in een plas bloed bij hun appartement. Ze is neergestoken en de verdachte is voortvluchtig... Ramín is als klein jongetje met zijn moeder Lolo als vluchteling naar Nederland gekomen en Lolo houdt tot in het graf zijn afkomst angstvallig voor hem verborgen. Mondjesmaat komt Ramín te weten wie hij is en vanwaar hij komt – maar pas als zijn grote liefde Saráh Lolo’s dagboeken voor hem vertaalt, valt alles op z’n plek. Stukje bij beetje wordt ook duidelijk wie de dader is en dan komt alles in een heftige, maar ook ontroerende stroomversnelling. De hoofdpersonages Ramín, Lolo en Saráh vertellen de lezer een meerdere generaties omspannende, zeer bewogen familiegeschiedenis, maar bovenal is De moeders van Mahipar een ode aan de sterke vrouw </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Forugh Karimi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joseph Anton]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437026272/joseph-anton-salman-rushdie</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437026272/joseph-anton-salman-rushdie"/>
+        <updated>2026-03-21T07:28:30.426Z</updated>
+        <summary type="html"><![CDATA[Een memoir]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437026272?aid=kb-online-bibliotheek&sid=20&dts=1774023370711&sig=3384d345a9e74413e81d8860e4f20dd594ec1c40c53f00dad2ffe0aa76a1e2a2&width=320" alt="Omslag van 'Joseph Anton'" title="Omslag van 'Joseph Anton'">
+<p>Autobiografisch relaas van de Brits-Indiase schrijver (1947-</p><p> ) over zijn onderduikleven na het uitroepen van de fatwa van 1989 tot aan 2005.</p>]]></content>
+        <author>
+            <name>Salman Rushdie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De duivelsverzen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437026248/de-duivelsverzen-salman-rushdie</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437026248/de-duivelsverzen-salman-rushdie"/>
+        <updated>2026-03-21T07:28:30.971Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437026248?aid=kb-online-bibliotheek&sid=20&dts=1774078110546&sig=1eb874064c1b530393dce330eaa7b0c0e8f7a50370d127171fac7fba963a39bc&width=320" alt="Omslag van 'De duivelsverzen'" title="Omslag van 'De duivelsverzen'">
+<p>Boven Engeland ontploft een gekaapt vliegtuig. Tussen plastic bekertjes, zuurstofmaskers, afgerukte ledematen en herinneringen vallen twee figuren richting het Kanaal. Het zijn de beroemde acteur Djibriel Farisjta en de in driedelig grijs gestoken Saladin Chamcha, die uiteindelijk levend en wel op de Engelse kust aanspoelen. Een wonder, maar met een bijwerking. Djibriel krijgt een glanzend aureool terwijl Saladins benen steeds hariger worden, zijn voeten in hoeven veranderen en er hoornige bulten op zijn voorhoofd groeien. Ze zijn verkozen tot tegenstanders in de eeuwige strijd om Goed en Kwaad. Maar wie is wie? Terwijl de twee mannen door tijd en ruimte buitelen richting hun uiteindelijke confrontatie is de lezer getuige van een epos over liefde, hartstocht, bedrog en geloof. 'Een meesterwerk.' - The Sunday Times 'Een roman van gedaanteveranderingen, geesten, herinneringen, hallucinaties, openbaringen, reclamedeuntjes en grappen. Rushdie heeft de macht van de beschrijving en wij geven ons over.' - The Times Salman Rushdie is schrijver van veertien romans en een verhalenbundel. Voor Middernachtskinderen won hij de Booker Prize en de Best of the Booker. Hij schreef vier non-fictieboeken, waaronder Joseph Anton. Rushdie is lid van de American Academy of Arts and Letters en Distinguished Writer in Residence aan New York University. In 2007 werd hij geridderd voor zijn verdiensten aan de literatuur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Salman Rushdie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zwart op wit]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/44252546X/zwart-op-wit-elisabeth-koning---wilfred-takken</id>
@@ -20,6 +247,42 @@
         </author>
         <author>
             <name>Wilfred Takken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victoriestad]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437278921/victoriestad-salman-rushdie</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437278921/victoriestad-salman-rushdie"/>
+        <updated>2026-03-21T07:28:31.494Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437278921?aid=kb-online-bibliotheek&sid=20&dts=1774078111057&sig=7e3b112655832c937400bc20b6e7a2776927c81a7e881556ad292d053f249fbb&width=320" alt="Omslag van 'Victoriestad'" title="Omslag van 'Victoriestad'">
+<p>Het epische verhaal van een vrouw die een mythisch rijk tot leven ademt, om er vervolgens in de loop der eeuwen door vernietigd te worden – ontsproten uit de verbeelding van Booker Prize-winnaar en internationaal bestsellerauteur Salman Rushdie. In de nasleep van een onbeduidende veldslag tussen twee al lang vergeten koninkrijken in het veertiende-eeuwse Zuid-India heeft een negenjarig meisje een goddelijke ontmoeting die de loop van de geschiedenis zal veranderen. Nadat ze getuige is geweest van de dood van haar moeder wordt de verdrietige Pampa Kampana een medium voor de godin, die door de mond van het meisje begint te spreken. De godin verleent Pampa Kampana krachten die het begrip van het meisje te boven gaan en vertelt haar dat ze een rol zal spelen in de opkomst van een grote stad genaamd Bisnaga – letterlijk ‘victoriestad’ – het wereldwonder. De daaropvolgende tweehonderdvijftig jaar raakt het leven van Pampa Kampana nauw verweven met dat van Bisnaga, vanaf het moment dat de stad letterlijk wordt gezaaid uit een zak magische zaden totdat ze op een typisch menselijke manier ten onder gaat: door de hoogmoed van de machthebbers. Wanneer Pampa Kampana Bisnaga en haar burgers tot leven fluistert, probeert ze te voldoen aan de opdracht die ze van de godin heeft gekregen: vrouwen gelijke rechten geven in een patriarchale wereld. Maar alle verhalen zijn geneigd zich los te maken van hun schepper, en Bisnaga is geen uitzondering. Terwijl de jaren verstrijken, heersers komen en gaan, veldslagen worden gewonnen en verloren, en loyaliteiten wisselen, wordt het weefsel van Bisnaga een steeds complexer tapijt – met Pampa Kampana in het middelpunt. Dit verhaal, briljant vormgegeven als de vertaling van een oud epos, is een kroniek over liefde, avontuur en mythe en op zichzelf al een bewijs van de kracht van verhalen vertellen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Salman Rushdie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wat wij zagen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438991575/wat-wij-zagen-hanna-bervoets</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438991575/wat-wij-zagen-hanna-bervoets"/>
+        <updated>2026-03-21T07:28:31.906Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438991575?aid=kb-online-bibliotheek&sid=20&dts=1774024534784&sig=985fd7ef25dde762b4277c9e2358778e9263100355e06f87173d67948ca75b5d&width=320" alt="Omslag van 'Wat wij zagen'" title="Omslag van 'Wat wij zagen'">
+<p>Een jonge vrouw solliciteert naar een baan als content moderator bij een online platform. Het werk is zwaar en ze krijgt gruwelijke beelden voorgeschoteld, maar toch voelt ze zich op haar plek. Als ze verliefd wordt op een collega, lijkt de toekomst hen toe te lachen.</p>]]></content>
+        <author>
+            <name>Hanna Bervoets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over vrouwen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438239334/over-vrouwen-susan-sontag---bregje-hofstede</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438239334/over-vrouwen-susan-sontag---bregje-hofstede"/>
+        <updated>2026-03-21T07:28:32.384Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438239334?aid=kb-online-bibliotheek&sid=20&dts=1774031413853&sig=09045ebcd5af1840cf915c22b21936ee3ddbf27ada5e8e60118efca88d75646a&width=320" alt="Omslag van 'Over vrouwen'" title="Omslag van 'Over vrouwen'">
+<p>Essays van de Amerikaanse denker (1933-2004) over vrouwenemancipatie.</p>]]></content>
+        <author>
+            <name>Susan Sontag</name>
+        </author>
+        <author>
+            <name>Bregje Hofstede</name>
         </author>
     </entry>
     <entry>
@@ -72,288 +335,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Koolstofkoorts]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458307769/koolstofkoorts-bart-crezee</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458307769/koolstofkoorts-bart-crezee"/>
-        <updated>2026-03-18T07:48:01.545Z</updated>
-        <summary type="html"><![CDATA[Klimaatverandering, emissiehandel en ontbossing in het Congolese veenmoeras]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307769?aid=kb-online-bibliotheek&sid=20&dts=1773758549260&sig=596b33bb596e926ba2c3d6f8c9d4eed3ae0d2c25a7b0d7db82383f195629da49&width=320" alt="Omslag van 'Koolstofkoorts'" title="Omslag van 'Koolstofkoorts'">
-<p>Beschouwing over politieke, economische en sociale interacties rondom de ontdekking van een veenmoeras onder het regenwoud van Congo. Met kaarten in zwart-wit.</p>]]></content>
+        <title type="html"><![CDATA[Dit is ook China]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440228875/dit-is-ook-china-cindy-zhu-huijgen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440228875/dit-is-ook-china-cindy-zhu-huijgen"/>
+        <updated>2026-03-21T07:28:32.787Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440228875?aid=kb-online-bibliotheek&sid=20&dts=1774021432053&sig=38a058a8c280dbcfb639bec5906cd069883d1c11bd57cb20f430f36317ab870a&width=320" alt="Omslag van 'Dit is ook China'" title="Omslag van 'Dit is ook China'">
+<p>Persoonlijk verslag van een Nederlandse journaliste die als kind uit China werd geadopteerd, daar werkt als correspondent en onderzoek deed naar haar adoptiegeschiedenis.</p>]]></content>
         <author>
-            <name>Bart Crezee</name>
+            <name>Cindy Zhu Huijgen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een landhuis vol geheimen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458307815/een-landhuis-vol-geheimen-marieke-smithuis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458307815/een-landhuis-vol-geheimen-marieke-smithuis"/>
-        <updated>2026-03-18T07:48:01.085Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307815?aid=kb-online-bibliotheek&sid=20&dts=1773757737420&sig=cbc4ac792def2ac209e87819078b7abca05ecbcb52a2a214240525f639faf020&width=320" alt="Omslag van 'Een landhuis vol geheimen'" title="Omslag van 'Een landhuis vol geheimen'">
-<p>Als Noor en Wisse op het dak van een geheimzinnig landhuis klimmen, ontdekken ze dat er nieuwe mensen wonen. Ze raken bevriend met Béla, een rijke jongen die veel problemen heeft. Kunnen ze hem helpen? Met illustraties in kleur. Vanaf ca. 8 jaar.</p>]]></content>
+        <title type="html"><![CDATA[Paris]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443007683/paris-bert-wagendorp</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443007683/paris-bert-wagendorp"/>
+        <updated>2026-03-21T07:28:33.245Z</updated>
+        <summary type="html"><![CDATA[De memoires van Abel Sikkink]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443007683?aid=kb-online-bibliotheek&sid=20&dts=1774022721514&sig=e1afa74dd3010f44112a80147394e54168f8089ea45aa4ee54ac8189596dc329&width=320" alt="Omslag van 'Paris'" title="Omslag van 'Paris'">
+<p>Parijs 1867! De hoofdstad van de wereld, met z’n Wereldtentoonstelling, theaters, restaurants en cafés. Abel is er correspondent voor de New York Herald en een nieuwe wereld opent zich. Maar dan breekt in 1870 de Frans-Duitse oorlog uit en zitten Abel en zijn vriend Kalle opgesloten in een door bommen en hongersnood geteisterde stad. Als de vrede is getekend, komt het volk in de sloppenwijken in opstand en roepen de burgers van Parijs ‘La Commune’ uit, de grote revolte. Onder invloed van de anarchiste Louise Michel veranderen langzaam maar zeker Abels opvattingen. Kan hij blijven werken voor de conservatieve Herald? Voor het eerst sinds ze jongetjes waren reizen de twee vrienden naar hun geboortestreek. Abel zet intussen de zoektocht naar zijn broertje voort. In dit derde deel van 'De memoires van Abel Sikkink' zien we Parijs en het grillige Europa van de tweede helft van de negentiende eeuw. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Marieke Smithuis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De meedogenloze detectives]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45830753X/de-meedogenloze-detectives-evelien-mentink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45830753X/de-meedogenloze-detectives-evelien-mentink"/>
-        <updated>2026-03-18T07:48:02.024Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45830753X?aid=kb-online-bibliotheek&sid=20&dts=1773745888590&sig=1038fa2c00526193de5335cff072275253f9e577ca3467f9aa384c7f8f895996&width=320" alt="Omslag van 'De meedogenloze detectives'" title="Omslag van 'De meedogenloze detectives'">
-<p>Als op een buurtfeest in David’s buurt plots een moord plaatsvindt raken hij en zijn buurmeisje Nina verwikkeld in een spannende zoektocht naar de moordenaar. Zullen ze de waarheid achterhalen? Vanaf ca. 10 jaar.</p>]]></content>
-        <author>
-            <name>Evelien Mentink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wasdom]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458307785/wasdom-sophie-zijlstra</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458307785/wasdom-sophie-zijlstra"/>
-        <updated>2026-03-18T07:48:00.156Z</updated>
-        <summary type="html"><![CDATA[Een familieroman]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307785?aid=kb-online-bibliotheek&sid=20&dts=1773745725650&sig=db1b772695adbc1f8dfe74ee99688c0c3f72b5cf7acc3124fb9ba111d61293ca&width=320" alt="Omslag van 'Wasdom'" title="Omslag van 'Wasdom'">
-<p>Traditiegetrouw ontmoet de familie Van Sanberg de Geer elkaar in hun vakantievilla. De samenkomst is een gekoesterd familiegebruik, maar onder de oppervlakte broeien beladen geheimen over de herkomst van hun familiekapitaal.</p>]]></content>
-        <author>
-            <name>Sophie Zijlstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vader zoeken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458307556/vader-zoeken-mirjam-rotenstreich</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458307556/vader-zoeken-mirjam-rotenstreich"/>
-        <updated>2026-03-18T07:48:00.625Z</updated>
-        <summary type="html"><![CDATA[De eeuw van Natan Rotenstreich (1912-2014)]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307556?aid=kb-online-bibliotheek&sid=20&dts=1773746012534&sig=7a4efd5a3e37ee6352f6ccce3d21654dc6eec320314e4fb4934b1d25135bab15&width=320" alt="Omslag van 'Vader zoeken'" title="Omslag van 'Vader zoeken'">
-<p>Levensverhaal van de vader van de auteur, die in 1912 in Oekraïne werd geboren, diende in het Rode Leger en naar Nederland verhuisde nadat hij zijn hele familie verloor in de Holocaust. Met foto’s.</p>]]></content>
-        <author>
-            <name>Mirjam Rotenstreich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engelen des doods]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458307521/engelen-des-doods-hendrik-winters</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458307521/engelen-des-doods-hendrik-winters"/>
-        <updated>2026-03-18T07:47:59.087Z</updated>
-        <summary type="html"><![CDATA[En andere moorden in de jaren ’80]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307521?aid=kb-online-bibliotheek&sid=20&dts=1773747967427&sig=0a3a7cd2f3f78ebdc5f1ef3dc1467a7b34911c05f245b53c60e9d61c2b1bde79&width=320" alt="Omslag van 'Engelen des doods'" title="Omslag van 'Engelen des doods'">
-<p>Twintig verhalen over geruchtmakende moordzaken uit de jaren tachtig.</p>]]></content>
-        <author>
-            <name>Hendrik Winters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinderen in oorlogstijd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446626880/kinderen-in-oorlogstijd-steffie-van-den-oord</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446626880/kinderen-in-oorlogstijd-steffie-van-den-oord"/>
-        <updated>2026-03-18T07:48:07.312Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446626880?aid=kb-online-bibliotheek&sid=20&dts=1773754591490&sig=ed9141947b0113374934671b0179b03175f567e8cd6ad6b83b22c2957a27c587&width=320" alt="Omslag van 'Kinderen in oorlogstijd'" title="Omslag van 'Kinderen in oorlogstijd'">
-<p>Verzameling van veertien persoonlijke verhalen over de uiteenlopende ervaringen van Nederlandse kinderen tijdens de Tweede Wereldoorlog. Met zwart-witfoto’s.</p>]]></content>
-        <author>
-            <name>Steffie van den Oord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aan ons is niets meer te zien]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/445994126/aan-ons-is-niets-meer-te-zien-liesbeth-smit</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/445994126/aan-ons-is-niets-meer-te-zien-liesbeth-smit"/>
-        <updated>2026-03-18T07:48:06.890Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A445994126?aid=kb-online-bibliotheek&sid=20&dts=1773746156595&sig=e632f67bcd2a44f487afcea978c2416bc4f18ca4120af6e3fcd2c419bd2e13dc&width=320" alt="Omslag van 'Aan ons is niets meer te zien'" title="Omslag van 'Aan ons is niets meer te zien'">
-<p>Persoonlijk verslag van de zoektocht van de Nederlandse auteur (1974) naar haar afkomst en het verleden van haar Surinaamse familie door middel van herinneringen, onderzoek en gesprekken met familieleden. Met illustraties.</p>]]></content>
-        <author>
-            <name>Liesbeth Smit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Door de barrière]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444690352/door-de-barri%C3%A8re-mariska-van-sprundel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444690352/door-de-barri%C3%A8re-mariska-van-sprundel"/>
-        <updated>2026-03-18T07:48:03.388Z</updated>
-        <summary type="html"><![CDATA[Hoe ga je om met de mentale uitdagingen van het hardlopen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444690352?aid=kb-online-bibliotheek&sid=20&dts=1773756820594&sig=ee882b39b9f637dbff568c103ad37e8768bdb26228f76d8c8b3c09e7038ec43b&width=320" alt="Omslag van 'Door de barrière'" title="Omslag van 'Door de barrière'">
-<p>Bespreking van de mentale aspecten van hardlopen.</p>]]></content>
-        <author>
-            <name>Mariska van Sprundel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/449078760/rebel-elle-kennedy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/449078760/rebel-elle-kennedy"/>
-        <updated>2026-03-18T07:48:02.935Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A449078760?aid=kb-online-bibliotheek&sid=20&dts=1773745958843&sig=34090faac862295cc5629933a13e364a76899cb622a13a1b1cd0cc73ddcae5f1&width=320" alt="Omslag van 'Rebel'" title="Omslag van 'Rebel'">
-<p>Casey is veel veranderd sinds ze vorig jaar bijna omkwam bij een ongeluk. Fenn koestert een groot geheim: hij weet iets belangrijks over haar bijna-dood ervaring. Wanneer zijn geheim uitkomt, probeert hij Casey weer voor zich te winnen. Vanaf ca. 15 jaar en ouder.</p>]]></content>
-        <author>
-            <name>Elle Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hou je stil]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444679995/hou-je-stil-marjolein-visser</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444679995/hou-je-stil-marjolein-visser"/>
-        <updated>2026-03-18T07:48:06.075Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444679995?aid=kb-online-bibliotheek&sid=20&dts=1773752577510&sig=422caefb46631c463f701aac72e5495dfe06f03f9e81eaa781b18e08026c41af&width=320" alt="Omslag van 'Hou je stil'" title="Omslag van 'Hou je stil'">
-<p>Een teruggetrokken jongen die Mexico is ontvlucht, probeert zijn leven op te bouwen tijdens een stage aan een Nederlandse universiteit.</p>]]></content>
-        <author>
-            <name>Marjolein Visser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dagdroom]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444690336/dagdroom-hannah-grace</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444690336/dagdroom-hannah-grace"/>
-        <updated>2026-03-18T07:48:05.642Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444690336?aid=kb-online-bibliotheek&sid=20&dts=1773749011175&sig=b6c942cd69da4504133e1140b6ad621dc1a618bfbf9cd1454e6e49a0f6e18902&width=320" alt="Omslag van 'Dagdroom'" title="Omslag van 'Dagdroom'">
-<p>Als een slimme studente een ijshockyer bijles geeft, bloeit daaruit een mooie vriendschap op.</p>]]></content>
-        <author>
-            <name>Hannah Grace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De tijd, de waarheid en de geschiedenis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448832828/de-tijd--de-waarheid-en-de-geschiedenis-piet-de-rooy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448832828/de-tijd--de-waarheid-en-de-geschiedenis-piet-de-rooy"/>
-        <updated>2026-03-18T07:48:06.487Z</updated>
-        <summary type="html"><![CDATA[Hoe onze wereld in elkaar zit]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448832828?aid=kb-online-bibliotheek&sid=20&dts=1773746132073&sig=8a71575d988810092800fb697ac6341fff9621269361f2c59f2fcb7ae796ddbb&width=320" alt="Omslag van 'De tijd, de waarheid en de geschiedenis'" title="Omslag van 'De tijd, de waarheid en de geschiedenis'">
-<p>Diepgaande verhandeling over de concepten tijd, waarheid en geschiedenis als fundamentele pijlers waar de mens zijn interpretatie van de wereld op baseert. Met zwart-witillustraties.</p>]]></content>
-        <author>
-            <name>Piet de Rooy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sommige mensen zijn te rijk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/449119432/sommige-mensen-zijn-te-rijk-dick-timmer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/449119432/sommige-mensen-zijn-te-rijk-dick-timmer"/>
-        <updated>2026-03-18T07:48:04.237Z</updated>
-        <summary type="html"><![CDATA[Over wat gelijkheid écht betekent en hoe we dat bereiken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A449119432?aid=kb-online-bibliotheek&sid=20&dts=1773756419394&sig=4f87d0bbbc80603ad446c19abc902e90b84cb093990dc29fb395b302ffd0192d&width=320" alt="Omslag van 'Sommige mensen zijn te rijk'" title="Omslag van 'Sommige mensen zijn te rijk'">
-<p>Uiteenzetting over de groeiende ongelijkheid tussen rijk en arm en de gevolgen daarvan op sociaal en maatschappelijk gebied, met een pleidooi voor een rechtvaardigere toekomst.</p>]]></content>
-        <author>
-            <name>Dick Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boy next door]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444605991/boy-next-door-vi-keeland</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444605991/boy-next-door-vi-keeland"/>
-        <updated>2026-03-18T07:48:05.079Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444605991?aid=kb-online-bibliotheek&sid=20&dts=1773747833153&sig=b16fea87999ea882e2a93bea00b037ac0f188086f0ae338402193da92507da0e&width=320" alt="Omslag van 'Boy next door'" title="Omslag van 'Boy next door'">
-<p>Het geweldige nieuwe verhaal van Vi Keeland, bekend van De baas, De rivalen en veel andere heerlijke romances Na haar scheiding is Val op 37-jarige leeftijd ineens weer single na ruim twintig jaar. Ze besluit de zomer in haar eentje door te brengen in haar vakantiehuisje. Haar beste vriendin vindt dat ze lang genoeg heeft getreurd, en maakt een profiel voor haar aan op een datingapp. Val is heel erg tegen, helemaal als ze het gemaakte profiel onder ogen krijgt. Tot een van de gesprekken die ze heeft ineens wel heel erg leuk is. Ze is gecharmeerd van deze man, en laat zich overhalen om met hem af te spreken voor een drankje. Tot haar schrik blijkt de man met wie ze aan het praten is Ford te zijn, de zoon van de buren van het zomerhuisje naast dat van haar. Ford is heel aantrekkelijk, maar ook bijna tien jaar jonger dan Val. Ze vindt hem veel te jong, en kapt de date af. Maar raad eens wie die zomer in het zomerhuis van zijn ouders verblijft…? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Vi Keeland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pucked off]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448041936/pucked-off-helena-hunting</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448041936/pucked-off-helena-hunting"/>
-        <updated>2026-03-18T07:48:03.809Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448041936?aid=kb-online-bibliotheek&sid=20&dts=1773747975896&sig=4790dfe1c07d2ad2d9f11609525d587c2db725b4afae0fe21b8c9ae75afd1382&width=320" alt="Omslag van 'Pucked off'" title="Omslag van 'Pucked off'">
-<p>Lance ‘Romance’ Romero is een van de beruchtste spelers van de NHL. Hij wordt altijd op de wildste feestjes gespot met weer een andere mooie vrouw aan zijn arm, en hij provoceert op en naast het ijs zijn tegenstanders veel te vaak. Wanneer hij weer betrokken raakt bij een vechtpartij en in het ziekenhuis belandt, wil zijn coach hem zo snel mogelijk weer kunnen inzetten, en stuurt hij Lance naar een fysiotherapeut.  Die fysio is Poppy O’Connor, Lance kent haar nog van vroeger. Lance moet Poppy op afstand houden, dat weet hij. Hij heeft zijn diepste geheimen uit het verleden een keer gedeeld met de verkeerde persoon, een keuze waardoor hij nu nog steeds met de gevolgen moet leven. Hij weet dat hij ver bij Poppy vandaan moet blijven, want ze is te goed voor hem, te onschuldig. En toch laat zijn hart hem geen andere keuze…  Pucked off is het vijfde deel in de spicy en onvergetelijk hilarische Pucked-serie van Helena Hunting. Alle delen zijn los van elkaar te lezen en luisteren, en het eerste deel heet Pucked.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Helena Hunting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Na verzet komt (r)evolutie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448273292/na-verzet-komt--r-evolutie-clarice-gargard</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448273292/na-verzet-komt--r-evolutie-clarice-gargard"/>
-        <updated>2026-03-18T07:48:04.655Z</updated>
-        <summary type="html"><![CDATA[Tien wegen naar een nieuwe wereld]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448273292?aid=kb-online-bibliotheek&sid=20&dts=1773746156345&sig=a6d5a103c2a0514217aeeedef169dcab49eaabfc0dcb8dfa95dead00aed9d097&width=320" alt="Omslag van 'Na verzet komt (r)evolutie'" title="Omslag van 'Na verzet komt (r)evolutie'">
-<p>Een verhandeling over het streven naar een nieuwe menselijkere samenleving middels revolutie en verzet tegen onderdrukking.</p>]]></content>
-        <author>
-            <name>Clarice Gargard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De vrouw de baas]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446937177/de-vrouw-de-baas-marijn-heemskerk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446937177/de-vrouw-de-baas-marijn-heemskerk"/>
-        <updated>2026-03-18T07:48:02.525Z</updated>
-        <summary type="html"><![CDATA[Zoeken naar een feministische kijk op prostitutie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446937177?aid=kb-online-bibliotheek&sid=20&dts=1773754927689&sig=3ffb3722282ade6c8d0dca48b4b8b3f0eb9951ad78b9c880d59197baa81524f8&width=320" alt="Omslag van 'De vrouw de baas'" title="Omslag van 'De vrouw de baas'">
-<p>Opstellen over prostitutie in Nederland.</p>]]></content>
-        <author>
-            <name>Marijn Heemskerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kookpunt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444642609/kookpunt-nisrine-mbarki</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444642609/kookpunt-nisrine-mbarki"/>
-        <updated>2026-03-20T07:40:45.502Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444642609?aid=kb-online-bibliotheek&sid=20&dts=1773992444947&sig=b6f727a9a16ff359e0a4f29763f600e29b2a494bc107f952902d8564b56d36d1&width=320" alt="Omslag van 'Kookpunt'" title="Omslag van 'Kookpunt'">
-<p>'Kookpunt' is het verhaal van een eeuw: van 1961 in Algerije tot 2061 in Amsterdam. Het is een eeuw die herhaaldelijk zelfmoord pleegt en zichzelf opnieuw uitvindt. Zeven verhalen, in zeven decennia, op verschillende plekken in de wereld, maar de schakelmomenten in de geschiedenis verbinden al deze mensen met elkaar. De nucleaire tests van de Fransen in de Algerijnse Sahara zorgen ervoor dat Ydder zijn grote liefde verliest. Maar ook dat hij Salma die uit Damascus vluchtte ontmoet. Die in Belleville met Bern trouwt. Die jaren later bij de crypte in de Pieterskerk in Utrecht vanuit het dodenrijk door haar wordt geroepen. Onzichtbare draden van het menselijke tekort spannen over de hele wereld. Niets in de geschiedenis blijft zonder gevolgen, alles werkt generaties door. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nisrine Mbarki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laat mij jou helpen mij te helpen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444159460/laat-mij-jou-helpen-mij-te-helpen-basten-quaedvlieg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444159460/laat-mij-jou-helpen-mij-te-helpen-basten-quaedvlieg"/>
-        <updated>2026-03-20T07:40:46.101Z</updated>
-        <summary type="html"><![CDATA[Van beperking naar bevrijding]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444159460?aid=kb-online-bibliotheek&sid=20&dts=1773972080729&sig=cc46940f5fba84402eb4c2c60ac73dc6d56b1a8bb82689e5eb2b7f77d266a65d&width=320" alt="Omslag van 'Laat mij jou helpen mij te helpen'" title="Omslag van 'Laat mij jou helpen mij te helpen'">
-<p>Bij de geboorte van Basten Quaedvlieg had de arts al snel door dat er iets niet helemaal klopte. ‘Luister,’ kreeg de kersverse moeder te horen. ‘Hij kan ook gewoon naar een kliniek. Je hoeft het maar te zeggen, dan ben jij ervan af.’ Volgens de arts lag een normaal leven voor Basten niet in het verschiet vanwege zijn forse scoliose – een ernstige vergroeiing in de ruggenwervels. Maar Basten leerde hoe hij zijn achterstand kon gebruiken om op voorsprong te komen, hoe afwijken van de norm uiteindelijk een verrijking bleek. Aan de hand van zijn eigen ervaringen én aanvaringen met mensen in witte jassen, leraren die hem te laag inschatten en werkgevers die nodig bijgeschoold moesten worden, schetst Basten een ontluisterend beeld van de huidige samenleving. Hij strijdt voor een wereld waarin mensen met een beperking niet direct op achterstand staan, maar een kans krijgen om te leven. Basten Quaedvlieg (1978) is jurist en beleidsmedewerker. Hij is de oprichter van de League of Extraordinary People, het rijksbrede personeelsnetwerk voor mensen met een bijzonderheid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Basten Quaedvlieg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een kille dood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459579134/een-kille-dood-ross-greenwood</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459579134/een-kille-dood-ross-greenwood"/>
-        <updated>2026-03-20T07:40:46.589Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459579134?aid=kb-online-bibliotheek&sid=20&dts=1773970738555&sig=9a8e6f26ad217c4b93f51cd4397f668c05525e2d72d91f2f63fad7567819454a&width=320" alt="Omslag van 'Een kille dood'" title="Omslag van 'Een kille dood'">
-<p>Wanneer een oude gevangene dood wordt aangetroffen in zijn cel, is de gevangenis verplicht om zijn dood te onderzoeken, dus wordt inspecteur Barton ingezet. De mannen die hij ondervraagt zijn veroordeeld voor gruwelijke misdaden, maar het lijkt erop dat de gevangene een natuurlijke dood is gestorven.  Wanneer het huis van de overledene wordt beroofd en die misdaad gevolgd wordt door een verdachte brand, wil Barton wanhopig graag praten met de weduwe van de man. Alleen is zij nergens te bekennen.  Binnen vierentwintig uur is iedereen die Barton wil spreken, verdwenen. Dan ontvangt hij een brief die hem doet geloven dat hij weleens de volgende zou kunnen zijn die verdwijnt.  In slechts een paar dagen komt Bartons onderzoek via een reeks brute moorden weer terug bij de gevangenis. Er doet zich een schokkende ontwikkeling voor die zelfs hij zich nooit had kunnen voorstellen, en alles wijst erop dat hij een vreselijke fout heeft gemaakt.  Er is een gewelddadige moordenaar op vrije voeten die aan iedereen wilt laten zien dat het leven moeilijk is als je eigenlijk verdient te sterven.</p><p>Inspecteur Barton is terug in het vervolg op de bestsellerreeks van Ross Greenwood, perfect voor fans van Mark Billingham en Ian Rankin.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ross Greenwood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het meisje uit Sicilië]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459579290/het-meisje-uit-sicili%C3%AB-siobhan-daiko</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459579290/het-meisje-uit-sicili%C3%AB-siobhan-daiko"/>
-        <updated>2026-03-20T07:40:47.083Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459579290?aid=kb-online-bibliotheek&sid=20&dts=1773974804251&sig=2605207df8d4a4fa87b8e9b0c17f0483e9b10d12aa5b755674953511d70215f7&width=320" alt="Omslag van 'Het meisje uit Sicilië'" title="Omslag van 'Het meisje uit Sicilië'">
-<p>Deze adembenemende roman, geïnspireerd op ware gebeurtenissen, onthult de verborgen geheimen van een Siciliaanse familie door de generaties heen.</p><p>Sicilië, 1943: Lucia en haar tweelingbroer Dinu zijn altijd al onafscheidelijk geweest, maar hun band komt in gevaar wanneer Gero, de zoon van goede familievrienden in Amerika, in hun dorp arriveert. Lucia krijgt gevoelens voor hem, maar ze maakt zich ook zorgen over Gero's gevaarlijke connecties en de invloed daarvan op haar broer.  Wanneer de chaos van de Tweede Wereldoorlog dichterbij komt, moet Lucia een moeilijke keuze maken tussen de liefde en loyaliteit. De gevolgen van haar beslissing brengen onnoemelijke verschrikkingen met zich mee die haar familie nog decennialang zullen beïnvloeden. Durft ze dat risico te nemen?  2005: Wanneer Jess een baglio, een oude boerderij op Sicilië, erft van haar grootmoeder die ze nooit heeft gekend, is ze vastbesloten om de waarheid over het verborgen verleden van haar familie te achterhalen. Nu haar ouders overleden zijn , en ze op het punt staat te scheiden, reist Jess alleen af naar het eiland. Daar begint ze, met behulp van een charmante Siciliaan, aan een zoektocht om een web van lang verborgen geheimen bloot te leggen.  Maar graven in het verleden heeft een prijs, en Jess moet beslissen of ze klaar is om de waarheid onder ogen te zien.</p><p> Perfect voor fans van Kirstin Hannah, Jina Bacarr en Kate Quinn. Een uiterst aangrijpend en hartverscheurend verhaal over verboden liefde, familieloyaliteit en lang verborgen geheimen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Siobhan Daiko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het laatste paradijs]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459579126/het-laatste-paradijs-t-j--emerson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459579126/het-laatste-paradijs-t-j--emerson"/>
-        <updated>2026-03-20T07:40:47.547Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459579126?aid=kb-online-bibliotheek&sid=20&dts=1773956116793&sig=450d43517abbff881158581da1a98c636d30f09824f2c2edcf882c636a182d81&width=320" alt="Omslag van 'Het laatste paradijs'" title="Omslag van 'Het laatste paradijs'">
-<p>Je zou ervoor sterven om hier te mogen blijven. Maar zou je er ook voor doden? Vanaf het moment dat je het huis ziet - een voormalig hotel in de schilderachtige heuvels van Cyprus - weet je het zeker: dit verlaten resort is jouw perfecte thuis. Het adembenemende uitzicht, een verfrissend zwembad en volledige rust, ver weg van de bewoonde wereld. Een plek om te herstellen en opnieuw te beginnen. Maar het paradijs heeft een prijs. En naarmate de schulden zich opstapelen, dreig je alles te verliezen waarvoor je zo hard hebt gewerkt. Tot iemand je een aanbod doet: om je huis te behouden, hoef je slechts één ding te doen - een leven nemen. Maar dat zou jij nooit kunnen doen... toch? De verslavende thriller van de bestsellerauteur van De perfecte vakantie en Moederdag. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>T.J. Emerson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In de stilte de echo]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459579142/in-de-stilte-de-echo-marceline-de-waard</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459579142/in-de-stilte-de-echo-marceline-de-waard"/>
-        <updated>2026-03-20T07:40:48.066Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459579142?aid=kb-online-bibliotheek&sid=20&dts=1773972080090&sig=e206eb589538697a68c5415636e38e8ba89cf1340d0a2ef916020386fac01a23&width=320" alt="Omslag van 'In de stilte de echo'" title="Omslag van 'In de stilte de echo'">
-<p>In de stilte de echo: Noortje voelt al vroeg dat er iets niet klopt. Er wordt gezwegen, verdraaid, weggedrukt. Wanneer ze van huis wegloopt, laat ze niet alleen haar ouders achter, maar ook een waarheid die niemand onder woorden wil brengen. In de jeugdzorg leert ze zich staande te houden, ondertussen blijft een onbestemde onrust haar achtervolgen. Cleo, de zus van Noortjes moeder, draagt het antwoord dat Noortje nodig heeft. Ze zoekt naar een manier om die waarheid te delen, hierbij raakt ze verstrikt in schuld en verantwoordelijkheid. Langzaam raken de levens van beide vrouwen met elkaar verweven. Een verzwegen familiegeschiedenis komt aan het licht, waarin pijn ongemerkt van moeder op dochter wordt doorgegeven. Marceline de Waard: Marceline de Waard schrijft over vrouwenlevens en het ontdekken van eigen kracht. In de stilte de echo is haar vierde roman. ProBeeld (Ton de Koning) is verantwoordelijk voor de vormgeving van de omslag. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marceline De Waard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mes]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44022893X/mes-salman-rushdie</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44022893X/mes-salman-rushdie"/>
-        <updated>2026-03-16T08:03:53.720Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44022893X?aid=kb-online-bibliotheek&sid=20&dts=1773562190129&sig=62bc9cbcd7e44d059ac77349e12e6cd5e3693bb8bd74111994a100b6880560ad&width=320" alt="Omslag van 'Mes'" title="Omslag van 'Mes'">
-<p>Op de ochtend van 12 augustus 2022 stond Salman Rushdie op het podium bij het Chautauqua-instituut, klaar om een lezing te geven over hoe belangrijk het is om schrijvers te beschermen, toen een man in het zwart – zwarte kleding, zwart masker – door het gangpad op hem afstormde, een mes in de hand. Zijn eerste gedachte: dus jij bent het. Daar ben je dan. Daarop volgde een afschuwelijk geweldsdelict dat de literaire wereld en ver daarbuiten op zijn grondvesten deed schudden. In dit boek herleeft Rushdie voor het eerst en tot in detail de traumatische gebeurtenissen van die dag en de nasleep ervan, evenals zijn pad naar lichamelijk herstel en genezing, wat mogelijk werd gemaakt door de steun van zijn vrouw Eliza, zijn familie, een leger aan dokters en fysiotherapeuten en zijn wereldwijde lezersgemeenschap. Mes is Rushdie op het toppunt van zijn kunnen; hij schrijft met urgentie, diepgang en genadeloze eerlijkheid. Het is daarnaast ook een aangrijpende herinnering aan het vermogen van literatuur om het ondenkbare bevattelijk te maken, een intieme en levensveranderende meditatie over leven, verlies, liefde, kunst – en het vinden van de kracht om weer op te staan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Salman Rushdie</name>
+            <name>Bert Wagendorp</name>
         </author>
     </entry>
 </feed>
