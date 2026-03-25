@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-03-24T07:50:30.401Z</updated>
+    <updated>2026-03-25T07:49:07.537Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Etty Hillesum]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437221008/etty-hillesum-judith-koelemeijer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437221008/etty-hillesum-judith-koelemeijer"/>
+        <updated>2026-03-25T07:49:07.051Z</updated>
+        <summary type="html"><![CDATA[Het verhaal van haar leven]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437221008?aid=kb-online-bibliotheek&sid=20&dts=1774367493344&sig=28fdabaa13fa55daa167c30da7faaa993104186440e7e82a9acb60e847a56421&width=320" alt="Omslag van 'Etty Hillesum'" title="Omslag van 'Etty Hillesum'">
+<p>Op 9 maart 1941 begint de dan 27-jarige Etty Hillesum een dagboek. Terwijl de nazi's haar als Joodse vrouw in Amsterdam steeds openlijker vervolgen, getuigt zij van een imponerende geestelijke vrijheid. Haar aantekeningen over de liefde, erotiek, familierelaties, vriendschap, geloof, zinloze haat en lotsverbondenheid zijn hoogstpersoonlijk, zeldzaam eerlijk, en tegelijkertijd volstrekt universeel. Sinds de eerste publicatie van haar dagboeken en brie - ven hebben de geschriften van Etty Hillesum (1914-1943) wereldwijd miljoenen lezers geïnspireerd. Maar wie was zij eigenlijk? Welke vrouw van vlees en bloed gaat schuil achter haar mooie woorden? Judith Koelemeijer wist een schat aan nog onbekend materiaal te verzamelen. In deze biografie geeft zij een verrassend nieuw perspectief op Etty's rusteloze jeugd, haar linkse studentenjaren, en haar uiteindelijke keuze om 'het lot van haar volk te delen' en niet onder te duiken. Etty Hillesum blijkt iemand met vele gezichten, getekend door een beladen familiegeschiedenis, waaraan zij zich tenslotte tóch weet te ontworstelen. Etty Hillesum - Het verhaal van haar leven is de meeslepende geschiedenis van een jonge, gepassioneerde vrouw die ook onder de meest gruwelijke omstandigheden trouw bleef aan haar idealen en zichzelf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Judith Koelemeijer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kerstmis in de Schotse Hooglanden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459689762/kerstmis-in-de-schotse-hooglanden-donna-ashcroft</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459689762/kerstmis-in-de-schotse-hooglanden-donna-ashcroft"/>
+        <updated>2026-03-25T07:49:07.536Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459689762?aid=kb-online-bibliotheek&sid=20&dts=1774368319210&sig=1c6e8fbd0278d28aa66fc98d7cf90b7a2126654e7e8c03c92d8f2b2a221bf20c&width=320" alt="Omslag van 'Kerstmis in de Schotse Hooglanden'" title="Omslag van 'Kerstmis in de Schotse Hooglanden'">
+<p>Zullen Belles dromen dit jaar met kerst eindelijk uitkomen?</p><p>Belle Albany verlangt naar liefde en wat kerstmagie, maar betwijfelt of ze die zal vinden in haar slaperige Schotse dorp. Dat verandert als ze de oudere Edina ontmoet en een onvergetelijke kerst voor hen beiden besluit te organiseren. Maar dat valt nog niet mee in Edina’s vervallen kasteel, zeker niet als haar verloren gewaande kleinzoon Jack opeens op de stoep staat. Hij is gewoon de Grinch in menselijke vorm, dus… waarom gaat Belles hart dan zo tekeer? Hoe ze het ook probeert, Belle kan de aantrekkingskracht niet negeren. Tot er een geheim uit Jacks verleden wordt opgerakeld...</p><p>‘Je vergeet de wereld om je heen even helemaal en je waant je in Schotland. Ik kijk al uit naar nog meer van deze schrijfster!’ – FemLeest</p><p>‘Een hele fijne en mooie kerstroman. Je ziet de personages, het kasteel, de omgeving en de verschillende situaties zo voor je. Heerlijk om zo op te gaan in een boek.’ – Boekenbeschrijfster.nl </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Donna Ashcroft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Verraad mij niet]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/45965909X/verraad-mij-niet-melinda-braaksma</id>
@@ -17,6 +40,17 @@
 <p>Verraad Mij Niet - Het geheim van Amsterdam Het is 1943. De 8-jarige Pieter merkt eigenlijk niet zo veel van de oorlog. Hij weet wel dat de Duitsers achter de Joden aan zitten, maar veel Joden wonen er niet in Amsterdam-West. Wanneer er een vliegtuig op Pieters huis neerstort, moeten hij en zijn familie op zoek naar een andere plek om te wonen. Ze vinden een huis op de Oudeschans in het centrum van Amsterdam, midden in de Joodse buurt, waar inmiddels bijna geen Joodse mensen meer wonen. Als midden in de nacht plotseling een donkerharig meisje in zijn kamer staat, dat beweert dat Pieter in haar huis woont, begint de realiteit van de oorlog zich te vermengen met zijn verbeelding. Het meisje lijkt uit een andere werkelijkheid te komen en ze geeft hem een belangrijke en zeer geheime opdracht. Maar de tijd dringt: een strenge winter nadert en de oorlog wordt steeds grimmiger. Kan Pieter vinden wat het meisje zoekt, voordat de Duitsers haar te pakken krijgen? ~ Melinda Braaksma (1968) verwerkte de vele jeugdherinneringen van haar vader Henk Braaksma (1936) in een fictief verhaal over onschuld, hoop en vriendschap tegen de historische achtergrond van Amsterdam in de Tweede Wereldoorlog, met als rode draad de vraag: Wat zou jij doen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Melinda Braaksma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toen je weg was]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459659219/toen-je-weg-was-kaat-de-kock</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459659219/toen-je-weg-was-kaat-de-kock"/>
+        <updated>2026-03-22T07:33:35.495Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459659219?aid=kb-online-bibliotheek&sid=20&dts=1774158035632&sig=3560a5c3ba3dc836264276466762b8ff48cf200081eafa80ffe4398b04ae80ad&width=320" alt="Omslag van 'Toen je weg was'" title="Omslag van 'Toen je weg was'">
+<p>Florence zit in een huis in de duinen aan de Franse kust. Daar heeft haar vriend Axel haar ondergebracht na de dood van hun baby, zodat ze kan bekomen. Langzaam pikt ze haar leven weer op en sluit ze vriendschap met een kat en twee locals. Maar meer en meer krijgt ze het gevoel dat Axel niet wil dat ze weer naar huis komt. Zit het allemaal in haar verwarde hoofd? Bedriegt hij haar omdat ze een wrak is? Of is er iets ergens aan de hand? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kaat De Kock</name>
         </author>
     </entry>
     <entry>
@@ -31,14 +65,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toen je weg was]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459659219/toen-je-weg-was-kaat-de-kock</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459659219/toen-je-weg-was-kaat-de-kock"/>
-        <updated>2026-03-22T07:33:35.495Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459659219?aid=kb-online-bibliotheek&sid=20&dts=1774158035632&sig=3560a5c3ba3dc836264276466762b8ff48cf200081eafa80ffe4398b04ae80ad&width=320" alt="Omslag van 'Toen je weg was'" title="Omslag van 'Toen je weg was'">
-<p>Florence zit in een huis in de duinen aan de Franse kust. Daar heeft haar vriend Axel haar ondergebracht na de dood van hun baby, zodat ze kan bekomen. Langzaam pikt ze haar leven weer op en sluit ze vriendschap met een kat en twee locals. Maar meer en meer krijgt ze het gevoel dat Axel niet wil dat ze weer naar huis komt. Zit het allemaal in haar verwarde hoofd? Bedriegt hij haar omdat ze een wrak is? Of is er iets ergens aan de hand? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Nimmerdood]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459659170/nimmerdood-jill-verheyden</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459659170/nimmerdood-jill-verheyden"/>
+        <updated>2026-03-22T07:33:36.166Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459659170?aid=kb-online-bibliotheek&sid=20&dts=1774164212964&sig=f07ec48ad1721f34ed376cd2d8953e3045c9348da9317fff54c50270f013e31d&width=320" alt="Omslag van 'Nimmerdood'" title="Omslag van 'Nimmerdood'">
+<p>Er is een erger lot dan de dood Kahlen zou dood moeten zijn, maar waarom is ze dat dan niet? Als Kahlen wakker wordt na een vreselijk ongeluk, zijn haar herinneringen weg en belandt ze in een vijandige wereld waar ze gedwongen wordt deel te nemen aan een hard trainingsprogramma. Daarna moet ze zeven dodelijke beproevingen overleven. Als ze wint, moet Kahlen tegen elke prijs een sterfelijke ziel beschermen, maar haar lot kan erger zijn dan de dood. Als ze faalt, wordt ze immers voor altijd uitgewist. In een wereld waar macht alles is, blijven de doden niet altijd dood, zelfs als dat zou moeten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Kaat De Kock</name>
+            <name>Jill Verheyden</name>
         </author>
     </entry>
     <entry>
@@ -61,17 +95,6 @@
 <p>In Astralon ontdek jij je eigen superkracht! Tamar ontdekt in de achtertuin van haar oma een portaal naar de magische wereld van Astralon. Hier konden kinderen flesjes superkracht proberen. Maar de heks van de Raventoren heeft alle flesjes gestolen... Tamar gaat samen met de pratende raaf Marv op pad om de toren van de heks te vinden. Dit brengt hen langs een draak, eigenwijze liften, het Ministerie van Geluk en zelfs de prehistorie, maar de heks en haar gemene kleine volgers houden hen nauw in de gaten. Zal het Tamar lukken om dit avontuur tot een goed einde te brengen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Monica Haak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nimmerdood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459659170/nimmerdood-jill-verheyden</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459659170/nimmerdood-jill-verheyden"/>
-        <updated>2026-03-22T07:33:36.166Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459659170?aid=kb-online-bibliotheek&sid=20&dts=1774164212964&sig=f07ec48ad1721f34ed376cd2d8953e3045c9348da9317fff54c50270f013e31d&width=320" alt="Omslag van 'Nimmerdood'" title="Omslag van 'Nimmerdood'">
-<p>Er is een erger lot dan de dood Kahlen zou dood moeten zijn, maar waarom is ze dat dan niet? Als Kahlen wakker wordt na een vreselijk ongeluk, zijn haar herinneringen weg en belandt ze in een vijandige wereld waar ze gedwongen wordt deel te nemen aan een hard trainingsprogramma. Daarna moet ze zeven dodelijke beproevingen overleven. Als ze wint, moet Kahlen tegen elke prijs een sterfelijke ziel beschermen, maar haar lot kan erger zijn dan de dood. Als ze faalt, wordt ze immers voor altijd uitgewist. In een wereld waar macht alles is, blijven de doden niet altijd dood, zelfs als dat zou moeten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jill Verheyden</name>
         </author>
     </entry>
     <entry>
@@ -111,57 +134,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ik werd kamer 235]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459641301/ik-werd-kamer-235-lieve-flour</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459641301/ik-werd-kamer-235-lieve-flour"/>
-        <updated>2026-03-22T07:33:38.221Z</updated>
-        <summary type="html"><![CDATA[Leven in een woonzorgcentrum (en hoe het anders kan)]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641301?aid=kb-online-bibliotheek&sid=20&dts=1774091803673&sig=c279281d8d0b4de63360c9761991f3dfbeb27433e51b2f14bdc3aba4ae01ac67&width=320" alt="Omslag van 'Ik werd kamer 235'" title="Omslag van 'Ik werd kamer 235'">
-<p>In dit boek vertelt Lieve Flour – zelf bewoner – hoe het er écht aan toe gaat in een woonzorgcentrum. Lieve observeert scherp, schrijft met flair en humor en spaart niemand. Ze deelt wat goed gaat, benoemt wat beter kan, en geeft ondertussen mooie complimenten aan wie dat verdient. Haar boodschap? Zorg draait om meer dan regels en routines – het gaat om respect, betrokkenheid en menselijke waardigheid. Dit boek is een aanrader voor iedereen die met ouderenzorg in aanraking komt – van zorgverleners en familieleden tot beleidsmakers en geëngageerde lezers. Het staat vol leerrijke reflecties, concrete ervaringen en suggesties voor verbetering. En dat geschreven door iemand die het elke dag zélf beleeft. Een krachtige stem uit de praktijk, die raakt, prikkelt en inspireert tot empowerment in woonzorgcentra. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lieve Flour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop de klok]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459641379/stop-de-klok-ellen-crabbe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459641379/stop-de-klok-ellen-crabbe"/>
-        <updated>2026-03-22T07:33:38.685Z</updated>
-        <summary type="html"><![CDATA[Het is je biologische leeftijd die telt]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641379?aid=kb-online-bibliotheek&sid=20&dts=1774091791427&sig=29e6acf47c5931afda720a75ab33fd535c1211ea6bff5ac635e280dc3c450698&width=320" alt="Omslag van 'Stop de klok'" title="Omslag van 'Stop de klok'">
-<p>Leeftijd is slechts een nummer. In 'Stop de klok' gaat moleculair bioloog Dr. Ellen Crabbe dieper in op het verschil tussen chronologische en biologische leeftijd en hoe die laatste ons vertelt hoe gezond en vitaal we werkelijk zijn, ongeacht onze kalenderleeftijd. Dit boek neemt je mee in de fascinerende wereld van veroudering en gezondheid, met persoonlijke ervaringen en wetenschappelijke inzichten die de noodzaak van een paradigmaverschuiving in onze gezondheidszorg benadrukken: weg van symptoombestrijding, richting preventie. De auteur legt uit hoe moleculaire mechanismen zoals DNA-schade, celveroudering en ontstekingsprocessen ons ouder maken, maar ook hoe we deze kunnen beïnvloeden om gezonder oud te worden. 'Stop de klok' biedt niet alleen theoretische inzichten, maar ook praktische strategieën om je biologische leeftijd positief te beïnvloeden via levensstijlkeuzes zoals voeding, beweging en stressbeheer. Met de nieuwste wetenschappelijke ontdekkingen inspireert dit boek je om zelf de regie over je verouderingsproces te nemen en een vitaler, langer leven te leiden - een leven waarin ouder worden niet langer gelijk hoeft te staan aan ziek(er) worden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ellen Crabbe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerwoman]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459641247/powerwoman-claudia-van-avermaet</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459641247/powerwoman-claudia-van-avermaet"/>
-        <updated>2026-03-22T07:33:39.157Z</updated>
-        <summary type="html"><![CDATA[Proteïnen als basis van een krachtig en gezond lichaam]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641247?aid=kb-online-bibliotheek&sid=20&dts=1774095435305&sig=f70b62fd5ea736167e005442c876830e2af1431664325d30a82443671e6b6711&width=320" alt="Omslag van 'Powerwoman'" title="Omslag van 'Powerwoman'">
-<p>Eiwitrijke voeding is dé trend en met reden: de positieve effecten op energie, spieropbouw en gezondheid zijn onmiskenbaar. 'POWERWOMAN' laat zien hoe je met proteïnen je lichaam optimaal voedt, zonder strenge diëten. Dit boek combineert intuïtief eten, slimme voedingskeuzes en efficiënte work-outs om je kracht van binnenuit op te bouwen. Met 60 eiwitrijke recepten en een 21-dagenplan leer je hoe je voeding, beweging en mindset in balans brengt voor een fitte en energieke levensstijl. Geen strikte beperkingen, maar een duurzame methode om je goed te voelen in je eigen lichaam. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Claudia Van Avermaet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathilde van Vlaanderen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459641239/mathilde-van-vlaanderen-fernand-dacquin---marijke-verbeke</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459641239/mathilde-van-vlaanderen-fernand-dacquin---marijke-verbeke"/>
-        <updated>2026-03-22T07:33:39.610Z</updated>
-        <summary type="html"><![CDATA[Koningin van Engeland: de grootste Vlaming ooit?]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641239?aid=kb-online-bibliotheek&sid=20&dts=1774089487039&sig=1262cf5350d8dcd2395683314e1b697490487be3c83d3ed269aff0cd1d98fe37&width=320" alt="Omslag van 'Mathilde van Vlaanderen'" title="Omslag van 'Mathilde van Vlaanderen'">
-<p>Wie is de grootste Vlaming ooit? Pater Damiaan, Ambiorix, Vesalius, Mercator? Keizer Karel misschien, maar kan je die een Vlaming noemen, ook al is hij geboren in Gent? Wie in de lijstjes nooit voorkomt, is Mathilde van Vlaanderen, echtgenote van Willem van Normandië en koningin van Engeland van 1066 tot 1083. Wie doet beter? Al zo lang is het oorverdovend stil rond Mathilde, terwijl zij zo'n grote rol speelde als historisch figuur. De auteurs herstellen dit onrecht. De bronnen zijn schaars, maar voldoende om de figuur van Mathilde van Vlaanderen uitgebreid te schetsen in de context van het graafschap van Vlaanderen en het Anglo-Normandische Rijk van bijna duizend jaar geleden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Fernand Dacquin</name>
-        </author>
-        <author>
-            <name>Marijke Verbeke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Van vogala tot noncha]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459641360/van-vogala-tot-noncha-miet-ooms</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459641360/van-vogala-tot-noncha-miet-ooms"/>
@@ -185,6 +157,44 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Romeo & Juliet lezen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459641263/romeo---juliet-lezen-seppe-decubber</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459641263/romeo---juliet-lezen-seppe-decubber"/>
+        <updated>2026-03-22T07:33:41.665Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641263?aid=kb-online-bibliotheek&sid=20&dts=1774091765580&sig=7710d0bdbc018134f30dcfa848e2fae6ce87e33ab35f9a3853f173dcc30b1bfd&width=320" alt="Omslag van 'Romeo & Juliet lezen'" title="Omslag van 'Romeo & Juliet lezen'">
+<p>Een jongeman biedt zich aan om huiswerkbegeleider te worden voor een naar België gevlucht meisje. Ze ontmoeten elkaar, moeizaam, en zoeken naar een gemeenschappelijke taal met het eeuwenoude verhaal van Romeo en Juliet als gids. ‘Iedereen moet dit lezen. Ik kijk weer met een nieuwe blik naar kinderen die gevlucht zijn, naar onze taal en naar wat regels en zekerheden eigenlijk zijn.’ (Anna Drijver) ‘Dit boek slaagt erin op een zeer verfrissende, maar toch literaire wijze een maatschappelijk verhaal, dat zeer gelaagd en daarom ook zo mooi is, te vertellen. Hulde.’ (Amir Bachrouri) ‘Dit is niet alleen een ode aan de kracht van verhalen, maar ook zelf een liefdesverhaal. Hartverscheurend en hartverwarmend.’ (Peter Verhelst) ‘Een wilde, gevoelige schrijver die autofictie een andere dimensie geeft. Een prikkelend debuut over de betovering, maar ook de beknelling van een ontmoeting.’ (Julie Cafmeyer) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Seppe Decubber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slaap 2.0]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459641271/slaap-2-0-alex-kalkanis</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459641271/slaap-2-0-alex-kalkanis"/>
+        <updated>2026-03-22T07:33:43.873Z</updated>
+        <summary type="html"><![CDATA[Voor eens en voor altijd alle slaapmythes ontkracht]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641271?aid=kb-online-bibliotheek&sid=20&dts=1774164823318&sig=6fc847e85cb90125dce579cef34de3dc54ddbd839e961056d8e7616dd3890b67&width=320" alt="Omslag van 'Slaap 2.0'" title="Omslag van 'Slaap 2.0'">
+<p>Slaapstoornissen zijn een groot probleem: in België heeft 1 op de 3 mensen wel eens last van slaapproblemen, en 1 op de 10 volwassenen gebruikt dagelijks een slaapmiddel – een van de hoogste aantallen in Europa. Ondanks de groeiende aandacht voor slaapgezondheid, is veel van de gedeelde informatie niet wetenschappelijk onderbouwd. Dit boek biedt een verhelderend en betrouwbaar perspectief op slaap. Aan de hand van actuele en veelbesproken slaaponderwerpen, zoals slaapregulariteit, social jetlag, omgevingsfactoren zoals lawaai en vervuiling, het effect van snoozen, en de invloed van voeding, beweging, dromen en nachtmerries, worden mythes ontkracht en feiten verduidelijkt. Gebaseerd op veelgestelde vragen uit zijn praktijk in het UZ Leuven, vertaalt prof. dr. Alex Kalkanis complexe wetenschap naar begrijpelijke en toepasbare adviezen. Dit bij momenten hilarische en pijnlijk herkenbare boek is bedoeld voor iedereen die eindelijk eens een nachtje op beide oren wil slapen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Alex Kalkanis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathilde van Vlaanderen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459641239/mathilde-van-vlaanderen-fernand-dacquin---marijke-verbeke</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459641239/mathilde-van-vlaanderen-fernand-dacquin---marijke-verbeke"/>
+        <updated>2026-03-22T07:33:39.610Z</updated>
+        <summary type="html"><![CDATA[Koningin van Engeland: de grootste Vlaming ooit?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641239?aid=kb-online-bibliotheek&sid=20&dts=1774089487039&sig=1262cf5350d8dcd2395683314e1b697490487be3c83d3ed269aff0cd1d98fe37&width=320" alt="Omslag van 'Mathilde van Vlaanderen'" title="Omslag van 'Mathilde van Vlaanderen'">
+<p>Wie is de grootste Vlaming ooit? Pater Damiaan, Ambiorix, Vesalius, Mercator? Keizer Karel misschien, maar kan je die een Vlaming noemen, ook al is hij geboren in Gent? Wie in de lijstjes nooit voorkomt, is Mathilde van Vlaanderen, echtgenote van Willem van Normandië en koningin van Engeland van 1066 tot 1083. Wie doet beter? Al zo lang is het oorverdovend stil rond Mathilde, terwijl zij zo'n grote rol speelde als historisch figuur. De auteurs herstellen dit onrecht. De bronnen zijn schaars, maar voldoende om de figuur van Mathilde van Vlaanderen uitgebreid te schetsen in de context van het graafschap van Vlaanderen en het Anglo-Normandische Rijk van bijna duizend jaar geleden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Fernand Dacquin</name>
+        </author>
+        <author>
+            <name>Marijke Verbeke</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Waarom stilte de wereld zal redden]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459641336/waarom-stilte-de-wereld-zal-redden-steffi-vertriest</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459641336/waarom-stilte-de-wereld-zal-redden-steffi-vertriest"/>
@@ -197,14 +207,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Romeo & Juliet lezen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459641263/romeo---juliet-lezen-seppe-decubber</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459641263/romeo---juliet-lezen-seppe-decubber"/>
-        <updated>2026-03-22T07:33:41.665Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641263?aid=kb-online-bibliotheek&sid=20&dts=1774091765580&sig=7710d0bdbc018134f30dcfa848e2fae6ce87e33ab35f9a3853f173dcc30b1bfd&width=320" alt="Omslag van 'Romeo & Juliet lezen'" title="Omslag van 'Romeo & Juliet lezen'">
-<p>Een jongeman biedt zich aan om huiswerkbegeleider te worden voor een naar België gevlucht meisje. Ze ontmoeten elkaar, moeizaam, en zoeken naar een gemeenschappelijke taal met het eeuwenoude verhaal van Romeo en Juliet als gids. ‘Iedereen moet dit lezen. Ik kijk weer met een nieuwe blik naar kinderen die gevlucht zijn, naar onze taal en naar wat regels en zekerheden eigenlijk zijn.’ (Anna Drijver) ‘Dit boek slaagt erin op een zeer verfrissende, maar toch literaire wijze een maatschappelijk verhaal, dat zeer gelaagd en daarom ook zo mooi is, te vertellen. Hulde.’ (Amir Bachrouri) ‘Dit is niet alleen een ode aan de kracht van verhalen, maar ook zelf een liefdesverhaal. Hartverscheurend en hartverwarmend.’ (Peter Verhelst) ‘Een wilde, gevoelige schrijver die autofictie een andere dimensie geeft. Een prikkelend debuut over de betovering, maar ook de beknelling van een ontmoeting.’ (Julie Cafmeyer) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Ik werd kamer 235]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459641301/ik-werd-kamer-235-lieve-flour</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459641301/ik-werd-kamer-235-lieve-flour"/>
+        <updated>2026-03-22T07:33:38.221Z</updated>
+        <summary type="html"><![CDATA[Leven in een woonzorgcentrum (en hoe het anders kan)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641301?aid=kb-online-bibliotheek&sid=20&dts=1774091803673&sig=c279281d8d0b4de63360c9761991f3dfbeb27433e51b2f14bdc3aba4ae01ac67&width=320" alt="Omslag van 'Ik werd kamer 235'" title="Omslag van 'Ik werd kamer 235'">
+<p>In dit boek vertelt Lieve Flour – zelf bewoner – hoe het er écht aan toe gaat in een woonzorgcentrum. Lieve observeert scherp, schrijft met flair en humor en spaart niemand. Ze deelt wat goed gaat, benoemt wat beter kan, en geeft ondertussen mooie complimenten aan wie dat verdient. Haar boodschap? Zorg draait om meer dan regels en routines – het gaat om respect, betrokkenheid en menselijke waardigheid. Dit boek is een aanrader voor iedereen die met ouderenzorg in aanraking komt – van zorgverleners en familieleden tot beleidsmakers en geëngageerde lezers. Het staat vol leerrijke reflecties, concrete ervaringen en suggesties voor verbetering. En dat geschreven door iemand die het elke dag zélf beleeft. Een krachtige stem uit de praktijk, die raakt, prikkelt en inspireert tot empowerment in woonzorgcentra. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Seppe Decubber</name>
+            <name>Lieve Flour</name>
         </author>
     </entry>
     <entry>
@@ -232,6 +243,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stop de klok]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459641379/stop-de-klok-ellen-crabbe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459641379/stop-de-klok-ellen-crabbe"/>
+        <updated>2026-03-22T07:33:38.685Z</updated>
+        <summary type="html"><![CDATA[Het is je biologische leeftijd die telt]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641379?aid=kb-online-bibliotheek&sid=20&dts=1774091791427&sig=29e6acf47c5931afda720a75ab33fd535c1211ea6bff5ac635e280dc3c450698&width=320" alt="Omslag van 'Stop de klok'" title="Omslag van 'Stop de klok'">
+<p>Leeftijd is slechts een nummer. In 'Stop de klok' gaat moleculair bioloog Dr. Ellen Crabbe dieper in op het verschil tussen chronologische en biologische leeftijd en hoe die laatste ons vertelt hoe gezond en vitaal we werkelijk zijn, ongeacht onze kalenderleeftijd. Dit boek neemt je mee in de fascinerende wereld van veroudering en gezondheid, met persoonlijke ervaringen en wetenschappelijke inzichten die de noodzaak van een paradigmaverschuiving in onze gezondheidszorg benadrukken: weg van symptoombestrijding, richting preventie. De auteur legt uit hoe moleculaire mechanismen zoals DNA-schade, celveroudering en ontstekingsprocessen ons ouder maken, maar ook hoe we deze kunnen beïnvloeden om gezonder oud te worden. 'Stop de klok' biedt niet alleen theoretische inzichten, maar ook praktische strategieën om je biologische leeftijd positief te beïnvloeden via levensstijlkeuzes zoals voeding, beweging en stressbeheer. Met de nieuwste wetenschappelijke ontdekkingen inspireert dit boek je om zelf de regie over je verouderingsproces te nemen en een vitaler, langer leven te leiden - een leven waarin ouder worden niet langer gelijk hoeft te staan aan ziek(er) worden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ellen Crabbe</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Carrrière Hacks]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459641344/carrri%C3%A8re-hacks-shana-mertens---dagmar-van-gucht</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459641344/carrri%C3%A8re-hacks-shana-mertens---dagmar-van-gucht"/>
@@ -247,15 +270,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slaap 2.0]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459641271/slaap-2-0-alex-kalkanis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459641271/slaap-2-0-alex-kalkanis"/>
-        <updated>2026-03-22T07:33:43.873Z</updated>
-        <summary type="html"><![CDATA[Voor eens en voor altijd alle slaapmythes ontkracht]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641271?aid=kb-online-bibliotheek&sid=20&dts=1774164823318&sig=6fc847e85cb90125dce579cef34de3dc54ddbd839e961056d8e7616dd3890b67&width=320" alt="Omslag van 'Slaap 2.0'" title="Omslag van 'Slaap 2.0'">
-<p>Slaapstoornissen zijn een groot probleem: in België heeft 1 op de 3 mensen wel eens last van slaapproblemen, en 1 op de 10 volwassenen gebruikt dagelijks een slaapmiddel – een van de hoogste aantallen in Europa. Ondanks de groeiende aandacht voor slaapgezondheid, is veel van de gedeelde informatie niet wetenschappelijk onderbouwd. Dit boek biedt een verhelderend en betrouwbaar perspectief op slaap. Aan de hand van actuele en veelbesproken slaaponderwerpen, zoals slaapregulariteit, social jetlag, omgevingsfactoren zoals lawaai en vervuiling, het effect van snoozen, en de invloed van voeding, beweging, dromen en nachtmerries, worden mythes ontkracht en feiten verduidelijkt. Gebaseerd op veelgestelde vragen uit zijn praktijk in het UZ Leuven, vertaalt prof. dr. Alex Kalkanis complexe wetenschap naar begrijpelijke en toepasbare adviezen. Dit bij momenten hilarische en pijnlijk herkenbare boek is bedoeld voor iedereen die eindelijk eens een nachtje op beide oren wil slapen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Powerwoman]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459641247/powerwoman-claudia-van-avermaet</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459641247/powerwoman-claudia-van-avermaet"/>
+        <updated>2026-03-22T07:33:39.157Z</updated>
+        <summary type="html"><![CDATA[Proteïnen als basis van een krachtig en gezond lichaam]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641247?aid=kb-online-bibliotheek&sid=20&dts=1774095435305&sig=f70b62fd5ea736167e005442c876830e2af1431664325d30a82443671e6b6711&width=320" alt="Omslag van 'Powerwoman'" title="Omslag van 'Powerwoman'">
+<p>Eiwitrijke voeding is dé trend en met reden: de positieve effecten op energie, spieropbouw en gezondheid zijn onmiskenbaar. 'POWERWOMAN' laat zien hoe je met proteïnen je lichaam optimaal voedt, zonder strenge diëten. Dit boek combineert intuïtief eten, slimme voedingskeuzes en efficiënte work-outs om je kracht van binnenuit op te bouwen. Met 60 eiwitrijke recepten en een 21-dagenplan leer je hoe je voeding, beweging en mindset in balans brengt voor een fitte en energieke levensstijl. Geen strikte beperkingen, maar een duurzame methode om je goed te voelen in je eigen lichaam. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Alex Kalkanis</name>
+            <name>Claudia Van Avermaet</name>
         </author>
     </entry>
     <entry>
@@ -268,18 +291,6 @@
 <p>‘Verslaafd… Waarom jij wel en ik niet?’ gaat dieper in op het maatschappelijke debat rond verslaving, dat vaak gekenmerkt wordt door eenzijdige beeldvorming. In dit boek toont prof. dr. Geert Dom echter een heel andere realiteit: niet iedereen raakt verslaafd, en wie verslaafd is, kan ook herstellen. Het echte verhaal is complex en uiterst individueel: waarom zijn sommigen vatbaarder voor verslaving, terwijl anderen weerbaarder lijken? Door de wetenschap achter verslaving te verkennen en de onderliggende hersenmechanismen bloot te leggen, biedt dit boek inzicht in de rol van biologische, psychologische en omgevingsfactoren. Daarnaast reikt het praktische handvatten aan, zoals preventie en herstelmethoden, waarmee we bewuster met verslavingsrisico’s kunnen omgaan. ‘Verslaafd… Waarom jij wel en ik niet?’ is een gids voor iedereen die een bredere kijk zoekt op een urgente, maar vaak verkeerd begrepen problematiek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Geert Dom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Van opgeblazen gevoel naar platte buik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/449119459/van-opgeblazen-gevoel-naar-platte-buik-jessica-wilton</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/449119459/van-opgeblazen-gevoel-naar-platte-buik-jessica-wilton"/>
-        <updated>2026-03-22T07:33:44.967Z</updated>
-        <summary type="html"><![CDATA[Alles wat je moet weten voor een betere darmgezondheid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A449119459?aid=kb-online-bibliotheek&sid=20&dts=1774091735697&sig=fed771ee882232910d69f12a00a8d3e9d46c4a8b41ef7741993f012019057327&width=320" alt="Omslag van 'Van opgeblazen gevoel naar platte buik'" title="Omslag van 'Van opgeblazen gevoel naar platte buik'">
-<p>In dit inspirerende boek neemt onderneemster en voedingscoach Jessica Wilton (oprichtster Munch) je mee op haar persoonlijke reis van fastfood-junkie naar gezondheidsexpert. Door eigen ervaringen en wetenschappelijk onderbouwde inzichten laat ze zien hoe een gezond voedingspatroon, met focus op darmgezondheid, zowel fysieke als mentale transformaties teweeg kan brengen. Ze deelt praktische tips om gezonde keuzes te maken die eenvoudig te integreren zijn in je dagelijkse leven, zoals het belang van een stabiele bloedsuikerspiegel, stressmanagement, en de kracht van pre- en probiotica. Kamp je vaak met een oncomfortabel, opgeblazen gevoel, dan is dit het boek dat je wil lezen om daar voor eens en voor altijd vanaf te geraken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jessica Wilton</name>
         </author>
     </entry>
     <entry>
@@ -301,14 +312,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De ijsklauw van Jotunheim]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459641190/de-ijsklauw-van-jotunheim-ilona-poot</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459641190/de-ijsklauw-van-jotunheim-ilona-poot"/>
-        <updated>2026-03-22T07:33:45.965Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641190?aid=kb-online-bibliotheek&sid=20&dts=1774164171724&sig=c1cbe453420e5557535ce67685938eef95bd1afda4dfc7f76360ca06d3514e7c&width=320" alt="Omslag van 'De ijsklauw van Jotunheim'" title="Omslag van 'De ijsklauw van Jotunheim'">
-<p>Na een bloedstollend gevecht met de vuurreus Surtr weet Killian ternauwernood te ontsnappen uit de kerkers van Muspelheim. Samen met zijn vrienden, en de andere experimenten van dokter V., bereikt hij Alfheim, de wereld van het licht. Verzwakt en totaal uitgeput hopen ze daar eindelijk rust te vinden. Rust is Killian niet gegund. Wanneer hij zich laat overhalen door een lichtelf om de god Freyr te bespieden, belandt hij in grotere problemen dan hij ooit heeft meegemaakt. Zijn enige kans om alles recht te zetten is een levensgevaarlijke reis naar Jotunheim, het ijskoude rijk van de reuzen. Om zijn vrienden te beschermen moet hij zijn angst, zijn fouten en misschien zelfs de goden trotseren. Dat loopt zelden goed af... Lukt het Killian om een veilige thuishaven te vinden, of verliest hij alles wat hem dierbaar is? Killian Calkert is een Young Adult serie over een vijftienjarige jongen die Noorse mythologie ontdekt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Van opgeblazen gevoel naar platte buik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/449119459/van-opgeblazen-gevoel-naar-platte-buik-jessica-wilton</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/449119459/van-opgeblazen-gevoel-naar-platte-buik-jessica-wilton"/>
+        <updated>2026-03-22T07:33:44.967Z</updated>
+        <summary type="html"><![CDATA[Alles wat je moet weten voor een betere darmgezondheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A449119459?aid=kb-online-bibliotheek&sid=20&dts=1774091735697&sig=fed771ee882232910d69f12a00a8d3e9d46c4a8b41ef7741993f012019057327&width=320" alt="Omslag van 'Van opgeblazen gevoel naar platte buik'" title="Omslag van 'Van opgeblazen gevoel naar platte buik'">
+<p>In dit inspirerende boek neemt onderneemster en voedingscoach Jessica Wilton (oprichtster Munch) je mee op haar persoonlijke reis van fastfood-junkie naar gezondheidsexpert. Door eigen ervaringen en wetenschappelijk onderbouwde inzichten laat ze zien hoe een gezond voedingspatroon, met focus op darmgezondheid, zowel fysieke als mentale transformaties teweeg kan brengen. Ze deelt praktische tips om gezonde keuzes te maken die eenvoudig te integreren zijn in je dagelijkse leven, zoals het belang van een stabiele bloedsuikerspiegel, stressmanagement, en de kracht van pre- en probiotica. Kamp je vaak met een oncomfortabel, opgeblazen gevoel, dan is dit het boek dat je wil lezen om daar voor eens en voor altijd vanaf te geraken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ilona Poot</name>
+            <name>Jessica Wilton</name>
         </author>
     </entry>
     <entry>
@@ -323,6 +335,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De ijsklauw van Jotunheim]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459641190/de-ijsklauw-van-jotunheim-ilona-poot</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459641190/de-ijsklauw-van-jotunheim-ilona-poot"/>
+        <updated>2026-03-22T07:33:45.965Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459641190?aid=kb-online-bibliotheek&sid=20&dts=1774164171724&sig=c1cbe453420e5557535ce67685938eef95bd1afda4dfc7f76360ca06d3514e7c&width=320" alt="Omslag van 'De ijsklauw van Jotunheim'" title="Omslag van 'De ijsklauw van Jotunheim'">
+<p>Na een bloedstollend gevecht met de vuurreus Surtr weet Killian ternauwernood te ontsnappen uit de kerkers van Muspelheim. Samen met zijn vrienden, en de andere experimenten van dokter V., bereikt hij Alfheim, de wereld van het licht. Verzwakt en totaal uitgeput hopen ze daar eindelijk rust te vinden. Rust is Killian niet gegund. Wanneer hij zich laat overhalen door een lichtelf om de god Freyr te bespieden, belandt hij in grotere problemen dan hij ooit heeft meegemaakt. Zijn enige kans om alles recht te zetten is een levensgevaarlijke reis naar Jotunheim, het ijskoude rijk van de reuzen. Om zijn vrienden te beschermen moet hij zijn angst, zijn fouten en misschien zelfs de goden trotseren. Dat loopt zelden goed af... Lukt het Killian om een veilige thuishaven te vinden, of verliest hij alles wat hem dierbaar is? Killian Calkert is een Young Adult serie over een vijftienjarige jongen die Noorse mythologie ontdekt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ilona Poot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De steppewolf]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394885651/de-steppewolf-hermann-hesse</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394885651/de-steppewolf-hermann-hesse"/>
@@ -334,35 +357,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Siddhartha]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394882431/siddhartha-hermann-hesse</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394882431/siddhartha-hermann-hesse"/>
-        <updated>2026-03-21T07:28:23.946Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394882431?aid=kb-online-bibliotheek&sid=20&dts=1774056268006&sig=0f1516ad073e475b79856349b09d3ccb882f162b3b88f3a9f01de9067fab7f8a&width=320" alt="Omslag van 'Siddhartha'" title="Omslag van 'Siddhartha'">
-<p>Een jonge Brahmaan uit het oude India moet verschillende stadia, reikend van ascese tot wellustig genieten, doormaken voordat het streven naar macht en bezit wordt overwonnen ten gunste van harmonie en waarachtigheid.</p>]]></content>
-        <author>
-            <name>Hermann Hesse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Het kralenspel]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394885643/het-kralenspel-hermann-hesse</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394885643/het-kralenspel-hermann-hesse"/>
         <updated>2026-03-21T07:28:23.413Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394885643?aid=kb-online-bibliotheek&sid=20&dts=1774078102923&sig=26065780e42436793592aa74a5a43f2ae010b2a05b1682d2c1a429116c77b88d&width=320" alt="Omslag van 'Het kralenspel'" title="Omslag van 'Het kralenspel'">
 <p>Het Kralenspel is een utopische roman over de strijd van de mens tegen de barbaarse machtswellust. Decor van deze toekomstroman is de denkbeeldige staat Kastalië, waarin het 'Kralenspel', een ongekend instrument, de totale inhoud en alle waarden van onze cultuur heeft verwerkt. Wat Hesse - diep geschokt door de Tweede Wereldoorlog - wilde, was de genezende krachten zichtbaar maken die uit de chaos weer tot orde kunnen leiden. Het Kralenspel wordt beschouwd als het magnum opus van de in 1946 met de Nobelprijs voor Literatuur bekroonde schrijver. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Hermann Hesse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Narziss en Goldmund]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394887751/narziss-en-goldmund-hermann-hesse</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394887751/narziss-en-goldmund-hermann-hesse"/>
-        <updated>2026-03-21T07:28:24.345Z</updated>
-        <summary type="html"><![CDATA[een vertelling]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394887751?aid=kb-online-bibliotheek&sid=20&dts=1774059630655&sig=f0e2cf729382cc11d7dd8102630584bc674ed13f06a70102b770ed8aa8eb3234&width=320" alt="Omslag van 'Narziss en Goldmund'" title="Omslag van 'Narziss en Goldmund'">
-<p>In de late middeleeuwen krijgt in de relatie tussen twee totaal verschillende mannen het conflict tussen ascese en de zinnelijkheid gestalte.</p>]]></content>
         <author>
             <name>Hermann Hesse</name>
         </author>
