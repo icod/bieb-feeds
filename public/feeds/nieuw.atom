@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-03-28T07:40:08.247Z</updated>
+    <updated>2026-03-29T07:48:19.776Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Actieve herinnering]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727354/actieve-herinnering-wim-voermans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727354/actieve-herinnering-wim-voermans"/>
+        <updated>2026-03-28T07:39:54.344Z</updated>
+        <summary type="html"><![CDATA[De normen en waarden van nog weten en vergeten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727354?aid=kb-online-bibliotheek&sid=20&dts=1774612813685&sig=f232d132a6e6541398cb91861e80b76b76036cc137740b0821996229f8ca720c&width=320" alt="Omslag van 'Actieve herinnering'" title="Omslag van 'Actieve herinnering'">
+<p>Het menselijk brein is ingericht op vergeten. We onthouden maar enkele stukjes en beetjes van voorvallen die we belangrijk vinden en reconstrueren dat als herinnering, als we het nodig hebben. Een foutgevoelig proces, weten we uit eigen ervaring. Toch verdragen we vergeetachtigheid van anderen vaak slecht; op zijn best zien we het als tekortkoming of gebrek, in het slechtste geval als verdraaiing of bedrog. Daarom vielen we waarschijnlijk zo over Rutte heen toen hij zich de zinsnede 'positie Omtzigt, functie elders' niet meer wist te herinneren en is (afwezigheid van) 'actieve herinnering' een vaste uitdrukking geworden voor iemand die veinst iets niet meer te weten. In dit boek kijkt Wim Voermans naar de vele regels en normen die we hebben voor onthouden en herinneren. Waarom mogen we zoveel niet vergeten, moeten we van alles onthouden en registreren en verlangen we van elkaar dat we de waarheid spreken? Waarom stellen we zulke soms onrealistisch hoge eisen aan elkaars geheugen? En helpen al die regels en normen tegen vervagen, vergeten en vergetelheid? Wat proberen we er eigenlijk mee te bestrijden en te bezweren? Wim Voermans is hoogleraar staatsrecht aan en universiteitshoogleraar van de Universiteit Leiden. Hij publiceerde eerder Gemeente in de genen (2018, met Geerten Waling), Het verhaal van de grondwet (2019), Het land moet bestuurd worden (2021) en Onze constitutie (2023). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Wim Voermans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Late vader]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459727478/late-vader-thomas-rosenboom</id>
@@ -19,17 +31,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De som van mijn mislukkingen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727532/de-som-van-mijn-mislukkingen-lou-anna-druyvesteyn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727532/de-som-van-mijn-mislukkingen-lou-anna-druyvesteyn"/>
-        <updated>2026-03-28T07:39:49.911Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727532?aid=kb-online-bibliotheek&sid=20&dts=1774605495987&sig=93517eceafba329fc251e1c3da1d4815641fe64c07cc46ee31082981d86e906e&width=320" alt="Omslag van 'De som van mijn mislukkingen'" title="Omslag van 'De som van mijn mislukkingen'">
-<p>'Ik ben de som van mijn verlangens, ik wil niet ook nog de som van mijn mislukkingen zijn. Maar misschien zijn die twee onder aan de streep wel hetzelfde.' Ze is jong, aantrekkelijk en rommelt een beetje aan. Ze begint een verhouding met een collega. Het is voor het eerst een vrouw, getrouwd en precies twee keer zo oud, en ze wordt hartstikke verliefd. Dat betekent dat ze iets moet doen wat ze altijd heeft afgehouden: de boel serieus nemen. In De som van mijn mislukkingen gaat het om wie je bent in verhouding tot een ander. Om dingen doen die je eigenlijk niet durft . Over jezelf ergens in verliezen, want wie wil zich nou altijd maar inhouden, en over begeren of begeerd worden. Over loshangend vel, verlangens, Alphen aan den Rijn, belustheid, bacteriën, Vicky Leandros, beloftes en bevliegingen. Het is het ontwapenende, geestige en opwindende debuut van Lou-Anna Druyvesteyn. Lou-Anna Druyvesteyn werkt in de journalistiek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lou-Anna Druyvesteyn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Poging tot fiasco]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459727567/poging-tot-fiasco-anka-hashin</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459727567/poging-tot-fiasco-anka-hashin"/>
@@ -38,28 +39,6 @@
 <p>De non-conformist, de meedogenloze wreker, de dagdromer: kleine grote mensen, tastend naar de grenzen van het onmogelijke om de dagelijkse sleur te doorbreken. Met onuitputtelijk optimisme zwieren ze langs de ellende, op zoek naar verlossing en geluk. Maar zodra het begeerde binnen handbereik komt, slaan ze op de vlucht. Want iedere vervulde droom blijkt niets anders dan een dorre werkelijkheid. Geen ster schittert zo schoon als de verste, geen vrucht smaakt zo zoet als de verbodene. Als hopeloze idealisten laat Anka Hashin hen op het randje van het noodlot dansen, gedoemd om met hernieuwde moed te stranden in het fiasco. Anka Hashin maakte in 2022 diepe indruk met haar eerste verhalenbundel, die zowel volkomen realistisch als surrealistisch bleek. In Poging tot fiasco gaat ze nog een stap verder. Het is de definitieve bevestiging van haar unieke talent. Anka Hashin (Rusland, 1980) is schrijver en kunstenaar. Ze debuteerde in 2022 met de verhalenbundel Schrikkeljaar. Ze woont in Den Haag. Over Schrikkeljaar: 'Een genot om te lezen. (...) Ik besefte dat de Nederlandse literatuur een originele stem rijker is.' Michel Krielaars, NRC 'Wat het lezen van de verhalen onder andere tot een feest maakt is de rijke variatie in vorm, de intertekstualiteit en de poëtische schrijfstijl. Dit alles levert een debuutbundel op waarvoor alvast een plekje op de literaire longlists kan worden gereserveerd.' Literair Nederland 'Het is een verademing om personages tegen te komen die lijken op echte mensen. Een aanwinst in het al te braaf aangeharkte plantsoen der vaderlandse letteren.' Arjan Peeters, HP/De Tijd </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Anka Hashin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engelland]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727540/engelland-a-h-j--dautzenberg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727540/engelland-a-h-j--dautzenberg"/>
-        <updated>2026-03-28T07:39:51.187Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727540?aid=kb-online-bibliotheek&sid=20&dts=1774603282701&sig=06383b9b507174a9eaff94bd00dae113c76f92e33d7f050ed39abcf5b17f9bb3&width=320" alt="Omslag van 'Engelland'" title="Omslag van 'Engelland'">
-<p>Op een vroege zomerochtend laat een hoogbejaarde man zich in het zwarte water van de haven van zijn woonplaats zakken. Rond zijn middel het touw waarmee hij het rubberbootje met benodigde spullen achter zich aan zal trekken. Het tasje met medicijnen blijft achter, de zware reis zal zijn heelmiddel zijn. De weduwnaar wil in zeven dagen naar zijn geboortedorp zwemmen, de plek die hij nu al tachtig jaar heeft gemeden. Wat drijft hem? En, belangrijker: gaat het hem lukken? In de tedere roman Engelland beschrijft A.H.J. Dautzenberg de laatste tocht van een diepbeschadigde man die in het aangezicht van de dood nog één opdracht heeft te vervullen. Dautzenberg neemt de lezer mee naar een mythische wereld waarin tijd niet bestaat, een wereld waarin heden en verleden samensmelten. Met Engelland voegt hij een nieuw hoogtepunt toe aan zijn avontuurlijke en kleurrijke oeuvre. Een allegorisch sprookje dat na lezing nog lang zal resoneren. A.H.J. Dautzenberg (Heerlen, 1967) debuteerde in 2010 met de verhalenbundel Vogels met zwarte poten kun je niet vreten en publiceerde sindsdien meer dan twintig boeken. Daarnaast initieerde hij verschillende maatschappelijke en multidisciplinaire kunstprojecten. Zijn werk werd genomineerd voor vele literaire prijzen en in 2016 ontving hij de nationale Impact Award voor de armoedeglossy Quiet 500. Over De vijf: 'Een scherpe en complexe roman.' de Volkskrant 'Dautzenberg stelt de hypocrisie en complexiteit van moderne maatschappelijke normen aan de kaak zoals alleen hij dat kan.' HUMO **** Over Ogentroost: 'Misschien wel onze meest autonome schrijver. (...) Dautzenberg lezen is een beetje als naar de sterrenhemel kijken.' de Volkskrant Over Vijftig verhalen: 'Dautzenberg is onze literaire meester in de grensoverschrijding.' NRC **** Over Wie zoet is: 'Dautzenberg is een van die tamelijk zeldzame Nederlandse schrijvers van wie je geen boek ongelezen kunt laten.' P.F. Thomése </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>A.H.J. Dautzenberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In het wit]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727397/in-het-wit-roderik-six</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727397/in-het-wit-roderik-six"/>
-        <updated>2026-03-28T07:39:51.872Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727397?aid=kb-online-bibliotheek&sid=20&dts=1774605377386&sig=1adb3317b3764279e0f9b76cfffb465816743e9e246c4d641def452d7ff54707&width=320" alt="Omslag van 'In het wit'" title="Omslag van 'In het wit'">
-<p>'Sneeuwen zou geen werkwoord mogen zijn. Al dat gedwarrel, die speelse kristallen die meer zweven dan vallen, het heeft niets met werk te maken. Het woord mist daadkracht en gewicht, het mist sleur. Sneeuwen - het klinkt als de wind die met vingers van licht de kruin van een kind streelt.' Een vrouw reist door een sneeuwlandschap. Ze is op weg naar de buitenwijk waar haar vader woont. In zijn hoofd sneeuwt het al lang. Terwijl de vlokken rond haar neerdwarrelen, moet ze een hartverscheurende beslissing nemen. Een moeder staart door een keukenraam. Buiten speelt een kind in de sneeuw. Was dit de droom - een huis in het dorp, een dochter, een man? Is dit nu leven? In de nieuwe, ontroerende roman In het wit van Roderik Six worstelen jonge vrouwen met oeroude dilemma's. Met stilistisch vernuft schetst Six een teder portret van mensen op het kruispunt van leven en dood. In het wit is een intieme roman over maatschappelijke thema's als dementie en moederschap. Roderik Six (1979) is literair journalist bij het weekblad Knack. Met zijn debuut Vloed won hij prompt De Bronzen Uil. Zijn tweede roman Val werd bekroond met de driejaarlijkse Prijs voor de Letteren van de provincie West-Vlaanderen. Ook zijn romans Volt en Monster werden lovend onthaald. Roderik Six woont en werkt in Gent. Over Volt: 'Stilistisch loepzuiver, filmisch en suggestief, zelfs van een onwereldse poëzie. Een exotische droom als dystopie.' Stefan Hertmans Over Monster: 'Harde, goede, ingekookte taal, zwart als gestolde olie. Monster is een prachtig bittere en pijnlijk consequente novelle over verlies, rouw en liefde.' Ilja Leonard Pfeijffer </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Roderik Six</name>
         </author>
     </entry>
     <entry>
@@ -78,18 +57,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laat varen alle hoop]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727400/laat-varen-alle-hoop-gerben-post</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727400/laat-varen-alle-hoop-gerben-post"/>
-        <updated>2026-03-28T07:39:53.091Z</updated>
-        <summary type="html"><![CDATA[Nederlandse gevangenen in Mauthausen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727400?aid=kb-online-bibliotheek&sid=20&dts=1774599908866&sig=d179a2b73a07aeaeead132871111fba96176919b54f1a5f8cef15074804da1fc&width=320" alt="Omslag van 'Laat varen alle hoop'" title="Omslag van 'Laat varen alle hoop'">
-<p>Tussen mei 1941 en het einde van de Tweede Wereldoorlog zaten er bijna tweeduizend Nederlanders gevangen in het in Oostenrijk gelegen naziconcentratiekamp Mauthausen. Ongeveer 90 procent van hen overleefde het niet. Wie waren deze Nederlanders, hoe en waarom kwamen zij in Mauthausen terecht en wat stond hun daar te wachten? Laat varen alle hoop vertelt op indringende wijze hun verhaal en laat zien welke plaats dit kamp inneemt in de Nederlandse oorlogsgeschiedenis. Het is daarmee de eerste volledige geschiedenis van de Nederlandse gevangenen in Mauthausen. Historicus Gerben Post (1978) specialiseerde zich na de master Holocaust- en Genocidestudies in de geschiedenis van de Jodenvervolging tijdens de Tweede Wereldoorlog in Nederland. Hij is verbonden aan instellingen als het Joods Cultureel Kwartier en doet als zelfstandige historisch onderzoek. Dit heeft onder meer geresulteerd in de boeken Lotty's bankje. Stilstaan bij de Jodenvervolging in Amsterdam (2018), Schöffer & Co. Familiebedrijf in verzetszaken (2021) en Joachimsthal. Familie en firma, 1823-1945 (2023). Over Schöffer & Co.: 'Spannende studie (...) heel precies en boeiend geschreven.' Historisch Nieuwsblad 'Post heeft heel veel boven water gehaald. En talrijke geschiedenissen, waarvan sommige al eerder waren opgetekend, met elkaar weten te verknopen. Goed geschreven, in verhalende vorm, heeft dat geresulteerd in een geslaagd tijdsdocument.' Stichting 1940-1945 </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Gerben Post</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hoe het wél kan]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459727605/hoe-het-w%C3%A9l-kan-rob-jetten</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459727605/hoe-het-w%C3%A9l-kan-rob-jetten"/>
@@ -102,15 +69,48 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Actieve herinnering]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727354/actieve-herinnering-wim-voermans</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727354/actieve-herinnering-wim-voermans"/>
-        <updated>2026-03-28T07:39:54.344Z</updated>
-        <summary type="html"><![CDATA[De normen en waarden van nog weten en vergeten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727354?aid=kb-online-bibliotheek&sid=20&dts=1774612813685&sig=f232d132a6e6541398cb91861e80b76b76036cc137740b0821996229f8ca720c&width=320" alt="Omslag van 'Actieve herinnering'" title="Omslag van 'Actieve herinnering'">
-<p>Het menselijk brein is ingericht op vergeten. We onthouden maar enkele stukjes en beetjes van voorvallen die we belangrijk vinden en reconstrueren dat als herinnering, als we het nodig hebben. Een foutgevoelig proces, weten we uit eigen ervaring. Toch verdragen we vergeetachtigheid van anderen vaak slecht; op zijn best zien we het als tekortkoming of gebrek, in het slechtste geval als verdraaiing of bedrog. Daarom vielen we waarschijnlijk zo over Rutte heen toen hij zich de zinsnede 'positie Omtzigt, functie elders' niet meer wist te herinneren en is (afwezigheid van) 'actieve herinnering' een vaste uitdrukking geworden voor iemand die veinst iets niet meer te weten. In dit boek kijkt Wim Voermans naar de vele regels en normen die we hebben voor onthouden en herinneren. Waarom mogen we zoveel niet vergeten, moeten we van alles onthouden en registreren en verlangen we van elkaar dat we de waarheid spreken? Waarom stellen we zulke soms onrealistisch hoge eisen aan elkaars geheugen? En helpen al die regels en normen tegen vervagen, vergeten en vergetelheid? Wat proberen we er eigenlijk mee te bestrijden en te bezweren? Wim Voermans is hoogleraar staatsrecht aan en universiteitshoogleraar van de Universiteit Leiden. Hij publiceerde eerder Gemeente in de genen (2018, met Geerten Waling), Het verhaal van de grondwet (2019), Het land moet bestuurd worden (2021) en Onze constitutie (2023). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[In het wit]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727397/in-het-wit-roderik-six</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727397/in-het-wit-roderik-six"/>
+        <updated>2026-03-28T07:39:51.872Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727397?aid=kb-online-bibliotheek&sid=20&dts=1774605377386&sig=1adb3317b3764279e0f9b76cfffb465816743e9e246c4d641def452d7ff54707&width=320" alt="Omslag van 'In het wit'" title="Omslag van 'In het wit'">
+<p>'Sneeuwen zou geen werkwoord mogen zijn. Al dat gedwarrel, die speelse kristallen die meer zweven dan vallen, het heeft niets met werk te maken. Het woord mist daadkracht en gewicht, het mist sleur. Sneeuwen - het klinkt als de wind die met vingers van licht de kruin van een kind streelt.' Een vrouw reist door een sneeuwlandschap. Ze is op weg naar de buitenwijk waar haar vader woont. In zijn hoofd sneeuwt het al lang. Terwijl de vlokken rond haar neerdwarrelen, moet ze een hartverscheurende beslissing nemen. Een moeder staart door een keukenraam. Buiten speelt een kind in de sneeuw. Was dit de droom - een huis in het dorp, een dochter, een man? Is dit nu leven? In de nieuwe, ontroerende roman In het wit van Roderik Six worstelen jonge vrouwen met oeroude dilemma's. Met stilistisch vernuft schetst Six een teder portret van mensen op het kruispunt van leven en dood. In het wit is een intieme roman over maatschappelijke thema's als dementie en moederschap. Roderik Six (1979) is literair journalist bij het weekblad Knack. Met zijn debuut Vloed won hij prompt De Bronzen Uil. Zijn tweede roman Val werd bekroond met de driejaarlijkse Prijs voor de Letteren van de provincie West-Vlaanderen. Ook zijn romans Volt en Monster werden lovend onthaald. Roderik Six woont en werkt in Gent. Over Volt: 'Stilistisch loepzuiver, filmisch en suggestief, zelfs van een onwereldse poëzie. Een exotische droom als dystopie.' Stefan Hertmans Over Monster: 'Harde, goede, ingekookte taal, zwart als gestolde olie. Monster is een prachtig bittere en pijnlijk consequente novelle over verlies, rouw en liefde.' Ilja Leonard Pfeijffer </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Wim Voermans</name>
+            <name>Roderik Six</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De som van mijn mislukkingen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727532/de-som-van-mijn-mislukkingen-lou-anna-druyvesteyn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727532/de-som-van-mijn-mislukkingen-lou-anna-druyvesteyn"/>
+        <updated>2026-03-28T07:39:49.911Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727532?aid=kb-online-bibliotheek&sid=20&dts=1774605495987&sig=93517eceafba329fc251e1c3da1d4815641fe64c07cc46ee31082981d86e906e&width=320" alt="Omslag van 'De som van mijn mislukkingen'" title="Omslag van 'De som van mijn mislukkingen'">
+<p>'Ik ben de som van mijn verlangens, ik wil niet ook nog de som van mijn mislukkingen zijn. Maar misschien zijn die twee onder aan de streep wel hetzelfde.' Ze is jong, aantrekkelijk en rommelt een beetje aan. Ze begint een verhouding met een collega. Het is voor het eerst een vrouw, getrouwd en precies twee keer zo oud, en ze wordt hartstikke verliefd. Dat betekent dat ze iets moet doen wat ze altijd heeft afgehouden: de boel serieus nemen. In De som van mijn mislukkingen gaat het om wie je bent in verhouding tot een ander. Om dingen doen die je eigenlijk niet durft . Over jezelf ergens in verliezen, want wie wil zich nou altijd maar inhouden, en over begeren of begeerd worden. Over loshangend vel, verlangens, Alphen aan den Rijn, belustheid, bacteriën, Vicky Leandros, beloftes en bevliegingen. Het is het ontwapenende, geestige en opwindende debuut van Lou-Anna Druyvesteyn. Lou-Anna Druyvesteyn werkt in de journalistiek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lou-Anna Druyvesteyn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laat varen alle hoop]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727400/laat-varen-alle-hoop-gerben-post</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727400/laat-varen-alle-hoop-gerben-post"/>
+        <updated>2026-03-28T07:39:53.091Z</updated>
+        <summary type="html"><![CDATA[Nederlandse gevangenen in Mauthausen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727400?aid=kb-online-bibliotheek&sid=20&dts=1774599908866&sig=d179a2b73a07aeaeead132871111fba96176919b54f1a5f8cef15074804da1fc&width=320" alt="Omslag van 'Laat varen alle hoop'" title="Omslag van 'Laat varen alle hoop'">
+<p>Tussen mei 1941 en het einde van de Tweede Wereldoorlog zaten er bijna tweeduizend Nederlanders gevangen in het in Oostenrijk gelegen naziconcentratiekamp Mauthausen. Ongeveer 90 procent van hen overleefde het niet. Wie waren deze Nederlanders, hoe en waarom kwamen zij in Mauthausen terecht en wat stond hun daar te wachten? Laat varen alle hoop vertelt op indringende wijze hun verhaal en laat zien welke plaats dit kamp inneemt in de Nederlandse oorlogsgeschiedenis. Het is daarmee de eerste volledige geschiedenis van de Nederlandse gevangenen in Mauthausen. Historicus Gerben Post (1978) specialiseerde zich na de master Holocaust- en Genocidestudies in de geschiedenis van de Jodenvervolging tijdens de Tweede Wereldoorlog in Nederland. Hij is verbonden aan instellingen als het Joods Cultureel Kwartier en doet als zelfstandige historisch onderzoek. Dit heeft onder meer geresulteerd in de boeken Lotty's bankje. Stilstaan bij de Jodenvervolging in Amsterdam (2018), Schöffer & Co. Familiebedrijf in verzetszaken (2021) en Joachimsthal. Familie en firma, 1823-1945 (2023). Over Schöffer & Co.: 'Spannende studie (...) heel precies en boeiend geschreven.' Historisch Nieuwsblad 'Post heeft heel veel boven water gehaald. En talrijke geschiedenissen, waarvan sommige al eerder waren opgetekend, met elkaar weten te verknopen. Goed geschreven, in verhalende vorm, heeft dat geresulteerd in een geslaagd tijdsdocument.' Stichting 1940-1945 </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Gerben Post</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engelland]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727540/engelland-a-h-j--dautzenberg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727540/engelland-a-h-j--dautzenberg"/>
+        <updated>2026-03-28T07:39:51.187Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727540?aid=kb-online-bibliotheek&sid=20&dts=1774603282701&sig=06383b9b507174a9eaff94bd00dae113c76f92e33d7f050ed39abcf5b17f9bb3&width=320" alt="Omslag van 'Engelland'" title="Omslag van 'Engelland'">
+<p>Op een vroege zomerochtend laat een hoogbejaarde man zich in het zwarte water van de haven van zijn woonplaats zakken. Rond zijn middel het touw waarmee hij het rubberbootje met benodigde spullen achter zich aan zal trekken. Het tasje met medicijnen blijft achter, de zware reis zal zijn heelmiddel zijn. De weduwnaar wil in zeven dagen naar zijn geboortedorp zwemmen, de plek die hij nu al tachtig jaar heeft gemeden. Wat drijft hem? En, belangrijker: gaat het hem lukken? In de tedere roman Engelland beschrijft A.H.J. Dautzenberg de laatste tocht van een diepbeschadigde man die in het aangezicht van de dood nog één opdracht heeft te vervullen. Dautzenberg neemt de lezer mee naar een mythische wereld waarin tijd niet bestaat, een wereld waarin heden en verleden samensmelten. Met Engelland voegt hij een nieuw hoogtepunt toe aan zijn avontuurlijke en kleurrijke oeuvre. Een allegorisch sprookje dat na lezing nog lang zal resoneren. A.H.J. Dautzenberg (Heerlen, 1967) debuteerde in 2010 met de verhalenbundel Vogels met zwarte poten kun je niet vreten en publiceerde sindsdien meer dan twintig boeken. Daarnaast initieerde hij verschillende maatschappelijke en multidisciplinaire kunstprojecten. Zijn werk werd genomineerd voor vele literaire prijzen en in 2016 ontving hij de nationale Impact Award voor de armoedeglossy Quiet 500. Over De vijf: 'Een scherpe en complexe roman.' de Volkskrant 'Dautzenberg stelt de hypocrisie en complexiteit van moderne maatschappelijke normen aan de kaak zoals alleen hij dat kan.' HUMO **** Over Ogentroost: 'Misschien wel onze meest autonome schrijver. (...) Dautzenberg lezen is een beetje als naar de sterrenhemel kijken.' de Volkskrant Over Vijftig verhalen: 'Dautzenberg is onze literaire meester in de grensoverschrijding.' NRC **** Over Wie zoet is: 'Dautzenberg is een van die tamelijk zeldzame Nederlandse schrijvers van wie je geen boek ongelezen kunt laten.' P.F. Thomése </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>A.H.J. Dautzenberg</name>
         </author>
     </entry>
     <entry>
@@ -123,28 +123,6 @@
 <p>Al een halve eeuw houdt Anja Meulenbelt zich bezig met onrechtvaardige ongelijkheid. Natuurlijk ook met het feminisme – en met de vraag wat dat heeft opgeleverd, en vooral wat niet. Maar daar houdt het voor haar niet op.</p><p>Hoe gaat het met de mannen tegenwoordig? Hoe kan het dat racisme nu vooral migranten en moslims raakt? Hoe bestaat het dat er in ons rijke land nog steeds sprake is van armoede? Hoe valt het geweld tegen vrouwen te begrijpen? Is wit ook een kleur?</p><p>Terugkijkend op een halve eeuw activisme actualiseert Meulenbelt de strijd die zij al decennialang voert. De thema’s die ze aansnijdt zijn niet van gisteren. En het persoonlijke is nog steeds politiek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Anja Meulenbelt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zijn laatste leugen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447378996/zijn-laatste-leugen-james-patterson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447378996/zijn-laatste-leugen-james-patterson"/>
-        <updated>2026-03-28T07:39:55.554Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447378996?aid=kb-online-bibliotheek&sid=20&dts=1774676336789&sig=67e457f75c212ae713e30dd2b09883787ecb8f9557ff315a6f3e97d2b25d84de&width=320" alt="Omslag van 'Zijn laatste leugen'" title="Omslag van 'Zijn laatste leugen'">
-<p>Liefhebbende vader of koelbloedige moordenaar?</p><p>Iedereen in het stadje Hemingway Grove kent het echtpaar David en Marcie Bowers. David is eigenaar van de plaatselijke pub. Marcie is een succesvolle advocaat, gespecialiseerd in familierecht. Wanneer David een drenkeling redt uit de plaatselijke rivier, wordt hij gevierd als held en zijn gewaagde acties worden op elk nieuwskanaal uitgezonden. Voor de meeste mensen is bekendheid een grote eer, voor David Bowers is het een doodvonnis.Wanneer Marcie Bowers erachter komt dat haar man een geheim leven leidt, kan hun dat beiden het leven kosten. Lukt het Marcie om de waarheid te achterhalen, of is het leven met haar man één grote leugen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>James Patterson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kijk es naar al dat licht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447379127/kijk-es-naar-al-dat-licht-alara-adilow</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447379127/kijk-es-naar-al-dat-licht-alara-adilow"/>
-        <updated>2026-03-28T07:39:56.316Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447379127?aid=kb-online-bibliotheek&sid=20&dts=1774683595660&sig=cde0670618a0df4ffacd6de9f9485c6b2266721be4e3c5b41294d9f924bcdb29&width=320" alt="Omslag van 'Kijk es naar al dat licht'" title="Omslag van 'Kijk es naar al dat licht'">
-<p>Sagal is achtentwintig en leidt als marketeer een leven in luxe. Ze leeft volgens een laconieke filosofie: ‘De slang was de eerste marketeer – hij was degene die Eva een appel verkocht.’ Haar vriendin Diana worstelt met haar genderdysforie en wil weten waarom ze altijd dezelfde foute keuzes lijkt te maken. Ze voelt zich verraden omdat Sagal zonder haar medeweten een abortus heeft ondergaan.De nacht dat Diana haar verlaat, zoekt Sagal voor het eerst in tien jaar haar Somalische drugsverslaafde moeder op.Kijk es naar al dat licht gaat over het in stand houden van een relatie met personen die voortdurend uit elkaar lijken te vallen, en bevraagt in hoeverre het mogelijk is om bij elkaar te blijven als degene van wie je houdt je ook het meeste pijn doet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Alara Adilow</name>
         </author>
     </entry>
     <entry>
@@ -172,21 +150,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Met liefde heeft het niets te maken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447378848/met-liefde-heeft-het-niets-te-maken-ariane-hendriks---ingrid-vledder</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447378848/met-liefde-heeft-het-niets-te-maken-ariane-hendriks---ingrid-vledder"/>
-        <updated>2026-03-28T07:39:58.216Z</updated>
-        <summary type="html"><![CDATA[Over het herkennen en stoppen van intieme terreur]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447378848?aid=kb-online-bibliotheek&sid=20&dts=1774599696301&sig=abd6a4f36c083506ceb42ad6f1f542efeb4ef0bcb5983767e11fc29dcf14653c&width=320" alt="Omslag van 'Met liefde heeft het niets te maken'" title="Omslag van 'Met liefde heeft het niets te maken'">
-<p>Ariane Hendriks en Ingrid Vledder hebben beiden als familierechtadvocaat talloze vrouwen bijgestaan die slachtoffer zijn van intieme terreur. In Met liefde heeft het niets te maken bundelen ze kennis en ervaring om daarmee hulp en handvatten te bieden aan slachtoffers en professionals.In Nederland wordt elke 2 weken een vrouw vermoord door haar (ex)-partner. In de meeste gevallen gaat intieme terreur hieraan vooraf, een vorm van huiselijk geweld dat jaarlijks tienduizenden vrouwen en kinderen treft in alle lagen van de samenleving. Dit boek legt uit wat intieme terreur is en waarom het zo vaak onzichtbaar blijft. Aan de hand van vele voorbeelden laat het zien wat vrouwen tijdens en na relaties met plegers meemaken en geeft het waardevol advies aan slachtoffers en hun naasten om intieme terreur te herkennen en te stoppen.Een pleger van intieme terreur probeert vanaf het begin van de relatie macht en controle over zijn partner te krijgen. Eerst subtiel door love bombing, daarna door manipulatie, gaslighting, dwang, intimidatie en isolatie. Probeert de vrouw de relatie te verbreken, dan volgt soms fysiek geweld, in sommige gevallen met fatale afloop door femicide.Met liefde heeft het niets te maken biedt handvatten voor slachtoffers en hun omgeving om intieme terreur te signaleren en escalatie te voorkomen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ariane Hendriks</name>
-        </author>
-        <author>
-            <name>Ingrid Vledder</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vuistslagen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/447379089/vuistslagen-rasit-elibol</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/447379089/vuistslagen-rasit-elibol"/>
@@ -210,6 +173,43 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zijn laatste leugen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447378996/zijn-laatste-leugen-james-patterson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447378996/zijn-laatste-leugen-james-patterson"/>
+        <updated>2026-03-28T07:39:55.554Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447378996?aid=kb-online-bibliotheek&sid=20&dts=1774676336789&sig=67e457f75c212ae713e30dd2b09883787ecb8f9557ff315a6f3e97d2b25d84de&width=320" alt="Omslag van 'Zijn laatste leugen'" title="Omslag van 'Zijn laatste leugen'">
+<p>Liefhebbende vader of koelbloedige moordenaar?</p><p>Iedereen in het stadje Hemingway Grove kent het echtpaar David en Marcie Bowers. David is eigenaar van de plaatselijke pub. Marcie is een succesvolle advocaat, gespecialiseerd in familierecht. Wanneer David een drenkeling redt uit de plaatselijke rivier, wordt hij gevierd als held en zijn gewaagde acties worden op elk nieuwskanaal uitgezonden. Voor de meeste mensen is bekendheid een grote eer, voor David Bowers is het een doodvonnis.Wanneer Marcie Bowers erachter komt dat haar man een geheim leven leidt, kan hun dat beiden het leven kosten. Lukt het Marcie om de waarheid te achterhalen, of is het leven met haar man één grote leugen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>James Patterson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Met liefde heeft het niets te maken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447378848/met-liefde-heeft-het-niets-te-maken-ariane-hendriks---ingrid-vledder</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447378848/met-liefde-heeft-het-niets-te-maken-ariane-hendriks---ingrid-vledder"/>
+        <updated>2026-03-28T07:39:58.216Z</updated>
+        <summary type="html"><![CDATA[Over het herkennen en stoppen van intieme terreur]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447378848?aid=kb-online-bibliotheek&sid=20&dts=1774599696301&sig=abd6a4f36c083506ceb42ad6f1f542efeb4ef0bcb5983767e11fc29dcf14653c&width=320" alt="Omslag van 'Met liefde heeft het niets te maken'" title="Omslag van 'Met liefde heeft het niets te maken'">
+<p>Ariane Hendriks en Ingrid Vledder hebben beiden als familierechtadvocaat talloze vrouwen bijgestaan die slachtoffer zijn van intieme terreur. In Met liefde heeft het niets te maken bundelen ze kennis en ervaring om daarmee hulp en handvatten te bieden aan slachtoffers en professionals.In Nederland wordt elke 2 weken een vrouw vermoord door haar (ex)-partner. In de meeste gevallen gaat intieme terreur hieraan vooraf, een vorm van huiselijk geweld dat jaarlijks tienduizenden vrouwen en kinderen treft in alle lagen van de samenleving. Dit boek legt uit wat intieme terreur is en waarom het zo vaak onzichtbaar blijft. Aan de hand van vele voorbeelden laat het zien wat vrouwen tijdens en na relaties met plegers meemaken en geeft het waardevol advies aan slachtoffers en hun naasten om intieme terreur te herkennen en te stoppen.Een pleger van intieme terreur probeert vanaf het begin van de relatie macht en controle over zijn partner te krijgen. Eerst subtiel door love bombing, daarna door manipulatie, gaslighting, dwang, intimidatie en isolatie. Probeert de vrouw de relatie te verbreken, dan volgt soms fysiek geweld, in sommige gevallen met fatale afloop door femicide.Met liefde heeft het niets te maken biedt handvatten voor slachtoffers en hun omgeving om intieme terreur te signaleren en escalatie te voorkomen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ariane Hendriks</name>
+        </author>
+        <author>
+            <name>Ingrid Vledder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kijk es naar al dat licht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447379127/kijk-es-naar-al-dat-licht-alara-adilow</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447379127/kijk-es-naar-al-dat-licht-alara-adilow"/>
+        <updated>2026-03-28T07:39:56.316Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447379127?aid=kb-online-bibliotheek&sid=20&dts=1774683595660&sig=cde0670618a0df4ffacd6de9f9485c6b2266721be4e3c5b41294d9f924bcdb29&width=320" alt="Omslag van 'Kijk es naar al dat licht'" title="Omslag van 'Kijk es naar al dat licht'">
+<p>Sagal is achtentwintig en leidt als marketeer een leven in luxe. Ze leeft volgens een laconieke filosofie: ‘De slang was de eerste marketeer – hij was degene die Eva een appel verkocht.’ Haar vriendin Diana worstelt met haar genderdysforie en wil weten waarom ze altijd dezelfde foute keuzes lijkt te maken. Ze voelt zich verraden omdat Sagal zonder haar medeweten een abortus heeft ondergaan.De nacht dat Diana haar verlaat, zoekt Sagal voor het eerst in tien jaar haar Somalische drugsverslaafde moeder op.Kijk es naar al dat licht gaat over het in stand houden van een relatie met personen die voortdurend uit elkaar lijken te vallen, en bevraagt in hoeverre het mogelijk is om bij elkaar te blijven als degene van wie je houdt je ook het meeste pijn doet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Alara Adilow</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Vanishing of Leah Lockwood]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459727621/the-vanishing-of-leah-lockwood-stefanie-sybens</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459727621/the-vanishing-of-leah-lockwood-stefanie-sybens"/>
@@ -221,47 +221,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zomer in Cervignano]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727443/zomer-in-cervignano-bill-mensema</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727443/zomer-in-cervignano-bill-mensema"/>
-        <updated>2026-03-28T07:40:00.953Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727443?aid=kb-online-bibliotheek&sid=20&dts=1774682804129&sig=dea46a787b1500741877cd4c2efedc4c3b09259701132fae9e8c6a5461738261&width=320" alt="Omslag van 'Zomer in Cervignano'" title="Omslag van 'Zomer in Cervignano'">
-<p>In zijn DECADE-reeks beschrijft Bill Mensema (1960) het leven in de jaren '80. Voor wie opgroeide in die jaren van doem en crisis, was het vaak een mistroostige tijd. Gelukkig zorgde de muziek voor de broodnodige verluchting. In Zomer in Cervignano gaat de hoofdpersoon met z'n band op tournee naar Italië. Ze zijn daar uitgenodigd door een club met - blijkt ter plekke - niet al te frisse connecties, maar toch kunnen ze er op verschillende plekken optreden. Dankzij de Griekse popster Demis Roussos hebben ze er nog een onverwacht groot succes ook. De romans van Bill Mensema kenmerken zich o.a. door een gretig gebruik van humor. Deze keer gaat Mensema helemaal los. De wat tragische belevenissen van de band zet hij zo om tot een adembenemend en grappig avontuur. Ook andere kenmerken van Mensema's unieke schrijfstijl komen hier weer tot hun recht. Het bijzondere gebruik van dialogen, de slapstickachtige scenes en de toegankelijke formuleringen leiden tot een vlot leesbare roman. 'Vlotteratuur' heeft Bill Mensema zijn stijl genoemd. Dat maakt zijn stem vernieuwend en uniek in de Nederlandse letteren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Zandmannetjes]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727311/zandmannetjes-sander-klijn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727311/zandmannetjes-sander-klijn"/>
+        <updated>2026-03-28T07:40:08.246Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727311?aid=kb-online-bibliotheek&sid=20&dts=1774618073584&sig=915e03e67e10f506369a89a4aabf0c0876d474bfedefcf7bdb9e402aea7ec39e&width=320" alt="Omslag van 'Zandmannetjes'" title="Omslag van 'Zandmannetjes'">
+<p>Zand, zo ver het oog reikt, glijdt door je vingers als korrels van de tijd. Gevuld met leegte, raadsels en wonderen. Wat vind jij wanneer je begint te graven? Een ruïne, een monster of … Voor je het weet, kom je in aanraking met een zandmannetje. Durf jij het zand te betreden? Kijk verder dan het oppervlak en zie een verborgen – soms prachtig, soms verdorven – wereld. De diepte van zand | Robin van Doorn “Ik ben omringd door het metalige blauw van de zee en voel de weerstand van het water, wanneer het stroomt tussen mijn tenen. Boven mij glijdt het schijnsel van de vuurtoren, waar de kabbelende golven het licht breken in ontelbare scherven blauw´. Auteurs Robin van Doorn, Helma Spin, Finn Audenaert & Laura Scheepers, Wendy Middelkoop, Michael Vonk, Dennis van den Broek, Jan-Robert Vanderaa, Pepijn Schoonen, Mascha van Duijn, Sybren Hilgen, Simcha Bakker, Dominique Heuff, Mike Jansen, Anne Roodbol & Beck Palmas, Gerhard Pijnenburg, Mathijs Meeuwissen, Niels van Eekelen, Edward van Egmond, Pim van Baal, Angelina van Kemenade, Sorya Harms, Maarten Luikhoven & Finn Audenaert, Bruno Lowagie, Mike Jansen & Laura Scheepers Met een bonusverhaal van Sander Klijn </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Bill Mensema</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Run]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727664/stop-run-bill-mensema</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727664/stop-run-bill-mensema"/>
-        <updated>2026-03-28T07:40:01.670Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727664?aid=kb-online-bibliotheek&sid=20&dts=1774611804611&sig=ad22d2f79681ada0c6042b55934003e27fbc605d7d05ca1898a8fc8a4e6864ec&width=320" alt="Omslag van 'Stop Run'" title="Omslag van 'Stop Run'">
-<p>Dit is 'm dan: het finale deel van Bill Mensema's roemruchte Decade-reeks over opgroeien in de jaren '80. De delen zijn overigens ook uitstekend los van elkaar te lezen. Vlotteratuur noemt Mensema zijn schrijfstijl. Dat betekent dat je op vlotte en humoristische wijze door de avonturen wordt geleid. Ook dit is dus een toegankelijk roman, goed voor een paar uurtjes leesplezier. In Stop Run wordt een punt gezet achter de jaren van onbekommerd leven. Elvira gaat trouwen, Han en Annet verwachten een baby en Bill krijgt een een echte baan. Op het terras bespreken Han en Bill nog eenmaal de toestand in de wereld, het weerbericht en de passerende dames. Maar in het kanaal is intussen ook een lijk gevonden, iets waar de mannen ongewild ook mee te maken krijgen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bill Mensema</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[George was hier]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727389/george-was-hier-bill-mensema</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727389/george-was-hier-bill-mensema"/>
-        <updated>2026-03-28T07:40:02.393Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727389?aid=kb-online-bibliotheek&sid=20&dts=1774682804218&sig=24803766fce993b8bafc8a3aa7ec227a19d3ca4c955935ce7d5becba10c1656a&width=320" alt="Omslag van 'George was hier'" title="Omslag van 'George was hier'">
-<p>Bill Mensema neemt ons in zijn Decade-reeks mee naar de jaren tachtig, de jaren van doemdenken en new wave. In deze roman draait het om de band Crimes of Nature, een tamelijk experimentele band, helemaal in de punkgeest van toen. Je hoefde niet per se een instrument te kunnen bespelen om muziek te maken. We volgen de ambitieuze band tijdens hun optredens in stad en land en merken hoe de interne spanningen oplopen. Er worden ingrijpende beslissingen genomen om het schip op de juiste koers te houden. Maar is het noodlot wel te vermijden? Mensema heeft een ongelofelijk eigenzinnige stijl waarin hij op vlotte en aanstekelijke wijze een verhaal vertelt. Zelf noemt hij dat 'vlotteratuur'. Slapstick, humor en een onvoorwaardelijke liefde voor de eigentijdse muziek spelen daarbij een dragende rol. Zo ontstaat er een reeks opmerkelijke romans over zijn jeugd in een wilde tijd, die ook uitermate goed leesbaar zijn voor mensen die niet dagelijks met boeken bezig zijn. George was hier is deel zes van de reeks. Deze romans zijn overigens ook uitstekend los van elkaar te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bill Mensema</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Erfenis van een moordenaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727516/erfenis-van-een-moordenaar-ben-kegels</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727516/erfenis-van-een-moordenaar-ben-kegels"/>
-        <updated>2026-03-28T07:40:03.112Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727516?aid=kb-online-bibliotheek&sid=20&dts=1774683602528&sig=c25b8a9ec596854abd01956969e0955ee23c8c056543be6d4406d85569d4aa41&width=320" alt="Omslag van 'Erfenis van een moordenaar'" title="Omslag van 'Erfenis van een moordenaar'">
-<p>Een vervallen landhuis. Een vergeten bloedbad. Een kwaad dat nooit is verdwenen. Dertig jaar na een gruwelijk familiedrama gaan zeven studenten naar het afgelegen landgoed voor een documentaire rond de gebeurtenissen. Wat begint als een spannende uitdaging, ontaardt al snel in een nachtmerrie. Twee van hen worden dood teruggevonden. Van de rest ontbreekt elk spoor. Rechercheur Casteels wordt op de zaak gezet, net wanneer een verwoestende storm het gebied van de buitenwereld afsluit. Hij tast letterlijk in het duister. Oude wraakzucht, een vergeten vloek en een mysterieus erfgoed dat generaties lang slachtoffers eist, komen opnieuw tot leven. Ontsnappen is geen optie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ben Kegels</name>
+            <name>Sander Klijn</name>
         </author>
     </entry>
     <entry>
@@ -293,6 +260,39 @@
         <updated>2026-03-28T07:40:05.180Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727524?aid=kb-online-bibliotheek&sid=20&dts=1774598991440&sig=a7ba27b19fa687746d1a7641d2dce536c18212c9e4929502deff26524853f6c3&width=320" alt="Omslag van 'De aarzelende demonstrant'" title="Omslag van 'De aarzelende demonstrant'">
 <p>De aarzelende demonstrant speelt op één avond in 1981: de hoofdpersoon is artiestenbegeleider wanneer de new-waveband Killing Joke komt optreden in Vera. Er is één probleem: de zanger wordt vermist. De zoektocht naar hem brengt de lezer in sneltreinvaart door de doemwereld van die tijd, de muziek en vooral ook de demonstraties van toen ('geen man, geen vrouw, geen cent voor het leger,' en dat in vele variaties). Deze schelmenroman is het vierde deel uit de Decadereeks maar is ook uitstekend los te lezen. De reeks vertelt in tien delen het verhaal van de jaren '80, de jaren van punk, doem en crisis. We volgen de hoofdpersoon als weinig succesvol student, als medewerker bij een poppodium en uiteindelijk als leadzanger van een band die even populair is. De delen zijn alle geschreven in Bill Mensma's bijzondere schrijfstijl. Kenmerkend zijn de heldere scènes, het unieke gebruik van dialogen, de humor (slapstick) en de overdrijving. Zelf spreekt Mensema van Vlotteratuur. In de pers werd deze reeks al vergeleken met het werk van Nescio, Campert, Brusselmans en de bamiballenromantiek van P.F. Thomése's J. Kessels-trilogie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Bill Mensema</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erfenis van een moordenaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727516/erfenis-van-een-moordenaar-ben-kegels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727516/erfenis-van-een-moordenaar-ben-kegels"/>
+        <updated>2026-03-28T07:40:03.112Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727516?aid=kb-online-bibliotheek&sid=20&dts=1774683602528&sig=c25b8a9ec596854abd01956969e0955ee23c8c056543be6d4406d85569d4aa41&width=320" alt="Omslag van 'Erfenis van een moordenaar'" title="Omslag van 'Erfenis van een moordenaar'">
+<p>Een vervallen landhuis. Een vergeten bloedbad. Een kwaad dat nooit is verdwenen. Dertig jaar na een gruwelijk familiedrama gaan zeven studenten naar het afgelegen landgoed voor een documentaire rond de gebeurtenissen. Wat begint als een spannende uitdaging, ontaardt al snel in een nachtmerrie. Twee van hen worden dood teruggevonden. Van de rest ontbreekt elk spoor. Rechercheur Casteels wordt op de zaak gezet, net wanneer een verwoestende storm het gebied van de buitenwereld afsluit. Hij tast letterlijk in het duister. Oude wraakzucht, een vergeten vloek en een mysterieus erfgoed dat generaties lang slachtoffers eist, komen opnieuw tot leven. Ontsnappen is geen optie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ben Kegels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[George was hier]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727389/george-was-hier-bill-mensema</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727389/george-was-hier-bill-mensema"/>
+        <updated>2026-03-28T07:40:02.393Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727389?aid=kb-online-bibliotheek&sid=20&dts=1774682804218&sig=24803766fce993b8bafc8a3aa7ec227a19d3ca4c955935ce7d5becba10c1656a&width=320" alt="Omslag van 'George was hier'" title="Omslag van 'George was hier'">
+<p>Bill Mensema neemt ons in zijn Decade-reeks mee naar de jaren tachtig, de jaren van doemdenken en new wave. In deze roman draait het om de band Crimes of Nature, een tamelijk experimentele band, helemaal in de punkgeest van toen. Je hoefde niet per se een instrument te kunnen bespelen om muziek te maken. We volgen de ambitieuze band tijdens hun optredens in stad en land en merken hoe de interne spanningen oplopen. Er worden ingrijpende beslissingen genomen om het schip op de juiste koers te houden. Maar is het noodlot wel te vermijden? Mensema heeft een ongelofelijk eigenzinnige stijl waarin hij op vlotte en aanstekelijke wijze een verhaal vertelt. Zelf noemt hij dat 'vlotteratuur'. Slapstick, humor en een onvoorwaardelijke liefde voor de eigentijdse muziek spelen daarbij een dragende rol. Zo ontstaat er een reeks opmerkelijke romans over zijn jeugd in een wilde tijd, die ook uitermate goed leesbaar zijn voor mensen die niet dagelijks met boeken bezig zijn. George was hier is deel zes van de reeks. Deze romans zijn overigens ook uitstekend los van elkaar te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Bill Mensema</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Run]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727664/stop-run-bill-mensema</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727664/stop-run-bill-mensema"/>
+        <updated>2026-03-28T07:40:01.670Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727664?aid=kb-online-bibliotheek&sid=20&dts=1774611804611&sig=ad22d2f79681ada0c6042b55934003e27fbc605d7d05ca1898a8fc8a4e6864ec&width=320" alt="Omslag van 'Stop Run'" title="Omslag van 'Stop Run'">
+<p>Dit is 'm dan: het finale deel van Bill Mensema's roemruchte Decade-reeks over opgroeien in de jaren '80. De delen zijn overigens ook uitstekend los van elkaar te lezen. Vlotteratuur noemt Mensema zijn schrijfstijl. Dat betekent dat je op vlotte en humoristische wijze door de avonturen wordt geleid. Ook dit is dus een toegankelijk roman, goed voor een paar uurtjes leesplezier. In Stop Run wordt een punt gezet achter de jaren van onbekommerd leven. Elvira gaat trouwen, Han en Annet verwachten een baby en Bill krijgt een een echte baan. Op het terras bespreken Han en Bill nog eenmaal de toestand in de wereld, het weerbericht en de passerende dames. Maar in het kanaal is intussen ook een lijk gevonden, iets waar de mannen ongewild ook mee te maken krijgen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Bill Mensema</name>
         </author>
@@ -346,14 +346,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zandmannetjes]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727311/zandmannetjes-sander-klijn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727311/zandmannetjes-sander-klijn"/>
-        <updated>2026-03-28T07:40:08.246Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727311?aid=kb-online-bibliotheek&sid=20&dts=1774618073584&sig=915e03e67e10f506369a89a4aabf0c0876d474bfedefcf7bdb9e402aea7ec39e&width=320" alt="Omslag van 'Zandmannetjes'" title="Omslag van 'Zandmannetjes'">
-<p>Zand, zo ver het oog reikt, glijdt door je vingers als korrels van de tijd. Gevuld met leegte, raadsels en wonderen. Wat vind jij wanneer je begint te graven? Een ruïne, een monster of … Voor je het weet, kom je in aanraking met een zandmannetje. Durf jij het zand te betreden? Kijk verder dan het oppervlak en zie een verborgen – soms prachtig, soms verdorven – wereld. De diepte van zand | Robin van Doorn “Ik ben omringd door het metalige blauw van de zee en voel de weerstand van het water, wanneer het stroomt tussen mijn tenen. Boven mij glijdt het schijnsel van de vuurtoren, waar de kabbelende golven het licht breken in ontelbare scherven blauw´. Auteurs Robin van Doorn, Helma Spin, Finn Audenaert & Laura Scheepers, Wendy Middelkoop, Michael Vonk, Dennis van den Broek, Jan-Robert Vanderaa, Pepijn Schoonen, Mascha van Duijn, Sybren Hilgen, Simcha Bakker, Dominique Heuff, Mike Jansen, Anne Roodbol & Beck Palmas, Gerhard Pijnenburg, Mathijs Meeuwissen, Niels van Eekelen, Edward van Egmond, Pim van Baal, Angelina van Kemenade, Sorya Harms, Maarten Luikhoven & Finn Audenaert, Bruno Lowagie, Mike Jansen & Laura Scheepers Met een bonusverhaal van Sander Klijn </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Zomer in Cervignano]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459727443/zomer-in-cervignano-bill-mensema</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459727443/zomer-in-cervignano-bill-mensema"/>
+        <updated>2026-03-28T07:40:00.953Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727443?aid=kb-online-bibliotheek&sid=20&dts=1774682804129&sig=dea46a787b1500741877cd4c2efedc4c3b09259701132fae9e8c6a5461738261&width=320" alt="Omslag van 'Zomer in Cervignano'" title="Omslag van 'Zomer in Cervignano'">
+<p>In zijn DECADE-reeks beschrijft Bill Mensema (1960) het leven in de jaren '80. Voor wie opgroeide in die jaren van doem en crisis, was het vaak een mistroostige tijd. Gelukkig zorgde de muziek voor de broodnodige verluchting. In Zomer in Cervignano gaat de hoofdpersoon met z'n band op tournee naar Italië. Ze zijn daar uitgenodigd door een club met - blijkt ter plekke - niet al te frisse connecties, maar toch kunnen ze er op verschillende plekken optreden. Dankzij de Griekse popster Demis Roussos hebben ze er nog een onverwacht groot succes ook. De romans van Bill Mensema kenmerken zich o.a. door een gretig gebruik van humor. Deze keer gaat Mensema helemaal los. De wat tragische belevenissen van de band zet hij zo om tot een adembenemend en grappig avontuur. Ook andere kenmerken van Mensema's unieke schrijfstijl komen hier weer tot hun recht. Het bijzondere gebruik van dialogen, de slapstickachtige scenes en de toegankelijke formuleringen leiden tot een vlot leesbare roman. 'Vlotteratuur' heeft Bill Mensema zijn stijl genoemd. Dat maakt zijn stem vernieuwend en uniek in de Nederlandse letteren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sander Klijn</name>
+            <name>Bill Mensema</name>
         </author>
     </entry>
 </feed>
