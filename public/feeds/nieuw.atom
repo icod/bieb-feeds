@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-03-30T08:18:21.311Z</updated>
+    <updated>2026-03-31T08:03:35.908Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Lieve onbekende]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459786237/lieve-onbekende-kevin-janssen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459786237/lieve-onbekende-kevin-janssen"/>
+        <updated>2026-03-31T08:03:35.907Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459786237?aid=kb-online-bibliotheek&sid=20&dts=1774939207084&sig=b60bf7ab5b396f94b544fb8630bf54e7b462110f6543dd0ea67e03617c737e3b&width=320" alt="Omslag van 'Lieve onbekende'" title="Omslag van 'Lieve onbekende'">
+<p>Soms kruisen levens op een manier die niemand had kunnen voorzien. Wanneer een treinreis eindigt in een tragedie, raken drie levens onlosmakelijk met elkaar verbonden. Zonder dat ze elkaar kennen. Zonder dat ze het weten. Een machinist, een jonge vrouw, een man gevangen in zijn eigen duisternis. Hun verhalen bewegen zich als losse sporen naast elkaar - tot die ene fatale dag waarop alles samenkomt en ieders leven verandert. Voor ieder op zijn eigen manier, en toch zijn er overeenkomsten. Na het ongeluk blijft immers niet alleen een leegte achter, maar ook een onzichtbare last, onbeantwoorde vragen, een knagend schuldgevoel. En de vraag hoe je je eigen leven oppakt wanneer iemand besluit het zijne op te geven. Lieve Onbekende is een indringende roman over de kruising van levens, toevallige ontmoetingen en onomkeerbare keuzes. Over de dunne scheidslijn tussen vasthouden en loslaten, liefde en verlies, leven en rouw. Hoe goed kennen we de mensen die we liefhebben? En hoe goed kennen we onszelf, als alles op het spel staat? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kevin Janssen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winnaar]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459760459/winnaar-bert-kaag</id>
@@ -277,17 +288,6 @@
 <p>What if going viral was the last thing you ever did? Seventeen-year-old Leah Lockwood stayed invisible at school, terrified anyone might discover she was in love with her best friend Maya. Then TRENDVERSE promised fame. Her dares went viral, thousands of strangers validating every risk she took until her final video. Within hours, she vanished. Maya knows that girl isn't the Leah she loved. Searching for answers, she uncovers The Circle, a hidden group pulling strings behind the screen. Leah's story isn't over. Perfect for fans of A Good Girl's Guide to Murder and Black Mirror. A haunting queer thriller about how the internet turns tragedy into entertainment. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Stefanie Sybens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zandmannetjes]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459727311/zandmannetjes-sander-klijn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459727311/zandmannetjes-sander-klijn"/>
-        <updated>2026-03-28T07:40:08.246Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459727311?aid=kb-online-bibliotheek&sid=20&dts=1774618073584&sig=915e03e67e10f506369a89a4aabf0c0876d474bfedefcf7bdb9e402aea7ec39e&width=320" alt="Omslag van 'Zandmannetjes'" title="Omslag van 'Zandmannetjes'">
-<p>Zand, zo ver het oog reikt, glijdt door je vingers als korrels van de tijd. Gevuld met leegte, raadsels en wonderen. Wat vind jij wanneer je begint te graven? Een ruïne, een monster of … Voor je het weet, kom je in aanraking met een zandmannetje. Durf jij het zand te betreden? Kijk verder dan het oppervlak en zie een verborgen – soms prachtig, soms verdorven – wereld. De diepte van zand | Robin van Doorn “Ik ben omringd door het metalige blauw van de zee en voel de weerstand van het water, wanneer het stroomt tussen mijn tenen. Boven mij glijdt het schijnsel van de vuurtoren, waar de kabbelende golven het licht breken in ontelbare scherven blauw´. Auteurs Robin van Doorn, Helma Spin, Finn Audenaert & Laura Scheepers, Wendy Middelkoop, Michael Vonk, Dennis van den Broek, Jan-Robert Vanderaa, Pepijn Schoonen, Mascha van Duijn, Sybren Hilgen, Simcha Bakker, Dominique Heuff, Mike Jansen, Anne Roodbol & Beck Palmas, Gerhard Pijnenburg, Mathijs Meeuwissen, Niels van Eekelen, Edward van Egmond, Pim van Baal, Angelina van Kemenade, Sorya Harms, Maarten Luikhoven & Finn Audenaert, Bruno Lowagie, Mike Jansen & Laura Scheepers Met een bonusverhaal van Sander Klijn </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sander Klijn</name>
         </author>
     </entry>
     <entry>
