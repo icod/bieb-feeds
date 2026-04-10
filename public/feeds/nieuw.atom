@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-04-09T08:14:59.637Z</updated>
+    <updated>2026-04-10T08:18:02.461Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -11,9 +11,9 @@
         <title type="html"><![CDATA[Tussen hemel en waarde]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459760416/tussen-hemel-en-waarde-pieter-grimbergen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459760416/tussen-hemel-en-waarde-pieter-grimbergen"/>
-        <updated>2026-03-30T08:18:21.310Z</updated>
+        <updated>2026-04-10T08:18:02.460Z</updated>
         <summary type="html"><![CDATA[Zin zoeken als pelgrim]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459760416?aid=kb-online-bibliotheek&sid=20&dts=1774858700539&sig=e39b534970ead0a5ca649eaee72cde3e669fe4f4b8b08c4c45913c8874b4ab48&width=320" alt="Omslag van 'Tussen hemel en waarde'" title="Omslag van 'Tussen hemel en waarde'">
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459760416?aid=kb-online-bibliotheek&sid=20&dts=1775747300056&sig=b6db78e95c137388adc76893afc05ba616334ebf67fe0ed686be1fddc8b51802&width=320" alt="Omslag van 'Tussen hemel en waarde'" title="Omslag van 'Tussen hemel en waarde'">
 <p>“Ik denk dat er iets meer is tussen hemel en aarde, maar ik geloof niet, hoor!” De actualiteit geeft aan dat mensen zoeken. Wat is het prijskaartje van zin zoeken? Pieter Grimbergen ging op zoek naar wat er met iets bedoeld zou kunnen worden. Het veld tussen hemel en aarde is oneindig. Zijn waarden daarin verhelderend? Wat is hemel, wat zijn waarden? Hoe verhouden geloof, hoop en liefde zich met vertrouwen en wonderen? Is er ruimte voor deze vragen of laten we het bij primaire reacties zoals we die vaak tegenkomen in de social media? Grimbergen werkt enkele waarden uit en bespreekt belemmeringen. Hij stuit op drie belangrijke pelgrimsvragen: waar kom je vandaan, waar ben je nu en waar ga je naar toe. Pieter toetst ze aan zijn eigen vragen en sprak met drie pelgrims. Helpt geloof bij het aankijken van alles wat zich begeeft tussen hemel en waarde? Helpen de (religieuze en seculiere) motivaties van pelgrims bij deze al de vragen? Worden ze na de tocht herzien? Wat vinden ze? Pieter Grimbergen omarmt zin zoeken. Zin zoeken blijkt een ronduit stevig prijskaartje te hebben. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Pieter Grimbergen</name>
@@ -69,6 +69,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Binnen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459841009/binnen-boris-becker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459841009/binnen-boris-becker"/>
+        <updated>2026-04-05T07:51:42.634Z</updated>
+        <summary type="html"><![CDATA[Winnen. Verliezen. Opnieuw beginnen.]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459841009?aid=kb-online-bibliotheek&sid=20&dts=1775373262651&sig=bd6f437b0c12f36595ab5260b2f6cb0fbfeff2f2adf625eb85dcf7e2e8d3b06a&width=320" alt="Omslag van 'Binnen'" title="Omslag van 'Binnen'">
+<p>Terwijl ik elke ochtend in het klaslokaal zat, de bladzijden uit mijn boek las en luisterde naar de leraar, merkte ik dat alles steeds trager ging. Ik had grote dingen gepresteerd. Ik had drie Wimbledontitels gewonnen, twee keer de Australian Open gewonnen en een keer de US Open. Twee Davis Cups, een gouden Olympische medaille.  Maar waar stond ik nu?  Óf ik was een vreemde eend in de bijt, een geweldige man omringd door mindere goden, óf ik was helemaal geen uitzondering. Ik paste er dan perfect tussen. En als dat zo was, waarom was dat dan zo?  Wimbledon kampioen op zijn zeventiende, zes Grand Slam titels en voormalig nummer een - Boris Becker had ongekend succes, roem en rijkdom gedurende zijn tenniscarrière. Maar alles veranderde in April 2022 toen hij werd veroordeeld tot dertig maanden cel wegens faillissementsfraude.  Binnen biedt een rauw en onverschrokken verslag van Beckers leven achter de tralies, met details over de brute realiteit van het overleven in twee van de zwaarste gevangenissen van het Verenigd Koninkrijk en de onverwachte lessen in veerkracht die hem op de been hielden. Beroofd van faam en fortuin, stond Becker als gevangene A2923EV voor een compleet nieuwe wereld, waar niets hem gemakkelijk afging.  Binnen is meer dan een overlevingsverhaal; het gaat over diepgaande transformatie. Met uitzonderlijke eerlijkheid reflecteert Becker op de keuzes die hem naar de gevangenis leidden, confronteert hij zijn fouten en de prijs van roem. Door middel van nieuwe relaties, recent aangeleerde overlevingstechnieken en de filosofie van het stoïcisme begint hij aan de moeilijkste reis om zijn leven en gebroken reputatie weer op te bouwen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Boris Becker</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Op onderzoek in Ezechiël]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459840576/op-onderzoek-in-ezechi%C3%ABl-amir-tsarfati---rick-yohn</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459840576/op-onderzoek-in-ezechi%C3%ABl-amir-tsarfati---rick-yohn"/>
@@ -119,18 +131,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Binnen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459841009/binnen-boris-becker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459841009/binnen-boris-becker"/>
-        <updated>2026-04-05T07:51:42.634Z</updated>
-        <summary type="html"><![CDATA[Winnen. Verliezen. Opnieuw beginnen.]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459841009?aid=kb-online-bibliotheek&sid=20&dts=1775373262651&sig=bd6f437b0c12f36595ab5260b2f6cb0fbfeff2f2adf625eb85dcf7e2e8d3b06a&width=320" alt="Omslag van 'Binnen'" title="Omslag van 'Binnen'">
-<p>Terwijl ik elke ochtend in het klaslokaal zat, de bladzijden uit mijn boek las en luisterde naar de leraar, merkte ik dat alles steeds trager ging. Ik had grote dingen gepresteerd. Ik had drie Wimbledontitels gewonnen, twee keer de Australian Open gewonnen en een keer de US Open. Twee Davis Cups, een gouden Olympische medaille.  Maar waar stond ik nu?  Óf ik was een vreemde eend in de bijt, een geweldige man omringd door mindere goden, óf ik was helemaal geen uitzondering. Ik paste er dan perfect tussen. En als dat zo was, waarom was dat dan zo?  Wimbledon kampioen op zijn zeventiende, zes Grand Slam titels en voormalig nummer een - Boris Becker had ongekend succes, roem en rijkdom gedurende zijn tenniscarrière. Maar alles veranderde in April 2022 toen hij werd veroordeeld tot dertig maanden cel wegens faillissementsfraude.  Binnen biedt een rauw en onverschrokken verslag van Beckers leven achter de tralies, met details over de brute realiteit van het overleven in twee van de zwaarste gevangenissen van het Verenigd Koninkrijk en de onverwachte lessen in veerkracht die hem op de been hielden. Beroofd van faam en fortuin, stond Becker als gevangene A2923EV voor een compleet nieuwe wereld, waar niets hem gemakkelijk afging.  Binnen is meer dan een overlevingsverhaal; het gaat over diepgaande transformatie. Met uitzonderlijke eerlijkheid reflecteert Becker op de keuzes die hem naar de gevangenis leidden, confronteert hij zijn fouten en de prijs van roem. Door middel van nieuwe relaties, recent aangeleerde overlevingstechnieken en de filosofie van het stoïcisme begint hij aan de moeilijkste reis om zijn leven en gebroken reputatie weer op te bouwen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Boris Becker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De echo van dag]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/458307955/de-echo-van-dag-sebastiaan-zwanenburg</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/458307955/de-echo-van-dag-sebastiaan-zwanenburg"/>
@@ -142,15 +142,37 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Herstart]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459840908/herstart-jolien-durwael</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459840908/herstart-jolien-durwael"/>
-        <updated>2026-04-05T07:51:43.664Z</updated>
-        <summary type="html"><![CDATA[Een praktische handleiding voor een leven dat echt bij je past]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840908?aid=kb-online-bibliotheek&sid=20&dts=1775375161909&sig=90e845bca9f02f44ee239a74cb7fd8df2e2b748fead991b43ab8f9e1e2587892&width=320" alt="Omslag van 'Herstart'" title="Omslag van 'Herstart'">
-<p>Het leven van Jolien Durwael was als een IKEA-kast die fout in elkaar was gezet. De kast zag er normaal uit, maar door een grote slag zakte ze ineen. Er was een nieuwe handleiding nodig om de kast stabiel te maken, om een bewuster en gezonder leven te leiden. Jarenlang dook Jolien in de wetenschap om een nieuwe handleiding te schrijven. Ze begon te werken aan onder andere betere slaap, ontspanning, voeding en beweging. Deze handleiding vormt geen perfect plan, maar ze biedt jou wel een stevige basis om zelf aan de slag te gaan en het beste uit je leven te halen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Sil superstil]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459841114/sil-superstil-ellen-jansegers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459841114/sil-superstil-ellen-jansegers"/>
+        <updated>2026-04-08T08:08:06.683Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459841114?aid=kb-online-bibliotheek&sid=20&dts=1775556135753&sig=91c315a1b4af95c88974b5fd9133df6d48b1911b425ed2772cdddbd11d704db9&width=320" alt="Omslag van 'Sil superstil'" title="Omslag van 'Sil superstil'">
+<p>Sil, een stille superheld, ontmoet een windgeest die hem leert dat kracht ook in stilte en empathie kan zitten. Prentenboek met illustraties in kleur. Vanaf ca. 4 jaar.</p>]]></content>
         <author>
-            <name>Jolien Durwael</name>
+            <name>Ellen Jansegers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onze versplinterde zielen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459840754/onze-versplinterde-zielen-rima-orie</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459840754/onze-versplinterde-zielen-rima-orie"/>
+        <updated>2026-04-05T07:51:50.163Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840754?aid=kb-online-bibliotheek&sid=20&dts=1775306255028&sig=79fe1678e08f772b0d2dcd37e7d38a11e2b90d745f9b58aaaede8f6ec2ee15ed&width=320" alt="Omslag van 'Onze versplinterde zielen'" title="Omslag van 'Onze versplinterde zielen'">
+<p>Nu het duistere monster van de kolonisten, de Dedekedre, is verslagen en het militaire fort Kuwatta samen met haar ten onder is gegaan, scheurt het rebellenleger uiteen in twee kampen. Awaran is meer verdeeld dan ooit en ook Priya en Reza komen lijnrecht tegenover elkaar te staan. Als Priya de opdracht krijgt om een oermonster onder controle te krijgen dat de kracht van een Dedekedre kan evenaren, trekt ze diep het eeuwenoude regenwoud in. Maar de oorlog wacht niet en het regenwoud geeft zijn geheimen niet graag prijs. Het is de vraag of Priya iedereen om wie ze geeft in leven kan houden... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Rima Orie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stilte in bed]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459841076/stilte-in-bed-jaela-cole</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459841076/stilte-in-bed-jaela-cole"/>
+        <updated>2026-04-05T07:51:45.759Z</updated>
+        <summary type="html"><![CDATA[Hoe vrouwelijk verlangen in langdurige relaties kan doven en weer ontvlammen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459841076?aid=kb-online-bibliotheek&sid=20&dts=1775304785705&sig=dee532e8206d3070a472dc6b654ad56d0e96679e93d440d7d8d5aa90eb87b9b0&width=320" alt="Omslag van 'Stilte in bed'" title="Omslag van 'Stilte in bed'">
+<p>Stilte in bed is een werkboek voor vrouwen die van hun partner houden, maar hun zin in seks voelen wegebben. Relatietherapeut en seksuologisch hulpverlener Jaela Cole ontwikkelde een heldere, beproefde methodiek die hoofd, hart en lichaam opnieuw met elkaar verbindt. Met praktijkvoorbeelden, reflectie-oefeningen en herkenbare verhalen helpt ze je te begrijpen wat er met jou gebeurt. En hoe je het tij kunt keren. Niet om je te 'repareren', maar om je terug te brengen naar jezelf. Niet om te willen wat was, maar om te begrijpen, te voelen en te doen wat verlangen nodig heeft om opnieuw te ademen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jaela Cole</name>
         </author>
     </entry>
     <entry>
@@ -165,14 +187,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onder een brandende hemel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459840584/onder-een-brandende-hemel-dougie-mchale</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459840584/onder-een-brandende-hemel-dougie-mchale"/>
-        <updated>2026-04-06T08:19:36.602Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840584?aid=kb-online-bibliotheek&sid=20&dts=1775380381897&sig=8f6a2ac7da3a945d54e260a8130636ba9bed36898eb3d7eeacdd06a6535d317f&width=320" alt="Omslag van 'Onder een brandende hemel'" title="Omslag van 'Onder een brandende hemel'">
-<p>Corfu, 1943  Midden in de Tweede Wereldoorlog vindt Helena, een jonge vrouw en moeder, een zwaargewonde Britse soldaat in de buurt van haar huis. Ze maakte een keuze die alles verandert, ondanks het feit dat ze daarmee de veiligheid van haar familie in gevaar brengt: een gewonde man redden die langzaam meer wordt dan gewoon een vreemde.</p><p>Edinburgh, 2018  Vijvenzeventig jaar later vind Jason het dagboek van zijn overgrootvader Marcus. Hij reist af naar Corfu en ontdekt een verleden van liefde, passie, verraad en lang bewaarde geheimen. Terwijl hij worstelt met zijn eigen trauma, probeert Jason zijn familiegeschiedenis te begrijpen, die het potentieel heeft om niet alleen de blik op zijn familie te veranderen, maar ook zijn hele toekomst.</p><p>Onder een brandende hemel doorzoekt de buitengewone moed van gewone mensen en de aanhoudende kracht van familiebanden en liefde in het prachtige landschap van een door de oorlog geteisterd Corfu en het huidige Schotland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Slome paarden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459840630/slome-paarden-mick-herron</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459840630/slome-paarden-mick-herron"/>
+        <updated>2026-04-06T08:19:41.292Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840630?aid=kb-online-bibliotheek&sid=20&dts=1775377741115&sig=24d9035102fd64663688f1e23ef20874ea3bb5bfa132309ed9733a540278ef4e&width=320" alt="Omslag van 'Slome paarden'" title="Omslag van 'Slome paarden'">
+<p>Londen, Engeland. Slough House is de plek waar afgeschreven MI5-spionnen hun mislukte carrière moeten uitzitten. De 'slow horses', zoals ze worden genoemd, zijn allemaal op de een of andere manier in ongenade gevallen.  Misschien hebben ze een operatie zo erg verprutst dat niemand hen nog vertrouwt. Misschien stonden ze een ambitieuze collega in de weg en werden ze genadeloos aan de kant geschoven. Misschien raakten ze te afhankelijk van de fles, wat geen zeldzaamheid is in dit vak.  Maar één ding hebben ze gemeen. Ze willen terug het veld in. En de meesten zijn bereid alles te doen om daar te komen, zelfs als dat betekent dat ze met elkaar moeten samenwerken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Dougie McHale</name>
+            <name>Mick Herron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De ideale man]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459841041/de-ideale-man-t-j--emerson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459841041/de-ideale-man-t-j--emerson"/>
+        <updated>2026-04-06T08:19:41.860Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459841041?aid=kb-online-bibliotheek&sid=20&dts=1775458886440&sig=3e331186a5f0c24e9150f03c58b9de093a9b0376b91b524cbb997f3945209762&width=320" alt="Omslag van 'De ideale man'" title="Omslag van 'De ideale man'">
+<p>Drie vrouwen. Eén man. Hun levens zullen voorgoed veranderen.</p><p>De dochter  'Mijn vader is onschuldig. Hij heeft bijna vier jaar vastgezeten, maar nu komt hij vrij. Ik heb alles opgegeven om er voor hem te zijn, net zoals hij er altijd voor mij was. Alles wat ik heb opgeofferd, zal nu eindelijk de moeite waard zijn.'</p><p>De vriendin  'Toen ik die ochtend de krant opensloeg en Sandy's foto zag, kon de rest van het artikel me niets meer schelen. Hij heeft dat meisje nooit iets aangedaan. Nu hij vrij is, gaan we trouwen en kan ik eindelijk zijn dochter ontmoeten. We hoeven onze liefde niet langer geheim te houden.'</p><p>De andere vrouw  'Niemand weet wat er al die jaren geleden echt is gebeurd. Mijn hele leven draait om dat geheim, en als hij nu vrijkomt, zou alles aan het licht kunnen komen. Dat kan ik niet laten gebeuren.'  Lof voor De ideale man: 'Wow! Prachtig geschreven met een sterk gevoel voor sfeer - een scherp contrast met wat zich achter gesloten deuren afspeelt.' - Valerie Keogh 'Een kil, duister en prachtig geschreven verhaal over manipulatie, wraak en de vage grens tussen schuld en rechtvaardigheid.' - Shari Low </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>T.J. Emerson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alles op het spel in Starr's Fall]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459840614/alles-op-het-spel-in-starr-s-fall-kate-hewitt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459840614/alles-op-het-spel-in-starr-s-fall-kate-hewitt"/>
+        <updated>2026-04-06T08:19:40.488Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840614?aid=kb-online-bibliotheek&sid=20&dts=1775389108366&sig=bada9ef7a3b81719b12e4e1fa804b06e45d7b4363a5d48338fa226b7bef331b9&width=320" alt="Omslag van 'Alles op het spel in Starr's Fall'" title="Omslag van 'Alles op het spel in Starr's Fall'">
+<p>De lente hangt in de lucht in Starr's Fall, en misschien bloeit ook de liefde op...  Terwijl de bevroren aarde plaatsmaakt voor de eerste krokussen arriveert Maggie in Starr's Fall. Ze is toe aan een nieuw begin, samen met haar lieve maar extreem verlegen tienerzoon. Het leven heeft Maggie tot nu toe niet altijd meegezeten, maar ze is vastbesloten dit keer als winnaar uit de bus te komen en haar droom waar te maken: het openen van een gezellig spelletjescafé. Maar niet alles is een spel, en wanneer ze zich aangetrokken voelt tot een man die bekendstaat als een player, vraagt ze zich af of ze het risico moet lopen haar hart te verliezen.  Zach is onweerstaanbaar knap, grappig, verrassend nerdy, en misschien wel het belangrijkste: hij kan het meteen goed vinden met haar zoon. Maar hij heeft een reputatie in het stadje én is tien jaar jonger dan zij.  Wanneer hij haar mee uit vraagt, is Maggie compleet van haar stuk. Ze kan niet ontkennen dat ze zich tot hem aangetrokken voelt, maar is ze klaar om haar hart opnieuw op het spel te zetten en het risico te nemen om gekwetst te worden?</p><p>'Ik ben dol op de Gilmore Girls-vibes van deze prachtige serie. Starr's Fall heeft mijn hart gestolen! Een schitterende setting, een schattige hond, een fantastische community en een heerlijke grumpy-meets-sunshine-combinatie. Wat wil je nog meer?' - Jessica Redland </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kate Hewitt</name>
         </author>
     </entry>
     <entry>
@@ -184,6 +228,17 @@
 <p>In 1645 werden honderden onschuldige mensen veroordeeld voor hekserij tijdens de heksenvervolgingen in Suffolk. Dood en onzekerheid teisterden het land.  In 1890 laaien de geruchten over hekserij weer op wanneer er twee dode lichamen worden gevonden in het dorp Fressingfield. Privédetective Lawrence Harpham wordt vanuit Bury St. Edmunds naar het dorp gestuurd om de zaak te onderzoeken, maar hij zit nog diep in de rouw door de dood van zijn gezin, die door een brand in huis om het leven zijn gekomen. Lukt het hem zijn eigen demonen te overwinnen en erachter te komen wie de moordenaar is?  De heks van Fressingfield is een fictieve moordmysterie gebaseerd op ware gebeurtenissen. Twee van de duisterste hekserijzaken van Suffolk worden verweven in één verhaal. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Jacqueline Beard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onder een brandende hemel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459840584/onder-een-brandende-hemel-dougie-mchale</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459840584/onder-een-brandende-hemel-dougie-mchale"/>
+        <updated>2026-04-06T08:19:36.602Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840584?aid=kb-online-bibliotheek&sid=20&dts=1775380381897&sig=8f6a2ac7da3a945d54e260a8130636ba9bed36898eb3d7eeacdd06a6535d317f&width=320" alt="Omslag van 'Onder een brandende hemel'" title="Omslag van 'Onder een brandende hemel'">
+<p>Corfu, 1943  Midden in de Tweede Wereldoorlog vindt Helena, een jonge vrouw en moeder, een zwaargewonde Britse soldaat in de buurt van haar huis. Ze maakte een keuze die alles verandert, ondanks het feit dat ze daarmee de veiligheid van haar familie in gevaar brengt: een gewonde man redden die langzaam meer wordt dan gewoon een vreemde.</p><p>Edinburgh, 2018  Vijvenzeventig jaar later vind Jason het dagboek van zijn overgrootvader Marcus. Hij reist af naar Corfu en ontdekt een verleden van liefde, passie, verraad en lang bewaarde geheimen. Terwijl hij worstelt met zijn eigen trauma, probeert Jason zijn familiegeschiedenis te begrijpen, die het potentieel heeft om niet alleen de blik op zijn familie te veranderen, maar ook zijn hele toekomst.</p><p>Onder een brandende hemel doorzoekt de buitengewone moed van gewone mensen en de aanhoudende kracht van familiebanden en liefde in het prachtige landschap van een door de oorlog geteisterd Corfu en het huidige Schotland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dougie McHale</name>
         </author>
     </entry>
     <entry>
@@ -221,39 +276,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alles op het spel in Starr's Fall]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459840614/alles-op-het-spel-in-starr-s-fall-kate-hewitt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459840614/alles-op-het-spel-in-starr-s-fall-kate-hewitt"/>
-        <updated>2026-04-06T08:19:40.488Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840614?aid=kb-online-bibliotheek&sid=20&dts=1775389108366&sig=bada9ef7a3b81719b12e4e1fa804b06e45d7b4363a5d48338fa226b7bef331b9&width=320" alt="Omslag van 'Alles op het spel in Starr's Fall'" title="Omslag van 'Alles op het spel in Starr's Fall'">
-<p>De lente hangt in de lucht in Starr's Fall, en misschien bloeit ook de liefde op...  Terwijl de bevroren aarde plaatsmaakt voor de eerste krokussen arriveert Maggie in Starr's Fall. Ze is toe aan een nieuw begin, samen met haar lieve maar extreem verlegen tienerzoon. Het leven heeft Maggie tot nu toe niet altijd meegezeten, maar ze is vastbesloten dit keer als winnaar uit de bus te komen en haar droom waar te maken: het openen van een gezellig spelletjescafé. Maar niet alles is een spel, en wanneer ze zich aangetrokken voelt tot een man die bekendstaat als een player, vraagt ze zich af of ze het risico moet lopen haar hart te verliezen.  Zach is onweerstaanbaar knap, grappig, verrassend nerdy, en misschien wel het belangrijkste: hij kan het meteen goed vinden met haar zoon. Maar hij heeft een reputatie in het stadje én is tien jaar jonger dan zij.  Wanneer hij haar mee uit vraagt, is Maggie compleet van haar stuk. Ze kan niet ontkennen dat ze zich tot hem aangetrokken voelt, maar is ze klaar om haar hart opnieuw op het spel te zetten en het risico te nemen om gekwetst te worden?</p><p>'Ik ben dol op de Gilmore Girls-vibes van deze prachtige serie. Starr's Fall heeft mijn hart gestolen! Een schitterende setting, een schattige hond, een fantastische community en een heerlijke grumpy-meets-sunshine-combinatie. Wat wil je nog meer?' - Jessica Redland </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kate Hewitt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slome paarden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459840630/slome-paarden-mick-herron</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459840630/slome-paarden-mick-herron"/>
-        <updated>2026-04-06T08:19:41.292Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840630?aid=kb-online-bibliotheek&sid=20&dts=1775377741115&sig=24d9035102fd64663688f1e23ef20874ea3bb5bfa132309ed9733a540278ef4e&width=320" alt="Omslag van 'Slome paarden'" title="Omslag van 'Slome paarden'">
-<p>Londen, Engeland. Slough House is de plek waar afgeschreven MI5-spionnen hun mislukte carrière moeten uitzitten. De 'slow horses', zoals ze worden genoemd, zijn allemaal op de een of andere manier in ongenade gevallen.  Misschien hebben ze een operatie zo erg verprutst dat niemand hen nog vertrouwt. Misschien stonden ze een ambitieuze collega in de weg en werden ze genadeloos aan de kant geschoven. Misschien raakten ze te afhankelijk van de fles, wat geen zeldzaamheid is in dit vak.  Maar één ding hebben ze gemeen. Ze willen terug het veld in. En de meesten zijn bereid alles te doen om daar te komen, zelfs als dat betekent dat ze met elkaar moeten samenwerken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Mick Herron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De ideale man]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459841041/de-ideale-man-t-j--emerson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459841041/de-ideale-man-t-j--emerson"/>
-        <updated>2026-04-06T08:19:41.860Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459841041?aid=kb-online-bibliotheek&sid=20&dts=1775458886440&sig=3e331186a5f0c24e9150f03c58b9de093a9b0376b91b524cbb997f3945209762&width=320" alt="Omslag van 'De ideale man'" title="Omslag van 'De ideale man'">
-<p>Drie vrouwen. Eén man. Hun levens zullen voorgoed veranderen.</p><p>De dochter  'Mijn vader is onschuldig. Hij heeft bijna vier jaar vastgezeten, maar nu komt hij vrij. Ik heb alles opgegeven om er voor hem te zijn, net zoals hij er altijd voor mij was. Alles wat ik heb opgeofferd, zal nu eindelijk de moeite waard zijn.'</p><p>De vriendin  'Toen ik die ochtend de krant opensloeg en Sandy's foto zag, kon de rest van het artikel me niets meer schelen. Hij heeft dat meisje nooit iets aangedaan. Nu hij vrij is, gaan we trouwen en kan ik eindelijk zijn dochter ontmoeten. We hoeven onze liefde niet langer geheim te houden.'</p><p>De andere vrouw  'Niemand weet wat er al die jaren geleden echt is gebeurd. Mijn hele leven draait om dat geheim, en als hij nu vrijkomt, zou alles aan het licht kunnen komen. Dat kan ik niet laten gebeuren.'  Lof voor De ideale man: 'Wow! Prachtig geschreven met een sterk gevoel voor sfeer - een scherp contrast met wat zich achter gesloten deuren afspeelt.' - Valerie Keogh 'Een kil, duister en prachtig geschreven verhaal over manipulatie, wraak en de vage grens tussen schuld en rechtvaardigheid.' - Shari Low </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>T.J. Emerson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tijd van dwang]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459841130/tijd-van-dwang-peter-mangel-schots</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459841130/tijd-van-dwang-peter-mangel-schots"/>
@@ -265,14 +287,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mixtape]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459840916/mixtape-laura-buelinckx</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459840916/mixtape-laura-buelinckx"/>
-        <updated>2026-04-06T08:19:43.165Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840916?aid=kb-online-bibliotheek&sid=20&dts=1775463582568&sig=bf5bb5a549626cb7607fe8ae53375efde5652db76f843063e7f2f606d2a0f32d&width=320" alt="Omslag van 'Mixtape'" title="Omslag van 'Mixtape'">
-<p>Gloria verlangt naar meer pit in haar leven. Op een rommelmarkt tikt ze een doos cassettes op de kop, waarin een bepaalde mixtape haar aandacht trekt. Gloria, die op jonge leeftijd haar moeder verloor, is gefascineerd door het verleden, wil alles verzamelen en bewaren. Ze beluistert de nummers uit vervlogen tijden en denkt na over haar verloren dromen, haar gemis en de keuzes die haar hebben gevormd. Terwijl ze steeds vaker wordt teruggeworpen in het verleden, zal ze een beslissing moeten nemen over haar toekomst. Kiest ze voor voorspelbaarheid of bewandelt ze het avontuurlijke pad? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Dode leeuwen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459840797/dode-leeuwen-mick-herron</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459840797/dode-leeuwen-mick-herron"/>
+        <updated>2026-04-05T07:51:47.090Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840797?aid=kb-online-bibliotheek&sid=20&dts=1775375506866&sig=f40c04d2e8b2c0dd44658962a0a4dbb56f2ecd0c32474ab7abb6957b96cac2b9&width=320" alt="Omslag van 'Dode leeuwen'" title="Omslag van 'Dode leeuwen'">
+<p>De Slome paarden worden onverwacht opgetrommeld om een bezoekende Russische oligarch te beschermen, die MI5 hoopt te rekruteren voor de Britse inlichtingendienst. Terwijl twee agenten worden ingezet voor deze ondankbare oppastaak, wordt een oude Koude Oorlog-spion, Dickie Bow, dood aangetroffen. Officieel is hij bezweken aan een hartaanval, ver van de plekken waar hij normaal kwam.  Maar Jackson Lamb, het onuitstaanbare hoofd van Slough House, is ervan overtuigd dat Dickie Bow is vermoord.  Wanneer de agenten zich verdiepen in de omstandigheden rond de dood van hun voormalige collega, stuiten ze op een duister web van lang begraven geheimen uit de Koude Oorlog. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Laura Buelinckx</name>
+            <name>Mick Herron</name>
         </author>
     </entry>
     <entry>
@@ -287,6 +309,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mixtape]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459840916/mixtape-laura-buelinckx</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459840916/mixtape-laura-buelinckx"/>
+        <updated>2026-04-06T08:19:43.165Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840916?aid=kb-online-bibliotheek&sid=20&dts=1775463582568&sig=bf5bb5a549626cb7607fe8ae53375efde5652db76f843063e7f2f606d2a0f32d&width=320" alt="Omslag van 'Mixtape'" title="Omslag van 'Mixtape'">
+<p>Gloria verlangt naar meer pit in haar leven. Op een rommelmarkt tikt ze een doos cassettes op de kop, waarin een bepaalde mixtape haar aandacht trekt. Gloria, die op jonge leeftijd haar moeder verloor, is gefascineerd door het verleden, wil alles verzamelen en bewaren. Ze beluistert de nummers uit vervlogen tijden en denkt na over haar verloren dromen, haar gemis en de keuzes die haar hebben gevormd. Terwijl ze steeds vaker wordt teruggeworpen in het verleden, zal ze een beslissing moeten nemen over haar toekomst. Kiest ze voor voorspelbaarheid of bewandelt ze het avontuurlijke pad? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Laura Buelinckx</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Een dodelijke date]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/459841025/een-dodelijke-date-e-v--hunter</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/459841025/een-dodelijke-date-e-v--hunter"/>
@@ -295,17 +328,6 @@
 <p>Het begin van een gloednieuwe cozy crime-serie: Mysteries op Hopgood Hall  Wanneer onderzoeksjournalist Alexi Ellis wordt getroffen door bezuinigingen, besluit ze samen met Cosmo, haar asociale en ietwat verwilderde kat, haar toevlucht te zoeken in het prachtige Hopgood Hall. Ze hoopt tot rust te komen in het boetiekhotel van haar oude vrienden Cheryl en Drew Hopgood.  Maar bij aankomst treft Alexi haar oude vrienden aangeslagen aan. Hun goede vriendin Natalie Parker, die onlangs in de buurt is komen wonen, is spoorloos verdwenen. Alexi vermoedt dat Natalie er gewoon even tusssenuit is, maar haar journalistieke instinct wordt toch geprikkeld en ze besluit op onderzoek uit te gaan.  Ook Jack Maddox, voormalig rechercheur van de Londense politie en nu privédetective, stort zich op de zaak. Natalie Parker maakte gebruik van het online datingbureau van zijn zus, en Jack moet haar vinden voordat het bedrijf van zijn zus ten onder gaat. Met frisse tegenzin slaan Alexi en Jack (en Cosmo) de handen ineen om te achterhalen wat er met Natalie is gebeurd. Maar al snel stuiten ze op geheimen die iemand koste wat kost verborgen wil houden...  'Een briljant boek dat me vanaf het begin in zijn greep had. Ik kon het niet wegleggen!' - Gemma Rogers 'Moord, rivaliteit, liefdesaffaires en vetes, allemaal verpakt in de wereld van renpaarden. Wat wil je nog meer in een moordmysterie?' - Kate Wells </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>E.V. Hunter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een nieuw begin op Roseford Hall]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459840835/een-nieuw-begin-op-roseford-hall-fay-keenan</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459840835/een-nieuw-begin-op-roseford-hall-fay-keenan"/>
-        <updated>2026-04-05T07:51:48.639Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840835?aid=kb-online-bibliotheek&sid=20&dts=1775375508062&sig=80a59d06b7132b9d18169fd2e52072f5b0061c3903769199d0ecb00e59b0a77d&width=320" alt="Omslag van 'Een nieuw begin op Roseford Hall'" title="Omslag van 'Een nieuw begin op Roseford Hall'">
-<p>Het eerste deel in de gloednieuwe serie van bestsellerauteur Fay Keenan  Voor schrijfster Stella Simpson heeft het leven in Londen zijn glans verloren, dus wanneer ze de kans krijgt om een jaar lang het stadsleven te verruilen voor het platteland, grijpt ze die met beide handen aan. In het prachtige landschap van Somerset is het majestueuze Roseford Hall tot in de puntjes gerestaureerd en klaar voor de feestelijke heropening. Als writer in residence mag Stella dit allemaal zelf ervaren - van de luidruchtige pauwen op het landgoed tot de geheimen van het huis. Ze raakt zelfs bevriend met de Lord van het landgoed.  Aan de andere kant van Roseford kampt alleenstaande vader Chris Charlton met zijn eigen problemen. Sinds een tragische gebeurtenis twee jaar geleden zit er geen schot meer in de plannen voor de renovatie van het vervallen Victoriaanse Halstead House - net als in de rest van zijn leven.  Terwijl Roseford Hall zich klaarmaakt voor een nieuw tijdperk en de toekomst van Halstead House op het spel staat, groeien Chris en Stella steeds meer naar elkaar toe. Kunnen ze hun verleden eindelijk achter zich laten? En zullen Chris en Stella hun nieuwe begin samen omarmen - of ieder voor zich?  Ontsnap naar het prachtige, idyllische Engelse platteland met Fay Keenan. Romantisch, hartverwarmend en ongelooflijk charmant - perfect voor fans van Jessica Redland, Kim Nash en Holly Martin. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Fay Keenan</name>
         </author>
     </entry>
     <entry>
@@ -320,37 +342,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het cijferspoor]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459840665/het-cijferspoor-anne-holt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459840665/het-cijferspoor-anne-holt"/>
-        <updated>2026-04-05T07:51:44.485Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840665?aid=kb-online-bibliotheek&sid=20&dts=1775372356282&sig=0398645dc6f259215e8290c5b78594cd759b69e916fdfcae0930ba6044857108&width=320" alt="Omslag van 'Het cijferspoor'" title="Omslag van 'Het cijferspoor'">
-<p>Tijdens een buitengewoon warm voorjaar wordt de politie van Oslo opgeschrikt door een reeks raadselachtige misdaden. Hanne Wilhelmsen, de opmerkelijke rechercheur op haar roze Harley Davidson, werkt samen met officier van justitie Håkon Sand aan een zaak waarbij iedere zaterdag ergens een grote plas bloed wordt aangetroffen.  Wanneer er plotseling een zaterdag voorbijgaat zonder nieuwe vondst, verandert het patroon. Tegelijkertijd wordt de jonge Kristine slachtoffer van een brute verkrachting, en haar vader gaat op eigen onderzoek uit.  Geleidelijk aan vallen de puzzelstukjes in deze vreemde zaken op hun plaats, en blijkt de dader van de verkrachting voor Hanne Wilhelmsen bepaald geen onbekende te zijn... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Herstart]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459840908/herstart-jolien-durwael</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459840908/herstart-jolien-durwael"/>
+        <updated>2026-04-05T07:51:43.664Z</updated>
+        <summary type="html"><![CDATA[Een praktische handleiding voor een leven dat echt bij je past]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840908?aid=kb-online-bibliotheek&sid=20&dts=1775375161909&sig=90e845bca9f02f44ee239a74cb7fd8df2e2b748fead991b43ab8f9e1e2587892&width=320" alt="Omslag van 'Herstart'" title="Omslag van 'Herstart'">
+<p>Het leven van Jolien Durwael was als een IKEA-kast die fout in elkaar was gezet. De kast zag er normaal uit, maar door een grote slag zakte ze ineen. Er was een nieuwe handleiding nodig om de kast stabiel te maken, om een bewuster en gezonder leven te leiden. Jarenlang dook Jolien in de wetenschap om een nieuwe handleiding te schrijven. Ze begon te werken aan onder andere betere slaap, ontspanning, voeding en beweging. Deze handleiding vormt geen perfect plan, maar ze biedt jou wel een stevige basis om zelf aan de slag te gaan en het beste uit je leven te halen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Anne Holt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stilte in bed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459841076/stilte-in-bed-jaela-cole</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459841076/stilte-in-bed-jaela-cole"/>
-        <updated>2026-04-05T07:51:45.759Z</updated>
-        <summary type="html"><![CDATA[Hoe vrouwelijk verlangen in langdurige relaties kan doven en weer ontvlammen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459841076?aid=kb-online-bibliotheek&sid=20&dts=1775304785705&sig=dee532e8206d3070a472dc6b654ad56d0e96679e93d440d7d8d5aa90eb87b9b0&width=320" alt="Omslag van 'Stilte in bed'" title="Omslag van 'Stilte in bed'">
-<p>Stilte in bed is een werkboek voor vrouwen die van hun partner houden, maar hun zin in seks voelen wegebben. Relatietherapeut en seksuologisch hulpverlener Jaela Cole ontwikkelde een heldere, beproefde methodiek die hoofd, hart en lichaam opnieuw met elkaar verbindt. Met praktijkvoorbeelden, reflectie-oefeningen en herkenbare verhalen helpt ze je te begrijpen wat er met jou gebeurt. En hoe je het tij kunt keren. Niet om je te 'repareren', maar om je terug te brengen naar jezelf. Niet om te willen wat was, maar om te begrijpen, te voelen en te doen wat verlangen nodig heeft om opnieuw te ademen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jaela Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spuit Elf en de brandweerolifanten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459840932/spuit-elf-en-de-brandweerolifanten-harmen-van-straaten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459840932/spuit-elf-en-de-brandweerolifanten-harmen-van-straaten"/>
-        <updated>2026-04-06T08:19:44.365Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459840932?aid=kb-online-bibliotheek&sid=20&dts=1775463583807&sig=5f69837efceeaeddfea353c67074be527b487113a5dbdb58392169d1a40d6ace&width=320" alt="Omslag van 'Spuit Elf en de brandweerolifanten'" title="Omslag van 'Spuit Elf en de brandweerolifanten'">
-<p>Spuit Elf woont samen met tien brandweerolifanten in de kazerne. Maar iedere keer dat het alarm in de kazerne afgaat, komt Spuit Elf te laat en is de brandweerauto al vertrokken. De grote brandweerolifanten zijn het zat. Lukt het Spuit Elf om toch een echte brandweerolifant te worden? Een prentenboek over een aandoenlijk brandweerolifantje! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Harmen van Straaten</name>
+            <name>Jolien Durwael</name>
         </author>
     </entry>
 </feed>
