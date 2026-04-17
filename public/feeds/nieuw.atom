@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-04-16T08:24:41.543Z</updated>
+    <updated>2026-04-17T08:23:18.046Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Geldgeluk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458307483/geldgeluk-martin-schuurman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458307483/geldgeluk-martin-schuurman"/>
+        <updated>2026-04-17T08:23:17.143Z</updated>
+        <summary type="html"><![CDATA[Nieuwe spelregels voor geld en schuld]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458307483?aid=kb-online-bibliotheek&sid=20&dts=1776402957442&sig=ff27a7d2e865572b99dc4b492242a0a075d6c085e53e55b4c531efcec2cc0332&width=320" alt="Omslag van 'Geldgeluk'" title="Omslag van 'Geldgeluk'">
+<p>Pleidooi voor nieuwe regels in het geldwezen, waarin een eerlijke verdeling centraal staat.</p>]]></content>
+        <author>
+            <name>Martin Schuurman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De dokter en de weggelopen naald]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460249029/de-dokter-en-de-weggelopen-naald-bart-wolf</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460249029/de-dokter-en-de-weggelopen-naald-bart-wolf"/>
+        <updated>2026-04-17T08:23:17.397Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460249029?aid=kb-online-bibliotheek&sid=20&dts=1776408108901&sig=fb81145f822b49907a1ae2be53b3f89bfdea6534aec367c07fd79c93391c5417&width=320" alt="Omslag van 'De dokter en de weggelopen naald'" title="Omslag van 'De dokter en de weggelopen naald'">
+<p>Als de jonge arts Elias in het onafhankelijk geworden Afrikaanse land arriveert, is de opbouw van de democratische volksrepubliek in volle gang. Zijn autoritaire directeur is alles wat Elias niet wil zijn en de onervaren partijsecretaris van het districtsziekenhuis lukt het amper om het personeel de zo vurig gewenste marxistisch-leninistische beginselen bij te brengen. Ondanks zijn sympathie voor het communisme, verloopt zijn integratie niet zonder slag of stoot en moeten ook zijn verwachtingen in de liefde worden bijgesteld, waarbij zowel de lokale onderwijzeres als de jonge student uit de hoofdstad een rol spelen. De rigide politieke structuur stuit Elias steeds meer tegen de borst en als hij in een burgeroorlog betrokken wordt, ontkomt hij er niet aan zijn conclusies te trekken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Bart Wolf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zeven briefjes]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/442878486/zeven-briefjes-mia-zomerdijk</id>
@@ -33,40 +56,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Madame le Commissaire en de muur van stilte]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46022347X/madame-le-commissaire-en-de-muur-van-stilte-pierre-martin</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46022347X/madame-le-commissaire-en-de-muur-van-stilte-pierre-martin"/>
-        <updated>2026-04-16T08:24:26.393Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46022347X?aid=kb-online-bibliotheek&sid=20&dts=1776323175689&sig=0622e825c4962ad9b8fae485e969856f10cae0874dc697b1b2d486faefd2d83a&width=320" alt="Omslag van 'Madame le Commissaire en de muur van stilte'" title="Omslag van 'Madame le Commissaire en de muur van stilte'">
-<p>In het tiende deel van Pierre Martins succesvolle reeks over Madame le Commissaire wordt Isabelle geconfronteerd met een mysterie uit het verleden.  Een ingemetseld skelet laat arbeiders in shock achter tijdens de sloop van een oud vakantiehuis in het betoverende Fragolin in de Provence. Een gat in de schedel laat er geen twijfel over bestaan ​​dat het slachtoffer een gewelddadige dood is gestorven. Isabelle Bonnet neemt de zaak met enige tegenzin aan. Ze richt zich immers liever op actuele misdaden. Ze maakt zich bovendien steeds meer zorgen over de mysterieuze verdwijning van haar vriend Nicolas. Opeens krijgt ze een hulpkreet uit Marokko…  In het geval van het skelet leidt de eerste aanwijzing naar een onguur financieel adviseur. Er is geen ontsnappingsgevaar: hij zit in de gevangenis. Maar het onderzoek loopt bij hem vast en zo stuit Madame le Commissaire op een muur van stilte… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Pierre Martin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Politiek zonder politici]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223623/politiek-zonder-politici-h%C3%A9l%C3%A8ne-landemore</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223623/politiek-zonder-politici-h%C3%A9l%C3%A8ne-landemore"/>
-        <updated>2026-04-16T08:24:26.957Z</updated>
-        <summary type="html"><![CDATA[Hoe burgers de democratie kunnen terugveroveren]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223623?aid=kb-online-bibliotheek&sid=20&dts=1776248508813&sig=25ad4191a057944078110bf7327914eb41b6caae180210b4234c6ce5f027a7a4&width=320" alt="Omslag van 'Politiek zonder politici'" title="Omslag van 'Politiek zonder politici'">
-<p>Met politici gaat veel mis. Ze staan onder invloed van lobbygroepen, maken hun grootse beloftes niet waar en kijken vaak niet verder dan de volgende verkiezingen. Maar wat als we helemaal geen politici nodig hebben? In Politiek zonder politici laat Hélène Landemore zien dat onze electorale politiek kapot is, maar de democratie niet. Bevlogen pleit ze voor een alternatieve aanpak die wereldwijd al navolging krijgt: burgerberaden bestaande uit gewone mensen die regeren als tijdelijke beheerders van het algemeen belang. Aan de hand van voorbeelden uit het oude Athene en haar eigen ervaringen met hedendaagse burgervergaderingen toont Landemore aan dat dit nieuwe perspectief op democratie leidt tot slimmere, eerlijkere en duurzamere besluiten. Democratie hoeft geen kijksport te zijn, het is iets wat we samen moeten ondernemen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Hélène Landemore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het bal in Versailles]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223542/het-bal-in-versailles-danielle-steel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223542/het-bal-in-versailles-danielle-steel"/>
-        <updated>2026-04-16T08:24:27.540Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223542?aid=kb-online-bibliotheek&sid=20&dts=1776326613553&sig=ba19733b557949621e34734f1452413851c4b23d86f30d901f2179a61e089d9a&width=320" alt="Omslag van 'Het bal in Versailles'" title="Omslag van 'Het bal in Versailles'">
-<p>Een avond om nooit te vergeten. Droom weg met de nieuwe roman van Danielle Steel, Het bal in Versailles.  Het is de zomer van 1958. Het Paleis van Versailles is het toneel voor een evenement dat de geschiedenisboeken zal halen: een betoverend bal van zonsondergang tot dageraad, waar een selecte groep debutantes wordt voorgesteld aan de internationale elite en koninklijke families. Voor vier jonge vrouwen, ieder met iets te bewijzen, wordt dit een nacht om nooit te vergeten. Amelia Alexander is de dochter van een hardwerkende, alleenstaande moeder die alles opoffert om haar dochter een kans op een beter leven te geven. Caroline Taylor heeft een hartstochtelijke relatie met een opkomende filmster die tien jaar ouder is dan zij. Maar is zijn liefde oprecht, of draait het hem vooral om haar beroemde vader? Felicity Smith, student kernfysica, heeft weinig op met mode of sociale kringen, maar besluit het bal bij te wonen om haar ouders een plezier te doen – en om uit de schaduw van haar zus te stappen. Samantha Walker is de geliefde, overbeschermde dochter van een rijke zakenman. Haar enthousiasme over de uitnodiging wordt overschaduwd door een tragisch verleden dat haar nog altijd achtervolgt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Danielle Steel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Platenbaas]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460223488/platenbaas-gerard-ekdom</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460223488/platenbaas-gerard-ekdom"/>
@@ -75,6 +64,17 @@
 <p>Gerard 'Dokter Pop' Ekdom weet alles van muziek – elke plaat heeft een verhaal. In Platenbaas neemt hij je mee langs de interessantste nummers uit zijn platenkast, met een dosis humor en nostalgie. Bij dit boek blijf je onmogelijk stilzitten! Gerard Ekdom is de dj die net zoveel van verhalen houdt als van muziek, en hij is dé gids door de wondere wereld van platen, hits en muzikale herinneringen. Platenbaas leest als een jukebox vol scherpzinnige, grappige én persoonlijke verhalen. Van vergeten parels tot legendarische nummers: elke plaat vertelt een verhaal, en Ekdom weet precies hoe dat klinkt. Voor alle liefhebbers van muziek, radio en een goed verhaal is dit boek een feest van herkenning. Draai de volumeknop omhoog en lees terwijl je luistert. Of je nou houdt van pop, r&b of hiphop, er valt voor iedereen wat te vinden in deze must-havebundel voor elke muziekliefhebber! Radio-dj Gerard Ekdom startte in 1998 zijn carrière bij 3FM en won drie keer De Gouden RadioRing en viermaal de Zilveren RadioSter. Sinds september 2024 is hij iedere ochtend te horen op Radio Veronica. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Gerard Ekdom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madame le Commissaire en de muur van stilte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46022347X/madame-le-commissaire-en-de-muur-van-stilte-pierre-martin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46022347X/madame-le-commissaire-en-de-muur-van-stilte-pierre-martin"/>
+        <updated>2026-04-16T08:24:26.393Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46022347X?aid=kb-online-bibliotheek&sid=20&dts=1776323175689&sig=0622e825c4962ad9b8fae485e969856f10cae0874dc697b1b2d486faefd2d83a&width=320" alt="Omslag van 'Madame le Commissaire en de muur van stilte'" title="Omslag van 'Madame le Commissaire en de muur van stilte'">
+<p>In het tiende deel van Pierre Martins succesvolle reeks over Madame le Commissaire wordt Isabelle geconfronteerd met een mysterie uit het verleden.  Een ingemetseld skelet laat arbeiders in shock achter tijdens de sloop van een oud vakantiehuis in het betoverende Fragolin in de Provence. Een gat in de schedel laat er geen twijfel over bestaan ​​dat het slachtoffer een gewelddadige dood is gestorven. Isabelle Bonnet neemt de zaak met enige tegenzin aan. Ze richt zich immers liever op actuele misdaden. Ze maakt zich bovendien steeds meer zorgen over de mysterieuze verdwijning van haar vriend Nicolas. Opeens krijgt ze een hulpkreet uit Marokko…  In het geval van het skelet leidt de eerste aanwijzing naar een onguur financieel adviseur. Er is geen ontsnappingsgevaar: hij zit in de gevangenis. Maar het onderzoek loopt bij hem vast en zo stuit Madame le Commissaire op een muur van stilte… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Pierre Martin</name>
         </author>
     </entry>
     <entry>
@@ -100,14 +100,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het genootschap van onkenbare objecten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448273411/het-genootschap-van-onkenbare-objecten-gareth-brown</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448273411/het-genootschap-van-onkenbare-objecten-gareth-brown"/>
-        <updated>2026-04-16T08:24:29.727Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448273411?aid=kb-online-bibliotheek&sid=20&dts=1776263741018&sig=475aa09057f484736b01e17af6565c13ed6f50a7dad87bbb776ddefe3de86cf4&width=320" alt="Omslag van 'Het genootschap van onkenbare objecten'" title="Omslag van 'Het genootschap van onkenbare objecten'">
-<p>Van Gareth Brown, de auteur van de internationale bestseller Het boek der deuren, komt een nieuwe wereld vol magische, geheime objecten. En een moordenaar die alles op zijn kop zet. Magda Sparks is lid van een geheim genootschap dat onkenbare objecten – alledaagse voorwerpen met magische krachten – vindt en beschermt. Wanneer Frank Simpson, het langstzittende lid, hoort dat er een nieuw artefact in Hong Kong is gevonden, stuurt hij Magda om dit te onderzoeken. Binnen enkele uren nadat ze aankomt in Hong Kong wordt Magda geconfronteerd met een professionele moordenaar die alles lijkt te weten over onkenbare objecten. Magda wordt gedwongen te vluchten en gebruikt daarbij een object dat zelfs de rest van het genootschap niet kent. Terug in Londen ontdekt Magda dat haar geheim niet het enige is dat verborgen wordt gehouden voor de andere twee leden. Het meest verderfelijke geheim gaat over de aard van de missie van het genootschap. Haar ontdekkingen leiden haar op een gevaarlijke reis, in achtervolging van de professionele moordenaar die ze voor het eerst ontmoette in Hong Kong. Langzaamaan ontdekt Magda dat er nog meer mensen in de wereld zijn die achter deze magische voorwerpen aanzitten, en dat de erfenis van haar eigen familie verbonden is met het verborgen houden van al deze geheimen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het bal in Versailles]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223542/het-bal-in-versailles-danielle-steel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223542/het-bal-in-versailles-danielle-steel"/>
+        <updated>2026-04-16T08:24:27.540Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223542?aid=kb-online-bibliotheek&sid=20&dts=1776326613553&sig=ba19733b557949621e34734f1452413851c4b23d86f30d901f2179a61e089d9a&width=320" alt="Omslag van 'Het bal in Versailles'" title="Omslag van 'Het bal in Versailles'">
+<p>Een avond om nooit te vergeten. Droom weg met de nieuwe roman van Danielle Steel, Het bal in Versailles.  Het is de zomer van 1958. Het Paleis van Versailles is het toneel voor een evenement dat de geschiedenisboeken zal halen: een betoverend bal van zonsondergang tot dageraad, waar een selecte groep debutantes wordt voorgesteld aan de internationale elite en koninklijke families. Voor vier jonge vrouwen, ieder met iets te bewijzen, wordt dit een nacht om nooit te vergeten. Amelia Alexander is de dochter van een hardwerkende, alleenstaande moeder die alles opoffert om haar dochter een kans op een beter leven te geven. Caroline Taylor heeft een hartstochtelijke relatie met een opkomende filmster die tien jaar ouder is dan zij. Maar is zijn liefde oprecht, of draait het hem vooral om haar beroemde vader? Felicity Smith, student kernfysica, heeft weinig op met mode of sociale kringen, maar besluit het bal bij te wonen om haar ouders een plezier te doen – en om uit de schaduw van haar zus te stappen. Samantha Walker is de geliefde, overbeschermde dochter van een rijke zakenman. Haar enthousiasme over de uitnodiging wordt overschaduwd door een tragisch verleden dat haar nog altijd achtervolgt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Gareth Brown</name>
+            <name>Danielle Steel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Politiek zonder politici]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223623/politiek-zonder-politici-h%C3%A9l%C3%A8ne-landemore</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223623/politiek-zonder-politici-h%C3%A9l%C3%A8ne-landemore"/>
+        <updated>2026-04-16T08:24:26.957Z</updated>
+        <summary type="html"><![CDATA[Hoe burgers de democratie kunnen terugveroveren]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223623?aid=kb-online-bibliotheek&sid=20&dts=1776248508813&sig=25ad4191a057944078110bf7327914eb41b6caae180210b4234c6ce5f027a7a4&width=320" alt="Omslag van 'Politiek zonder politici'" title="Omslag van 'Politiek zonder politici'">
+<p>Met politici gaat veel mis. Ze staan onder invloed van lobbygroepen, maken hun grootse beloftes niet waar en kijken vaak niet verder dan de volgende verkiezingen. Maar wat als we helemaal geen politici nodig hebben? In Politiek zonder politici laat Hélène Landemore zien dat onze electorale politiek kapot is, maar de democratie niet. Bevlogen pleit ze voor een alternatieve aanpak die wereldwijd al navolging krijgt: burgerberaden bestaande uit gewone mensen die regeren als tijdelijke beheerders van het algemeen belang. Aan de hand van voorbeelden uit het oude Athene en haar eigen ervaringen met hedendaagse burgervergaderingen toont Landemore aan dat dit nieuwe perspectief op democratie leidt tot slimmere, eerlijkere en duurzamere besluiten. Democratie hoeft geen kijksport te zijn, het is iets wat we samen moeten ondernemen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hélène Landemore</name>
         </author>
     </entry>
     <entry>
@@ -122,6 +134,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Het genootschap van onkenbare objecten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448273411/het-genootschap-van-onkenbare-objecten-gareth-brown</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448273411/het-genootschap-van-onkenbare-objecten-gareth-brown"/>
+        <updated>2026-04-16T08:24:29.727Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448273411?aid=kb-online-bibliotheek&sid=20&dts=1776263741018&sig=475aa09057f484736b01e17af6565c13ed6f50a7dad87bbb776ddefe3de86cf4&width=320" alt="Omslag van 'Het genootschap van onkenbare objecten'" title="Omslag van 'Het genootschap van onkenbare objecten'">
+<p>Van Gareth Brown, de auteur van de internationale bestseller Het boek der deuren, komt een nieuwe wereld vol magische, geheime objecten. En een moordenaar die alles op zijn kop zet. Magda Sparks is lid van een geheim genootschap dat onkenbare objecten – alledaagse voorwerpen met magische krachten – vindt en beschermt. Wanneer Frank Simpson, het langstzittende lid, hoort dat er een nieuw artefact in Hong Kong is gevonden, stuurt hij Magda om dit te onderzoeken. Binnen enkele uren nadat ze aankomt in Hong Kong wordt Magda geconfronteerd met een professionele moordenaar die alles lijkt te weten over onkenbare objecten. Magda wordt gedwongen te vluchten en gebruikt daarbij een object dat zelfs de rest van het genootschap niet kent. Terug in Londen ontdekt Magda dat haar geheim niet het enige is dat verborgen wordt gehouden voor de andere twee leden. Het meest verderfelijke geheim gaat over de aard van de missie van het genootschap. Haar ontdekkingen leiden haar op een gevaarlijke reis, in achtervolging van de professionele moordenaar die ze voor het eerst ontmoette in Hong Kong. Langzaamaan ontdekt Magda dat er nog meer mensen in de wereld zijn die achter deze magische voorwerpen aanzitten, en dat de erfenis van haar eigen familie verbonden is met het verborgen houden van al deze geheimen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Gareth Brown</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Als scheuren in de aarde]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444254943/als-scheuren-in-de-aarde-clare-leslie-hall</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444254943/als-scheuren-in-de-aarde-clare-leslie-hall"/>
@@ -133,51 +156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beauty en de nerd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459546619/beauty-en-de-nerd-tamara-haagmans</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459546619/beauty-en-de-nerd-tamara-haagmans"/>
-        <updated>2026-04-16T08:24:31.239Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459546619?aid=kb-online-bibliotheek&sid=20&dts=1776254765845&sig=c376ce5fd81b17fb4c4af02efd05e588407e8bbf91d91c861e038874dc15f0a1&width=320" alt="Omslag van 'Beauty en de nerd'" title="Omslag van 'Beauty en de nerd'">
-<p>Hij kwam voor de korte rokjes. Hij bleef voor haar. Rens is een vriendelijke, sociaal ongemakkelijke nerd die niet zoveel met cheerleaders heeft - tot hij Megan ziet dansen en alles in hem op tilt slaat. Eén klein leugen later zit hij midden in haar wereld, omringd door pompons, radslagen en gevoelens waar hij totaal niet op had gerekend. Megan is scherp, sexy en beslist niet van plan zich in de luren te laten leggen. Maar was als de jongen die haar wereld binnenkwam met een leugen, stiekem ook heel goed blijkt te zoenen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamara Haagmans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omgeslagen dagen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223313/omgeslagen-dagen-mensje-van-keulen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223313/omgeslagen-dagen-mensje-van-keulen"/>
-        <updated>2026-04-16T08:24:31.764Z</updated>
-        <summary type="html"><![CDATA[Dagboek 1983-1987]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223313?aid=kb-online-bibliotheek&sid=20&dts=1776327317281&sig=f2a79ae11d51020fd325e2f0ffa3d7c4a86947ff6aebcd5abf4e18c59aa52678&width=320" alt="Omslag van 'Omgeslagen dagen'" title="Omslag van 'Omgeslagen dagen'">
-<p>Omgeslagen dagen is het vervolg op de dagboeken Alle dagen laat, Neerslag van een huwelijk en Moeder en pen. We volgen Van Keulen in de jaren 1983-1987. Inmiddels gescheiden en een gevierd schrijfster werkt Van Keulen aan de verhalenbundel De ketting (1983), haar roman Engelbert (1987) en haar jeugdboek Tommie Station (1985), dat een groot succes wordt. Toch gaat het schrijven, met een zoontje dat naar de basisschool gaat en een nieuwe liefde, bepaald niet vanzelf, maar Van Keulen zet door. Met de haar zo kenmerkende scherpte en humor neemt ze de lezer wederom mee in het immer woelige schrijversleven in de jaren tachtig te Amsterdam. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Mensje van Keulen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beatrix en de dood in Rome]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223712/beatrix-en-de-dood-in-rome-eva-philips</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223712/beatrix-en-de-dood-in-rome-eva-philips"/>
-        <updated>2026-04-16T08:24:32.267Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223712?aid=kb-online-bibliotheek&sid=20&dts=1776258879498&sig=69a8a396ffd7d2fd94a6ed187f3b81b156ae64448f870f87fb3defd859f5864e&width=320" alt="Omslag van 'Beatrix en de dood in Rome'" title="Omslag van 'Beatrix en de dood in Rome'">
-<p>Beatrix en de dood in Rome is het vijfde deel in Eva Phillips' koninklijke krimireeks Hare Majesteit privédetective. Volg Beatrix naar het prachtige Italië in haar eerste avontuur over de grens.  Rome, 1985. In de nauwe straatjes van het oude centrum valt een dode. Het is een incident dat grote gevolgen heeft voor koningin Beatrix die op staatsbezoek is in de Italiaanse hoofdstad.  Wanneer de Nederlandse ambassade bij een vete tussen twee rivaliserende maffiabendes betrokken blijkt te zijn, bemoeit Beatrix zich er persoonlijk mee. Maar dat had ze beter niet kunnen doen.  Nooit was het gevaar zo groot en stond haar leven zo direct op het spel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Eva Philips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De waanzinpartituur]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223631/de-waanzinpartituur-emma-van-hooff</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223631/de-waanzinpartituur-emma-van-hooff"/>
-        <updated>2026-04-16T08:24:32.831Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223631?aid=kb-online-bibliotheek&sid=20&dts=1776321217968&sig=b9e9896fcf2fe76a9e46dc68bbec9832d652cdeff2916d49822f628c14aa9ad5&width=320" alt="Omslag van 'De waanzinpartituur'" title="Omslag van 'De waanzinpartituur'">
-<p>Emma van Hooff sleurt je mee op het meedogenloze ritme van Am, een jonge vrouw die is opgesloten in een psychiatrische inrichting. Tijdens een groepssessie met de andere patiënten daalt ze af naar haar verleden. Am wil maar één ding: de lezer ervan overtuigen dat niet zij, maar haar moeder op haar stoel in de kring thuishoort. Met grote vaart neemt ze ons mee in haar monoloog over een moeder die haar dochter zo klein mogelijk wil houden, haar geen enkele vrijheid gunt. Maar is Am wel te vertrouwen als verteller? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Emma van Hooff</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Broers]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460223682/broers-carolijn-visser</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460223682/broers-carolijn-visser"/>
@@ -186,107 +164,6 @@
 <p>In januari 1945 lopen twee broers door besneeuwde polders van Amsterdam terug naar hun ouderlijk huis in Papendrecht: ontsnapt aan de Arbeitseinsatz. Na de bevrijding kiezen zij elk een ander levenspad. Broers is Carolijn Vissers eigen familiegeschiedenis, waarin haar vader Ar en zijn twee broers Martin en Carel centraal staan. Ar studeerde Indisch recht en geschiedenis en was een idealist die geloofde in educatie; hij werd eschiedenisleraar in Zeeland. Martin Visser koos voor de kunst en bracht samen met zijn vrouw Mia een uitgebreide collectie bijeen met werk van Karel Appel, Constant, Manzoni, Sol LeWitt, Christo, Kiefer en andere naoorlogse kunstenaars. Daarnaast ontwikkelde hij zich tot een van Nederlands bekendste meubelontwerpers. Carel Visser werd beeldhouwer van internationale faam. Broers leest als een kleine naoorlogse sociale en culturele geschiedenis van Nederland. Aan de hand van het verhaal van haar familie schetst Carolijn Visser in treffende details hoe kunstenaars en progressieve bewegingen, zoals Provo en het feminisme, het behoudende Nederland na de oorlog opschudden en in beweging brachten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Carolijn Visser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lente - Zoals jij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223747/lente---zoals-jij-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223747/lente---zoals-jij-tamara-postma"/>
-        <updated>2026-04-16T08:24:33.940Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223747?aid=kb-online-bibliotheek&sid=20&dts=1776245833182&sig=a12d4b04d0961e0fc69eb41d47ad1b4bdffd045a6f4b83ad5ab06b64ebc4effc&width=320" alt="Omslag van 'Lente - Zoals jij'" title="Omslag van 'Lente - Zoals jij'">
-<p>Zoals jij is het zestiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Na alles wat er gebeurd is voelt Ava dat de muren van haar ouderlijk huis haar niet langer houvast, maar juist stilte en geheimen bieden. Ze beseft dat de antwoorden die ze zo wanhopig zoekt daar nooit te vinden zullen zijn. Met een mengeling van angst en vastberadenheid besluit ze haar vertrouwde leven achter te laten en af te reizen naar Italië – naar de enige persoon die het verleden kan ontrafelen. Maar wat als de waarheid anders blijkt te zijn dan ze had gehoopt? Wat als de antwoorden niet alleen haar beeld van haar ouders, maar ook haar eigen leven voorgoed zullen veranderen? Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamara Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lente - Zonder jou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223763/lente---zonder-jou-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223763/lente---zonder-jou-tamara-postma"/>
-        <updated>2026-04-16T08:24:34.504Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223763?aid=kb-online-bibliotheek&sid=20&dts=1776321213668&sig=9c180154ada933247f8c4b5cb305b9d086431a2f9fff0b0de6f00de377852b29&width=320" alt="Omslag van 'Lente - Zonder jou'" title="Omslag van 'Lente - Zonder jou'">
-<p>Zonder jou is het zeventiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Na opnieuw een groot verlies staat Ava voor de zware taak haar leven weer op te bouwen. Het kost haar meer kracht en moed dan ze ooit had verwacht, maar langzaam lukt het haar om de draad weer op te pakken. Net wanneer het lijkt alsof alles eindelijk zijn plaats vindt, stuit Ava op een onthulling die haar wereld volledig op zijn kop zet – een geheim dat koste wat kost verborgen moet blijven. Maar geheimen hebben de neiging aan het licht te komen. En wanneer dit duistere verleden zich toch openbaart, dreigt alles wat Ava zo moeizaam heeft opgebouwd opnieuw uiteen te vallen. Ze komt erachter dat de waarheid niet alleen gevaarlijk is, maar dat ze werkelijk niemand meer kan vertrouwen. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamara Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lente - De eerste dag van de lente]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223755/lente---de-eerste-dag-van-de-lente-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223755/lente---de-eerste-dag-van-de-lente-tamara-postma"/>
-        <updated>2026-04-16T08:24:35.133Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223755?aid=kb-online-bibliotheek&sid=20&dts=1776327874591&sig=e91ca2ec1a4513678532a9bd07e45cfc2de4c110700daf2c3c8089b0ca6a8360&width=320" alt="Omslag van 'Lente - De eerste dag van de lente'" title="Omslag van 'Lente - De eerste dag van de lente'">
-<p>De eerste dag van de lente is het vijftiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Zeventien jaar geleden verdween Logan. Inmiddels leven Rosie, Noah en de kinderen een rustig en gelukkig gezinsleven, waarin het verleden langzaam naar de achtergrond verdwijnt. Tot een noodlottig ongeluk hun wereld verbrijzelt. Voor Ava wordt het pijnlijk duidelijk hoeveel vragen er altijd onbeantwoord zijn gebleven. Vastbesloten gaat ze op zoek naar de waarheid – een waarheid die haar ouders al die tijd verborgen hielden. Maar achter dat geheim schuilt een prijs die zwaarder kan zijn dan ze ooit had durven vermoeden. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamara Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grenzen aan de gulzigheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223364/grenzen-aan-de-gulzigheid-jaap-seidell</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223364/grenzen-aan-de-gulzigheid-jaap-seidell"/>
-        <updated>2026-04-16T08:24:35.644Z</updated>
-        <summary type="html"><![CDATA[Gezond eten in een ziek systeem]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223364?aid=kb-online-bibliotheek&sid=20&dts=1776242236612&sig=7dc847be37334899e11ad4a40a20837d0d6f8a0c304d724d85dcdd220a7b3e73&width=320" alt="Omslag van 'Grenzen aan de gulzigheid'" title="Omslag van 'Grenzen aan de gulzigheid'">
-<p>We willen allemaal gezond(er) leven. Maar in het huidige voedselsysteem wordt het ons niet makkelijk gemaakt. De ongezonde producten schreeuwen ons toe vanaf de schappen en in reclames. Op stations en in winkelstraten word je verleid tot de aankoop van snacks. Reden voor het Voedingscentrum om zelfs een campagne tegen 'eetdrammen' te beginnen. Mensen met een lage sociaaleconomische status worden bovendien nog zwaarder getroffen door deze 'obesogene omgeving', doordat gezond eten vaak duurder is en moeilijker te verkrijgen. Dit leidt tot obesitas, diabetes en andere chronische welvaartsziektes. Voedselprofessor Jaap Seidell werd er soms bijna moedeloos van: als hij de minister adviseerde, zaten na zijn afspraak de lobbyisten van Big Agro en voedselfabrikanten al te wachten. Bijná moedeloos, want Seidell is een optimistisch mens. In Grenzen aan de gulzigheid toont hij hoe een gezondere en duurzamere voedselomgeving mogelijk is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jaap Seidell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De boekhandelaar van Gaza]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223429/de-boekhandelaar-van-gaza-rachid-benzine</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223429/de-boekhandelaar-van-gaza-rachid-benzine"/>
-        <updated>2026-04-16T08:24:36.187Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223429?aid=kb-online-bibliotheek&sid=20&dts=1776327798140&sig=f9b96f97026caf044fe9dc2105268ebc13307ae8f454b6415740d5ab3dd4c83c&width=320" alt="Omslag van 'De boekhandelaar van Gaza'" title="Omslag van 'De boekhandelaar van Gaza'">
-<p>Een jonge Franse fotograaf reist af naar Gaza-Stad om een reportage te maken. Hij raakt in gesprek met een boekhandelaar en in ruil voor toestemming om de oude man te fotograferen, luistert hij naar diens levensverhaal: een verhaal van ballingschap, vlucht, ontheemding, politiek activisme, vaderschap en van het onmetelijke leed dat daaruit kan ontstaan. Een persoonlijke geschiedenis die onlosmakelijk verbonden is met het collectieve leed van de Palestijnen vanaf de stichting van de staat Israël in 1948 tot en met de oorlog in Gaza nu. De boekhandelaar vertelt hem ook over zijn lievelingsromans, en over de verbindende kracht van het geschreven woord. Boeken vormen de rode draad in het levensverhaal van de oude man, en een onuitputtelijke bron van medemenselijkheid en troost. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Rachid Benzine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payback]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223518/payback-dan-ames</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223518/payback-dan-ames"/>
-        <updated>2026-04-16T08:24:36.855Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223518?aid=kb-online-bibliotheek&sid=20&dts=1776327876320&sig=78adf663d96d672c0694b340be2cabdb073410d2955e276daf3160d5cc156652&width=320" alt="Omslag van 'Payback'" title="Omslag van 'Payback'">
-<p>Payback is het veertiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher.    Een ex-handhaver van de maffia ontsnapt uit de gevangenis en laat een spoor van doden achter zich. Voormalig FBI-agent Lauren Pauling heeft de man destijds achter de tralies gezet, dus het is geen verassing dat ze al snel het bericht ontvangt dat hij achter haar aankomt om wraak te nemen.  Niet lang daarna zitten deze killer, zijn voormalige kameraden uit de maffia en een mysterieuze huurmoordenaar allemaal in een race tegen de klok om in leven te blijven, hun sporen te wissen en ervoor te zorgen dat sommige dodelijke geheimen voorgoed worden weggestopt.  Wat volgt is een bloedstollende achtbaanrit vol wendingen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Ames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afgezonderd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223356/afgezonderd-dan-ames</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223356/afgezonderd-dan-ames"/>
-        <updated>2026-04-16T08:24:37.362Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223356?aid=kb-online-bibliotheek&sid=20&dts=1776321216931&sig=5c775abdaf6ec7f87c22752a965e9e8bdabb4df89131e14c9eb01d23c489de1c&width=320" alt="Omslag van 'Afgezonderd'" title="Omslag van 'Afgezonderd'">
-<p>Afgezonderd is het elfde deel van de Jack Reacher Cases, geschreven door Dan Ames.Het speelt zich af in de wereld van Lee Childs Jack Reacher. Wanneer een professionele huursoldaat en oude vriend van Michael Tallon hem plotseling belt, maar geen voicemail achterlaat, begint hij zich zorgen te maken. Tallon besluit hem op te zoeken in Las Vegas, maar wanneer hij daar aankomt blijkt zijn vriend al dood te zijn. En voordat Tallon er erg in heeft, zitten de moordenaars ook hem op de hielen. Tijd dus om zichzelf te redden… 'Razendsnel, puntje-van-je-stoel en origineel.' New York Times-bestsellerauteur Thomas Perry </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Ames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De donkere kamer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223674/de-donkere-kamer-celia-svedhem</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223674/de-donkere-kamer-celia-svedhem"/>
-        <updated>2026-04-16T08:24:37.950Z</updated>
-        <summary type="html"><![CDATA[Een geschiedenis van migraine en de zoektocht naar verlossing]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223674?aid=kb-online-bibliotheek&sid=20&dts=1776321212593&sig=64b69a41cb89317d4155fd83a4ea6c99cb3b7ad65a22d35506867d217ef8eb0f&width=320" alt="Omslag van 'De donkere kamer'" title="Omslag van 'De donkere kamer'">
-<p>Celia Svedhem is psycholoog, schrijver, heeft een man en twee kinderen én leeft met chronische migraine. De donkere kamer is het verslag van Svedhems zoektocht naar hoe migraine door de eeuwen heen is beschouwd en hoe mensen altijd naar verlossing hebben gezocht. Van meer wanhopige benaderingen van vroeger, zoals het boren van gaten in het hoofd met een kurkentrekker en aderlating, tot haar eigen pogingen met botox en psychotherapie.  Virginia Woolf, Sigmund Freud, Salvador Dalí en Joan Didion leden allemaal aan migraine en hebben een grote culturele erfenis nagelaten. Door hun werk, aantekeningen en correspondentie te analyseren, probeert Svedhem de impact van migraine op hun leven en kunst te begrijpen. Maar ook zoekt ze naar wat ze van hen kan leren over hoe je ondanks chronische pijn een zinvol leven kunt leiden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Celia Svedhem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jimmy & Jill]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223291/jimmy---jill-ellen-kusters</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223291/jimmy---jill-ellen-kusters"/>
-        <updated>2026-04-16T08:24:38.450Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223291?aid=kb-online-bibliotheek&sid=20&dts=1776247062183&sig=1426cdda0301f8de6b1b74dc2b504805d96a35a01d44d190549aea82c8e97444&width=320" alt="Omslag van 'Jimmy & Jill'" title="Omslag van 'Jimmy & Jill'">
-<p>Jill vertrekt, na een moeilijke jeugd, naar de campus van de universiteit waar ze een nieuw leven probeert op te bouwen. Haar jeugdvriend Jimmy is dan al een tijdje uit haar leven. Hij kwam voor haar op wanneer anderen dat niet deden. Samenleven met haar kamergenote valt Jill zwaar, ze kan maar moeilijk wennen aan het feesten en het oppervlakkige gedrag van haar studiegenoten. Tijdens een van haar eerste colleges ontmoet ze Kevin, die haar aan Jimmy doet denken. Ze ontwikkelen een fijne vriendschap. Wanneer ze voor een weekend teruggaat naar haar ouderlijk huis, valt haar op hoe vreemd haar ouders zich gedragen. Zo vreemd dat ze op onderzoek uitgaat. Dan ontdekt ze een wel heel bijzonder geheim. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ellen Kusters</name>
         </author>
     </entry>
     <entry>
@@ -313,15 +190,115 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minafest]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223798/minafest-dolle-mina</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223798/minafest-dolle-mina"/>
-        <updated>2026-04-16T08:24:40.507Z</updated>
-        <summary type="html"><![CDATA[Vrouwen willen vóóruit, niet terug!]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223798?aid=kb-online-bibliotheek&sid=20&dts=1776264079970&sig=d29dd81fa3bbb236c65bd7caa4f53c017d59355166cff3156d14880cbded1c62&width=320" alt="Omslag van 'Minafest'" title="Omslag van 'Minafest'">
-<p>Het Minafest, een manifest van de Dolle Mina's dat niet genegeerd kan worden! Nog steeds staat abortus in het wetboek van strafrecht, wordt er iedere 8 (!) dagen een vrouw vermoord, verdienen mannen meer dan vrouwen, is er straatintimidatie en zijn er niet eens genoeg openbare toiletten voor vrouwen. EN DE NOOD IS HOOG! Op 23 januari 2025 herrezen de Dolle Mina's uit hun as. Net als 55 jaar geleden staken ze een korset in de fik en schudden heel Nederland wakker. Wereldwijd staan vrouwenrechten onder druk. Reeds verworven rechten dreigen te worden teruggedraaid. En niet alleen in Amerika. Ook in Nederland waait de koude wind van het patriarchaat en de manosphere. Dat moet anders! Daarom bundelen de Dolle Mina's hun stemmen in het Dolle Minafest. Met bijdragen van onder andere Anja Meulenbelt, Saida Derrazi (S.P.E.A.K.), Emma Curvers, Eric Corton, De transrechtengroep van Dolle mina, Lisa Loeb, Dr. Janneke Wittekoek, Merol, Tessel ten Zweege, Sia Hermanides (oprichter Dolle Mina 2025) en Mina's van het eerste uur waaronder Dunya Verwey, Claudette van Trikt en Marjan Sax. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De waanzinpartituur]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223631/de-waanzinpartituur-emma-van-hooff</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223631/de-waanzinpartituur-emma-van-hooff"/>
+        <updated>2026-04-16T08:24:32.831Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223631?aid=kb-online-bibliotheek&sid=20&dts=1776321217968&sig=b9e9896fcf2fe76a9e46dc68bbec9832d652cdeff2916d49822f628c14aa9ad5&width=320" alt="Omslag van 'De waanzinpartituur'" title="Omslag van 'De waanzinpartituur'">
+<p>Emma van Hooff sleurt je mee op het meedogenloze ritme van Am, een jonge vrouw die is opgesloten in een psychiatrische inrichting. Tijdens een groepssessie met de andere patiënten daalt ze af naar haar verleden. Am wil maar één ding: de lezer ervan overtuigen dat niet zij, maar haar moeder op haar stoel in de kring thuishoort. Met grote vaart neemt ze ons mee in haar monoloog over een moeder die haar dochter zo klein mogelijk wil houden, haar geen enkele vrijheid gunt. Maar is Am wel te vertrouwen als verteller? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Dolle Mina</name>
+            <name>Emma van Hooff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feniks]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223666/feniks-jacky-kuiper</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223666/feniks-jacky-kuiper"/>
+        <updated>2026-04-17T08:23:18.044Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223666?aid=kb-online-bibliotheek&sid=20&dts=1776336411025&sig=a93b3d26fe26e67329a3a914dbb8909c5d248d22eb3e108addd5d472a29e6342&width=320" alt="Omslag van 'Feniks'" title="Omslag van 'Feniks'">
+<p>Eva groeit op onder de terreur van haar vader, die vaker wel dan niet in de bak zit. In haar familie leidt iedereen een dubbelleven om hem uit de problemen te houden. Eva's moeder is instabiel, terwijl haar flamboyante grootmoeder juist voor licht en luchtigheid in haar leven zorgt. Als Eva ouder wordt, neemt ze niet langer genoegen met de continue angst waarin ze leeft. Kan ze loskomen van haar familie, en tegen welke prijs? Feniks is een uitzonderlijke debuutroman over vrouwelijke kracht, over hoop en loslaten wat giftig is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jacky Kuiper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De boekhandelaar van Gaza]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223429/de-boekhandelaar-van-gaza-rachid-benzine</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223429/de-boekhandelaar-van-gaza-rachid-benzine"/>
+        <updated>2026-04-16T08:24:36.187Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223429?aid=kb-online-bibliotheek&sid=20&dts=1776327798140&sig=f9b96f97026caf044fe9dc2105268ebc13307ae8f454b6415740d5ab3dd4c83c&width=320" alt="Omslag van 'De boekhandelaar van Gaza'" title="Omslag van 'De boekhandelaar van Gaza'">
+<p>Een jonge Franse fotograaf reist af naar Gaza-Stad om een reportage te maken. Hij raakt in gesprek met een boekhandelaar en in ruil voor toestemming om de oude man te fotograferen, luistert hij naar diens levensverhaal: een verhaal van ballingschap, vlucht, ontheemding, politiek activisme, vaderschap en van het onmetelijke leed dat daaruit kan ontstaan. Een persoonlijke geschiedenis die onlosmakelijk verbonden is met het collectieve leed van de Palestijnen vanaf de stichting van de staat Israël in 1948 tot en met de oorlog in Gaza nu. De boekhandelaar vertelt hem ook over zijn lievelingsromans, en over de verbindende kracht van het geschreven woord. Boeken vormen de rode draad in het levensverhaal van de oude man, en een onuitputtelijke bron van medemenselijkheid en troost. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Rachid Benzine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grenzen aan de gulzigheid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223364/grenzen-aan-de-gulzigheid-jaap-seidell</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223364/grenzen-aan-de-gulzigheid-jaap-seidell"/>
+        <updated>2026-04-16T08:24:35.644Z</updated>
+        <summary type="html"><![CDATA[Gezond eten in een ziek systeem]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223364?aid=kb-online-bibliotheek&sid=20&dts=1776242236612&sig=7dc847be37334899e11ad4a40a20837d0d6f8a0c304d724d85dcdd220a7b3e73&width=320" alt="Omslag van 'Grenzen aan de gulzigheid'" title="Omslag van 'Grenzen aan de gulzigheid'">
+<p>We willen allemaal gezond(er) leven. Maar in het huidige voedselsysteem wordt het ons niet makkelijk gemaakt. De ongezonde producten schreeuwen ons toe vanaf de schappen en in reclames. Op stations en in winkelstraten word je verleid tot de aankoop van snacks. Reden voor het Voedingscentrum om zelfs een campagne tegen 'eetdrammen' te beginnen. Mensen met een lage sociaaleconomische status worden bovendien nog zwaarder getroffen door deze 'obesogene omgeving', doordat gezond eten vaak duurder is en moeilijker te verkrijgen. Dit leidt tot obesitas, diabetes en andere chronische welvaartsziektes. Voedselprofessor Jaap Seidell werd er soms bijna moedeloos van: als hij de minister adviseerde, zaten na zijn afspraak de lobbyisten van Big Agro en voedselfabrikanten al te wachten. Bijná moedeloos, want Seidell is een optimistisch mens. In Grenzen aan de gulzigheid toont hij hoe een gezondere en duurzamere voedselomgeving mogelijk is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jaap Seidell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beauty en de nerd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/459546619/beauty-en-de-nerd-tamara-haagmans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/459546619/beauty-en-de-nerd-tamara-haagmans"/>
+        <updated>2026-04-16T08:24:31.239Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459546619?aid=kb-online-bibliotheek&sid=20&dts=1776254765845&sig=c376ce5fd81b17fb4c4af02efd05e588407e8bbf91d91c861e038874dc15f0a1&width=320" alt="Omslag van 'Beauty en de nerd'" title="Omslag van 'Beauty en de nerd'">
+<p>Hij kwam voor de korte rokjes. Hij bleef voor haar. Rens is een vriendelijke, sociaal ongemakkelijke nerd die niet zoveel met cheerleaders heeft - tot hij Megan ziet dansen en alles in hem op tilt slaat. Eén klein leugen later zit hij midden in haar wereld, omringd door pompons, radslagen en gevoelens waar hij totaal niet op had gerekend. Megan is scherp, sexy en beslist niet van plan zich in de luren te laten leggen. Maar was als de jongen die haar wereld binnenkwam met een leugen, stiekem ook heel goed blijkt te zoenen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tamara Haagmans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jimmy & Jill]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223291/jimmy---jill-ellen-kusters</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223291/jimmy---jill-ellen-kusters"/>
+        <updated>2026-04-16T08:24:38.450Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223291?aid=kb-online-bibliotheek&sid=20&dts=1776247062183&sig=1426cdda0301f8de6b1b74dc2b504805d96a35a01d44d190549aea82c8e97444&width=320" alt="Omslag van 'Jimmy & Jill'" title="Omslag van 'Jimmy & Jill'">
+<p>Jill vertrekt, na een moeilijke jeugd, naar de campus van de universiteit waar ze een nieuw leven probeert op te bouwen. Haar jeugdvriend Jimmy is dan al een tijdje uit haar leven. Hij kwam voor haar op wanneer anderen dat niet deden. Samenleven met haar kamergenote valt Jill zwaar, ze kan maar moeilijk wennen aan het feesten en het oppervlakkige gedrag van haar studiegenoten. Tijdens een van haar eerste colleges ontmoet ze Kevin, die haar aan Jimmy doet denken. Ze ontwikkelen een fijne vriendschap. Wanneer ze voor een weekend teruggaat naar haar ouderlijk huis, valt haar op hoe vreemd haar ouders zich gedragen. Zo vreemd dat ze op onderzoek uitgaat. Dan ontdekt ze een wel heel bijzonder geheim. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ellen Kusters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De donkere kamer]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223674/de-donkere-kamer-celia-svedhem</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223674/de-donkere-kamer-celia-svedhem"/>
+        <updated>2026-04-16T08:24:37.950Z</updated>
+        <summary type="html"><![CDATA[Een geschiedenis van migraine en de zoektocht naar verlossing]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223674?aid=kb-online-bibliotheek&sid=20&dts=1776321212593&sig=64b69a41cb89317d4155fd83a4ea6c99cb3b7ad65a22d35506867d217ef8eb0f&width=320" alt="Omslag van 'De donkere kamer'" title="Omslag van 'De donkere kamer'">
+<p>Celia Svedhem is psycholoog, schrijver, heeft een man en twee kinderen én leeft met chronische migraine. De donkere kamer is het verslag van Svedhems zoektocht naar hoe migraine door de eeuwen heen is beschouwd en hoe mensen altijd naar verlossing hebben gezocht. Van meer wanhopige benaderingen van vroeger, zoals het boren van gaten in het hoofd met een kurkentrekker en aderlating, tot haar eigen pogingen met botox en psychotherapie.  Virginia Woolf, Sigmund Freud, Salvador Dalí en Joan Didion leden allemaal aan migraine en hebben een grote culturele erfenis nagelaten. Door hun werk, aantekeningen en correspondentie te analyseren, probeert Svedhem de impact van migraine op hun leven en kunst te begrijpen. Maar ook zoekt ze naar wat ze van hen kan leren over hoe je ondanks chronische pijn een zinvol leven kunt leiden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Celia Svedhem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payback]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223518/payback-dan-ames</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223518/payback-dan-ames"/>
+        <updated>2026-04-16T08:24:36.855Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223518?aid=kb-online-bibliotheek&sid=20&dts=1776327876320&sig=78adf663d96d672c0694b340be2cabdb073410d2955e276daf3160d5cc156652&width=320" alt="Omslag van 'Payback'" title="Omslag van 'Payback'">
+<p>Payback is het veertiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher.    Een ex-handhaver van de maffia ontsnapt uit de gevangenis en laat een spoor van doden achter zich. Voormalig FBI-agent Lauren Pauling heeft de man destijds achter de tralies gezet, dus het is geen verassing dat ze al snel het bericht ontvangt dat hij achter haar aankomt om wraak te nemen.  Niet lang daarna zitten deze killer, zijn voormalige kameraden uit de maffia en een mysterieuze huurmoordenaar allemaal in een race tegen de klok om in leven te blijven, hun sporen te wissen en ervoor te zorgen dat sommige dodelijke geheimen voorgoed worden weggestopt.  Wat volgt is een bloedstollende achtbaanrit vol wendingen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dan Ames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Afgezonderd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223356/afgezonderd-dan-ames</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223356/afgezonderd-dan-ames"/>
+        <updated>2026-04-16T08:24:37.362Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223356?aid=kb-online-bibliotheek&sid=20&dts=1776321216931&sig=5c775abdaf6ec7f87c22752a965e9e8bdabb4df89131e14c9eb01d23c489de1c&width=320" alt="Omslag van 'Afgezonderd'" title="Omslag van 'Afgezonderd'">
+<p>Afgezonderd is het elfde deel van de Jack Reacher Cases, geschreven door Dan Ames.Het speelt zich af in de wereld van Lee Childs Jack Reacher. Wanneer een professionele huursoldaat en oude vriend van Michael Tallon hem plotseling belt, maar geen voicemail achterlaat, begint hij zich zorgen te maken. Tallon besluit hem op te zoeken in Las Vegas, maar wanneer hij daar aankomt blijkt zijn vriend al dood te zijn. En voordat Tallon er erg in heeft, zitten de moordenaars ook hem op de hielen. Tijd dus om zichzelf te redden… 'Razendsnel, puntje-van-je-stoel en origineel.' New York Times-bestsellerauteur Thomas Perry </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dan Ames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De krenking]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223771/de-krenking-wanda-reisel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223771/de-krenking-wanda-reisel"/>
+        <updated>2026-04-16T08:24:41.542Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223771?aid=kb-online-bibliotheek&sid=20&dts=1776245845779&sig=48090a6ac6b9ade1e1c39b5f2cededf16c61dffbb8dd793cf3d593a18716fbb7&width=320" alt="Omslag van 'De krenking'" title="Omslag van 'De krenking'">
+<p>Levi Levi neemt als plaatsvervangend huisarts een praktijk waar in een dorp in Noord-Holland. Op een nacht wordt hij bruut van zijn bed gelicht en beschuldigd van moord op een patiënt. Zijn dochter lijkt de enige die zich om hem bekommert. Intussen ligt zijn flamboyante vader, een topchirurg, op sterven en ettert Levi's scheiding ook nog door. In deze scherpzinnige roman volgen we Levi's afdaling in een nachtmerrie van reputatieschade en zelfverlies in onze nerveuze wereld van valse aantijgingen. Met spottende humor en psychologisch raffinement verweeft Reisel een wrange familiegeschiedenis met een actueel en explosief plot.  Meer recensies en interviews: www.wandareisel.nl </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Wanda Reisel</name>
         </author>
     </entry>
     <entry>
@@ -336,14 +313,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De krenking]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223771/de-krenking-wanda-reisel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223771/de-krenking-wanda-reisel"/>
-        <updated>2026-04-16T08:24:41.542Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223771?aid=kb-online-bibliotheek&sid=20&dts=1776245845779&sig=48090a6ac6b9ade1e1c39b5f2cededf16c61dffbb8dd793cf3d593a18716fbb7&width=320" alt="Omslag van 'De krenking'" title="Omslag van 'De krenking'">
-<p>Levi Levi neemt als plaatsvervangend huisarts een praktijk waar in een dorp in Noord-Holland. Op een nacht wordt hij bruut van zijn bed gelicht en beschuldigd van moord op een patiënt. Zijn dochter lijkt de enige die zich om hem bekommert. Intussen ligt zijn flamboyante vader, een topchirurg, op sterven en ettert Levi's scheiding ook nog door. In deze scherpzinnige roman volgen we Levi's afdaling in een nachtmerrie van reputatieschade en zelfverlies in onze nerveuze wereld van valse aantijgingen. Met spottende humor en psychologisch raffinement verweeft Reisel een wrange familiegeschiedenis met een actueel en explosief plot.  Meer recensies en interviews: www.wandareisel.nl </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Lente - De eerste dag van de lente]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223755/lente---de-eerste-dag-van-de-lente-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223755/lente---de-eerste-dag-van-de-lente-tamara-postma"/>
+        <updated>2026-04-16T08:24:35.133Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223755?aid=kb-online-bibliotheek&sid=20&dts=1776327874591&sig=e91ca2ec1a4513678532a9bd07e45cfc2de4c110700daf2c3c8089b0ca6a8360&width=320" alt="Omslag van 'Lente - De eerste dag van de lente'" title="Omslag van 'Lente - De eerste dag van de lente'">
+<p>De eerste dag van de lente is het vijftiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Zeventien jaar geleden verdween Logan. Inmiddels leven Rosie, Noah en de kinderen een rustig en gelukkig gezinsleven, waarin het verleden langzaam naar de achtergrond verdwijnt. Tot een noodlottig ongeluk hun wereld verbrijzelt. Voor Ava wordt het pijnlijk duidelijk hoeveel vragen er altijd onbeantwoord zijn gebleven. Vastbesloten gaat ze op zoek naar de waarheid – een waarheid die haar ouders al die tijd verborgen hielden. Maar achter dat geheim schuilt een prijs die zwaarder kan zijn dan ze ooit had durven vermoeden. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Wanda Reisel</name>
+            <name>Tamara Postma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lente - Zoals jij]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223747/lente---zoals-jij-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223747/lente---zoals-jij-tamara-postma"/>
+        <updated>2026-04-16T08:24:33.940Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223747?aid=kb-online-bibliotheek&sid=20&dts=1776245833182&sig=a12d4b04d0961e0fc69eb41d47ad1b4bdffd045a6f4b83ad5ab06b64ebc4effc&width=320" alt="Omslag van 'Lente - Zoals jij'" title="Omslag van 'Lente - Zoals jij'">
+<p>Zoals jij is het zestiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Na alles wat er gebeurd is voelt Ava dat de muren van haar ouderlijk huis haar niet langer houvast, maar juist stilte en geheimen bieden. Ze beseft dat de antwoorden die ze zo wanhopig zoekt daar nooit te vinden zullen zijn. Met een mengeling van angst en vastberadenheid besluit ze haar vertrouwde leven achter te laten en af te reizen naar Italië – naar de enige persoon die het verleden kan ontrafelen. Maar wat als de waarheid anders blijkt te zijn dan ze had gehoopt? Wat als de antwoorden niet alleen haar beeld van haar ouders, maar ook haar eigen leven voorgoed zullen veranderen? Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tamara Postma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lente - Zonder jou]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223763/lente---zonder-jou-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223763/lente---zonder-jou-tamara-postma"/>
+        <updated>2026-04-16T08:24:34.504Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223763?aid=kb-online-bibliotheek&sid=20&dts=1776321213668&sig=9c180154ada933247f8c4b5cb305b9d086431a2f9fff0b0de6f00de377852b29&width=320" alt="Omslag van 'Lente - Zonder jou'" title="Omslag van 'Lente - Zonder jou'">
+<p>Zonder jou is het zeventiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Na opnieuw een groot verlies staat Ava voor de zware taak haar leven weer op te bouwen. Het kost haar meer kracht en moed dan ze ooit had verwacht, maar langzaam lukt het haar om de draad weer op te pakken. Net wanneer het lijkt alsof alles eindelijk zijn plaats vindt, stuit Ava op een onthulling die haar wereld volledig op zijn kop zet – een geheim dat koste wat kost verborgen moet blijven. Maar geheimen hebben de neiging aan het licht te komen. En wanneer dit duistere verleden zich toch openbaart, dreigt alles wat Ava zo moeizaam heeft opgebouwd opnieuw uiteen te vallen. Ze komt erachter dat de waarheid niet alleen gevaarlijk is, maar dat ze werkelijk niemand meer kan vertrouwen. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tamara Postma</name>
         </author>
     </entry>
 </feed>
