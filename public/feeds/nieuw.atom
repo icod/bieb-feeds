@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-04-19T08:03:25.348Z</updated>
+    <updated>2026-04-20T09:04:27.268Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -104,17 +104,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aan het einde van de oorlog]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460257706/aan-het-einde-van-de-oorlog-bert-natter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460257706/aan-het-einde-van-de-oorlog-bert-natter"/>
-        <updated>2026-04-18T07:55:38.533Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460257706?aid=kb-online-bibliotheek&sid=20&dts=1776498938318&sig=8ce0c5e331b86b4ec455b9f7a02345e00dac18b9bb392c6a30d3de00d1895fda&width=320" alt="Omslag van 'Aan het einde van de oorlog'" title="Omslag van 'Aan het einde van de oorlog'">
-<p>De elfjarige Ernst, zoon van SS-Obersturmführer Karl Zehlendorf, raakt vermist in de buurt van een concentratiekamp. Zijn broer Reinhart beweert hem te hebben achtergelaten aan de oever van het verraderlijk diepe meer, waar ze aan het vissen waren. Hij zal toch niet in het water zijn gevallen? Terwijl de geallieerde legers in de verte al te horen zijn en iedereen in het kamp beseft dat het einde van de oorlog nabij is, gaat Karl op zoek naar zijn zoon.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bert Natter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rechercheur De Klerck en tranen om Valentijn]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/46025779X/rechercheur-de-klerck-en-tranen-om-valentijn-p--dieudonn%C3%A9</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/46025779X/rechercheur-de-klerck-en-tranen-om-valentijn-p--dieudonn%C3%A9"/>
@@ -126,14 +115,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De dokter en de weggelopen naald]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460249029/de-dokter-en-de-weggelopen-naald-bart-wolf</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460249029/de-dokter-en-de-weggelopen-naald-bart-wolf"/>
-        <updated>2026-04-17T08:23:17.397Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460249029?aid=kb-online-bibliotheek&sid=20&dts=1776408108901&sig=fb81145f822b49907a1ae2be53b3f89bfdea6534aec367c07fd79c93391c5417&width=320" alt="Omslag van 'De dokter en de weggelopen naald'" title="Omslag van 'De dokter en de weggelopen naald'">
-<p>Als de jonge arts Elias in het onafhankelijk geworden Afrikaanse land arriveert, is de opbouw van de democratische volksrepubliek in volle gang. Zijn autoritaire directeur is alles wat Elias niet wil zijn en de onervaren partijsecretaris van het districtsziekenhuis lukt het amper om het personeel de zo vurig gewenste marxistisch-leninistische beginselen bij te brengen. Ondanks zijn sympathie voor het communisme, verloopt zijn integratie niet zonder slag of stoot en moeten ook zijn verwachtingen in de liefde worden bijgesteld, waarbij zowel de lokale onderwijzeres als de jonge student uit de hoofdstad een rol spelen. De rigide politieke structuur stuit Elias steeds meer tegen de borst en als hij in een burgeroorlog betrokken wordt, ontkomt hij er niet aan zijn conclusies te trekken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Aan het einde van de oorlog]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460257706/aan-het-einde-van-de-oorlog-bert-natter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460257706/aan-het-einde-van-de-oorlog-bert-natter"/>
+        <updated>2026-04-18T07:55:38.533Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460257706?aid=kb-online-bibliotheek&sid=20&dts=1776498938318&sig=8ce0c5e331b86b4ec455b9f7a02345e00dac18b9bb392c6a30d3de00d1895fda&width=320" alt="Omslag van 'Aan het einde van de oorlog'" title="Omslag van 'Aan het einde van de oorlog'">
+<p>De elfjarige Ernst, zoon van SS-Obersturmführer Karl Zehlendorf, raakt vermist in de buurt van een concentratiekamp. Zijn broer Reinhart beweert hem te hebben achtergelaten aan de oever van het verraderlijk diepe meer, waar ze aan het vissen waren. Hij zal toch niet in het water zijn gevallen? Terwijl de geallieerde legers in de verte al te horen zijn en iedereen in het kamp beseft dat het einde van de oorlog nabij is, gaat Karl op zoek naar zijn zoon.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Bart Wolf</name>
+            <name>Bert Natter</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +135,17 @@
 <p>Pleidooi voor nieuwe regels in het geldwezen, waarin een eerlijke verdeling centraal staat.</p>]]></content>
         <author>
             <name>Martin Schuurman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De dokter en de weggelopen naald]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460249029/de-dokter-en-de-weggelopen-naald-bart-wolf</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460249029/de-dokter-en-de-weggelopen-naald-bart-wolf"/>
+        <updated>2026-04-17T08:23:17.397Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460249029?aid=kb-online-bibliotheek&sid=20&dts=1776408108901&sig=fb81145f822b49907a1ae2be53b3f89bfdea6534aec367c07fd79c93391c5417&width=320" alt="Omslag van 'De dokter en de weggelopen naald'" title="Omslag van 'De dokter en de weggelopen naald'">
+<p>Als de jonge arts Elias in het onafhankelijk geworden Afrikaanse land arriveert, is de opbouw van de democratische volksrepubliek in volle gang. Zijn autoritaire directeur is alles wat Elias niet wil zijn en de onervaren partijsecretaris van het districtsziekenhuis lukt het amper om het personeel de zo vurig gewenste marxistisch-leninistische beginselen bij te brengen. Ondanks zijn sympathie voor het communisme, verloopt zijn integratie niet zonder slag of stoot en moeten ook zijn verwachtingen in de liefde worden bijgesteld, waarbij zowel de lokale onderwijzeres als de jonge student uit de hoofdstad een rol spelen. De rigide politieke structuur stuit Elias steeds meer tegen de borst en als hij in een burgeroorlog betrokken wordt, ontkomt hij er niet aan zijn conclusies te trekken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Bart Wolf</name>
         </author>
     </entry>
     <entry>
@@ -174,6 +174,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Platenbaas]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223488/platenbaas-gerard-ekdom</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223488/platenbaas-gerard-ekdom"/>
+        <updated>2026-04-16T08:24:28.139Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223488?aid=kb-online-bibliotheek&sid=20&dts=1776327867623&sig=2fee1b8fbba5838e2d27c8850200b06371630c4663ea933769c104d986ad519e&width=320" alt="Omslag van 'Platenbaas'" title="Omslag van 'Platenbaas'">
+<p>Gerard 'Dokter Pop' Ekdom weet alles van muziek – elke plaat heeft een verhaal. In Platenbaas neemt hij je mee langs de interessantste nummers uit zijn platenkast, met een dosis humor en nostalgie. Bij dit boek blijf je onmogelijk stilzitten! Gerard Ekdom is de dj die net zoveel van verhalen houdt als van muziek, en hij is dé gids door de wondere wereld van platen, hits en muzikale herinneringen. Platenbaas leest als een jukebox vol scherpzinnige, grappige én persoonlijke verhalen. Van vergeten parels tot legendarische nummers: elke plaat vertelt een verhaal, en Ekdom weet precies hoe dat klinkt. Voor alle liefhebbers van muziek, radio en een goed verhaal is dit boek een feest van herkenning. Draai de volumeknop omhoog en lees terwijl je luistert. Of je nou houdt van pop, r&b of hiphop, er valt voor iedereen wat te vinden in deze must-havebundel voor elke muziekliefhebber! Radio-dj Gerard Ekdom startte in 1998 zijn carrière bij 3FM en won drie keer De Gouden RadioRing en viermaal de Zilveren RadioSter. Sinds september 2024 is hij iedere ochtend te horen op Radio Veronica. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Gerard Ekdom</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Madame le Commissaire en de muur van stilte]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/46022347X/madame-le-commissaire-en-de-muur-van-stilte-pierre-martin</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/46022347X/madame-le-commissaire-en-de-muur-van-stilte-pierre-martin"/>
@@ -182,6 +193,39 @@
 <p>In het tiende deel van Pierre Martins succesvolle reeks over Madame le Commissaire wordt Isabelle geconfronteerd met een mysterie uit het verleden.  Een ingemetseld skelet laat arbeiders in shock achter tijdens de sloop van een oud vakantiehuis in het betoverende Fragolin in de Provence. Een gat in de schedel laat er geen twijfel over bestaan ​​dat het slachtoffer een gewelddadige dood is gestorven. Isabelle Bonnet neemt de zaak met enige tegenzin aan. Ze richt zich immers liever op actuele misdaden. Ze maakt zich bovendien steeds meer zorgen over de mysterieuze verdwijning van haar vriend Nicolas. Opeens krijgt ze een hulpkreet uit Marokko…  In het geval van het skelet leidt de eerste aanwijzing naar een onguur financieel adviseur. Er is geen ontsnappingsgevaar: hij zit in de gevangenis. Maar het onderzoek loopt bij hem vast en zo stuit Madame le Commissaire op een muur van stilte… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Pierre Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een moord in november]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223445/een-moord-in-november-simon-mason</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223445/een-moord-in-november-simon-mason"/>
+        <updated>2026-04-16T08:24:28.765Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223445?aid=kb-online-bibliotheek&sid=20&dts=1776241966115&sig=05a18868c7ce9472e0950d3201cb2f9181df41e81e74a45532deb80a3115e77f&width=320" alt="Omslag van 'Een moord in november'" title="Omslag van 'Een moord in november'">
+<p>Een moord in november is het bloedstollend spannende eerste deel in de Oxford-serie van prijswinnend auteur Simon Mason. Een onwaarschijnlijk detectiveduo wordt geconfronteerd met een huiveringwekkend moordmysterie.</p><p>Rechercheur Ryan Wilkins groeide op in een trailerpark, en is zijn afkeer voor de geprivilegieerde elite die op hem neerkeek nog altijd niet vergeten; zo ook niet zijn slechte manieren. Maar Ryan ziet dingen die anderen niet zien. Zijn partner, DI Ray Wilkins, is een goed verzorgde, charismatische man van rijke Nigeriaanse-Londense afkomst en is afgestudeerd aan het prestigieuze Balliol College in Oxford.  Je zou niet denken dat de twee het goed met elkaar kunnen vinden. En dat kunnen ze ook niet. Maar wanneer er een jonge vrouw gewurgd wordt gevonden bij Barnabas Hall, moeten ze wel.  Wat deed de dode vrouw in het kantoor van de opvliegende provoost? En is het puur toeval dat er op de nacht van de moord hoog bezoek was van Sheik al-Medina? Een man die in eigen land is gelinkt aan meerdere mensenrechtenschendingen. Wanneer de spanning stijgt, ontdekt het duo geleidelijk verbanden tussen een Syrische vluchteling die werkt in de keuken van de universiteit, een onbetaalbaar exemplaar van de Koran in de universiteitscollectie en de identiteit van het slachtoffer. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Simon Mason</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vroeger woonden wij hier]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223453/vroeger-woonden-wij-hier-marcus-kliewer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223453/vroeger-woonden-wij-hier-marcus-kliewer"/>
+        <updated>2026-04-16T08:24:29.269Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223453?aid=kb-online-bibliotheek&sid=20&dts=1776326778117&sig=acd9a03f435cc1a8c9d301b5ec3ae79eb4ed5c4549d117a3a84559bff6aa5258&width=320" alt="Omslag van 'Vroeger woonden wij hier'" title="Omslag van 'Vroeger woonden wij hier'">
+<p>Vroeger woonden wij hier is het prijswinnende en huiveringwekkende debuut van Marcus Kliewer. Het boek is verkozen tot Reddit NoSleep Scariest Story of the Year en Goodreads Best Horror Novel of the Last 5 Years. Een verfilming op Netflix is in de maak. Charlie en Eve kunnen niet geloven dat het oude, pittoreske huis in de bergen dat ze net hebben gekocht zo spotgoedkoop was. Dan staat er op een dag een man voor de deur. Hij zegt dat hij vroeger in het huis woonde en wil het zijn gezin graag laten zien.  Zodra het gezin binnenstapt, begint een reeks onverklaarbare gebeurtenissen. Wanneer Charlie verdwijnt, verliest Eve haar grip op de realiteit. Is er echt iets mis met het huis of zit het allemaal in haar hoofd? 'Een sfeervolle nachtmerrie in alle opzichten.' Booklist 'Origineel en extreem eng… een angstaanjagend debuut.' Kirkus Reviews </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marcus Kliewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het bal in Versailles]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223542/het-bal-in-versailles-danielle-steel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223542/het-bal-in-versailles-danielle-steel"/>
+        <updated>2026-04-16T08:24:27.540Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223542?aid=kb-online-bibliotheek&sid=20&dts=1776326613553&sig=ba19733b557949621e34734f1452413851c4b23d86f30d901f2179a61e089d9a&width=320" alt="Omslag van 'Het bal in Versailles'" title="Omslag van 'Het bal in Versailles'">
+<p>Een avond om nooit te vergeten. Droom weg met de nieuwe roman van Danielle Steel, Het bal in Versailles.  Het is de zomer van 1958. Het Paleis van Versailles is het toneel voor een evenement dat de geschiedenisboeken zal halen: een betoverend bal van zonsondergang tot dageraad, waar een selecte groep debutantes wordt voorgesteld aan de internationale elite en koninklijke families. Voor vier jonge vrouwen, ieder met iets te bewijzen, wordt dit een nacht om nooit te vergeten. Amelia Alexander is de dochter van een hardwerkende, alleenstaande moeder die alles opoffert om haar dochter een kans op een beter leven te geven. Caroline Taylor heeft een hartstochtelijke relatie met een opkomende filmster die tien jaar ouder is dan zij. Maar is zijn liefde oprecht, of draait het hem vooral om haar beroemde vader? Felicity Smith, student kernfysica, heeft weinig op met mode of sociale kringen, maar besluit het bal bij te wonen om haar ouders een plezier te doen – en om uit de schaduw van haar zus te stappen. Samantha Walker is de geliefde, overbeschermde dochter van een rijke zakenman. Haar enthousiasme over de uitnodiging wordt overschaduwd door een tragisch verleden dat haar nog altijd achtervolgt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Danielle Steel</name>
         </author>
     </entry>
     <entry>
@@ -197,47 +241,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het bal in Versailles]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223542/het-bal-in-versailles-danielle-steel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223542/het-bal-in-versailles-danielle-steel"/>
-        <updated>2026-04-16T08:24:27.540Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223542?aid=kb-online-bibliotheek&sid=20&dts=1776326613553&sig=ba19733b557949621e34734f1452413851c4b23d86f30d901f2179a61e089d9a&width=320" alt="Omslag van 'Het bal in Versailles'" title="Omslag van 'Het bal in Versailles'">
-<p>Een avond om nooit te vergeten. Droom weg met de nieuwe roman van Danielle Steel, Het bal in Versailles.  Het is de zomer van 1958. Het Paleis van Versailles is het toneel voor een evenement dat de geschiedenisboeken zal halen: een betoverend bal van zonsondergang tot dageraad, waar een selecte groep debutantes wordt voorgesteld aan de internationale elite en koninklijke families. Voor vier jonge vrouwen, ieder met iets te bewijzen, wordt dit een nacht om nooit te vergeten. Amelia Alexander is de dochter van een hardwerkende, alleenstaande moeder die alles opoffert om haar dochter een kans op een beter leven te geven. Caroline Taylor heeft een hartstochtelijke relatie met een opkomende filmster die tien jaar ouder is dan zij. Maar is zijn liefde oprecht, of draait het hem vooral om haar beroemde vader? Felicity Smith, student kernfysica, heeft weinig op met mode of sociale kringen, maar besluit het bal bij te wonen om haar ouders een plezier te doen – en om uit de schaduw van haar zus te stappen. Samantha Walker is de geliefde, overbeschermde dochter van een rijke zakenman. Haar enthousiasme over de uitnodiging wordt overschaduwd door een tragisch verleden dat haar nog altijd achtervolgt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Denk jij ook weleens aan mij?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444254935/denk-jij-ook-weleens-aan-mij--jill-mansell</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444254935/denk-jij-ook-weleens-aan-mij--jill-mansell"/>
+        <updated>2026-04-16T08:24:30.244Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254935?aid=kb-online-bibliotheek&sid=20&dts=1776249588804&sig=914fa64ecaf219cce3b694dc7c055ce27e0a00c6161ec68ef31c358a0854cabe&width=320" alt="Omslag van 'Denk jij ook weleens aan mij?'" title="Omslag van 'Denk jij ook weleens aan mij?'">
+<p>In haar nieuwe roman Denk jij ook weleens aan mij? presenteert Jill Mansell een hartverwarmend verhaal over vriendschap en liefde.  Nick is de meest intrigerende man die Nella in lange tijd heeft ontmoet, maar ze wonen te ver uit elkaar. Dan verliest Nella haar baan. Ze krijgt een perfecte baan aangeboden bij een vakantieresort in de Cotswolds. Het addertje onder het gras is dat Nick dan haar baas zou zijn. De enige man op wie ze dan niet verliefd kan worden!  Terwijl Nella worstelt met haar gevoelens, arriveert Hollywoodster Lizzie in het resort. Ze heeft mannen afgezworen, zegt ze, of een nieuwe flirt nodig met Nick? Of misschien met de zwijgzame Matthew, die geen fan van de ster lijkt te zijn. Tot de onthulling van een geheim alles doet kantelen…  Een wervelende romantische komedie vol verrassingen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Danielle Steel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platenbaas]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223488/platenbaas-gerard-ekdom</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223488/platenbaas-gerard-ekdom"/>
-        <updated>2026-04-16T08:24:28.139Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223488?aid=kb-online-bibliotheek&sid=20&dts=1776327867623&sig=2fee1b8fbba5838e2d27c8850200b06371630c4663ea933769c104d986ad519e&width=320" alt="Omslag van 'Platenbaas'" title="Omslag van 'Platenbaas'">
-<p>Gerard 'Dokter Pop' Ekdom weet alles van muziek – elke plaat heeft een verhaal. In Platenbaas neemt hij je mee langs de interessantste nummers uit zijn platenkast, met een dosis humor en nostalgie. Bij dit boek blijf je onmogelijk stilzitten! Gerard Ekdom is de dj die net zoveel van verhalen houdt als van muziek, en hij is dé gids door de wondere wereld van platen, hits en muzikale herinneringen. Platenbaas leest als een jukebox vol scherpzinnige, grappige én persoonlijke verhalen. Van vergeten parels tot legendarische nummers: elke plaat vertelt een verhaal, en Ekdom weet precies hoe dat klinkt. Voor alle liefhebbers van muziek, radio en een goed verhaal is dit boek een feest van herkenning. Draai de volumeknop omhoog en lees terwijl je luistert. Of je nou houdt van pop, r&b of hiphop, er valt voor iedereen wat te vinden in deze must-havebundel voor elke muziekliefhebber! Radio-dj Gerard Ekdom startte in 1998 zijn carrière bij 3FM en won drie keer De Gouden RadioRing en viermaal de Zilveren RadioSter. Sinds september 2024 is hij iedere ochtend te horen op Radio Veronica. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Gerard Ekdom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vroeger woonden wij hier]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223453/vroeger-woonden-wij-hier-marcus-kliewer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223453/vroeger-woonden-wij-hier-marcus-kliewer"/>
-        <updated>2026-04-16T08:24:29.269Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223453?aid=kb-online-bibliotheek&sid=20&dts=1776326778117&sig=acd9a03f435cc1a8c9d301b5ec3ae79eb4ed5c4549d117a3a84559bff6aa5258&width=320" alt="Omslag van 'Vroeger woonden wij hier'" title="Omslag van 'Vroeger woonden wij hier'">
-<p>Vroeger woonden wij hier is het prijswinnende en huiveringwekkende debuut van Marcus Kliewer. Het boek is verkozen tot Reddit NoSleep Scariest Story of the Year en Goodreads Best Horror Novel of the Last 5 Years. Een verfilming op Netflix is in de maak. Charlie en Eve kunnen niet geloven dat het oude, pittoreske huis in de bergen dat ze net hebben gekocht zo spotgoedkoop was. Dan staat er op een dag een man voor de deur. Hij zegt dat hij vroeger in het huis woonde en wil het zijn gezin graag laten zien.  Zodra het gezin binnenstapt, begint een reeks onverklaarbare gebeurtenissen. Wanneer Charlie verdwijnt, verliest Eve haar grip op de realiteit. Is er echt iets mis met het huis of zit het allemaal in haar hoofd? 'Een sfeervolle nachtmerrie in alle opzichten.' Booklist 'Origineel en extreem eng… een angstaanjagend debuut.' Kirkus Reviews </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marcus Kliewer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een moord in november]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223445/een-moord-in-november-simon-mason</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223445/een-moord-in-november-simon-mason"/>
-        <updated>2026-04-16T08:24:28.765Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223445?aid=kb-online-bibliotheek&sid=20&dts=1776241966115&sig=05a18868c7ce9472e0950d3201cb2f9181df41e81e74a45532deb80a3115e77f&width=320" alt="Omslag van 'Een moord in november'" title="Omslag van 'Een moord in november'">
-<p>Een moord in november is het bloedstollend spannende eerste deel in de Oxford-serie van prijswinnend auteur Simon Mason. Een onwaarschijnlijk detectiveduo wordt geconfronteerd met een huiveringwekkend moordmysterie.</p><p>Rechercheur Ryan Wilkins groeide op in een trailerpark, en is zijn afkeer voor de geprivilegieerde elite die op hem neerkeek nog altijd niet vergeten; zo ook niet zijn slechte manieren. Maar Ryan ziet dingen die anderen niet zien. Zijn partner, DI Ray Wilkins, is een goed verzorgde, charismatische man van rijke Nigeriaanse-Londense afkomst en is afgestudeerd aan het prestigieuze Balliol College in Oxford.  Je zou niet denken dat de twee het goed met elkaar kunnen vinden. En dat kunnen ze ook niet. Maar wanneer er een jonge vrouw gewurgd wordt gevonden bij Barnabas Hall, moeten ze wel.  Wat deed de dode vrouw in het kantoor van de opvliegende provoost? En is het puur toeval dat er op de nacht van de moord hoog bezoek was van Sheik al-Medina? Een man die in eigen land is gelinkt aan meerdere mensenrechtenschendingen. Wanneer de spanning stijgt, ontdekt het duo geleidelijk verbanden tussen een Syrische vluchteling die werkt in de keuken van de universiteit, een onbetaalbaar exemplaar van de Koran in de universiteitscollectie en de identiteit van het slachtoffer. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Simon Mason</name>
+            <name>Jill Mansell</name>
         </author>
     </entry>
     <entry>
@@ -252,17 +263,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Denk jij ook weleens aan mij?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444254935/denk-jij-ook-weleens-aan-mij--jill-mansell</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444254935/denk-jij-ook-weleens-aan-mij--jill-mansell"/>
-        <updated>2026-04-16T08:24:30.244Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444254935?aid=kb-online-bibliotheek&sid=20&dts=1776249588804&sig=914fa64ecaf219cce3b694dc7c055ce27e0a00c6161ec68ef31c358a0854cabe&width=320" alt="Omslag van 'Denk jij ook weleens aan mij?'" title="Omslag van 'Denk jij ook weleens aan mij?'">
-<p>In haar nieuwe roman Denk jij ook weleens aan mij? presenteert Jill Mansell een hartverwarmend verhaal over vriendschap en liefde.  Nick is de meest intrigerende man die Nella in lange tijd heeft ontmoet, maar ze wonen te ver uit elkaar. Dan verliest Nella haar baan. Ze krijgt een perfecte baan aangeboden bij een vakantieresort in de Cotswolds. Het addertje onder het gras is dat Nick dan haar baas zou zijn. De enige man op wie ze dan niet verliefd kan worden!  Terwijl Nella worstelt met haar gevoelens, arriveert Hollywoodster Lizzie in het resort. Ze heeft mannen afgezworen, zegt ze, of een nieuwe flirt nodig met Nick? Of misschien met de zwijgzame Matthew, die geen fan van de ster lijkt te zijn. Tot de onthulling van een geheim alles doet kantelen…  Een wervelende romantische komedie vol verrassingen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jill Mansell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Als scheuren in de aarde]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444254943/als-scheuren-in-de-aarde-clare-leslie-hall</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444254943/als-scheuren-in-de-aarde-clare-leslie-hall"/>
@@ -274,14 +274,59 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beauty en de nerd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459546619/beauty-en-de-nerd-tamara-haagmans</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459546619/beauty-en-de-nerd-tamara-haagmans"/>
-        <updated>2026-04-16T08:24:31.239Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459546619?aid=kb-online-bibliotheek&sid=20&dts=1776254765845&sig=c376ce5fd81b17fb4c4af02efd05e588407e8bbf91d91c861e038874dc15f0a1&width=320" alt="Omslag van 'Beauty en de nerd'" title="Omslag van 'Beauty en de nerd'">
-<p>Hij kwam voor de korte rokjes. Hij bleef voor haar. Rens is een vriendelijke, sociaal ongemakkelijke nerd die niet zoveel met cheerleaders heeft - tot hij Megan ziet dansen en alles in hem op tilt slaat. Eén klein leugen later zit hij midden in haar wereld, omringd door pompons, radslagen en gevoelens waar hij totaal niet op had gerekend. Megan is scherp, sexy en beslist niet van plan zich in de luren te laten leggen. Maar was als de jongen die haar wereld binnenkwam met een leugen, stiekem ook heel goed blijkt te zoenen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Broers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223682/broers-carolijn-visser</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223682/broers-carolijn-visser"/>
+        <updated>2026-04-16T08:24:33.379Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223682?aid=kb-online-bibliotheek&sid=20&dts=1776321993729&sig=276c9b75249e7a1b2c654e515ec2eda53afac134a5fb705b202daf1214403ae7&width=320" alt="Omslag van 'Broers'" title="Omslag van 'Broers'">
+<p>In januari 1945 lopen twee broers door besneeuwde polders van Amsterdam terug naar hun ouderlijk huis in Papendrecht: ontsnapt aan de Arbeitseinsatz. Na de bevrijding kiezen zij elk een ander levenspad. Broers is Carolijn Vissers eigen familiegeschiedenis, waarin haar vader Ar en zijn twee broers Martin en Carel centraal staan. Ar studeerde Indisch recht en geschiedenis en was een idealist die geloofde in educatie; hij werd eschiedenisleraar in Zeeland. Martin Visser koos voor de kunst en bracht samen met zijn vrouw Mia een uitgebreide collectie bijeen met werk van Karel Appel, Constant, Manzoni, Sol LeWitt, Christo, Kiefer en andere naoorlogse kunstenaars. Daarnaast ontwikkelde hij zich tot een van Nederlands bekendste meubelontwerpers. Carel Visser werd beeldhouwer van internationale faam. Broers leest als een kleine naoorlogse sociale en culturele geschiedenis van Nederland. Aan de hand van het verhaal van haar familie schetst Carolijn Visser in treffende details hoe kunstenaars en progressieve bewegingen, zoals Provo en het feminisme, het behoudende Nederland na de oorlog opschudden en in beweging brachten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tamara Haagmans</name>
+            <name>Carolijn Visser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vertrek(punt)]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223828/vertrek-punt--julian-barnes</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223828/vertrek-punt--julian-barnes"/>
+        <updated>2026-04-16T08:24:39.133Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223828?aid=kb-online-bibliotheek&sid=20&dts=1776327878545&sig=89ce955b3d96bbeb6db9f388a42abe38d7067922d4c31be8f197b8e79fccb411&width=320" alt="Omslag van 'Vertrek(punt)'" title="Omslag van 'Vertrek(punt)'">
+<p>Vertrek(punt) is het aangekondigde slotakkoord van een rijk, veelzijdig oeuvre, een boek over oude vrienden en de naderende dood, over herinnering en waarheid en hoe die twee constant in elkaar grijpen. Julian Barnes op z'n best, en een absoluut hoogtepunt in het oeuvre van de schrijver van onder andere 'Het enige verhaal' en 'Alsof het voorbij is'. 'Twee dingen alvast: 1. Er komt heus een verhaal (of een verhaal binnen het verhaal), maar nog niet; en 2. Dit is mijn laatste boek.' De jeugdliefde tussen Stephen en Jean vlamt na 40 jaar weer op; Julian heeft er opnieuw een hand in. Van het een komt het ander, en vlak daarna is hij getuige op hun trouwerij. Maar hoe betrouwbaar is Julian – als vriend, als geschiedschrijver, als verteller? Het feilbare geheugen, de ongrijpbare waarheid, de manipulaties van de schrijver: Vertrek(punt) stipt bondig maar elegant de grote thema's aan van een heel (schrijvers)- leven. Een leven met een naderend einde, dat Barnes – geheel in karakter – stoïcijns probeert tegemoet te treden. En hoe het afloopt met Stephen en Jean? 'Ik vertel je de rest een andere keer.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Julian Barnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De schuldenfabriek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223658/de-schuldenfabriek-jamal-oulel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223658/de-schuldenfabriek-jamal-oulel"/>
+        <updated>2026-04-16T08:24:39.994Z</updated>
+        <summary type="html"><![CDATA[Waarom steeds meer jongeren in het rood belanden - en wat we daaraan kunnen doen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223658?aid=kb-online-bibliotheek&sid=20&dts=1776327879225&sig=10f601e6246afe126c6f0f17ca12acce4935b28c1c44a9b5ca8d6f3ff4f4fe12&width=320" alt="Omslag van 'De schuldenfabriek'" title="Omslag van 'De schuldenfabriek'">
+<p>Jongeren groeien op in een wereld vol verleiding: 'Buy now, pay later'-knoppen, flitsende reclames en gok-apps die altijd binnen handbereik zijn. Wat onschuldig lijkt, kan ongemerkt uitmonden in een vicieuze cirkel van boetes en rente. Jamal Oulel weet hoe dat voelt. Tijdens het najagen van zijn ondernemersdroom stapelden zijn schulden zich op – niet door roekeloosheid, maar door een systeem dat eerder straft dan helpt. Toen hij de gemeente om hulp vroeg, kreeg hij te horen: 'Je schulden zijn te klein, kom later maar terug.' In De schuldenfabriek onthult Oulel hoe deze industrie jongeren bewust in de val lokt. Hij laat zien waarom schulden geen persoonlijke mislukking zijn, maar het gevolg van een oneerlijk systeem. En hij biedt een alternatief voor hoe we jongeren kunnen helpen beginnende schulden af te lossen én kunnen voorkomen dat ze opnieuw worden meegesleurd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jamal Oulel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De waanzinpartituur]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223631/de-waanzinpartituur-emma-van-hooff</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223631/de-waanzinpartituur-emma-van-hooff"/>
+        <updated>2026-04-16T08:24:32.831Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223631?aid=kb-online-bibliotheek&sid=20&dts=1776321217968&sig=b9e9896fcf2fe76a9e46dc68bbec9832d652cdeff2916d49822f628c14aa9ad5&width=320" alt="Omslag van 'De waanzinpartituur'" title="Omslag van 'De waanzinpartituur'">
+<p>Emma van Hooff sleurt je mee op het meedogenloze ritme van Am, een jonge vrouw die is opgesloten in een psychiatrische inrichting. Tijdens een groepssessie met de andere patiënten daalt ze af naar haar verleden. Am wil maar één ding: de lezer ervan overtuigen dat niet zij, maar haar moeder op haar stoel in de kring thuishoort. Met grote vaart neemt ze ons mee in haar monoloog over een moeder die haar dochter zo klein mogelijk wil houden, haar geen enkele vrijheid gunt. Maar is Am wel te vertrouwen als verteller? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Emma van Hooff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feniks]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223666/feniks-jacky-kuiper</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223666/feniks-jacky-kuiper"/>
+        <updated>2026-04-17T08:23:18.044Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223666?aid=kb-online-bibliotheek&sid=20&dts=1776336411025&sig=a93b3d26fe26e67329a3a914dbb8909c5d248d22eb3e108addd5d472a29e6342&width=320" alt="Omslag van 'Feniks'" title="Omslag van 'Feniks'">
+<p>Eva groeit op onder de terreur van haar vader, die vaker wel dan niet in de bak zit. In haar familie leidt iedereen een dubbelleven om hem uit de problemen te houden. Eva's moeder is instabiel, terwijl haar flamboyante grootmoeder juist voor licht en luchtigheid in haar leven zorgt. Als Eva ouder wordt, neemt ze niet langer genoegen met de continue angst waarin ze leeft. Kan ze loskomen van haar familie, en tegen welke prijs? Feniks is een uitzonderlijke debuutroman over vrouwelijke kracht, over hoop en loslaten wat giftig is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jacky Kuiper</name>
         </author>
     </entry>
     <entry>
@@ -297,58 +342,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beatrix en de dood in Rome]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223712/beatrix-en-de-dood-in-rome-eva-philips</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223712/beatrix-en-de-dood-in-rome-eva-philips"/>
-        <updated>2026-04-16T08:24:32.267Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223712?aid=kb-online-bibliotheek&sid=20&dts=1776258879498&sig=69a8a396ffd7d2fd94a6ed187f3b81b156ae64448f870f87fb3defd859f5864e&width=320" alt="Omslag van 'Beatrix en de dood in Rome'" title="Omslag van 'Beatrix en de dood in Rome'">
-<p>Beatrix en de dood in Rome is het vijfde deel in Eva Phillips' koninklijke krimireeks Hare Majesteit privédetective. Volg Beatrix naar het prachtige Italië in haar eerste avontuur over de grens.  Rome, 1985. In de nauwe straatjes van het oude centrum valt een dode. Het is een incident dat grote gevolgen heeft voor koningin Beatrix die op staatsbezoek is in de Italiaanse hoofdstad.  Wanneer de Nederlandse ambassade bij een vete tussen twee rivaliserende maffiabendes betrokken blijkt te zijn, bemoeit Beatrix zich er persoonlijk mee. Maar dat had ze beter niet kunnen doen.  Nooit was het gevaar zo groot en stond haar leven zo direct op het spel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Germaine de Staël]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460223585/germaine-de-sta%C3%ABl-margot-dijkgraaf</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460223585/germaine-de-sta%C3%ABl-margot-dijkgraaf"/>
+        <updated>2026-04-20T09:04:27.267Z</updated>
+        <summary type="html"><![CDATA[schrijver, balling en feminist avant la lettre]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223585?aid=kb-online-bibliotheek&sid=21&dts=1776674606780&sig=8cdccd63d685324c8dd3f4daefa41cb97e1deb1cbf8fc9f8e7c0287a0a690811&width=320" alt="Omslag van 'Germaine de Staël'" title="Omslag van 'Germaine de Staël'">
+<p>Vrijheid boven alles was haar devies. Margot Dijkgraaf wekt de briljante, onverschrokken Germaine de Staël tot leven Germaine de Staël (1766-1817) was de enige vrouw voor wie Napoleon ooit bang was. Ze trotseerde de conventies van haar tijd, was machtig en invloedrijk en had een salon waar iedereen die ertoe deed graag kwam. Bovendien was ze een veelgelezen en scherpzinnig schrijver, een Europees georiënteerde intellectueel en – zo betoogt Margot Dijkgraaf – een feministe avant la lettre. Ze vocht tegen slavernij, voor persvrijheid en voor de stem van schrijvende vrouwen. In dit wervelende boek vertelt Margot Dijkgraaf het fascinerende levensverhaal van een vrouw die haar tijd ver vooruit was. Van het bruisende Parijs van de Revolutie, via het intellectuele trefpunt op haar kasteel in Coppet, tot haar adembenemende ontsnapping aan Napoleons greep – een tocht van duizenden kilometers, dwars door Europa, achtervolgd door de legers van de dictator. 'Ik had drie tegenstanders: Engeland, Rusland en Germaine de Staël.' – Napoleon Bonaparte </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Eva Philips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De waanzinpartituur]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223631/de-waanzinpartituur-emma-van-hooff</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223631/de-waanzinpartituur-emma-van-hooff"/>
-        <updated>2026-04-16T08:24:32.831Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223631?aid=kb-online-bibliotheek&sid=20&dts=1776321217968&sig=b9e9896fcf2fe76a9e46dc68bbec9832d652cdeff2916d49822f628c14aa9ad5&width=320" alt="Omslag van 'De waanzinpartituur'" title="Omslag van 'De waanzinpartituur'">
-<p>Emma van Hooff sleurt je mee op het meedogenloze ritme van Am, een jonge vrouw die is opgesloten in een psychiatrische inrichting. Tijdens een groepssessie met de andere patiënten daalt ze af naar haar verleden. Am wil maar één ding: de lezer ervan overtuigen dat niet zij, maar haar moeder op haar stoel in de kring thuishoort. Met grote vaart neemt ze ons mee in haar monoloog over een moeder die haar dochter zo klein mogelijk wil houden, haar geen enkele vrijheid gunt. Maar is Am wel te vertrouwen als verteller? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Emma van Hooff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broers]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223682/broers-carolijn-visser</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223682/broers-carolijn-visser"/>
-        <updated>2026-04-16T08:24:33.379Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223682?aid=kb-online-bibliotheek&sid=20&dts=1776321993729&sig=276c9b75249e7a1b2c654e515ec2eda53afac134a5fb705b202daf1214403ae7&width=320" alt="Omslag van 'Broers'" title="Omslag van 'Broers'">
-<p>In januari 1945 lopen twee broers door besneeuwde polders van Amsterdam terug naar hun ouderlijk huis in Papendrecht: ontsnapt aan de Arbeitseinsatz. Na de bevrijding kiezen zij elk een ander levenspad. Broers is Carolijn Vissers eigen familiegeschiedenis, waarin haar vader Ar en zijn twee broers Martin en Carel centraal staan. Ar studeerde Indisch recht en geschiedenis en was een idealist die geloofde in educatie; hij werd eschiedenisleraar in Zeeland. Martin Visser koos voor de kunst en bracht samen met zijn vrouw Mia een uitgebreide collectie bijeen met werk van Karel Appel, Constant, Manzoni, Sol LeWitt, Christo, Kiefer en andere naoorlogse kunstenaars. Daarnaast ontwikkelde hij zich tot een van Nederlands bekendste meubelontwerpers. Carel Visser werd beeldhouwer van internationale faam. Broers leest als een kleine naoorlogse sociale en culturele geschiedenis van Nederland. Aan de hand van het verhaal van haar familie schetst Carolijn Visser in treffende details hoe kunstenaars en progressieve bewegingen, zoals Provo en het feminisme, het behoudende Nederland na de oorlog opschudden en in beweging brachten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Carolijn Visser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lente - Zoals jij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223747/lente---zoals-jij-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223747/lente---zoals-jij-tamara-postma"/>
-        <updated>2026-04-16T08:24:33.940Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223747?aid=kb-online-bibliotheek&sid=20&dts=1776245833182&sig=a12d4b04d0961e0fc69eb41d47ad1b4bdffd045a6f4b83ad5ab06b64ebc4effc&width=320" alt="Omslag van 'Lente - Zoals jij'" title="Omslag van 'Lente - Zoals jij'">
-<p>Zoals jij is het zestiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Na alles wat er gebeurd is voelt Ava dat de muren van haar ouderlijk huis haar niet langer houvast, maar juist stilte en geheimen bieden. Ze beseft dat de antwoorden die ze zo wanhopig zoekt daar nooit te vinden zullen zijn. Met een mengeling van angst en vastberadenheid besluit ze haar vertrouwde leven achter te laten en af te reizen naar Italië – naar de enige persoon die het verleden kan ontrafelen. Maar wat als de waarheid anders blijkt te zijn dan ze had gehoopt? Wat als de antwoorden niet alleen haar beeld van haar ouders, maar ook haar eigen leven voorgoed zullen veranderen? Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamara Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lente - Zonder jou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460223763/lente---zonder-jou-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460223763/lente---zonder-jou-tamara-postma"/>
-        <updated>2026-04-16T08:24:34.504Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460223763?aid=kb-online-bibliotheek&sid=20&dts=1776321213668&sig=9c180154ada933247f8c4b5cb305b9d086431a2f9fff0b0de6f00de377852b29&width=320" alt="Omslag van 'Lente - Zonder jou'" title="Omslag van 'Lente - Zonder jou'">
-<p>Zonder jou is het zeventiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Na opnieuw een groot verlies staat Ava voor de zware taak haar leven weer op te bouwen. Het kost haar meer kracht en moed dan ze ooit had verwacht, maar langzaam lukt het haar om de draad weer op te pakken. Net wanneer het lijkt alsof alles eindelijk zijn plaats vindt, stuit Ava op een onthulling die haar wereld volledig op zijn kop zet – een geheim dat koste wat kost verborgen moet blijven. Maar geheimen hebben de neiging aan het licht te komen. En wanneer dit duistere verleden zich toch openbaart, dreigt alles wat Ava zo moeizaam heeft opgebouwd opnieuw uiteen te vallen. Ze komt erachter dat de waarheid niet alleen gevaarlijk is, maar dat ze werkelijk niemand meer kan vertrouwen. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamara Postma</name>
+            <name>Margot Dijkgraaf</name>
         </author>
     </entry>
 </feed>
