@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-04-24T08:56:27.163Z</updated>
+    <updated>2026-04-25T08:01:42.000Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -30,17 +30,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De lavendeltuin]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/418003653/de-lavendeltuin-lucinda-riley</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/418003653/de-lavendeltuin-lucinda-riley"/>
-        <updated>2026-04-24T08:56:22.846Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A418003653?aid=kb-online-bibliotheek&sid=21&dts=1777018529280&sig=7aaff09d82b31e906d53c742e390f482b252a90c092d76b0b0cb08debbbf9551&width=320" alt="Omslag van 'De lavendeltuin'" title="Omslag van 'De lavendeltuin'">
-<p>De erfgename van een vervallen kasteel in Zuid-Frankrijk besluit dit op te knappen en vindt het dagboek van een vrouw die vertelt hoe haar man in de Tweede Wereldoorlog vele Franse burgers heeft gered.</p>]]></content>
-        <author>
-            <name>Lucinda Riley</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Het meisje op de rots]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/419107924/het-meisje-op-de-rots-lucinda-riley</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/419107924/het-meisje-op-de-rots-lucinda-riley"/>
@@ -58,6 +47,17 @@
         <updated>2026-04-24T08:56:24.280Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417707495?aid=kb-online-bibliotheek&sid=21&dts=1777019545921&sig=b719c58f02580d417179167b7628e82ae5b923a3222baf9036f5aebd25adc930&width=320" alt="Omslag van 'De nachtroos'" title="Omslag van 'De nachtroos'">
 <p>Een jonge Indiase zakenman krijgt het dagboek van zijn overleden overgrootmoeder en gaat in Engeland op zoek naar haar doodgewaande zoon.</p>]]></content>
+        <author>
+            <name>Lucinda Riley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De lavendeltuin]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/418003653/de-lavendeltuin-lucinda-riley</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/418003653/de-lavendeltuin-lucinda-riley"/>
+        <updated>2026-04-24T08:56:22.846Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A418003653?aid=kb-online-bibliotheek&sid=21&dts=1777018529280&sig=7aaff09d82b31e906d53c742e390f482b252a90c092d76b0b0cb08debbbf9551&width=320" alt="Omslag van 'De lavendeltuin'" title="Omslag van 'De lavendeltuin'">
+<p>De erfgename van een vervallen kasteel in Zuid-Frankrijk besluit dit op te knappen en vindt het dagboek van een vrouw die vertelt hoe haar man in de Tweede Wereldoorlog vele Franse burgers heeft gered.</p>]]></content>
         <author>
             <name>Lucinda Riley</name>
         </author>
@@ -193,35 +193,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het verhaal van Nederland – Amsterdam]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443100624/het-verhaal-van-nederland---amsterdam-femke-deen---marchien-den-hertog---emma-los</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443100624/het-verhaal-van-nederland---amsterdam-femke-deen---marchien-den-hertog---emma-los"/>
-        <updated>2026-04-23T08:49:17.209Z</updated>
-        <summary type="html"><![CDATA[Een nieuwe geschiedenis van onze hoofdstad]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443100624?aid=kb-online-bibliotheek&sid=21&dts=1776934025648&sig=06eef3ff757c62233004e940b3f533441f582bd2195998bb14b2067a3d552d33&width=320" alt="Omslag van 'Het verhaal van Nederland – Amsterdam'" title="Omslag van 'Het verhaal van Nederland – Amsterdam'">
-<p>Het boek bij de tv-serie Het verhaal van Nederland - AmsterdamHoe is Amsterdam ontstaan? En hoe wist de stad in de zeventiende eeuw uit te groeien tot een van de machtigste steden ter wereld? Het verhaal van Nederland – Amsterdam vertelt hoe een dorpje in een moeras uitgroeide tot de grootste stad van Nederland. Gebaseerd op de nieuwste inzichten van gerenommeerde historici vertelt dit boek bekende én onbekende verhalen over de hoofdstad van Nederland. Over gouden tijden en zwarte bladzijden, over arm en rijk, over hoogmoed en barmhartigheid. Van het Mirakel van Amsterdam tot aanleg van de grachtengordel. Van de sporen van de slavernij tot de Tweede Wereldoorlog. En van Provo en de krakersrellen tot Zwarte Riek en de RoXY. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Femke Deen</name>
-        </author>
-        <author>
-            <name>Marchien den Hertog</name>
-        </author>
-        <author>
-            <name>Emma Los</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misvattingen over de Shoah in Nederland]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444354611/misvattingen-over-de-shoah-in-nederland-guus-luijters</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444354611/misvattingen-over-de-shoah-in-nederland-guus-luijters"/>
-        <updated>2026-04-23T08:49:14.118Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444354611?aid=kb-online-bibliotheek&sid=21&dts=1776934124410&sig=7bdb1695054333d202a99cf753f5abc6beb56b3349f764fcdc9626ba03e2ace4&width=320" alt="Omslag van 'Misvattingen over de Shoah in Nederland'" title="Omslag van 'Misvattingen over de Shoah in Nederland'">
-<p>Het sluitstuk van een indrukwekkend oeuvre over de Tweede Wereldoorloog  Guus Luijters verwierf in 2012 grote bekendheid met zijn indrukwekkende boek In Memoriam – De gedeporteerde en vermoorde Joodse, Roma en Sinti kinderen 1942-1945, waarin hij 17.964 kinderen uit de anonimiteit van het grote getal haalde. Voor en na verschijning van dit boek deed hij meer dan vijftien jaar lang onderzoek naar de Tweede Wereldoorlog en volgden vele publicaties. Tijdens deze jaren merkte hij dat er vele misvattingen bestaan over de Shoah, waarvan hij hoopt dat hij die middels dit pamflet kan corrigeren. Dat is niet eenvoudig, schrijft hij: ‘Maar als het me lukt het beeld van  het Joods verzet te laten kantelen, zou ik mijn missie al als geslaagd beschouwen.’ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Guus Luijters</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Limburg]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/443100594/limburg-daan-doesborgh---olivier-willemsen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/443100594/limburg-daan-doesborgh---olivier-willemsen"/>
@@ -249,6 +220,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Misvattingen over de Shoah in Nederland]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444354611/misvattingen-over-de-shoah-in-nederland-guus-luijters</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444354611/misvattingen-over-de-shoah-in-nederland-guus-luijters"/>
+        <updated>2026-04-23T08:49:14.118Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444354611?aid=kb-online-bibliotheek&sid=21&dts=1776934124410&sig=7bdb1695054333d202a99cf753f5abc6beb56b3349f764fcdc9626ba03e2ace4&width=320" alt="Omslag van 'Misvattingen over de Shoah in Nederland'" title="Omslag van 'Misvattingen over de Shoah in Nederland'">
+<p>Het sluitstuk van een indrukwekkend oeuvre over de Tweede Wereldoorloog  Guus Luijters verwierf in 2012 grote bekendheid met zijn indrukwekkende boek In Memoriam – De gedeporteerde en vermoorde Joodse, Roma en Sinti kinderen 1942-1945, waarin hij 17.964 kinderen uit de anonimiteit van het grote getal haalde. Voor en na verschijning van dit boek deed hij meer dan vijftien jaar lang onderzoek naar de Tweede Wereldoorlog en volgden vele publicaties. Tijdens deze jaren merkte hij dat er vele misvattingen bestaan over de Shoah, waarvan hij hoopt dat hij die middels dit pamflet kan corrigeren. Dat is niet eenvoudig, schrijft hij: ‘Maar als het me lukt het beeld van  het Joods verzet te laten kantelen, zou ik mijn missie al als geslaagd beschouwen.’ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Guus Luijters</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lali]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/44310056X/lali-sasha-meyer</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/44310056X/lali-sasha-meyer"/>
@@ -258,6 +240,24 @@
 <p>Ontsnapt aan de nazi’s, gevlucht naar een dictatuur in Latijns-Amerika Een waargebeurde en meeslepende familiegeschiedenis Tsjechoslowakije, 1939. Lali Landsberger - joods, vermogend en gevierd springruiter – vlucht voor de nazi’s. Samen met haar tweede echtgenoot Smo Smolenski bouwt Lali in de Dominicaanse Republiek een nieuw leven op. Haar moeder en enige dochter blijven achter in het door oorlog verscheurde Europa. Al snel groeit de ranch van Lali en Smo uit tot een succesvol boerenbedrijf. Maar zowel de Dominicaanse dictator Trujillo als de FBI hebben het ondernemende echtpaar in het vizier. Voordat ze kunnen terugkeren naar Europa, komen ze bij een verdacht auto-ongeluk om het leven. Sasha Meyer neemt ons mee op haar persoonlijke zoektocht naar het levensverhaal van haar vrijgevochten grootmoeder. Waarom zweeg haar eigen moeder haar leven lang over Lali, maar liet ze wel een oude koffer met documenten, foto’s en vierhonderd brieven na? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Sasha Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het verhaal van Nederland – Amsterdam]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443100624/het-verhaal-van-nederland---amsterdam-femke-deen---marchien-den-hertog---emma-los</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443100624/het-verhaal-van-nederland---amsterdam-femke-deen---marchien-den-hertog---emma-los"/>
+        <updated>2026-04-23T08:49:17.209Z</updated>
+        <summary type="html"><![CDATA[Een nieuwe geschiedenis van onze hoofdstad]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443100624?aid=kb-online-bibliotheek&sid=21&dts=1776934025648&sig=06eef3ff757c62233004e940b3f533441f582bd2195998bb14b2067a3d552d33&width=320" alt="Omslag van 'Het verhaal van Nederland – Amsterdam'" title="Omslag van 'Het verhaal van Nederland – Amsterdam'">
+<p>Het boek bij de tv-serie Het verhaal van Nederland - AmsterdamHoe is Amsterdam ontstaan? En hoe wist de stad in de zeventiende eeuw uit te groeien tot een van de machtigste steden ter wereld? Het verhaal van Nederland – Amsterdam vertelt hoe een dorpje in een moeras uitgroeide tot de grootste stad van Nederland. Gebaseerd op de nieuwste inzichten van gerenommeerde historici vertelt dit boek bekende én onbekende verhalen over de hoofdstad van Nederland. Over gouden tijden en zwarte bladzijden, over arm en rijk, over hoogmoed en barmhartigheid. Van het Mirakel van Amsterdam tot aanleg van de grachtengordel. Van de sporen van de slavernij tot de Tweede Wereldoorlog. En van Provo en de krakersrellen tot Zwarte Riek en de RoXY. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Femke Deen</name>
+        </author>
+        <author>
+            <name>Marchien den Hertog</name>
+        </author>
+        <author>
+            <name>Emma Los</name>
         </author>
     </entry>
     <entry>
@@ -281,6 +281,17 @@
 <p>`Een opmerkelijk goede detective die zeer aan te raden is. New York Times Hercule Poirot is nog maar nauwelijks bekomen van de overtocht van Calais naar Dover als hij een brief ontvangt die hem dwingt dezelfde overtocht nog eens te maken, maar nu in omgekeerde richting. Paul Renauld, de bekende Zuid-Amerikaanse miljonair, voelt zich bedreigd en vraagt Poirot naar zijn Franse villa te komen. Poirot vertrekt meteen, maar hij is te laat. Als hij bij de villa aankomt is Renauld al dood. Agatha Christie (1890-1976) wordt vaak de `koningin van de misdaad genoemd. Al even beroemd als zijzelf werden haar scheppingen: de Belgische detective Hercule Poirot, de slimme, oude Miss Marple en het speurderspaar Tommy en Tuppence. Agatha Christie is, met ruim 3,2 miljard verkochte exemplaren, de bestverkopende auteur aller tijden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Agatha Christie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Southern Bookclub’s Guide to Slaying Vampires]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460268775/the-southern-bookclub-s-guide-to-slaying-vampires-grady-hendrix</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460268775/the-southern-bookclub-s-guide-to-slaying-vampires-grady-hendrix"/>
+        <updated>2026-04-23T08:49:21.401Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460268775?aid=kb-online-bibliotheek&sid=21&dts=1776934160643&sig=fa45c37cf3e5d476b6ad323cddc95ff4bfadd1599c0c6fd1157c47ba73d88c36&width=320" alt="Omslag van 'The Southern Bookclub’s Guide to Slaying Vampires'" title="Omslag van 'The Southern Bookclub’s Guide to Slaying Vampires'">
+<p>Patricia Campbells leven heeft nooit kleiner geleken. Haar man is te druk met zijn werk, haar kinderen hebben hun eigen levens, haar demente schoonmoeder heeft constante zorg nodig, en zelf loopt Patricia alleen maar achter de feiten aan. Het lichtpuntje is haar leesclub, een hecht groepje vrouwen die elkaar vinden in hun liefde voor true-crime en thrillers. Tijdens hun bijeenkomsten gaat het zowel over seriemoordenaars als het moederschap, hun huwelijk, en de buurtroddels. Aan dit voorspelbare leven komt een eind als Patricia James Harris ontmoet, een knappe vreemdeling die in de buurt is komen wonen om voor zijn zieke tante te zorgen, en die zich uiteindelijk bij hun leesclub aansluit. James is gevoelig en belezen, en hij bezorgt Patricia gevoelens die ze al jaren ontbeert. Maar iets aan hem klopt niet. Hij heeft geen bankrekening, hij komt overdag niet buiten, en Patricia’s schoonmoeder beweert bij hoog en bij laag dat ze hem kende toen zij nog een jong meisje was – onmogelijk. ‘Fantastisch… Het scherpzinnige commentaar en de sterke karakters maken dit ook voor niet-horrorfans een regelrechte aanrader!’ – USA Today ‘Hendrix strooit slim met verwijzingen naar vampierklassiekers, en zijn meesterschap in het oproepen van jarennegentignostalgie is de kers op de taart.’ – Kirkus Reviews </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Grady Hendrix</name>
         </author>
     </entry>
     <entry>
@@ -312,6 +323,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ingesneeuwd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460257811/ingesneeuwd-suzanne-vermeer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460257811/ingesneeuwd-suzanne-vermeer"/>
+        <updated>2026-04-18T07:55:35.875Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460257811?aid=kb-online-bibliotheek&sid=20&dts=1776498935573&sig=884b4730aa7872a3e753a21bd7b21b89c3580a915210ae1a0e1f131faa5231ef&width=320" alt="Omslag van 'Ingesneeuwd'" title="Omslag van 'Ingesneeuwd'">
+<p>Manouk vertrekt met vier collega’s naar de Italiaanse Alpen voor een midweek skiën, wellness en – hopelijk – een betere samenwerking. Want op kantoor is de spanning om te snijden. Maar zodra ze arriveren, sluit een hevige sneeuwstorm hen af van de buitenwereld. Al snel blijkt dat niet alleen het weer hen in de greep houdt...</p><p>Wanneer een van hen dood wordt aangetroffen in de vakantievilla, is niemand meer te vertrouwen. Verdacht gedrag, onuitgesproken conflicten en oude geheimen komen boven terwijl de sneeuw maar blijft vallen. En dan... wordt buiten nóg een lichaam gevonden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Suzanne Vermeer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Schrijven geeft kracht]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460257633/schrijven-geeft-kracht-marelle-boersma</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460257633/schrijven-geeft-kracht-marelle-boersma"/>
@@ -321,17 +343,6 @@
 <p>Een ingrijpende gebeurtenis, zoals ziekte, verlies of een scheiding, kan je wereld op zijn kop zetten. In deze moeilijke periode kun je verstrikt raken in een wirwar van emoties, zoals verdriet, woede, angst en onzekerheid.</p><p>In Schrijven geeft kracht ontdek je hoe schrijven helpt om grip te krijgen op je gevoelens en om rust te vinden in je hoofd. Door je woorden aan papier toe te vertrouwen, creëer je overzicht in de chaos en een uitweg voor je emoties. Ook kan schrijven je helpen om weer lichtpuntjes in het leven te zien en zelfs anderen tot steun te zijn.</p><p>Marelle Boersma deelt vele schrijfoefeningen en verschillende ervarings­verhalen, waaronder dat van haarzelf. Ga aan de slag met dit praktische en inspirerende boek en ervaar zelf de helende kracht van schrijven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marelle Boersma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ingesneeuwd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460257811/ingesneeuwd-suzanne-vermeer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460257811/ingesneeuwd-suzanne-vermeer"/>
-        <updated>2026-04-18T07:55:35.875Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460257811?aid=kb-online-bibliotheek&sid=20&dts=1776498935573&sig=884b4730aa7872a3e753a21bd7b21b89c3580a915210ae1a0e1f131faa5231ef&width=320" alt="Omslag van 'Ingesneeuwd'" title="Omslag van 'Ingesneeuwd'">
-<p>Manouk vertrekt met vier collega’s naar de Italiaanse Alpen voor een midweek skiën, wellness en – hopelijk – een betere samenwerking. Want op kantoor is de spanning om te snijden. Maar zodra ze arriveren, sluit een hevige sneeuwstorm hen af van de buitenwereld. Al snel blijkt dat niet alleen het weer hen in de greep houdt...</p><p>Wanneer een van hen dood wordt aangetroffen in de vakantievilla, is niemand meer te vertrouwen. Verdacht gedrag, onuitgesproken conflicten en oude geheimen komen boven terwijl de sneeuw maar blijft vallen. En dan... wordt buiten nóg een lichaam gevonden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Suzanne Vermeer</name>
         </author>
     </entry>
     <entry>
@@ -346,25 +357,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Southern Bookclub’s Guide to Slaying Vampires]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460268775/the-southern-bookclub-s-guide-to-slaying-vampires-grady-hendrix</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460268775/the-southern-bookclub-s-guide-to-slaying-vampires-grady-hendrix"/>
-        <updated>2026-04-23T08:49:21.401Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460268775?aid=kb-online-bibliotheek&sid=21&dts=1776934160643&sig=fa45c37cf3e5d476b6ad323cddc95ff4bfadd1599c0c6fd1157c47ba73d88c36&width=320" alt="Omslag van 'The Southern Bookclub’s Guide to Slaying Vampires'" title="Omslag van 'The Southern Bookclub’s Guide to Slaying Vampires'">
-<p>Patricia Campbells leven heeft nooit kleiner geleken. Haar man is te druk met zijn werk, haar kinderen hebben hun eigen levens, haar demente schoonmoeder heeft constante zorg nodig, en zelf loopt Patricia alleen maar achter de feiten aan. Het lichtpuntje is haar leesclub, een hecht groepje vrouwen die elkaar vinden in hun liefde voor true-crime en thrillers. Tijdens hun bijeenkomsten gaat het zowel over seriemoordenaars als het moederschap, hun huwelijk, en de buurtroddels. Aan dit voorspelbare leven komt een eind als Patricia James Harris ontmoet, een knappe vreemdeling die in de buurt is komen wonen om voor zijn zieke tante te zorgen, en die zich uiteindelijk bij hun leesclub aansluit. James is gevoelig en belezen, en hij bezorgt Patricia gevoelens die ze al jaren ontbeert. Maar iets aan hem klopt niet. Hij heeft geen bankrekening, hij komt overdag niet buiten, en Patricia’s schoonmoeder beweert bij hoog en bij laag dat ze hem kende toen zij nog een jong meisje was – onmogelijk. ‘Fantastisch… Het scherpzinnige commentaar en de sterke karakters maken dit ook voor niet-horrorfans een regelrechte aanrader!’ – USA Today ‘Hendrix strooit slim met verwijzingen naar vampierklassiekers, en zijn meesterschap in het oproepen van jarennegentignostalgie is de kers op de taart.’ – Kirkus Reviews </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De kunst van imperfect ouderschap]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447153684/de-kunst-van-imperfect-ouderschap-sophia-van-splunteren</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447153684/de-kunst-van-imperfect-ouderschap-sophia-van-splunteren"/>
+        <updated>2026-04-18T07:55:37.155Z</updated>
+        <summary type="html"><![CDATA[Een betere opvoeding begint bij jezelf]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447153684?aid=kb-online-bibliotheek&sid=20&dts=1776498936887&sig=98fa570ae37c0f22f20f7eff448c7688dc51f9cca9eea243850fae2307a973d7&width=320" alt="Omslag van 'De kunst van imperfect ouderschap'" title="Omslag van 'De kunst van imperfect ouderschap'">
+<p>Het ouderschap is voor velen het mooiste wat er is, maar het kan tegelijkertijd een van de grootste uitdagingen zijn. Want niets confronteert je zo met jezelf als de opvoeding van je kind. Het is dan ook niet gek dat veel ouders zich afvragen of ze het wel ‘goed’ doen.</p><p>Volgens opvoedcoach Sophia van Splunteren bestaat de perfecte opvoeding echter niet. In De kunst van imperfect ouderschap biedt ze heldere inzichten en praktische adviezen die je helpen om met meer rust, begrip en vertrouwen te navigeren door het doolhof van het ouderschap. Hiervoor combineert ze wetenschappelijke inzichten met herkenbare alledaagse voorbeelden uit de praktijk.</p><p>Met dit boek leer je jezelf beter kennen als ouder, leer je je kind dieper begrijpen en krijg je handvatten om het samen leuk te hebben én te houden. Want beter ouderschap begint bij bewustzijn: van jezelf, van je reacties en hoe die doorwerken in de relatie met je kind. Een onmisbare gids voor ouders die streven naar bewust, liefdevol en realistisch ouderschap, zonder de illusie van perfectie na te jagen.</p><p>"Een dikke tip. Verhelderend, herkenbaar, nuchter." - Marieke Elsinga </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Grady Hendrix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De instrumentalist]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44715348X/de-instrumentalist-harriet-constable</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44715348X/de-instrumentalist-harriet-constable"/>
-        <updated>2026-04-18T07:55:37.864Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44715348X?aid=kb-online-bibliotheek&sid=20&dts=1776498937664&sig=ade6b26f61757ad931f710574419f08b64b3bba33cc6a5a9ffb53fae90c8807f&width=320" alt="Omslag van 'De instrumentalist'" title="Omslag van 'De instrumentalist'">
-<p>De wees Anna Maria mag dan geen naam, bezit of familie hebben, maar ze heeft talent én ambitie. Haar hoop is gevestigd op haar vioolleraar, Antonio Vivaldi. Het duurt niet lang voor ze zijn sterpupil is. Maar het najagen van die ambitie zal alles wat ze liefheeft op de proef stellen. Vooral wanneer duidelijk wordt dat haar leraar Anna weliswaar zal leren wat hij weet – maar niet zonder iets terug te vragen…</p><p>Geïnspireerd op het waargebeurde verhaal van Anna Maria della Pietà, een Venetiaans weesmeisje dat niet alleen Vivaldi’s beste leerling, maar ook zijn muze werd.</p><p>‘Rijk gelaagd en barstensvol detail. Harriet Constable heeft haar hoofdpersoon echt tot leven gekust. Een betoverend epos over een vrouw met grootse dromen, in een tijd waarin er voor een weeskind weinig hoop bestond. Anna Maria is een personage dat je niet snel zult vergeten.’ – The New York Journal of Books</p><p>‘Een wervelwind van overweldigende, duizelingwekkende ambitie en kracht. Het ware verhaal van Anna Maria’s strijd om haar buitengewone talent te verwezenlijken is spectaculair beschreven – dit is historische fictie zoals het bedoeld is.’ – Mail on Sunday</p><p>‘Harriet Constable’s indrukwekkende debuut laat het Venetië van de achttiende eeuw kleurrijk tot leven komen. Ze vertelt niet alleen een verslavend verhaal over rivaliteit en ambitie – ze redt ook een geniale en onterecht vergeten vrouw uit de prullenmand van de geschiedenis.’ – The Sunday Times, Best Historical Fiction </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Harriet Constable</name>
+            <name>Sophia van Splunteren</name>
         </author>
     </entry>
     <entry>
