@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-05-03T08:43:48.781Z</updated>
+    <updated>2026-05-04T09:12:12.504Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -291,8 +291,8 @@
         <title type="html"><![CDATA[Jij blijft]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456524940/jij-blijft-gerard-van-emmerik</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/456524940/jij-blijft-gerard-van-emmerik"/>
-        <updated>2026-04-24T08:56:21.372Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456524940?aid=kb-online-bibliotheek&sid=21&dts=1777020980693&sig=be7db2f3b295c62ab0597342056c3dc0efb7e41a0aee796c52adda4efc34134d&width=320" alt="Omslag van 'Jij blijft'" title="Omslag van 'Jij blijft'">
+        <updated>2026-05-04T09:12:12.503Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456524940?aid=kb-online-bibliotheek&sid=21&dts=1777879513210&sig=a0155697adae12b8b52cc31b02aa18f5b2538d7349f9b6d6e0205d9aaa4d95d0&width=320" alt="Omslag van 'Jij blijft'" title="Omslag van 'Jij blijft'">
 <p>Hoe vertel je dat je doodgaat, en al snel, aan de man van wie je houdt? ***** Sam en Luc zijn al veertig jaar samen. Hun relatie is stabiel en overzichtelijk, totdat Sam te horen krijgt dat hij niet lang meer te leven heeft. Hij houdt het verborgen voor Luc, voorlopig tenminste. En dan, als hij het eindelijk wil vertellen, kantelt zijn leven opnieuw. JIJ BLIJFT is een intieme, indringende roman over liefde en dood, over wat we elkaar soms niet zeggen - en wat dat betekent. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Gerard van Emmerik</name>
