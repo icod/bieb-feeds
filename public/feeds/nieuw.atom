@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-05-04T09:12:12.504Z</updated>
+    <updated>2026-05-05T09:04:04.003Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -82,29 +82,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSI]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460420003/csi-barend-cochez</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460420003/csi-barend-cochez"/>
-        <updated>2026-04-28T09:14:17.475Z</updated>
-        <summary type="html"><![CDATA[In het hoofd en hart van een Brusselse sporenonderzoeker]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420003?aid=kb-online-bibliotheek&sid=21&dts=1777367656766&sig=83e7e0a88bc313b4050fa8e2d849b86b609cbe7f95e8f841d3925339b88f43b2&width=320" alt="Omslag van 'CSI'" title="Omslag van 'CSI'">
-<p>Wanneer Barend Cochez als rechercheur overstapt naar de federale gerechtelijke politie van Brussel, ontdekt hij zijn ware roeping: sporenonderzoek. Twaalf jaar lang is hij een van de stille krachten achter de Belgische CSI – een wereld waarin geen vingerspoor, bloedspat of schoenafdruk onopgemerkt blijft. De plekken waar Barend terechtkomt, zijn vaak moeilijk in woorden te vatten. Als forensisch expert duikt hij diep in spraakmakende criminele dossiers – op plaatsen waar anderen liever niet komen, in situaties die chaotisch en emotioneel beladen zijn. De luchthaven van Zaventem, het tragische decor van de dubbele aanslag in 2016, is slechts een van de vele locaties waar hij, samen met zijn team, in de nasleep van het onvoorstelbare sporen zoekt. Stukje bij beetje, gewapend met niets dan zijn scherpzinnigheid, expertise en eindeloos geduld. Dit boek biedt de lezer een unieke blik achter de schermen van het werk en leven van een sporenonderzoeker. Spannend, veeleisend en vaak gehuld in geheimzinnigheid, maar altijd doordrenkt met de menselijke realiteit van angst, verlies, hoop, frustratie en volharding. Hoe blijf je professioneel als het leed tastbaar is? Hoe verwerk je wat je ziet? En wat drijft iemand om dit werk dag in dag uit te doen? Een meeslepend relaas vol waargebeurde cases, verteld door een man die elke dag opnieuw de waarheid probeert te ontrafelen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Barend Cochez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De vliegende klas]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460420070/de-vliegende-klas-erich-k%C3%A4stner</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460420070/de-vliegende-klas-erich-k%C3%A4stner"/>
-        <updated>2026-04-28T09:14:16.667Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420070?aid=kb-online-bibliotheek&sid=21&dts=1777367656026&sig=6c2571a20f962d13b59db19c0f29b2f93e5f83589d3d8aa1bc04f8b255e7c7a3&width=320" alt="Omslag van 'De vliegende klas'" title="Omslag van 'De vliegende klas'">
-<p>Al jarenlang heerst er vijandschap tussen de leerlingen van het internaat in Kirchberg en die van de nabijgelegen middelbare school. Beide groepen bedenken de gekste streken om elkaar dwars te zitten. Maar wanneer de middelbare scholieren de notitieschriften van de gymnasiasten stelen en daarbij ook nog een leerling gevangennemen, is de lol eraf. Uli, Matthias en hun vrienden dagen de middelbare scholieren uit tot een allesbeslissend gevecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Erich Kästner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stupid Faces in Stunning Paintings]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460419986/stupid-faces-in-stunning-paintings-matthijs-van-mierlo</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460419986/stupid-faces-in-stunning-paintings-matthijs-van-mierlo"/>
@@ -127,6 +104,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Alleen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460420011/alleen-barbara-de-smedt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460420011/alleen-barbara-de-smedt"/>
+        <updated>2026-04-28T09:14:15.933Z</updated>
+        <summary type="html"><![CDATA[Wanneer liefde verandert in obsessie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420011?aid=kb-online-bibliotheek&sid=21&dts=1777360640972&sig=48d91e603729aab5e32d32fe5f6ed202e83c0f42105e6be4a27514f24abefab4&width=320" alt="Omslag van 'Alleen'" title="Omslag van 'Alleen'">
+<p>Julie Meskens heeft één droom: dierenarts worden. Na de plotse dood van haar moeder is dit haar houvast, haar reddingsboei. Niets of niemand kan haar afbrengen van haar Grote Plan. Niet de anonieme, onheilspellende telefoontjes. Niet de angstaanjagende stem die ze hoort roepen wanneer ze alleen thuis is. Zelfs niet haar onverwachte zwangerschap. Maar dan breekt De Dag aan waarop Julies wereld implodeert. In één klap verandert alles. Nu heeft ze nog maar één prioriteit: vechten. Niet langer voor haar droom, maar voor haar leven – en dat van haar ongeboren kind. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Barbara De Smedt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vliegende klas]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460420070/de-vliegende-klas-erich-k%C3%A4stner</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460420070/de-vliegende-klas-erich-k%C3%A4stner"/>
+        <updated>2026-04-28T09:14:16.667Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420070?aid=kb-online-bibliotheek&sid=21&dts=1777367656026&sig=6c2571a20f962d13b59db19c0f29b2f93e5f83589d3d8aa1bc04f8b255e7c7a3&width=320" alt="Omslag van 'De vliegende klas'" title="Omslag van 'De vliegende klas'">
+<p>Al jarenlang heerst er vijandschap tussen de leerlingen van het internaat in Kirchberg en die van de nabijgelegen middelbare school. Beide groepen bedenken de gekste streken om elkaar dwars te zitten. Maar wanneer de middelbare scholieren de notitieschriften van de gymnasiasten stelen en daarbij ook nog een leerling gevangennemen, is de lol eraf. Uli, Matthias en hun vrienden dagen de middelbare scholieren uit tot een allesbeslissend gevecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Erich Kästner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het monster onder mijn sterfbed]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46042002X/het-monster-onder-mijn-sterfbed-johan-sebastiaan-stuer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46042002X/het-monster-onder-mijn-sterfbed-johan-sebastiaan-stuer"/>
+        <updated>2026-04-28T09:14:14.812Z</updated>
+        <summary type="html"><![CDATA[Verzen en prenten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46042002X?aid=kb-online-bibliotheek&sid=21&dts=1777367654056&sig=84ef246763a648392480a70e55072631a3a1ea5ee86ded2ac2d0c5581d2500a9&width=320" alt="Omslag van 'Het monster onder mijn sterfbed'" title="Omslag van 'Het monster onder mijn sterfbed'">
+<p>Het monster onder mijn sterfbed is wakker. En het rijmt. In zijn vierde bundel haalt Johan Sebastiaan Stuer opnieuw uit met verzen die tegelijk geestig en genadeloos zijn. Stuer is scherp van tong en verrassend troostrijk in zijn zwartgalligheid. Hij weet als geen ander hoe je met lichte woorden zware dingen zegt. En omgekeerd. Een bundel om snel uit te lezen, voor het te laat is! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Johan Sebastiaan Stuer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De geheimen van de literatuur]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460420097/de-geheimen-van-de-literatuur-roel-richelieu-van-londersele</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460420097/de-geheimen-van-de-literatuur-roel-richelieu-van-londersele"/>
@@ -136,6 +148,30 @@
 <p>Een meeslepende inkijk in het literaire leven achter de coulissen én een praktische gids voor wie zelf wil schrijven. Roel Richelieu Van Londersele is dichter, schrijver en docent. Er valt veel te leren uit boeken, maar Van Londersele beleefde het ook vanop de eerste rij: de wilde, intense jaren in het gezelschap van literaire reuzen als Louis Paul Boon, Hugo Claus, Herman de Coninck, Marcel van Maele, Jeroen Brouwers, Jef Geeraerts, Menno Wigman en Paul Snoek. Van cafégesprekken tot juryruzies, van redactieraden tot diepgravende discussies over poëzie en proza − hij zat mee aan de tafel. De auteur neemt ons mee naar het kloppende hart van de Nederlandstalige literatuur. Niet alleen om de markante verhalen te delen, maar ook om de waardevolle inzichten en schrijfadviezen die hij daaruit destilleerde door te geven. Of je nu droomt van je eerste roman of worstelt met een dichtregel: dit boek inspireert, begeleidt en prikkelt. De geheimen van de literatuur is zowel een ode aan de groten van toen als een uitnodiging aan de schrijvers van nu en straks. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Roel Richelieu Van Londersele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 minuten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460420089/30-minuten-sandra-bekkari</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460420089/30-minuten-sandra-bekkari"/>
+        <updated>2026-04-28T09:14:12.352Z</updated>
+        <summary type="html"><![CDATA[80 nieuwe, gezonde recepten voor wie weinig tijd heeft]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420089?aid=kb-online-bibliotheek&sid=21&dts=1777367651796&sig=b4905cef96e6db0a838d9cefca8dba3cd6b589c226e02246f022e426d19ef950&width=320" alt="Omslag van '30 minuten'" title="Omslag van '30 minuten'">
+<p>‘Geen tijd’ is vanaf nu geen excuus meer. Sandra Bekkari maakt met dit boek en nieuwe reeks voor eens en voor altijd komaf met de bewering dat lekker en gezond koken heel wat tijd in beslag neemt. Sandra Bekkari serveert 80 gloednieuwe recepten boordevol smaak. Van voedzame ontbijtjes tot snelle snacks, van kleurrijke ovenschotels tot smaakvolle diners. Elke maaltijd zit boordevol goesting en staat in een mum van tijd op tafel. Of je nu ’s avonds weinig tijd hebt of liever in het weekend de oven het werk laat doen – dit boek past altijd bij jouw ritme. Verwacht gezonde toppers die perfect passen in een hectisch leven. '30 minuten' is verrassend veelzijdig en vooral razendsnel. Kortom, hét boek voor wie geen tijd te verliezen heeft, maar wel wil winnen aan levenskwaliteit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sandra Bekkari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSI]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460420003/csi-barend-cochez</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460420003/csi-barend-cochez"/>
+        <updated>2026-04-28T09:14:17.475Z</updated>
+        <summary type="html"><![CDATA[In het hoofd en hart van een Brusselse sporenonderzoeker]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420003?aid=kb-online-bibliotheek&sid=21&dts=1777367656766&sig=83e7e0a88bc313b4050fa8e2d849b86b609cbe7f95e8f841d3925339b88f43b2&width=320" alt="Omslag van 'CSI'" title="Omslag van 'CSI'">
+<p>Wanneer Barend Cochez als rechercheur overstapt naar de federale gerechtelijke politie van Brussel, ontdekt hij zijn ware roeping: sporenonderzoek. Twaalf jaar lang is hij een van de stille krachten achter de Belgische CSI – een wereld waarin geen vingerspoor, bloedspat of schoenafdruk onopgemerkt blijft. De plekken waar Barend terechtkomt, zijn vaak moeilijk in woorden te vatten. Als forensisch expert duikt hij diep in spraakmakende criminele dossiers – op plaatsen waar anderen liever niet komen, in situaties die chaotisch en emotioneel beladen zijn. De luchthaven van Zaventem, het tragische decor van de dubbele aanslag in 2016, is slechts een van de vele locaties waar hij, samen met zijn team, in de nasleep van het onvoorstelbare sporen zoekt. Stukje bij beetje, gewapend met niets dan zijn scherpzinnigheid, expertise en eindeloos geduld. Dit boek biedt de lezer een unieke blik achter de schermen van het werk en leven van een sporenonderzoeker. Spannend, veeleisend en vaak gehuld in geheimzinnigheid, maar altijd doordrenkt met de menselijke realiteit van angst, verlies, hoop, frustratie en volharding. Hoe blijf je professioneel als het leed tastbaar is? Hoe verwerk je wat je ziet? En wat drijft iemand om dit werk dag in dag uit te doen? Een meeslepend relaas vol waargebeurde cases, verteld door een man die elke dag opnieuw de waarheid probeert te ontrafelen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Barend Cochez</name>
         </author>
     </entry>
     <entry>
@@ -161,15 +197,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het monster onder mijn sterfbed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46042002X/het-monster-onder-mijn-sterfbed-johan-sebastiaan-stuer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46042002X/het-monster-onder-mijn-sterfbed-johan-sebastiaan-stuer"/>
-        <updated>2026-04-28T09:14:14.812Z</updated>
-        <summary type="html"><![CDATA[Verzen en prenten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46042002X?aid=kb-online-bibliotheek&sid=21&dts=1777367654056&sig=84ef246763a648392480a70e55072631a3a1ea5ee86ded2ac2d0c5581d2500a9&width=320" alt="Omslag van 'Het monster onder mijn sterfbed'" title="Omslag van 'Het monster onder mijn sterfbed'">
-<p>Het monster onder mijn sterfbed is wakker. En het rijmt. In zijn vierde bundel haalt Johan Sebastiaan Stuer opnieuw uit met verzen die tegelijk geestig en genadeloos zijn. Stuer is scherp van tong en verrassend troostrijk in zijn zwartgalligheid. Hij weet als geen ander hoe je met lichte woorden zware dingen zegt. En omgekeerd. Een bundel om snel uit te lezen, voor het te laat is! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Beginnen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46041996X/beginnen-angelo-tijssens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46041996X/beginnen-angelo-tijssens"/>
+        <updated>2026-04-28T09:14:08.552Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46041996X?aid=kb-online-bibliotheek&sid=21&dts=1777367647809&sig=afc2bb657958fd7ba6cdc17eb36780ef1c3a3140200b4cdd4f9dd609ba12b7c3&width=320" alt="Omslag van 'Beginnen'" title="Omslag van 'Beginnen'">
+<p>Hier, met mijn rug naar de grijze zee en mijn voeten in het zand, kijk ik naar de gele gevel van het hotel waar ik mijn tong eraf beet. In heldere, soms hallucinerende taal, graaft Angelo Tijssens in de sedimenten van een verdwenen jeugd. Wat blijft er over van een plek die je gevormd heeft, wanneer die plek langzaam verdwijnt? Beginnen is een associatieve vertelling over geboorte en verlies, over erfgoed en erosie, over mensen die passeren, blijven of vergeten worden. Maar ook over zongebruinde jobstudenten, garnaalkroketten, videocassettes en bonkende bassen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Johan Sebastiaan Stuer</name>
+            <name>Angelo Tijssens</name>
         </author>
     </entry>
     <entry>
@@ -185,6 +220,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(Peri)menopauze, so what?!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460420135/-peri-menopauze--so-what---sabine-de-leeuw</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460420135/-peri-menopauze--so-what---sabine-de-leeuw"/>
+        <updated>2026-04-28T09:14:10.031Z</updated>
+        <summary type="html"><![CDATA[12 minuten kettlebelloefeningen voor meer kracht en energie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420135?aid=kb-online-bibliotheek&sid=21&dts=1777367649351&sig=21d7768752c2482b36d43a9a0aa9a4f952eaf06ad47e180cdd9200db4e909ffa&width=320" alt="Omslag van '(Peri)menopauze, so what?!'" title="Omslag van '(Peri)menopauze, so what?!'">
+<p>Overal hoor je dat krachttraining hét antwoord is in de (peri)menopauze. Maar niemand vertelt hoe je ermee begint of hoe vaak je moet trainen. Tot nu. In (Peri)menopauze, so what?! krijg je eindelijk een helder, haalbaar én effectief antwoord: een krachtiger lichaam in slechts 12 minuten per dag en dat met één eenvoudige tool: de kettlebell. Geen dure toestellen of ingewikkelde schema's. Wel een concreet, veilig en doordacht programma dat werkt voor iedere vrouw die sterker wil worden in een veranderend lichaam. Kinesitherapeute Sabine De Leeuw begeleidt je aan de hand van handige foto's én video's stap voor stap door een krachtig 12-wekenprogramma. Daarnaast krijg je heldere informatie over voeding, supplementen, huidverzorging, fascia en de mentale impact van de (peri)menopauze, telkens afgestemd op jouw noden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sabine de Leeuw</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De waarheid]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460419994/de-waarheid-peter-de-graef</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460419994/de-waarheid-peter-de-graef"/>
@@ -196,15 +243,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beginnen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46041996X/beginnen-angelo-tijssens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46041996X/beginnen-angelo-tijssens"/>
-        <updated>2026-04-28T09:14:08.552Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46041996X?aid=kb-online-bibliotheek&sid=21&dts=1777367647809&sig=afc2bb657958fd7ba6cdc17eb36780ef1c3a3140200b4cdd4f9dd609ba12b7c3&width=320" alt="Omslag van 'Beginnen'" title="Omslag van 'Beginnen'">
-<p>Hier, met mijn rug naar de grijze zee en mijn voeten in het zand, kijk ik naar de gele gevel van het hotel waar ik mijn tong eraf beet. In heldere, soms hallucinerende taal, graaft Angelo Tijssens in de sedimenten van een verdwenen jeugd. Wat blijft er over van een plek die je gevormd heeft, wanneer die plek langzaam verdwijnt? Beginnen is een associatieve vertelling over geboorte en verlies, over erfgoed en erosie, over mensen die passeren, blijven of vergeten worden. Maar ook over zongebruinde jobstudenten, garnaalkroketten, videocassettes en bonkende bassen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Angelo Tijssens</name>
-        </author>
+        <title type="html"><![CDATA[Determined]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460420127/determined--</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460420127/determined--"/>
+        <updated>2026-04-28T09:14:09.240Z</updated>
+        <summary type="html"><![CDATA[Leven zonder vrije wil]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420127?aid=kb-online-bibliotheek&sid=21&dts=1777364772431&sig=43d602c64d4808d59e42b99a76fb5ba370a6a2975f227a27ed8820a546ca2b27&width=320" alt="Omslag van 'Determined'" title="Omslag van 'Determined'">
+<p>Wat als vrije wil een illusie is? In Determined daagt neurobioloog Robert Sapolsky een van onze diepst verankerde overtuigingen uit: het idee dat we zelf verantwoordelijk zijn voor onze daden. Op heldere, vaak verrassend lichtvoetige wijze laat hij zien hoe ons gedrag voortkomt uit een complexe wisselwerking van biologie, omgeving en toeval – factoren waar we uiteindelijk geen controle over hebben. Aan de hand van inzichten uit de neurowetenschappen, psychologie en evolutiebiologie ontmantelt Sapolsky stap voor stap de klassieke verdedigingen van vrije wil. Wat betekent dat voor hoe we denken over schuld, straf en verantwoordelijkheid? En hoe leven we samen in een wereld waarin niemand écht vrij kiest? Determined is een prikkelend en toegankelijk boek dat moeilijke vragen niet uit de weg gaat, maar juist uitnodigt tot herdenken. Geen pleidooi voor existentiële wanhoop, wel voor een rechtvaardiger en menselijker samenleving. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Niets gaat voorbij]]></title>
@@ -219,27 +264,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(Peri)menopauze, so what?!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460420135/-peri-menopauze--so-what---sabine-de-leeuw</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460420135/-peri-menopauze--so-what---sabine-de-leeuw"/>
-        <updated>2026-04-28T09:14:10.031Z</updated>
-        <summary type="html"><![CDATA[12 minuten kettlebelloefeningen voor meer kracht en energie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420135?aid=kb-online-bibliotheek&sid=21&dts=1777367649351&sig=21d7768752c2482b36d43a9a0aa9a4f952eaf06ad47e180cdd9200db4e909ffa&width=320" alt="Omslag van '(Peri)menopauze, so what?!'" title="Omslag van '(Peri)menopauze, so what?!'">
-<p>Overal hoor je dat krachttraining hét antwoord is in de (peri)menopauze. Maar niemand vertelt hoe je ermee begint of hoe vaak je moet trainen. Tot nu. In (Peri)menopauze, so what?! krijg je eindelijk een helder, haalbaar én effectief antwoord: een krachtiger lichaam in slechts 12 minuten per dag en dat met één eenvoudige tool: de kettlebell. Geen dure toestellen of ingewikkelde schema's. Wel een concreet, veilig en doordacht programma dat werkt voor iedere vrouw die sterker wil worden in een veranderend lichaam. Kinesitherapeute Sabine De Leeuw begeleidt je aan de hand van handige foto's én video's stap voor stap door een krachtig 12-wekenprogramma. Daarnaast krijg je heldere informatie over voeding, supplementen, huidverzorging, fascia en de mentale impact van de (peri)menopauze, telkens afgestemd op jouw noden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sabine de Leeuw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Determined]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460420127/determined--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460420127/determined--"/>
-        <updated>2026-04-28T09:14:09.240Z</updated>
-        <summary type="html"><![CDATA[Leven zonder vrije wil]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420127?aid=kb-online-bibliotheek&sid=21&dts=1777364772431&sig=43d602c64d4808d59e42b99a76fb5ba370a6a2975f227a27ed8820a546ca2b27&width=320" alt="Omslag van 'Determined'" title="Omslag van 'Determined'">
-<p>Wat als vrije wil een illusie is? In Determined daagt neurobioloog Robert Sapolsky een van onze diepst verankerde overtuigingen uit: het idee dat we zelf verantwoordelijk zijn voor onze daden. Op heldere, vaak verrassend lichtvoetige wijze laat hij zien hoe ons gedrag voortkomt uit een complexe wisselwerking van biologie, omgeving en toeval – factoren waar we uiteindelijk geen controle over hebben. Aan de hand van inzichten uit de neurowetenschappen, psychologie en evolutiebiologie ontmantelt Sapolsky stap voor stap de klassieke verdedigingen van vrije wil. Wat betekent dat voor hoe we denken over schuld, straf en verantwoordelijkheid? En hoe leven we samen in een wereld waarin niemand écht vrij kiest? Determined is een prikkelend en toegankelijk boek dat moeilijke vragen niet uit de weg gaat, maar juist uitnodigt tot herdenken. Geen pleidooi voor existentiële wanhoop, wel voor een rechtvaardiger en menselijker samenleving. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stressvrij leven met ADHD]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460420054/stressvrij-leven-met-adhd-s%C3%A9verine-van-de-voorde</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460420054/stressvrij-leven-met-adhd-s%C3%A9verine-van-de-voorde"/>
@@ -249,30 +273,6 @@
 <p>Razen er ook honderden gedachten tegelijkertijd door jouw hoofd? Hop je van het een naar het ander en laat je een spoor van onafgewerkte taken achter? Heb je last van uitstelgedrag, of raak je snel afgeleid en droom je regelmatig weg? Verlies je vaak de tijd uit het oog en raak je geregeld spullen kwijt? Dan heb je misschien wel ADHD. Mogelijk kreeg je die diagnose al als kind, of pas op latere leeftijd. Of het werd nooit vastgesteld, maar je hebt wel een vermoeden. In dit boek kom je alles te weten over ADHD. Je krijgt belangrijke achtergrondinformatie én concrete tips om met struikelblokken om te gaan, zodat je een stressvrij leven kunt leiden. Met bijzondere aandacht voor personen bij wie ADHD vaak onopgemerkt blijft, zoals vrouwen, mensen die hoogsensitief en/of hoogintelligent zijn, perfectionisten en pleasers. Zo transformeer je de chaos in je hoofd en je omgeving naar overzicht en rust. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Séverine Van De Voorde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alleen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460420011/alleen-barbara-de-smedt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460420011/alleen-barbara-de-smedt"/>
-        <updated>2026-04-28T09:14:15.933Z</updated>
-        <summary type="html"><![CDATA[Wanneer liefde verandert in obsessie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420011?aid=kb-online-bibliotheek&sid=21&dts=1777360640972&sig=48d91e603729aab5e32d32fe5f6ed202e83c0f42105e6be4a27514f24abefab4&width=320" alt="Omslag van 'Alleen'" title="Omslag van 'Alleen'">
-<p>Julie Meskens heeft één droom: dierenarts worden. Na de plotse dood van haar moeder is dit haar houvast, haar reddingsboei. Niets of niemand kan haar afbrengen van haar Grote Plan. Niet de anonieme, onheilspellende telefoontjes. Niet de angstaanjagende stem die ze hoort roepen wanneer ze alleen thuis is. Zelfs niet haar onverwachte zwangerschap. Maar dan breekt De Dag aan waarop Julies wereld implodeert. In één klap verandert alles. Nu heeft ze nog maar één prioriteit: vechten. Niet langer voor haar droom, maar voor haar leven – en dat van haar ongeboren kind. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Barbara De Smedt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 minuten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460420089/30-minuten-sandra-bekkari</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460420089/30-minuten-sandra-bekkari"/>
-        <updated>2026-04-28T09:14:12.352Z</updated>
-        <summary type="html"><![CDATA[80 nieuwe, gezonde recepten voor wie weinig tijd heeft]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460420089?aid=kb-online-bibliotheek&sid=21&dts=1777367651796&sig=b4905cef96e6db0a838d9cefca8dba3cd6b589c226e02246f022e426d19ef950&width=320" alt="Omslag van '30 minuten'" title="Omslag van '30 minuten'">
-<p>‘Geen tijd’ is vanaf nu geen excuus meer. Sandra Bekkari maakt met dit boek en nieuwe reeks voor eens en voor altijd komaf met de bewering dat lekker en gezond koken heel wat tijd in beslag neemt. Sandra Bekkari serveert 80 gloednieuwe recepten boordevol smaak. Van voedzame ontbijtjes tot snelle snacks, van kleurrijke ovenschotels tot smaakvolle diners. Elke maaltijd zit boordevol goesting en staat in een mum van tijd op tafel. Of je nu ’s avonds weinig tijd hebt of liever in het weekend de oven het werk laat doen – dit boek past altijd bij jouw ritme. Verwacht gezonde toppers die perfect passen in een hectisch leven. '30 minuten' is verrassend veelzijdig en vooral razendsnel. Kortom, hét boek voor wie geen tijd te verliezen heeft, maar wel wil winnen aan levenskwaliteit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sandra Bekkari</name>
         </author>
     </entry>
     <entry>
@@ -299,18 +299,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De machtscode]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46041349X/de-machtscode-marietje-schaake</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46041349X/de-machtscode-marietje-schaake"/>
-        <updated>2026-04-27T09:13:29.920Z</updated>
-        <summary type="html"><![CDATA[Hoe de onzichtbare belangenstrijd achter AI onze democratie bedreigt]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46041349X?aid=kb-online-bibliotheek&sid=21&dts=1777195602178&sig=74d880237a6f596d7ab789c24c76f4b1cd9d2b73fcaa8229c537beffb94e8263&width=320" alt="Omslag van 'De machtscode'" title="Omslag van 'De machtscode'">
-<p>De kans is groot dat je dagelijks AI gebruikt – voor een recept, een samenvatting, een boekentip. Nooit eerder omarmden we een nieuwe technologie zo snel, en nooit werd er zo massaal in geïnvesteerd. Van scholen tot het leger en de overheid: overal wordt AI ingezet. Maar met elke stap geven we de democratische controle verder uit handen. De grote vraag is: aan wie, en met welke gevolgen? In dit heldere pamflet ontleedt technologie-expert Marietje Schaake de machtsstrijd achter AI en laat ze zien waarom – en hoe – Europa en Nederland daar een politiek antwoord op moeten formuleren. Reacties: ‘Tegen de AI-hysterie, voor democratische grip op AI. Marietje Schaake wijst de weg.’ – Sander Schimmelpenninck ‘Marietje Schaake stelt ongemakkelijke en noodzakelijke vragen over de macht van AI.’ – Marleen Stikker 'Marietje Schaake opent je de ogen voor wat er bij AI op het spel staat.' – Ilyaz Nasrullah 'Als vrijheid, privacy en democratie je lief zijn, lees dit boek. Marietje Schaake laat zien hoe wij AI kunnen beheersen in plaats van dat het ons beheerst.' – Eva Rovers </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marietje Schaake</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Toen hij verdween]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460413546/toen-hij-verdween-vera-van-beers</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460413546/toen-hij-verdween-vera-van-beers"/>
@@ -320,6 +308,18 @@
 <p>Drie jaar geleden verdween de man van Josie Fields spoorloos tijdens hun vakantie in Engeland. Hij vertrok vroeg in de ochtend om te gaan vissen en kwam nooit meer terug. Geen lichaam. Geen antwoorden. Alleen onzekerheid. Josie kan hem niet loslaten. Tegen beter weten in verhuist ze naar Midsburry, het dorp waar hij voor het laatst werd gezien. Daar wacht ze - op een teken, een verklaring, of misschien op zijn terugkeer.  Wanneer in de rivier een lichaam wordt gevonden, gewikkeld in zwart plastic, wordt Josies hoop in één klap omgezet in angst. Is dit haar man? En als dat zo is, waarom is hij zo begraven? Welke geheimen nam hij mee het water in? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Vera van Beers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De machtscode]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46041349X/de-machtscode-marietje-schaake</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46041349X/de-machtscode-marietje-schaake"/>
+        <updated>2026-04-27T09:13:29.920Z</updated>
+        <summary type="html"><![CDATA[Hoe de onzichtbare belangenstrijd achter AI onze democratie bedreigt]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46041349X?aid=kb-online-bibliotheek&sid=21&dts=1777195602178&sig=74d880237a6f596d7ab789c24c76f4b1cd9d2b73fcaa8229c537beffb94e8263&width=320" alt="Omslag van 'De machtscode'" title="Omslag van 'De machtscode'">
+<p>De kans is groot dat je dagelijks AI gebruikt – voor een recept, een samenvatting, een boekentip. Nooit eerder omarmden we een nieuwe technologie zo snel, en nooit werd er zo massaal in geïnvesteerd. Van scholen tot het leger en de overheid: overal wordt AI ingezet. Maar met elke stap geven we de democratische controle verder uit handen. De grote vraag is: aan wie, en met welke gevolgen? In dit heldere pamflet ontleedt technologie-expert Marietje Schaake de machtsstrijd achter AI en laat ze zien waarom – en hoe – Europa en Nederland daar een politiek antwoord op moeten formuleren. Reacties: ‘Tegen de AI-hysterie, voor democratische grip op AI. Marietje Schaake wijst de weg.’ – Sander Schimmelpenninck ‘Marietje Schaake stelt ongemakkelijke en noodzakelijke vragen over de macht van AI.’ – Marleen Stikker 'Marietje Schaake opent je de ogen voor wat er bij AI op het spel staat.' – Ilyaz Nasrullah 'Als vrijheid, privacy en democratie je lief zijn, lees dit boek. Marietje Schaake laat zien hoe wij AI kunnen beheersen in plaats van dat het ons beheerst.' – Eva Rovers </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marietje Schaake</name>
         </author>
     </entry>
     <entry>
