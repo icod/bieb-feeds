@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-05-07T09:26:49.198Z</updated>
+    <updated>2026-05-08T08:18:03.467Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Maanoog]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460572067/maanoog-tony-hiemstra</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460572067/maanoog-tony-hiemstra"/>
+        <updated>2026-05-08T08:18:03.466Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460572067?aid=kb-online-bibliotheek&sid=21&dts=1778225370507&sig=8d7e996c50be57e0090156727750024d1b583b000247697359edd0af554cacd7&width=320" alt="Omslag van 'Maanoog'" title="Omslag van 'Maanoog'">
+<p>De wereld van de jonge Flann verandert voorgoed wanneer hij met zijn ouders de overtocht maakt naar Engeland, in de hoop op een beter leven. Flann droomt ervan om net als zijn vader kuiper te worden: stevige vaten maken en samen werken in hun eigen kuiperij. Maar al snel ontdekt hij dat de schuimende inhoud van de vaten die zijn vader maakt niet alleen voor brood op de plank zorgt. Hij kan ook levens verwoesten. Op een dag wordt Flann geconfronteerd met de verwoestende kracht van bier. Oog in oog met het gevaar - en zichzelf - moet hij beslissen: blijft hij in de schaduw van zijn vader, of kiest hij zijn eigen weg? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tony Hiemstra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fatale verleiding]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444516077/fatale-verleiding-sharon-kendrick</id>
@@ -329,17 +340,6 @@
 <p>Alle moeders haten mij van Sarah Harman is het debuut van dit jaar dat je gelezen moet hebben; slim, grappig en met een twist. Florence Grimes, feestbeest en voormalig zangeres in een populaire girlband, heeft maar één reden om elke dag uit bed te komen: haar tienjarige zoon Dylan. Tijdens een schoolreisje verdwijnt Alfie Risby, de pestkop van haar zoon en erfgenaam van een zakenimperium. Wanneer Dylan als hoofdverdachte wordt aangewezen, doet Florence er alles aan om hem vrij te pleiten. Het enige probleem: alle moeders haten haar. En Florence heeft een reden om te vermoeden dat Dylan misschien niet zo onschuldig is als ze zo graag zou willen geloven... ‘Een heerlijke mix van geheimen, heerlijke humor en een onvergetelijke hoofdpersoon.’ Liv Constantine ‘Een fantastische en originele thriller vol twists.’ Jessica Knoll ‘Alles aan dit boek is uniek en spannend. Puur komisch goud.’ FirstClue  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Sarah Harman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De wet of de liefde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444516034/de-wet-of-de-liefde-nora-roberts</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444516034/de-wet-of-de-liefde-nora-roberts"/>
-        <updated>2026-05-07T09:26:49.198Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444516034?aid=kb-online-bibliotheek&sid=21&dts=1778142405517&sig=86b453174b550b68290e9bcddfa905e1a4602ba21215dd6ecb4bed18832858a3&width=320" alt="Omslag van 'De wet of de liefde'" title="Omslag van 'De wet of de liefde'">
-<p>Ze zou hem het liefst voor altijd achter de tralies zetten… zo gevaarlijk is hij voor haar hart!Het is puur toeval dat regisseur Philip Kinkaid terechtkomt in Friendly, New Mexico, en in eerste instantie is hij bepaald niet gecharmeerd van het stoffige, slaperige stadje. Maar wanneer hij wordt hij opgepakt voor te hard rijden, beseft hij dat dit gehucht dé ideale locatie is voor zijn nieuwe speelfilm - en dat Victoria Ashton, de aantrekkelijke sheriff die hem zonder pardon in de cel gooit, precies de vrouw is op wie hij altijd heeft gewacht. Alleen lijkt zij niet erg van hem onder de indruk te zijn!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nora Roberts</name>
         </author>
     </entry>
 </feed>
