@@ -2,11 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-05-21T10:34:07.741Z</updated>
+    <updated>2026-05-22T10:19:33.314Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Gefärliches Spiel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442548834/gef%C3%A4rliches-spiel-hester-reeder</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442548834/gef%C3%A4rliches-spiel-hester-reeder"/>
+        <updated>2026-05-22T10:19:29.486Z</updated>
+        <summary type="html"><![CDATA[Ein Texel-Thriller]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442548834?aid=kb-online-bibliotheek&sid=21&dts=1779433327945&sig=662ea533f9c28fd5be9efb6df4395b0f2af1f907a9f1909e879ea16784d2e43b&width=320" alt="Omslag van 'Gefärliches Spiel'" title="Omslag van 'Gefärliches Spiel'">
+<p>Nach vielen Jahren kehrt Fenna auf ihre Geburtsinsel Texel zurück. Rosa, ihre Nachbarin, war noch nie so glücklich und hofft, sich endlich mit dem kleinen Mädchen von früher versöhnen zu können, denn eine unglückliche und betrügerische Entscheidung lastet auf ihrem Gewissen. Auch Dex, ein Nachbarjunge von damals, fragt sich, was wohl aus dem Mädchen mit den langen Zöpfen und fröhlichen Sommersprossen geworden ist. Er stößt auf eine undurchdringliche Mauer der Zurückhaltung und trifft die Entscheidung, herauszufinden, was sich hinter der eisigen, ausdruckslosen Fassade von Fenna versteckt. Sie hat sich ganz darauf konzentriert, ihren langjährigen Todfeind endgültig zu besiegen, bevor er die Oberhand gewinnt. Der Psychopath erweist sich jedoch als ebenbürtiger Gegner, so dass der Konflikt nur ein Ergebnis haben kann: die Vernichtung des Gegenspielers. Dabei begibt Fenna sich bewusst in Gefahr, den vermutlichen Feind aus seiner Deckung zu locken, und übersieht, dass sie aus mehreren Richtungen ins Visier genommen wird. Ein atemberaubender, romantischer Thriller auf der wunderschönen Insel Texel. Hass und Liebe stehen sich gegenüber, bekämpfen sich, überraschende Intrigen werden geschmiedet, es kommt zu schockierenden Wendungen, was sich zu einer faszinierenden Scharade um Leben und Tod hochschaukelt, bis dass die Maske fällt, Spannung bis zum Schluss. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hester Reeder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kate]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/382823966/kate-hester-reeder</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/382823966/kate-hester-reeder"/>
+        <updated>2026-05-22T10:19:30.030Z</updated>
+        <summary type="html"><![CDATA[nooit meer terug]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A382823966?aid=kb-online-bibliotheek&sid=21&dts=1779434319951&sig=88ba36e49ab09d81c3e760f2effc34a38d2bfbc9c3c71dc5700e9ffbac6dfc02&width=320" alt="Omslag van 'Kate'" title="Omslag van 'Kate'">
+<p>De prille liefde tussen twee tieners wordt plotseling verbroken als het meisje vertrekt uit haar woonplaats; zestien jaar later wordt pas duidelijk waarom.</p>]]></content>
+        <author>
+            <name>Hester Reeder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amy]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/38282394X/amy-hester-reeder</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/38282394X/amy-hester-reeder"/>
+        <updated>2026-05-22T10:19:30.570Z</updated>
+        <summary type="html"><![CDATA[verborgen waarheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A38282394X?aid=kb-online-bibliotheek&sid=21&dts=1779433963738&sig=f4594ab9601d4461652d19856936847eb6be8ce35d4b0996bb12da991a607878&width=320" alt="Omslag van 'Amy'" title="Omslag van 'Amy'">
+<p>Een Ierse psychologe krijgt opdracht ombinnen een rechercheteam een moord te onderzoeken die drie jaar eerder is gepleegd.</p>]]></content>
+        <author>
+            <name>Hester Reeder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fenna]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/417793308/fenna-hester-reeder</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/417793308/fenna-hester-reeder"/>
+        <updated>2026-05-22T10:19:31.064Z</updated>
+        <summary type="html"><![CDATA[Morgen is een nieuwe dag]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417793308?aid=kb-online-bibliotheek&sid=21&dts=1779431879917&sig=8b9042d778b6c90eeb894bea73ef4349ad41a1c020a85d73612c86d70100feb3&width=320" alt="Omslag van 'Fenna'" title="Omslag van 'Fenna'">
+<p>Een jonge vrouw keert terug naar haar geboorte-eiland Texel, maar kan pas ontspannen nadat zij haar vijand die haar wil doden, heeft uitgeschakeld.</p>]]></content>
+        <author>
+            <name>Hester Reeder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verloren in stilte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/429458274/verloren-in-stilte-hester-reeder</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/429458274/verloren-in-stilte-hester-reeder"/>
+        <updated>2026-05-22T10:19:31.557Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429458274?aid=kb-online-bibliotheek&sid=21&dts=1779432678474&sig=6948f616c19ec3714523a457902fff5753cce530ab7a9aadac3a7a8449efbd3e&width=320" alt="Omslag van 'Verloren in stilte'" title="Omslag van 'Verloren in stilte'">
+<p>Na het overlijden van haar oma besluit Fee, columniste van een tijdschrift, om haar werk voorlopig dicht bij huis voort te zetten, zodat ze er voor haar opa Ben kan zijn. Fee schrijft over het leven van mensen en hun bijzonderheden. Vol enthousiasme start ze haar project op het eiland Texel, in het centrum van Den Burg. Haar eerste ontmoeting met de bewoners van restaurant de Kastanjeboom, over wie haar artikel zal gaan, begint behoorlijk stormachtig. Vooral de eigenaar, Zack Gallagher, een norse en tegelijkertijd aantrekkelijke Ier, maakt een verpletterende eerste indruk op Fee. Vastbesloten als ze is, wil ze er een sprankelend stuk van maken. Tijdens haar onderzoek doet ze echter raadselachtige ontdekkingen en niet iedereen is blij met haar speurtocht naar een mooi verhaal. Dat, samen met plotselinge confrontaties uit haar eigen verleden, doen Fee in een gevaarlijk avontuur belanden. Een spannende romantische thriller en het eerste deel van de trilogie, die zich op het Waddeneiland Texel afspeelt. Elk boek heeft zijn eigen verhaal, waarin nieuwe hoofdpersonen verwikkeld raken in een gevaarlijk avontuur en tegelijkertijd geraakt worden door de liefde. Ontroerend is de warme, meeslepende rode draad die door deze boekenreeks loopt van het begin tot het einde. Hester Reeder woont op Texel en inmiddels is dit haar vierde romantische thriller. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hester Reeder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verloren in duisternis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43729773X/verloren-in-duisternis-hester-reeder</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43729773X/verloren-in-duisternis-hester-reeder"/>
+        <updated>2026-05-22T10:19:32.061Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43729773X?aid=kb-online-bibliotheek&sid=21&dts=1779433347916&sig=232f73e8ab8236b19e2ddc81021005fdd9e35fac97899c3f7f6300cfaa49c2d4&width=320" alt="Omslag van 'Verloren in duisternis'" title="Omslag van 'Verloren in duisternis'">
+<p>Conner Maes is een goed getrainde commando en wordt voor zijn werk op Texel geplaatst. Hij gaat undercover aan de slag als werknemer bij Maritiem- en Juttersmuseum Flora. Dit keer is zijn missie zeer speciaal. Het is de bedoeling dat hij Eva, de dochter van zijn leidinggevende, gaat beschermen. Eva heeft een zwaar verlies geleden. Niemand, behalve zijzelf, weet wat er precies gebeurd is. Het is aan Conner om over haar te waken en proberen te achterhalen in welk gevaar zij verkeert. Waar hij niet op gerekend heeft, is dat de ogenschijnlijk wispelturige en nerveuze Eva meer met hem doet dan hij ooit had kunnen bedenken. Zijn professionaliteit wordt daardoor aardig op de proef gesteld. Tegelijkertijd wil Conner, nu hij op het eiland is, de familiebanden aanhalen. Een missie van hemzelf, die hij al te lang heeft uitgesteld. Samen met zijn zussen Isolde en Fee staat hij voor een moeilijke keuze: willen ze door het verleden ingehaald worden en daarmee een nieuw begin maken? Conner raakt door zijn werk en zijn verleden verstrikt in een wirwar van leugens, gevaar en liefde. Hij zal alles op alles moeten zetten om zijn missies tot een goed einde te brengen. Een spannende romantische thriller en het tweede deel van de trilogie die zich op het Waddeneiland Texel afspeelt. Net als deel een, heeft ook dit boek zijn eigen verhaal en maakt de lezer kennis met nieuwe personages. De meeslepende rode draad in deze boekenreeks krijgt een emotioneel vervolg. Hester Reeder woont op Texel en dit is haar vijfde romantische thriller. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hester Reeder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verloren in zonde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446929263/verloren-in-zonde-hester-reeder</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446929263/verloren-in-zonde-hester-reeder"/>
+        <updated>2026-05-22T10:19:32.703Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446929263?aid=kb-online-bibliotheek&sid=21&dts=1779445172170&sig=d1dbc782a88e88c6c44be1577c913364968bb76760d36a352679cbb0e985e18e&width=320" alt="Omslag van 'Verloren in zonde'" title="Omslag van 'Verloren in zonde'">
+<p>Isolde Blanchard is een rijke weduwe geworden na het overlijden van haar man, Xavier. Zij rouwt om het verlies van haar beste vriend en weet als enige waarom zij een geweldig, getrouwd koppel waren. Door het leeftijdsverschil van meer dat vijftig jaar, heeft ze al heel wat roddel en achterklap te verduren gehad, omdat ze wordt gezien als een golddigger. Echter, dat is niet het enige wat haar achtervolgt. Ze moet nu zonder haar man de leiding nemen in zijn bedrijf. Het schoenenconcern Chique, dat zij beloofd heeft voort te zetten. Xaviers haatdragende, onterfde zoon Raoul, zint op wraak en heeft maar één doel: zijn stiefmoeder zonder eerlijk gevecht kapotmaken. Maar ook andere geldwolven liggen op de loer om via Isolde rijk te willen worden en ineens lijkt de dreiging van meerdere kanten te komen. Aan Isolde om het gevecht aan te gaan. Wie kan zij vertrouwen en wie hebben het op haar gemunt? Haar teruggetrokken leven op haar geboorte-eiland Texel wordt nog eens extra op zijn kop gezet wanneer Alex Roosbergen, een vriend uit haar recente verleden, haar keer op keer verrast met zijn innemende charme en grenzeloos geduld. Moet ze hem blijven weren of durft ze haar hart eindelijk te laten spreken? De meeslepende rode draad in deze trilogie krijgt een aangrijpende wending. Want ook het verleden met haar broer Conner en zus Fee blijft haar achtervolgen en daar schuilt meer gevaar in dan ze had kunnen vermoeden. Eens zal Isolde achterom moeten kijken om te kunnen beslissen wat haar rol in dit alles is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hester Reeder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubberboot]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460640550/rubberboot-vincent-delecroix</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460640550/rubberboot-vincent-delecroix"/>
+        <updated>2026-05-22T10:19:32.914Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460640550?aid=kb-online-bibliotheek&sid=21&dts=1779432704432&sig=13ca3294e0ffc3c9bb5b4ad9cdb82c0a1e791c60981b73b2aed6d94a3bb93dff&width=320" alt="Omslag van 'Rubberboot'" title="Omslag van 'Rubberboot'">
+<p>'Een essentieel verhaal dat verteld moet worden.' Dua Lipa In 'Rubberboot', gebaseerd op een tragedie in het Kanaal in 2021 waarbij 27 migranten de dood vonden, onderzoekt een gekwelde kustwachtmedewerker haar geweten. 'Een meedogenloos gebruik van literatuur om de meest ongemakkelijke maar dringende vraag van onze tijd te stellen: in welke mate zijn wij allemaal medeplichtig?' Jury International Booker Prize 2025 'Pijnlijk, meeslepend en genadig kort, met een krachtige onderstroom.' Times Literary Supplement </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Vincent Delecroix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mensen in de oorlog]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460640542/mensen-in-de-oorlog-andreas-latzko</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460640542/mensen-in-de-oorlog-andreas-latzko"/>
+        <updated>2026-05-22T10:19:33.131Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460640542?aid=kb-online-bibliotheek&sid=21&dts=1779429684276&sig=d4dfb358b5e09f10c2ae38764f1d19cdadab51383e810f6d0fefda8c78197879&width=320" alt="Omslag van 'Mensen in de oorlog'" title="Omslag van 'Mensen in de oorlog'">
+<p>'"Mensen in de oorlog" kwam als een verlossing.' Stefan Zweig In dit meesterwerk van Andreas Latzko is de grimas van de oorlog onverbloemd en onverhuld zichtbaar. Zijn doel was om mensen met zijn taal te grijpen en de ogen te openen. Want alleen datgene wat mensen dwingt zelf te voelen, door hun verbeelding te prikkelen, kunnen ze hun medemensen niet aandoen. Andreas Latzko gebruikte zijn ervaringen als vrijwilliger aan het front om verschillende standpunten over de oorlog weer te geven. Hij schrijft over duistere instincten, over kwellingen en overgeleverd zijn aan de verschrikkingen van oorlog. 'Mensen in de oorlog', voor het eerst gepubliceerd in 1917, verscheen in dertig talen en was in Duitsland lange tijd verboden. Het is niet alleen een meeslepend literair werk, maar ook een belangrijk historisch verslag. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Andreas Latzko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feest in Freetown]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460640534/feest-in-freetown-marnel-breure</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460640534/feest-in-freetown-marnel-breure"/>
+        <updated>2026-05-22T10:19:33.312Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460640534?aid=kb-online-bibliotheek&sid=21&dts=1779432720701&sig=9d36522fefbbd741b93f2f01be76f9b69793c6dd07d20814f51f5199e59114ca&width=320" alt="Omslag van 'Feest in Freetown'" title="Omslag van 'Feest in Freetown'">
+<p>Marnel Breure woont en werkt sinds vijf jaar in Freetown. In al die tijd heeft ze nooit bezoek uit Nederland gehad. Het thuisfront gaat ervan uit dat de hoofdstad van Sierra Leone een gevaarlijke plek is, getekend door burgeroorlog, ebola en andere rampspoed. Breure is vanaf haar eerste bezoek aan Freetown juist gegrepen door de overlevingskunst van de bewoners: na elke tegen slag veren de Freetonians weer op. Freetown is muziek, eten en drinken, seksen en sjansen, feesten en dansen. Gaandeweg dringt Breure dieper door in de psyche van de stad. Ze raakt bevriend met Tamba, de filosofische denker met één hand. En met de flamboyante kroegbazin Obama. Wanneer ze met haar geliefde, de berooide reggaezanger Rasmo, een taxibedrijf begint, raakt ze verstrikt in een web van leugens, corruptie en bedrog. Niet lang daarna duikt de meest gezochte drugshandelaar van Nederland in Sierra Leone op. Marnel Breure is journalist en schrijver. Meer dan dertig jaar reisde ze regelmatig naar West-Afrika. Haar boek 'Het land van Legba' gaat over goed en kwaad in de voodoocultuur. Ook schreef ze een boek over India, 'Dochters van Durga'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marnel Breure</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De toekomst is van iedereen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460626787/de-toekomst-is-van-iedereen-niko-roorda---michael-renssen</id>
@@ -237,123 +351,6 @@
 <p>Achteloos is het eerste woord dat verdwijnt, achteloos, en niemand heeft het door. Ekster en geld worden meer gemist. Maar pas bij het verlies van geel ontstaat er echt onrust, als de zonzeggers en kaaszeggers tegenover elkaar komen te staan. Woordenziekte? Taalsabotage? Betekeniscomplot? Niemand weet waar de woorden zijn gebleven of hoe ze moeten worden bewaard. De regering stelt een tijdelijke taal change voor naar het Engels, dat is ook goed voor het bedrijfsleven. Een groepje denkers en dichters legt zich er niet bij neer. De verdwenen woorden drukken iets uit wat niet anders gezegd kan worden, iets wat we nodig hebben om elkaar te bereiken. Maar hoe kun je je verzetten als je de woorden mist om je gedachten vorm te geven? Hoe red je de taal, als het woord taal verdwenen is? En wie heeft er baat bij als mensen voortdurend naar woorden moeten zoeken? In Een woord voor laat Eva Meijer zien wat er gebeurt als we de taal kwijtraken waarin we met elkaar kunnen praten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Eva Meijer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doodslag]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460617389/doodslag-helen-h--durrant</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460617389/doodslag-helen-h--durrant"/>
-        <updated>2026-05-18T11:00:26.859Z</updated>
-        <summary type="html"><![CDATA[Een intens spannende serial killer thriller]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460617389?aid=kb-online-bibliotheek&sid=21&dts=1779096815046&sig=caca7e6b6486c724a857dcbceab0883882b45f4d82a190c1cee041495b16f623&width=320" alt="Omslag van 'Doodslag'" title="Omslag van 'Doodslag'">
-<p>Ontdek Helen H. Durrant, de Britse auteur met 3 miljoen gelezen thrillers:  Een verlaten katoenfabriek herbergt gruwelijke geheimen.  DI Tom Calladine en DS Ruth Bayliss staan voor een van hun moeilijkste uitdagingen tot nu toe. Een groep daklozen heeft een kamp opgeslagen op het terrein van een verlaten katoenfabriek die eigendom is van de lokale zakenman Damien Chase.  Maar een van de mannen is niet wat hij lijkt. Hij heeft een geheim dat hij koste wat kost verborgen wil houden. Als Calladine en Bayliss een onderzoek instellen, ontdekken ze dat de misdaden veel verder gaan dan ze ooit hadden kunnen vermoeden.  Zal Bayliss haar privéleven en haar werk kunnen combineren en kan Calladine omgaan met hun nieuwe baas, een vrouw die hij niet vertrouwt en niet mag? Calladine is bereid alles te doen om een einde te maken aan het vreselijke leed en neemt een verrassende beslissing...</p><p>Als je houdt van Angela Marsons, M.J. Arlidge, Robert Bryndza, Ian Rankin of Kerry Wilkinson, dan zul je deze bestsellerauteur van misdaadromans geweldig vinden.  Wat lezers zeggen over DOODSLAG: 'Weer een geweldig boek van Helen.' – Granniean ⭐⭐⭐⭐⭐  'De boeken van deze auteur zijn zo goed dat ik ze verslind alsof het snoepjes zijn.' – Maggie L. ⭐⭐⭐⭐⭐  'Dit boek is fantastisch. Ik raakte er zo door in de ban dat ik het in één avond uitlas.' – Tracey ⭐⭐⭐⭐⭐  'Uitstekend geschreven... Ik vond het geweldig!' – Mach1 ⭐⭐⭐⭐⭐  DE RECHERCHEURS Tom Calladine is een bij vlagen briljante 51-jarige inspecteur die leeft voor zijn werk. Privé is hij nogal destructief, zowel met familie als relaties. De minder emotionele brigadier Ruth Bayliss houdt hem bij de les. Ze is midden dertig, recht voor zijn raap en loyaal. Ruth zou willen dat ze meer tijd had voor de sportschool en voor een privéleven.  DE SETTING  De serie speelt zich af in de fictionele plaats Leesdon, in de buurt van een grote Noord-Engelse industriestad. Er is weinig werk en veel criminaliteit. De nagel aan Calladines doodskist is de Hobfield, een flatwijk die de voedingsbodem is van alles wat er mis is in de streek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Helen H. Durrant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Met de adem van de bergen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460617338/met-de-adem-van-de-bergen-therese-widenfjord</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460617338/met-de-adem-van-de-bergen-therese-widenfjord"/>
-        <updated>2026-05-18T11:00:26.637Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460617338?aid=kb-online-bibliotheek&sid=21&dts=1779097843936&sig=0aa5c68a2698d571a148de448fc4b866e3dd365a69149a878a4ac08279c30171&width=320" alt="Omslag van 'Met de adem van de bergen'" title="Omslag van 'Met de adem van de bergen'">
-<p>"Een roman om je compleet in onder te dompelen - ik moest meteen denken aan de succesroman Waar de rivierkreeften zingen." - Amelia De in New York gevestigde fotograaf Nick Turner keert terug naar de arme bergstreek in de Appalachen waar hij opgroeide, wanneer zijn vader ziek wordt. Het is zijn laatste kans om vrede te sluiten met zijn verleden. Maar Nicks vroegere misstappen blijken niet vergeten te zijn. Hoeveel kan een familie eigenlijk vergeven? In dezelfde streek woont Ellie, een oudere vrouw die haar huis is kwijtgeraakt en moet vechten om te overleven. Wanneer de wegen van Nick en Ellie elkaar kruisen, verandert hun leven voorgoed. Therese Widenfjords romandebuut is een krachtige en meeslepende vertelling over klassenverschillen, familiebanden en loyaliteit. Tegen de ruige en adembenemende achtergrond van het Appalachen-gebergte is 'Met de adem van de bergen' een roman over de helende kracht van de natuur - en over thuiskomen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Therese Widenfjord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VHS]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460617540/vhs-thomas-heerma-van-voss</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460617540/vhs-thomas-heerma-van-voss"/>
-        <updated>2026-05-18T11:00:27.941Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460617540?aid=kb-online-bibliotheek&sid=21&dts=1779096802270&sig=fdad5de4b57d77e9d3e38cb8880aa11bff0db0665c4df9ed14c42d31c5a643e3&width=320" alt="Omslag van 'VHS'" title="Omslag van 'VHS'">
-<p>'VHS' is een liefdevol, bijna tastbaar verslag van de tijd waarin Thomas Heerma van Voss vrijwel wekelijks de videotheek bezoekt. Eerst alleen om films te huren – van The Fugitive kent hij nu nog woordelijk de dialogen uit zijn hoofd – maar vanaf zijn zestiende ook voor zijn eerste bijbaantje. De sympathieke eigenaresse, die vasthoudt aan de VHS-band terwijl het tijdperk van de dvd aanbreekt, vraagt namelijk aan Thomas om een avond per week films te gaan verhuren. In een intieme brief aan zijn beste vriend, destijds ook medewerker van videotheek Filmplan, staat Thomas Heerma van Voss stil bij de charme van de VHS-band en bij hun jeugd die zo door films werd ingekleurd. Wat maakt dat de een monter zijn rug naar het verleden keert, en de ander, licht melancholisch, de rug naar de toekomst? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Thomas Heerma van Voss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De gebroeders Zjoeganov]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460608096/de-gebroeders-zjoeganov-stijn-rombouts</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460608096/de-gebroeders-zjoeganov-stijn-rombouts"/>
-        <updated>2026-05-18T11:00:28.364Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460608096?aid=kb-online-bibliotheek&sid=21&dts=1779095970909&sig=68abbecee609b39b87e3000321060b1d32ab618f4d83b3914065d15ba75f77c6&width=320" alt="Omslag van 'De gebroeders Zjoeganov'" title="Omslag van 'De gebroeders Zjoeganov'">
-<p>Een aangrijpende roman over familie, ideologie en de prijs van overleven in een dictatuur. De gebroeders Zjoeganov proberen ieder op hun eigen manier te overleven in een wereld vol angst, geheimen en verraad. Igor klimt met leugens en bedrog op binnen het regime, overtuigd dat hij het systeem van binnenuit kan veranderen. Sergej verlangt naar een carrière als beroemd kunstenaar, maar raakt verstrikt in zijn eigen dromen. Nikolaj verliest zijn vrouw en kinderen door het regime, wil wraak met gewelddadig verzet, maar krijgt hij daarmee zijn familie terug? Wanneer de broers onvermijdelijk botsen, wordt hun band tot het uiterste getest. Stijn Rombouts studeerde Internationale Betrekkingen aan de Universiteit Leiden en schrijft literaire fictie over familiebanden tegen een historische en politieke achtergrond. Met speciale interesse in Slavische en Midden-Oosterse geschiedenis verweeft hij persoonlijke verhalen met grote wereldthema's. Zijn eerdere roman over de Syrische Burgeroorlog kreeg aandacht van onder meer NPO, 3FM en het Brabants Dagblad. Stijn is tevens singer-songwriter. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Stijn Rombouts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dodelijke overtuiging]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460608088/dodelijke-overtuiging-theo-henk-streng</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460608088/dodelijke-overtuiging-theo-henk-streng"/>
-        <updated>2026-05-18T11:00:28.165Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460608088?aid=kb-online-bibliotheek&sid=21&dts=1779100937249&sig=e494c156d2d1d4b268a850fee79195c345bc89c9837da6eba2bdf74345b701d2&width=320" alt="Omslag van 'Dodelijke overtuiging'" title="Omslag van 'Dodelijke overtuiging'">
-<p>In de Rotterdamse haven wordt het lichaam van student Jules Aarden gevonden. Rechercheur Iris Rigter neemt de zaak op zich en stuit in haar onderzoek op een raadselachtige boodschap: "Zuiver de toekomst". Wat begint als een ogenschijnlijk eenvoudige moordzaak, leidt al snel naar gevaarlijke trends. Jules was verstrikt in een online extremistische organisatie waar wordt geloofd dat drastische actie noodzakelijk is om de wereld te redden. Was er sprake van een dodelijke overtuiging...? Theo-Henk Streng (1986) won in 2005 schrijfwedstrijd WriteNow! en schreef sindsdien ruim twintig kinder- en jeugdboeken. Hij heeft interesse in georganiseerde misdaad/criminaliteit en houdt van verhalen met een twist. Het liefst over personages die zich op het randje begeven. Theo-Henk Streng woont in een dorp onder de rook van Rotterdam, is getrouwd en vader van drie dochters. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Theo-Henk Streng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gordel van geweld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/419633855/gordel-van-geweld-art-de-vos</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/419633855/gordel-van-geweld-art-de-vos"/>
-        <updated>2026-05-18T11:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Overleven in Indië, een familiekroniek]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A419633855?aid=kb-online-bibliotheek&sid=21&dts=1779096049021&sig=979f935da9328e9c7ff884a6f0045bbee87dbe714614f31e45e0d6990118823f&width=320" alt="Omslag van 'Gordel van geweld'" title="Omslag van 'Gordel van geweld'">
-<p>Verslag van de bewogen lotgevallen van een KNIL-militair en zijn gezin in Nederlands-Indië (1942-1950).</p>]]></content>
-        <author>
-            <name>Art de Vos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winterpad]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/424290359/winterpad-gera-folkers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/424290359/winterpad-gera-folkers"/>
-        <updated>2026-05-18T11:00:29.221Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424290359?aid=kb-online-bibliotheek&sid=21&dts=1779097859597&sig=f45996b988807a1bc495e36e83b5e7062fe49c745071240eaf0b6721040fbce0&width=320" alt="Omslag van 'Winterpad'" title="Omslag van 'Winterpad'">
-<p>Als een vrouw na de dood van haar moeder brieven in het ouderlijk huis vindt, begrijpt ze eindelijk waarom haar moeder zo kil en afstandelijk was.</p>]]></content>
-        <author>
-            <name>Gera Folkers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Werkplaats huwelijk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437207250/werkplaats-huwelijk-jan-willem-grievink---joke-grievink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437207250/werkplaats-huwelijk-jan-willem-grievink---joke-grievink"/>
-        <updated>2026-05-18T11:00:29.423Z</updated>
-        <summary type="html"><![CDATA[... meer dan gevoel, liefde, trouw, communicatie, seks ...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437207250?aid=kb-online-bibliotheek&sid=21&dts=1779099000268&sig=bb9354d42c6f91f56e4395f38e2e858900404221966fafd741f5868e39fe135f&width=320" alt="Omslag van 'Werkplaats huwelijk'" title="Omslag van 'Werkplaats huwelijk'">
-<p>Het huwelijk is fantastisch! Een goed huwelijk is veel méér dan gevoel, liefde, trouw, communicatie, seks en allerlei andere belangrijke aspecten. Bovenal is het huwelijk een etalage waarin Gods glorie wordt weerspiegeld. God is de uitvinder van dat huwelijk waarbij man en vrouw helemaal één worden en daarmee iets van God Zelf laten zien. Jan-Willem en Joke Grievink zijn ervaren huwelijksbegeleiders en verwelkomen je in de werkplaats van het huwelijk, waar wordt geschuurd, geschaafd en gevijld. Want elk huwelijk is het waard om aan te werken. Wonden en breuklijnen in een relatie ontstaan vaak omdat problemen niet worden opgeruimd, niet met elkaar en niet met God. Op basis van een overzichtelijk model met acht invalshoeken schetsen de schrijvers een compleet beeld van alle krachten die op een huwelijk inwerken. Veel complexer dan we vaak denken. Een aantal thema's zijn: * Het verschil tussen een contract en een verbond * De rol van je opvoeding en verleden in je huwelijk * Goede huwelijksvoorbereiding is essentieel Door kort en krachtig onderwijs vanuit de Bijbel en de dagelijkse ervaring helpen Jan-Willem en Joke je begrijpen hoe God het huwelijk heeft bedoeld en hoe je hierin kunt groeien en repareren wat stuk is gegaan. Ze geven je met dit boek als het ware een gereedschapskistje om mee aan de slag te gaan. Om het praktisch te maken zijn er verschillende casussen toegevoegd en wordt elk hoofdstuk afgesloten met een aantal verwerkingsvragen om samen over door te praten. Jan-Willem en Joke Grievink zijn geboren en getogen in Winterswijk. In 1975 zijn ze getrouwd en ze hebben vijf dochters. Al sinds het begin van hun huwelijk zijn ze actief in (huwelijks)pastoraat. God heeft hen gezegend met het verlangen en de inzichten om echtparen verder te helpen in hun huwelijk. Dat doen ze op wekelijkse basis als huwelijksbegeleiders en ook via TripleCord, de stichting die ze in 2015 hebben opgericht. Jan-Willem en Joke wonen in Bennekom. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jan-Willem Grievink</name>
-        </author>
-        <author>
-            <name>Joke Grievink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levenslessen van Jakko]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460593404/levenslessen-van-jakko-kees-ritmeester</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460593404/levenslessen-van-jakko-kees-ritmeester"/>
-        <updated>2026-05-18T11:00:29.765Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460593404?aid=kb-online-bibliotheek&sid=21&dts=1779102029527&sig=6ba2d8bb52ffa587e64b870bc849cd5673d98b31a9bc58610da82baf679ebf55&width=320" alt="Omslag van 'Levenslessen van Jakko'" title="Omslag van 'Levenslessen van Jakko'">
-<p>Jakko heeft het syndroom van Down Maar down is hij allerminst Hij leeft ongeremd en onbevangen Kees schrijft over zijn leven met Jakko Over de wijze lessen die zijn zoon hem leerde. Belangrijke levenslessen. Ook voor jou. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kees Ritmeester</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ik. Jij. Wij.]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448558092/ik--jij--wij--nettie-dees</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448558092/ik--jij--wij--nettie-dees"/>
-        <updated>2026-05-18T11:00:29.980Z</updated>
-        <summary type="html"><![CDATA[Een verhaal over carrière, relatie en opnieuw beginnen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448558092?aid=kb-online-bibliotheek&sid=21&dts=1779096012128&sig=a5fcebbfe3cc04da1235759effc84b83714edf0aa6b66f32c779e2abc27654f9&width=320" alt="Omslag van 'Ik. Jij. Wij.'" title="Omslag van 'Ik. Jij. Wij.'">
-<p>Een echtpaar is vijftien jaar lang gelukkig geweest, maar hun drukke levens zorgen voor spanningen in hun huwelijk. Ze blijken elkaar niet meer zo goed kennen als vroeger, en zijn ook hun geloof uit het oog verloren. Is er nog een weg terug naar elkaar?</p>]]></content>
-        <author>
-            <name>Nettie Dees</name>
         </author>
     </entry>
 </feed>
