@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-05-29T10:39:01.117Z</updated>
+    <updated>2026-05-30T09:10:46.307Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -76,21 +76,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een Surinaamse ballade]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/408953993/een-surinaamse-ballade-anil-ramdas---fred-van-dijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/408953993/een-surinaamse-ballade-anil-ramdas---fred-van-dijk"/>
-        <updated>2026-05-29T10:38:55.062Z</updated>
-        <summary type="html"><![CDATA[wel de snack maar niet de saus]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A408953993?aid=kb-online-bibliotheek&sid=21&dts=1780050171456&sig=c967b335732a5047c36f26b52a32719ac7df5dfc0df6d518958fd5fd69d163e6&width=320" alt="Omslag van 'Een Surinaamse ballade'" title="Omslag van 'Een Surinaamse ballade'">
-<p>Verslag van een reis door Suriname.</p>]]></content>
-        <author>
-            <name>Anil Ramdas</name>
-        </author>
-        <author>
-            <name>Fred van Dijk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De papegaai, de stier en de klimmende bougainvillea]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/408953721/de-papegaai--de-stier-en-de-klimmende-bougainvillea-anil-ramdas</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/408953721/de-papegaai--de-stier-en-de-klimmende-bougainvillea-anil-ramdas"/>
@@ -121,6 +106,21 @@
 <p>Columns die tussen augustus 2016 en juli 2017 in de Volkskrant verschenen.</p>]]></content>
         <author>
             <name>Peter Buwalda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een Surinaamse ballade]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/408953993/een-surinaamse-ballade-anil-ramdas---fred-van-dijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/408953993/een-surinaamse-ballade-anil-ramdas---fred-van-dijk"/>
+        <updated>2026-05-29T10:38:55.062Z</updated>
+        <summary type="html"><![CDATA[wel de snack maar niet de saus]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A408953993?aid=kb-online-bibliotheek&sid=21&dts=1780050171456&sig=c967b335732a5047c36f26b52a32719ac7df5dfc0df6d518958fd5fd69d163e6&width=320" alt="Omslag van 'Een Surinaamse ballade'" title="Omslag van 'Een Surinaamse ballade'">
+<p>Verslag van een reis door Suriname.</p>]]></content>
+        <author>
+            <name>Anil Ramdas</name>
+        </author>
+        <author>
+            <name>Fred van Dijk</name>
         </author>
     </entry>
     <entry>
@@ -158,6 +158,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maria Sibylla]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/424454165/maria-sibylla-inez-van-dullemen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/424454165/maria-sibylla-inez-van-dullemen"/>
+        <updated>2026-05-29T10:38:57.121Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424454165?aid=kb-online-bibliotheek&sid=21&dts=1780049973101&sig=b8b997638468a36f36fcf847fbe808ef4fc5bca6799f9d0d50adb545d686d163&width=320" alt="Omslag van 'Maria Sibylla'" title="Omslag van 'Maria Sibylla'">
+<p>Maria Sibylla is een roman over de schilderes Maria Sibylla Merian, die op het eind van de zeventiende eeuw naar Suriname vertrekt vanwege haar bijzondere passie voor vlinders. Van haar leven zijn slechts een aantal feiten bekend. Waar Inez van Dullemen zich moet beroepen op haar verbeelding kruipt ze overtuigend in de huid van deze vrijgevochten vrouw die met opmerkelijke moed haar man verlaat, en een aantal jaren daarna met haar jongste dochter naar Suriname reist. Ze neemt de lezer mee op een adembenemende tocht door een land waar slavernij hoogtij viert. Maria Sibylla ontmoet de slavin Kwasiba op het moment dat deze haar zoontje begraaft. Vanaf dan zijn de levens van beide vrouwen onontkoombaar verbonden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Inez van Dullemen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Voor koningin en vaderland]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/423405780/voor-koningin-en-vaderland-tomas-ross</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/423405780/voor-koningin-en-vaderland-tomas-ross"/>
@@ -181,28 +192,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maria Sibylla]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/424454165/maria-sibylla-inez-van-dullemen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/424454165/maria-sibylla-inez-van-dullemen"/>
-        <updated>2026-05-29T10:38:57.121Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424454165?aid=kb-online-bibliotheek&sid=21&dts=1780049973101&sig=b8b997638468a36f36fcf847fbe808ef4fc5bca6799f9d0d50adb545d686d163&width=320" alt="Omslag van 'Maria Sibylla'" title="Omslag van 'Maria Sibylla'">
-<p>Maria Sibylla is een roman over de schilderes Maria Sibylla Merian, die op het eind van de zeventiende eeuw naar Suriname vertrekt vanwege haar bijzondere passie voor vlinders. Van haar leven zijn slechts een aantal feiten bekend. Waar Inez van Dullemen zich moet beroepen op haar verbeelding kruipt ze overtuigend in de huid van deze vrijgevochten vrouw die met opmerkelijke moed haar man verlaat, en een aantal jaren daarna met haar jongste dochter naar Suriname reist. Ze neemt de lezer mee op een adembenemende tocht door een land waar slavernij hoogtij viert. Maria Sibylla ontmoet de slavin Kwasiba op het moment dat deze haar zoontje begraaft. Vanaf dan zijn de levens van beide vrouwen onontkoombaar verbonden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Inez van Dullemen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitra]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/42938517X/mitra-kaweh-modiri</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/42938517X/mitra-kaweh-modiri"/>
-        <updated>2026-05-29T10:38:57.330Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42938517X?aid=kb-online-bibliotheek&sid=21&dts=1780050507888&sig=a7ce0e60bbc84f0d162f572f41ed796b8d3ee33b5134b2f7b431dd45efe148b1&width=320" alt="Omslag van 'Mitra'" title="Omslag van 'Mitra'">
-<p>Na de executie van haar dochter Mitra, in 1981 in Iran, is Haleh naar Nederland gevlucht, waar ze zich in de decennia erna heeft opgewerkt tot een gerenommeerde academica. Haar leven wordt ruw verstoord wanneer ze het bericht krijgt dat de vrouw die ze verantwoordelijk houdt voor de dood van haar dochter, in Nederland is. Omdat ze de waarheid wil weten, besluit Haleh contact met haar te zoeken. De vrouw blijkt recent, samen met haar eigen dochter, te zijn gevlucht. Hoe nauwer Haleh betrokken raakt bij hun levens, hoe meer ze heen en weer wordt geslingerd tussen twijfels over de ware identiteit van de vrouw en haar eigen wraakgevoelens. Mitra is een indringende roman over een leven dat getekend is door een onontkoombaar verleden. Het beklemmende verhaal van een vrouw die vat tracht te krijgen op de onrechtvaardigheid van haar lot en wanhopig probeert terug te halen wat verloren is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kaweh Modiri</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jachthuis]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/425089061/jachthuis-oscar-van-den-boogaard</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/425089061/jachthuis-oscar-van-den-boogaard"/>
@@ -214,26 +203,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ik Jan Cremer 1,2 en 3]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/425220842/ik-jan-cremer-1-2-en-3-jan-cremer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/425220842/ik-jan-cremer-1-2-en-3-jan-cremer"/>
-        <updated>2026-05-29T10:38:57.813Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A425220842?aid=kb-online-bibliotheek&sid=21&dts=1780051137596&sig=e62836ec122f6412836ea58f0a79dc53ffdf28aa159876bb975ae570cf99a80f&width=320" alt="Omslag van 'Ik Jan Cremer 1,2 en 3'" title="Omslag van 'Ik Jan Cremer 1,2 en 3'">
-<p>Omnibus waarin de drie autobiografische romans van Jan Cremer (1940) zijn gebundeld.</p>]]></content>
+        <title type="html"><![CDATA[Zwerm]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/427162963/zwerm-peter-verhelst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/427162963/zwerm-peter-verhelst"/>
+        <updated>2026-05-29T10:38:58.645Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427162963?aid=kb-online-bibliotheek&sid=21&dts=1780050360927&sig=271b088dbcbe5a0a87bb68befc539815b024b6e4c1b5de74fe19cc50ed55b768&width=320" alt="Omslag van 'Zwerm'" title="Omslag van 'Zwerm'">
+<p>Kaleidoskopisch beeld van toekomst en verleden van de mensheid.</p>]]></content>
         <author>
-            <name>Jan Cremer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het mirakel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/429385242/het-mirakel-harry-mulisch</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/429385242/het-mirakel-harry-mulisch"/>
-        <updated>2026-05-29T10:38:58.013Z</updated>
-        <summary type="html"><![CDATA[Episodes van troost en liederlijkheid uit het leven van de heer Tiennoppen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385242?aid=kb-online-bibliotheek&sid=21&dts=1780050911381&sig=d4392907d711a9d00a12c3530e0083a69355ded3f2cfeb9aa3ba789acb6a48d5&width=320" alt="Omslag van 'Het mirakel'" title="Omslag van 'Het mirakel'">
-<p>Op een bijna duivelse manier creëerde Harry Mulisch met de heer Tiennoppen een personage dat in worsteling is met de werkelijkheid. Het is in de nacht of in de schemering, in de tijd waarin het licht bedrieglijk wordt, dat Tiennoppen ten prooi valt aan zichzelf en aan een giftige wereld die vooral in zijn verbeelding bestaat. Het is een wereld waarin niemand hem meer herkent, een gewelddadige wereld waarin Tiennoppen zonder pardon motorrijders laat verongelukken en automobilisten de gracht in laat rijden. Hij kan met twee tongen spreken en buiten zichzelf raken. In deze magisch-realistische taferelen schept Mulisch een hedendaagse Elckerlyc: Tiennoppen staat voor de mens die zich geen raad weet met de clichématige en vastgelegde culturele patronen van de maatschappij. Mulisch’ verhalen vormen daarvoor de magistrale uitweg. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Harry Mulisch</name>
+            <name>Peter Verhelst</name>
         </author>
     </entry>
     <entry>
@@ -259,25 +236,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zwerm]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/427162963/zwerm-peter-verhelst</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/427162963/zwerm-peter-verhelst"/>
-        <updated>2026-05-29T10:38:58.645Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427162963?aid=kb-online-bibliotheek&sid=21&dts=1780050360927&sig=271b088dbcbe5a0a87bb68befc539815b024b6e4c1b5de74fe19cc50ed55b768&width=320" alt="Omslag van 'Zwerm'" title="Omslag van 'Zwerm'">
-<p>Kaleidoskopisch beeld van toekomst en verleden van de mensheid.</p>]]></content>
+        <title type="html"><![CDATA[Ik Jan Cremer 1,2 en 3]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/425220842/ik-jan-cremer-1-2-en-3-jan-cremer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/425220842/ik-jan-cremer-1-2-en-3-jan-cremer"/>
+        <updated>2026-05-29T10:38:57.813Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A425220842?aid=kb-online-bibliotheek&sid=21&dts=1780051137596&sig=e62836ec122f6412836ea58f0a79dc53ffdf28aa159876bb975ae570cf99a80f&width=320" alt="Omslag van 'Ik Jan Cremer 1,2 en 3'" title="Omslag van 'Ik Jan Cremer 1,2 en 3'">
+<p>Omnibus waarin de drie autobiografische romans van Jan Cremer (1940) zijn gebundeld.</p>]]></content>
         <author>
-            <name>Peter Verhelst</name>
+            <name>Jan Cremer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quarantaine]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/426467566/quarantaine-wim-dani%C3%ABls</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/426467566/quarantaine-wim-dani%C3%ABls"/>
-        <updated>2026-05-29T10:38:58.831Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426467566?aid=kb-online-bibliotheek&sid=21&dts=1780050145560&sig=00bc9392c7afdff189a4c8f65c2e00fa9aef637a5827efc62565c47334ed42bc&width=320" alt="Omslag van 'Quarantaine'" title="Omslag van 'Quarantaine'">
-<p>Roman over een liefde in tijden van corona Een man en een vrouw zijn in maart 2020 onafhankelijk van elkaar afgereisd naar een afgelegen bungalowpark in de Dordogne om een belangrijk doel te verwezenlijken. Daar krijgen ze al snel te maken met het om zich heen grijpende coronavirus. Ze zoeken troost bij elkaar, ze zoeken een uitweg, maar de problemen lijken zich alleen maar op te stapelen. Toch is er ook houvast, ze herkennen iets in elkaar en er zijn gesprekken die tot verrassende inzichten leiden. In Quarantaine vertelt Wim Daniëls het verhaal van mensen die getroffen worden door een virus. Een aangrijpend, maar ook hoopvol verhaal en bovenal een lofzang op de liefde. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Mitra]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/42938517X/mitra-kaweh-modiri</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/42938517X/mitra-kaweh-modiri"/>
+        <updated>2026-05-29T10:38:57.330Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42938517X?aid=kb-online-bibliotheek&sid=21&dts=1780050507888&sig=a7ce0e60bbc84f0d162f572f41ed796b8d3ee33b5134b2f7b431dd45efe148b1&width=320" alt="Omslag van 'Mitra'" title="Omslag van 'Mitra'">
+<p>Na de executie van haar dochter Mitra, in 1981 in Iran, is Haleh naar Nederland gevlucht, waar ze zich in de decennia erna heeft opgewerkt tot een gerenommeerde academica. Haar leven wordt ruw verstoord wanneer ze het bericht krijgt dat de vrouw die ze verantwoordelijk houdt voor de dood van haar dochter, in Nederland is. Omdat ze de waarheid wil weten, besluit Haleh contact met haar te zoeken. De vrouw blijkt recent, samen met haar eigen dochter, te zijn gevlucht. Hoe nauwer Haleh betrokken raakt bij hun levens, hoe meer ze heen en weer wordt geslingerd tussen twijfels over de ware identiteit van de vrouw en haar eigen wraakgevoelens. Mitra is een indringende roman over een leven dat getekend is door een onontkoombaar verleden. Het beklemmende verhaal van een vrouw die vat tracht te krijgen op de onrechtvaardigheid van haar lot en wanhopig probeert terug te halen wat verloren is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Wim Daniëls</name>
+            <name>Kaweh Modiri</name>
         </author>
     </entry>
     <entry>
@@ -293,12 +270,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Het mirakel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/429385242/het-mirakel-harry-mulisch</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/429385242/het-mirakel-harry-mulisch"/>
+        <updated>2026-05-29T10:38:58.013Z</updated>
+        <summary type="html"><![CDATA[Episodes van troost en liederlijkheid uit het leven van de heer Tiennoppen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385242?aid=kb-online-bibliotheek&sid=21&dts=1780050911381&sig=d4392907d711a9d00a12c3530e0083a69355ded3f2cfeb9aa3ba789acb6a48d5&width=320" alt="Omslag van 'Het mirakel'" title="Omslag van 'Het mirakel'">
+<p>Op een bijna duivelse manier creëerde Harry Mulisch met de heer Tiennoppen een personage dat in worsteling is met de werkelijkheid. Het is in de nacht of in de schemering, in de tijd waarin het licht bedrieglijk wordt, dat Tiennoppen ten prooi valt aan zichzelf en aan een giftige wereld die vooral in zijn verbeelding bestaat. Het is een wereld waarin niemand hem meer herkent, een gewelddadige wereld waarin Tiennoppen zonder pardon motorrijders laat verongelukken en automobilisten de gracht in laat rijden. Hij kan met twee tongen spreken en buiten zichzelf raken. In deze magisch-realistische taferelen schept Mulisch een hedendaagse Elckerlyc: Tiennoppen staat voor de mens die zich geen raad weet met de clichématige en vastgelegde culturele patronen van de maatschappij. Mulisch’ verhalen vormen daarvoor de magistrale uitweg. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Harry Mulisch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quarantaine]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/426467566/quarantaine-wim-dani%C3%ABls</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/426467566/quarantaine-wim-dani%C3%ABls"/>
+        <updated>2026-05-29T10:38:58.831Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426467566?aid=kb-online-bibliotheek&sid=21&dts=1780050145560&sig=00bc9392c7afdff189a4c8f65c2e00fa9aef637a5827efc62565c47334ed42bc&width=320" alt="Omslag van 'Quarantaine'" title="Omslag van 'Quarantaine'">
+<p>Roman over een liefde in tijden van corona Een man en een vrouw zijn in maart 2020 onafhankelijk van elkaar afgereisd naar een afgelegen bungalowpark in de Dordogne om een belangrijk doel te verwezenlijken. Daar krijgen ze al snel te maken met het om zich heen grijpende coronavirus. Ze zoeken troost bij elkaar, ze zoeken een uitweg, maar de problemen lijken zich alleen maar op te stapelen. Toch is er ook houvast, ze herkennen iets in elkaar en er zijn gesprekken die tot verrassende inzichten leiden. In Quarantaine vertelt Wim Daniëls het verhaal van mensen die getroffen worden door een virus. Een aangrijpend, maar ook hoopvol verhaal en bovenal een lofzang op de liefde. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Wim Daniëls</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Liefde]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/434029726/liefde--</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/434029726/liefde--"/>
         <updated>2026-05-29T10:38:59.346Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434029726?aid=kb-online-bibliotheek&sid=21&dts=1780051139088&sig=e71783e1f323499734a55f6f423fa3ad895cc91600b2d333cb56cd0d03fe841d&width=320" alt="Omslag van 'Liefde'" title="Omslag van 'Liefde'">
 <p>Bloemlezing met 52 gedichten van verschillende dichters met de liefde in al haar schakeringen als centraal thema.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In goed en kwaad]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/429385439/in-goed-en-kwaad-f--harmsen-van-beek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/429385439/in-goed-en-kwaad-f--harmsen-van-beek"/>
+        <updated>2026-05-29T10:39:00.763Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385439?aid=kb-online-bibliotheek&sid=21&dts=1780051140490&sig=9a6351aea54fde77f605f676794da250c8e25800e82f8d0fda4984dd8512d1fc&width=320" alt="Omslag van 'In goed en kwaad'" title="Omslag van 'In goed en kwaad'">
+<p>Het oeuvre van F. Harmsen van Beek is bescheiden, en toch wordt ze nog altijd tot de grootste dichters van Nederland gerekend. Veel van haar collega’s, onder wie A. Roland Holst, Remco Campert, J. Bernlef en Hugo Claus, waren in de ban van haar talent. Vanaf de jaren zeventig leefde ze teruggetrokken, schuw geworden van te veel ongewenste aandacht. Ze stond niet toe dat de boeken of losse tijdschriftpublicaties bij haar leven werden herdrukt. In In goed en kwaad is haar literaire werk bijeengebracht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>F. Harmsen van Beek</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Philip Roth]]></title>
@@ -320,25 +331,14 @@
 <p>Bundel met 99 verzen van dichters van vroeger en nu over rouw en de verwerking daarvan.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In goed en kwaad]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/429385439/in-goed-en-kwaad-f--harmsen-van-beek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/429385439/in-goed-en-kwaad-f--harmsen-van-beek"/>
-        <updated>2026-05-29T10:39:00.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385439?aid=kb-online-bibliotheek&sid=21&dts=1780051140490&sig=9a6351aea54fde77f605f676794da250c8e25800e82f8d0fda4984dd8512d1fc&width=320" alt="Omslag van 'In goed en kwaad'" title="Omslag van 'In goed en kwaad'">
-<p>Het oeuvre van F. Harmsen van Beek is bescheiden, en toch wordt ze nog altijd tot de grootste dichters van Nederland gerekend. Veel van haar collega’s, onder wie A. Roland Holst, Remco Campert, J. Bernlef en Hugo Claus, waren in de ban van haar talent. Vanaf de jaren zeventig leefde ze teruggetrokken, schuw geworden van te veel ongewenste aandacht. Ze stond niet toe dat de boeken of losse tijdschriftpublicaties bij haar leven werden herdrukt. In In goed en kwaad is haar literaire werk bijeengebracht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Coke]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433173238/coke-ad-fransen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433173238/coke-ad-fransen"/>
+        <updated>2026-05-30T09:10:46.306Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433173238?aid=kb-online-bibliotheek&sid=21&dts=1780132246083&sig=34a43445cae64ef4e8f3596447a667cda34d9b788f545640ea86590787e3fc65&width=320" alt="Omslag van 'Coke'" title="Omslag van 'Coke'">
+<p>Autobiografisch verslag van de Nederlandse journalist over zijn jarenlange cocaïneverslaving.</p>]]></content>
         <author>
-            <name>F. Harmsen van Beek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flinke jongen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433812753/flinke-jongen-auke-kok</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433812753/flinke-jongen-auke-kok"/>
-        <updated>2026-05-29T10:39:01.116Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433812753?aid=kb-online-bibliotheek&sid=21&dts=1780051140849&sig=6ccc9228b69c80fe1092f879a8fe99c9403ff2f8792362e82bb857bd5db602ad&width=320" alt="Omslag van 'Flinke jongen'" title="Omslag van 'Flinke jongen'">
-<p>Flinke jongen volgt een jaar uit het leven van Hidde, een jongen van twaalf in een ogenschijnlijk leuk, zelfs kleurrijk, maar in feite ongelukkig gezin. Zijn hardwerkende vader kan onverwachts in enorme driftbuien losbarsten, zijn charmante maar wispelturige moeder biedt geen houvast, en hij ziet het toch al niet zo goede huwelijk van zijn gereformeerde ouders snel afbrokkelen. De leden van het gezin misleiden elkaar, liegen als het uitkomt. Buiten, voetballend met zijn vriendjes, voelt Hidde zich veiliger dan binnen. Meer en meer wordt hij een dagdromer en stijgt hij op in fantasieën over heldendaden met de bal. Hij wapent zich met stilzwijgen, met observaties van zijn opstandige broer die door zijn vader wordt geslagen en vernederd. Zo overleeft hij door slimheid en calculerend gedrag – op grote afstand van zijn helden in het Nederlandse profvoetbal die in dit jaar, 1969, op weg zijn naar de wereldtop. Hidde is lang niet zo flink als zijn idolen in de stadions. Of toch wel? Uiteindelijk doet hij een verwoede poging in dit aangrijpende verhaal over voetbal, dat niet zomaar een spelletje is maar een reddingsboei in een tijd van stijgende welvaart en afbrokkelende zekerheden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Auke Kok</name>
+            <name>Ad Fransen</name>
         </author>
     </entry>
 </feed>
