@@ -2,11 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-05-30T09:10:46.307Z</updated>
+    <updated>2026-05-31T09:44:36.817Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Het bomenboek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/370928342/het-bomenboek-koos-van-zomeren</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/370928342/het-bomenboek-koos-van-zomeren"/>
+        <updated>2026-05-31T09:44:20.572Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A370928342?aid=kb-online-bibliotheek&sid=21&dts=1780220659996&sig=1f5bca23fcb3c35e6b98a7d398c453118f822d25d323965e659155b0e6c8d74e&width=320" alt="Omslag van 'Het bomenboek'" title="Omslag van 'Het bomenboek'">
+<p>Verhalen over bomen.</p>]]></content>
+        <author>
+            <name>Koos van Zomeren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Bijbel voor ongelovigen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394898818/de-bijbel-voor-ongelovigen-guus-kuijer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394898818/de-bijbel-voor-ongelovigen-guus-kuijer"/>
+        <updated>2026-05-31T09:44:21.187Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394898818?aid=kb-online-bibliotheek&sid=21&dts=1780220660657&sig=a7ee5f073cc8e64d96923032583ecdbb53d24774a5500e945e6e5dcf1bee85dd&width=320" alt="Omslag van 'De Bijbel voor ongelovigen'" title="Omslag van 'De Bijbel voor ongelovigen'">
+<p>De Bijbel is een fascinerend boek. Onze westerse cultuur is ondenkbaar zonder het heilige boek van de joden en de christenen. Maar wie niet gelovig is, leest het niet. En dat is jammer, want het bevat een aantal van de allermooiste verhalen uit de wereldliteratuur. Guus Kuijer vertelt ze na voor ongelovigen.</p><p> Deel 1  Genesis is de familiegeschiedenis van een groep koppige mensen onder leiding van Abraham, die vanuit Irak in Egypte terechtkomt. Het boek bevat ook de verhalen over Adam, Eva en de slang, over de zondvloed en de toren van Babel. Al die verhalen vertelt Kuijer opnieuw, vanuit het perspectief van een zoon of een vrouw, een verschoppeling of een bastaard, en daardoor worden de bekende verhalen nieuw en verrassend.</p><p> Deel 2  In dit deel Exodus tot en met Rechters. Dit zijn de Bijbelboeken waarin wordt verteld hoe het volk van Israël uit Egypte wegvlucht en in Kanaän terechtkomt, en dat land koloniseert. Mozes is de eerste leider. Met hem zwerft het joodse volk veertig jaar door de woestijn. Hij brengt het tot aan de grens van het Beloofde Land, het land van melk en honing. Daar neemt Jozua het over, die de veroveringsstrijd gaat leiden, met als bekendste wapenfeit de val van Jericho. Na Jozua komen de rechters, waarvan Simson misschien wel de beroemdste is. Eén thema is steeds aanwezig: de Israëlieten worden telkens opnieuw verleid door vreemde volken en hun goden, terwijl ze toch vooral recht in de leer moeten blijven.</p><p> Zowel voor wie de Bijbel kent als voor wie er nooit in las is De Bijbel voor ongelovigen een reis door een bekende wereld die ons toch zo vreemd is. De Bijbel van Kuijer leest als een roman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Guus Kuijer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Die ons voortdurend leidt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/406248060/die-ons-voortdurend-leidt-nelleke-wander</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/406248060/die-ons-voortdurend-leidt-nelleke-wander"/>
+        <updated>2026-05-31T09:44:21.812Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A406248060?aid=kb-online-bibliotheek&sid=21&dts=1780220661270&sig=b384862a94852c23c30beb4d1596c87a1a3d17aa35f070cd52059214d63fff4c&width=320" alt="Omslag van 'Die ons voortdurend leidt'" title="Omslag van 'Die ons voortdurend leidt'">
+<p>Een jonge dominee stuit in zijn eerste gemeente op veel problemen.</p>]]></content>
+        <author>
+            <name>Nelleke Wander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morten-trilogie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/404416950/morten-trilogie-anna-levander</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/404416950/morten-trilogie-anna-levander"/>
+        <updated>2026-05-31T09:44:22.323Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A404416950?aid=kb-online-bibliotheek&sid=21&dts=1780214461368&sig=a7021b3d19b3ffd8475f4cc027ae04e66aa4ef7b4933c07b437f0d325f6f6489&width=320" alt="Omslag van 'Morten-trilogie'" title="Omslag van 'Morten-trilogie'">
+<p>De ambitieuze politicus Morten Mathijsen stevent af op een glorieuze verkiezingsoverwinning. Zijn partij, De Nieuwe Liberalen, gaat verrassend aan kop in de peilingen. Mathijsen is de tweede man van de partij en wil leider worden. Dan dreigt een duistere zaak uit het verleden zijn reputatie te schaden. Met de briljante spindoctor Evelien Bax aan zijn zijde gaat Morten tot het uiterste om het onheil af te wenden. De machtsstrijd maakt meerdere slachtoffers. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Anna Levander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Arranged]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460679457/love-arranged-lauren-asher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460679457/love-arranged-lauren-asher"/>
+        <updated>2026-05-31T09:44:22.884Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460679457?aid=kb-online-bibliotheek&sid=21&dts=1780137414062&sig=c3cb82af8a56b3f1015280cace574c4bda3e8739283aaad3b6561a42ff9d4804&width=320" alt="Omslag van 'Love Arranged'" title="Omslag van 'Love Arranged'">
+<p>LORENZO Five months. Two people “in love”. One fake relationship with an expiration date. Sounds simple enough. The problem is, Lily Muñoz and I have history. So, when she volunteers to date me so I can improve my public image, I should say no. Our past complicates everything, but since my future depends on her, I agree to her plan. Faking it for the public is expected, but falling in love in private? That isn’t part of our arrangement.  LILY Using a dating app sounded like a great idea, up until I discovered Lorenzo Vittori was my match. My sister’s boyfriend hates him. My mom is wary of him. And me? I’ve spent the last year avoiding him. But when my business is threatened, I’m forced into teaming up with Lorenzo to save it. All I need to do is help him win the mayoral election, and he promises to protect my shop. It doesn’t take me long to learn that I’m not cut out for fake relationships, but Lorenzo? He isn’t capable of a real one. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lauren Asher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Made Basics]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437995968/home-made-basics-yvette-van-boven</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437995968/home-made-basics-yvette-van-boven"/>
+        <updated>2026-05-31T09:44:23.441Z</updated>
+        <summary type="html"><![CDATA[Makkelijke recepten voor elke dag die echt iedereen kan maken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437995968?aid=kb-online-bibliotheek&sid=21&dts=1780206877104&sig=8726c355e39c715901117c163894d87684fc8f39b9f31c30908cc735c09ada51&width=320" alt="Omslag van 'Home Made Basics'" title="Omslag van 'Home Made Basics'">
+<p>WINNAAR VAN HET GOUDEN KOOKBOEK 2020</p><p> Hoe maakt u alles? En helemaal zelf? Met Yvettes kenmerkende geïllustreerde stap-voor-stapuitleg van de gerechten en sluitende receptuur gaat dit zeker lukken: van een simpele dressing tot huisgemaakte, dampend verse tortilla’s, van zelfgemaakte gnocchi van elk soort groente tot fluks ingelegde radijsjes. Home Made Basics is een boek dat een vaste plek gaat krijgen in uw keuken. Alle recepten spetterend gefotografeerd om zo met de opgedane kennis oermakkelijke dagelijkse kost te bereiden. Met Home Made Basics heeft Yvette van Boven een inspiratieboek voor iedereen gemaakt: voor jong of al iets ouder, voor iedereen die graag de basis van het koken wil leren en alles zelf wil kunnen maken. Met de recepten uit dit boek zet u het hele jaar door vers, helemaal zelfbereid, gezond en origineel eten op tafel. Met veel aandacht voor groentegerechten, is Home Made Basics een modern doe-het-zelf-kookboek en een waardige opvolger van het tien jaar geleden verschenen Home Made.</p><p> Uit het juryrapport van Het Gouden Kookboek 2020:  'Home Made Basics is gul en gevuld met prachtige combinaties van ingrediënten, eten dat je wilt maken, met veel, heel veel groenten. Traditie en trend zijn moeiteloos gemixt. Het leest heerlijk: je hoort Yvette tegen je praten, alsof ze naast je in de keuken staat. Op allerlei manieren geeft Home Made Basics een kijkje in haar Ierse en Nederlandse keuken. Yvette ontwikkelt, schrijft, illustreert, geeft vorm, maakt haar eigen lettertype. Ze is een onvermoeibare duizendpoot. Oof doet de rest, niet onbelangrijk, met sfeervolle fotografie waardoor je alles wilt eten en maken en je gelijk op reis wilt naar Ierland.  We kennen dit van Yvette, maar Home Made Basics is ongeveer drie kookboeken in één. Het vertegenwoordigt alles wat zelf koken tot een feestje maakt. Het is liefde voor lekker en goed eten. Dit is zo’n boek dat je ook aan je kinderen wil geven als ze het huis uit gaan. Hier wil je de dag, de maand en het jaar mee door.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Yvette van Boven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De bomvolle oven van Van Boven]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437996077/de-bomvolle-oven-van-van-boven-yvette-van-boven</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437996077/de-bomvolle-oven-van-van-boven-yvette-van-boven"/>
+        <updated>2026-05-31T09:44:24.064Z</updated>
+        <summary type="html"><![CDATA[Ruim 200 oermakkelijke ovenrecepten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437996077?aid=kb-online-bibliotheek&sid=21&dts=1780145510115&sig=5d4a3c9df49aabc0a61272cb1e0a55cba0650b8e1d5a914a2aff7c4dc8bfb813&width=320" alt="Omslag van 'De bomvolle oven van Van Boven'" title="Omslag van 'De bomvolle oven van Van Boven'">
+<p>Sinds een aantal jaar bedenkt Yvette voor Volkskrant Magazine wekelijks een ovenrecept. De meest ovenheerlijke recepten verschenen in haar kookboeken Uit de oven van Van Boven, Nog meer uit Van Bovens oven en De grote oven van Van Boven.</p><p> De bijna 200 recepten zijn nu gebundeld in De bomvolle oven van Van Boven. Steeds met duidelijke, foolproof receptuur zoals we van Yvette gewend zijn én voorzien van een mooie tekening en foto. Alles gaat de oven in: groente, vlees, vis en uiteraard wordt er ook zoet gebakken. Kortom: dit is weer een heerlijk boek met heel veel oveninspiratie.</p><p> ‘Je kunt moeilijk om Yvette heen, die je toch wel de diva van home cooking mag noemen.’ – NRC Handelsblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Yvette van Boven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Bovens leftovers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437996042/van-bovens-leftovers-yvette-van-boven</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437996042/van-bovens-leftovers-yvette-van-boven"/>
+        <updated>2026-05-31T09:44:24.700Z</updated>
+        <summary type="html"><![CDATA[Ruim 200 oermakkelijke recepten om verspillingsvrij het jaar door te koken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437996042?aid=kb-online-bibliotheek&sid=21&dts=1780220664149&sig=edf0e94cb73fa30300f9c2a0f49019389b69542b62d29e381be6d025b8c40531&width=320" alt="Omslag van 'Van Bovens leftovers'" title="Omslag van 'Van Bovens leftovers'">
+<p>Sinds een aantal jaar bedenkt Yvette voor Volkskrant Magazine wekelijks een seizoensrecept plus een tip om de restjes mee op te maken. Zo kookt ze zelf thuis elke dag, want Van Boven gooit nooit iets weg. Goed eten weggooien is namelijk eeuwig zonde. Van elk restje valt de volgende dag wel iets lekkers te maken, dus geeft ze voor elk recept ook een smakelijke tweede bestemming.</p><p> Haar columns en rond de 200 recepten uit haar wekelijkse rubriek zijn nu gebundeld in Van Bovens leftovers. Steeds met duidelijke, foolproof receptuur zoals we van Yvette gewend zijn, voorzien van meerdere geïllustreerde tips en info én het door haarzelf gefotografeerde gerecht. Van Boven kookt het hele jaar door: met name groente, maar ook wat vlees en vis. Uiteraard wordt er ook van alles gebakken. Kortom: een heerlijk boek met heel veel inspiratie voor dagelijkse verspillingsvrije kost. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Yvette van Boven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Afgesloten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433228644/afgesloten-louise-candlish</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433228644/afgesloten-louise-candlish"/>
+        <updated>2026-05-31T09:44:25.187Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433228644?aid=kb-online-bibliotheek&sid=21&dts=1780120130922&sig=ae06d0ce6fb1c26be360f64f732661f98c502cd11dd2f18d8fb6f0f84d368efb&width=320" alt="Omslag van 'Afgesloten'" title="Omslag van 'Afgesloten'">
+<p>Eén appje kan alles veranderen…</p><p> Meg en Rick zijn druk bezig met hun vakatievoorbereidingen: morgen vertrekken ze naar een luxueus hotel op de Malediven, een kleine uitspatting om te vieren dat Rick na een periode van werkeloosheid weer een baan heeft. Ze noemen het hun tweede huwelijksreis, tien dagen lang genieten van zon, zee, strand en elkaar.  Maar dan ziet Meg bij toeval een appje binnenkomen op de telefoon van Rick, en worden de plannen radicaal gewijzigd… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Louise Candlish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een meisje van honderd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440534208/een-meisje-van-honderd-marion-bloem</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440534208/een-meisje-van-honderd-marion-bloem"/>
+        <updated>2026-05-31T09:44:25.771Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440534208?aid=kb-online-bibliotheek&sid=21&dts=1780220665265&sig=5277f5ae0bd17b0f66519574ae4532ff156977089bf9d2f78aa88e3fca3b5f01&width=320" alt="Omslag van 'Een meisje van honderd'" title="Omslag van 'Een meisje van honderd'">
+<p>In 1972 tekende Marion Bloem het contract voor haar debuutroman Geen gewoon Indisch meisje, dat internationaal de literaire wereld veroverde en waarvan in korte tijd 350.000 exemplaren werden verkocht. Veertig jaren en een aantal boeken later verscheen Meisje van honderd (2012), over het levensverhaal van Moemie, een meisje dat dingen ziet die anderen ontgaan. Ter gelegenheid van dit jubileumjaar verschijnen de boeken in luxe gebonden uitgaven, en in de winter van 2023 zal Bloems nieuwe ‘meisjesroman’ verschijnen: De meisjes uit het dorp, met een omslag dat past bij deze twee boeken.</p><p> Een meisje van honderd vertelt het levensverhaal van Moemie, een meisje dat dingen ziet die anderen ontgaan. Dat is haar gave en haar noodlot. Moemie verliest haar ouders en familie door de rituele zelfmoord van het vorstenhuis op Bali in 1906. De rest van haar leven is ze op zoek naar iets of iemand die het gemis van haar verwanten kan opvullen. Ze wordt opgenomen in een gezin dat haar helderziendheid nodig heeft om geesten uit hun huis te verjagen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marion Bloem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Boven in het wild]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437995925/van-boven-in-het-wild-yvette-van-boven</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437995925/van-boven-in-het-wild-yvette-van-boven"/>
+        <updated>2026-05-31T09:44:26.279Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437995925?aid=kb-online-bibliotheek&sid=21&dts=1780205916428&sig=55644ccefd8eb3da52fa5cbc5d0bc4cf0dd4b5e20584e77fcf8f26b4d9be27cc&width=320" alt="Omslag van 'Van Boven in het wild'" title="Omslag van 'Van Boven in het wild'">
+<p>WINNAAR VAN HET GOUDEN KOOKBOEK 2022  Een herbarium, eetbare plantengids én receptenboek ineen Al haar hele leven kookt Yvette met gratis proviand uit de natuur. Want waarom zou u tuinkers kopen als er hondsdraf tussen uw stoeptegels groeit? U moet het alleen wéten en leren herkennen. Nou: dit boek is een herbarium, eetbare plantengids én receptenboek ineen. Yvette laat u de meest voorkomende wilde planten zien, ze leert u hoe u ze kunt herkennen en waar ze naar smaken. Zo leert u wildpluk gemakkelijk toe te passen in uw eigen gerechten. Vroeger was het volstrekt normaal om te koken met de natuur direct op het bord, nu zijn we daar een beetje van vervreemd geraakt. Maar nog steeds kunt u écht op élk ommetje uw jaszakken volduwen met de lekkerste planten, die vaak gewoon in het stadsplantsoen te vinden zijn. U hoeft er niet altijd helemaal voor op pad in de duinen of het bos. Toen Yvette opgroeide maakte ze veel herbaria: ze droogde planten die ze mooi vond en plakte ze in haar vele albums. Die kinderhobby heeft ze de laatste jaren weer opgepakt: alles wat ze onderweg op haar wandelingen tegenkwam heeft ze gedroogd tussen lagen papier, karton en planken. Haar man Oof Verschuren heeft de planten én de recepten fabelachtig mooi gefotografeerd. Zo hopen Oof en Yvette opnieuw grote mensen en kleine kinderen te inspireren om zelf ook aan de slag te gaan en daardoor weer goed naar de – vaak eetbare – natuur te kijken. Achter in het boek staan meer dan honderd makkelijke, bijna allemaal vegetarische, (basis)recepten met een originele twist. Ze zijn zo geschreven dat u het ene kruid vaak voor het andere kunt verwisselen, om zo het gerecht een andere smaak te geven, immers: niet alle planten zijn het hele jaar door te plukken, maar er is vaak wel iets te vinden dat erop lijkt. ZAKBOEK Naast dit grote wildplukboek maakte Yvette ook een klein zakboek. Deze past handig in uw tas als u op pad bent. Het zakboek is de eenvoudige versie van zijn grote zus en bevat geen recepten. U vindt het onder ISBN 9789038811291. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Yvette van Boven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PUUR]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437873935/puur-erik-jan-harmens---hef</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437873935/puur-erik-jan-harmens---hef"/>
+        <updated>2026-05-31T09:44:26.889Z</updated>
+        <summary type="html"><![CDATA[Biografie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437873935?aid=kb-online-bibliotheek&sid=21&dts=1780220666357&sig=47337278e69720be35d890d3204ff0e222c594f9c3eb663c02d058e33e0dad8d&width=320" alt="Omslag van 'PUUR'" title="Omslag van 'PUUR'">
+<p>Rapper Hef neemt geen enkel blad voor zijn mond. Niet in zijn muziek, ook niet in deze eerlijke, rauwe biografie. Open en eerlijk vertelt hij over een bijzonder leven vol hoogte- en dieptepunten, dat voerde van Rotterdam naar Amsterdam-Zuidoost en van Hoogvliet tot waar hij nu woont. Over de jonko en de henny gaat het, en over de chickies en fissa’s. Maar hij vertelt ook over de torenhoge eisen die hij aan zichzelf stelt als artiest, aan de vele verantwoordelijkheden die hij heeft voor de mensen om hem heen en over de dood van zijn moeder. Over alleen thuis op de bank zitten op oudejaarsavond en het verdwenen geloof in huisje-boompje-beestje. ‘Een soldaat wordt soms een tijd uitgezonden en dan komt hij weer thuis om een beetje bij te komen, maar ze hebben van alles meegemaakt, allemaal trauma’s en shit. Allemaal psychiaters die met ze gaan praten, want it’s a war out there man. Zo is het bij mij ook: ik weet niet meer hoe je moet functioneren in een normale wereld en daarom zit ik de hele tijd binnen. Zonder gezin, want ik weet niet hoe dat moet. De war ken ik, ik weet hoe ik daarin moet functioneren, maar het leven na de war snap ik nog niet.’ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Erik Jan Harmens</name>
+        </author>
+        <author>
+            <name>Hef</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De nomade]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/440349842/de-nomade-anya-niewierra</id>
@@ -19,326 +158,213 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De plicht roept!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394891279/de-plicht-roept--marten-toonder</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394891279/de-plicht-roept--marten-toonder"/>
-        <updated>2026-05-29T10:38:53.962Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394891279?aid=kb-online-bibliotheek&sid=21&dts=1780050969878&sig=e5d448f4dbfd494344f2cc164538c113f397670dc3faff5427523fdff2cb1381&width=320" alt="Omslag van 'De plicht roept!'" title="Omslag van 'De plicht roept!'">
-<p>Kolomstrips.</p>]]></content>
+        <title type="html"><![CDATA[Kroon van vuur]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46067868X/kroon-van-vuur-ilona-andrews</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46067868X/kroon-van-vuur-ilona-andrews"/>
+        <updated>2026-05-31T09:44:27.499Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46067868X?aid=kb-online-bibliotheek&sid=21&dts=1780220666964&sig=008aa59afacbaa235ab0d61742ff66a69abd4a2a91b3d539bbff451d3474eda8&width=320" alt="Omslag van 'Kroon van vuur'" title="Omslag van 'Kroon van vuur'">
+<p>Romantasy must-read! Een verslavende slow burn van internationale bestsellerauteur Ilona Andrews.  Nevada Baylor staat voor de uitdagendste zaak uit haar carrière als privédetective: ze heeft de opdracht gekregen een levensgevaarlijke moordverdachte die op de vlucht is op te pakken. Haar prooi is een Prime, de hoogste rang van magiegebruikers, hij bezit magische krachten waarmee hij alles en iedereen in brand kan steken. Nevada weet niet hoe ze deze zelfmoordmissie tot een goed einde moet gaan brengen. Dan wordt ze ontvoerd door Connor ‘Mad’ Rogan, een duistere miljardair die mogelijk nog gevaarlijker is dan de verdachte. Rogan wil de gezochte Prime ook opsporen en heeft Nevada nodig om hem te vinden. Nevada wordt verscheurd tussen twee opties: proberen bij hem uit de weg te blijven, of toegeven aan de overweldigende aantrekkingskracht die ze naar hem voelt. Waar Rogan normaal gesproken niets voelt en zonder gewetenswroeging met niemand rekening houdt, intrigeert Nevada hem. Maar zoals Rogan uit ervaring weet, kan liefde de ondergang betekenen, vooral in de magische wereld.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Marten Toonder</name>
+            <name>Ilona Andrews</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Italie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39479740X/italie-ine-roox</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39479740X/italie-ine-roox"/>
-        <updated>2026-05-29T10:38:54.132Z</updated>
-        <summary type="html"><![CDATA[de schaduwkant van een zonovergoten land]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39479740X?aid=kb-online-bibliotheek&sid=21&dts=1780050094737&sig=ea00cef5d2da10afcb0355b56571015b50a6e6a3a6c8a3c2ba54f4e555f63dec&width=320" alt="Omslag van 'Italie'" title="Omslag van 'Italie'">
-<p>Journalistieke reportage over een aantal misstanden in de Italiaanse samenleving.</p>]]></content>
+        <title type="html"><![CDATA[Voor jou alles]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460680269/voor-jou-alles-paulien-weikamp</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460680269/voor-jou-alles-paulien-weikamp"/>
+        <updated>2026-05-31T09:44:28.109Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460680269?aid=kb-online-bibliotheek&sid=21&dts=1780220667575&sig=8d64b6d900cb9d75cc6c66355d75b0f339ac0791c4aafb1ca2afbcaf2d2ce5da&width=320" alt="Omslag van 'Voor jou alles'" title="Omslag van 'Voor jou alles'">
+<p>Meeslepende jeugdroman over de gevolgen van seksueel grensoverschrijdend gedrag en de hartverwarmende kracht van vriendschap.  Merel is zestien en heeft nog nooit gezoend. Als het op een feestje eindelijk zover komt met de knappe Joris, volgt ze netjes alle aanwijzingen van haar beste vriendin Imme – en toch voelt er iets niet goed. Elke aanraking brengt haar terug naar een feest een paar jaar eerder, naar de witte bank waarop ze zat, naar de collega van haar moeder die veel te dicht bij haar kwam zitten… Merel durft met niemand te praten over wat er toen is gebeurd, maar de gedachten daaraan zorgen ervoor dat ze elke keer bevriest als haar vriendje haar wil zoenen. Als Merel eindelijk Imme in vertrouwen durft te nemen, kan ze de situatie veranderen. Ze wil zich geen slachtoffer meer voelen. En dat lukt – en hoe!</p><p>‘Weikamp is een welkome nieuwe auteur, die een flinke durf toont [...] en een stijl hanteert die heel fijn leest en soms in een handomdraai iets kwetsbaars heel helder gezegd krijgt.’ Edward van de Vendel over Vliegen, de debuutroman van Paulien Weikamp</p><p></p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ine Roox</name>
+            <name>Paulien Weikamp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brieven uit Alvites]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394936124/brieven-uit-alvites-gerrit-komrij</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394936124/brieven-uit-alvites-gerrit-komrij"/>
-        <updated>2026-05-29T10:38:54.477Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394936124?aid=kb-online-bibliotheek&sid=21&dts=1780051134214&sig=900137f855d4a1f58b8b578f5e7b389b262989f3d766aec79fd8f4614099d00b&width=320" alt="Omslag van 'Brieven uit Alvites'" title="Omslag van 'Brieven uit Alvites'">
-<p>Materiaal uit NRC-Handelsblad, het dagboek van Komrij en zijn notities uit zijn Alvites-periode bijeengebracht.</p>]]></content>
+        <title type="html"><![CDATA[De strijd van Gulleman]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460681060/de-strijd-van-gulleman-stijn-van-der-loo</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460681060/de-strijd-van-gulleman-stijn-van-der-loo"/>
+        <updated>2026-05-31T09:44:28.763Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460681060?aid=kb-online-bibliotheek&sid=21&dts=1780220668189&sig=52dc25130a6f479da986dc95a72ab34ba1217b39888ec1ee514c803eba300979&width=320" alt="Omslag van 'De strijd van Gulleman'" title="Omslag van 'De strijd van Gulleman'">
+<p>Victor Gulleman is geboren voor het geluk, maar de dagelijkse praktijk zit niet mee. Zijn voortdurende gevecht tegen het vuil slokt al zijn tijd op. En dat terwijl de dood hem op de hielen zit, zelfs naast hem slaapt, en alleen de eierstok van de Chinese hamster hem nog kan redden. Vol vaart en met de nodige humor strijdt Gulleman voort, onverminderd optimistisch.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Gerrit Komrij</name>
+            <name>Stijn van der Loo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onmogelijke vrede]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394797949/onmogelijke-vrede-jonathan-holslag</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394797949/onmogelijke-vrede-jonathan-holslag"/>
-        <updated>2026-05-29T10:38:54.689Z</updated>
-        <summary type="html"><![CDATA[China's moeizame opmars in Azië]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394797949?aid=kb-online-bibliotheek&sid=21&dts=1780050969967&sig=f0e4b2f1d192dd17a84afdfb3e663945719e6211472cacad49725a4a8d7ede65&width=320" alt="Omslag van 'Onmogelijke vrede'" title="Omslag van 'Onmogelijke vrede'">
-<p>Analyse van de opmars van China als grootmacht op zowel sociaal en economisch als politiek gebied.</p>]]></content>
+        <title type="html"><![CDATA[Unfortunately yours]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460679872/unfortunately-yours-tessa-bailey</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460679872/unfortunately-yours-tessa-bailey"/>
+        <updated>2026-05-31T09:44:29.499Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460679872?aid=kb-online-bibliotheek&sid=21&dts=1780220668853&sig=867dea2918b361526e87f21546b8abd72f2241c164a93609a16604f82c23ce15&width=320" alt="Omslag van 'Unfortunately yours'" title="Omslag van 'Unfortunately yours'">
+<p>Natalie Vos heeft een rampzalige periode achter de rug: ze werd in korte tijd door haar werkgever en haar verloofde gedumpt. Inmiddels heeft ze een plan voor een nieuwe start, maar om daarmee te kunnen beginnen heeft ze wel het geld uit haar trustfund nodig. Het probleem? Daar kan ze pas bij als ze getrouwd is. August Cates heeft recent een wijngaard geërfd, maar hij weet echt helemaal niks over het maken van wijn. Hij wil de nagedachtenis aan zijn overleden vriend levend houden, maar hij blijft maar ondrinkbare zure wijn maken en al zijn klanten rennen weg. Om de wijngaard uit het slop te trekken heeft hij een investering nodig, maar geen enkele bank wil hem ook maar een cent lenen. Dan ontmoeten Natalie en August elkaar, en waar de ontmoeting begint met geflirt, mondt die al snel uit in kattige beledigingen en een spanning die te snijden is. Toch zien de twee vrij snel in dat een kort nephuwelijk dé oplossing kan zijn voor hun problemen. Het enige wat ze in de tussentijd hoeven te doen is de lieve vrede bewaren, en niet samen in bed belanden. Makkelijker gezegd dan gedaan…  Tessa Bailey is een populaire romance-auteur. Ze werd internationaal megasuccesvol met BookTok-favorieten Een zomer vol verrassingen (in het Engels verschenen als It Happened One Summer) en Aan het lijntje (in het Engels verschenen als Hook, Line, and Sinker). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jonathan Holslag</name>
+            <name>Tessa Bailey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZIM]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/407297162/zim-ren%C3%A9-van-rijckevorsel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/407297162/zim-ren%C3%A9-van-rijckevorsel"/>
-        <updated>2026-05-29T10:38:54.892Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A407297162?aid=kb-online-bibliotheek&sid=21&dts=1780050687500&sig=785ec7cb0f456ef831a9440aae9094bd758d4a8ec9f194ed6a78ccea412ca664&width=320" alt="Omslag van 'ZIM'" title="Omslag van 'ZIM'">
-<p>Als hij in Zimbabwe de begrafenis van een vriend bijwoont, blijkt de jonge arts Felix Wellenstein ineens in de belangstelling van president Mugabe te staan.</p>]]></content>
+        <title type="html"><![CDATA[Alles voor Agaath]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460679058/alles-voor-agaath-marg%C3%B4t-ros---jeroen-kleijne</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460679058/alles-voor-agaath-marg%C3%B4t-ros---jeroen-kleijne"/>
+        <updated>2026-05-31T09:44:30.196Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460679058?aid=kb-online-bibliotheek&sid=21&dts=1780220669580&sig=d46ee6bc19f9aa4ab7480b7ffa60dcb9a3d447ee0a7d0f44067ab94988d5c645&width=320" alt="Omslag van 'Alles voor Agaath'" title="Omslag van 'Alles voor Agaath'">
+<p>De eigenzinnige weduwe Agaath (80) heeft een bijzondere vriendschap met kunstacademiestudent Karim (20), maar hij wordt meer en meer in beslag genomen door zijn studie én zijn huisvestingsproblemen. Om Agaaths eenzaamheid te verdrijven, helpt hij haar met het aanmaken van een datingprofiel. Agaath windt zich ondertussen steeds meer op over de woningnood in de stad en zoekt naar onorthodoxe oplossingen. Kan Karim haar overtuigen om nog één keer vol voor de liefde te gaan? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>René van Rijckevorsel</name>
+            <name>Margôt Ros</name>
+        </author>
+        <author>
+            <name>Jeroen Kleijne</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De papegaai, de stier en de klimmende bougainvillea]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/408953721/de-papegaai--de-stier-en-de-klimmende-bougainvillea-anil-ramdas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/408953721/de-papegaai--de-stier-en-de-klimmende-bougainvillea-anil-ramdas"/>
-        <updated>2026-05-29T10:38:55.363Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A408953721?aid=kb-online-bibliotheek&sid=21&dts=1780051135139&sig=9bcc97d908a6697a9c21abd8909004354651aab4ec8d6316e1c6a458981616e3&width=320" alt="Omslag van 'De papegaai, de stier en de klimmende bougainvillea'" title="Omslag van 'De papegaai, de stier en de klimmende bougainvillea'">
-<p>De scherpzinnige en prikkelende essays waarmee Ramdas zijn naam vestigde. Op grond van zijn eigen ervaringen - Ramdas groeide op in de hindoestaanse gemeenschap van Paramaribo - opent Ramdas De papegaai, de stier en de klimmende bougainvillea met een viertal persoonlijke, nostalgisch getinte essays. Daarna wijdt hij uit: over Surinaamse literatuur, over de verwachtingen die mensen in Suriname en op Curaçao hebben over het Westen, over Afrika, over zwarte literatuur en muziek, over de tweede generatie migranten, islamitisch fundamentalisme en de westerse 'beschaving', en over tolerantie en antiracisme. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Onder de mistletoe]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460680196/onder-de-mistletoe-ali-hazelwood---tessa-bailey---alexandria-bellefleur---olivia-dade</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460680196/onder-de-mistletoe-ali-hazelwood---tessa-bailey---alexandria-bellefleur---olivia-dade"/>
+        <updated>2026-05-31T09:44:30.829Z</updated>
+        <summary type="html"><![CDATA[Vijf feestelijke verhalen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460680196?aid=kb-online-bibliotheek&sid=21&dts=1780213656432&sig=cf9b863237870ea54cce8cd7f6c270961885e7cef9a831aef8c737bf882388e0&width=320" alt="Omslag van 'Onder de mistletoe'" title="Omslag van 'Onder de mistletoe'">
+<p>Als het buiten koud wordt, is er maar één manier om het weer warm te krijgen: vonken laten overslaan.  Kinderarts Jamie zit midden in een sneeuwstorm vast met haar vroegere aartsvijand Marc – die inmiddels irritant aantrekkelijk is geworden. Alleenstaande moeder Evie zoekt iets vrijblijvends, maar de zachtaardige boer Luke heeft iets heel anders in gedachten. Tijdens een sneeuwavontuur leert professor Nina haar knappe collega wel héél goed kennen. Everleigh wordt uit een dreigende kerstcrisis gered door een wel erg verleidelijke brandweerman. Als er in haar appartementengebouw een huisfeest wordt gegeven met kerstmannenthema, kan Evie eindelijk haar sexy bovenbuurman ontmoeten.  Vijf heerlijke, spicy verhalen van vijf superpopulaire romance-auteurs brengen je gegarandeerd in de feeststemming! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Anil Ramdas</name>
+            <name>Ali Hazelwood</name>
+        </author>
+        <author>
+            <name>Tessa Bailey</name>
+        </author>
+        <author>
+            <name>Alexandria Bellefleur</name>
+        </author>
+        <author>
+            <name>Olivia Dade</name>
+        </author>
+        <author>
+            <name>Alexis Daria</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Junkieverdriet]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/413543552/junkieverdriet-jotie-t-hooft</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/413543552/junkieverdriet-jotie-t-hooft"/>
-        <updated>2026-05-29T10:38:55.567Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A413543552?aid=kb-online-bibliotheek&sid=21&dts=1780050155838&sig=1a18b655371a16d535034185da1b4da2fe497613e6f61bb7ee60f299295fdb00&width=320" alt="Omslag van 'Junkieverdriet'" title="Omslag van 'Junkieverdriet'">
-<p>Volgens zijn bewonderaars had de begaafde Jotie T'Hooft (1956-1977) halfweg de jaren zeventig alles om uit te groeien tot een groot dichter. 'Als Hugo Claus de keizer is, is Jotie T'Hooft de prins,' verklaarde Julien Weverbergh (uitgever Manteau) toen T'Hooft voor zijn dichtbundel Junkieverdriet de Reina Prinsen Geerligsprijs kreeg.  Veertig jaar na het overlijden van Jotie T'Hooft is er eindelijk weer een fraaie heruitgave van deze iconische bundel, die sinds begin jaren tachtig niet meer in zijn oorspronkelijke vorm herdrukt was.</p><p> Daar ik een vermorzeld mens ben, liefste  Leg ik me behoedzaam neder  En tracht in het gebied dat ik verken  Geen sporen na te laten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De liefdesformule]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46068101X/de-liefdesformule-vi-keeland--</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46068101X/de-liefdesformule-vi-keeland--"/>
+        <updated>2026-05-31T09:44:31.338Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46068101X?aid=kb-online-bibliotheek&sid=21&dts=1780132179184&sig=f6ae3f191a1b344afe92b0cfced33403c084215b3b9435cc3f1fdd6f1edfc8a5&width=320" alt="Omslag van 'De liefdesformule'" title="Omslag van 'De liefdesformule'">
+<p>Het geweldige nieuwe verhaal van Vi Keeland, bekend van De baas, De rivalen en veel andere heerlijke romances Bella Keating denkt dat deze dag als iedere andere werkdag zal verlopen: op kantoor algoritmes schrijven voor een van de grootste bedrijven ter wereld. Maar deze dag verloopt echter anders dan alle andere: haar vader, die ze nooit gekend heeft, blijkt te zijn overleden en haar een groot aandeel in een footballteam te hebben nagelaten. Van het ene op het andere moment is Bella de eigenaar van een miljoenenteam van een sport waar ze niets van weet. Ze krijgt hulp uit onverwachte hoek: geblesseerde sterspeler Christian Knox helpt Bella haar draai te vinden bij het team, en leert haar veel over de spelers, de sport en wat er allemaal gebeurt achter de schermen. De knappe Christian weet maar al te goed wat voor effect hij heeft op vrouwen, en ook Bella is niet ongevoelig voor zijn charmes. Maar als nieuwe teambaas weet Bella dat ze geen persoonlijke relaties aan mag knopen met de spelers. Bovendien is Bella ervan overtuigd dat Christian volgens alle statistieken en algoritmes geen geschikte partner zou zijn voor haar. Maar misschien klopt er toch iets niet helemaal aan haar liefdesformule? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jotie T'Hooft</name>
+            <name>Vi Keeland</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De kleine voeten van Lowell George]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/41290490X/de-kleine-voeten-van-lowell-george-peter-buwalda</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/41290490X/de-kleine-voeten-van-lowell-george-peter-buwalda"/>
-        <updated>2026-05-29T10:38:55.761Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A41290490X?aid=kb-online-bibliotheek&sid=21&dts=1780049672051&sig=30c3692d7aeecd781a8aeb378f701ee9399410c98eb9a07bece52617f80ad943&width=320" alt="Omslag van 'De kleine voeten van Lowell George'" title="Omslag van 'De kleine voeten van Lowell George'">
-<p>Columns die tussen augustus 2016 en juli 2017 in de Volkskrant verschenen.</p>]]></content>
+        <title type="html"><![CDATA[De Chinaromans]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46067885X/de-chinaromans-j--slauerhoff</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46067885X/de-chinaromans-j--slauerhoff"/>
+        <updated>2026-05-31T09:44:31.908Z</updated>
+        <summary type="html"><![CDATA[Het verboden rijk & Het leven op aarde - met fragmenten uit de derde, nooit verschenen roman]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46067885X?aid=kb-online-bibliotheek&sid=21&dts=1780147775392&sig=1cec9cc93aff0c067b56d55211e8744b25239cc9bbeb02a95e1ad78720827b1a&width=320" alt="Omslag van 'De Chinaromans'" title="Omslag van 'De Chinaromans'">
+<p>Als scheepsarts reisde J. Slauerhoff over de hele wereld, maar er was geen land dat hem zo greep als China: de geschiedenis, de mensen, de steden en de natuur. Geen wonder dat hij China koos als decor voor zijn twee grote romans: Het verboden rijk en Het leven op aarde. Een derde roman, het sluitstuk van zijn Chinese trilogie, zou hij helaas nooit voltooien. In De Chinaromans brengen Slauerhoff-kenners Hein Aalders en Menno Voskuil de twee meesterwerken van Slauerhoff samen, aangevuld met fragmenten uit het derde, nimmer afgeronde deel. In een uitgebreid nawoord gaan zij in op Slauerhoffs fascinatie voor China, de romans en Slauerhoffs plannen een vervolg te schrijven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Peter Buwalda</name>
+            <name>J. Slauerhoff</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een Surinaamse ballade]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/408953993/een-surinaamse-ballade-anil-ramdas---fred-van-dijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/408953993/een-surinaamse-ballade-anil-ramdas---fred-van-dijk"/>
-        <updated>2026-05-29T10:38:55.062Z</updated>
-        <summary type="html"><![CDATA[wel de snack maar niet de saus]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A408953993?aid=kb-online-bibliotheek&sid=21&dts=1780050171456&sig=c967b335732a5047c36f26b52a32719ac7df5dfc0df6d518958fd5fd69d163e6&width=320" alt="Omslag van 'Een Surinaamse ballade'" title="Omslag van 'Een Surinaamse ballade'">
-<p>Verslag van een reis door Suriname.</p>]]></content>
+        <title type="html"><![CDATA[Egelskop]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460679384/egelskop-teddy-tops</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460679384/egelskop-teddy-tops"/>
+        <updated>2026-05-31T09:44:32.467Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460679384?aid=kb-online-bibliotheek&sid=21&dts=1780205940046&sig=252e4f077323489fd566282aec979149571ffef8066283dbcb62034360265a71&width=320" alt="Omslag van 'Egelskop'" title="Omslag van 'Egelskop'">
+<p>Levi, een joodse vrouw uit Amsterdam, kruipt na de Tweede Wereldoorlog uit de schaduw van haar onderduikadres en gaat op zoek naar een dansschool om in de spotlights te staan. Jo is de jongste van dertien kinderen, geboren in een plaggenhut in Drenthe. Met haar familie vertrekt ze naar Eindhoven om te werken in de Philips-fabriek. Beide vrouwen verruilen in de jaren van de wederopbouw een ondergronds bestaan voor het licht. En beiden zien de voorbestemde toekomst in neonletters voor zich. Wanneer ze de leeftijd hebben om te trouwen en voor het gezin te kiezen, besluit de naamloze verteller, die enkele decennia later opgroeit in een tijd waar de mogelijkheden eindeloos lijken te zijn, de regie op het verhaal over te nemen en de geschiedenis van haar beide grootmoeders te herschrijven. Wat volgt is een omgekeerd vlindereffect. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Anil Ramdas</name>
-        </author>
-        <author>
-            <name>Fred van Dijk</name>
+            <name>Teddy Tops</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De bijbel volgens Nicolaas Matsier]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/413543404/de-bijbel-volgens-nicolaas-matsier-nicolaas-matsier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/413543404/de-bijbel-volgens-nicolaas-matsier-nicolaas-matsier"/>
-        <updated>2026-05-29T10:38:56.205Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A413543404?aid=kb-online-bibliotheek&sid=21&dts=1780051135874&sig=bf258fd5657696fdb2da0dd14c23981919da48380e4badbfaa37379cb90b4340&width=320" alt="Omslag van 'De bijbel volgens Nicolaas Matsier'" title="Omslag van 'De bijbel volgens Nicolaas Matsier'">
-<p>Essays over oudtestamentische geschriften, opgevat als literatuur en cultureel erfgoed.</p>]]></content>
+        <title type="html"><![CDATA[We doen wat we kunnen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460679287/we-doen-wat-we-kunnen-lykele-muus</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460679287/we-doen-wat-we-kunnen-lykele-muus"/>
+        <updated>2026-05-31T09:44:32.986Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460679287?aid=kb-online-bibliotheek&sid=21&dts=1780220097986&sig=bfb47e66519f11dc2b0cb52ae9789eb017ec21301f7dcc9a1609495b44f43de2&width=320" alt="Omslag van 'We doen wat we kunnen'" title="Omslag van 'We doen wat we kunnen'">
+<p>Nu verfilmd als Voor de meisjes Tijdens een vakantie aan zee komen de tienerdochters van twee bevriende gezinnen in een ongeluk terecht. Elisa raakt in een uitzichtloos coma, Madelon mankeert niets. Als later blijkt dat Madelon er slechter aan toe is dan gedacht en alleen kan overleven met het hart van haar beste vriendin Elisa, loopt de situatie compleet uit de hand.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nicolaas Matsier</name>
+            <name>Lykele Muus</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smakelijk!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/419304010/smakelijk--ronald-giphart</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/419304010/smakelijk--ronald-giphart"/>
-        <updated>2026-05-29T10:38:56.356Z</updated>
-        <summary type="html"><![CDATA[De lekkerste verhalen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A419304010?aid=kb-online-bibliotheek&sid=21&dts=1780050183658&sig=ec563d2f07ab8091150042df0e7b9fcc766ec6d5e1e9c9ace5a890ed73c91d17&width=320" alt="Omslag van 'Smakelijk!'" title="Omslag van 'Smakelijk!'">
-<p>Al op jonge leeftijd hield Ronald Giphart van lekker eten - zijn moeder was een echte gourmande die elke maaltijd met liefde klaarmaakte. Nu bestiert hij samen met zijn vrouw een huishouden waar de dis misschien wel het meest besproken thema is. Van dat culinaire leven doet de schrijver in Prakken en stampen met veel plezier verslag. Hoe bereid je kokkels? Hoe maak je zelf boter? Wat is het geheim van de perfecte frikandel? Giphart vertelt niet alleen met smaak over het koken zelf, hij verhaalt ook over zijn culinaire ontdekkingsreizen, haalt zijn favoriete kookboeken tevoorschijn en schotelt ons kostelijke verhalen voor over wat er op tafel komt. Prakken en stampen is voor zowel de beginnende als voor de geoefende kok een genot om te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Adem]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460680285/adem-saskia-noort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460680285/adem-saskia-noort"/>
+        <updated>2026-05-31T09:44:33.449Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460680285?aid=kb-online-bibliotheek&sid=21&dts=1780123737362&sig=0da6fdb246df8a4039ea36e0052085cd9b834db208cb067b656b1e4a78f35465&width=320" alt="Omslag van 'Adem'" title="Omslag van 'Adem'">
+<p>Marieke wordt bijna vijftig - een mijlpaal die ze zich heel anders had voorgesteld. Voor de buitenwereld lijkt ze het allemaal voor elkaar te hebben: ze is een succesvolle single schrijfster, niet bang om zich uit te spreken. Maar van binnen worstelt ze met eenzaamheid, het verval van haar schoonheid, de scheiding en het moederschap, en bovenal: haar seksualiteit. En dan ineens is daar Harry, en alsof het allemaal nog niet genoeg is, schopt de verliefdheid haar wankele leven nog meer in de war. Met de hulp van een onconventionele therapeut besluit ze voor zichzelf te kiezen en de liefde aan te gaan. Maar hiermee wordt de doos van Pandora pas echt geopend... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ronald Giphart</name>
+            <name>Saskia Noort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japan]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/423003828/japan-cees-nooteboom</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/423003828/japan-cees-nooteboom"/>
-        <updated>2026-05-29T10:38:56.565Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A423003828?aid=kb-online-bibliotheek&sid=21&dts=1780050189700&sig=3a4f5254f006e1ac1598accd66955753781e0d0d47e8a493ee98f8311af7fdd3&width=320" alt="Omslag van 'Japan'" title="Omslag van 'Japan'">
-<p>Gebundelde reisverhalen over het leven, de kunst, het landschap en de natuur in Japan door een auteur die gefascineerd is door Japan en reizen.</p>]]></content>
+        <title type="html"><![CDATA[Wrecked]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460680129/wrecked-lauren-asher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460680129/wrecked-lauren-asher"/>
+        <updated>2026-05-31T09:44:34.028Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460680129?aid=kb-online-bibliotheek&sid=21&dts=1780147595957&sig=60f375291a94d8965266686b7b376431389827b3972df5429ded244eac4d3933&width=320" alt="Omslag van 'Wrecked'" title="Omslag van 'Wrecked'">
+<p>Alleen eerste druk met op één zijde prachtige kleur op snee! Dé spicy friends to lovers Formule 1-romance die je gelezen moet hebben, van Lauren Asher, bekend van bestsellers Tussen de regels (The Fine Print) en Love redesigned.</p><p>Met hun verboden liefde zetten ze alles op het spel JAX Pillen. Alcohol. Adrenaline. Ik ben verslaafd aan het maken van foute beslissingen. Tot ik een keer te ver ga. Om mijn plek in mijn team te houden moet ik akkoord gaan met constant geschaduwd worden door pr-expert Elena Gonzalez. Ik heb helemaal geen zin in een babysitter, maar ik heb geen keuze. Elena zou mijn redding moeten zijn, maar is eerder mijn ondergang. En mijn nieuwste verslaving.  ELENA Ik smeekte het universum me te helpen met de hopeloze staat van mijn financiën. De oplossing? Een Formule 1-team dat op zoek is naar een pr-wonder. De carrière van een Britse coureur uit het slop trekken zou niet moeilijk moeten zijn, maar Jax blijft al mijn plannen dwarsbomen, en met me flirten. Hoe beter ik hem leer kennen, hoe meer gevoelens erbij komen kijken. Maar is wat er tussen ons aan het ontstaan is het waard om onze carrières op het spel te zetten? Wrecked is het derde deel in de Dirty air-serie. De serie begint met Throttled en Collided, en gaat hierna verder met Redeemed. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Cees Nooteboom</name>
+            <name>Lauren Asher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maria Sibylla]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/424454165/maria-sibylla-inez-van-dullemen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/424454165/maria-sibylla-inez-van-dullemen"/>
-        <updated>2026-05-29T10:38:57.121Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424454165?aid=kb-online-bibliotheek&sid=21&dts=1780049973101&sig=b8b997638468a36f36fcf847fbe808ef4fc5bca6799f9d0d50adb545d686d163&width=320" alt="Omslag van 'Maria Sibylla'" title="Omslag van 'Maria Sibylla'">
-<p>Maria Sibylla is een roman over de schilderes Maria Sibylla Merian, die op het eind van de zeventiende eeuw naar Suriname vertrekt vanwege haar bijzondere passie voor vlinders. Van haar leven zijn slechts een aantal feiten bekend. Waar Inez van Dullemen zich moet beroepen op haar verbeelding kruipt ze overtuigend in de huid van deze vrijgevochten vrouw die met opmerkelijke moed haar man verlaat, en een aantal jaren daarna met haar jongste dochter naar Suriname reist. Ze neemt de lezer mee op een adembenemende tocht door een land waar slavernij hoogtij viert. Maria Sibylla ontmoet de slavin Kwasiba op het moment dat deze haar zoontje begraaft. Vanaf dan zijn de levens van beide vrouwen onontkoombaar verbonden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[My december darling]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460678981/my-december-darling-lauren-asher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460678981/my-december-darling-lauren-asher"/>
+        <updated>2026-05-31T09:44:34.647Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460678981?aid=kb-online-bibliotheek&sid=21&dts=1780220674105&sig=7b24b7a50298a8f050dc433342f6c5f426f17dca2007fc43ec33bfe158a37c35&width=320" alt="Omslag van 'My december darling'" title="Omslag van 'My december darling'">
+<p>Catalina Bruidsmeisje zijn voor mijn zus gaat me makkelijk af, ook al trouwt ze met mijn ex. Maar aardig doen tegen zijn getuige? Dat hoeft nou ook weer niet. Oké, Luke Darling is misschien verdacht aardig en ongelooflijk knap, maar ik hoef hem echt niet beter te leren kennen: hij is de beste vriend van mijn ex… Dat is al ongemakkelijk genoeg. Maar stiekem baal ik ervan dat Luke niet degene is die ik als eerst heb ontmoet.</p><p>Luke Als getuige is mijn taak simpel, er is maar één lastige kwestie: ik heb de ex van mijn beste vriend altijd vermeden, maar nu merk ik dat ik Catalina Martinez niet uit mijn hoofd kan krijgen. Ze is hierheen gekomen voor de bruiloft en vertrekt na de feestdagen weer, maar ik laat me daardoor niet uit het veld slaan. December is de meest romantische tijd van het jaar, en de perfecte periode om verliefd te worden… zelfs als ik de enige ben die de gok aandurft.</p><p></p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Inez van Dullemen</name>
+            <name>Lauren Asher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voor koningin en vaderland]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/423405780/voor-koningin-en-vaderland-tomas-ross</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/423405780/voor-koningin-en-vaderland-tomas-ross"/>
-        <updated>2026-05-29T10:38:56.738Z</updated>
-        <summary type="html"><![CDATA[De Dubbelganger; De Anjercode; King Kong]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A423405780?aid=kb-online-bibliotheek&sid=21&dts=1780049456599&sig=b70b67aaeeca7fe872c9c993a81f13a41af2cb20c6f15606e7101804b27e2dd8&width=320" alt="Omslag van 'Voor koningin en vaderland'" title="Omslag van 'Voor koningin en vaderland'">
-<p>De succesvolle en bekroonde bestsellers (De dubbelganger, De anjercode, King Kong), over de geheimen rond de Slag om Arnhem en het Englandspiel nu in één band.</p><p>'Een verleidelijk historisch verhaal. Verplichte kost voor oorlogsvorsers en historisch geïnteresseerden.' - NRC Handelsblad  'Voor koningin en vaderland is een project waarvoor men hoed of pet diep moet afnemen.' - Het Parool </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Rustimo]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460677993/rustimo-lucas-zandberg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460677993/rustimo-lucas-zandberg"/>
+        <updated>2026-05-31T09:44:35.112Z</updated>
+        <summary type="html"><![CDATA[Speelkameraad van Sisi’s dochter]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460677993?aid=kb-online-bibliotheek&sid=21&dts=1780110155098&sig=8b98278639a82612955b4d8406fb5c118538de84703af70bc278827a01adc08e&width=320" alt="Omslag van 'Rustimo'" title="Omslag van 'Rustimo'">
+<p>Een aangrijpende roman over een mens als speelbal van zijn tijd, gebaseerd op een waargebeurd verhaal Wenen, 1878. Keizerin Sisi ontvangt een bijzonder geschenk van de onderkoning van Egypte: Rustimo, een Soedanees weeskind. Hij wordt aangesteld als speelkameraad van haar lievelingsdochter Valerie en krijgt zo toegang tot de pracht en praal van het hof. Terwijl Rustimo zijn plaats probeert te vinden, groeit zijn band met Valerie, evenals de weerstand van de hovelingen. Zijn unieke positie biedt hoop, maar ook gevaar in een wereld die niet klaar is voor iemand zoals hij.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tomas Ross</name>
+            <name>Lucas Zandberg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De cursus omgaan met teleurstellingen gaat wederom niet door]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/424478412/de-cursus-omgaan-met-teleurstellingen-gaat-wederom-niet-door-herman-finkers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/424478412/de-cursus-omgaan-met-teleurstellingen-gaat-wederom-niet-door-herman-finkers"/>
-        <updated>2026-05-29T10:38:56.939Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424478412?aid=kb-online-bibliotheek&sid=21&dts=1780049553417&sig=f72aa0ea750c37bbf0657dcee0077ff50637f0e01fdbbeecf89307dc0d321fca&width=320" alt="Omslag van 'De cursus omgaan met teleurstellingen gaat wederom niet door'" title="Omslag van 'De cursus omgaan met teleurstellingen gaat wederom niet door'">
-<p>'Ik word wakker, doe een plas, sta op en denk: Verrek, het moest andersom.' Of, zoals Finkers ooit al zei: 'De leukste grappen zijn de grappen die niet zijn bedacht, maar ja, bedenk die maar eens.' In oneliners als deze, maar ook in verzen als: 'Ik zit voor het raam, ik fluister zacht haar naam: Veldhuis,' wordt bij Finkers het ongerijmde geloofwaardiger dan het gezond verstand, dat immers al genoeg ellende veroorzaakt. Zijn wijsheden worden evenveel geciteerd in het café als op filosofencongressen. Finkers op papier is plezier waar je lach- en denkrimpels van krijgt. In deze bundel zijn de overzichtswerken De cursus 'omgaan met teleurstellingen' gaat wederom niet door en Poëzie, zo moeilijk nie samengebracht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Erfgenamen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46067790X/erfgenamen-olof-van-joolen---ilan-sluis</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46067790X/erfgenamen-olof-van-joolen---ilan-sluis"/>
+        <updated>2026-05-31T09:44:35.779Z</updated>
+        <summary type="html"><![CDATA[Opgroeien in de schaduw van de oorlog]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46067790X?aid=kb-online-bibliotheek&sid=21&dts=1780220675188&sig=5d7e1a2c9271b1f1f1eadc3d669678de9bd3d7ad7873eeae01b06e9bcd48ddbf&width=320" alt="Omslag van 'Erfgenamen'" title="Omslag van 'Erfgenamen'">
+<p>Ilan Sluis en Olof van Joolen (beiden geboren in 1975) zijn boezemvrienden maar dat zou dik tachtig jaar geleden ondenkbaar zijn geweest. Ilans Joodse oma Lien overleefde als enige van haar familie de Nazi-terreur. Terreur waar Olofs grootvader Jacobus aan deelnam. Hij was lid van de SS, vocht aan het oostfront en werd nadat hij daar dienstongeschikt raakte onderdeel van de gevreesde Utrechtse Sicherheitsdienst (SD).  Ilan en Olof weten alleen op hoofdlijnen wat er met hun grootouders is gebeurd. In Erfgenamen gaan ze samen op onderzoek uit. Hoe wist Lien aan de Holocaust te ontkomen en waarom maakte Jacobus de keuze die zijn verdere leven bepaalde? Wat voor invloed had hun oorlogsverleden op het leven van hun kinderen? En op wat voor manier werkt dat nog door in de levens van Ilan en Olof?  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Herman Finkers</name>
+            <name>Olof van Joolen</name>
+        </author>
+        <author>
+            <name>Ilan Sluis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jachthuis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/425089061/jachthuis-oscar-van-den-boogaard</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/425089061/jachthuis-oscar-van-den-boogaard"/>
-        <updated>2026-05-29T10:38:57.519Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A425089061?aid=kb-online-bibliotheek&sid=21&dts=1780050818041&sig=0be52ddede744c5010a3930dd2ab8257c2ccd6964f646ab2b50001de9d8ef316&width=320" alt="Omslag van 'Jachthuis'" title="Omslag van 'Jachthuis'">
-<p>Na de dood van zijn moeder Elsie reist de achttienjarige Maxwell naar Suriname, het paradijs waar hij zijn eerste kinderjaren doorbracht. Zodra hij aankomt bij de rivier de Marowijne aan de grens met Frans-Guyana herinnert hij zich de dramatische overtocht die hij een paar jaar daarvoor samen met zijn ouders maakte.  Het brengt hem verder terug in zijn herinneringen. Als het gezin eind jaren zestig terug naar Nederland komt vinden ze onderdak in een donker jachthuis op een koninklijk domein. De volwassen zoon van de rentmeester heeft een ongezonde fixatie op Maxwell, die begint te vermoeden dat hij de zoon van de prins is en niet van zijn vader Jim. Wanneer Maxwell twaalf is, wordt Jim opnieuw overgeplaatst naar Suriname. Getergd door de Lockheed-affaire heeft de prins behoefte aan aandacht van Elsie. Wanneer hij langskomt, lijkt de harmonie in het jachthuis hersteld, maar als hij weg is voelt Maxwell zich ten opzichte van Jim schuldig een geheim kind te zijn. Het is de redding voor Maxwell dat hij contact maakt met de nieuwe buren, een kinderloos koppel met een collectie hedendaagse kunst, die hem opvangen als hun eigen kind. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[In een rustige buurt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460680978/in-een-rustige-buurt-seraphina-nova-glass</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460680978/in-een-rustige-buurt-seraphina-nova-glass"/>
+        <updated>2026-05-31T09:44:36.267Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460680978?aid=kb-online-bibliotheek&sid=21&dts=1780193178071&sig=7b810c0b87f1e2c70c80f18aa5937a622c8b5a429253e3349bc2429366d9c627&width=320" alt="Omslag van 'In een rustige buurt'" title="Omslag van 'In een rustige buurt'">
+<p>Zou jij je buren vertrouwen als je leven ervan afhing?Op het eerste gezicht lijkt Brighton Hills een typische wijk in de suburbs: prachtige, luxe huizen omringd door groen. De bewoners hebben ieder zo hun eigen problemen: zoals de bemoeizuchtige maar zorgzame Cora, die ervan overtuigd is dat haar man vreemdgaat. Of Georgia, een angstige jonge moeder die weinig buitenkomt. En dan is er nog Paige, die een jaar geleden haar zoon verloor bij een hit-and-run, en die niet zal rusten voor ze de schuldige heeft gevonden.Maar achter een van de voordeuren gaat een geheim schuil dat duisterder is dan iemand kan vermoeden. Naarmate de bewoners steeds meer bij elkaars problemen betrokken raken, leren ze dat een goede buur inderdaad beter is dan een verre vriend – sterker nog: dat die soms de enige is die je leven kan redden.In een rustige buurt is slow burn domestic suspense op zijn best, voor de fans van B.A. Paris en Liane Moriarty.‘Een auteur om in de gaten te houden.’ – Publishers Weekly‘Eindelijk een psychologische thriller die me de adem benam!’ – Een van de ruim 30.000 *****–reviews op Goodreads </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Oscar van den Boogaard</name>
+            <name>Seraphina Nova Glass</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zwerm]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/427162963/zwerm-peter-verhelst</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/427162963/zwerm-peter-verhelst"/>
-        <updated>2026-05-29T10:38:58.645Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427162963?aid=kb-online-bibliotheek&sid=21&dts=1780050360927&sig=271b088dbcbe5a0a87bb68befc539815b024b6e4c1b5de74fe19cc50ed55b768&width=320" alt="Omslag van 'Zwerm'" title="Omslag van 'Zwerm'">
-<p>Kaleidoskopisch beeld van toekomst en verleden van de mensheid.</p>]]></content>
+        <title type="html"><![CDATA[Voor altijd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460679694/voor-altijd-plinius-de-jongere</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460679694/voor-altijd-plinius-de-jongere"/>
+        <updated>2026-05-31T09:44:36.816Z</updated>
+        <summary type="html"><![CDATA[Een zelfportret in brieven]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460679694?aid=kb-online-bibliotheek&sid=21&dts=1780205277486&sig=9ebd44d8aa17c14b7c8906b296d825e54f44757927f30459336b12da49584a97&width=320" alt="Omslag van 'Voor altijd'" title="Omslag van 'Voor altijd'">
+<p>Een spookhuis in Athene, spannende besprekingen in de senaat, luxe landhuizen en de uitbarsting van de Vesuvius bij Pompeii. Heel verschillende thema’s die één ding gemeen hebben: ze worden kleurrijk beschreven in de brieven van Plinius.  Gaius Plinius Caecilius Secundus, beter bekend als Plinius de Jongere, was een rijke Romein en senator uit de tijd van keizer Trajanus. Een man met een bevoorrecht leven, daarvan getuigen de negen bundels persoonlijke brieven die hij publiceerde. Vriendschap, goede smaak en hoge morele normen spelen een belangrijke rol. Plinius hanteert een verzorgde, literaire stijl, waarmee hij welbewust mikt op eeuwige roem. Elke brief is een klein kunstwerk, een wondertje van taal.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Peter Verhelst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tekens van leven]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/426029364/tekens-van-leven-frederik-willem-daem</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/426029364/tekens-van-leven-frederik-willem-daem"/>
-        <updated>2026-05-29T10:38:58.187Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426029364?aid=kb-online-bibliotheek&sid=21&dts=1780050066922&sig=0c6ddbb95cfc6c26aa45d03d145929d151e6f370e1459dd86a9ac8f72633c59d&width=320" alt="Omslag van 'Tekens van leven'" title="Omslag van 'Tekens van leven'">
-<p>Naargelang de avond in café De Kauw vorderde, stommelden er almaar meer hoofden naar binnen en voor je het wist stond iedereen schouder aan schouder, heen en weer deinend met enkel de toog als boei. In de lucht vocht nevel met zweet en naast je slurpte iemand een restantje Long Island Iced Tea van tussen de smeltende ijsblokjes. Straks zou er tegen wil en dank gedanst worden, ook al kleefde de vloer al weken van het bier. 'Het wordt ne lange nacht,' zei Visse, 'waarvan morgen niets meer overblijft.' Drie jaar lang schuimde Frederik Willem Daem de ene na de andere kroeg af om er te schrijven tot sluitingstijd. Uit deze ervaringen en in deze wereld schiep hij zijn roman Tekens van leven. In De Kauw kwam alles samen, hier zocht hij zijn toevlucht, wachtend op wat was en wat nog komen moest, terwijl het café zijn eigen verlies verwerkte. Na zijn veelgeprezen verhalenbundel Zelfs de vogels vallen toont Frederik Willem Daem met Tekens van leven dat hij aan eigenzinnigheid niets heeft ingeboet. Zijn debuutroman is een fonkelend boek over verslaving, onthechting en reclame en leest als een intellectuele roes waaruit je niet snel ontnuchtert. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Frederik Willem Daem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanker voor beginners]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/430083688/kanker-voor-beginners-jeroen-van-merwijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/430083688/kanker-voor-beginners-jeroen-van-merwijk"/>
-        <updated>2026-05-29T10:38:58.474Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430083688?aid=kb-online-bibliotheek&sid=21&dts=1780051138266&sig=6374c05207213498899c368ec3d493dd8e8ac4d2b8f1548b80c12fede8fd78a1&width=320" alt="Omslag van 'Kanker voor beginners'" title="Omslag van 'Kanker voor beginners'">
-<p>Na een oudejaarsavondoptreden voelt Jeroen van Merwijk ineens wat onder zijn borstbeen. Het blijkt darmkanker te zijn, met uitzaaiingen naar de lever. Begin februari stuurt hij een bericht naar zijn ‘lieve mensen’, waarin hij laat weten dat zij hem binnenkort zullen moeten gaan missen. In Kanker voor beginners beschrijft hij wat er op hem afkomt. De vele onderzoeken en behandelingen, de overweldigende belangstelling van vrienden en onbekenden, het groeiende besef dat hij zijn dierbaren zal moeten achterlaten. Hoe ga je om met zo’n ziekte? Hoe bespreek je dit met je geliefde? Wat doe je met het leven dat je rest? Kanker voor beginners is een indringend, troostrijk en bij vlagen geestig verslag. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jeroen van Merwijk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ik Jan Cremer 1,2 en 3]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/425220842/ik-jan-cremer-1-2-en-3-jan-cremer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/425220842/ik-jan-cremer-1-2-en-3-jan-cremer"/>
-        <updated>2026-05-29T10:38:57.813Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A425220842?aid=kb-online-bibliotheek&sid=21&dts=1780051137596&sig=e62836ec122f6412836ea58f0a79dc53ffdf28aa159876bb975ae570cf99a80f&width=320" alt="Omslag van 'Ik Jan Cremer 1,2 en 3'" title="Omslag van 'Ik Jan Cremer 1,2 en 3'">
-<p>Omnibus waarin de drie autobiografische romans van Jan Cremer (1940) zijn gebundeld.</p>]]></content>
-        <author>
-            <name>Jan Cremer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitra]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/42938517X/mitra-kaweh-modiri</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/42938517X/mitra-kaweh-modiri"/>
-        <updated>2026-05-29T10:38:57.330Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42938517X?aid=kb-online-bibliotheek&sid=21&dts=1780050507888&sig=a7ce0e60bbc84f0d162f572f41ed796b8d3ee33b5134b2f7b431dd45efe148b1&width=320" alt="Omslag van 'Mitra'" title="Omslag van 'Mitra'">
-<p>Na de executie van haar dochter Mitra, in 1981 in Iran, is Haleh naar Nederland gevlucht, waar ze zich in de decennia erna heeft opgewerkt tot een gerenommeerde academica. Haar leven wordt ruw verstoord wanneer ze het bericht krijgt dat de vrouw die ze verantwoordelijk houdt voor de dood van haar dochter, in Nederland is. Omdat ze de waarheid wil weten, besluit Haleh contact met haar te zoeken. De vrouw blijkt recent, samen met haar eigen dochter, te zijn gevlucht. Hoe nauwer Haleh betrokken raakt bij hun levens, hoe meer ze heen en weer wordt geslingerd tussen twijfels over de ware identiteit van de vrouw en haar eigen wraakgevoelens. Mitra is een indringende roman over een leven dat getekend is door een onontkoombaar verleden. Het beklemmende verhaal van een vrouw die vat tracht te krijgen op de onrechtvaardigheid van haar lot en wanhopig probeert terug te halen wat verloren is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kaweh Modiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ik kan niet dood zijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/429385285/ik-kan-niet-dood-zijn-harry-mulisch</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/429385285/ik-kan-niet-dood-zijn-harry-mulisch"/>
-        <updated>2026-05-29T10:38:58.994Z</updated>
-        <summary type="html"><![CDATA[Invallen, observaties en aforismen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385285?aid=kb-online-bibliotheek&sid=21&dts=1780050852490&sig=4e6fd89ce1e86ea060c13237ed921ebe6d3678cebf544b65db2a007fb698c255&width=320" alt="Omslag van 'Ik kan niet dood zijn'" title="Omslag van 'Ik kan niet dood zijn'">
-<p>Al tijdens de Tweede Wereldoorlog,voordat Harry Mulisch zijn eerste verhaal publiceerde, noteerde hij invallen, observaties en aforismen. Het was zijn manier om het bestaan vorm te geven en de wereld om hem heen te duiden. Dit heeft hij zijn leven lang volgehouden. Ik kan niet dood zijn is een verzameling van de meest rake bespiegelingen die Harry Mulisch over een periode van zestig jaar optekende in talloze schriften, op losse velletjes en op de blocnotes van de hotels waar zijn schrijversbestaan hem naartoe leidde. Met een onstuitbare nieuwsgierigheid en een feilloos instinct bestudeerde en beschouwde hij de raadsels van het schrijven, van de kunst, van het bestaan, van de tijd en van de dood. Dat zijn voor een schrijver geen raadsels om voor terug te deinzen, maar om te omarmen, en te vergroten. Harry Mulisch deed dat zonder aarzeling, met open vizier en een lach, wetend dat er met ieder antwoord ieder antwoord altijd weer nieuwe raadsels opdoemen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Harry Mulisch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het mirakel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/429385242/het-mirakel-harry-mulisch</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/429385242/het-mirakel-harry-mulisch"/>
-        <updated>2026-05-29T10:38:58.013Z</updated>
-        <summary type="html"><![CDATA[Episodes van troost en liederlijkheid uit het leven van de heer Tiennoppen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385242?aid=kb-online-bibliotheek&sid=21&dts=1780050911381&sig=d4392907d711a9d00a12c3530e0083a69355ded3f2cfeb9aa3ba789acb6a48d5&width=320" alt="Omslag van 'Het mirakel'" title="Omslag van 'Het mirakel'">
-<p>Op een bijna duivelse manier creëerde Harry Mulisch met de heer Tiennoppen een personage dat in worsteling is met de werkelijkheid. Het is in de nacht of in de schemering, in de tijd waarin het licht bedrieglijk wordt, dat Tiennoppen ten prooi valt aan zichzelf en aan een giftige wereld die vooral in zijn verbeelding bestaat. Het is een wereld waarin niemand hem meer herkent, een gewelddadige wereld waarin Tiennoppen zonder pardon motorrijders laat verongelukken en automobilisten de gracht in laat rijden. Hij kan met twee tongen spreken en buiten zichzelf raken. In deze magisch-realistische taferelen schept Mulisch een hedendaagse Elckerlyc: Tiennoppen staat voor de mens die zich geen raad weet met de clichématige en vastgelegde culturele patronen van de maatschappij. Mulisch’ verhalen vormen daarvoor de magistrale uitweg. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Harry Mulisch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quarantaine]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/426467566/quarantaine-wim-dani%C3%ABls</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/426467566/quarantaine-wim-dani%C3%ABls"/>
-        <updated>2026-05-29T10:38:58.831Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426467566?aid=kb-online-bibliotheek&sid=21&dts=1780050145560&sig=00bc9392c7afdff189a4c8f65c2e00fa9aef637a5827efc62565c47334ed42bc&width=320" alt="Omslag van 'Quarantaine'" title="Omslag van 'Quarantaine'">
-<p>Roman over een liefde in tijden van corona Een man en een vrouw zijn in maart 2020 onafhankelijk van elkaar afgereisd naar een afgelegen bungalowpark in de Dordogne om een belangrijk doel te verwezenlijken. Daar krijgen ze al snel te maken met het om zich heen grijpende coronavirus. Ze zoeken troost bij elkaar, ze zoeken een uitweg, maar de problemen lijken zich alleen maar op te stapelen. Toch is er ook houvast, ze herkennen iets in elkaar en er zijn gesprekken die tot verrassende inzichten leiden. In Quarantaine vertelt Wim Daniëls het verhaal van mensen die getroffen worden door een virus. Een aangrijpend, maar ook hoopvol verhaal en bovenal een lofzang op de liefde. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Wim Daniëls</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liefde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434029726/liefde--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434029726/liefde--"/>
-        <updated>2026-05-29T10:38:59.346Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434029726?aid=kb-online-bibliotheek&sid=21&dts=1780051139088&sig=e71783e1f323499734a55f6f423fa3ad895cc91600b2d333cb56cd0d03fe841d&width=320" alt="Omslag van 'Liefde'" title="Omslag van 'Liefde'">
-<p>Bloemlezing met 52 gedichten van verschillende dichters met de liefde in al haar schakeringen als centraal thema.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In goed en kwaad]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/429385439/in-goed-en-kwaad-f--harmsen-van-beek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/429385439/in-goed-en-kwaad-f--harmsen-van-beek"/>
-        <updated>2026-05-29T10:39:00.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385439?aid=kb-online-bibliotheek&sid=21&dts=1780051140490&sig=9a6351aea54fde77f605f676794da250c8e25800e82f8d0fda4984dd8512d1fc&width=320" alt="Omslag van 'In goed en kwaad'" title="Omslag van 'In goed en kwaad'">
-<p>Het oeuvre van F. Harmsen van Beek is bescheiden, en toch wordt ze nog altijd tot de grootste dichters van Nederland gerekend. Veel van haar collega’s, onder wie A. Roland Holst, Remco Campert, J. Bernlef en Hugo Claus, waren in de ban van haar talent. Vanaf de jaren zeventig leefde ze teruggetrokken, schuw geworden van te veel ongewenste aandacht. Ze stond niet toe dat de boeken of losse tijdschriftpublicaties bij haar leven werden herdrukt. In In goed en kwaad is haar literaire werk bijeengebracht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>F. Harmsen van Beek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Philip Roth]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/431717990/philip-roth-blake-bailey</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/431717990/philip-roth-blake-bailey"/>
-        <updated>2026-05-29T10:38:59.822Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A431717990?aid=kb-online-bibliotheek&sid=21&dts=1780051139480&sig=0b253e9bcf100bd8017efc2a93d256d9392d99ad2579ac691754f7d486a40a1d&width=320" alt="Omslag van 'Philip Roth'" title="Omslag van 'Philip Roth'">
-<p>De veelgeprezen biograaf Blake Bailey werd door Philip Roth aangewezen om zijn levensverhaal te schrijven. Volledig onafhankelijk in zijn verdere aanpak kreeg Bailey toegang tot Roths persoonlijke archief en sprak hij diens vrienden, geliefden en collega’s. Ook met Roth zelf voerde hij zeldzaam openhartigegesprekken. Bailey beschrijft hoe Roth opgroeide in een Joods gezin uit de arbeidersklasse, hoe zijn literaire carrière bijna ontspoorde door zijn eerste, catastrofale huwelijk en hoe hij een pleitbezorger werd voor dissidente schrijvers uit het Oostblok. Ook onthult Bailey de waarheid over Roths tumultueuze liefdesleven, en dan met name zijn bijna twintig jaar durende relatie met actrice Claire Bloom. Door de jaren heen zou Roth met elk aspect en vele verschillende stijlen van de naoorlogse Amerikaanse literatuur in aanraking komen, van realisme tot farce, van metafictie tot de tragiek van De Amerikaanse Trilogie. Het resultaat van Blake Baileys jarenlange onderzoek naar Philip Roth is een uiterst leesbare, allesomvattende biografie van een van de grootste schrijvers van onze tijd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Blake Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rouw]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434029742/rouw--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434029742/rouw--"/>
-        <updated>2026-05-29T10:39:00.405Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434029742?aid=kb-online-bibliotheek&sid=21&dts=1780051139910&sig=9cbb5fb345456593eb60ba03a1b97e8d0512f2918d6e4051a9d72463a11f5371&width=320" alt="Omslag van 'Rouw'" title="Omslag van 'Rouw'">
-<p>Bundel met 99 verzen van dichters van vroeger en nu over rouw en de verwerking daarvan.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coke]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433173238/coke-ad-fransen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433173238/coke-ad-fransen"/>
-        <updated>2026-05-30T09:10:46.306Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433173238?aid=kb-online-bibliotheek&sid=21&dts=1780132246083&sig=34a43445cae64ef4e8f3596447a667cda34d9b788f545640ea86590787e3fc65&width=320" alt="Omslag van 'Coke'" title="Omslag van 'Coke'">
-<p>Autobiografisch verslag van de Nederlandse journalist over zijn jarenlange cocaïneverslaving.</p>]]></content>
-        <author>
-            <name>Ad Fransen</name>
+            <name>Plinius de Jongere</name>
         </author>
     </entry>
 </feed>
