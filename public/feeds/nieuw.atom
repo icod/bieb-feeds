@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-06-05T10:41:28.479Z</updated>
+    <updated>2026-06-06T09:19:48.740Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -49,21 +49,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Staken op leven en dood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437519635/staken-op-leven-en-dood-erik-dijkstra---hans-morssinkhof</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437519635/staken-op-leven-en-dood-erik-dijkstra---hans-morssinkhof"/>
-        <updated>2026-06-03T11:50:48.150Z</updated>
-        <summary type="html"><![CDATA[De vergeten April-meistakingen van 1943]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437519635?aid=kb-online-bibliotheek&sid=21&dts=1780465617564&sig=a4173317d0e1172a75dec31590cfb3e6ca544b0472369d198786cbfaebbce3aa&width=320" alt="Omslag van 'Staken op leven en dood'" title="Omslag van 'Staken op leven en dood'">
-<p>In april 2023 is het tachtig jaar geleden dat in Hengelo de April-meistakingen tegen de Duitse bezetter begonnen, om zich als een lopend vuurtje door heel Nederland te verspreiden; in dit boek staat deze relatief onbekende geschiedenis opgetekend, aangevuld met o.a. persoonlijke verhalen van nabestaanden en bijzonder archiefmateriaal Nederland was al drie jaar door de Duitsers bezet toen op 29 april 1943 het bevel werd gegeven om alle voormalige Nederlandse soldaten in Duitsland dwangarbeid te laten verrichten. De reactie van burgers door heel Nederland was ongehoord. Aangemoedigd door de telefonistes van de Stork-machinefabriek in Hengelo ging een oproep om te staken als een lopend vuurtje door het land. Binnen een dag legden honderdduizenden het werk neer. Het was de grootste staking ooit in Nederland, zelfs de grootste staking in het door Duitsland bezette Europa. De opstand werd bloedig neergeslagen: er waren tweehonderd doden en honderden mensen die naar strafkampen werden gedeporteerd. De April-meistakingen van 1943 werden een keerpunt in de bezetting. Voor dit keerpunt werden de Duitsers door veel Nederlanders met wat onverschilligheid bekeken, daarna was iedereen die niet pro-Duits was ook daadwerkelijk anti-Duits. De Duitsers hadden hun ware gezicht getoond en het verzet kreeg vleugels. Waarom is zo’n belangrijke gebeurtenis relatief onbekend gebleven? Met die vraag reisde Erik Dijkstra door het land, en hij stuitte op een onuitputtelijke hoeveelheid prachtige, onbekende en ontroerende verhalen. Ze getuigen van liefde, van onwaarschijnlijke heldenmoed en van pijn die generatieslang doorwerkt en tot op de dag van vandaag nog mensenlevens bepaalt. In de pers ‘De April-meistaking, die tachtig jaar geleden begon bij Stork in Hengelo, krijgt volop landelijke aandacht. Terecht, stelt BNNVARA-programmamaker Erik Dijkstra. “Het is zo’n onbekend verhaal. Volgens Ad van Liempt, die veel onderzoek doet naar de Tweede Wereldoorlog, komt dat puur omdat deze staking buiten de Randstad begon.” Op 29 april 1943 legden drieduizend medewerkers van Stork het werk neer, uit protest. Uiteindelijk deden in heel Nederland ruim een half miljoen mensen mee. “Dit verhaal moet verteld worden. We gaan het hele land door.”’ Tubantia </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Erik Dijkstra</name>
-        </author>
-        <author>
-            <name>Hans Morssinkhof</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hemel op aarde]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/43914941X/hemel-op-aarde-rob-kemps</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/43914941X/hemel-op-aarde-rob-kemps"/>
@@ -76,36 +61,18 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rookgordijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691724/rookgordijn-elly-griffiths</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691724/rookgordijn-elly-griffiths"/>
-        <updated>2026-06-03T11:50:49.274Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691724?aid=kb-online-bibliotheek&sid=21&dts=1780457660593&sig=6bc8f737940ef544107a48c717f72e3cc873fc055c808105f9d7b970ca2f2016&width=320" alt="Omslag van 'Rookgordijn'" title="Omslag van 'Rookgordijn'">
-<p>Boek 2 in de Brighton mysteries-serie. December 1951. Terwijl het sneeuwt en Kerstmis nadert, onderzoekt rechercheur Stephens de verdwijning van twee kinderen, Mark en Annie. Dan worden de lichamen van de kinderen gevonden op een afgelegen plek, omringd door een spoor van snoepjes. De zaak doet denken aan een beroemde moord van jaren eerder. Wanneer kort daarna nog een kind verdwijnt moet Stephens in een race tegen de klok alle puzzelstukken op hun plaats weten te leggen, voordat het te laat is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Staken op leven en dood]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437519635/staken-op-leven-en-dood-erik-dijkstra---hans-morssinkhof</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437519635/staken-op-leven-en-dood-erik-dijkstra---hans-morssinkhof"/>
+        <updated>2026-06-03T11:50:48.150Z</updated>
+        <summary type="html"><![CDATA[De vergeten April-meistakingen van 1943]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437519635?aid=kb-online-bibliotheek&sid=21&dts=1780465617564&sig=a4173317d0e1172a75dec31590cfb3e6ca544b0472369d198786cbfaebbce3aa&width=320" alt="Omslag van 'Staken op leven en dood'" title="Omslag van 'Staken op leven en dood'">
+<p>In april 2023 is het tachtig jaar geleden dat in Hengelo de April-meistakingen tegen de Duitse bezetter begonnen, om zich als een lopend vuurtje door heel Nederland te verspreiden; in dit boek staat deze relatief onbekende geschiedenis opgetekend, aangevuld met o.a. persoonlijke verhalen van nabestaanden en bijzonder archiefmateriaal Nederland was al drie jaar door de Duitsers bezet toen op 29 april 1943 het bevel werd gegeven om alle voormalige Nederlandse soldaten in Duitsland dwangarbeid te laten verrichten. De reactie van burgers door heel Nederland was ongehoord. Aangemoedigd door de telefonistes van de Stork-machinefabriek in Hengelo ging een oproep om te staken als een lopend vuurtje door het land. Binnen een dag legden honderdduizenden het werk neer. Het was de grootste staking ooit in Nederland, zelfs de grootste staking in het door Duitsland bezette Europa. De opstand werd bloedig neergeslagen: er waren tweehonderd doden en honderden mensen die naar strafkampen werden gedeporteerd. De April-meistakingen van 1943 werden een keerpunt in de bezetting. Voor dit keerpunt werden de Duitsers door veel Nederlanders met wat onverschilligheid bekeken, daarna was iedereen die niet pro-Duits was ook daadwerkelijk anti-Duits. De Duitsers hadden hun ware gezicht getoond en het verzet kreeg vleugels. Waarom is zo’n belangrijke gebeurtenis relatief onbekend gebleven? Met die vraag reisde Erik Dijkstra door het land, en hij stuitte op een onuitputtelijke hoeveelheid prachtige, onbekende en ontroerende verhalen. Ze getuigen van liefde, van onwaarschijnlijke heldenmoed en van pijn die generatieslang doorwerkt en tot op de dag van vandaag nog mensenlevens bepaalt. In de pers ‘De April-meistaking, die tachtig jaar geleden begon bij Stork in Hengelo, krijgt volop landelijke aandacht. Terecht, stelt BNNVARA-programmamaker Erik Dijkstra. “Het is zo’n onbekend verhaal. Volgens Ad van Liempt, die veel onderzoek doet naar de Tweede Wereldoorlog, komt dat puur omdat deze staking buiten de Randstad begon.” Op 29 april 1943 legden drieduizend medewerkers van Stork het werk neer, uit protest. Uiteindelijk deden in heel Nederland ruim een half miljoen mensen mee. “Dit verhaal moet verteld worden. We gaan het hele land door.”’ Tubantia </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Elly Griffiths</name>
+            <name>Erik Dijkstra</name>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De boekenclub voor dwarse huisvrouwen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691511/de-boekenclub-voor-dwarse-huisvrouwen-marie-bostwick</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691511/de-boekenclub-voor-dwarse-huisvrouwen-marie-bostwick"/>
-        <updated>2026-06-03T11:50:49.921Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691511?aid=kb-online-bibliotheek&sid=21&dts=1780465466287&sig=83439bdd74a151fa77359b4d37e5a96bdf5dafbb06cbe054cc0551932e332b97&width=320" alt="Omslag van 'De boekenclub voor dwarse huisvrouwen'" title="Omslag van 'De boekenclub voor dwarse huisvrouwen'">
-<p>In 'De boekenclub voor dwarse huisvrouwen' neemt Marie Bostwick je mee op een hartverwarmende reis door de jaren '60 vol humor en nostalgie. Vier ontevreden huisvrouwen zijn hun alledaagse leventjes in een Amerikaanse suburb spuugzat. Terwijl de wereld om hen heen razendsnel verandert, hebben de vrouwen het gevoel stil te staan. Wanneer wordt het tijd voor hun eigen dromen?  Om de sleur te doorbreken besluiten ze een boekenclub te beginnen. Al lezend en pratend leren de vier vrouwen hoe ze door de kracht van boeken én van vriendschap de koers van hun leven kunnen bepalen. Marie Bostwick weet als geen ander de tijdgeest op papier te vangen en dicht daarbij een speciale rol toe aan 'The Feminine Mystique' van Betty Friedan, het baanbrekende boek dat een generatie vrouwen wist te inspireren en aan te zetten tot actie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Marie Bostwick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moederheil]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691554/moederheil-els-florijn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691554/moederheil-els-florijn"/>
-        <updated>2026-06-03T11:50:50.546Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691554?aid=kb-online-bibliotheek&sid=21&dts=1780465651026&sig=e0d710f8f5686bc8ac4d3d67f5ea638bab1a99ff56c013d6ef1486af48893a40&width=320" alt="Omslag van 'Moederheil'" title="Omslag van 'Moederheil'">
-<p>Twee jonge vrouwen - Sofia, een arbeidersdochter, en Maria, een meisje van stand - raken begin jaren zestig ongewenst zwanger en worden onder druk van hun familie naar Moederheil ge­stuurd, een tehuis waar ongehuwde moeders met een doek over hun ogen moeten bevallen voordat hun kind bij hen weggehaald wordt. In een verstikkende wereld vol schaamte en volhardend zwijgen zoeken de vrouwen in 'Moederheil' van Els Florijn naar regie over hun eigen lichaam, leven en moederschap. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Els Florijn</name>
+            <name>Hans Morssinkhof</name>
         </author>
     </entry>
     <entry>
@@ -133,6 +100,50 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De leesclub]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691864/de-leesclub-martin-scherstra</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691864/de-leesclub-martin-scherstra"/>
+        <updated>2026-06-03T11:50:54.213Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691864?aid=kb-online-bibliotheek&sid=21&dts=1780472731899&sig=5408196a328a9d3ebd5a81966c333ad6a9c418204a5f4e20f075720f615a7552&width=320" alt="Omslag van 'De leesclub'" title="Omslag van 'De leesclub'">
+<p>Baukje, Brecht, Jo en Jitske verschillen enorm van elkaar. Qua leeftijd, leven, romantiek en persoonlijkheid. Toch zijn ze goede vriendinnen. Hun liefde voor lezen verbindt hen en ze hebben een leesclubje opgericht om hun hobby te delen en de verveling buiten de deur te houden – al wordt er tijdens die avondjes ook genoeg gekletst. Ze bieden elkaar vaak advies, troost en een luisterend oor. Het boek dat de leesclub momenteel bespreekt, is 'Liefdeseiland' van Claire Vecht. De romantiek spat van de pagina's en dat zet de vrouwen aan het denken: wanneer hebben zij zich voor het laatst zo gevoeld? Wat ze niet weten, is dat Claire een pseudoniem gebruikt en in werkelijkheid een stuk dichter bij hen staat dan zij denken. 'De leesclub' is weer een heerlijk romantische, warme familieroman van Martin Scherstra met een vleugje mysterie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Martin Scherstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nightshade]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691422/nightshade-autumn-woods</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691422/nightshade-autumn-woods"/>
+        <updated>2026-06-03T11:50:59.061Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691422?aid=kb-online-bibliotheek&sid=21&dts=1780468317464&sig=57a1156158aa40efe510d6b8f96efa3043cd0c7b7a011874d9e394a1ecaed7cf&width=320" alt="Omslag van 'Nightshade'" title="Omslag van 'Nightshade'">
+<p>Ophelia krijgt onverwacht toegang tot Sorrowsong University, een elitaire school diep in de Schotse Hooglanden, om de mysterieuze dood van haar ouders te onderzoeken. Haar missie: onopgemerkt blijven, de waarheid achterhalen en wraak nemen. Maar wanneer ze botst met Alex Corbeau-Green, de zoon van haar hoofdverdachte, verandert alles. Terwijl een onbekende haar begint te stalken en Alex haar onverwachte bondgenoot én haar alibi voor moord wordt, begint haar zorgvuldig geplande wraak te wankelen… net als haar hart.  De dark academia must-read 'Nightshade' van Autumn Woods is deel 1 van de Sorrowsong University-serie. Een aanrader voor fans van Maxton Hall. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Autumn Woods</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rookgordijn]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691724/rookgordijn-elly-griffiths</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691724/rookgordijn-elly-griffiths"/>
+        <updated>2026-06-03T11:50:49.274Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691724?aid=kb-online-bibliotheek&sid=21&dts=1780457660593&sig=6bc8f737940ef544107a48c717f72e3cc873fc055c808105f9d7b970ca2f2016&width=320" alt="Omslag van 'Rookgordijn'" title="Omslag van 'Rookgordijn'">
+<p>Boek 2 in de Brighton mysteries-serie. December 1951. Terwijl het sneeuwt en Kerstmis nadert, onderzoekt rechercheur Stephens de verdwijning van twee kinderen, Mark en Annie. Dan worden de lichamen van de kinderen gevonden op een afgelegen plek, omringd door een spoor van snoepjes. De zaak doet denken aan een beroemde moord van jaren eerder. Wanneer kort daarna nog een kind verdwijnt moet Stephens in een race tegen de klok alle puzzelstukken op hun plaats weten te leggen, voordat het te laat is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elly Griffiths</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De boekenclub voor dwarse huisvrouwen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691511/de-boekenclub-voor-dwarse-huisvrouwen-marie-bostwick</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691511/de-boekenclub-voor-dwarse-huisvrouwen-marie-bostwick"/>
+        <updated>2026-06-03T11:50:49.921Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691511?aid=kb-online-bibliotheek&sid=21&dts=1780465466287&sig=83439bdd74a151fa77359b4d37e5a96bdf5dafbb06cbe054cc0551932e332b97&width=320" alt="Omslag van 'De boekenclub voor dwarse huisvrouwen'" title="Omslag van 'De boekenclub voor dwarse huisvrouwen'">
+<p>In 'De boekenclub voor dwarse huisvrouwen' neemt Marie Bostwick je mee op een hartverwarmende reis door de jaren '60 vol humor en nostalgie. Vier ontevreden huisvrouwen zijn hun alledaagse leventjes in een Amerikaanse suburb spuugzat. Terwijl de wereld om hen heen razendsnel verandert, hebben de vrouwen het gevoel stil te staan. Wanneer wordt het tijd voor hun eigen dromen?  Om de sleur te doorbreken besluiten ze een boekenclub te beginnen. Al lezend en pratend leren de vier vrouwen hoe ze door de kracht van boeken én van vriendschap de koers van hun leven kunnen bepalen. Marie Bostwick weet als geen ander de tijdgeest op papier te vangen en dicht daarbij een speciale rol toe aan 'The Feminine Mystique' van Betty Friedan, het baanbrekende boek dat een generatie vrouwen wist te inspireren en aan te zetten tot actie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marie Bostwick</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jaimy]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/46069152X/jaimy-joep-scheepers</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/46069152X/jaimy-joep-scheepers"/>
@@ -155,25 +166,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De leesclub]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691864/de-leesclub-martin-scherstra</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691864/de-leesclub-martin-scherstra"/>
-        <updated>2026-06-03T11:50:54.213Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691864?aid=kb-online-bibliotheek&sid=21&dts=1780472731899&sig=5408196a328a9d3ebd5a81966c333ad6a9c418204a5f4e20f075720f615a7552&width=320" alt="Omslag van 'De leesclub'" title="Omslag van 'De leesclub'">
-<p>Baukje, Brecht, Jo en Jitske verschillen enorm van elkaar. Qua leeftijd, leven, romantiek en persoonlijkheid. Toch zijn ze goede vriendinnen. Hun liefde voor lezen verbindt hen en ze hebben een leesclubje opgericht om hun hobby te delen en de verveling buiten de deur te houden – al wordt er tijdens die avondjes ook genoeg gekletst. Ze bieden elkaar vaak advies, troost en een luisterend oor. Het boek dat de leesclub momenteel bespreekt, is 'Liefdeseiland' van Claire Vecht. De romantiek spat van de pagina's en dat zet de vrouwen aan het denken: wanneer hebben zij zich voor het laatst zo gevoeld? Wat ze niet weten, is dat Claire een pseudoniem gebruikt en in werkelijkheid een stuk dichter bij hen staat dan zij denken. 'De leesclub' is weer een heerlijk romantische, warme familieroman van Martin Scherstra met een vleugje mysterie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Florence roze]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691546/florence-roze-claudia-schoemacher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691546/florence-roze-claudia-schoemacher"/>
+        <updated>2026-06-03T11:50:58.442Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691546?aid=kb-online-bibliotheek&sid=21&dts=1780471271329&sig=64b6c1dd9342154ba03d270e2cc0d531398bd42082f4eec0c2fa2aa0c39f1d2c&width=320" alt="Omslag van 'Florence roze'" title="Omslag van 'Florence roze'">
+<p>Valentina's vendetta is de maffia romance die je niet kan wegleggen. Florence roze is deel 2 en net zo heet als het eerste deel. Net wanneer kunsthistorica Valentina na een roerige tijd haar rust weer heeft gevonden in Amsterdam, staat de duistere zakenman Frank onverwacht weer op haar stoep. Opnieuw valt ze voor hem, ongeacht het gevaar dat hij met zich meebrengt. Partners in crime, zo noemt hij het... Voor fans van Gabrielle Sands en haar Fallen serie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Martin Scherstra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De letter M]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691406/de-letter-m-natasha-pulley</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691406/de-letter-m-natasha-pulley"/>
-        <updated>2026-06-03T11:50:54.785Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691406?aid=kb-online-bibliotheek&sid=21&dts=1780465595737&sig=6f4929ab823e4c6859582df0926c5112b47d69692b8c4a1ab562b142c569c9c5&width=320" alt="Omslag van 'De letter M'" title="Omslag van 'De letter M'">
-<p>De ansichtkaart lag al bijna een eeuw op het postkantoor te wachten om bezorgd te worden bij Joe Tournier.  Joe is Engeland nooit uit geweest, zelfs London niet. Hij is een Britse slaaf, een van de duizenden in het Franse rijk. Hij heeft werk en een gezin. Maar hij herinnert zich ook flarden van een ander leven, waarin Engels werd gesproken in Engeland, in plaats van Frans. En nu heeft hij een ansichtkaart in handen die lang geleden is geschreven door een vreemde die hem lijkt te kennen.  Joe moet achter de waarheid komen en hij reist van het door de Fransen bezette Londen naar een afgelegen Schots eiland, terug in de tijd, vechtend voor zijn leven en een andere toekomst. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Natasha Pulley</name>
+            <name>Claudia Schoemacher</name>
         </author>
     </entry>
     <entry>
@@ -189,6 +189,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Moederheil]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691554/moederheil-els-florijn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691554/moederheil-els-florijn"/>
+        <updated>2026-06-03T11:50:50.546Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691554?aid=kb-online-bibliotheek&sid=21&dts=1780465651026&sig=e0d710f8f5686bc8ac4d3d67f5ea638bab1a99ff56c013d6ef1486af48893a40&width=320" alt="Omslag van 'Moederheil'" title="Omslag van 'Moederheil'">
+<p>Twee jonge vrouwen - Sofia, een arbeidersdochter, en Maria, een meisje van stand - raken begin jaren zestig ongewenst zwanger en worden onder druk van hun familie naar Moederheil ge­stuurd, een tehuis waar ongehuwde moeders met een doek over hun ogen moeten bevallen voordat hun kind bij hen weggehaald wordt. In een verstikkende wereld vol schaamte en volhardend zwijgen zoeken de vrouwen in 'Moederheil' van Els Florijn naar regie over hun eigen lichaam, leven en moederschap. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Els Florijn</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Samenspel]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460691716/samenspel-kirstin-rozema</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460691716/samenspel-kirstin-rozema"/>
@@ -200,15 +211,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A'dams Tourtje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691589/a-dams-tourtje-roos-hamelink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691589/a-dams-tourtje-roos-hamelink"/>
-        <updated>2026-06-03T11:50:56.482Z</updated>
-        <summary type="html"><![CDATA[Historische stadswandeling door Amsterdam]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691589?aid=kb-online-bibliotheek&sid=21&dts=1780480222363&sig=ee1d93eda6c02efe0a4d68c233589831e3fecebd489ec45467e0d069c1572634&width=320" alt="Omslag van 'A'dams Tourtje'" title="Omslag van 'A'dams Tourtje'">
-<p>Amsterdam drijft op water, wonderen, protest en plezier. Al eeuwen komen daar kloosterlingen, kunstenaars, krakers en koningen op af. Dat levert mooie verhalen op en die vind je – of je nou een dagjesmens of doorgewinterde Amsterdammer bent – in dit stadstourtje.  Met dit boekje in de hand ontdek je de stad Amsterdam in een ochtend of middag. Volg de 6 kilometer lange route aan de hand van heldere beschrijvingen en de kaart. Onderweg komen de historische verhalen tot leven met archiefbeelden en illustraties van de Amsterdamse Rob Wighman.  De historische stadswandelingen van Stourtje zijn voor iedereen die een dagje uit wil. Of je de stad al op je duimpje kent of 'm voor het eerst bezoekt: elk boekje is een nieuw avontuur. Met Stourtje maak je van je stedentrip het leukste uitje. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[The Rom-Commers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691678/the-rom-commers-katherine-center</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691678/the-rom-commers-katherine-center"/>
+        <updated>2026-06-03T11:51:01.821Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691678?aid=kb-online-bibliotheek&sid=21&dts=1780457978144&sig=0c6a4141cd70a43e54e3f5345ad71cb7e33822f66c1f0a50ed7db5a5950eda15&width=320" alt="Omslag van 'The Rom-Commers'" title="Omslag van 'The Rom-Commers'">
+<p>In 'The Rom-Commers' trakteert Katherine Center haar lezers op een onweerstaanbare ode aan de romantische comedy. Emma Wheeler wil niets liever dan doorbreken als scenarioschrijfster en is al aardig aan de weg aan het timmeren met haar prijswinnende romantische scripts. Maar intussen draagt ze ook als enige de zorg voor haar lieve vader, die fulltime hulp nodig heeft. Nu krijgt ze de kans van haar leven: ze mag een script herschrijven voor schrijver Charlie Yates, haar grote idool! Deze kans mag ze echt niet missen en dus vraagt ze haar jongere zus de zorgtaken over te nemen en verhuist ze voor zes weken naar Los Angeles.  Eenmaal aangekomen blijkt Charlie echter een cynische, liefdeontkennende beroemdheid te zijn die bepaald niet op haar hulp zit te wachten. Erger nog, zijn script is zo slecht dat het strafbaar zou moeten zijn. Maar Emma geeft zich niet zomaar gewonnen en zet alles op alles om Charlie ervan te overtuigen dat liefdesverhalen er weldegelijk toedoen, zelfs als ze hem daarvoor knock-out moet zoenen. Wat als de romance die ze aan het schrijven is al haar verwachtingen overstijgt – en ook nog eens werkelijkheid dreigt te worden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Roos Hamelink</name>
+            <name>Katherine Center</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Napels geel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher"/>
+        <updated>2026-06-03T11:51:00.172Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691457?aid=kb-online-bibliotheek&sid=21&dts=1780465609813&sig=11a2ab067990cf68b73379b7dbb317125591d0c249024b82832820cf998e2317&width=320" alt="Omslag van 'Napels geel'" title="Omslag van 'Napels geel'">
+<p>Lees de zinderende erotische serie Valentina's vendetta. Kunsthistorica Valentina belandt door een affaire met een duistere zakenman in de schimmige wereld van kunsthandel. Deel 1 in de serie Valentina's vendetta. De maffia romance die je niet kan wegleggen.  Als kunsthistorica Valentina een rondleiding geeft in het Rijksmuseum, eist een onbekende bezoeker haar aandacht op, waarna ze als een blok voor hem valt. Ze beleven een hete nacht in een hotel, waarna ze hem al snel volgt op een van zijn zakenreizen naar Florence. Daar belandt ze tegen wil en dank in de schimmige wereld van kunstroof. Voor fans van Gabrielle Sands en haar Fallen serie.  'Als kunsthistorica Valentina een rondleiding geeft in het Rijksmuseum, eist een onbekende bezoeker haar aandacht op, waarna ze als een blok voor hem valt.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Claudia Schoemacher</name>
         </author>
     </entry>
     <entry>
@@ -224,59 +245,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heel je rug]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691708/heel-je-rug-john-e--sarno</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691708/heel-je-rug-john-e--sarno"/>
-        <updated>2026-06-03T11:50:57.855Z</updated>
-        <summary type="html"><![CDATA[De mind-body connectie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691708?aid=kb-online-bibliotheek&sid=21&dts=1780468015486&sig=d16164f57c80a04de6a66737c55ab39d33dab55eaca57a505ff7ec91149e6caa&width=320" alt="Omslag van 'Heel je rug'" title="Omslag van 'Heel je rug'">
-<p>Het baanbrekende onderzoek van dr. John E. Sarno naar het zogenaamde Tension Myositis Syndrome (TMS) onthult hoe stress en andere psychologische factoren rugpijn kunnen veroorzaken en hoe je pijnvrij kunt worden zonder medicijnen, oefeningen of operaties. Dr. Sarno is een medische pionier wiens techniek duizenden mensen heeft geholpen verlichting te vinden van chronische rugklachten zonder medicijnen, fysiotherapie of gevaarlijke operaties. In deze bestsellergids voor het overwinnen van rugpijn ontdek je:  - Waarom zelfgemotiveerde en succesvolle mensen vatbaar zijn voor TMS - Hoe angst en onderdrukte woede spierspasmen veroorzaken - Hoe mensen zichzelf 'trainen' om rugpijn te ervaren - Hoe u binnen twee tot zes weken verlichting van rugpijn kunt krijgen door TMS en de oorzaken ervan te herkennen Met casuïstiek en de resultaten van diepgaand mind-body onderzoek beschrijft dr. Sarno hoe patiënten de emotionele wortels van hun TMS herkennen en de verbindingen tussen mentale en fysieke pijn verbreken en hoe u, door alleen maar dit boek te lezen, vandaag nog kunt beginnen met herstellen van rugpijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De letter M]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691406/de-letter-m-natasha-pulley</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691406/de-letter-m-natasha-pulley"/>
+        <updated>2026-06-03T11:50:54.785Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691406?aid=kb-online-bibliotheek&sid=21&dts=1780465595737&sig=6f4929ab823e4c6859582df0926c5112b47d69692b8c4a1ab562b142c569c9c5&width=320" alt="Omslag van 'De letter M'" title="Omslag van 'De letter M'">
+<p>De ansichtkaart lag al bijna een eeuw op het postkantoor te wachten om bezorgd te worden bij Joe Tournier.  Joe is Engeland nooit uit geweest, zelfs London niet. Hij is een Britse slaaf, een van de duizenden in het Franse rijk. Hij heeft werk en een gezin. Maar hij herinnert zich ook flarden van een ander leven, waarin Engels werd gesproken in Engeland, in plaats van Frans. En nu heeft hij een ansichtkaart in handen die lang geleden is geschreven door een vreemde die hem lijkt te kennen.  Joe moet achter de waarheid komen en hij reist van het door de Fransen bezette Londen naar een afgelegen Schots eiland, terug in de tijd, vechtend voor zijn leven en een andere toekomst. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>John E. Sarno</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Florence roze]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691546/florence-roze-claudia-schoemacher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691546/florence-roze-claudia-schoemacher"/>
-        <updated>2026-06-03T11:50:58.442Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691546?aid=kb-online-bibliotheek&sid=21&dts=1780471271329&sig=64b6c1dd9342154ba03d270e2cc0d531398bd42082f4eec0c2fa2aa0c39f1d2c&width=320" alt="Omslag van 'Florence roze'" title="Omslag van 'Florence roze'">
-<p>Valentina's vendetta is de maffia romance die je niet kan wegleggen. Florence roze is deel 2 en net zo heet als het eerste deel. Net wanneer kunsthistorica Valentina na een roerige tijd haar rust weer heeft gevonden in Amsterdam, staat de duistere zakenman Frank onverwacht weer op haar stoep. Opnieuw valt ze voor hem, ongeacht het gevaar dat hij met zich meebrengt. Partners in crime, zo noemt hij het... Voor fans van Gabrielle Sands en haar Fallen serie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Claudia Schoemacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nightshade]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691422/nightshade-autumn-woods</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691422/nightshade-autumn-woods"/>
-        <updated>2026-06-03T11:50:59.061Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691422?aid=kb-online-bibliotheek&sid=21&dts=1780468317464&sig=57a1156158aa40efe510d6b8f96efa3043cd0c7b7a011874d9e394a1ecaed7cf&width=320" alt="Omslag van 'Nightshade'" title="Omslag van 'Nightshade'">
-<p>Ophelia krijgt onverwacht toegang tot Sorrowsong University, een elitaire school diep in de Schotse Hooglanden, om de mysterieuze dood van haar ouders te onderzoeken. Haar missie: onopgemerkt blijven, de waarheid achterhalen en wraak nemen. Maar wanneer ze botst met Alex Corbeau-Green, de zoon van haar hoofdverdachte, verandert alles. Terwijl een onbekende haar begint te stalken en Alex haar onverwachte bondgenoot én haar alibi voor moord wordt, begint haar zorgvuldig geplande wraak te wankelen… net als haar hart.  De dark academia must-read 'Nightshade' van Autumn Woods is deel 1 van de Sorrowsong University-serie. Een aanrader voor fans van Maxton Hall. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Autumn Woods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een schandaal in blauw]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46069149X/een-schandaal-in-blauw-ellen-barksdale</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46069149X/een-schandaal-in-blauw-ellen-barksdale"/>
-        <updated>2026-06-03T11:50:59.603Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46069149X?aid=kb-online-bibliotheek&sid=21&dts=1780465566722&sig=eced27f6a251f951e7afaa7a5251f994d4f3d4fbd05aa378b48cb4561b2a5a10&width=320" alt="Omslag van 'Een schandaal in blauw'" title="Omslag van 'Een schandaal in blauw'">
-<p>Thee? Koffie? Moord! deel 3. Schandaal op de hondenshow! De drie koningspoedels van Sir Theodore - tot nu toe de onbetwiste kampioenen - zijn blauw geverfd! Sir Theodore beschuldigt organisator Mason Mayfield ervan de dader te zijn. Wanneer Mayfield korte tijd later vermoord wordt aangetroffen, is Sir Theodore de hoofdverdachte. Maar Nathalie is er rotsvast van overtuigd dat hij onschuldig is en samen met Louise én de poedels gaat ze op pad om de echte moordenaar te ontmaskeren. Voor fans van de Cherringham-serie van Costello & Richards. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ellen Barksdale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Napels geel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher"/>
-        <updated>2026-06-03T11:51:00.172Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691457?aid=kb-online-bibliotheek&sid=21&dts=1780465609813&sig=11a2ab067990cf68b73379b7dbb317125591d0c249024b82832820cf998e2317&width=320" alt="Omslag van 'Napels geel'" title="Omslag van 'Napels geel'">
-<p>Lees de zinderende erotische serie Valentina's vendetta. Kunsthistorica Valentina belandt door een affaire met een duistere zakenman in de schimmige wereld van kunsthandel. Deel 1 in de serie Valentina's vendetta. De maffia romance die je niet kan wegleggen.  Als kunsthistorica Valentina een rondleiding geeft in het Rijksmuseum, eist een onbekende bezoeker haar aandacht op, waarna ze als een blok voor hem valt. Ze beleven een hete nacht in een hotel, waarna ze hem al snel volgt op een van zijn zakenreizen naar Florence. Daar belandt ze tegen wil en dank in de schimmige wereld van kunstroof. Voor fans van Gabrielle Sands en haar Fallen serie.  'Als kunsthistorica Valentina een rondleiding geeft in het Rijksmuseum, eist een onbekende bezoeker haar aandacht op, waarna ze als een blok voor hem valt.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Claudia Schoemacher</name>
+            <name>Natasha Pulley</name>
         </author>
     </entry>
     <entry>
@@ -291,25 +267,49 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wild van spanning]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691899/wild-van-spanning-elsie-silver</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691899/wild-van-spanning-elsie-silver"/>
-        <updated>2026-06-03T11:51:01.262Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691899?aid=kb-online-bibliotheek&sid=21&dts=1780477350785&sig=6d6c0b5017a332c9300a70a821535cce7eeb251c8ff00ef5a2505b09dfaa5d9b&width=320" alt="Omslag van 'Wild van spanning'" title="Omslag van 'Wild van spanning'">
-<p>Tabitha heeft altijd gedroomd van haar trouwdag. Maar dit was niet hoe ze het zich voorstelde. Niet met de man die haar heeft verraden tegenover zich bij het altaar. Als echter de voogdij over haar neefje - het zoontje van haar overleden zus - op het spel staat, doet ze alles wat nodig is om hem in Rose Hill te houden. Zelfs trouwen met haar aartsvijand: Rhys Dupris. Deze man is geheimzinnig, ongenaakbaar en volstrekt gekmakend. Voor zijn werk is hij vaak weken achteraan weg en daarna terugkomt met vreemde blauwe plekken - waar hij niet over wil praten. Praten doen ze überhaupt nauwelijks. Wat prima zou zijn, ware het niet dat hij in plaats van praten naar Tabby staart op een manier die... bijna onfatsoenlijk is. De spanning tussen hen is altijd voelbaar geweest. Maar onder één dak wonen maakt de verleiding wel heel gevaarlijk. Ze heeft gezworen dat ze hem nooit zou vergeven. Dat was echter voordat ze de man achter het masker leerde kennen. De beschermende en standvastige man. De vriendelijke en geduldige. Degene die er voor haar is wanneer ze hem het hardst nodig heeft. Hij blijkt helemaal niet wie ze dacht dat hij was. En dat maakt het zoveel moeilijker om haar man te haten... en net iets te makkelijk om van hem te gaan houden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een dodelijke blik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691430/een-dodelijke-blik-peter-james</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691430/een-dodelijke-blik-peter-james"/>
+        <updated>2026-06-03T11:51:02.931Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691430?aid=kb-online-bibliotheek&sid=21&dts=1780465479473&sig=0d74ff5e14c4a2d33717dafaecf25a4d15b00b35a3a2bed163caf8579ffc5642&width=320" alt="Omslag van 'Een dodelijke blik'" title="Omslag van 'Een dodelijke blik'">
+<p>Deel 18 in de Roy Grace-serie.</p><p>Een verborgen meesterwerk. Een dodelijk geheim.  Harry en Freya zijn op zoek naar een kunstkoopje wanneer ze per ongeluk op een verloren meesterwerk stuiten. Wat aanvankelijk een geweldige vondst lijkt, blijkt al snel een nachtmerrie te zijn. Het schilderij blijkt een sleutel te zijn tot een gevaarlijk geheim—en er zijn mensen die koste wat kost willen voorkomen dat het onthuld wordt. Rechercheur Roy Grace wordt op de zaak gezet en ontdekt dat kunst niet alleen waardevol, maar ook dodelijk kan zijn. Terwijl de dreiging toeneemt, moet hij alles op alles zetten om de waarheid te achterhalen voordat het te laat is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Elsie Silver</name>
+            <name>Peter James</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rom-Commers]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691678/the-rom-commers-katherine-center</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691678/the-rom-commers-katherine-center"/>
-        <updated>2026-06-03T11:51:01.821Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691678?aid=kb-online-bibliotheek&sid=21&dts=1780457978144&sig=0c6a4141cd70a43e54e3f5345ad71cb7e33822f66c1f0a50ed7db5a5950eda15&width=320" alt="Omslag van 'The Rom-Commers'" title="Omslag van 'The Rom-Commers'">
-<p>In 'The Rom-Commers' trakteert Katherine Center haar lezers op een onweerstaanbare ode aan de romantische comedy. Emma Wheeler wil niets liever dan doorbreken als scenarioschrijfster en is al aardig aan de weg aan het timmeren met haar prijswinnende romantische scripts. Maar intussen draagt ze ook als enige de zorg voor haar lieve vader, die fulltime hulp nodig heeft. Nu krijgt ze de kans van haar leven: ze mag een script herschrijven voor schrijver Charlie Yates, haar grote idool! Deze kans mag ze echt niet missen en dus vraagt ze haar jongere zus de zorgtaken over te nemen en verhuist ze voor zes weken naar Los Angeles.  Eenmaal aangekomen blijkt Charlie echter een cynische, liefdeontkennende beroemdheid te zijn die bepaald niet op haar hulp zit te wachten. Erger nog, zijn script is zo slecht dat het strafbaar zou moeten zijn. Maar Emma geeft zich niet zomaar gewonnen en zet alles op alles om Charlie ervan te overtuigen dat liefdesverhalen er weldegelijk toedoen, zelfs als ze hem daarvoor knock-out moet zoenen. Wat als de romance die ze aan het schrijven is al haar verwachtingen overstijgt – en ook nog eens werkelijkheid dreigt te worden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[A'dams Tourtje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691589/a-dams-tourtje-roos-hamelink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691589/a-dams-tourtje-roos-hamelink"/>
+        <updated>2026-06-03T11:50:56.482Z</updated>
+        <summary type="html"><![CDATA[Historische stadswandeling door Amsterdam]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691589?aid=kb-online-bibliotheek&sid=21&dts=1780480222363&sig=ee1d93eda6c02efe0a4d68c233589831e3fecebd489ec45467e0d069c1572634&width=320" alt="Omslag van 'A'dams Tourtje'" title="Omslag van 'A'dams Tourtje'">
+<p>Amsterdam drijft op water, wonderen, protest en plezier. Al eeuwen komen daar kloosterlingen, kunstenaars, krakers en koningen op af. Dat levert mooie verhalen op en die vind je – of je nou een dagjesmens of doorgewinterde Amsterdammer bent – in dit stadstourtje.  Met dit boekje in de hand ontdek je de stad Amsterdam in een ochtend of middag. Volg de 6 kilometer lange route aan de hand van heldere beschrijvingen en de kaart. Onderweg komen de historische verhalen tot leven met archiefbeelden en illustraties van de Amsterdamse Rob Wighman.  De historische stadswandelingen van Stourtje zijn voor iedereen die een dagje uit wil. Of je de stad al op je duimpje kent of 'm voor het eerst bezoekt: elk boekje is een nieuw avontuur. Met Stourtje maak je van je stedentrip het leukste uitje. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Katherine Center</name>
+            <name>Roos Hamelink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een schandaal in blauw]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46069149X/een-schandaal-in-blauw-ellen-barksdale</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46069149X/een-schandaal-in-blauw-ellen-barksdale"/>
+        <updated>2026-06-03T11:50:59.603Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46069149X?aid=kb-online-bibliotheek&sid=21&dts=1780465566722&sig=eced27f6a251f951e7afaa7a5251f994d4f3d4fbd05aa378b48cb4561b2a5a10&width=320" alt="Omslag van 'Een schandaal in blauw'" title="Omslag van 'Een schandaal in blauw'">
+<p>Thee? Koffie? Moord! deel 3. Schandaal op de hondenshow! De drie koningspoedels van Sir Theodore - tot nu toe de onbetwiste kampioenen - zijn blauw geverfd! Sir Theodore beschuldigt organisator Mason Mayfield ervan de dader te zijn. Wanneer Mayfield korte tijd later vermoord wordt aangetroffen, is Sir Theodore de hoofdverdachte. Maar Nathalie is er rotsvast van overtuigd dat hij onschuldig is en samen met Louise én de poedels gaat ze op pad om de echte moordenaar te ontmaskeren. Voor fans van de Cherringham-serie van Costello & Richards. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ellen Barksdale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heel je rug]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691708/heel-je-rug-john-e--sarno</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691708/heel-je-rug-john-e--sarno"/>
+        <updated>2026-06-03T11:50:57.855Z</updated>
+        <summary type="html"><![CDATA[De mind-body connectie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691708?aid=kb-online-bibliotheek&sid=21&dts=1780468015486&sig=d16164f57c80a04de6a66737c55ab39d33dab55eaca57a505ff7ec91149e6caa&width=320" alt="Omslag van 'Heel je rug'" title="Omslag van 'Heel je rug'">
+<p>Het baanbrekende onderzoek van dr. John E. Sarno naar het zogenaamde Tension Myositis Syndrome (TMS) onthult hoe stress en andere psychologische factoren rugpijn kunnen veroorzaken en hoe je pijnvrij kunt worden zonder medicijnen, oefeningen of operaties. Dr. Sarno is een medische pionier wiens techniek duizenden mensen heeft geholpen verlichting te vinden van chronische rugklachten zonder medicijnen, fysiotherapie of gevaarlijke operaties. In deze bestsellergids voor het overwinnen van rugpijn ontdek je:  - Waarom zelfgemotiveerde en succesvolle mensen vatbaar zijn voor TMS - Hoe angst en onderdrukte woede spierspasmen veroorzaken - Hoe mensen zichzelf 'trainen' om rugpijn te ervaren - Hoe u binnen twee tot zes weken verlichting van rugpijn kunt krijgen door TMS en de oorzaken ervan te herkennen Met casuïstiek en de resultaten van diepgaand mind-body onderzoek beschrijft dr. Sarno hoe patiënten de emotionele wortels van hun TMS herkennen en de verbindingen tussen mentale en fysieke pijn verbreken en hoe u, door alleen maar dit boek te lezen, vandaag nog kunt beginnen met herstellen van rugpijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>John E. Sarno</name>
         </author>
     </entry>
     <entry>
@@ -324,36 +324,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een dodelijke blik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691430/een-dodelijke-blik-peter-james</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691430/een-dodelijke-blik-peter-james"/>
-        <updated>2026-06-03T11:51:02.931Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691430?aid=kb-online-bibliotheek&sid=21&dts=1780465479473&sig=0d74ff5e14c4a2d33717dafaecf25a4d15b00b35a3a2bed163caf8579ffc5642&width=320" alt="Omslag van 'Een dodelijke blik'" title="Omslag van 'Een dodelijke blik'">
-<p>Deel 18 in de Roy Grace-serie.</p><p>Een verborgen meesterwerk. Een dodelijk geheim.  Harry en Freya zijn op zoek naar een kunstkoopje wanneer ze per ongeluk op een verloren meesterwerk stuiten. Wat aanvankelijk een geweldige vondst lijkt, blijkt al snel een nachtmerrie te zijn. Het schilderij blijkt een sleutel te zijn tot een gevaarlijk geheim—en er zijn mensen die koste wat kost willen voorkomen dat het onthuld wordt. Rechercheur Roy Grace wordt op de zaak gezet en ontdekt dat kunst niet alleen waardevol, maar ook dodelijk kan zijn. Terwijl de dreiging toeneemt, moet hij alles op alles zetten om de waarheid te achterhalen voordat het te laat is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Wild van spanning]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691899/wild-van-spanning-elsie-silver</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691899/wild-van-spanning-elsie-silver"/>
+        <updated>2026-06-03T11:51:01.262Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691899?aid=kb-online-bibliotheek&sid=21&dts=1780477350785&sig=6d6c0b5017a332c9300a70a821535cce7eeb251c8ff00ef5a2505b09dfaa5d9b&width=320" alt="Omslag van 'Wild van spanning'" title="Omslag van 'Wild van spanning'">
+<p>Tabitha heeft altijd gedroomd van haar trouwdag. Maar dit was niet hoe ze het zich voorstelde. Niet met de man die haar heeft verraden tegenover zich bij het altaar. Als echter de voogdij over haar neefje - het zoontje van haar overleden zus - op het spel staat, doet ze alles wat nodig is om hem in Rose Hill te houden. Zelfs trouwen met haar aartsvijand: Rhys Dupris. Deze man is geheimzinnig, ongenaakbaar en volstrekt gekmakend. Voor zijn werk is hij vaak weken achteraan weg en daarna terugkomt met vreemde blauwe plekken - waar hij niet over wil praten. Praten doen ze überhaupt nauwelijks. Wat prima zou zijn, ware het niet dat hij in plaats van praten naar Tabby staart op een manier die... bijna onfatsoenlijk is. De spanning tussen hen is altijd voelbaar geweest. Maar onder één dak wonen maakt de verleiding wel heel gevaarlijk. Ze heeft gezworen dat ze hem nooit zou vergeven. Dat was echter voordat ze de man achter het masker leerde kennen. De beschermende en standvastige man. De vriendelijke en geduldige. Degene die er voor haar is wanneer ze hem het hardst nodig heeft. Hij blijkt helemaal niet wie ze dacht dat hij was. En dat maakt het zoveel moeilijker om haar man te haten... en net iets te makkelijk om van hem te gaan houden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Peter James</name>
+            <name>Elsie Silver</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vijftien zomers later]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444614885/vijftien-zomers-later-raeanne-thayne</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444614885/vijftien-zomers-later-raeanne-thayne"/>
-        <updated>2026-06-03T11:51:03.469Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444614885?aid=kb-online-bibliotheek&sid=21&dts=1780467483564&sig=e628e078dbc001b2215a84f878e89b7d2790963afa7c8c0f9b3e6ec1471543e2&width=320" alt="Omslag van 'Vijftien zomers later'" title="Omslag van 'Vijftien zomers later'">
-<p>Vijftien jaar geleden veranderde alles...Ava Howell leek alles te hebben. Ze vertrok uit Emerald Creek, trouwde met haar grote liefde en publiceerde een succesvolle autobiografie. Ze had nooit verwacht dat haar man zich zo verraden zou voelen door een geheim uit haar verleden, dat hij bij haar weg zou gaan. Nu is Ava terug in Emerald Creek bij haar zus Madison, de enige persoon die haar echt begrijpt...Na een traumatische jeugd is Madison Howell eindelijk op haar plek. Ze heeft haar eigen dierenopvangcentrum en is verliefd op de plaatselijke dierenarts, Luke Gentry. Ze kan zich er alleen niet toe zetten het hem te vertellen. Jaren geleden stierf zijn vader om Madi en haar zus te beschermen, dus hoe zou hij ooit van haar kunnen houden?Het weerzien tussen de zusjes Howell is bitterzoet, nu de waarheid aan het licht komt en hun verleden wordt blootgelegd. Of is dit eindelijk het moment waarop ze samen schoon schip kunnen maken en het leven weer lachend tegemoet kunnen zien?  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Ongrijpbare graaf]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444615296/ongrijpbare-graaf-lorraine-heath</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444615296/ongrijpbare-graaf-lorraine-heath"/>
+        <updated>2026-06-06T09:19:48.140Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444615296?aid=kb-online-bibliotheek&sid=21&dts=1780737587503&sig=e04a8e7551b64e0acdb6ec5321463b1d92ca86355d6dd3e07464724615ba90bf&width=320" alt="Omslag van 'Ongrijpbare graaf'" title="Omslag van 'Ongrijpbare graaf'">
+<p>Van achterbuurt naar aristocratie...Londen, 1851Lucian Langdon is opgegroeid als straatschoffie in de achterbuurten van Londen, maar erfde later het graafschap van Claybourne. Vanwege zijn schandalige verleden schuwen de hogere kringen van Londen hem echter nog steeds. Dus als lady Catherine Mabry hem benadert met een brutaal voorstel, grijpt hij zijn kans...Catherine hoopt een delicaat probleem uit de wereld te helpen door aan te kloppen bij de beruchte graaf. Hij wil haar wel helpen, als zij in ruil zijn aanstaande verloofde, een volkse vrouw, zoveel mogelijk etiquette bijbrengt. Maar er is één probleem: regelmatig contact met Lucian roept een verboden verlangen bij haar op... Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>RaeAnne Thayne</name>
+            <name>Lorraine Heath</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hoog ingezet]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444614842/hoog-ingezet-katherine-garbera</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444614842/hoog-ingezet-katherine-garbera"/>
-        <updated>2026-06-03T11:51:04.039Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444614842?aid=kb-online-bibliotheek&sid=21&dts=1780482514760&sig=e42ee605cb7f46b634ecada167c22f3187bb797d3da4dfb4298ad09f20806329&width=320" alt="Omslag van 'Hoog ingezet'" title="Omslag van 'Hoog ingezet'">
-<p>Ooit maakte Shelby een beslissing......waardoor ze de liefde van haar leven kwijtraakte. Nu staat de man in kwestie, Hayden MacKenzie, weer voor haar, en beseft ze dat haar hart nog altijd aan hem toebehoort. Maar Hayden zint op wraak...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Feestje voor twee]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444615326/feestje-voor-twee-anne-oliver</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444615326/feestje-voor-twee-anne-oliver"/>
+        <updated>2026-06-06T09:19:48.738Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444615326?aid=kb-online-bibliotheek&sid=21&dts=1780677570580&sig=8f31ff0a192c44445c317b6771936fd814b23aec8302a314ae94f98afde39068&width=320" alt="Omslag van 'Feestje voor twee'" title="Omslag van 'Feestje voor twee'">
+<p>Een bruidsmeisje mag ook lol hebben… toch?Emma's zus gaat trouwen, en dat wordt groots gevierd. Een weekend lang verblijven het bruidspaar en hun gasten in een luxe resort. Romantiek alom dus! Maar Emma heeft daar geen oog voor. Ze neemt haar plicht als bruidsmeisje namelijk heel serieus. Tot de getuige van de bruidegom, de waanzinnig knappe Jake, haar een héél spannend voorstel doet…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Katherine Garbera</name>
+            <name>Anne Oliver</name>
         </author>
     </entry>
 </feed>
