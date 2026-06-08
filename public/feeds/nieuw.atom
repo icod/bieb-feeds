@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-06-07T09:56:02.758Z</updated>
+    <updated>2026-06-08T11:50:22.122Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
-    <entry>
-        <title type="html"><![CDATA[Het verhaal van juf Corrie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460711636/het-verhaal-van-juf-corrie-frieda-van-den-ende</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460711636/het-verhaal-van-juf-corrie-frieda-van-den-ende"/>
-        <updated>2026-06-07T09:56:02.091Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460711636?aid=kb-online-bibliotheek&sid=21&dts=1780774992655&sig=daada5b001917829da11a82b03fda532a8d400de83a81753499cb3e33af31d3b&width=320" alt="Omslag van 'Het verhaal van juf Corrie'" title="Omslag van 'Het verhaal van juf Corrie'">
-<p>Corrie van Doorn heeft haar eindexamen achter de rug en wil één zomer lang iets doen dat niet uit studieboeken komt. Een vrijwilligersbaantje in een afgelegen kindertehuis lijkt precies wat ze zoekt. Maar De Hel, zoals het huis door de bewoners wordt genoemd, blijkt geen gewoon tehuis. Vijf eigenwijze, kwetsbare jongens testen haar geduld vanaf de eerste minuut. Toch ontdekt Corrie al snel dat achter hun streken vooral verlangen schuilgaat: naar aandacht, veiligheid en iemand die blijft. Wanneer de directrice onverwacht verdwijnt en Darwins moeder opduikt, wordt Corries zomerse uitdaging gevaarlijker dan ze ooit had kunnen vermoeden. Wat begon als een vakantieklus groeit uit tot een strijd om vertrouwen, moed en bescherming. Het verhaal van juf Corrie is een warm, spannend jeugdboek over vriendschap, verantwoordelijkheid en de kracht van één persoon die besluit niet weg te lopen. Voor lezers die houden van humor, ontroering, menselijkheid en een dosis spanning. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Frieda van den Ende</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Nacht van de tandenfee]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460711628/nacht-van-de-tandenfee-bart-de-wolf</id>
@@ -27,6 +16,17 @@
 <p>Wanneer de twaalfjarige Thomas per ongeluk de Tandenfee verwondt, begint de nachtmerrie. Want ze heeft tanden nodig. Veel tanden. Maar met een kapotte vleugel kan ze die vannacht niet meer verzamelen. Ze geeft Thomas de keuze: óf hij zoekt voor haar melktanden, óf hij betaalt... met de zijne. Thomas zoekt hulp bij Mila, een meisje dat ook slachtoffer werd van de Tandenfee. Samen zoeken ze een manier om haar uit te schakelen, zodat ze weer veilig kunnen slapen. Maar dan neemt het verhaal een onverwachte wending... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Bart de Wolf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het verhaal van juf Corrie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460711636/het-verhaal-van-juf-corrie-frieda-van-den-ende</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460711636/het-verhaal-van-juf-corrie-frieda-van-den-ende"/>
+        <updated>2026-06-07T09:56:02.091Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460711636?aid=kb-online-bibliotheek&sid=21&dts=1780774992655&sig=daada5b001917829da11a82b03fda532a8d400de83a81753499cb3e33af31d3b&width=320" alt="Omslag van 'Het verhaal van juf Corrie'" title="Omslag van 'Het verhaal van juf Corrie'">
+<p>Corrie van Doorn heeft haar eindexamen achter de rug en wil één zomer lang iets doen dat niet uit studieboeken komt. Een vrijwilligersbaantje in een afgelegen kindertehuis lijkt precies wat ze zoekt. Maar De Hel, zoals het huis door de bewoners wordt genoemd, blijkt geen gewoon tehuis. Vijf eigenwijze, kwetsbare jongens testen haar geduld vanaf de eerste minuut. Toch ontdekt Corrie al snel dat achter hun streken vooral verlangen schuilgaat: naar aandacht, veiligheid en iemand die blijft. Wanneer de directrice onverwacht verdwijnt en Darwins moeder opduikt, wordt Corries zomerse uitdaging gevaarlijker dan ze ooit had kunnen vermoeden. Wat begon als een vakantieklus groeit uit tot een strijd om vertrouwen, moed en bescherming. Het verhaal van juf Corrie is een warm, spannend jeugdboek over vriendschap, verantwoordelijkheid en de kracht van één persoon die besluit niet weg te lopen. Voor lezers die houden van humor, ontroering, menselijkheid en een dosis spanning. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Frieda van den Ende</name>
         </author>
     </entry>
     <entry>
@@ -98,48 +98,37 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Rom-Commers]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691678/the-rom-commers-katherine-center</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691678/the-rom-commers-katherine-center"/>
-        <updated>2026-06-03T11:51:01.821Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691678?aid=kb-online-bibliotheek&sid=21&dts=1780457978144&sig=0c6a4141cd70a43e54e3f5345ad71cb7e33822f66c1f0a50ed7db5a5950eda15&width=320" alt="Omslag van 'The Rom-Commers'" title="Omslag van 'The Rom-Commers'">
-<p>In 'The Rom-Commers' trakteert Katherine Center haar lezers op een onweerstaanbare ode aan de romantische comedy. Emma Wheeler wil niets liever dan doorbreken als scenarioschrijfster en is al aardig aan de weg aan het timmeren met haar prijswinnende romantische scripts. Maar intussen draagt ze ook als enige de zorg voor haar lieve vader, die fulltime hulp nodig heeft. Nu krijgt ze de kans van haar leven: ze mag een script herschrijven voor schrijver Charlie Yates, haar grote idool! Deze kans mag ze echt niet missen en dus vraagt ze haar jongere zus de zorgtaken over te nemen en verhuist ze voor zes weken naar Los Angeles.  Eenmaal aangekomen blijkt Charlie echter een cynische, liefdeontkennende beroemdheid te zijn die bepaald niet op haar hulp zit te wachten. Erger nog, zijn script is zo slecht dat het strafbaar zou moeten zijn. Maar Emma geeft zich niet zomaar gewonnen en zet alles op alles om Charlie ervan te overtuigen dat liefdesverhalen er weldegelijk toedoen, zelfs als ze hem daarvoor knock-out moet zoenen. Wat als de romance die ze aan het schrijven is al haar verwachtingen overstijgt – en ook nog eens werkelijkheid dreigt te worden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een moeder in Auschwitz]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691333/een-moeder-in-auschwitz-rosa-de-winter-levy</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691333/een-moeder-in-auschwitz-rosa-de-winter-levy"/>
+        <updated>2026-06-03T11:50:52.141Z</updated>
+        <summary type="html"><![CDATA[Een getuigenis]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691333?aid=kb-online-bibliotheek&sid=21&dts=1780474863756&sig=ad516359b04557168bba70ddf7131d7644a3952e9cc51d0ef26a1f23a5fa9d1f&width=320" alt="Omslag van 'Een moeder in Auschwitz'" title="Omslag van 'Een moeder in Auschwitz'">
+<p>In de laatste trein die vanuit Westerbork vertrok naar Auschwitz bevond zich Rosa de Winter-Levy met haar man en haar dochter. In Auschwitz werd ze direct na aankomst ruw gescheiden van haar man. Ze belandde in Birkenau, waar ook haar dochter van haar werd afgenomen. Ze raakte bevriend met Edith, de moeder van Anne Frank, die ook gescheiden was van haar familie. Edith stierf in Rosa's armen, zelf ontsnapte ze op wonderbaarlijke wijze aan de dood. In de ziekenbarak van het door de SS verlaten kamp werd ze bevrijd door de Russen. Lange tijd verkeerde ze in onzekerheid over het lot van haar man en haar dochter. Maanden na de bevrijding sloot ze haar dochter weer in haar armen; haar man bleek te zijn vermoord. Nog diezelfde zomer deed ze verslag van de verschrikkingen die ze had meegemaakt. 'Een moeder in Auschwitz' is een uitzonderlijk directe en zeer aangrijpende getuigenis. Met een voowoord van Ronit Palache. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Katherine Center</name>
+            <name>Rosa de Winter-Levy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een schandaal in blauw]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46069149X/een-schandaal-in-blauw-ellen-barksdale</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46069149X/een-schandaal-in-blauw-ellen-barksdale"/>
-        <updated>2026-06-03T11:50:59.603Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46069149X?aid=kb-online-bibliotheek&sid=21&dts=1780465566722&sig=eced27f6a251f951e7afaa7a5251f994d4f3d4fbd05aa378b48cb4561b2a5a10&width=320" alt="Omslag van 'Een schandaal in blauw'" title="Omslag van 'Een schandaal in blauw'">
-<p>Thee? Koffie? Moord! deel 3. Schandaal op de hondenshow! De drie koningspoedels van Sir Theodore - tot nu toe de onbetwiste kampioenen - zijn blauw geverfd! Sir Theodore beschuldigt organisator Mason Mayfield ervan de dader te zijn. Wanneer Mayfield korte tijd later vermoord wordt aangetroffen, is Sir Theodore de hoofdverdachte. Maar Nathalie is er rotsvast van overtuigd dat hij onschuldig is en samen met Louise én de poedels gaat ze op pad om de echte moordenaar te ontmaskeren. Voor fans van de Cherringham-serie van Costello & Richards. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De leesclub]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691864/de-leesclub-martin-scherstra</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691864/de-leesclub-martin-scherstra"/>
+        <updated>2026-06-03T11:50:54.213Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691864?aid=kb-online-bibliotheek&sid=21&dts=1780472731899&sig=5408196a328a9d3ebd5a81966c333ad6a9c418204a5f4e20f075720f615a7552&width=320" alt="Omslag van 'De leesclub'" title="Omslag van 'De leesclub'">
+<p>Baukje, Brecht, Jo en Jitske verschillen enorm van elkaar. Qua leeftijd, leven, romantiek en persoonlijkheid. Toch zijn ze goede vriendinnen. Hun liefde voor lezen verbindt hen en ze hebben een leesclubje opgericht om hun hobby te delen en de verveling buiten de deur te houden – al wordt er tijdens die avondjes ook genoeg gekletst. Ze bieden elkaar vaak advies, troost en een luisterend oor. Het boek dat de leesclub momenteel bespreekt, is 'Liefdeseiland' van Claire Vecht. De romantiek spat van de pagina's en dat zet de vrouwen aan het denken: wanneer hebben zij zich voor het laatst zo gevoeld? Wat ze niet weten, is dat Claire een pseudoniem gebruikt en in werkelijkheid een stuk dichter bij hen staat dan zij denken. 'De leesclub' is weer een heerlijk romantische, warme familieroman van Martin Scherstra met een vleugje mysterie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ellen Barksdale</name>
+            <name>Martin Scherstra</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Napels geel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher"/>
-        <updated>2026-06-03T11:51:00.172Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691457?aid=kb-online-bibliotheek&sid=21&dts=1780465609813&sig=11a2ab067990cf68b73379b7dbb317125591d0c249024b82832820cf998e2317&width=320" alt="Omslag van 'Napels geel'" title="Omslag van 'Napels geel'">
-<p>Lees de zinderende erotische serie Valentina's vendetta. Kunsthistorica Valentina belandt door een affaire met een duistere zakenman in de schimmige wereld van kunsthandel. Deel 1 in de serie Valentina's vendetta. De maffia romance die je niet kan wegleggen.  Als kunsthistorica Valentina een rondleiding geeft in het Rijksmuseum, eist een onbekende bezoeker haar aandacht op, waarna ze als een blok voor hem valt. Ze beleven een hete nacht in een hotel, waarna ze hem al snel volgt op een van zijn zakenreizen naar Florence. Daar belandt ze tegen wil en dank in de schimmige wereld van kunstroof. Voor fans van Gabrielle Sands en haar Fallen serie.  'Als kunsthistorica Valentina een rondleiding geeft in het Rijksmuseum, eist een onbekende bezoeker haar aandacht op, waarna ze als een blok voor hem valt.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Samenspel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691716/samenspel-kirstin-rozema</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691716/samenspel-kirstin-rozema"/>
+        <updated>2026-06-03T11:50:55.942Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691716?aid=kb-online-bibliotheek&sid=21&dts=1780457957859&sig=8448ff73b2e38e86a41e2f12262be3dd72466170686678f9605a7171f6bcae18&width=320" alt="Omslag van 'Samenspel'" title="Omslag van 'Samenspel'">
+<p>In 'Samenspel' van Kirstin Rozema kondigt een artikel in de krant de reünie voor leerlingen van voormalige dansschool Harms aan. Alle oud-leden zijn van harte welkom om samen te komen, herinneringen op te halen en natuurlijk te dansen. Op de avond van de reünie komen de voetjes algauw van de vloer en een aantal stellen maken indruk met hun prachtige wals, die ze jaren geleden oefenden. Ze zijn de vijftig gepasseerd, maar het zit er nog in! Kathleen, de eigenaresse van de huidige dansschool in Almelo, vraagt hen of ze mee willen werken aan een campagne om gezonder leven en bewegen te promoten. Enthousiast stemmen de stellen in. Ze willen laten zien dat ze het nog in zich hebben. Dat ze fit genoeg kunnen worden om dit neer te zetten, al is het maar voor één keer. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Claudia Schoemacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doe en denk als een schrijver]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691694/doe-en-denk-als-een-schrijver-lidewey-van-noord</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691694/doe-en-denk-als-een-schrijver-lidewey-van-noord"/>
-        <updated>2026-06-03T11:50:57.257Z</updated>
-        <summary type="html"><![CDATA[Creatief, moedig, volhardend, nieuwsgierig, solitair, gefocust]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691694?aid=kb-online-bibliotheek&sid=21&dts=1780466540039&sig=84abeaf02737c37c5ec1bcf37f06efa60f92539de17a2e5c772905bf56e08af5&width=320" alt="Omslag van 'Doe en denk als een schrijver'" title="Omslag van 'Doe en denk als een schrijver'">
-<p>Als we iets van schrijvers kunnen leren, dan is het wel omgaan met onzekerheid. Maar dat is niet de enige kwaliteit die een schrijver nodig heeft om zijn of haar vak uit te oefenen. Een schrijver dient over tal van bijzondere eigenschappen te beschikken. Waar haal je inspiratie vandaan? Hoe vat je moed om aan iets (nieuws) te beginnen? En hoe blijf je gefocust? Of je nu droomt van je eigen tuin ontwerpen, de wereld rondzeilen of een boek schrijven, deze lessen zijn altijd toepasbaar. Zonder je af, verzamel al je moed, wakker je creativiteit aan en breng dat spannende project tot een goed einde! Verschijnt dezelfde serie als de humoristische bestseller Doe en denk als een kat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lidewey van Noord</name>
+            <name>Kirstin Rozema</name>
         </author>
     </entry>
     <entry>
@@ -165,14 +154,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een dodelijke blik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691430/een-dodelijke-blik-peter-james</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691430/een-dodelijke-blik-peter-james"/>
-        <updated>2026-06-03T11:51:02.931Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691430?aid=kb-online-bibliotheek&sid=21&dts=1780465479473&sig=0d74ff5e14c4a2d33717dafaecf25a4d15b00b35a3a2bed163caf8579ffc5642&width=320" alt="Omslag van 'Een dodelijke blik'" title="Omslag van 'Een dodelijke blik'">
-<p>Deel 18 in de Roy Grace-serie.</p><p>Een verborgen meesterwerk. Een dodelijk geheim.  Harry en Freya zijn op zoek naar een kunstkoopje wanneer ze per ongeluk op een verloren meesterwerk stuiten. Wat aanvankelijk een geweldige vondst lijkt, blijkt al snel een nachtmerrie te zijn. Het schilderij blijkt een sleutel te zijn tot een gevaarlijk geheim—en er zijn mensen die koste wat kost willen voorkomen dat het onthuld wordt. Rechercheur Roy Grace wordt op de zaak gezet en ontdekt dat kunst niet alleen waardevol, maar ook dodelijk kan zijn. Terwijl de dreiging toeneemt, moet hij alles op alles zetten om de waarheid te achterhalen voordat het te laat is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een schandaal in blauw]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46069149X/een-schandaal-in-blauw-ellen-barksdale</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46069149X/een-schandaal-in-blauw-ellen-barksdale"/>
+        <updated>2026-06-03T11:50:59.603Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46069149X?aid=kb-online-bibliotheek&sid=21&dts=1780465566722&sig=eced27f6a251f951e7afaa7a5251f994d4f3d4fbd05aa378b48cb4561b2a5a10&width=320" alt="Omslag van 'Een schandaal in blauw'" title="Omslag van 'Een schandaal in blauw'">
+<p>Thee? Koffie? Moord! deel 3. Schandaal op de hondenshow! De drie koningspoedels van Sir Theodore - tot nu toe de onbetwiste kampioenen - zijn blauw geverfd! Sir Theodore beschuldigt organisator Mason Mayfield ervan de dader te zijn. Wanneer Mayfield korte tijd later vermoord wordt aangetroffen, is Sir Theodore de hoofdverdachte. Maar Nathalie is er rotsvast van overtuigd dat hij onschuldig is en samen met Louise én de poedels gaat ze op pad om de echte moordenaar te ontmaskeren. Voor fans van de Cherringham-serie van Costello & Richards. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Peter James</name>
+            <name>Ellen Barksdale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Napels geel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher"/>
+        <updated>2026-06-03T11:51:00.172Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691457?aid=kb-online-bibliotheek&sid=21&dts=1780465609813&sig=11a2ab067990cf68b73379b7dbb317125591d0c249024b82832820cf998e2317&width=320" alt="Omslag van 'Napels geel'" title="Omslag van 'Napels geel'">
+<p>Lees de zinderende erotische serie Valentina's vendetta. Kunsthistorica Valentina belandt door een affaire met een duistere zakenman in de schimmige wereld van kunsthandel. Deel 1 in de serie Valentina's vendetta. De maffia romance die je niet kan wegleggen.  Als kunsthistorica Valentina een rondleiding geeft in het Rijksmuseum, eist een onbekende bezoeker haar aandacht op, waarna ze als een blok voor hem valt. Ze beleven een hete nacht in een hotel, waarna ze hem al snel volgt op een van zijn zakenreizen naar Florence. Daar belandt ze tegen wil en dank in de schimmige wereld van kunstroof. Voor fans van Gabrielle Sands en haar Fallen serie.  'Als kunsthistorica Valentina een rondleiding geeft in het Rijksmuseum, eist een onbekende bezoeker haar aandacht op, waarna ze als een blok voor hem valt.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Claudia Schoemacher</name>
         </author>
     </entry>
     <entry>
@@ -187,26 +187,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rookgordijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691724/rookgordijn-elly-griffiths</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691724/rookgordijn-elly-griffiths"/>
-        <updated>2026-06-03T11:50:49.274Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691724?aid=kb-online-bibliotheek&sid=21&dts=1780457660593&sig=6bc8f737940ef544107a48c717f72e3cc873fc055c808105f9d7b970ca2f2016&width=320" alt="Omslag van 'Rookgordijn'" title="Omslag van 'Rookgordijn'">
-<p>Boek 2 in de Brighton mysteries-serie. December 1951. Terwijl het sneeuwt en Kerstmis nadert, onderzoekt rechercheur Stephens de verdwijning van twee kinderen, Mark en Annie. Dan worden de lichamen van de kinderen gevonden op een afgelegen plek, omringd door een spoor van snoepjes. De zaak doet denken aan een beroemde moord van jaren eerder. Wanneer kort daarna nog een kind verdwijnt moet Stephens in een race tegen de klok alle puzzelstukken op hun plaats weten te leggen, voordat het te laat is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[A'dams Tourtje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691589/a-dams-tourtje-roos-hamelink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691589/a-dams-tourtje-roos-hamelink"/>
+        <updated>2026-06-03T11:50:56.482Z</updated>
+        <summary type="html"><![CDATA[Historische stadswandeling door Amsterdam]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691589?aid=kb-online-bibliotheek&sid=21&dts=1780480222363&sig=ee1d93eda6c02efe0a4d68c233589831e3fecebd489ec45467e0d069c1572634&width=320" alt="Omslag van 'A'dams Tourtje'" title="Omslag van 'A'dams Tourtje'">
+<p>Amsterdam drijft op water, wonderen, protest en plezier. Al eeuwen komen daar kloosterlingen, kunstenaars, krakers en koningen op af. Dat levert mooie verhalen op en die vind je – of je nou een dagjesmens of doorgewinterde Amsterdammer bent – in dit stadstourtje.  Met dit boekje in de hand ontdek je de stad Amsterdam in een ochtend of middag. Volg de 6 kilometer lange route aan de hand van heldere beschrijvingen en de kaart. Onderweg komen de historische verhalen tot leven met archiefbeelden en illustraties van de Amsterdamse Rob Wighman.  De historische stadswandelingen van Stourtje zijn voor iedereen die een dagje uit wil. Of je de stad al op je duimpje kent of 'm voor het eerst bezoekt: elk boekje is een nieuw avontuur. Met Stourtje maak je van je stedentrip het leukste uitje. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Elly Griffiths</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europa]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691813/europa-hans-mulder</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691813/europa-hans-mulder"/>
-        <updated>2026-06-03T11:50:55.405Z</updated>
-        <summary type="html"><![CDATA[De zestiende eeuw]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691813?aid=kb-online-bibliotheek&sid=21&dts=1780465642991&sig=25877d2845050ab0a825103b3b9527e25112f70397e89da13aaa1a15fbc494e6&width=320" alt="Omslag van 'Europa'" title="Omslag van 'Europa'">
-<p>Nu het wereldtoneel verandert, komt Europa in een nieuwe fase. Gezamenlijkheid lijkt urgenter dan ooit tevoren. Maar wat is dat eigenlijk, Europa? Hoe onderscheidt het continent zich van de andere? Hoe leefden Europeanen? Wat maakten ze? En, niet in de laatste plaats: wat verdeelde en wat verbond de Europeaan? In een serie van vier rijkgeïllustreerde boeken worden tachtig verhalen verteld die samen een caleidoscopische geschiedenis van Europa tussen 1500 en 1900 vormen. De Europese samenleving wordt geschetst aan de hand van tien thema’s, waaronder reizen, kunst, wetenschap en natuur. Elk jaar verschijnt een deel met prachtige verhalen. Dit najaar het eerste: het boek over de zestiende eeuw.  'Een aantrekkelijk geïllustreerde mozaïek, en daar blijkt verrassend veel in te passen.' - Geschiedenis Magazine ‘Prachtige kaarten van steden en foto’s van schilderijen illustreren de tekst en maken dit boek tot een aantrekkelijke uitgave. Het boek is vooral een introductie dus wie wil kennismaken met Europa in de 16 eeuw, vindt hier een aantrekkelijke en veelzijdige gids om basiskennis op te doen.’- Boekenkrant </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Hans Mulder</name>
+            <name>Roos Hamelink</name>
         </author>
     </entry>
     <entry>
@@ -221,6 +210,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jaimy]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46069152X/jaimy-joep-scheepers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46069152X/jaimy-joep-scheepers"/>
+        <updated>2026-06-03T11:50:52.698Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46069152X?aid=kb-online-bibliotheek&sid=21&dts=1780468127305&sig=238620ed8c97e9702674ba4b543c7128d359a87f8707ea0a838c8475d6f4c6b1&width=320" alt="Omslag van 'Jaimy'" title="Omslag van 'Jaimy'">
+<p>Jaimy Vanenburg deelde haar leven openhartig online. Ze was advocaat, moeder van Len en bovenal een levensgenieter. Vanaf haar jeugd leefde ze met een chronische longziekte, bronchiëctasiëen. Sinds de zwangerschap verslechterde haar gezondheid en daalde haar longfunctie naar een gevaarlijke 13 procent. Jaimy's lichaam werd daarna flink op de proef gesteld: van een coma tot een dubbele longtransplantatie, hartstilstand en ook nog kanker. Maar elke keer krabbelde ze weer op – tot de finaleklap werd uitgedeeld. Onverwacht. Een maand voor ze overleed, maakte ze de opzet van wat haar boek, Ze passen perfect, zou gaan worden. Haar vriend Joep Scheepers besloot dat boek alsnog te schrijven, onder Jaimy's motto: vergeet niet te leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Joep Scheepers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rom-Commers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691678/the-rom-commers-katherine-center</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691678/the-rom-commers-katherine-center"/>
+        <updated>2026-06-03T11:51:01.821Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691678?aid=kb-online-bibliotheek&sid=21&dts=1780457978144&sig=0c6a4141cd70a43e54e3f5345ad71cb7e33822f66c1f0a50ed7db5a5950eda15&width=320" alt="Omslag van 'The Rom-Commers'" title="Omslag van 'The Rom-Commers'">
+<p>In 'The Rom-Commers' trakteert Katherine Center haar lezers op een onweerstaanbare ode aan de romantische comedy. Emma Wheeler wil niets liever dan doorbreken als scenarioschrijfster en is al aardig aan de weg aan het timmeren met haar prijswinnende romantische scripts. Maar intussen draagt ze ook als enige de zorg voor haar lieve vader, die fulltime hulp nodig heeft. Nu krijgt ze de kans van haar leven: ze mag een script herschrijven voor schrijver Charlie Yates, haar grote idool! Deze kans mag ze echt niet missen en dus vraagt ze haar jongere zus de zorgtaken over te nemen en verhuist ze voor zes weken naar Los Angeles.  Eenmaal aangekomen blijkt Charlie echter een cynische, liefdeontkennende beroemdheid te zijn die bepaald niet op haar hulp zit te wachten. Erger nog, zijn script is zo slecht dat het strafbaar zou moeten zijn. Maar Emma geeft zich niet zomaar gewonnen en zet alles op alles om Charlie ervan te overtuigen dat liefdesverhalen er weldegelijk toedoen, zelfs als ze hem daarvoor knock-out moet zoenen. Wat als de romance die ze aan het schrijven is al haar verwachtingen overstijgt – en ook nog eens werkelijkheid dreigt te worden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Katherine Center</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Moederheil]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460691554/moederheil-els-florijn</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460691554/moederheil-els-florijn"/>
@@ -232,14 +243,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samenspel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691716/samenspel-kirstin-rozema</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691716/samenspel-kirstin-rozema"/>
-        <updated>2026-06-03T11:50:55.942Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691716?aid=kb-online-bibliotheek&sid=21&dts=1780457957859&sig=8448ff73b2e38e86a41e2f12262be3dd72466170686678f9605a7171f6bcae18&width=320" alt="Omslag van 'Samenspel'" title="Omslag van 'Samenspel'">
-<p>In 'Samenspel' van Kirstin Rozema kondigt een artikel in de krant de reünie voor leerlingen van voormalige dansschool Harms aan. Alle oud-leden zijn van harte welkom om samen te komen, herinneringen op te halen en natuurlijk te dansen. Op de avond van de reünie komen de voetjes algauw van de vloer en een aantal stellen maken indruk met hun prachtige wals, die ze jaren geleden oefenden. Ze zijn de vijftig gepasseerd, maar het zit er nog in! Kathleen, de eigenaresse van de huidige dansschool in Almelo, vraagt hen of ze mee willen werken aan een campagne om gezonder leven en bewegen te promoten. Enthousiast stemmen de stellen in. Ze willen laten zien dat ze het nog in zich hebben. Dat ze fit genoeg kunnen worden om dit neer te zetten, al is het maar voor één keer. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Achter gesloten deuren]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691376/achter-gesloten-deuren-clare-mackintosh</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691376/achter-gesloten-deuren-clare-mackintosh"/>
+        <updated>2026-06-03T11:51:02.355Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691376?aid=kb-online-bibliotheek&sid=21&dts=1780468432891&sig=5d1ac352d0cab19f5893b66c78dae4b36269c8e84419a1eeab98e1084e8855b9&width=320" alt="Omslag van 'Achter gesloten deuren'" title="Omslag van 'Achter gesloten deuren'">
+<p>Boek 3 in de Rechercheur Morgan-serie. Wanneer het lichaam van een makelaar wordt gevonden in een omgeslagen kajak op Mirror Lake, vermoedt Ffion al snel dat het geen ongeluk was, maar een zorgvuldig in scène gezette moord. Tegelijkertijd, net over de grens in Cheshire, onderzoekt Ffions vriend, rechercheur Leo Brady, een reeks mysterieuze inbraken in een exclusieve wijk genaamd The Hill. Het lijkt erop dat de dader niet zomaar op zoek is naar waardevolle spullen, maar naar iets — of iemand — specifieks. Terwijl Ffion en Leo hun afzonderlijke zaken onderzoeken, beginnen de lijnen tussen hun onderzoeken te vervagen. Ze ontdekken dat achter de façade van rijkdom en perfectie diepe geheimen schuilgaan. Mensen blijken bereid een hoge prijs te betalen om die geheimen verborgen te houden — zelfs moord is niet uitgesloten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Kirstin Rozema</name>
+            <name>Clare Mackintosh</name>
         </author>
     </entry>
     <entry>
@@ -255,14 +266,38 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De leesclub]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691864/de-leesclub-martin-scherstra</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691864/de-leesclub-martin-scherstra"/>
-        <updated>2026-06-03T11:50:54.213Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691864?aid=kb-online-bibliotheek&sid=21&dts=1780472731899&sig=5408196a328a9d3ebd5a81966c333ad6a9c418204a5f4e20f075720f615a7552&width=320" alt="Omslag van 'De leesclub'" title="Omslag van 'De leesclub'">
-<p>Baukje, Brecht, Jo en Jitske verschillen enorm van elkaar. Qua leeftijd, leven, romantiek en persoonlijkheid. Toch zijn ze goede vriendinnen. Hun liefde voor lezen verbindt hen en ze hebben een leesclubje opgericht om hun hobby te delen en de verveling buiten de deur te houden – al wordt er tijdens die avondjes ook genoeg gekletst. Ze bieden elkaar vaak advies, troost en een luisterend oor. Het boek dat de leesclub momenteel bespreekt, is 'Liefdeseiland' van Claire Vecht. De romantiek spat van de pagina's en dat zet de vrouwen aan het denken: wanneer hebben zij zich voor het laatst zo gevoeld? Wat ze niet weten, is dat Claire een pseudoniem gebruikt en in werkelijkheid een stuk dichter bij hen staat dan zij denken. 'De leesclub' is weer een heerlijk romantische, warme familieroman van Martin Scherstra met een vleugje mysterie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Europa]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691813/europa-hans-mulder</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691813/europa-hans-mulder"/>
+        <updated>2026-06-03T11:50:55.405Z</updated>
+        <summary type="html"><![CDATA[De zestiende eeuw]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691813?aid=kb-online-bibliotheek&sid=21&dts=1780465642991&sig=25877d2845050ab0a825103b3b9527e25112f70397e89da13aaa1a15fbc494e6&width=320" alt="Omslag van 'Europa'" title="Omslag van 'Europa'">
+<p>Nu het wereldtoneel verandert, komt Europa in een nieuwe fase. Gezamenlijkheid lijkt urgenter dan ooit tevoren. Maar wat is dat eigenlijk, Europa? Hoe onderscheidt het continent zich van de andere? Hoe leefden Europeanen? Wat maakten ze? En, niet in de laatste plaats: wat verdeelde en wat verbond de Europeaan? In een serie van vier rijkgeïllustreerde boeken worden tachtig verhalen verteld die samen een caleidoscopische geschiedenis van Europa tussen 1500 en 1900 vormen. De Europese samenleving wordt geschetst aan de hand van tien thema’s, waaronder reizen, kunst, wetenschap en natuur. Elk jaar verschijnt een deel met prachtige verhalen. Dit najaar het eerste: het boek over de zestiende eeuw.  'Een aantrekkelijk geïllustreerde mozaïek, en daar blijkt verrassend veel in te passen.' - Geschiedenis Magazine ‘Prachtige kaarten van steden en foto’s van schilderijen illustreren de tekst en maken dit boek tot een aantrekkelijke uitgave. Het boek is vooral een introductie dus wie wil kennismaken met Europa in de 16 eeuw, vindt hier een aantrekkelijke en veelzijdige gids om basiskennis op te doen.’- Boekenkrant </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Martin Scherstra</name>
+            <name>Hans Mulder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doe en denk als een schrijver]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691694/doe-en-denk-als-een-schrijver-lidewey-van-noord</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691694/doe-en-denk-als-een-schrijver-lidewey-van-noord"/>
+        <updated>2026-06-03T11:50:57.257Z</updated>
+        <summary type="html"><![CDATA[Creatief, moedig, volhardend, nieuwsgierig, solitair, gefocust]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691694?aid=kb-online-bibliotheek&sid=21&dts=1780466540039&sig=84abeaf02737c37c5ec1bcf37f06efa60f92539de17a2e5c772905bf56e08af5&width=320" alt="Omslag van 'Doe en denk als een schrijver'" title="Omslag van 'Doe en denk als een schrijver'">
+<p>Als we iets van schrijvers kunnen leren, dan is het wel omgaan met onzekerheid. Maar dat is niet de enige kwaliteit die een schrijver nodig heeft om zijn of haar vak uit te oefenen. Een schrijver dient over tal van bijzondere eigenschappen te beschikken. Waar haal je inspiratie vandaan? Hoe vat je moed om aan iets (nieuws) te beginnen? En hoe blijf je gefocust? Of je nu droomt van je eigen tuin ontwerpen, de wereld rondzeilen of een boek schrijven, deze lessen zijn altijd toepasbaar. Zonder je af, verzamel al je moed, wakker je creativiteit aan en breng dat spannende project tot een goed einde! Verschijnt dezelfde serie als de humoristische bestseller Doe en denk als een kat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lidewey van Noord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een dodelijke blik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691430/een-dodelijke-blik-peter-james</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691430/een-dodelijke-blik-peter-james"/>
+        <updated>2026-06-03T11:51:02.931Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691430?aid=kb-online-bibliotheek&sid=21&dts=1780465479473&sig=0d74ff5e14c4a2d33717dafaecf25a4d15b00b35a3a2bed163caf8579ffc5642&width=320" alt="Omslag van 'Een dodelijke blik'" title="Omslag van 'Een dodelijke blik'">
+<p>Deel 18 in de Roy Grace-serie.</p><p>Een verborgen meesterwerk. Een dodelijk geheim.  Harry en Freya zijn op zoek naar een kunstkoopje wanneer ze per ongeluk op een verloren meesterwerk stuiten. Wat aanvankelijk een geweldige vondst lijkt, blijkt al snel een nachtmerrie te zijn. Het schilderij blijkt een sleutel te zijn tot een gevaarlijk geheim—en er zijn mensen die koste wat kost willen voorkomen dat het onthuld wordt. Rechercheur Roy Grace wordt op de zaak gezet en ontdekt dat kunst niet alleen waardevol, maar ook dodelijk kan zijn. Terwijl de dreiging toeneemt, moet hij alles op alles zetten om de waarheid te achterhalen voordat het te laat is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Peter James</name>
         </author>
     </entry>
     <entry>
@@ -289,52 +324,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Achter gesloten deuren]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691376/achter-gesloten-deuren-clare-mackintosh</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691376/achter-gesloten-deuren-clare-mackintosh"/>
-        <updated>2026-06-03T11:51:02.355Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691376?aid=kb-online-bibliotheek&sid=21&dts=1780468432891&sig=5d1ac352d0cab19f5893b66c78dae4b36269c8e84419a1eeab98e1084e8855b9&width=320" alt="Omslag van 'Achter gesloten deuren'" title="Omslag van 'Achter gesloten deuren'">
-<p>Boek 3 in de Rechercheur Morgan-serie. Wanneer het lichaam van een makelaar wordt gevonden in een omgeslagen kajak op Mirror Lake, vermoedt Ffion al snel dat het geen ongeluk was, maar een zorgvuldig in scène gezette moord. Tegelijkertijd, net over de grens in Cheshire, onderzoekt Ffions vriend, rechercheur Leo Brady, een reeks mysterieuze inbraken in een exclusieve wijk genaamd The Hill. Het lijkt erop dat de dader niet zomaar op zoek is naar waardevolle spullen, maar naar iets — of iemand — specifieks. Terwijl Ffion en Leo hun afzonderlijke zaken onderzoeken, beginnen de lijnen tussen hun onderzoeken te vervagen. Ze ontdekken dat achter de façade van rijkdom en perfectie diepe geheimen schuilgaan. Mensen blijken bereid een hoge prijs te betalen om die geheimen verborgen te houden — zelfs moord is niet uitgesloten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Clare Mackintosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A'dams Tourtje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691589/a-dams-tourtje-roos-hamelink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691589/a-dams-tourtje-roos-hamelink"/>
-        <updated>2026-06-03T11:50:56.482Z</updated>
-        <summary type="html"><![CDATA[Historische stadswandeling door Amsterdam]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691589?aid=kb-online-bibliotheek&sid=21&dts=1780480222363&sig=ee1d93eda6c02efe0a4d68c233589831e3fecebd489ec45467e0d069c1572634&width=320" alt="Omslag van 'A'dams Tourtje'" title="Omslag van 'A'dams Tourtje'">
-<p>Amsterdam drijft op water, wonderen, protest en plezier. Al eeuwen komen daar kloosterlingen, kunstenaars, krakers en koningen op af. Dat levert mooie verhalen op en die vind je – of je nou een dagjesmens of doorgewinterde Amsterdammer bent – in dit stadstourtje.  Met dit boekje in de hand ontdek je de stad Amsterdam in een ochtend of middag. Volg de 6 kilometer lange route aan de hand van heldere beschrijvingen en de kaart. Onderweg komen de historische verhalen tot leven met archiefbeelden en illustraties van de Amsterdamse Rob Wighman.  De historische stadswandelingen van Stourtje zijn voor iedereen die een dagje uit wil. Of je de stad al op je duimpje kent of 'm voor het eerst bezoekt: elk boekje is een nieuw avontuur. Met Stourtje maak je van je stedentrip het leukste uitje. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Roos Hamelink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een moeder in Auschwitz]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691333/een-moeder-in-auschwitz-rosa-de-winter-levy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691333/een-moeder-in-auschwitz-rosa-de-winter-levy"/>
-        <updated>2026-06-03T11:50:52.141Z</updated>
-        <summary type="html"><![CDATA[Een getuigenis]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691333?aid=kb-online-bibliotheek&sid=21&dts=1780474863756&sig=ad516359b04557168bba70ddf7131d7644a3952e9cc51d0ef26a1f23a5fa9d1f&width=320" alt="Omslag van 'Een moeder in Auschwitz'" title="Omslag van 'Een moeder in Auschwitz'">
-<p>In de laatste trein die vanuit Westerbork vertrok naar Auschwitz bevond zich Rosa de Winter-Levy met haar man en haar dochter. In Auschwitz werd ze direct na aankomst ruw gescheiden van haar man. Ze belandde in Birkenau, waar ook haar dochter van haar werd afgenomen. Ze raakte bevriend met Edith, de moeder van Anne Frank, die ook gescheiden was van haar familie. Edith stierf in Rosa's armen, zelf ontsnapte ze op wonderbaarlijke wijze aan de dood. In de ziekenbarak van het door de SS verlaten kamp werd ze bevrijd door de Russen. Lange tijd verkeerde ze in onzekerheid over het lot van haar man en haar dochter. Maanden na de bevrijding sloot ze haar dochter weer in haar armen; haar man bleek te zijn vermoord. Nog diezelfde zomer deed ze verslag van de verschrikkingen die ze had meegemaakt. 'Een moeder in Auschwitz' is een uitzonderlijk directe en zeer aangrijpende getuigenis. Met een voowoord van Ronit Palache. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Rosa de Winter-Levy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jaimy]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46069152X/jaimy-joep-scheepers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46069152X/jaimy-joep-scheepers"/>
-        <updated>2026-06-03T11:50:52.698Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46069152X?aid=kb-online-bibliotheek&sid=21&dts=1780468127305&sig=238620ed8c97e9702674ba4b543c7128d359a87f8707ea0a838c8475d6f4c6b1&width=320" alt="Omslag van 'Jaimy'" title="Omslag van 'Jaimy'">
-<p>Jaimy Vanenburg deelde haar leven openhartig online. Ze was advocaat, moeder van Len en bovenal een levensgenieter. Vanaf haar jeugd leefde ze met een chronische longziekte, bronchiëctasiëen. Sinds de zwangerschap verslechterde haar gezondheid en daalde haar longfunctie naar een gevaarlijke 13 procent. Jaimy's lichaam werd daarna flink op de proef gesteld: van een coma tot een dubbele longtransplantatie, hartstilstand en ook nog kanker. Maar elke keer krabbelde ze weer op – tot de finaleklap werd uitgedeeld. Onverwacht. Een maand voor ze overleed, maakte ze de opzet van wat haar boek, Ze passen perfect, zou gaan worden. Haar vriend Joep Scheepers besloot dat boek alsnog te schrijven, onder Jaimy's motto: vergeet niet te leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Joep Scheepers</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thuis in Midnight]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460691449/thuis-in-midnight-holly-martin</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460691449/thuis-in-midnight-holly-martin"/>
@@ -343,6 +332,17 @@
 <p>Haar magische taarten brengen geluk, maar één verkeerde hap dwingt Star Brightheart om Londen achter zich te la­ten. In Midnight ontdekt ze een dorp vol heksen, een dertigjarige vloek, een pratende kat én een gevoel van thuishoren dat ze nooit heeft gekend. En dan is daar ook nog de knappe burgemeester Wolf Oakwood… Een schepje tweede kansen en een snufje lotsbe­stemming vormen het recept voor een beto­verend liefdesverhaal. 'Thuis in Midnight' is een romantische feelgoodroman met een vleugje magie! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Holly Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rookgordijn]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691724/rookgordijn-elly-griffiths</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691724/rookgordijn-elly-griffiths"/>
+        <updated>2026-06-03T11:50:49.274Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691724?aid=kb-online-bibliotheek&sid=21&dts=1780457660593&sig=6bc8f737940ef544107a48c717f72e3cc873fc055c808105f9d7b970ca2f2016&width=320" alt="Omslag van 'Rookgordijn'" title="Omslag van 'Rookgordijn'">
+<p>Boek 2 in de Brighton mysteries-serie. December 1951. Terwijl het sneeuwt en Kerstmis nadert, onderzoekt rechercheur Stephens de verdwijning van twee kinderen, Mark en Annie. Dan worden de lichamen van de kinderen gevonden op een afgelegen plek, omringd door een spoor van snoepjes. De zaak doet denken aan een beroemde moord van jaren eerder. Wanneer kort daarna nog een kind verdwijnt moet Stephens in een race tegen de klok alle puzzelstukken op hun plaats weten te leggen, voordat het te laat is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elly Griffiths</name>
         </author>
     </entry>
     <entry>
