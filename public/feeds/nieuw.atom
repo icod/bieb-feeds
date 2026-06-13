@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-06-12T10:57:03.247Z</updated>
+    <updated>2026-06-13T09:52:39.571Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -69,18 +69,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apostelkind]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/426387511/apostelkind-renske-doorenspleet</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/426387511/apostelkind-renske-doorenspleet"/>
-        <updated>2026-06-11T11:18:29.257Z</updated>
-        <summary type="html"><![CDATA[In de greep van een gesloten genootschap]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426387511?aid=kb-online-bibliotheek&sid=21&dts=1781176708735&sig=d2ca22cb27f19412964ed07abc2c4027fcf04667ca3b5bf70c5aca10a8753fb1&width=320" alt="Omslag van 'Apostelkind'" title="Omslag van 'Apostelkind'">
-<p>Tussen 1946 en 2001 groeiden duizenden Nederlandse kinderen op in een verborgen, parallelle wereld. Ze vormden een gesloten gemeenschap met zo'n 30.000 ooms en tantes, broeders en zusters, en één Vader die volledige overgave eiste: de Apostel. De groep had dagelijkse bijeenkomsten, een eigen taalgebruik, een intensief jeugdprogramma, een bijzondere levenstaak, aparte regels en rituelen. Overdag functioneerden de kinderen in het zichtbare leven in Nederland. 's Avonds en tijdens de weekenden leefden ze in een voor buitenstaanders onzichtbaar universum. Renske Doorenspleet werd geboren in het Apostolisch Genootschap. Na haar uittreding in 1998 wil ze nog maar één ding: haar eigen weg gaan. Maar ze heeft haar jeugd nooit kunnen loslaten. In Apostelkind probeert ze te begrijpen wat haar is overkomen en welke ingrijpende gevolgen dat voor haar en anderen heeft gehad. Ze begint een zoektocht naar de geschiedenis en denkbeelden van de groep en verweeft archiefmateriaal en herinneringen tot een ontluisterend beeld van een gewoon - en tegelijkertijd ongewoon - Nederlands kind in de jaren zeventig en tachtig. Ook laat ze zien hoe deze beweging binnen onze democratie ongemoeid heeft kunnen voortbestaan. Het resultaat is een adembenemend boek over interne dwang en machtsrelaties, de desinteresse van de buitenwereld, maar ook over de kracht van onbevangen nieuwsgierigheid en hechte vriendschap. Een ongekend verhaal. Renske Doorenspleet (1973) was als docent en onderzoeker verbonden aan de universiteiten van Harvard en Leiden. Ze schreef wetenschappelijke artikelen en Engelstalige boeken over vrijheid en democratie. Sinds 2006 woont ze in Engeland en werkt ze aan de universiteit van Warwick. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Renske Doorenspleet</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dokter XTC]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/425051757/dokter-xtc-marian-husken</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/425051757/dokter-xtc-marian-husken"/>
@@ -90,6 +78,18 @@
 <p>Danny Leclère, een jonge arts uit Hasselt, was supertrots op de formule die hij had ontwikkeld om loepzuivere xtc te maken. Begin jaren negentig wist hij de fabricage van de feestpillen samen met Nederlandse vrienden zo op te schroeven dat ze binnen de kortste keren multimiljonair waren. Het waren Danny en zijn maten die Nederland op de kaart zetten als het Colombia van het Noorden, een dubieuze reputatie die standhoudt tot de dag van vandaag. Daarbij was 'Dokter XTC' politie en justitie ook lange tijd te slim af. Zowel in Nederland als in Vlaanderen wist hij jarenlang buiten de gevangenis te blijven. Maar uiteindelijk ging het mis. Op Hemelvaartsdag 1993 werd Danny Leclère op klaarlichte dag geliquideerd op de ringweg van Amsterdam. De daders zijn nooit gepakt. Waarom moest Danny dood? Wie kreeg na de moord zijn revolutionaire xtc-recept in handen? En waar bleven zijn drugsmiljoenen? In haar razend spannende boek ontrafelt Marian Husken de cold case van de godfather van de Nederlandse xtc-industrie. Op basis van uitvoerige research en vele gesprekken met bronnen in Nederland en België reconstrueert ze het spectaculaire verhaal van de net afgestudeerde medicijnenstudent, die koos voor een carrière in de misdaad. Marian Husken is misdaadjournalist. Ze publiceerde eerder onder andere De criminele carrière van Mink K. en Deals en dodenlijstjes. Samen met Harry Lensink schreef ze de bestsellers Handboek Holleeder, Het geheim van Bram Moszkowicz en De jacht op crimineel geld. Husken en Lensink maken samen De Willem Podcast, die in 2018 de Dutch Broadcast Award won. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Marian Husken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apostelkind]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/426387511/apostelkind-renske-doorenspleet</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/426387511/apostelkind-renske-doorenspleet"/>
+        <updated>2026-06-11T11:18:29.257Z</updated>
+        <summary type="html"><![CDATA[In de greep van een gesloten genootschap]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426387511?aid=kb-online-bibliotheek&sid=21&dts=1781176708735&sig=d2ca22cb27f19412964ed07abc2c4027fcf04667ca3b5bf70c5aca10a8753fb1&width=320" alt="Omslag van 'Apostelkind'" title="Omslag van 'Apostelkind'">
+<p>Tussen 1946 en 2001 groeiden duizenden Nederlandse kinderen op in een verborgen, parallelle wereld. Ze vormden een gesloten gemeenschap met zo'n 30.000 ooms en tantes, broeders en zusters, en één Vader die volledige overgave eiste: de Apostel. De groep had dagelijkse bijeenkomsten, een eigen taalgebruik, een intensief jeugdprogramma, een bijzondere levenstaak, aparte regels en rituelen. Overdag functioneerden de kinderen in het zichtbare leven in Nederland. 's Avonds en tijdens de weekenden leefden ze in een voor buitenstaanders onzichtbaar universum. Renske Doorenspleet werd geboren in het Apostolisch Genootschap. Na haar uittreding in 1998 wil ze nog maar één ding: haar eigen weg gaan. Maar ze heeft haar jeugd nooit kunnen loslaten. In Apostelkind probeert ze te begrijpen wat haar is overkomen en welke ingrijpende gevolgen dat voor haar en anderen heeft gehad. Ze begint een zoektocht naar de geschiedenis en denkbeelden van de groep en verweeft archiefmateriaal en herinneringen tot een ontluisterend beeld van een gewoon - en tegelijkertijd ongewoon - Nederlands kind in de jaren zeventig en tachtig. Ook laat ze zien hoe deze beweging binnen onze democratie ongemoeid heeft kunnen voortbestaan. Het resultaat is een adembenemend boek over interne dwang en machtsrelaties, de desinteresse van de buitenwereld, maar ook over de kracht van onbevangen nieuwsgierigheid en hechte vriendschap. Een ongekend verhaal. Renske Doorenspleet (1973) was als docent en onderzoeker verbonden aan de universiteiten van Harvard en Leiden. Ze schreef wetenschappelijke artikelen en Engelstalige boeken over vrijheid en democratie. Sinds 2006 woont ze in Engeland en werkt ze aan de universiteit van Warwick. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Renske Doorenspleet</name>
         </author>
     </entry>
     <entry>
@@ -116,6 +116,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Het verstoorde leven]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437361179/het-verstoorde-leven-etty-hillesum</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437361179/het-verstoorde-leven-etty-hillesum"/>
+        <updated>2026-06-11T11:18:31.558Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437361179?aid=kb-online-bibliotheek&sid=21&dts=1781176710452&sig=4d3f8ed338e8cb8ef687c2161cf086035732bbe8923a7892274624dee08ff7ae&width=320" alt="Omslag van 'Het verstoorde leven'" title="Omslag van 'Het verstoorde leven'">
+<p>Een intelligente en gevoelige joodse vrouw beschrijft haar ontwikkeling en gevoelens tegen de achtergrond van de toenemende bedreiging en isolatie van de joden.</p>]]></content>
+        <author>
+            <name>Etty Hillesum</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De vrouw die Friesland redde]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/43713489X/de-vrouw-die-friesland-redde-sunny-jansen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/43713489X/de-vrouw-die-friesland-redde-sunny-jansen"/>
@@ -127,14 +138,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het verstoorde leven]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437361179/het-verstoorde-leven-etty-hillesum</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437361179/het-verstoorde-leven-etty-hillesum"/>
-        <updated>2026-06-11T11:18:31.558Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437361179?aid=kb-online-bibliotheek&sid=21&dts=1781176710452&sig=4d3f8ed338e8cb8ef687c2161cf086035732bbe8923a7892274624dee08ff7ae&width=320" alt="Omslag van 'Het verstoorde leven'" title="Omslag van 'Het verstoorde leven'">
-<p>Een intelligente en gevoelige joodse vrouw beschrijft haar ontwikkeling en gevoelens tegen de achtergrond van de toenemende bedreiging en isolatie van de joden.</p>]]></content>
+        <title type="html"><![CDATA[De lange mars van Xi]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439535093/de-lange-mars-van-xi-rien-t--segers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439535093/de-lange-mars-van-xi-rien-t--segers"/>
+        <updated>2026-06-11T11:18:33.798Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439535093?aid=kb-online-bibliotheek&sid=21&dts=1781176712769&sig=dff6b64de464813295af9864a3564cade6f23f159a9c3f4fde776410fe79b816&width=320" alt="Omslag van 'De lange mars van Xi'" title="Omslag van 'De lange mars van Xi'">
+<p>In woord en daad maakt China, onder zijn leider Xi Jinping, de laatste jaren duidelijk dat het de absolute wereldheerschappij nastreeft. Op de weg daarnaartoe duldt de autocratische regering geen tegenspraak, niet in het land zelf en ook niet daarbuiten. Het recente optreden van China richting de Oeigoeren, Hongkong en Taiwan zijn daarvan afschrikwekkende voorbeelden. Wat betekent deze opzienbarende en zorgwekkende ontwikkeling voor de geopolitiek, de internationale handelsstromen en de autonomie van veel landen, inclusief Nederland en België? Rien T. Segers laat zien dat China niet alleen containers naar de rest van de wereld verscheept, maar ook zijn ideologische en ongebreidelde machtsaspiraties. Het Westen kan niet langer verdeeld blijven afwachten, maar dient zo spoedig mogelijk en tactvol om te gaan met China als nieuwe, gevestigde supermacht. Maar hoe? Beknopt en helder analyseert Segers wat de verborgen strategie van China is, wat ons te wachten staat en hoe we hierop moeten reageren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Etty Hillesum</name>
+            <name>Rien T. Segers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niet niks]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438795385/niet-niks-hiske-dibbets</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438795385/niet-niks-hiske-dibbets"/>
+        <updated>2026-06-11T11:18:34.931Z</updated>
+        <summary type="html"><![CDATA[Een jaar met de dood op mijn hielen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438795385?aid=kb-online-bibliotheek&sid=21&dts=1781176713878&sig=d1dbf8075ce1f23133290e74d63c32c911add9a93e215c28dc29132598364509&width=320" alt="Omslag van 'Niet niks'" title="Omslag van 'Niet niks'">
+<p>Persoonlijk verslag van de Nederlandse auteur (1966-2023) over het leven na haar kankerdiagnose.</p>]]></content>
+        <author>
+            <name>Hiske Dibbets</name>
         </author>
     </entry>
     <entry>
@@ -149,46 +172,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wantrouwen in de wandelgangen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43959961X/wantrouwen-in-de-wandelgangen-jan-tromp---coen-van-de-ven</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43959961X/wantrouwen-in-de-wandelgangen-jan-tromp---coen-van-de-ven"/>
-        <updated>2026-06-11T11:18:41.693Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43959961X?aid=kb-online-bibliotheek&sid=21&dts=1781176721073&sig=51e765bc49dc1d5a9e5b357fd6f256acd48ac98febd263f2a67644d1868bb92b&width=320" alt="Omslag van 'Wantrouwen in de wandelgangen'" title="Omslag van 'Wantrouwen in de wandelgangen'">
-<p>Sommigen noemden het klef. In de jaren zeventig en tachtig bestond in de Haagse salons van de macht hechte verbondenheid tussen politiek en pers. De omgang was gebaseerd op wederzijds vertrouwen. 'Je wist,' aldus PvdA-politicus Marcel van Dam, 'dat je niet genaaid werd.' De politiek heeft de kruip-door-sluip-door wandelgangen van het Binnenhof verruild voor nieuwe behuizing, een onpersoonlijke bunker met doodlopende sporen. De perfecte verzinnebeelding is het van de verzakelijking, de verharding in de verhoudingen. 'Ik weet dat journalisten kijkcijfers willen,' zegt oud-CDA-leider Sybrand van Haersma Buma. 'Die krijgen ze als ze mij als politicus verneuken.' Politici, hun voorlichters en spindoctors lijden aan controledrift. De parlementaire journalistiek houdt geharnast afstand. Hoe kon de Haagse wereld zo veranderen? Twee politiek redacteuren van twee generaties zoeken naar antwoorden. Openhartig, van binnenuit, met tal van anekdotes. Wantrouwen in de wandelgangen verschijnt onder auspiciën van het internationaal perscentrum Nieuwspoort.             Jan Tromp (1949) was van 1995 tot 2003 adjunct-hoofdredacteur van de Volkskrant. Voordien was hij als chef van de politieke redactie kind aan huis aan het Binnenhof. Hij is de politiek blijven volgen, zij het van een zekere afstand. Coen van de Ven (1992) begon in 2017 bij De Groene Amsterdammer als onderzoeksjournalist. Hij schreef over propaganda, desinformatie en complotdenken. Inmiddels is hij politiek redacteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jan Tromp</name>
-        </author>
-        <author>
-            <name>Coen van de Ven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levenslessen van een rabbijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438267354/levenslessen-van-een-rabbijn-awraham-soetendorp---annemiek-leclaire</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438267354/levenslessen-van-een-rabbijn-awraham-soetendorp---annemiek-leclaire"/>
-        <updated>2026-06-11T11:18:40.320Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438267354?aid=kb-online-bibliotheek&sid=21&dts=1781176719724&sig=e68405e929b29656825c4c09f9da6b337a60f26d19b919f9477f57b00c7cf7b9&width=320" alt="Omslag van 'Levenslessen van een rabbijn'" title="Omslag van 'Levenslessen van een rabbijn'">
-<p>Terugblik van de Nederlandse rabbijn (1943) op zijn leven, met aandacht voor de inzichten die hij opdeed over het belang van hoop en optimisme.</p>]]></content>
-        <author>
-            <name>Awraham Soetendorp</name>
-        </author>
-        <author>
-            <name>Annemiek Leclaire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De nieuwe wereldorde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438001532/de-nieuwe-wereldorde-rob-de-wijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438001532/de-nieuwe-wereldorde-rob-de-wijk"/>
-        <updated>2026-06-11T11:18:39.048Z</updated>
-        <summary type="html"><![CDATA[Hoe China sluipenderwijs de macht overneemt. Uitgebreide en geactualiseerde editie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438001532?aid=kb-online-bibliotheek&sid=21&dts=1781176718476&sig=076ee8c5a185ca3929a92cd08785f86b206617ed584f92f76280506789e8fc5b&width=320" alt="Omslag van 'De nieuwe wereldorde'" title="Omslag van 'De nieuwe wereldorde'">
-<p>Analyse van de veranderingen in de internationale orde: de teloorgang van de Westerse dominantie en de snelle opkomst van China als wereldmacht.</p>]]></content>
-        <author>
-            <name>Rob de Wijk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De achterblijvers]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/440187532/de-achterblijvers-flip-maarschalkerweerd</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/440187532/de-achterblijvers-flip-maarschalkerweerd"/>
@@ -200,15 +183,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Met vallen en opstaan]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438719441/met-vallen-en-opstaan-frank-visser</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438719441/met-vallen-en-opstaan-frank-visser"/>
-        <updated>2026-06-11T11:18:40.991Z</updated>
-        <summary type="html"><![CDATA[Van gewone jongen tot televisierechter]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438719441?aid=kb-online-bibliotheek&sid=21&dts=1781176720404&sig=eee61a2c5464af88eb4a1b0318a8c9f60e2c7e1343bdb5a983ea7aa2456c1ad7&width=320" alt="Omslag van 'Met vallen en opstaan'" title="Omslag van 'Met vallen en opstaan'">
-<p>Frank Visser groeide op in een katholiek gezin met zeven kinderen dat na de dood van zijn vader in geldnood kwam. Alles in zijn jeugd was katholiek en hij hield ervan, was goed 'in godsdienst', al bracht hij al vroeg de leraren in verlegenheid met zijn vragen. In een montere, grappige en ongepolijste stijl neemt Visser zijn lezer mee door zijn leven. Een verhaal van vallen en opstaan, van financiële zorgen, gedwongen verhuizingen, en tegenslag. Verhalen uit een niet-intellectueel milieu, van een moeder die uit nood een café beheert. Maar gaandeweg krijgt Visser kansen, op studie, op een carrière in de rechterlijke macht. Hij slaagt erin om met discipline, doorzettingsvermogen en humor kantonrechter te worden. Om daarna de sprong te wagen naar de televisie. Visser schrijft zijn ervaringen en herinneringen op, en weeft door alles heen zijn kijk op het recht, hoe het werkt of zou moeten werken. Aan zijn vele ontmoetingen met vooral boze mensen probeert hij een positieve wending te geven. Al draagt hij dan een toga, hij voelt met hen mee. Al staan de televisiecamera's op hem gericht, zijn wens is dat de mensen die voor hem staan vooral zichzelf onder ogen zullen zien. Met vallen en opstaan is een ongewoon levensverhaal van een gewone jongen, die zegt: 'Boos zijn helpt niet, wel doen wat je kunt. Slikken als het moet, maar gaan als het kan.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Geld, geloof en goede vrienden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438045092/geld--geloof-en-goede-vrienden-laura-van-hasselt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438045092/geld--geloof-en-goede-vrienden-laura-van-hasselt"/>
+        <updated>2026-06-11T11:18:37.144Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438045092?aid=kb-online-bibliotheek&sid=21&dts=1781176716380&sig=285bca5fb68840017cd4b5b530b9d1e2a7f58efbac4f886deafe23360560bc39&width=320" alt="Omslag van 'Geld, geloof en goede vrienden'" title="Omslag van 'Geld, geloof en goede vrienden'">
+<p>Biografie van de Amsterdamse zakenman en weldoener Christiaan Pieter van Eeghen (1816-1889), die een belangrijke rol speelde in de modernisering van Amsterdam in de negentiende eeuw.</p>]]></content>
         <author>
-            <name>Frank Visser</name>
+            <name>Laura van Hasselt</name>
         </author>
     </entry>
     <entry>
@@ -234,15 +216,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Niet niks]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438795385/niet-niks-hiske-dibbets</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438795385/niet-niks-hiske-dibbets"/>
-        <updated>2026-06-11T11:18:34.931Z</updated>
-        <summary type="html"><![CDATA[Een jaar met de dood op mijn hielen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438795385?aid=kb-online-bibliotheek&sid=21&dts=1781176713878&sig=d1dbf8075ce1f23133290e74d63c32c911add9a93e215c28dc29132598364509&width=320" alt="Omslag van 'Niet niks'" title="Omslag van 'Niet niks'">
-<p>Persoonlijk verslag van de Nederlandse auteur (1966-2023) over het leven na haar kankerdiagnose.</p>]]></content>
+        <title type="html"><![CDATA[De nieuwe wereldorde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438001532/de-nieuwe-wereldorde-rob-de-wijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438001532/de-nieuwe-wereldorde-rob-de-wijk"/>
+        <updated>2026-06-11T11:18:39.048Z</updated>
+        <summary type="html"><![CDATA[Hoe China sluipenderwijs de macht overneemt. Uitgebreide en geactualiseerde editie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438001532?aid=kb-online-bibliotheek&sid=21&dts=1781176718476&sig=076ee8c5a185ca3929a92cd08785f86b206617ed584f92f76280506789e8fc5b&width=320" alt="Omslag van 'De nieuwe wereldorde'" title="Omslag van 'De nieuwe wereldorde'">
+<p>Analyse van de veranderingen in de internationale orde: de teloorgang van de Westerse dominantie en de snelle opkomst van China als wereldmacht.</p>]]></content>
         <author>
-            <name>Hiske Dibbets</name>
+            <name>Rob de Wijk</name>
         </author>
     </entry>
     <entry>
@@ -258,26 +240,43 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geld, geloof en goede vrienden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438045092/geld--geloof-en-goede-vrienden-laura-van-hasselt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438045092/geld--geloof-en-goede-vrienden-laura-van-hasselt"/>
-        <updated>2026-06-11T11:18:37.144Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438045092?aid=kb-online-bibliotheek&sid=21&dts=1781176716380&sig=285bca5fb68840017cd4b5b530b9d1e2a7f58efbac4f886deafe23360560bc39&width=320" alt="Omslag van 'Geld, geloof en goede vrienden'" title="Omslag van 'Geld, geloof en goede vrienden'">
-<p>Biografie van de Amsterdamse zakenman en weldoener Christiaan Pieter van Eeghen (1816-1889), die een belangrijke rol speelde in de modernisering van Amsterdam in de negentiende eeuw.</p>]]></content>
+        <title type="html"><![CDATA[Levenslessen van een rabbijn]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438267354/levenslessen-van-een-rabbijn-awraham-soetendorp---annemiek-leclaire</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438267354/levenslessen-van-een-rabbijn-awraham-soetendorp---annemiek-leclaire"/>
+        <updated>2026-06-11T11:18:40.320Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438267354?aid=kb-online-bibliotheek&sid=21&dts=1781176719724&sig=e68405e929b29656825c4c09f9da6b337a60f26d19b919f9477f57b00c7cf7b9&width=320" alt="Omslag van 'Levenslessen van een rabbijn'" title="Omslag van 'Levenslessen van een rabbijn'">
+<p>Terugblik van de Nederlandse rabbijn (1943) op zijn leven, met aandacht voor de inzichten die hij opdeed over het belang van hoop en optimisme.</p>]]></content>
         <author>
-            <name>Laura van Hasselt</name>
+            <name>Awraham Soetendorp</name>
+        </author>
+        <author>
+            <name>Annemiek Leclaire</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verlicht en vilein]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440187486/verlicht-en-vilein-marleen-de-vries</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440187486/verlicht-en-vilein-marleen-de-vries"/>
-        <updated>2026-06-11T11:18:43.579Z</updated>
-        <summary type="html"><![CDATA[Een biografie van achttiende-eeuws Nederland]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440187486?aid=kb-online-bibliotheek&sid=21&dts=1781176723008&sig=f8825742102645252a69fb8791059ae215a66618fa8acb5a6c54a99220d0dc7d&width=320" alt="Omslag van 'Verlicht en vilein'" title="Omslag van 'Verlicht en vilein'">
-<p>Geschiedenis van Nederland in de achttiende eeuw, besproken aan de hand van de levens van veelal vergeten personen die van invloed waren op de transformatie van het land tijdens de Verlichting, met name op cultureel vlak. Met illustraties en foto’s.</p>]]></content>
+        <title type="html"><![CDATA[Met vallen en opstaan]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438719441/met-vallen-en-opstaan-frank-visser</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438719441/met-vallen-en-opstaan-frank-visser"/>
+        <updated>2026-06-11T11:18:40.991Z</updated>
+        <summary type="html"><![CDATA[Van gewone jongen tot televisierechter]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438719441?aid=kb-online-bibliotheek&sid=21&dts=1781176720404&sig=eee61a2c5464af88eb4a1b0318a8c9f60e2c7e1343bdb5a983ea7aa2456c1ad7&width=320" alt="Omslag van 'Met vallen en opstaan'" title="Omslag van 'Met vallen en opstaan'">
+<p>Frank Visser groeide op in een katholiek gezin met zeven kinderen dat na de dood van zijn vader in geldnood kwam. Alles in zijn jeugd was katholiek en hij hield ervan, was goed 'in godsdienst', al bracht hij al vroeg de leraren in verlegenheid met zijn vragen. In een montere, grappige en ongepolijste stijl neemt Visser zijn lezer mee door zijn leven. Een verhaal van vallen en opstaan, van financiële zorgen, gedwongen verhuizingen, en tegenslag. Verhalen uit een niet-intellectueel milieu, van een moeder die uit nood een café beheert. Maar gaandeweg krijgt Visser kansen, op studie, op een carrière in de rechterlijke macht. Hij slaagt erin om met discipline, doorzettingsvermogen en humor kantonrechter te worden. Om daarna de sprong te wagen naar de televisie. Visser schrijft zijn ervaringen en herinneringen op, en weeft door alles heen zijn kijk op het recht, hoe het werkt of zou moeten werken. Aan zijn vele ontmoetingen met vooral boze mensen probeert hij een positieve wending te geven. Al draagt hij dan een toga, hij voelt met hen mee. Al staan de televisiecamera's op hem gericht, zijn wens is dat de mensen die voor hem staan vooral zichzelf onder ogen zullen zien. Met vallen en opstaan is een ongewoon levensverhaal van een gewone jongen, die zegt: 'Boos zijn helpt niet, wel doen wat je kunt. Slikken als het moet, maar gaan als het kan.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Marleen de Vries</name>
+            <name>Frank Visser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wantrouwen in de wandelgangen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43959961X/wantrouwen-in-de-wandelgangen-jan-tromp---coen-van-de-ven</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43959961X/wantrouwen-in-de-wandelgangen-jan-tromp---coen-van-de-ven"/>
+        <updated>2026-06-11T11:18:41.693Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43959961X?aid=kb-online-bibliotheek&sid=21&dts=1781176721073&sig=51e765bc49dc1d5a9e5b357fd6f256acd48ac98febd263f2a67644d1868bb92b&width=320" alt="Omslag van 'Wantrouwen in de wandelgangen'" title="Omslag van 'Wantrouwen in de wandelgangen'">
+<p>Sommigen noemden het klef. In de jaren zeventig en tachtig bestond in de Haagse salons van de macht hechte verbondenheid tussen politiek en pers. De omgang was gebaseerd op wederzijds vertrouwen. 'Je wist,' aldus PvdA-politicus Marcel van Dam, 'dat je niet genaaid werd.' De politiek heeft de kruip-door-sluip-door wandelgangen van het Binnenhof verruild voor nieuwe behuizing, een onpersoonlijke bunker met doodlopende sporen. De perfecte verzinnebeelding is het van de verzakelijking, de verharding in de verhoudingen. 'Ik weet dat journalisten kijkcijfers willen,' zegt oud-CDA-leider Sybrand van Haersma Buma. 'Die krijgen ze als ze mij als politicus verneuken.' Politici, hun voorlichters en spindoctors lijden aan controledrift. De parlementaire journalistiek houdt geharnast afstand. Hoe kon de Haagse wereld zo veranderen? Twee politiek redacteuren van twee generaties zoeken naar antwoorden. Openhartig, van binnenuit, met tal van anekdotes. Wantrouwen in de wandelgangen verschijnt onder auspiciën van het internationaal perscentrum Nieuwspoort.             Jan Tromp (1949) was van 1995 tot 2003 adjunct-hoofdredacteur van de Volkskrant. Voordien was hij als chef van de politieke redactie kind aan huis aan het Binnenhof. Hij is de politiek blijven volgen, zij het van een zekere afstand. Coen van de Ven (1992) begon in 2017 bij De Groene Amsterdammer als onderzoeksjournalist. Hij schreef over propaganda, desinformatie en complotdenken. Inmiddels is hij politiek redacteur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jan Tromp</name>
+        </author>
+        <author>
+            <name>Coen van de Ven</name>
         </author>
     </entry>
     <entry>
@@ -304,14 +303,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De lange mars van Xi]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439535093/de-lange-mars-van-xi-rien-t--segers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439535093/de-lange-mars-van-xi-rien-t--segers"/>
-        <updated>2026-06-11T11:18:33.798Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439535093?aid=kb-online-bibliotheek&sid=21&dts=1781176712769&sig=dff6b64de464813295af9864a3564cade6f23f159a9c3f4fde776410fe79b816&width=320" alt="Omslag van 'De lange mars van Xi'" title="Omslag van 'De lange mars van Xi'">
-<p>In woord en daad maakt China, onder zijn leider Xi Jinping, de laatste jaren duidelijk dat het de absolute wereldheerschappij nastreeft. Op de weg daarnaartoe duldt de autocratische regering geen tegenspraak, niet in het land zelf en ook niet daarbuiten. Het recente optreden van China richting de Oeigoeren, Hongkong en Taiwan zijn daarvan afschrikwekkende voorbeelden. Wat betekent deze opzienbarende en zorgwekkende ontwikkeling voor de geopolitiek, de internationale handelsstromen en de autonomie van veel landen, inclusief Nederland en België? Rien T. Segers laat zien dat China niet alleen containers naar de rest van de wereld verscheept, maar ook zijn ideologische en ongebreidelde machtsaspiraties. Het Westen kan niet langer verdeeld blijven afwachten, maar dient zo spoedig mogelijk en tactvol om te gaan met China als nieuwe, gevestigde supermacht. Maar hoe? Beknopt en helder analyseert Segers wat de verborgen strategie van China is, wat ons te wachten staat en hoe we hierop moeten reageren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Verlicht en vilein]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440187486/verlicht-en-vilein-marleen-de-vries</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440187486/verlicht-en-vilein-marleen-de-vries"/>
+        <updated>2026-06-11T11:18:43.579Z</updated>
+        <summary type="html"><![CDATA[Een biografie van achttiende-eeuws Nederland]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440187486?aid=kb-online-bibliotheek&sid=21&dts=1781176723008&sig=f8825742102645252a69fb8791059ae215a66618fa8acb5a6c54a99220d0dc7d&width=320" alt="Omslag van 'Verlicht en vilein'" title="Omslag van 'Verlicht en vilein'">
+<p>Geschiedenis van Nederland in de achttiende eeuw, besproken aan de hand van de levens van veelal vergeten personen die van invloed waren op de transformatie van het land tijdens de Verlichting, met name op cultureel vlak. Met illustraties en foto’s.</p>]]></content>
         <author>
-            <name>Rien T. Segers</name>
+            <name>Marleen de Vries</name>
         </author>
     </entry>
     <entry>
