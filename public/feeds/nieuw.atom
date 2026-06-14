@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-06-13T09:52:39.571Z</updated>
+    <updated>2026-06-14T10:20:03.526Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[De Stem van de Eeuwige]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460760386/de-stem-van-de-eeuwige-connilyn-cossette</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460760386/de-stem-van-de-eeuwige-connilyn-cossette"/>
+        <updated>2026-06-14T10:20:03.083Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460760386?aid=kb-online-bibliotheek&sid=21&dts=1781432402883&sig=ad917fc73d0878b77aeb1e3cc9bfaff5281164e5326719ab3cb612306ab89304&width=320" alt="Omslag van 'De Stem van de Eeuwige'" title="Omslag van 'De Stem van de Eeuwige'">
+<p>Serie: De mannen van de koning - deel 1 'Een adembenemend verhaal over twee mensen op weg naar volwassenheid.' Als oudste zoon van een Leviet en een Filistijnse wordt Avidan verscheurd tussen zijn plicht tegenover zijn familie en het verlangen naar meer. Nadat een vijandelijke aanval vlakbij huis plaatsvindt, grijpt hij de kans aan om met zijn neven te vechten voor de pas gekroonde koning Saul. Maar wanneer een van de neven tijdens het gevecht verdwijnt, weigert Avidan hem achter te laten. Keziah is de dochter van een van de machtigste clanhoofden in het gebied van Manasse. Haar vader wil haar dwingen te trouwen met een walgelijke man die tientallen jaren ouder is dan zij. Daardoor heeft ze geen andere keuze dan te vluchten, in de hoop een toevluchtsoord te vinden bij de familie van haar moeder. Voor hun veiligheid om de gevaren om hen heen te overleven, sluiten Avidan en Keziah een pact om samen te reizen. Naarmate de uitdagingen zich opstapelen, moeten ze niet alleen op elkaar vertrouwen om in leven te blijven, maar ook leren vertrouwen op de ware en eeuwige Koning van Israël. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Connilyn Cossette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smartphonevrij opgroeien]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460760327/smartphonevrij-opgroeien-thijs-launspach---ruud-sneep---thekla-reuten---danielle-batist</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460760327/smartphonevrij-opgroeien-thijs-launspach---ruud-sneep---thekla-reuten---danielle-batist"/>
+        <updated>2026-06-14T10:20:03.249Z</updated>
+        <summary type="html"><![CDATA[Een ongestoorde jeugd voor je kind, zo krijg je het voor elkaar]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460760327?aid=kb-online-bibliotheek&sid=21&dts=1781420110686&sig=371b42e86940e7adcaa3eea80516ee14ae037e68eb17974903a23fff46024a35&width=320" alt="Omslag van 'Smartphonevrij opgroeien'" title="Omslag van 'Smartphonevrij opgroeien'">
+<p>Wanneer geef je je kind een eigen smartphone? Het is misschien wel dé opvoedvraag van dit moment. Het boek Smartphonevrij opgroeien biedt ouders concrete handvatten om grip te krijgen op de keuze voor een smartphone. Met nuchtere feiten, herkenbare verhalen, een stappenplan per leeftijdscategorie, haalbare alternatieven, en vooral: praktische adviezen over hoe ouders samen een nieuwe norm kunnen stellen.</p><p>Het boek laat zien wat het uitstellen van de smartphone oplevert: veel meer tijd (wel 6 uur per dag), rust en de ruimte om ongestoord te spelen, vrijheid om een mening te vormen zonder de druk van sociale media en digitale bevestiging van likes en status, meer focus en concentratievermogen, veel meer oefentijd met sociale vaardigheden in de offline wereld en betere slaap. Om maar eens wat te noemen.</p><p>Een nieuwe sociale norm ontstaat alleen wanneer ouders, scholen en gemeenschappen dit gesprek gezamenlijk voeren. Want laten we eerlijk zijn: het is niet makkelijk om tegen de stroom in te roeien als de hele klas een telefoon heeft. Maar juist daarom is het nodig dat we een ander verhaal vertellen. Want: het kán anders. Dit boek laat zien hoe.</p><p>Thijs Launspach schreef het boek samen met de ouderbeweging Smartphonevrij Opgroeien, waarbij al meer dan 50.000 ouders aangesloten zijn. Thijs schreef als psycholoog eerder een kritisch boek (Asociale Media, 2023) over de invloed van social media op de mentale gezondheid. Nu hij zelf net vader is, maakt hij zich zorgen over in welke digitale wereld zijn zoon straks zal moeten opgroeien.</p><p>'Als vaders en techondernemers zien we dit boek als pure noodzaak.' - Alexander Klöpping en Ernst-Jan Pfauth, uitgevers POM.press </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Thijs Launspach</name>
+        </author>
+        <author>
+            <name>Ruud Sneep</name>
+        </author>
+        <author>
+            <name>Thekla Reuten</name>
+        </author>
+        <author>
+            <name>Danielle Batist</name>
+        </author>
+        <author>
+            <name>Merel Uildriks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Een nieuw begin in Thistledown Lane]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460719076/een-nieuw-begin-in-thistledown-lane-holly-hepburn</id>
@@ -16,6 +51,18 @@
 <p>Maura heeft het allemaal: een karakteristiek huisje in Edinburgh, een bloeiende carrière als pottenbakker en een fijne relatie met haar jeugdliefde Jamie. Dat het huisje vochtig is, haar potten nauwelijks verkopen en Jamie liever een avond in de pub doorbrengt met zijn rugbyvrienden dan gezellig thuis bij haar, neemt ze voor lief.</p><p>Wanneer ze op een feest Fraser Bell tegenkomt, brengt dit niet alleen herinneringen boven van Maura’s schooltijd, het levert haar ook werk op. Want als Fraser vraagt of ze keramieken spookjes wil maken voor zijn spooktourbedrijfje, zegt ze natuurlijk geen nee.</p><p>In het begin verloopt alles soepel, maar al snel zorgt de samenwerking voor problemen die effect hebben op Maura’s hele leven. De spookjes gaan viraal, waardoor ze meer bestellingen krijgt dan ze aankan, en Jamie is allesbehalve blij dat ze al haar tijd in haar atelier doorbrengt. Maar pas wanneer Edinburgh Castle interesse toont in Maura’s werk, beginnen de dingen echt uit de hand te lopen…</p><p>Kan Maura werkelijk alles hebben, of krijgt ze spijt dat ze naar meer verlangde? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Holly Hepburn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoe AI ons menselijker maakt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460760262/hoe-ai-ons-menselijker-maakt-minke-tromp</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460760262/hoe-ai-ons-menselijker-maakt-minke-tromp"/>
+        <updated>2026-06-14T10:20:03.525Z</updated>
+        <summary type="html"><![CDATA[11 morele vragen voor helderheid, kracht en betekenis]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460760262?aid=kb-online-bibliotheek&sid=21&dts=1781432403334&sig=6d3ba1ca5d69b3fc119318cfb13116bf29c76f3d696b28ffd9a01a82bf49b9de&width=320" alt="Omslag van 'Hoe AI ons menselijker maakt'" title="Omslag van 'Hoe AI ons menselijker maakt'">
+<p>AI verandert alles Onze banen, onze privacy, de wereldpolitiek, de toekomst van onze kinderen: alles staat onder invloed van razendsnelle technologische ontwikkelingen. Maar wie stuurt dit eigenlijk? Het voelt vaak ongrijpbaar en anoniem. We lezen de koppen, zitten in vergaderingen, proberen bij te blijven. Ondertussen worden er beslissingen genomen. Door anderen. Zonder ons. Over ons. Dit boek geeft je meer invloed. Niet door pasklare antwoorden, die verouderen immers snel, maar door het stellen van de juiste vragen. Hoe AI ons menselijker maakt bundelt elf morele vragen die het gesprek over AI verdiepen en richting geven. Ze helpen je te herkennen waar het écht om draait: in nieuwsberichten, beleidsdiscussies, boardrooms en persoonlijke gesprekken. Ze brengen orde in de complexiteit, maken zichtbaar welke waarden op het spel staan en geven je de kracht om positie te kiezen. Want juist door mee te doen aan het gesprek wordt AI een democratisch vraagstuk, in plaats van iets dat buiten ons om gebeurt. Je hoeft geen politicus, CEO, filosoof of AI-expert te zijn. Integendeel: dit boek nodigt iedereen uit om mee te denken. Minke Tromp is filosoof, corporate antropoloog en spreker. Al meer dan twintig jaar maakt zij complexe vraagstukken toegankelijk voor organisaties in uiteenlopende sectoren. Haar kracht ligt in het vertalen van diepgaande filosofische inzichten naar heldere, toepasbare taal. Wie aandachtig leest, herkent klassieke wijsheid; wie snel leest, vindt direct houvast. Dit boek is ontstaan uit haar keynotes over AI en moreel leiderschap en pleit voor een herwaardering van het Griekse ideaal: samen nadenken als fundament voor gemeenschap en democratie. Juist bij een onderwerp dat zo snel verandert als AI, blijken de juiste vragen tijdloos en waardevoller dan welk antwoord ook. 'Minke Tromp dwingt ons na te denken over wat menselijk moet blijven. Ze nodigt de lezer uit tot dat essentiële gesprek en ze formuleert precies de vragen die dat gesprek ordenen, verdiepen en toegankelijk maken. Eindelijk een boek dat gaat over de morele vragen die we met z'n allen zouden moeten stellen, en die Minke Tromp helder en moedig op tafel legt'. - Elke Wiss, auteur van Socrates op Sneakers 'Wat een leuk boek! Veel filosofen vinden AI maar niks en wijzen het als vanzelfsprekend af. Terwijl techno-optimisten de filosofen maar zeurkousen vinden. Maar Minke Tromp zit er heel mooi tussenin. Ze stelt belangrijke vragen over AI zonder te oordelen en met een open vizier. De vragen zijn groot, over wat AI voor ons als mens betekent, maar blijven wel prettig concreet. Een mooie combinatie van zwaar en lichtvoetig en van blijvend en actueel.' - prof. dr. Bas Haring, Universiteit Leiden </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Minke Tromp</name>
         </author>
     </entry>
     <entry>
@@ -323,43 +370,6 @@
 <p>Tsjippy helpt heit mei opromjen. As er in fergrutglês fynt en dêrtrochhinne yn syn amer mei kikkertsfiskjes sjocht, giet der in wrâld foar him iepen: hiel lytse bistjes blike wûnderlike acts te dwaan. Tsjippy tinkt dat er toverje kin. Dan fynt heit fynt in âlde sirkuskoffer en dat ynspirearret Tsjippy: hy wol in écht fliesirkus meitsje. Mar as er ta de ûntdekking komt dat de natuer him net stjoere lit, wurdt er lilk en jout er it op. Mei help fan heit leart er dat je gjin dieren hoege te behearskjen om wat moais te meitsjen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Verena Koppel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Communication Theory]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460748270/communication-theory-d%C3%A9sir%C3%A9e-van-osch---ren%C3%A9e-van-zijl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460748270/communication-theory-d%C3%A9sir%C3%A9e-van-osch---ren%C3%A9e-van-zijl"/>
-        <updated>2026-06-12T10:57:02.565Z</updated>
-        <summary type="html"><![CDATA[An introduction for communication practitioners]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460748270?aid=kb-online-bibliotheek&sid=21&dts=1781261821972&sig=002bbc9205633d0e51f3f41a869a0ab35aa093d1550f1f7fe150bdc3e1f0878f&width=320" alt="Omslag van 'Communication Theory'" title="Omslag van 'Communication Theory'">
-<p>Communication is a widely used concept. Just notice how often it is used. It is also a broad concept and can be interpreted differently depending on the perspective. Many students develop professional communication skills as part of their studies. The 'how' of the communication profession provides so many possibilities that educational programs quickly become filled with a wide range of applied sciences.  However, what exactly does communication mean as a theoretical construct? To explore this topic, we must enter the field of communication theory, which is often underrepresented in communication educational programs and textbooks. Nevertheless, knowledge of communication theory forms the basis for making well-informed choices in the work of a communication practitioner. Especially at the boardroom level, a communication practitioner should be able to reason why one approach is more effective than another.  In their book 'Communication Theory,' Désirée van Osch and Renée van Zijl explain communication theory in an accessible and clear manner. They outline the basic concepts of communication, followed by an explanation of the concept of information. After all, without information, there is no communication. The authors provide an overview of common communication systems, including intrapersonal and interpersonal communication, group and mass communication, and communication through social media. They describe concepts, models, and processes of communication. The authors conclude the book with basic approaches for applying communication: the distinction between content and relationships, information processing, communication for behaviour change, and nonviolent communication.  Students in applied sciences, such as communication, multimedia, and journalism, are the target audience for this book. This book can also benefit communication practitioners who aim to enhance their understanding of communication and its underlying theories.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Désirée van Osch</name>
-        </author>
-        <author>
-            <name>Renée van Zijl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onbedaarlijke jachtlust 3]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460748297/onbedaarlijke-jachtlust-3-rosalie-van-someren</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460748297/onbedaarlijke-jachtlust-3-rosalie-van-someren"/>
-        <updated>2026-06-12T10:57:03.245Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460748297?aid=kb-online-bibliotheek&sid=21&dts=1781260521883&sig=3ebd3cf69c0d95b146350d4325c2c42645f70ebfcf074088179c827542e32464&width=320" alt="Omslag van 'Onbedaarlijke jachtlust 3'" title="Omslag van 'Onbedaarlijke jachtlust 3'">
-<p>18+ Onbedaarlijke jachtlust, deel 3 Een zinderend avontuur vol erotiek en intrige. Vicky Vanderpoele - winnares van het erotische spel Vossenjacht - is inmiddels gesetteld in Villa Vulpes. Ze mag daar met haar geliefden Joachim en Melanie gratis verblijven, mits ze dagelijks schoonmaakklusjes doet. Als Vicky de kans krijgt om Vossenkoningin te worden, grijpt ze die gretig aan, maar gaandeweg vermoedt ze dat er zaken niet kloppen. De Vossen-eed verbiedt haar om er met anderen over te praten. Wordt misschien haar integriteit getest...? Voor Rosalie van Someren zijn de mensen om haar heen een onuitputtelijke bron van inspiratie voor haar ondeugende verhalen. Het liefst laat de vrolijke huisvrouw de hele wereld blozen. In haar dagdromen bedenkt ze talloze plots die ze uitwerkt tot een verhaal. Ze laat haar fantasieën de vrije loop en stelt al haar zintuigen open. Dat ze daarbij uit haar eigen ervaringen put, zal ze niet ontkennen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Rosalie van Someren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een gelopen race]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460721860/een-gelopen-race-elsie-silver</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460721860/een-gelopen-race-elsie-silver"/>
-        <updated>2026-06-11T11:18:44.264Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460721860?aid=kb-online-bibliotheek&sid=21&dts=1781176723679&sig=c80517e01731db1a176bed9e9240f626c5338f7008a0074af5b001da1bac75ae&width=320" alt="Omslag van 'Een gelopen race'" title="Omslag van 'Een gelopen race'">
-<p>Toen Griffin het zusje van zijn beste vriend zoende, stond zijn wereld stil. Die avond waren ze twee volslagen vreemden: de chagrijnige kluizenaar van het dorp en een prachtig meisje in de toiletruimte van een bar. Totdat ze dat niet meer waren. Want Nadia Dalca is niet zomaar een meisje. Ze is het meisje dat hij niet kan krijgen. Veertien jaar jonger dan hij en totaal verboden terrein. Zijn plan is om bij haar weg te blijven, maar het universum blijft hen naar elkaar toe duwen. Het is alsof het een soort kosmische grap is, om hem te laten proeven van iets wat zo opwindend is, zo echt, iets wat hem weer tot leven heeft gewekt. Want hij mag wel kijken, maar niet aanraken. Haar prachtige rondingen, haar tinkelende lach, haar wilde kant... Griffin is verslaafd aan elk deel van haar. En als ze die zwoele ogen op hem richt – die ogen vol verlangen en zonder oordeel? Hij heeft zichzelf altijd als een sterke man gezien. Maar als zíj naar hem kijkt, is hij zwak. Toegeven aan dit gevoel zou verraad zijn. Zijn leven is meer dan ingewikkeld en zij heeft de wereld aan haar voeten. Haar broer is de enige familie die ze nog heeft, en hoe triest het ook klinkt, hij is ook Griffins enige vriend. Maar hij zoent haar toch weer. En dan kan hij niet meer stoppen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elsie Silver</name>
         </author>
     </entry>
 </feed>
