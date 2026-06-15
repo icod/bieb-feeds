@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-06-14T10:20:03.526Z</updated>
+    <updated>2026-06-15T12:59:42.421Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -140,17 +140,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kijken in de ziel van Japan]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/432982191/kijken-in-de-ziel-van-japan-freek-vossenaar</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/432982191/kijken-in-de-ziel-van-japan-freek-vossenaar"/>
-        <updated>2026-06-11T11:18:29.861Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432982191?aid=kb-online-bibliotheek&sid=21&dts=1781176709343&sig=07663551e5f102fecf62332d3a027955dabc566311b32a7c47ffa88b1866a930&width=320" alt="Omslag van 'Kijken in de ziel van Japan'" title="Omslag van 'Kijken in de ziel van Japan'">
-<p>'Een nieuw Japans tijdperk' is aangebroken, verklaarde de Japanse premier Shinzo Abe tijdens de slotceremonie van de Olympische Spelen in Rio de Janeiro. En om te onderstrepen dat de tijden in zijn land serieus waren veranderd, had hij zich verkleed als Super Mario, de wereldbekende Nintendo-figuur. Door de pandemie wijzigden de plannen. Nu gaan de Spelen wel door, maar zonder buitenlands publiek dat het nieuwe Japan kan bewonderen. Hoe groot is de teleurstelling? En is er werkelijk een zelfbewust en trots Japan opgestaan dat de buitenwereld omarmt? Japankenner Freek Vossenaar ging op onderzoek uit. Van de vrouwelijke sushichefs en de manga helden tot de sumoworstelaars en de huwelijksmakelaars tot de campagne om de Olympische Spelen binnen te halen: hij zag veel obstakels en onzekerheid om de toekomst zorgeloos te kunnen omarmen. De gevierde harmonie en de bewonderde tradities, ooit bindende krachten, zetten nu een rem op de ontwikkelingen. Moeizame relaties met de buurlanden, vergrijzing, de omgang met rampen als in Fukushima, de ondergeschikte positie van de vrouw, uitdijende steden in een land dat krimpt - in zijn fascinerende verhaal laat Vossenaar zien dat het Japanse verleden zich niet snel laat verjagen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Freek Vossenaar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['Je mag wel bang zijn, maar niet laf']]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/432074481/-je-mag-wel-bang-zijn--maar-niet-laf--toni-boumans</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/432074481/-je-mag-wel-bang-zijn--maar-niet-laf--toni-boumans"/>
@@ -160,6 +149,17 @@
 <p>Eind negentiende eeuw besluit Popke Bakker, zoon van de kastelein van herberg De Drie Zwaantjes in Langweer, met zijn vrouw Dieuwke en hun negen kinderen - het zouden er vijftien worden - een garen- en-bandwinkel te beginnen in Buitenpost. De zaak P.S. Bakker wordt al gauw een begrip en groeit in de jaren die volgen uit tot een bekend modehuis in het noorden, met filialen in Leeuwarden en Groningen. De streng gereformeerde Bakkers zijn ook bestuurlijk en politiek actief. Van de kleinkinderen van Popke en Dieuwke zijn er enkelen homoseksueel, een geaardheid die ze vanuit hun gereformeerde achtergrond proberen niet te tonen. Couturier Sjoerd, zijn broers Albert, Popke en Dirk, en hun neef, uitgever Bert Bakker, spelen een prominente rol in het artistieke milieu van de late jaren dertig in Amsterdam. Na de inval van de Duitsers komen zij in verzet. Uiteindelijk zal Sjoerd, die de politie-uniformen maakte voor de aanslag op het Amsterdamse bevolkingsregister in 1943, met zijn verzetskameraden worden geëxecuteerd. Ook andere Bakkers wacht een dramatisch lot. Het is voor het eerst dat hun nazaten zich lieten interviewen over hun voorouders. Toni Boumans kreeg ook toegang tot veel persoonlijke documenten en schreef een onvergetelijk verhaal van een uitzonderlijke familie met een bewonderenswaardig moreel kompas. Toni Boumans (1944) werkte jarenlang bij de VARA als radio- en tv-journaliste, onder meer voor Zembla. Samen met twee andere auteurs schreef ze Herinneringen aan Srebrenica. Daarnaast maakte ze bekroonde documentaires over kunstenaar en verzetsman Willem Arondéus en over dirigente Frieda Belinfante, van wie ze ook de biografie Een schitterend vergeten leven schreef die uitgroeide tot een bestseller </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Toni Boumans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kijken in de ziel van Japan]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/432982191/kijken-in-de-ziel-van-japan-freek-vossenaar</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/432982191/kijken-in-de-ziel-van-japan-freek-vossenaar"/>
+        <updated>2026-06-11T11:18:29.861Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432982191?aid=kb-online-bibliotheek&sid=21&dts=1781176709343&sig=07663551e5f102fecf62332d3a027955dabc566311b32a7c47ffa88b1866a930&width=320" alt="Omslag van 'Kijken in de ziel van Japan'" title="Omslag van 'Kijken in de ziel van Japan'">
+<p>'Een nieuw Japans tijdperk' is aangebroken, verklaarde de Japanse premier Shinzo Abe tijdens de slotceremonie van de Olympische Spelen in Rio de Janeiro. En om te onderstrepen dat de tijden in zijn land serieus waren veranderd, had hij zich verkleed als Super Mario, de wereldbekende Nintendo-figuur. Door de pandemie wijzigden de plannen. Nu gaan de Spelen wel door, maar zonder buitenlands publiek dat het nieuwe Japan kan bewonderen. Hoe groot is de teleurstelling? En is er werkelijk een zelfbewust en trots Japan opgestaan dat de buitenwereld omarmt? Japankenner Freek Vossenaar ging op onderzoek uit. Van de vrouwelijke sushichefs en de manga helden tot de sumoworstelaars en de huwelijksmakelaars tot de campagne om de Olympische Spelen binnen te halen: hij zag veel obstakels en onzekerheid om de toekomst zorgeloos te kunnen omarmen. De gevierde harmonie en de bewonderde tradities, ooit bindende krachten, zetten nu een rem op de ontwikkelingen. Moeizame relaties met de buurlanden, vergrijzing, de omgang met rampen als in Fukushima, de ondergeschikte positie van de vrouw, uitdijende steden in een land dat krimpt - in zijn fascinerende verhaal laat Vossenaar zien dat het Japanse verleden zich niet snel laat verjagen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Freek Vossenaar</name>
         </author>
     </entry>
     <entry>
@@ -208,70 +208,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lichter leven met een chronische ziekte]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43947616X/lichter-leven-met-een-chronische-ziekte-lenneke-vente</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43947616X/lichter-leven-met-een-chronische-ziekte-lenneke-vente"/>
-        <updated>2026-06-11T11:18:35.692Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43947616X?aid=kb-online-bibliotheek&sid=21&dts=1781176715013&sig=02c7536787b6d3ac664dacf27c80384d05b71915e4ded5f7747f7d49c654a53d&width=320" alt="Omslag van 'Lichter leven met een chronische ziekte'" title="Omslag van 'Lichter leven met een chronische ziekte'">
-<p>Adviezen voor het leren omgaan met een chronische ziekte, mede gebaseerd op de eigen ervaringen van de auteur.</p>]]></content>
+        <title type="html"><![CDATA[Met vallen en opstaan]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438719441/met-vallen-en-opstaan-frank-visser</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438719441/met-vallen-en-opstaan-frank-visser"/>
+        <updated>2026-06-11T11:18:40.991Z</updated>
+        <summary type="html"><![CDATA[Van gewone jongen tot televisierechter]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438719441?aid=kb-online-bibliotheek&sid=21&dts=1781176720404&sig=eee61a2c5464af88eb4a1b0318a8c9f60e2c7e1343bdb5a983ea7aa2456c1ad7&width=320" alt="Omslag van 'Met vallen en opstaan'" title="Omslag van 'Met vallen en opstaan'">
+<p>Frank Visser groeide op in een katholiek gezin met zeven kinderen dat na de dood van zijn vader in geldnood kwam. Alles in zijn jeugd was katholiek en hij hield ervan, was goed 'in godsdienst', al bracht hij al vroeg de leraren in verlegenheid met zijn vragen. In een montere, grappige en ongepolijste stijl neemt Visser zijn lezer mee door zijn leven. Een verhaal van vallen en opstaan, van financiële zorgen, gedwongen verhuizingen, en tegenslag. Verhalen uit een niet-intellectueel milieu, van een moeder die uit nood een café beheert. Maar gaandeweg krijgt Visser kansen, op studie, op een carrière in de rechterlijke macht. Hij slaagt erin om met discipline, doorzettingsvermogen en humor kantonrechter te worden. Om daarna de sprong te wagen naar de televisie. Visser schrijft zijn ervaringen en herinneringen op, en weeft door alles heen zijn kijk op het recht, hoe het werkt of zou moeten werken. Aan zijn vele ontmoetingen met vooral boze mensen probeert hij een positieve wending te geven. Al draagt hij dan een toga, hij voelt met hen mee. Al staan de televisiecamera's op hem gericht, zijn wens is dat de mensen die voor hem staan vooral zichzelf onder ogen zullen zien. Met vallen en opstaan is een ongewoon levensverhaal van een gewone jongen, die zegt: 'Boos zijn helpt niet, wel doen wat je kunt. Slikken als het moet, maar gaan als het kan.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lenneke Vente</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De achterblijvers]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440187532/de-achterblijvers-flip-maarschalkerweerd</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440187532/de-achterblijvers-flip-maarschalkerweerd"/>
-        <updated>2026-06-11T11:18:36.273Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440187532?aid=kb-online-bibliotheek&sid=21&dts=1781176715768&sig=1df5e47852ebb081f5e7be9e38befeb353fdf4b4aba5eecd3870e12781fee7ec&width=320" alt="Omslag van 'De achterblijvers'" title="Omslag van 'De achterblijvers'">
-<p>Historisch verslag van het lot van de hofhouding in de oorlogsjaren 1940-1945, toen de koninklijke familie in Engeland vertoefde. Met foto’s en illustraties.</p>]]></content>
-        <author>
-            <name>Flip Maarschalkerweerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geld, geloof en goede vrienden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438045092/geld--geloof-en-goede-vrienden-laura-van-hasselt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438045092/geld--geloof-en-goede-vrienden-laura-van-hasselt"/>
-        <updated>2026-06-11T11:18:37.144Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438045092?aid=kb-online-bibliotheek&sid=21&dts=1781176716380&sig=285bca5fb68840017cd4b5b530b9d1e2a7f58efbac4f886deafe23360560bc39&width=320" alt="Omslag van 'Geld, geloof en goede vrienden'" title="Omslag van 'Geld, geloof en goede vrienden'">
-<p>Biografie van de Amsterdamse zakenman en weldoener Christiaan Pieter van Eeghen (1816-1889), die een belangrijke rol speelde in de modernisering van Amsterdam in de negentiende eeuw.</p>]]></content>
-        <author>
-            <name>Laura van Hasselt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macht en onmacht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440192951/macht-en-onmacht-gert-jan-segers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440192951/macht-en-onmacht-gert-jan-segers"/>
-        <updated>2026-06-11T11:18:37.778Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440192951?aid=kb-online-bibliotheek&sid=21&dts=1781176717264&sig=c7b4957453610b66dba3d2da0b1a04e8e991f4c0dc9b84ac6e10277af63fed77&width=320" alt="Omslag van 'Macht en onmacht'" title="Omslag van 'Macht en onmacht'">
-<p>Terugblik van de voormalig fractievoorzitter van de ChristenUnie Gert-Jan Segers (1969) op zijn politieke carrière.</p>]]></content>
-        <author>
-            <name>Gert-Jan Segers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De verliezers]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439535158/de-verliezers-marijke-verduijn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439535158/de-verliezers-marijke-verduijn"/>
-        <updated>2026-06-11T11:18:38.397Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439535158?aid=kb-online-bibliotheek&sid=21&dts=1781176717851&sig=e49a5383cc347a513b5cb1fbde92442fc8883194282081cb4345f34a7add08b3&width=320" alt="Omslag van 'De verliezers'" title="Omslag van 'De verliezers'">
-<p>Na een snelle ontruiming door de Duitsers werd Kamp Vught in oktober 1944 een interneringskamp voor mensen die 'fout' waren geweest. Er zaten NSB'ers, collaborateurs, kampbewakers en geharde Nederlandse SS'ers, maar in de naoorlogse chaos ook kinderen en onschuldigen. Vier jaar lang had de bevolking machteloos moeten aanzien hoe landgenoten met de bezetter samenwerkten. Ze hadden mensen zien afvoeren. Geliefden verloren. Er waren zelfs geruchten over vernietigingskampen. Aanvankelijk liepen de emoties buiten én binnen Kamp Vught dan ook hoog op. De internering van landverraders was bedoeld om hen te straffen, te beschermen tegen de volkswoede en te 'bewaren' tot hun zaak voorkwam. Maar wie waren dat eigenlijk: die landverraders? Hoe was het om in Kamp Vught vast te zitten of te werken? En bood het kamp wel bescherming? Marijke Verduijn deed jarenlang onderzoek naar het eerste en grootste naoorlogse interneringskamp onder Nederlands gezag. Ze raadpleegde archieven en kranten, las dagboeken en brieven uit het kamp en sprak met geïnterneerden, bewakers en hun kinderen. Dat levert een uniek beeld op van het dagelijks leven in het kamp en de reactie daarop in de samenleving. De verliezers beschrijft een veel te weinig bekende bladzijde uit onze geschiedenis. Een onthullend verhaal over willekeur, eigenrichting en allengs toenemende aandacht voor heropvoeding en terugkeer in de samenleving. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marijke Verduijn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De nieuwe wereldorde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438001532/de-nieuwe-wereldorde-rob-de-wijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438001532/de-nieuwe-wereldorde-rob-de-wijk"/>
-        <updated>2026-06-11T11:18:39.048Z</updated>
-        <summary type="html"><![CDATA[Hoe China sluipenderwijs de macht overneemt. Uitgebreide en geactualiseerde editie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438001532?aid=kb-online-bibliotheek&sid=21&dts=1781176718476&sig=076ee8c5a185ca3929a92cd08785f86b206617ed584f92f76280506789e8fc5b&width=320" alt="Omslag van 'De nieuwe wereldorde'" title="Omslag van 'De nieuwe wereldorde'">
-<p>Analyse van de veranderingen in de internationale orde: de teloorgang van de Westerse dominantie en de snelle opkomst van China als wereldmacht.</p>]]></content>
-        <author>
-            <name>Rob de Wijk</name>
+            <name>Frank Visser</name>
         </author>
     </entry>
     <entry>
@@ -284,32 +229,6 @@
 <p>Als landen rijker worden, worden ze ook democratischer - tenminste, daar ging de westerse wereld lange tijd vanuit. China houdt zich niet aan dit dogma: het land wordt wel welvarender, maar ook steeds autoritairder. Sterker, als president Xi Jinping volgend jaar begint aan zijn ongekende derde termijn, is hij praktisch alleenheerser over een land dat individuele vrijheden steeds verder inperkt, op grote schaal mensen opsluit en geen kritische stemmen meer toestaat. Intussen presenteert China, de ultieme controlestaat, zich trots aan de wereld als een alternatief staatsmodel. Hoe is het zover gekomen? En kan Xi dit volhouden? Welke gevolgen heeft de rigoureuze aanpak van de coronacrisis voor de populariteit van de Communistische Partij? Hoe houd je welvaart vast als mensen geen stap buiten de gebaande paden durven te zetten? Hoelang kan China nog fangbian blijven voor de Chinezen zelf: comfortabel, gemakkelijk? Eva Rammeloo woont en werkt al jaren in China. In het fascinerende Alles onder controle beschrijft ze de groeiende almacht van Xi en zijn partij, maar in de kieren van de dictatuur ziet ze ook verzet. Onder de oppervlakte van het Chinese succesverhaal gist en borrelt het. Zo spreekt Rammeloo een Tibetaanse monnik, die een manier vond om zijn cultuur te behouden. Een varkensboer die zijn eigen, zelfvoorzienende dorp oprichtte. Ouders die zich er niet bij neerleggen dat hun dochter is weggegeven. Studenten in Hongkong die tot het uiterste gaan voor hun vrijheid. Alles onder controle is een uiterst boeiend ooggetuigenverslag uit de haarvaten van een nog altijd onbekende wereldmacht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Eva Rammeloo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levenslessen van een rabbijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438267354/levenslessen-van-een-rabbijn-awraham-soetendorp---annemiek-leclaire</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438267354/levenslessen-van-een-rabbijn-awraham-soetendorp---annemiek-leclaire"/>
-        <updated>2026-06-11T11:18:40.320Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438267354?aid=kb-online-bibliotheek&sid=21&dts=1781176719724&sig=e68405e929b29656825c4c09f9da6b337a60f26d19b919f9477f57b00c7cf7b9&width=320" alt="Omslag van 'Levenslessen van een rabbijn'" title="Omslag van 'Levenslessen van een rabbijn'">
-<p>Terugblik van de Nederlandse rabbijn (1943) op zijn leven, met aandacht voor de inzichten die hij opdeed over het belang van hoop en optimisme.</p>]]></content>
-        <author>
-            <name>Awraham Soetendorp</name>
-        </author>
-        <author>
-            <name>Annemiek Leclaire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Met vallen en opstaan]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438719441/met-vallen-en-opstaan-frank-visser</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438719441/met-vallen-en-opstaan-frank-visser"/>
-        <updated>2026-06-11T11:18:40.991Z</updated>
-        <summary type="html"><![CDATA[Van gewone jongen tot televisierechter]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438719441?aid=kb-online-bibliotheek&sid=21&dts=1781176720404&sig=eee61a2c5464af88eb4a1b0318a8c9f60e2c7e1343bdb5a983ea7aa2456c1ad7&width=320" alt="Omslag van 'Met vallen en opstaan'" title="Omslag van 'Met vallen en opstaan'">
-<p>Frank Visser groeide op in een katholiek gezin met zeven kinderen dat na de dood van zijn vader in geldnood kwam. Alles in zijn jeugd was katholiek en hij hield ervan, was goed 'in godsdienst', al bracht hij al vroeg de leraren in verlegenheid met zijn vragen. In een montere, grappige en ongepolijste stijl neemt Visser zijn lezer mee door zijn leven. Een verhaal van vallen en opstaan, van financiële zorgen, gedwongen verhuizingen, en tegenslag. Verhalen uit een niet-intellectueel milieu, van een moeder die uit nood een café beheert. Maar gaandeweg krijgt Visser kansen, op studie, op een carrière in de rechterlijke macht. Hij slaagt erin om met discipline, doorzettingsvermogen en humor kantonrechter te worden. Om daarna de sprong te wagen naar de televisie. Visser schrijft zijn ervaringen en herinneringen op, en weeft door alles heen zijn kijk op het recht, hoe het werkt of zou moeten werken. Aan zijn vele ontmoetingen met vooral boze mensen probeert hij een positieve wending te geven. Al draagt hij dan een toga, hij voelt met hen mee. Al staan de televisiecamera's op hem gericht, zijn wens is dat de mensen die voor hem staan vooral zichzelf onder ogen zullen zien. Met vallen en opstaan is een ongewoon levensverhaal van een gewone jongen, die zegt: 'Boos zijn helpt niet, wel doen wat je kunt. Slikken als het moet, maar gaan als het kan.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Frank Visser</name>
         </author>
     </entry>
     <entry>
@@ -327,26 +246,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hoog spel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438813022/hoog-spel-marcel-metze</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438813022/hoog-spel-marcel-metze"/>
-        <updated>2026-06-11T11:18:42.318Z</updated>
-        <summary type="html"><![CDATA[De politieke biografie van Shell]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438813022?aid=kb-online-bibliotheek&sid=21&dts=1781176721771&sig=2810731f8daa30c20e3b8bb2d2876d2207c00009a8da99ac964a6851b1f26fe7&width=320" alt="Omslag van 'Hoog spel'" title="Omslag van 'Hoog spel'">
-<p>Beschrijving van de manier waarop Shell zich gedurende de afgelopen 130 jaar door het politieke landschap heeft bewogen.</p>]]></content>
+        <title type="html"><![CDATA[Geld, geloof en goede vrienden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438045092/geld--geloof-en-goede-vrienden-laura-van-hasselt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438045092/geld--geloof-en-goede-vrienden-laura-van-hasselt"/>
+        <updated>2026-06-11T11:18:37.144Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438045092?aid=kb-online-bibliotheek&sid=21&dts=1781176716380&sig=285bca5fb68840017cd4b5b530b9d1e2a7f58efbac4f886deafe23360560bc39&width=320" alt="Omslag van 'Geld, geloof en goede vrienden'" title="Omslag van 'Geld, geloof en goede vrienden'">
+<p>Biografie van de Amsterdamse zakenman en weldoener Christiaan Pieter van Eeghen (1816-1889), die een belangrijke rol speelde in de modernisering van Amsterdam in de negentiende eeuw.</p>]]></content>
         <author>
-            <name>Marcel Metze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Focus]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44031920X/focus-marc-hijink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44031920X/focus-marc-hijink"/>
-        <updated>2026-06-11T11:18:42.927Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44031920X?aid=kb-online-bibliotheek&sid=21&dts=1781176722398&sig=3e580ae8ecc9c16e62bbb57c1d7c28e94cff1c44ccbe207c84198034fb7b1119&width=320" alt="Omslag van 'Focus'" title="Omslag van 'Focus'">
-<p>Journalistieke bespreking van chipmachinefabrikant ASML, dat door geopolitieke verschuivingen in het middelpunt van een technologieoorlog is beland. Met foto’s en illustraties.</p>]]></content>
-        <author>
-            <name>Marc Hijink</name>
+            <name>Laura van Hasselt</name>
         </author>
     </entry>
     <entry>
@@ -359,6 +266,99 @@
 <p>Geschiedenis van Nederland in de achttiende eeuw, besproken aan de hand van de levens van veelal vergeten personen die van invloed waren op de transformatie van het land tijdens de Verlichting, met name op cultureel vlak. Met illustraties en foto’s.</p>]]></content>
         <author>
             <name>Marleen de Vries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macht en onmacht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440192951/macht-en-onmacht-gert-jan-segers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440192951/macht-en-onmacht-gert-jan-segers"/>
+        <updated>2026-06-11T11:18:37.778Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440192951?aid=kb-online-bibliotheek&sid=21&dts=1781176717264&sig=c7b4957453610b66dba3d2da0b1a04e8e991f4c0dc9b84ac6e10277af63fed77&width=320" alt="Omslag van 'Macht en onmacht'" title="Omslag van 'Macht en onmacht'">
+<p>Terugblik van de voormalig fractievoorzitter van de ChristenUnie Gert-Jan Segers (1969) op zijn politieke carrière.</p>]]></content>
+        <author>
+            <name>Gert-Jan Segers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Levenslessen van een rabbijn]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438267354/levenslessen-van-een-rabbijn-awraham-soetendorp---annemiek-leclaire</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438267354/levenslessen-van-een-rabbijn-awraham-soetendorp---annemiek-leclaire"/>
+        <updated>2026-06-11T11:18:40.320Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438267354?aid=kb-online-bibliotheek&sid=21&dts=1781176719724&sig=e68405e929b29656825c4c09f9da6b337a60f26d19b919f9477f57b00c7cf7b9&width=320" alt="Omslag van 'Levenslessen van een rabbijn'" title="Omslag van 'Levenslessen van een rabbijn'">
+<p>Terugblik van de Nederlandse rabbijn (1943) op zijn leven, met aandacht voor de inzichten die hij opdeed over het belang van hoop en optimisme.</p>]]></content>
+        <author>
+            <name>Awraham Soetendorp</name>
+        </author>
+        <author>
+            <name>Annemiek Leclaire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De nieuwe wereldorde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438001532/de-nieuwe-wereldorde-rob-de-wijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438001532/de-nieuwe-wereldorde-rob-de-wijk"/>
+        <updated>2026-06-11T11:18:39.048Z</updated>
+        <summary type="html"><![CDATA[Hoe China sluipenderwijs de macht overneemt. Uitgebreide en geactualiseerde editie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438001532?aid=kb-online-bibliotheek&sid=21&dts=1781176718476&sig=076ee8c5a185ca3929a92cd08785f86b206617ed584f92f76280506789e8fc5b&width=320" alt="Omslag van 'De nieuwe wereldorde'" title="Omslag van 'De nieuwe wereldorde'">
+<p>Analyse van de veranderingen in de internationale orde: de teloorgang van de Westerse dominantie en de snelle opkomst van China als wereldmacht.</p>]]></content>
+        <author>
+            <name>Rob de Wijk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De achterblijvers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440187532/de-achterblijvers-flip-maarschalkerweerd</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440187532/de-achterblijvers-flip-maarschalkerweerd"/>
+        <updated>2026-06-11T11:18:36.273Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440187532?aid=kb-online-bibliotheek&sid=21&dts=1781176715768&sig=1df5e47852ebb081f5e7be9e38befeb353fdf4b4aba5eecd3870e12781fee7ec&width=320" alt="Omslag van 'De achterblijvers'" title="Omslag van 'De achterblijvers'">
+<p>Historisch verslag van het lot van de hofhouding in de oorlogsjaren 1940-1945, toen de koninklijke familie in Engeland vertoefde. Met foto’s en illustraties.</p>]]></content>
+        <author>
+            <name>Flip Maarschalkerweerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoog spel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438813022/hoog-spel-marcel-metze</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438813022/hoog-spel-marcel-metze"/>
+        <updated>2026-06-11T11:18:42.318Z</updated>
+        <summary type="html"><![CDATA[De politieke biografie van Shell]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438813022?aid=kb-online-bibliotheek&sid=21&dts=1781176721771&sig=2810731f8daa30c20e3b8bb2d2876d2207c00009a8da99ac964a6851b1f26fe7&width=320" alt="Omslag van 'Hoog spel'" title="Omslag van 'Hoog spel'">
+<p>Beschrijving van de manier waarop Shell zich gedurende de afgelopen 130 jaar door het politieke landschap heeft bewogen.</p>]]></content>
+        <author>
+            <name>Marcel Metze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De verliezers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439535158/de-verliezers-marijke-verduijn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439535158/de-verliezers-marijke-verduijn"/>
+        <updated>2026-06-11T11:18:38.397Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439535158?aid=kb-online-bibliotheek&sid=21&dts=1781176717851&sig=e49a5383cc347a513b5cb1fbde92442fc8883194282081cb4345f34a7add08b3&width=320" alt="Omslag van 'De verliezers'" title="Omslag van 'De verliezers'">
+<p>Na een snelle ontruiming door de Duitsers werd Kamp Vught in oktober 1944 een interneringskamp voor mensen die 'fout' waren geweest. Er zaten NSB'ers, collaborateurs, kampbewakers en geharde Nederlandse SS'ers, maar in de naoorlogse chaos ook kinderen en onschuldigen. Vier jaar lang had de bevolking machteloos moeten aanzien hoe landgenoten met de bezetter samenwerkten. Ze hadden mensen zien afvoeren. Geliefden verloren. Er waren zelfs geruchten over vernietigingskampen. Aanvankelijk liepen de emoties buiten én binnen Kamp Vught dan ook hoog op. De internering van landverraders was bedoeld om hen te straffen, te beschermen tegen de volkswoede en te 'bewaren' tot hun zaak voorkwam. Maar wie waren dat eigenlijk: die landverraders? Hoe was het om in Kamp Vught vast te zitten of te werken? En bood het kamp wel bescherming? Marijke Verduijn deed jarenlang onderzoek naar het eerste en grootste naoorlogse interneringskamp onder Nederlands gezag. Ze raadpleegde archieven en kranten, las dagboeken en brieven uit het kamp en sprak met geïnterneerden, bewakers en hun kinderen. Dat levert een uniek beeld op van het dagelijks leven in het kamp en de reactie daarop in de samenleving. De verliezers beschrijft een veel te weinig bekende bladzijde uit onze geschiedenis. Een onthullend verhaal over willekeur, eigenrichting en allengs toenemende aandacht voor heropvoeding en terugkeer in de samenleving. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marijke Verduijn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lichter leven met een chronische ziekte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43947616X/lichter-leven-met-een-chronische-ziekte-lenneke-vente</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43947616X/lichter-leven-met-een-chronische-ziekte-lenneke-vente"/>
+        <updated>2026-06-11T11:18:35.692Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43947616X?aid=kb-online-bibliotheek&sid=21&dts=1781176715013&sig=02c7536787b6d3ac664dacf27c80384d05b71915e4ded5f7747f7d49c654a53d&width=320" alt="Omslag van 'Lichter leven met een chronische ziekte'" title="Omslag van 'Lichter leven met een chronische ziekte'">
+<p>Adviezen voor het leren omgaan met een chronische ziekte, mede gebaseerd op de eigen ervaringen van de auteur.</p>]]></content>
+        <author>
+            <name>Lenneke Vente</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Focus]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44031920X/focus-marc-hijink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44031920X/focus-marc-hijink"/>
+        <updated>2026-06-11T11:18:42.927Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44031920X?aid=kb-online-bibliotheek&sid=21&dts=1781176722398&sig=3e580ae8ecc9c16e62bbb57c1d7c28e94cff1c44ccbe207c84198034fb7b1119&width=320" alt="Omslag van 'Focus'" title="Omslag van 'Focus'">
+<p>Journalistieke bespreking van chipmachinefabrikant ASML, dat door geopolitieke verschuivingen in het middelpunt van een technologieoorlog is beland. Met foto’s en illustraties.</p>]]></content>
+        <author>
+            <name>Marc Hijink</name>
         </author>
     </entry>
     <entry>
