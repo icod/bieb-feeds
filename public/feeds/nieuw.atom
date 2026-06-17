@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-06-16T12:06:03.448Z</updated>
+    <updated>2026-06-17T11:41:10.202Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
-    <entry>
-        <title type="html"><![CDATA[De Noordzee]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/392458233/de-noordzee-martijn-j--adelmund</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/392458233/de-noordzee-martijn-j--adelmund"/>
-        <updated>2026-06-16T12:05:45.168Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392458233?aid=kb-online-bibliotheek&sid=21&dts=1781610101121&sig=6aae311c4d16f04aeba0f5aeac40870eb9ee338ba8d256a976e00c062d02699c&width=320" alt="Omslag van 'De Noordzee'" title="Omslag van 'De Noordzee'">
-<p>Legenden, waargebeurde moordverhalen en onverklaarbare gebeurtenissen rond de Noordzee en langs de Nederlandse kust.</p>]]></content>
-        <author>
-            <name>Martijn J. Adelmund</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Rotterdam]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/392458330/rotterdam-martijn-j--adelmund</id>
@@ -25,6 +14,17 @@
         <updated>2026-06-16T12:05:45.897Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392458330?aid=kb-online-bibliotheek&sid=21&dts=1781611545273&sig=3dd71e36e27ef58643d0c0031ac36d9061f95dff15f94e1b49f5df7ba6741e19&width=320" alt="Omslag van 'Rotterdam'" title="Omslag van 'Rotterdam'">
 <p>Legenden, waargebeurde moordverhalen en onverklaarbare gebeurtenissen uit Rotterdam.</p>]]></content>
+        <author>
+            <name>Martijn J. Adelmund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Noordzee]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/392458233/de-noordzee-martijn-j--adelmund</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/392458233/de-noordzee-martijn-j--adelmund"/>
+        <updated>2026-06-16T12:05:45.168Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392458233?aid=kb-online-bibliotheek&sid=21&dts=1781610101121&sig=6aae311c4d16f04aeba0f5aeac40870eb9ee338ba8d256a976e00c062d02699c&width=320" alt="Omslag van 'De Noordzee'" title="Omslag van 'De Noordzee'">
+<p>Legenden, waargebeurde moordverhalen en onverklaarbare gebeurtenissen rond de Noordzee en langs de Nederlandse kust.</p>]]></content>
         <author>
             <name>Martijn J. Adelmund</name>
         </author>
@@ -41,6 +41,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De Veluwe]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/392458748/de-veluwe-martijn-j--adelmund</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/392458748/de-veluwe-martijn-j--adelmund"/>
+        <updated>2026-06-16T12:05:47.858Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392458748?aid=kb-online-bibliotheek&sid=21&dts=1781611547290&sig=0394913a25f1613f6c603cc244daa224264e0da2e4f550db95d994d834779cfe&width=320" alt="Omslag van 'De Veluwe'" title="Omslag van 'De Veluwe'">
+<p>Legenden, waargebeurde moordverhalen en onverklaarbare gebeurtenissen op de Veluwe.</p>]]></content>
+        <author>
+            <name>Martijn J. Adelmund</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Den Haag]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/392458322/den-haag-martijn-j--adelmund</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/392458322/den-haag-martijn-j--adelmund"/>
@@ -52,14 +63,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Veluwe]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/392458748/de-veluwe-martijn-j--adelmund</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/392458748/de-veluwe-martijn-j--adelmund"/>
-        <updated>2026-06-16T12:05:47.858Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392458748?aid=kb-online-bibliotheek&sid=21&dts=1781611547290&sig=0394913a25f1613f6c603cc244daa224264e0da2e4f550db95d994d834779cfe&width=320" alt="Omslag van 'De Veluwe'" title="Omslag van 'De Veluwe'">
-<p>Legenden, waargebeurde moordverhalen en onverklaarbare gebeurtenissen op de Veluwe.</p>]]></content>
+        <title type="html"><![CDATA[Handboek communities]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394649168/handboek-communities-erwin-blom</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394649168/handboek-communities-erwin-blom"/>
+        <updated>2026-06-16T12:05:49.659Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394649168?aid=kb-online-bibliotheek&sid=21&dts=1781611549159&sig=e895f3d2c9e2c612a815700744aae3337c98c60dea5b6ced879c8f935cc16e57&width=320" alt="Omslag van 'Handboek communities'" title="Omslag van 'Handboek communities'">
+<p>Praktische gids voor het opzetten en onderhouden van internetcommunities.</p>]]></content>
         <author>
-            <name>Martijn J. Adelmund</name>
+            <name>Erwin Blom</name>
         </author>
     </entry>
     <entry>
@@ -88,17 +99,6 @@
         </author>
         <author>
             <name>Thijs van der Veen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handboek communities]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394649168/handboek-communities-erwin-blom</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394649168/handboek-communities-erwin-blom"/>
-        <updated>2026-06-16T12:05:49.659Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394649168?aid=kb-online-bibliotheek&sid=21&dts=1781611549159&sig=e895f3d2c9e2c612a815700744aae3337c98c60dea5b6ced879c8f935cc16e57&width=320" alt="Omslag van 'Handboek communities'" title="Omslag van 'Handboek communities'">
-<p>Praktische gids voor het opzetten en onderhouden van internetcommunities.</p>]]></content>
-        <author>
-            <name>Erwin Blom</name>
         </author>
     </entry>
     <entry>
@@ -159,60 +159,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Appelleren]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393805859/appelleren-nico-dijkshoorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393805859/appelleren-nico-dijkshoorn"/>
-        <updated>2026-06-16T12:05:53.387Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805859?aid=kb-online-bibliotheek&sid=21&dts=1781611552796&sig=4f39789d0cf2895a34f1630a2a72145930ee89bd4f8b30b4e8107b0f3a656fdb&width=320" alt="Omslag van 'Appelleren'" title="Omslag van 'Appelleren'">
-<p>Honderd columns die schrijver, dichter en muzikant Nico Dijkshoorn schreef tussen april 2009 en december 2011 over het Nederlandse voetbal.</p>]]></content>
-        <author>
-            <name>Nico Dijkshoorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jan Mulder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39471444X/jan-mulder-guido-derksen---hugo-borst---fran%C3%A7ois-colin---raf-willems</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39471444X/jan-mulder-guido-derksen---hugo-borst---fran%C3%A7ois-colin---raf-willems"/>
-        <updated>2026-06-16T12:05:54.083Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39471444X?aid=kb-online-bibliotheek&sid=21&dts=1781611553470&sig=09f7f516c7e5e5e25daf5ab8dfe91eb5fb570d0b179b14baa104a755ecf8ef3e&width=320" alt="Omslag van 'Jan Mulder'" title="Omslag van 'Jan Mulder'">
-<p>Biografie over oud-voetballer, schrijver en televisiepersoonlijkheid.</p>]]></content>
-        <author>
-            <name>Guido Derksen</name>
-        </author>
-        <author>
-            <name>Hugo Borst</name>
-        </author>
-        <author>
-            <name>François Colin</name>
-        </author>
-        <author>
-            <name>Raf Willems</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kappen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393805824/kappen-hugo-borst</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393805824/kappen-hugo-borst"/>
-        <updated>2026-06-16T12:05:54.701Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805824?aid=kb-online-bibliotheek&sid=21&dts=1781611554165&sig=4186ebb667e06584f0b7be3ebdd8877bf941e096c33ad0f6e84342becc8353f6&width=320" alt="Omslag van 'Kappen'" title="Omslag van 'Kappen'">
-<p>Columns over voetbal.</p>]]></content>
-        <author>
-            <name>Hugo Borst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koekie en ik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/392637871/koekie-en-ik-frans-lomans</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/392637871/koekie-en-ik-frans-lomans"/>
-        <updated>2026-06-16T12:05:55.260Z</updated>
-        <summary type="html"><![CDATA[hoe een pleegkind mijn leven veranderde]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392637871?aid=kb-online-bibliotheek&sid=21&dts=1781609947522&sig=3543b46f5f2077ebcde6613d7be0819ab46e2e6b3c3666e59899c49cf6e016cb&width=320" alt="Omslag van 'Koekie en ik'" title="Omslag van 'Koekie en ik'">
-<p>HOE EEN PLEEGKIND MIJN LEVEN VERANDERDE</p><p> In de zomer van 2009 kwam Koekie, een Surinaamse jongen die net acht geworden was, terecht in Amsterdam Oud-Zuid bij Céline van Gennep en Frans Lomans. Koekie had al een bewogen leven achter de rug: dit was niet zijn eerste pleeggezin. Lomans, die 54 was toen Koekie in zijn leven kwam en die daarvoor geen enkele ervaring met kinderen en opvoeden had, schreef wekelijks een blog over Koekie op de site van J/M voor Ouders. Over hoe langzaam duidelijk werd wat Koekie allemaal meegemaakt had, over hoe Koekie veranderde en over hoe Koekies komst ook zijn bestaan en dat van zijn vrouw volstrekt op z'n kop zette. Het leven werd een achtbaan: van de hemel naar de hel en terug. Koekie & ik is een soms tragisch, maar vaak ook komisch verslag van de eerste jaren van Koekie bij zijn nieuwe gezin. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Frans Lomans</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Voetbalhelden sterven niet]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/393805905/voetbalhelden-sterven-niet-ruud-doevendans---bart-frouws---malin-jonson---ren%C3%A9-otterloo--</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/393805905/voetbalhelden-sterven-niet-ruud-doevendans---bart-frouws---malin-jonson---ren%C3%A9-otterloo--"/>
@@ -236,107 +182,69 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In het geel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393805980/in-het-geel-louis-bovee</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393805980/in-het-geel-louis-bovee"/>
-        <updated>2026-06-16T12:05:56.547Z</updated>
-        <summary type="html"><![CDATA[alle Nederlandse leiders in de tour]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805980?aid=kb-online-bibliotheek&sid=21&dts=1781611555960&sig=79c0852c92cb23bf9f5e99306622c3c8e6ecd1d75f187f708bc5b63630ce3e66&width=320" alt="Omslag van 'In het geel'" title="Omslag van 'In het geel'">
-<p>Interviews met de Nederlandse wielrenners die ooit in het geel mochten rijden.</p>]]></content>
-        <author>
-            <name>Louis Bovee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geen gezeik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393806685/geen-gezeik-wim-de-bock</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393806685/geen-gezeik-wim-de-bock"/>
-        <updated>2026-06-16T12:05:57.227Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393806685?aid=kb-online-bibliotheek&sid=21&dts=1781611556633&sig=5957e88fdaeedd052f8a12929509fcaa0eadc779192ed98800e99208b39eb49b&width=320" alt="Omslag van 'Geen gezeik'" title="Omslag van 'Geen gezeik'">
-<p>Niet zo lang geleden was Jan Boskamp nog vooral een `Belgisch fenomeen. Want de ex-Feyenoorder bouwde zijn loopbaan als speler en als trainer toch voornamelijk bij onze zuiderburen uit. Maar Nederland heeft Boskamp gelukkig opnieuw ontdekt nu hij met pensioen is, als tafelgast in het voetbalpraatprogramma Voetbal International. Daar deelt hij klappen uit aan Gijp en is hij verder helemaal zichzelf. Van woede-uitbarsting tot schaterlach: Boskamp is altijd Boskamp, het hart op de tong, een mix van Rotterdamse branie en Brusselse bravoure. Een man met een olifantenhuid, maar ook met een klein hartje, getekend door het drama in zijn leven. In dit boek neemt Boskamp geen blad voor de mond. Wat je leest, is zijn leven, van Rotterdams schoffie tot wereldburger. In de eerste plaats is Boskamp altijd zijn heerlijke zelf, puur en ongekunsteld, en verder geen gezeik. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Wim de Bock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kort erop]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393806669/kort-erop-nico-dijkshoorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393806669/kort-erop-nico-dijkshoorn"/>
-        <updated>2026-06-16T12:05:58.007Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393806669?aid=kb-online-bibliotheek&sid=21&dts=1781611557310&sig=fc33e3ebf451dbb57ae029b06b1a561e6db454e189d14473a39f4851ab9e124e&width=320" alt="Omslag van 'Kort erop'" title="Omslag van 'Kort erop'">
-<p>Columns over voetbal.</p>]]></content>
+        <title type="html"><![CDATA[Appelleren]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/393805859/appelleren-nico-dijkshoorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/393805859/appelleren-nico-dijkshoorn"/>
+        <updated>2026-06-16T12:05:53.387Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805859?aid=kb-online-bibliotheek&sid=21&dts=1781611552796&sig=4f39789d0cf2895a34f1630a2a72145930ee89bd4f8b30b4e8107b0f3a656fdb&width=320" alt="Omslag van 'Appelleren'" title="Omslag van 'Appelleren'">
+<p>Honderd columns die schrijver, dichter en muzikant Nico Dijkshoorn schreef tussen april 2009 en december 2011 over het Nederlandse voetbal.</p>]]></content>
         <author>
             <name>Nico Dijkshoorn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kick en Rush]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393805948/kick-en-rush-tom-van-hulsen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393805948/kick-en-rush-tom-van-hulsen"/>
-        <updated>2026-06-16T12:05:58.631Z</updated>
-        <summary type="html"><![CDATA[verhalen over Engels voetbal]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805948?aid=kb-online-bibliotheek&sid=21&dts=1781611558093&sig=73a6fff3cfa99c8886e9749908bee650decb4d3e7f14b766f202a6715637f5ee&width=320" alt="Omslag van 'Kick en Rush'" title="Omslag van 'Kick en Rush'">
-<p>Columns en korte verhalen over de Engelse voetbalwereld.</p>]]></content>
+        <title type="html"><![CDATA[Kappen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/393805824/kappen-hugo-borst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/393805824/kappen-hugo-borst"/>
+        <updated>2026-06-16T12:05:54.701Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805824?aid=kb-online-bibliotheek&sid=21&dts=1781611554165&sig=4186ebb667e06584f0b7be3ebdd8877bf941e096c33ad0f6e84342becc8353f6&width=320" alt="Omslag van 'Kappen'" title="Omslag van 'Kappen'">
+<p>Columns over voetbal.</p>]]></content>
         <author>
-            <name>Tom van Hulsen</name>
+            <name>Hugo Borst</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John van Zweden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393806707/john-van-zweden-dennis-mulkens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393806707/john-van-zweden-dennis-mulkens"/>
-        <updated>2026-06-16T12:05:59.229Z</updated>
-        <summary type="html"><![CDATA[behangkoning in de Premier League]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393806707?aid=kb-online-bibliotheek&sid=21&dts=1781611558721&sig=6ab1dc21ed41ba3bf55d8e5e30f89bb9a0ac9bff3771bcccfb1dfd99cb4194b5&width=320" alt="Omslag van 'John van Zweden'" title="Omslag van 'John van Zweden'">
-<p>Biografie van de Haagse zakenman, tevens voetbalfanaat, fan van ADO en bestuurslid van het Britse Swansea City.</p>]]></content>
+        <title type="html"><![CDATA[Jan Mulder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39471444X/jan-mulder-guido-derksen---hugo-borst---fran%C3%A7ois-colin---raf-willems</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39471444X/jan-mulder-guido-derksen---hugo-borst---fran%C3%A7ois-colin---raf-willems"/>
+        <updated>2026-06-16T12:05:54.083Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39471444X?aid=kb-online-bibliotheek&sid=21&dts=1781611553470&sig=09f7f516c7e5e5e25daf5ab8dfe91eb5fb570d0b179b14baa104a755ecf8ef3e&width=320" alt="Omslag van 'Jan Mulder'" title="Omslag van 'Jan Mulder'">
+<p>Biografie over oud-voetballer, schrijver en televisiepersoonlijkheid.</p>]]></content>
         <author>
-            <name>Dennis Mulkens</name>
+            <name>Guido Derksen</name>
+        </author>
+        <author>
+            <name>Hugo Borst</name>
+        </author>
+        <author>
+            <name>François Colin</name>
+        </author>
+        <author>
+            <name>Raf Willems</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kies je doelgroep]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/392637367/kies-je-doelgroep-erno-hannink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/392637367/kies-je-doelgroep-erno-hannink"/>
-        <updated>2026-06-16T12:05:59.835Z</updated>
-        <summary type="html"><![CDATA[meer succes voor ZZP'ers door te focussen op een niche]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392637367?aid=kb-online-bibliotheek&sid=21&dts=1781611559313&sig=3bd49fd4c0b2eeed12d6f1c3b1af22a2017cfe6e828fc0a2fe2b6de80eff366f&width=320" alt="Omslag van 'Kies je doelgroep'" title="Omslag van 'Kies je doelgroep'">
-<p>Praktische adviezen aan zzp'ers om zich op een bepaalde groep potentiële afnemers te richten.</p>]]></content>
+        <title type="html"><![CDATA[Koekie en ik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/392637871/koekie-en-ik-frans-lomans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/392637871/koekie-en-ik-frans-lomans"/>
+        <updated>2026-06-16T12:05:55.260Z</updated>
+        <summary type="html"><![CDATA[hoe een pleegkind mijn leven veranderde]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392637871?aid=kb-online-bibliotheek&sid=21&dts=1781609947522&sig=3543b46f5f2077ebcde6613d7be0819ab46e2e6b3c3666e59899c49cf6e016cb&width=320" alt="Omslag van 'Koekie en ik'" title="Omslag van 'Koekie en ik'">
+<p>HOE EEN PLEEGKIND MIJN LEVEN VERANDERDE</p><p> In de zomer van 2009 kwam Koekie, een Surinaamse jongen die net acht geworden was, terecht in Amsterdam Oud-Zuid bij Céline van Gennep en Frans Lomans. Koekie had al een bewogen leven achter de rug: dit was niet zijn eerste pleeggezin. Lomans, die 54 was toen Koekie in zijn leven kwam en die daarvoor geen enkele ervaring met kinderen en opvoeden had, schreef wekelijks een blog over Koekie op de site van J/M voor Ouders. Over hoe langzaam duidelijk werd wat Koekie allemaal meegemaakt had, over hoe Koekie veranderde en over hoe Koekies komst ook zijn bestaan en dat van zijn vrouw volstrekt op z'n kop zette. Het leven werd een achtbaan: van de hemel naar de hel en terug. Koekie & ik is een soms tragisch, maar vaak ook komisch verslag van de eerste jaren van Koekie bij zijn nieuwe gezin. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Erno Hannink</name>
+            <name>Frans Lomans</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het pak van Louis van Gaal]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39380593X/het-pak-van-louis-van-gaal-michel-van-egmond</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39380593X/het-pak-van-louis-van-gaal-michel-van-egmond"/>
-        <updated>2026-06-16T12:06:00.459Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39380593X?aid=kb-online-bibliotheek&sid=21&dts=1781610254193&sig=db65a8dd3b7a55efbeb67c618379817ae5ce048b5ab23f0b0ab82160c94c8855&width=320" alt="Omslag van 'Het pak van Louis van Gaal'" title="Omslag van 'Het pak van Louis van Gaal'">
-<p>Columns over diverse onderwerpen rond het betaald voetbal.</p>]]></content>
+        <title type="html"><![CDATA[Durf te doen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/392637243/durf-te-doen-petra-de-boevere</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/392637243/durf-te-doen-petra-de-boevere"/>
+        <updated>2026-06-16T12:06:03.447Z</updated>
+        <summary type="html"><![CDATA[via social media naar de netwerksamenleving]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392637243?aid=kb-online-bibliotheek&sid=21&dts=1781611562884&sig=8890624bd73b25bed53d76edf7791625c587087efd17a42c471311b3d2d323de&width=320" alt="Omslag van 'Durf te doen'" title="Omslag van 'Durf te doen'">
+<p>Adviezen aan ondernemers over de toepassing van sociale media, mede aan de hand van de eigen ervaringen van de schrijfster.</p>]]></content>
         <author>
-            <name>Michel van Egmond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het kan niet waar zijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393806715/het-kan-niet-waar-zijn-tim-dekkers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393806715/het-kan-niet-waar-zijn-tim-dekkers"/>
-        <updated>2026-06-16T12:06:01.074Z</updated>
-        <summary type="html"><![CDATA[voetballegende Kristen Nygaard]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393806715?aid=kb-online-bibliotheek&sid=21&dts=1781611560544&sig=12e2461180810d70706b04c10f6384139908055a0d05c5dbcf1f47257a7f55f9&width=320" alt="Omslag van 'Het kan niet waar zijn'" title="Omslag van 'Het kan niet waar zijn'">
-<p>Biografie van de Deense voetballer, die van 1973 tot 1982 met veel succes speelde voor AZ'67.</p>]]></content>
-        <author>
-            <name>Tim Dekkers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houwaart de Mos Boskamp]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393805972/houwaart-de-mos-boskamp-wim-de-bock</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393805972/houwaart-de-mos-boskamp-wim-de-bock"/>
-        <updated>2026-06-16T12:06:01.923Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805972?aid=kb-online-bibliotheek&sid=21&dts=1781611561163&sig=3b2db6e5e4701ea59d3f0fb25ab9defd1327bc0391ccdb18cdb49e71f0514132&width=320" alt="Omslag van 'Houwaart de Mos Boskamp'" title="Omslag van 'Houwaart de Mos Boskamp'">
-<p>Drie Nederlandse oud-profvoetballers geven hun visie over tal van Belgische voetbalzaken.</p>]]></content>
-        <author>
-            <name>Wim de Bock</name>
+            <name>Petra de Boevere</name>
         </author>
     </entry>
     <entry>
@@ -348,6 +256,17 @@
 <p>Tijdens een romantisch uitje op een zeilboot in de Middellandse Zee, komen Jasmijn en Lodewijk in een plotselinge dichte mistbank terecht. Door een botsing stoot Jasmijn haar hoofd tegen de reling van de boot en valt flauw... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Suzanne Vermeer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geen gezeik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/393806685/geen-gezeik-wim-de-bock</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/393806685/geen-gezeik-wim-de-bock"/>
+        <updated>2026-06-16T12:05:57.227Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393806685?aid=kb-online-bibliotheek&sid=21&dts=1781611556633&sig=5957e88fdaeedd052f8a12929509fcaa0eadc779192ed98800e99208b39eb49b&width=320" alt="Omslag van 'Geen gezeik'" title="Omslag van 'Geen gezeik'">
+<p>Niet zo lang geleden was Jan Boskamp nog vooral een `Belgisch fenomeen. Want de ex-Feyenoorder bouwde zijn loopbaan als speler en als trainer toch voornamelijk bij onze zuiderburen uit. Maar Nederland heeft Boskamp gelukkig opnieuw ontdekt nu hij met pensioen is, als tafelgast in het voetbalpraatprogramma Voetbal International. Daar deelt hij klappen uit aan Gijp en is hij verder helemaal zichzelf. Van woede-uitbarsting tot schaterlach: Boskamp is altijd Boskamp, het hart op de tong, een mix van Rotterdamse branie en Brusselse bravoure. Een man met een olifantenhuid, maar ook met een klein hartje, getekend door het drama in zijn leven. In dit boek neemt Boskamp geen blad voor de mond. Wat je leest, is zijn leven, van Rotterdams schoffie tot wereldburger. In de eerste plaats is Boskamp altijd zijn heerlijke zelf, puur en ongekunsteld, en verder geen gezeik. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Wim de Bock</name>
         </author>
     </entry>
     <entry>
@@ -363,15 +282,96 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Durf te doen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/392637243/durf-te-doen-petra-de-boevere</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/392637243/durf-te-doen-petra-de-boevere"/>
-        <updated>2026-06-16T12:06:03.447Z</updated>
-        <summary type="html"><![CDATA[via social media naar de netwerksamenleving]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392637243?aid=kb-online-bibliotheek&sid=21&dts=1781611562884&sig=8890624bd73b25bed53d76edf7791625c587087efd17a42c471311b3d2d323de&width=320" alt="Omslag van 'Durf te doen'" title="Omslag van 'Durf te doen'">
-<p>Adviezen aan ondernemers over de toepassing van sociale media, mede aan de hand van de eigen ervaringen van de schrijfster.</p>]]></content>
+        <title type="html"><![CDATA[Het pak van Louis van Gaal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39380593X/het-pak-van-louis-van-gaal-michel-van-egmond</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39380593X/het-pak-van-louis-van-gaal-michel-van-egmond"/>
+        <updated>2026-06-16T12:06:00.459Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39380593X?aid=kb-online-bibliotheek&sid=21&dts=1781610254193&sig=db65a8dd3b7a55efbeb67c618379817ae5ce048b5ab23f0b0ab82160c94c8855&width=320" alt="Omslag van 'Het pak van Louis van Gaal'" title="Omslag van 'Het pak van Louis van Gaal'">
+<p>Columns over diverse onderwerpen rond het betaald voetbal.</p>]]></content>
         <author>
-            <name>Petra de Boevere</name>
+            <name>Michel van Egmond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kort erop]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/393806669/kort-erop-nico-dijkshoorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/393806669/kort-erop-nico-dijkshoorn"/>
+        <updated>2026-06-16T12:05:58.007Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393806669?aid=kb-online-bibliotheek&sid=21&dts=1781611557310&sig=fc33e3ebf451dbb57ae029b06b1a561e6db454e189d14473a39f4851ab9e124e&width=320" alt="Omslag van 'Kort erop'" title="Omslag van 'Kort erop'">
+<p>Columns over voetbal.</p>]]></content>
+        <author>
+            <name>Nico Dijkshoorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John van Zweden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/393806707/john-van-zweden-dennis-mulkens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/393806707/john-van-zweden-dennis-mulkens"/>
+        <updated>2026-06-16T12:05:59.229Z</updated>
+        <summary type="html"><![CDATA[behangkoning in de Premier League]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393806707?aid=kb-online-bibliotheek&sid=21&dts=1781611558721&sig=6ab1dc21ed41ba3bf55d8e5e30f89bb9a0ac9bff3771bcccfb1dfd99cb4194b5&width=320" alt="Omslag van 'John van Zweden'" title="Omslag van 'John van Zweden'">
+<p>Biografie van de Haagse zakenman, tevens voetbalfanaat, fan van ADO en bestuurslid van het Britse Swansea City.</p>]]></content>
+        <author>
+            <name>Dennis Mulkens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het kan niet waar zijn]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/393806715/het-kan-niet-waar-zijn-tim-dekkers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/393806715/het-kan-niet-waar-zijn-tim-dekkers"/>
+        <updated>2026-06-16T12:06:01.074Z</updated>
+        <summary type="html"><![CDATA[voetballegende Kristen Nygaard]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393806715?aid=kb-online-bibliotheek&sid=21&dts=1781611560544&sig=12e2461180810d70706b04c10f6384139908055a0d05c5dbcf1f47257a7f55f9&width=320" alt="Omslag van 'Het kan niet waar zijn'" title="Omslag van 'Het kan niet waar zijn'">
+<p>Biografie van de Deense voetballer, die van 1973 tot 1982 met veel succes speelde voor AZ'67.</p>]]></content>
+        <author>
+            <name>Tim Dekkers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kick en Rush]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/393805948/kick-en-rush-tom-van-hulsen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/393805948/kick-en-rush-tom-van-hulsen"/>
+        <updated>2026-06-16T12:05:58.631Z</updated>
+        <summary type="html"><![CDATA[verhalen over Engels voetbal]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805948?aid=kb-online-bibliotheek&sid=21&dts=1781611558093&sig=73a6fff3cfa99c8886e9749908bee650decb4d3e7f14b766f202a6715637f5ee&width=320" alt="Omslag van 'Kick en Rush'" title="Omslag van 'Kick en Rush'">
+<p>Columns en korte verhalen over de Engelse voetbalwereld.</p>]]></content>
+        <author>
+            <name>Tom van Hulsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houwaart de Mos Boskamp]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/393805972/houwaart-de-mos-boskamp-wim-de-bock</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/393805972/houwaart-de-mos-boskamp-wim-de-bock"/>
+        <updated>2026-06-16T12:06:01.923Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805972?aid=kb-online-bibliotheek&sid=21&dts=1781611561163&sig=3b2db6e5e4701ea59d3f0fb25ab9defd1327bc0391ccdb18cdb49e71f0514132&width=320" alt="Omslag van 'Houwaart de Mos Boskamp'" title="Omslag van 'Houwaart de Mos Boskamp'">
+<p>Drie Nederlandse oud-profvoetballers geven hun visie over tal van Belgische voetbalzaken.</p>]]></content>
+        <author>
+            <name>Wim de Bock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In het geel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/393805980/in-het-geel-louis-bovee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/393805980/in-het-geel-louis-bovee"/>
+        <updated>2026-06-16T12:05:56.547Z</updated>
+        <summary type="html"><![CDATA[alle Nederlandse leiders in de tour]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393805980?aid=kb-online-bibliotheek&sid=21&dts=1781611555960&sig=79c0852c92cb23bf9f5e99306622c3c8e6ecd1d75f187f708bc5b63630ce3e66&width=320" alt="Omslag van 'In het geel'" title="Omslag van 'In het geel'">
+<p>Interviews met de Nederlandse wielrenners die ooit in het geel mochten rijden.</p>]]></content>
+        <author>
+            <name>Louis Bovee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kies je doelgroep]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/392637367/kies-je-doelgroep-erno-hannink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/392637367/kies-je-doelgroep-erno-hannink"/>
+        <updated>2026-06-16T12:05:59.835Z</updated>
+        <summary type="html"><![CDATA[meer succes voor ZZP'ers door te focussen op een niche]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A392637367?aid=kb-online-bibliotheek&sid=21&dts=1781611559313&sig=3bd49fd4c0b2eeed12d6f1c3b1af22a2017cfe6e828fc0a2fe2b6de80eff366f&width=320" alt="Omslag van 'Kies je doelgroep'" title="Omslag van 'Kies je doelgroep'">
+<p>Praktische adviezen aan zzp'ers om zich op een bepaalde groep potentiële afnemers te richten.</p>]]></content>
+        <author>
+            <name>Erno Hannink</name>
         </author>
     </entry>
 </feed>
