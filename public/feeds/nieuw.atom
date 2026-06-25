@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-06-24T10:15:44.003Z</updated>
+    <updated>2026-06-25T10:11:46.460Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -19,17 +19,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dragon Heart]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812270/dragon-heart-adrian-stone</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812270/dragon-heart-adrian-stone"/>
-        <updated>2026-06-22T12:44:03.770Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812270?aid=kb-online-bibliotheek&sid=21&dts=1782132243242&sig=93256cdf20f532f8b6efa71122e99dae28f8f8a93a639528e5dedd5368b234da&width=320" alt="Omslag van 'Dragon Heart'" title="Omslag van 'Dragon Heart'">
-<p>When Auric, a gifted young boy, disrupted the Magyckers monopoly on Magic, he instantly became the most wanted person in the Pelargo Archipelago. But despite all of Aimerey's resources, the Magyckers still haven't managed to capture him.  Together with his mother, the autistic Auric has found refuge with the pirates of the Claw. Even managing to repel a major attack by the Magyckers and their flying ships.  But not all danger comes from the outside. Valdana, Aimerey's infiltrator at the Claw, is waiting for an opportunity to lure the naive Auric to the sorcerer's island. By handing the boy over, she hopes to create opportunities for herself on the male-dominated island. Opportunities that will do justice to her talent.  The question is whether Auric will cooperate. Especially after seeing the captured dragons... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Adrian Stone</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Claw]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460812181/the-claw-adrian-stone</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460812181/the-claw-adrian-stone"/>
@@ -41,36 +30,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De verdwenen dochter]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812335/de-verdwenen-dochter-lauren-north</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812335/de-verdwenen-dochter-lauren-north"/>
-        <updated>2026-06-22T12:44:05.383Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812335?aid=kb-online-bibliotheek&sid=21&dts=1782131782943&sig=dc28440427a62aa28b25f4c2f9fc0cedcdb689bd0dac6fdfd9641d0462c656c2&width=320" alt="Omslag van 'De verdwenen dochter'" title="Omslag van 'De verdwenen dochter'">
-<p>Lees nu De verdwenen dochter, een bloedstollende psychologische thriller van Lauren North. Veertien jaar geleden eindigde onze familievakantie in een tragedie toen onze vierjarige dochter werd ontvoerd op het strand. Eén seconde keek ik weg, en ik heb het mezelf nooit vergeven. Vandaag is een zeventienjarig meisje een politiebureau bij ons in de buurt binnengelopen. Ze zegt dat ze mijn dochter is. Abigail is terug. Ik kan het niet geloven. Na jaren van rouw is mijn gezin eindelijk weer compleet. Dit zou het gelukkigste moment van mijn leven moeten zijn, maar er klopt iets niet. Hoe hard ik ook probeer, ik herken de tiener voor me niet. Dan vallen er gaten in Abigails verhaal. Haar accent begint te vervagen en ik betrap haar erop dat ze neppe tranen laat voor de journalisten buiten – en ik ben er zekerder van dan ooit dat ze niet mijn dochter is. Dat ze een vreemde is. En dat we haar niet kunnen vertrouwen… Maar als dit mysterieuze meisje niet Abigail is, wie is ze dan wel – en wat wil ze van mijn familie? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Dragon Heart]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812270/dragon-heart-adrian-stone</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812270/dragon-heart-adrian-stone"/>
+        <updated>2026-06-22T12:44:03.770Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812270?aid=kb-online-bibliotheek&sid=21&dts=1782132243242&sig=93256cdf20f532f8b6efa71122e99dae28f8f8a93a639528e5dedd5368b234da&width=320" alt="Omslag van 'Dragon Heart'" title="Omslag van 'Dragon Heart'">
+<p>When Auric, a gifted young boy, disrupted the Magyckers monopoly on Magic, he instantly became the most wanted person in the Pelargo Archipelago. But despite all of Aimerey's resources, the Magyckers still haven't managed to capture him.  Together with his mother, the autistic Auric has found refuge with the pirates of the Claw. Even managing to repel a major attack by the Magyckers and their flying ships.  But not all danger comes from the outside. Valdana, Aimerey's infiltrator at the Claw, is waiting for an opportunity to lure the naive Auric to the sorcerer's island. By handing the boy over, she hopes to create opportunities for herself on the male-dominated island. Opportunities that will do justice to her talent.  The question is whether Auric will cooperate. Especially after seeing the captured dragons... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lauren North</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een maand in de Provence]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460804758/een-maand-in-de-provence-gillian-harvey</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460804758/een-maand-in-de-provence-gillian-harvey"/>
-        <updated>2026-06-19T11:14:23.986Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460804758?aid=kb-online-bibliotheek&sid=21&dts=1781861449874&sig=2335eedcfadb7cb3daa4e838d08d4ea8734ddb590dd4eb2b4e161e319b0d1959&width=320" alt="Omslag van 'Een maand in de Provence'" title="Omslag van 'Een maand in de Provence'">
-<p>Interieurontwerper Nicky wist altijd al hoe ze overal iets moois van kon maken. Maar sinds ze haar man verloor, valt dat haar zwaar. Ze is trots op haar twee dochters, die steeds meer hun eigen weg gaan, maar weet niet goed waar ze zelf heen wil met haar leven. Dan vraagt haar beste vriendin om hulp. Jenny werkt aan een tv-programma over renovaties en vraagt of Nicky naar de Provence kan vliegen… liefst morgen.</p><p>Er moet een B&B opgeknapt worden. Jenny vermeldt daar echter niet bij dat de knorrige eigenaar ook een make-over kan gebruiken en dat er nauwelijks budget is…</p><p>Gaat het Nicky lukken om de B&B te redden, en daarmee de baan van haar beste vriendin? En zal ze zelf ook wat geluk hervinden, onder de Franse zomerzon…? Een onweerstaanbaar opbeurend verhaal dat je laat ontsnappen naar het zonovergoten Franse platteland. Perfect voor fans van Sarah Morgan, Holly Hepburn en Debbie Macomber.</p><p>‘Onweerstaanbaar! Sprankelend en vol warmte, levendigheid en liefde.’ – Nicola Gill</p><p>‘Even heerlijk als ontroerend, een echte parel van een roman. Betoverend, wijs en heerlijk vrolijk makend.’ – Isabelle Broom</p><p>‘Feelgood, grappig – en voor iedereen die wel eens een gebroken hart heeft gehad. Dit is escapisme op zijn best. Elke pagina voelde alsof ik op vakantie was met mijn beste vrienden.’ – Tim Erwins </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Gillian Harvey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het Strandfeest]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460804863/het-strandfeest-nikki-smith</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460804863/het-strandfeest-nikki-smith"/>
-        <updated>2026-06-19T11:14:24.496Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460804863?aid=kb-online-bibliotheek&sid=21&dts=1781861276011&sig=9228e9d1c4526bd64c1aebc52a889f4a71f73a0cdbd7f9ea60d7222278067415&width=320" alt="Omslag van 'Het Strandfeest'" title="Omslag van 'Het Strandfeest'">
-<p>1989: De muziek is luid en de outfits zijn evenmin subtiel. In de zomer van dit jaar arriveert een vriendengroep op Mallorca, om in een luxe villa hun eindexamens te vieren. Een groot strandfeest moet het hoogtepunt van de vakantie worden. Maar in het feestgedruis – met stuivend zand door dansende voeten, glinsterend water en feestgangers die van jachten af duiken – gebeurt er een ongeluk. Van het ene op het andere moment verandert een droomnacht in een nachtmerrie. </p><p>En nu… Nu verzwijgen alle betrokkenen de waarheid over deze zomer. Maar toch weet iemand wat er gebeurd is. En die wil dat de vrienden boeten voor wat ze hebben gedaan...  'Spannend, verrassend en met een heerlijke jaren 80-sfeer.’ – Chris Whitaker, auteur van De kleuren van het donker</p><p>‘Knettert van de suspense, het perfecte boek voor de zomer.’ – B. A. Paris, auteur van Achter gesloten deuren </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nikki Smith</name>
+            <name>Adrian Stone</name>
         </author>
     </entry>
     <entry>
@@ -85,36 +52,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vanilla]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812068/vanilla-ype-driessen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812068/vanilla-ype-driessen"/>
-        <updated>2026-06-22T12:44:07.013Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812068?aid=kb-online-bibliotheek&sid=21&dts=1782132246169&sig=aa04dca5ea1bceda65b00917788b5fc5034e6d1c1999ea1dd3538500e54f1763&width=320" alt="Omslag van 'Vanilla'" title="Omslag van 'Vanilla'">
-<p>Na een pijnlijke break-up verhuist de ietwat neurotische Jip met zijn twee beste vrienden naar – waar anders? – Amsterdam. Daar kan Jip volgens zijn vrienden van het leven gaan genieten. Alleen heeft hij op het gebied van seks nog nooit iets spannends meegemaakt. Hij is wat ze noemen: vanilla.  Jip wil zelf het liefst zo snel mogelijk weer een vaste relatie; of liever nog, terug naar zijn ex. Maar als hij op een avond somber en dronken een feestje verlaat, ontmoet hij een mysterieuze figuur die hem een verleidelijk aanbod doet: als Jip op twaalf betekenisloze seksdates gaat, zal hij verlost worden van zijn liefdesverdriet.  Wat volgt is een ontdekkingsreis langs de rafelranden van de gay datingwereld: van cardates tot groepsseks, en van roleplay tot diepe gesprekken over intimiteit. Tijdens zijn reeks absurde, geile en soms tragische dates, ontdekt Jip wie hij is en wat hij écht wil. Vanilla is een verhaal over een jongen die alles verliest om zichzelf terug te vinden.  Driessen maakte eerder de fotoroman Het nadeel van de twijfel, dat in meerdere landen werd uitgegeven. 'Ik ben altijd benieuwd naar wat Ype Driessen verzint, dus ook naar dit boek!' Paulien Cornelisse 'Een van de beste en meest gedurfde graphic novels van de zomer.' The Washington Post over Het nadeel van de twijfel </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Verdwenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812084/verdwenen-dan-ames</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812084/verdwenen-dan-ames"/>
+        <updated>2026-06-22T12:44:11.879Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812084?aid=kb-online-bibliotheek&sid=21&dts=1782132251045&sig=69c296dcd6fe0fa6c2d7f922b1329c143e03fcf9b92cd47525aada955eba5fa6&width=320" alt="Omslag van 'Verdwenen'" title="Omslag van 'Verdwenen'">
+<p>Verdwenen is het zestiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher. Voormalig FBI-agent Lauren Pauling wordt gevraagd om onderzoek te doen naar de vermissing van een jonge vrouw in Parijs. Het duurt niet lang of ze ontdekt een link met Jack Reacher. En dat kan maar één ding betekenen: problemen.  Voor ze er erg in heeft, wordt Pauling het doelwit van een huurmoordenaar. Zo start een thriller vol actie.  'Het plot raast vooruit met een razendsnel tempo. Goede actiescènes – dit is een must-read!' Amazon.com </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ype Driessen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eilandgeheimen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812238/eilandgeheimen-anne-labus</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812238/eilandgeheimen-anne-labus"/>
-        <updated>2026-06-22T12:44:07.484Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812238?aid=kb-online-bibliotheek&sid=21&dts=1782131306387&sig=4c41b45c5afb266e9ef86ac417a2ec44df0ecb51a70a9f0b069e18bb9d0f52b5&width=320" alt="Omslag van 'Eilandgeheimen'" title="Omslag van 'Eilandgeheimen'">
-<p>In Eilandgeheimen, het derde deel van de Eiland-serie van Anne Labus, is het de beurt aan Rose, de oudste van de Brown-dochters, om het oude pension van haar moeder op Jersey te runnen. Eigenlijk wilde de ambitieuze bankier maar drie maanden terugkeren uit Londen, maar tussen levendige gasten, onverwachte uitdagingen en de verrassende warmte van het eiland voelt ze een verlangen dat haar niet meer loslaat. Het leven op Jersey geeft haar nieuwe inzichten, maar uiteindelijk moet Rose een beslissing nemen: blijft ze op het eiland of keert ze terug naar haar vertrouwde leven in Londen?  Eilandgeheimen is een gevoelig verhaal over de zoektocht naar liefde en de moed om voor je eigen familie te vechten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Anne Labus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stille branding]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812157/stille-branding-lea-jansen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812157/stille-branding-lea-jansen"/>
-        <updated>2026-06-22T12:44:08.018Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812157?aid=kb-online-bibliotheek&sid=21&dts=1782131448213&sig=70ace498de1e8a64999671cda80c46dfc024f5f59eea9e8c4c4bf1f2e05b0d5f&width=320" alt="Omslag van 'Stille branding'" title="Omslag van 'Stille branding'">
-<p>In Stille Branding, het eerste boek in de spannende Noordzeemoorden-serie van Duitse bestsellerauteur Lea Jansen, wordt het pittoreske Noordzee-eiland Sylt opgeschrikt door een dramatisch sterfgeval. Hoofdcommissaris Nele Petersen moet de dood van de beroemde schrijver Johannes Falkenberg oplossen, maar wat aanvankelijk lijkt op een tragische zelfmoord, blijkt al snel onderdeel te zijn van een duister geheim dat verband lijkt te houden met oude onopgeloste moordzaak.  Samen met de jonge, en aantrekkelijke, hoofdcommissaris Ole Schiller stuit Nele op een muur van stilzwijgen, want zowel de broer van het vroegere slachtoffer als leden van de invloedrijke Sylt-clique lijken de waarheid achter te houden. Hoe intensiever het onderzoek wordt, hoe meer het duo zelf in het vizier komt van een dader die voor niets terugdeinst om zijn identiteit te verbergen. Zal Nele erin slagen de schaduwen van het verleden op te lichten en verdere moorden te voorkomen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lea Jansen</name>
+            <name>Dan Ames</name>
         </author>
     </entry>
     <entry>
@@ -129,25 +74,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lente - Ver van huis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812009/lente---ver-van-huis-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812009/lente---ver-van-huis-tamara-postma"/>
-        <updated>2026-06-22T12:44:09.488Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812009?aid=kb-online-bibliotheek&sid=21&dts=1782132248682&sig=175a70bfe0c596046ff3f20f4882ce9ef1b11677456063ad8fa4e0af7ed7a3de&width=320" alt="Omslag van 'Lente - Ver van huis'" title="Omslag van 'Lente - Ver van huis'">
-<p>Ver van huis is het achttiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Wanneer Ava's leven volledig op zijn kop komt te staan, rest haar nog maar één uitweg: vluchten. Halsoverkop laat ze alles achter wat haar ooit vertrouwd was en vertrekt naar New York, de stad die haar zowel vrijheid als anonimiteit belooft. Voor de mensen die ze achterlaat, lijkt ze spoorloos verdwenen – niemand weet waar ze is of waarom ze vertrokken is. In New York probeert Ava de scherven van haar bestaan opnieuw aan elkaar te lijmen en een nieuw begin te maken. Maar terwijl de bruisende stad haar lonkt met nieuwe kansen en beloften van geluk, blijven de schaduwen van haar verleden haar achtervolgen. Want hoe ver je ook reist, sommige geheimen vinden altijd een manier om je in te halen. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Vanilla]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812068/vanilla-ype-driessen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812068/vanilla-ype-driessen"/>
+        <updated>2026-06-22T12:44:07.013Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812068?aid=kb-online-bibliotheek&sid=21&dts=1782132246169&sig=aa04dca5ea1bceda65b00917788b5fc5034e6d1c1999ea1dd3538500e54f1763&width=320" alt="Omslag van 'Vanilla'" title="Omslag van 'Vanilla'">
+<p>Na een pijnlijke break-up verhuist de ietwat neurotische Jip met zijn twee beste vrienden naar – waar anders? – Amsterdam. Daar kan Jip volgens zijn vrienden van het leven gaan genieten. Alleen heeft hij op het gebied van seks nog nooit iets spannends meegemaakt. Hij is wat ze noemen: vanilla.  Jip wil zelf het liefst zo snel mogelijk weer een vaste relatie; of liever nog, terug naar zijn ex. Maar als hij op een avond somber en dronken een feestje verlaat, ontmoet hij een mysterieuze figuur die hem een verleidelijk aanbod doet: als Jip op twaalf betekenisloze seksdates gaat, zal hij verlost worden van zijn liefdesverdriet.  Wat volgt is een ontdekkingsreis langs de rafelranden van de gay datingwereld: van cardates tot groepsseks, en van roleplay tot diepe gesprekken over intimiteit. Tijdens zijn reeks absurde, geile en soms tragische dates, ontdekt Jip wie hij is en wat hij écht wil. Vanilla is een verhaal over een jongen die alles verliest om zichzelf terug te vinden.  Driessen maakte eerder de fotoroman Het nadeel van de twijfel, dat in meerdere landen werd uitgegeven. 'Ik ben altijd benieuwd naar wat Ype Driessen verzint, dus ook naar dit boek!' Paulien Cornelisse 'Een van de beste en meest gedurfde graphic novels van de zomer.' The Washington Post over Het nadeel van de twijfel </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tamara Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vlammen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812149/vlammen-tsafrira-levy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812149/vlammen-tsafrira-levy"/>
-        <updated>2026-06-22T12:44:10.082Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812149?aid=kb-online-bibliotheek&sid=21&dts=1782132249560&sig=0dcc2321f99420b81c06489c184255c46db71c54cbaa608cef0e95e6a36217d3&width=320" alt="Omslag van 'Vlammen'" title="Omslag van 'Vlammen'">
-<p>Hoe sluiten mensen vrede met pijnlijke tegenslagen in hun verleden en heden en wat als dat dreigt te mislukken, zoals in het verhaal dat aan deze bundel zijn titel geeft? Deze vraag verbindt de zeventien verhalen in deze bundel impliciet als een gemeenschappelijke noemer. Ze zijn verder divers van aard, lengte, vertelstijl, hoofdpersonen en hun afkomst. De auteur heeft ze in de loop van vijftig jaar geschreven en alsmaar bijgeschaafd, zowel inhoudelijk als verteltechnisch. Waarom? Omdat niets in het leven stilstaat, ook zij niet en wat uit haar in fictieve vorm naar buiten komt. Vroegere versies van vijf verhalen zijn eerder in het Hebreeuws gepubliceerd, drie daarvan ook in het Nederlands, de andere twaalf verschijnen hier voor het eerst in druk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tsafrira Levy</name>
+            <name>Ype Driessen</name>
         </author>
     </entry>
     <entry>
@@ -157,17 +91,6 @@
         <updated>2026-06-22T12:44:10.970Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46081219X?aid=kb-online-bibliotheek&sid=21&dts=1782132250159&sig=19b08a985d13314aeedd9c323202c9d589884c0911c804a593770be28868d974&width=320" alt="Omslag van 'Scherpschutter'" title="Omslag van 'Scherpschutter'">
 <p>Scherpschutter is het vijftiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher.    Terwijl een sluipschutter om zich heen begint te schieten, ontdekt voormalig FBI-agent Lauren Pauling dat iemand het waarschijnlijk heeft voorzien op Jack Reacher wegens mogelijke oorlogsmisdaden. Maar zijn de zaken verbonden?  Michael Tallon hoort ondertussen dat het sluipschutter-incident wellicht een link heeft met zijn eigen verleden. Dit zet alles compleet op zijn kop.  'Dit verhaal gaat sneller dan een afgevuurde kogel, en komt net zo hard aan.' Apple Books </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Ames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verdwenen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812084/verdwenen-dan-ames</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812084/verdwenen-dan-ames"/>
-        <updated>2026-06-22T12:44:11.879Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812084?aid=kb-online-bibliotheek&sid=21&dts=1782132251045&sig=69c296dcd6fe0fa6c2d7f922b1329c143e03fcf9b92cd47525aada955eba5fa6&width=320" alt="Omslag van 'Verdwenen'" title="Omslag van 'Verdwenen'">
-<p>Verdwenen is het zestiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher. Voormalig FBI-agent Lauren Pauling wordt gevraagd om onderzoek te doen naar de vermissing van een jonge vrouw in Parijs. Het duurt niet lang of ze ontdekt een link met Jack Reacher. En dat kan maar één ding betekenen: problemen.  Voor ze er erg in heeft, wordt Pauling het doelwit van een huurmoordenaar. Zo start een thriller vol actie.  'Het plot raast vooruit met een razendsnel tempo. Goede actiescènes – dit is een must-read!' Amazon.com </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Dan Ames</name>
         </author>
@@ -195,6 +118,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Het geheime ingrediënt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812203/het-geheime-ingredi%C3%ABnt-katharina-herzog</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812203/het-geheime-ingredi%C3%ABnt-katharina-herzog"/>
+        <updated>2026-06-22T12:44:15.615Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812203?aid=kb-online-bibliotheek&sid=21&dts=1782131425170&sig=1d82b8423b0961df6f13c5ae65331d5066cc1805c4677962082672ab8e379602&width=320" alt="Omslag van 'Het geheime ingrediënt'" title="Omslag van 'Het geheime ingrediënt'">
+<p>Het geheime ingrediënt is het tweede deel in de nieuwe serie De smaak van Cornwall van Katharina Herzog, bekend van de serie Het Schotse boekendorp.  Wanneer een bekende televisieproducent zijn nieuwe kookshow Dining Delights uitgerekend in het Smugglers' Inn wil opnemen, staat heel Port Haven op stelten – vooral Annabelle Scott, die dolgraag als co-presentatrice van tv-veteraan Simon Mandel aan het programma wil meedoen. Maar daarvoor moet ze eerst haar concurrentes verslaan in een kookwedstrijd. Er is alleen één probleem: Annabelle kan helemaal niet koken. In tegenstelling tot Flynn, een alpacaboer die ooit een gevierde chef-kok was in Parijs – en die sinds Annabelles terugkeer niets van haar moet hebben. Dat verandert pas wanneer Annabelle een van zijn alpaca's redt. Flynn stemt ermee in haar te leren koken, en al snel slaat de vonk tussen hen over. Maar ondanks zijn hulp heeft Annabelle het allesbehalve makkelijk in de strijd tegen haar rivalen. En wanneer ze ook nog in conflict raakt met de seksistische Mandel én een van haar tegenstanders voor het oog van de camera Annabelles grootste geheim onthult, dreigt ze alles kwijt te raken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Katharina Herzog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De schoonzus]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460812025/de-schoonzus-sue-watson</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460812025/de-schoonzus-sue-watson"/>
@@ -204,6 +138,17 @@
 <p>De schoonzus van Sue Watson is een absoluut onweerstaanbare, meeslepende psychologische thriller, perfect voor fans van Paula Hawkins en Freida McFadden. 'Je denkt toch niet dat Jamie en ik geheimen hebben? Nee, we vertellen elkaar alles.' Ze glimlachte. 'Ook jouw smerige geheimpje. Dus misschien is het tijd om wat aardiger tegen me te zijn?'  DE VROUW: Clare kan wel een vakantie gebruiken. Nu ze zijn aangekomen in de Italiaanse villa, mogen haar man en zijn familie weleens de handen uit de mouwen steken. Hij is haar immers nog iets verschuldigd… DE MAN: Hij is weer bijgedraaid, en hij zegt dat het voorgoed is. Clare kan hem toch wel vertrouwen? Hij heeft in ieder geval zijn broer bij zich om hem in het gareel te houden… DE BROER: Jamie is de verloren zoon, weer terug in de familiekring na jaren in het buitenland te hebben gereisd. Maar als hij in de villa aankomt, is hij niet alleen. Hij heeft zijn nieuwe vrouw meegebracht, die niemand hiervoor heeft ontmoet… DE SCHOONZUS: Ella is alles wat Clare niet is: sprankelend, jong en invloedrijk. Maar ze weet iets over Clare. Een geheim dat de macht heeft om de hele familie voor altijd uit elkaar te drijven… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Sue Watson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lente - Ver van huis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812009/lente---ver-van-huis-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812009/lente---ver-van-huis-tamara-postma"/>
+        <updated>2026-06-22T12:44:09.488Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812009?aid=kb-online-bibliotheek&sid=21&dts=1782132248682&sig=175a70bfe0c596046ff3f20f4882ce9ef1b11677456063ad8fa4e0af7ed7a3de&width=320" alt="Omslag van 'Lente - Ver van huis'" title="Omslag van 'Lente - Ver van huis'">
+<p>Ver van huis is het achttiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Wanneer Ava's leven volledig op zijn kop komt te staan, rest haar nog maar één uitweg: vluchten. Halsoverkop laat ze alles achter wat haar ooit vertrouwd was en vertrekt naar New York, de stad die haar zowel vrijheid als anonimiteit belooft. Voor de mensen die ze achterlaat, lijkt ze spoorloos verdwenen – niemand weet waar ze is of waarom ze vertrokken is. In New York probeert Ava de scherven van haar bestaan opnieuw aan elkaar te lijmen en een nieuw begin te maken. Maar terwijl de bruisende stad haar lonkt met nieuwe kansen en beloften van geluk, blijven de schaduwen van haar verleden haar achtervolgen. Want hoe ver je ook reist, sommige geheimen vinden altijd een manier om je in te halen. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tamara Postma</name>
         </author>
     </entry>
     <entry>
@@ -218,25 +163,69 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het geheime ingrediënt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812203/het-geheime-ingredi%C3%ABnt-katharina-herzog</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812203/het-geheime-ingredi%C3%ABnt-katharina-herzog"/>
-        <updated>2026-06-22T12:44:15.615Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812203?aid=kb-online-bibliotheek&sid=21&dts=1782131425170&sig=1d82b8423b0961df6f13c5ae65331d5066cc1805c4677962082672ab8e379602&width=320" alt="Omslag van 'Het geheime ingrediënt'" title="Omslag van 'Het geheime ingrediënt'">
-<p>Het geheime ingrediënt is het tweede deel in de nieuwe serie De smaak van Cornwall van Katharina Herzog, bekend van de serie Het Schotse boekendorp.  Wanneer een bekende televisieproducent zijn nieuwe kookshow Dining Delights uitgerekend in het Smugglers' Inn wil opnemen, staat heel Port Haven op stelten – vooral Annabelle Scott, die dolgraag als co-presentatrice van tv-veteraan Simon Mandel aan het programma wil meedoen. Maar daarvoor moet ze eerst haar concurrentes verslaan in een kookwedstrijd. Er is alleen één probleem: Annabelle kan helemaal niet koken. In tegenstelling tot Flynn, een alpacaboer die ooit een gevierde chef-kok was in Parijs – en die sinds Annabelles terugkeer niets van haar moet hebben. Dat verandert pas wanneer Annabelle een van zijn alpaca's redt. Flynn stemt ermee in haar te leren koken, en al snel slaat de vonk tussen hen over. Maar ondanks zijn hulp heeft Annabelle het allesbehalve makkelijk in de strijd tegen haar rivalen. En wanneer ze ook nog in conflict raakt met de seksistische Mandel én een van haar tegenstanders voor het oog van de camera Annabelles grootste geheim onthult, dreigt ze alles kwijt te raken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Stille branding]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812157/stille-branding-lea-jansen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812157/stille-branding-lea-jansen"/>
+        <updated>2026-06-22T12:44:08.018Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812157?aid=kb-online-bibliotheek&sid=21&dts=1782131448213&sig=70ace498de1e8a64999671cda80c46dfc024f5f59eea9e8c4c4bf1f2e05b0d5f&width=320" alt="Omslag van 'Stille branding'" title="Omslag van 'Stille branding'">
+<p>In Stille Branding, het eerste boek in de spannende Noordzeemoorden-serie van Duitse bestsellerauteur Lea Jansen, wordt het pittoreske Noordzee-eiland Sylt opgeschrikt door een dramatisch sterfgeval. Hoofdcommissaris Nele Petersen moet de dood van de beroemde schrijver Johannes Falkenberg oplossen, maar wat aanvankelijk lijkt op een tragische zelfmoord, blijkt al snel onderdeel te zijn van een duister geheim dat verband lijkt te houden met oude onopgeloste moordzaak.  Samen met de jonge, en aantrekkelijke, hoofdcommissaris Ole Schiller stuit Nele op een muur van stilzwijgen, want zowel de broer van het vroegere slachtoffer als leden van de invloedrijke Sylt-clique lijken de waarheid achter te houden. Hoe intensiever het onderzoek wordt, hoe meer het duo zelf in het vizier komt van een dader die voor niets terugdeinst om zijn identiteit te verbergen. Zal Nele erin slagen de schaduwen van het verleden op te lichten en verdere moorden te voorkomen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Katharina Herzog</name>
+            <name>Lea Jansen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spoorloos]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460805630/spoorloos-charlotte-link</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460805630/spoorloos-charlotte-link"/>
-        <updated>2026-06-19T11:14:31.256Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460805630?aid=kb-online-bibliotheek&sid=21&dts=1781861521085&sig=c3ccee91b5831f8959848f3689f043b8bdfad7701ef4ea2991353c00a0f67a3a&width=320" alt="Omslag van 'Spoorloos'" title="Omslag van 'Spoorloos'">
-<p>In Spoorloos van Charlotte Link verdween Elaine Dawson vijf jaar geleden op weg naar het huwelijk van haar beste vriendin in Gibraltar. Vanwege dichte mist werden alle vluchten vanaf Londen Heathrow geannuleerd. Ze nam het aanbod van een onbekende man aan om bij hem te overnachten - en werd nooit meer gezien.  Nu duikt haar vriendin en journalist Rosanna Hamilton opnieuw in de zaak. Nieuwe aanwijzingen doen vermoeden dat Elaine nog leeft. Maar terwijl Rosanna de verdwijning onderzoekt, beseft ze steeds meer dat zij zélf het volgende doelwit kan zijn...  Spoorloos is een ijzingwekkende thriller van de auteur van de uiterst succesvolle Kate Linville-serie. Voor fans van Elizabeth George en Nicci French. Dit boek is eerder verschenen als Het laatste spoor.  'Ongelooflijk spannend.' - Mezza Magazine  'Onmogelijk weg te leggen.' - Nederlands Dagblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Eilandgeheimen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812238/eilandgeheimen-anne-labus</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812238/eilandgeheimen-anne-labus"/>
+        <updated>2026-06-22T12:44:07.484Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812238?aid=kb-online-bibliotheek&sid=21&dts=1782131306387&sig=4c41b45c5afb266e9ef86ac417a2ec44df0ecb51a70a9f0b069e18bb9d0f52b5&width=320" alt="Omslag van 'Eilandgeheimen'" title="Omslag van 'Eilandgeheimen'">
+<p>In Eilandgeheimen, het derde deel van de Eiland-serie van Anne Labus, is het de beurt aan Rose, de oudste van de Brown-dochters, om het oude pension van haar moeder op Jersey te runnen. Eigenlijk wilde de ambitieuze bankier maar drie maanden terugkeren uit Londen, maar tussen levendige gasten, onverwachte uitdagingen en de verrassende warmte van het eiland voelt ze een verlangen dat haar niet meer loslaat. Het leven op Jersey geeft haar nieuwe inzichten, maar uiteindelijk moet Rose een beslissing nemen: blijft ze op het eiland of keert ze terug naar haar vertrouwde leven in Londen?  Eilandgeheimen is een gevoelig verhaal over de zoektocht naar liefde en de moed om voor je eigen familie te vechten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Charlotte Link</name>
+            <name>Anne Labus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vlammen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812149/vlammen-tsafrira-levy</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812149/vlammen-tsafrira-levy"/>
+        <updated>2026-06-22T12:44:10.082Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812149?aid=kb-online-bibliotheek&sid=21&dts=1782132249560&sig=0dcc2321f99420b81c06489c184255c46db71c54cbaa608cef0e95e6a36217d3&width=320" alt="Omslag van 'Vlammen'" title="Omslag van 'Vlammen'">
+<p>Hoe sluiten mensen vrede met pijnlijke tegenslagen in hun verleden en heden en wat als dat dreigt te mislukken, zoals in het verhaal dat aan deze bundel zijn titel geeft? Deze vraag verbindt de zeventien verhalen in deze bundel impliciet als een gemeenschappelijke noemer. Ze zijn verder divers van aard, lengte, vertelstijl, hoofdpersonen en hun afkomst. De auteur heeft ze in de loop van vijftig jaar geschreven en alsmaar bijgeschaafd, zowel inhoudelijk als verteltechnisch. Waarom? Omdat niets in het leven stilstaat, ook zij niet en wat uit haar in fictieve vorm naar buiten komt. Vroegere versies van vijf verhalen zijn eerder in het Hebreeuws gepubliceerd, drie daarvan ook in het Nederlands, de andere twaalf verschijnen hier voor het eerst in druk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tsafrira Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De verdwenen dochter]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812335/de-verdwenen-dochter-lauren-north</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812335/de-verdwenen-dochter-lauren-north"/>
+        <updated>2026-06-22T12:44:05.383Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812335?aid=kb-online-bibliotheek&sid=21&dts=1782131782943&sig=dc28440427a62aa28b25f4c2f9fc0cedcdb689bd0dac6fdfd9641d0462c656c2&width=320" alt="Omslag van 'De verdwenen dochter'" title="Omslag van 'De verdwenen dochter'">
+<p>Lees nu De verdwenen dochter, een bloedstollende psychologische thriller van Lauren North. Veertien jaar geleden eindigde onze familievakantie in een tragedie toen onze vierjarige dochter werd ontvoerd op het strand. Eén seconde keek ik weg, en ik heb het mezelf nooit vergeven. Vandaag is een zeventienjarig meisje een politiebureau bij ons in de buurt binnengelopen. Ze zegt dat ze mijn dochter is. Abigail is terug. Ik kan het niet geloven. Na jaren van rouw is mijn gezin eindelijk weer compleet. Dit zou het gelukkigste moment van mijn leven moeten zijn, maar er klopt iets niet. Hoe hard ik ook probeer, ik herken de tiener voor me niet. Dan vallen er gaten in Abigails verhaal. Haar accent begint te vervagen en ik betrap haar erop dat ze neppe tranen laat voor de journalisten buiten – en ik ben er zekerder van dan ooit dat ze niet mijn dochter is. Dat ze een vreemde is. En dat we haar niet kunnen vertrouwen… Maar als dit mysterieuze meisje niet Abigail is, wie is ze dan wel – en wat wil ze van mijn familie? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lauren North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het Strandfeest]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460804863/het-strandfeest-nikki-smith</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460804863/het-strandfeest-nikki-smith"/>
+        <updated>2026-06-19T11:14:24.496Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460804863?aid=kb-online-bibliotheek&sid=21&dts=1781861276011&sig=9228e9d1c4526bd64c1aebc52a889f4a71f73a0cdbd7f9ea60d7222278067415&width=320" alt="Omslag van 'Het Strandfeest'" title="Omslag van 'Het Strandfeest'">
+<p>1989: De muziek is luid en de outfits zijn evenmin subtiel. In de zomer van dit jaar arriveert een vriendengroep op Mallorca, om in een luxe villa hun eindexamens te vieren. Een groot strandfeest moet het hoogtepunt van de vakantie worden. Maar in het feestgedruis – met stuivend zand door dansende voeten, glinsterend water en feestgangers die van jachten af duiken – gebeurt er een ongeluk. Van het ene op het andere moment verandert een droomnacht in een nachtmerrie. </p><p>En nu… Nu verzwijgen alle betrokkenen de waarheid over deze zomer. Maar toch weet iemand wat er gebeurd is. En die wil dat de vrienden boeten voor wat ze hebben gedaan...  'Spannend, verrassend en met een heerlijke jaren 80-sfeer.’ – Chris Whitaker, auteur van De kleuren van het donker</p><p>‘Knettert van de suspense, het perfecte boek voor de zomer.’ – B. A. Paris, auteur van Achter gesloten deuren </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nikki Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een maand in de Provence]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460804758/een-maand-in-de-provence-gillian-harvey</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460804758/een-maand-in-de-provence-gillian-harvey"/>
+        <updated>2026-06-19T11:14:23.986Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460804758?aid=kb-online-bibliotheek&sid=21&dts=1781861449874&sig=2335eedcfadb7cb3daa4e838d08d4ea8734ddb590dd4eb2b4e161e319b0d1959&width=320" alt="Omslag van 'Een maand in de Provence'" title="Omslag van 'Een maand in de Provence'">
+<p>Interieurontwerper Nicky wist altijd al hoe ze overal iets moois van kon maken. Maar sinds ze haar man verloor, valt dat haar zwaar. Ze is trots op haar twee dochters, die steeds meer hun eigen weg gaan, maar weet niet goed waar ze zelf heen wil met haar leven. Dan vraagt haar beste vriendin om hulp. Jenny werkt aan een tv-programma over renovaties en vraagt of Nicky naar de Provence kan vliegen… liefst morgen.</p><p>Er moet een B&B opgeknapt worden. Jenny vermeldt daar echter niet bij dat de knorrige eigenaar ook een make-over kan gebruiken en dat er nauwelijks budget is…</p><p>Gaat het Nicky lukken om de B&B te redden, en daarmee de baan van haar beste vriendin? En zal ze zelf ook wat geluk hervinden, onder de Franse zomerzon…? Een onweerstaanbaar opbeurend verhaal dat je laat ontsnappen naar het zonovergoten Franse platteland. Perfect voor fans van Sarah Morgan, Holly Hepburn en Debbie Macomber.</p><p>‘Onweerstaanbaar! Sprankelend en vol warmte, levendigheid en liefde.’ – Nicola Gill</p><p>‘Even heerlijk als ontroerend, een echte parel van een roman. Betoverend, wijs en heerlijk vrolijk makend.’ – Isabelle Broom</p><p>‘Feelgood, grappig – en voor iedereen die wel eens een gebroken hart heeft gehad. Dit is escapisme op zijn best. Elke pagina voelde alsof ik op vakantie was met mijn beste vrienden.’ – Tim Erwins </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Gillian Harvey</name>
         </author>
     </entry>
     <entry>
@@ -251,47 +240,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kleine wonderen in de middernachtbakkerij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460805541/kleine-wonderen-in-de-middernachtbakkerij-lee-onhwa</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460805541/kleine-wonderen-in-de-middernachtbakkerij-lee-onhwa"/>
-        <updated>2026-06-19T11:14:25.022Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460805541?aid=kb-online-bibliotheek&sid=21&dts=1781862716201&sig=5023dafc6971ca687759521a6be3483dc46b638db1d442daf6d580630eb1e4b5&width=320" alt="Omslag van 'Kleine wonderen in de middernachtbakkerij'" title="Omslag van 'Kleine wonderen in de middernachtbakkerij'">
-<p>Wanneer Yeon-hwa in Kleine wonderen in de middernachtbakkerij van Lee Onhwa haar grootmoeder verliest, de mysterieuze eigenaresse van de middernachtbakkerij, besluit ze de winkel nog een maand open te houden. En niet tijdens reguliere uren, maar elke avond, tussen tien uur en middernacht.  Op haar eerste avond wordt ze verrast door een vaste hulp, die al snel duidelijk maakt dat Hwawoldang geen gewone bakkerij is - en dat niet alle klanten tot het rijk der levenden behoren. Met de hulp van de zwarte kat die in de winkel woont, ontdekt Yeonhwa met welke bijzondere gebakjes ze haar klanten verder kan helpen op hun reis. Tegelijk begint ze langzaam maar zeker haar eigen geheimzinnige familiegeschiedenis te ontrafelen... en ontdekt ze een kant van zichzelf die lang verborgen is gebleven.  Kleine wonderen in de middernachtbakkerij is dé healing fiction-sensatie uit Zuid-Korea. Deze ontroerende en hartverwarmende roman gaat over rouw, herinneringen en het helende vermogen van verhalen en gebak. Voor lezers van Voordat de koffie koud wordt en De buurtwinkel van tweede kansen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Spoorloos]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460805630/spoorloos-charlotte-link</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460805630/spoorloos-charlotte-link"/>
+        <updated>2026-06-19T11:14:31.256Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460805630?aid=kb-online-bibliotheek&sid=21&dts=1781861521085&sig=c3ccee91b5831f8959848f3689f043b8bdfad7701ef4ea2991353c00a0f67a3a&width=320" alt="Omslag van 'Spoorloos'" title="Omslag van 'Spoorloos'">
+<p>In Spoorloos van Charlotte Link verdween Elaine Dawson vijf jaar geleden op weg naar het huwelijk van haar beste vriendin in Gibraltar. Vanwege dichte mist werden alle vluchten vanaf Londen Heathrow geannuleerd. Ze nam het aanbod van een onbekende man aan om bij hem te overnachten - en werd nooit meer gezien.  Nu duikt haar vriendin en journalist Rosanna Hamilton opnieuw in de zaak. Nieuwe aanwijzingen doen vermoeden dat Elaine nog leeft. Maar terwijl Rosanna de verdwijning onderzoekt, beseft ze steeds meer dat zij zélf het volgende doelwit kan zijn...  Spoorloos is een ijzingwekkende thriller van de auteur van de uiterst succesvolle Kate Linville-serie. Voor fans van Elizabeth George en Nicci French. Dit boek is eerder verschenen als Het laatste spoor.  'Ongelooflijk spannend.' - Mezza Magazine  'Onmogelijk weg te leggen.' - Nederlands Dagblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lee Onhwa</name>
+            <name>Charlotte Link</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Middernachtloper]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460804790/de-middernachtloper-maren-stoffels</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460804790/de-middernachtloper-maren-stoffels"/>
-        <updated>2026-06-19T11:14:25.602Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460804790?aid=kb-online-bibliotheek&sid=21&dts=1781867665108&sig=2bcece9348d67c5d9e1cf7511665313b1d473cb12e1c96e6bec52c2e402a9408&width=320" alt="Omslag van 'De Middernachtloper'" title="Omslag van 'De Middernachtloper'">
-<p>In de nieuwe, epische fantasynovel De Middernachtloper van topauteur Maren Stoffels krijgt Sunny op een koude winteravond een aanbod dat haar leven verandert: ze wordt Middernachtloper, een boodschapper tussen de werelden van de levenden en de doden. Exact om middernacht heeft ze één minuut om de oversteek te maken. Sunny waagt het erop, in de hoop haar overleden ouders terug te zien. Maar eenmaal daar ontdekt ze dat in het dodenrijk niets is wat het lijkt…</p><p>De Middernachtloper van Maren Stoffels is onderdeel van Epic Books en verschijnt in luxe uitvoering met kleur op snee en met folie. Voor alle jonge lezers vanaf 13 jaar die nu al verlangen naar boeken met een YA-adult uitstraling! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Grootse rivalen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460804847/grootse-rivalen-jennifer-lynn-barnes</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460804847/grootse-rivalen-jennifer-lynn-barnes"/>
+        <updated>2026-06-19T11:14:29.204Z</updated>
+        <summary type="html"><![CDATA[Liefde is een gevaarlijk spel]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460804847?aid=kb-online-bibliotheek&sid=21&dts=1781862037567&sig=d49ab7a75221264780720f4e12260b6d0adc9d31d86117d5e6e3b6a8648804b2&width=320" alt="Omslag van 'Grootse rivalen'" title="Omslag van 'Grootse rivalen'">
+<p>"Grootse rivalen" is het tweede deel in "De miljoenenstrijd".</p><p> Er zijn vijf spelers over. Iedereen is een leugenaar. En iemand houdt ze in de gaten.</p><p> Zeven spelers zijn naar Hawthorne Island gekomen voor het Ultieme Spel, ieder met hun eigen geheimen en redenen om te willen winnen. Nu zijn er nog vijf over: Savannah, die uit is op wraak; Rohan, die het prijzengeld nodig heeft om Eigenaar van de Mercy te worden; Lyra, die koste wat koste het huis van haar familie wil redden; Grayson, die meespeelt om Lyra te helpen; en Brady - maar wat is zijn doel eigenlijk? En wat is er met Gigi gebeurd?  In de race naar de finish moeten de spelers talloze puzzels oplossen, onverwachte wendingen overleven en alles op alles zetten in de strijd om de winst. Er staan niet meer alleen miljoenen op het spel, maar ook harten - en levens. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Maren Stoffels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het huis van de farao’s]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460805479/het-huis-van-de-farao-s-wilbur-smith</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460805479/het-huis-van-de-farao-s-wilbur-smith"/>
-        <updated>2026-06-19T11:14:26.154Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460805479?aid=kb-online-bibliotheek&sid=21&dts=1781862111050&sig=6bff58af27d8e59ac9c69da6732303ee803ffd3ca4bb9f99d0b1c9180a76c94f&width=320" alt="Omslag van 'Het huis van de farao’s'" title="Omslag van 'Het huis van de farao’s'">
-<p>In Het huis van de farao's, het tiende deel in de Egypte-serie, heeft Piay zich - sinds zijn benoeming tot Nomarch van Memphis door de god-koning Ramses - volledig toegewijd aan het in oude glorie herstellen van de stad. Maar wanneer in een pas gebouwde stadswal het lichaam van een vermoorde klerk wordt aangetroffen, met naast hem in zijn eigen bloed het teken van Anubis - god van de dood - slaat de paniek in de stad toe.  Slechts één man in heel Egypte is wijs genoeg om dit mysterie op te lossen: Piay's leermeester, de grote ziener Taita. De twee raken verstrikt in een dodelijk machtsspel tegen een briljante crimineel die zich heeft ontpopt tot oorlogsheer. Al snel duikt het teken van Anubis opnieuw op... De tijd dringt.  'Topamusement.' - de Volkskrant  'De allerbeste historische romanschrijver.' - Stephen King </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Wilbur Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De informant]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460805088/de-informant-a-c--porter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460805088/de-informant-a-c--porter"/>
-        <updated>2026-06-19T11:14:26.630Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460805088?aid=kb-online-bibliotheek&sid=21&dts=1781862112561&sig=ddc9bd1c15895df4bdf81b587d8a2b83c82803a0a977ca48fd8a5985bdbd8d4a&width=320" alt="Omslag van 'De informant'" title="Omslag van 'De informant'">
-<p>De informant van A.C. Porter speelt zich af in Noord-Ierland, begin jaren zeventig. De spanningen tussen protestanten en katholieken lopen steeds verder op. Na Bloody Sunday, als Britse soldaten dertien ongewapende Noord-Ieren doodschieten, escaleert de strijd tegen de Britse overheersing.  Te midden van dit oplaaiende geweld probeert de Nederlandse veearts Mary Thomas een nieuw bestaan op te bouwen. Voor de liefde is ze naar Noord-Ierland verhuisd, maar haar leven neemt een abrupte wending wanneer ze bij de hoogzwangere boerin Annie McDermot automatische wapens ontdekt. Kort daarop wordt Annie vermoord... en besluit Mary de baby mee te nemen.  De informant, gebaseerd op historische gebeurtenissen in (Noord-)Ierland, is de nieuwe politieke thriller van A.C. Porter, winnaar van de Hebban Thrillerprijs 2025 voor zijn veelgeprezen werk De erfgenamen. Met intelligente spanning, historische diepgang, ijzersterke wendingen en schokkende onthulling bewijst Porter zich opnieuw als een van de beste thrillerauteurs van Nederland. Voor lezers van Dan Brown, James Patterson en David Baldacci.  'De beste thrillerschrijver van Nederland.' - Algemeen Dagblad  'Dit boek wil je in één ruk uitlezen.' - Juryrapport Hebban Thrillerprijs  'Porters originele invalshoeken en zijn meeslepende manier van vertellen maken dit boek een indrukwekkende thriller.' - ThrillZone </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>A.C. Porter</name>
+            <name>Jennifer Lynn Barnes</name>
         </author>
     </entry>
     <entry>
@@ -306,6 +274,29 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Killer instinct]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460805460/killer-instinct-jennifer-lynn-barnes</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460805460/killer-instinct-jennifer-lynn-barnes"/>
+        <updated>2026-06-19T11:14:30.749Z</updated>
+        <summary type="html"><![CDATA[Als een moordenaar spelletjes speelt, is winnen een kwestie van leven of dood.]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460805460?aid=kb-online-bibliotheek&sid=21&dts=1781865569628&sig=cf062eb0f63fa130947ad40d002c068ad7dbfa97eddf345321c65674a38e18ac&width=320" alt="Omslag van 'Killer instinct'" title="Omslag van 'Killer instinct'">
+<p>Het spannende vervolg op 'The Naturals'!</p><p>Cassie Hobbes is door de FBI gerekruteerd voor het Naturals-programma. Haar aangeboren talent voor het profileren van misdadigers is zeldzaam en daardoor waardevol, net als de ongebruikelijke talenten van de andere vier Naturals: Michael, Dean, Lia en Sloane.</p><p>Inmiddels stapelen de zaken zich op en ontsnapte Cassie zelf ternauwernood aan een seriemoordenaar die geobsedeerd was door de moord op haar moeder. Tijd om daarvan bij te komen heeft ze niet, want wanneer een nieuwe seriemoordenaar slachtoffers maakt, raakt Cssie opnieuw verwikkeld in een zaak die heel dichtbij komt. De dader gaat namelijk precies hetzelfde te werk als de vader van Dean, die jaren geleden al veroordeeld werd.</p><p>Om de moordenaar te ontmaskeren zit er voor de Naturals niets anders op dan in het hoofd van deze copycat te kruipen en mee te spelen met diens wrede spelletjes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jennifer Lynn Barnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Middernachtloper]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460804790/de-middernachtloper-maren-stoffels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460804790/de-middernachtloper-maren-stoffels"/>
+        <updated>2026-06-19T11:14:25.602Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460804790?aid=kb-online-bibliotheek&sid=21&dts=1781867665108&sig=2bcece9348d67c5d9e1cf7511665313b1d473cb12e1c96e6bec52c2e402a9408&width=320" alt="Omslag van 'De Middernachtloper'" title="Omslag van 'De Middernachtloper'">
+<p>In de nieuwe, epische fantasynovel De Middernachtloper van topauteur Maren Stoffels krijgt Sunny op een koude winteravond een aanbod dat haar leven verandert: ze wordt Middernachtloper, een boodschapper tussen de werelden van de levenden en de doden. Exact om middernacht heeft ze één minuut om de oversteek te maken. Sunny waagt het erop, in de hoop haar overleden ouders terug te zien. Maar eenmaal daar ontdekt ze dat in het dodenrijk niets is wat het lijkt…</p><p>De Middernachtloper van Maren Stoffels is onderdeel van Epic Books en verschijnt in luxe uitvoering met kleur op snee en met folie. Voor alle jonge lezers vanaf 13 jaar die nu al verlangen naar boeken met een YA-adult uitstraling! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Maren Stoffels</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The way I am now]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460805134/the-way-i-am-now-amber-smith</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460805134/the-way-i-am-now-amber-smith"/>
@@ -317,17 +308,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Over the limit]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460805231/over-the-limit-k--bromberg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460805231/over-the-limit-k--bromberg"/>
-        <updated>2026-06-19T11:14:28.231Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460805231?aid=kb-online-bibliotheek&sid=21&dts=1781866512395&sig=86e2095b771541848f491bb791867222aa63a550fed17c7c898ea3a565fd0d4c&width=320" alt="Omslag van 'Over the limit'" title="Omslag van 'Over the limit'">
-<p>Een algemene regel: je blijft uit de buurt van de ex van je teamgenoot. Maar dat is makkelijker gezegd dan gedaan wanneer je het hebt over Blair Carmichael. Lachlan Evans heeft het team altijd op de eerste plek gezet, maar wat als hij dat niet meer wil? Wat als hij Blair Carmichael liever wil? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>K. Bromberg</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Psychologie voor elke dag]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460805355/psychologie-voor-elke-dag-ren%C3%A9-diekstra</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460805355/psychologie-voor-elke-dag-ren%C3%A9-diekstra"/>
@@ -336,6 +316,31 @@
 <p>In de bundel Psychologie voor elke dag lopen de onderwerpen uiteen van polarisatie, oorlog, Trump en Zelensky tot familie, kleinkinderen en ouder worden. Wat zijn de psychologische voordelen van zingen in een koor, wat gebeurt er in het hoofd van Donald Trump en waarom moeten we elkaar blijven groeten? Het antwoord komt van René Diekstra, Nederlands bekendste psycholoog. In zijn veelgelezen columns voor diverse dagbladen reageert hij op maatschappelijke gebeurtenissen, en vermengt dit met zijn kennis van en ervaring in de psychologie.  René Diekstra duidt dit op ontroerende, grappige, onverwachte of treffende wijze. Het resultaat is een gids vol herkenbaarheid, tips en troost, die bijdraagt aan meer veerkracht en weerbaarheid in de wereld van vandaag.  Psychologie voor elke dag is een bundel van meer dan 100 columns over menselijkheid, verbinding en veerkracht in verwarrende tijden. Geschreven door bestsellerauteur van o.a. In gesprek met je ouders en Als leven pijn doet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>René Diekstra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haar naam was Lola]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46080488X/haar-naam-was-lola-paul-onkenhout---john-schoorl</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46080488X/haar-naam-was-lola-paul-onkenhout---john-schoorl"/>
+        <updated>2026-06-19T11:14:30.245Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46080488X?aid=kb-online-bibliotheek&sid=21&dts=1781862111108&sig=e6894e54af8f393612e9b4fe5a64bc4ea7603ba1fd05b09fb018848267914655&width=320" alt="Omslag van 'Haar naam was Lola'" title="Omslag van 'Haar naam was Lola'">
+<p>Haar naam was Lola is, na En Venus was haar naam, de tweede columnbundel van het legendarische duo John Schoorl en Paul Onkenhout. Dompel je deze keer onder in verhalen van onder meer Mandy, Catootje, Billie Jean, Jet, Juno en Nancy. Terwijl hun levens en liedjes elkaar raken, ontvouwt zich op de bladzijdes bijna ongemerkt zeventig jaar muziekgeschiedenis - van funk en ballads tot meezingers, popklassiekers en (Nederlandstalige) hiphop.  Met een speelse, maar tegelijk informatieve pen nemen de auteurs je mee langs iconische artiesten en bands, van Paul McCartney en Frank Sinatra tot Marlene Dietrich en De Zangeres Zonder Naam. Een boek dat muziek niet alleen beschrijft, maar vooral laat léven.  Haar naam was Lola is het ideale cadeauboek voor iedereen die geïnteresseerd is in de geschiedenis van popmuziek. Volgens de strenge regels van auteurs Paul Onkenhout en John Schoorl komen alleen liedjes in aanmerking waarvan de titel bestaat uit één voornaam. Elk liedje heeft hierdoor een bijzonder verhaal, of dat nu over de ontstaansgeschiedenis, de artiest of de bezongen persoon gaat. Perfect voor alle Top 2000-luisteraars.  'De schrijvers zwerven met onverwachte invalshoeken fris en vrolijk door de popgeschiedenis.' - NRC  'Zelfs de complete pophistorie kunnen Paul Onkenhout en John Schoorl vanuit een speelse hoek benaderen.' - OOR </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Paul Onkenhout</name>
+        </author>
+        <author>
+            <name>John Schoorl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over the limit]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460805231/over-the-limit-k--bromberg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460805231/over-the-limit-k--bromberg"/>
+        <updated>2026-06-19T11:14:28.231Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460805231?aid=kb-online-bibliotheek&sid=21&dts=1781866512395&sig=86e2095b771541848f491bb791867222aa63a550fed17c7c898ea3a565fd0d4c&width=320" alt="Omslag van 'Over the limit'" title="Omslag van 'Over the limit'">
+<p>Een algemene regel: je blijft uit de buurt van de ex van je teamgenoot. Maar dat is makkelijker gezegd dan gedaan wanneer je het hebt over Blair Carmichael. Lachlan Evans heeft het team altijd op de eerste plek gezet, maar wat als hij dat niet meer wil? Wat als hij Blair Carmichael liever wil? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>K. Bromberg</name>
         </author>
     </entry>
 </feed>
