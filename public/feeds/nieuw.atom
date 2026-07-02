@@ -2,34 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-07-01T10:37:44.169Z</updated>
+    <updated>2026-07-02T09:54:46.783Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
-    <entry>
-        <title type="html"><![CDATA[In verlatenheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/456680284/in-verlatenheid-l-h--wiener</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/456680284/in-verlatenheid-l-h--wiener"/>
-        <updated>2026-07-01T10:37:38.061Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456680284?aid=kb-online-bibliotheek&sid=21&dts=1782902257498&sig=e4e27863a99d18dfc3851c9322d924cd70b712caa1cf1f139d22e2dc54c56b85&width=320" alt="Omslag van 'In verlatenheid'" title="Omslag van 'In verlatenheid'">
-<p>Nadat zijn Laatste Vriendin hem verlaten heeft gaat Lodewijk Wiener, gepensioneerd docent, gebrekkige minnaar en geboren schrijver, de wanhoop te lijf en op zoek naar een manier om de eenzaamheid te overwinnen. Hij blikt terug op zijn leven en legt vast wie hij was of had willen zijn, nu de onvermijdelijke Dood, nog wat talmend, maar onvermurwbaar, op weg is naar zijn huis. Niet anoniem passeren is tenslotte het credo van iedere schrijver. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>L.H. Wiener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoogspanning]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45668025X/hoogspanning-nora-fischer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45668025X/hoogspanning-nora-fischer"/>
-        <updated>2026-07-01T10:37:38.732Z</updated>
-        <summary type="html"><![CDATA[Hoe ik mijn stem verloor]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45668025X?aid=kb-online-bibliotheek&sid=21&dts=1782902258174&sig=81369cf9cd6c19f232525a17f3fc4d53545e43fe514b773e4df14e3338d1bfef&width=320" alt="Omslag van 'Hoogspanning'" title="Omslag van 'Hoogspanning'">
-<p>EEN VERHAAL OVER DE VERSTIKKENDE ANGST OM DOOR DE MAND TE VALLEN Als zangeres met een succesvolle internationale carrière reist Nora Fischer de hele wereld over. Vrijheid en plezier spatten ervan af als ze zingt. Tot de drang tot perfectie haar totaal verlamt en zelfs bètablokkers niet meer helpen haar angsten onder controle te houden. Ze kan geen noot meer uitbrengen, zelfs geen ‘Happy Birthday’ voor haar beste vrienden. En terwijl Nora’s stem verstilt en haar carrière afbrokkelt, zakt haar geliefde oudere zus steeds dieper in het duister. Hoe kan het plezier waarmee twee meisjes aan hun leven begonnen, verworden tot zo’n allesomvattende kramp? Vanuit de ruïnes eist Nora antwoorden en begint ze aan een speurtocht door haar leven: van de verstikkende druk van ’s werelds grootste podia tot de hardnekkige demonen die haar blijven teisteren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nora Fischer</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Waarden]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/456680497/waarden-maja-g%C3%B6pel</id>
@@ -53,6 +30,29 @@
         </author>
         <author>
             <name>Peter Kee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In verlatenheid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/456680284/in-verlatenheid-l-h--wiener</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/456680284/in-verlatenheid-l-h--wiener"/>
+        <updated>2026-07-01T10:37:38.061Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A456680284?aid=kb-online-bibliotheek&sid=21&dts=1782902257498&sig=e4e27863a99d18dfc3851c9322d924cd70b712caa1cf1f139d22e2dc54c56b85&width=320" alt="Omslag van 'In verlatenheid'" title="Omslag van 'In verlatenheid'">
+<p>Nadat zijn Laatste Vriendin hem verlaten heeft gaat Lodewijk Wiener, gepensioneerd docent, gebrekkige minnaar en geboren schrijver, de wanhoop te lijf en op zoek naar een manier om de eenzaamheid te overwinnen. Hij blikt terug op zijn leven en legt vast wie hij was of had willen zijn, nu de onvermijdelijke Dood, nog wat talmend, maar onvermurwbaar, op weg is naar zijn huis. Niet anoniem passeren is tenslotte het credo van iedere schrijver. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>L.H. Wiener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoogspanning]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45668025X/hoogspanning-nora-fischer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45668025X/hoogspanning-nora-fischer"/>
+        <updated>2026-07-01T10:37:38.732Z</updated>
+        <summary type="html"><![CDATA[Hoe ik mijn stem verloor]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45668025X?aid=kb-online-bibliotheek&sid=21&dts=1782902258174&sig=81369cf9cd6c19f232525a17f3fc4d53545e43fe514b773e4df14e3338d1bfef&width=320" alt="Omslag van 'Hoogspanning'" title="Omslag van 'Hoogspanning'">
+<p>EEN VERHAAL OVER DE VERSTIKKENDE ANGST OM DOOR DE MAND TE VALLEN Als zangeres met een succesvolle internationale carrière reist Nora Fischer de hele wereld over. Vrijheid en plezier spatten ervan af als ze zingt. Tot de drang tot perfectie haar totaal verlamt en zelfs bètablokkers niet meer helpen haar angsten onder controle te houden. Ze kan geen noot meer uitbrengen, zelfs geen ‘Happy Birthday’ voor haar beste vrienden. En terwijl Nora’s stem verstilt en haar carrière afbrokkelt, zakt haar geliefde oudere zus steeds dieper in het duister. Hoe kan het plezier waarmee twee meisjes aan hun leven begonnen, verworden tot zo’n allesomvattende kramp? Vanuit de ruïnes eist Nora antwoorden en begint ze aan een speurtocht door haar leven: van de verstikkende druk van ’s werelds grootste podia tot de hardnekkige demonen die haar blijven teisteren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nora Fischer</name>
         </author>
     </entry>
     <entry>
@@ -91,17 +91,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vliegerspoor]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460785346/vliegerspoor-lucy-neetens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460785346/vliegerspoor-lucy-neetens"/>
-        <updated>2026-07-01T10:37:42.787Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460785346?aid=kb-online-bibliotheek&sid=21&dts=1782902262190&sig=0cde686c208d7c04c59e054ed4334774adca6754dc2d1f75e0fafe017b88455a&width=320" alt="Omslag van 'Vliegerspoor'" title="Omslag van 'Vliegerspoor'">
-<p>"Whenever I miss you, I look at my heart, because it’s the only place I can find you." Evi Verweij werd als baby van drie maanden ontvoerd. Een intensieve speurtocht van de politie leidde destijds tot niets. Als de gepensioneerde rechercheur Theo Berger zeven jaar later het pad van Evi’s moeder kruist en haar verhaal hoort, biedt hij spontaan zijn hulp aan. Lukt het Theo en zijn kompanen om het meisje alsnog op te sporen? Theo Berger kreeg in Diabolisch dilemma, de roman waarmee Lucy Neetens in 2023 werd genomineerd voor de MAX Bronzen Vleermuis, ook al een cold case op zijn bordje. Hij ontsnapte toen ternauwernood aan de dood. Moet hij in deze zaak opnieuw voor zijn leven vrezen? ***** Lucy Neetens debuteerde in 2021 met Een blauwe blik. Hierna volgden de romans Diabolisch dilemma en Ik heb je liever en de novelles Een levensgroot ommetje en Bestemming bereikt. Vliegerspoor is Lucy’s vierde roman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lucy Neetens</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hij noemde haar Aphrodite]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460785338/hij-noemde-haar-aphrodite-lieve-van-den-berg</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460785338/hij-noemde-haar-aphrodite-lieve-van-den-berg"/>
@@ -124,6 +113,17 @@
         </author>
         <author>
             <name>Sandy Stokkel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vliegerspoor]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460785346/vliegerspoor-lucy-neetens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460785346/vliegerspoor-lucy-neetens"/>
+        <updated>2026-07-01T10:37:42.787Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460785346?aid=kb-online-bibliotheek&sid=21&dts=1782902262190&sig=0cde686c208d7c04c59e054ed4334774adca6754dc2d1f75e0fafe017b88455a&width=320" alt="Omslag van 'Vliegerspoor'" title="Omslag van 'Vliegerspoor'">
+<p>"Whenever I miss you, I look at my heart, because it’s the only place I can find you." Evi Verweij werd als baby van drie maanden ontvoerd. Een intensieve speurtocht van de politie leidde destijds tot niets. Als de gepensioneerde rechercheur Theo Berger zeven jaar later het pad van Evi’s moeder kruist en haar verhaal hoort, biedt hij spontaan zijn hulp aan. Lukt het Theo en zijn kompanen om het meisje alsnog op te sporen? Theo Berger kreeg in Diabolisch dilemma, de roman waarmee Lucy Neetens in 2023 werd genomineerd voor de MAX Bronzen Vleermuis, ook al een cold case op zijn bordje. Hij ontsnapte toen ternauwernood aan de dood. Moet hij in deze zaak opnieuw voor zijn leven vrezen? ***** Lucy Neetens debuteerde in 2021 met Een blauwe blik. Hierna volgden de romans Diabolisch dilemma en Ik heb je liever en de novelles Een levensgroot ommetje en Bestemming bereikt. Vliegerspoor is Lucy’s vierde roman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lucy Neetens</name>
         </author>
     </entry>
     <entry>
@@ -160,14 +160,69 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het Strandfeest]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460804863/het-strandfeest-nikki-smith</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460804863/het-strandfeest-nikki-smith"/>
-        <updated>2026-06-29T11:53:27.047Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460804863?aid=kb-online-bibliotheek&sid=21&dts=1782659730164&sig=d3fb4f21e045c8b96b9010579aece7526f2ca195a763775e8b0d92ebd7f9b79f&width=320" alt="Omslag van 'Het Strandfeest'" title="Omslag van 'Het Strandfeest'">
-<p>1989: De muziek is luid en de outfits zijn evenmin subtiel. In de zomer van dit jaar arriveert een vriendengroep op Mallorca, om in een luxe villa hun eindexamens te vieren. Een groot strandfeest moet het hoogtepunt van de vakantie worden. Maar in het feestgedruis – met stuivend zand door dansende voeten, glinsterend water en feestgangers die van jachten af duiken – gebeurt er een ongeluk. Van het ene op het andere moment verandert een droomnacht in een nachtmerrie. </p><p>En nu… Nu verzwijgen alle betrokkenen de waarheid over deze zomer. Maar toch weet iemand wat er gebeurd is. En die wil dat de vrienden boeten voor wat ze hebben gedaan...  'Spannend, verrassend en met een heerlijke jaren 80-sfeer.’ – Chris Whitaker, auteur van De kleuren van het donker</p><p>‘Knettert van de suspense, het perfecte boek voor de zomer.’ – B. A. Paris, auteur van Achter gesloten deuren </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De verdwenen dochter]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812335/de-verdwenen-dochter-lauren-north</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812335/de-verdwenen-dochter-lauren-north"/>
+        <updated>2026-06-22T12:44:05.383Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812335?aid=kb-online-bibliotheek&sid=21&dts=1782131782943&sig=dc28440427a62aa28b25f4c2f9fc0cedcdb689bd0dac6fdfd9641d0462c656c2&width=320" alt="Omslag van 'De verdwenen dochter'" title="Omslag van 'De verdwenen dochter'">
+<p>Lees nu De verdwenen dochter, een bloedstollende psychologische thriller van Lauren North. Veertien jaar geleden eindigde onze familievakantie in een tragedie toen onze vierjarige dochter werd ontvoerd op het strand. Eén seconde keek ik weg, en ik heb het mezelf nooit vergeven. Vandaag is een zeventienjarig meisje een politiebureau bij ons in de buurt binnengelopen. Ze zegt dat ze mijn dochter is. Abigail is terug. Ik kan het niet geloven. Na jaren van rouw is mijn gezin eindelijk weer compleet. Dit zou het gelukkigste moment van mijn leven moeten zijn, maar er klopt iets niet. Hoe hard ik ook probeer, ik herken de tiener voor me niet. Dan vallen er gaten in Abigails verhaal. Haar accent begint te vervagen en ik betrap haar erop dat ze neppe tranen laat voor de journalisten buiten – en ik ben er zekerder van dan ooit dat ze niet mijn dochter is. Dat ze een vreemde is. En dat we haar niet kunnen vertrouwen… Maar als dit mysterieuze meisje niet Abigail is, wie is ze dan wel – en wat wil ze van mijn familie? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nikki Smith</name>
+            <name>Lauren North</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het vertrek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812343/het-vertrek-kevin-hassing</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812343/het-vertrek-kevin-hassing"/>
+        <updated>2026-06-22T12:44:06.050Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812343?aid=kb-online-bibliotheek&sid=21&dts=1782132245466&sig=26cff679aa58ce868e740e4d7b2f95504462898852ea447923a07abd38be5189&width=320" alt="Omslag van 'Het vertrek'" title="Omslag van 'Het vertrek'">
+<p>Drievoudig Kinderjury-winnaar Kevin Hassing (bekend van o.a. Mus & kapitein Kwaadbaard en het Kinderboekenweekgeschenk Lexie) verrast zijn lezers op een nieuwe avontuurlijke serie. Ruby Crusoe – Het vertrek is het eerste deel en gaat over de twaalfjarige Ruby, dochter van de beroemde schipbreukeling Robinson Crusoe. Terwijl haar broers huiveren bij de overlevingsverhalen van hun vader, verlangt Ruby naar één ding: ook overleven op een eiland. Dus springt ze stiekem aan boord van een schip, om weken later op een onbewoond eiland te stranden. Algauw ontdekt ze dat overleven zwaar en eenzaam is. Net wanneer ze de moed dreigt te verliezen, doet ze een angstaanjagende ontdekking… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kevin Hassing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verdwenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812084/verdwenen-dan-ames</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812084/verdwenen-dan-ames"/>
+        <updated>2026-06-22T12:44:11.879Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812084?aid=kb-online-bibliotheek&sid=21&dts=1782132251045&sig=69c296dcd6fe0fa6c2d7f922b1329c143e03fcf9b92cd47525aada955eba5fa6&width=320" alt="Omslag van 'Verdwenen'" title="Omslag van 'Verdwenen'">
+<p>Verdwenen is het zestiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher. Voormalig FBI-agent Lauren Pauling wordt gevraagd om onderzoek te doen naar de vermissing van een jonge vrouw in Parijs. Het duurt niet lang of ze ontdekt een link met Jack Reacher. En dat kan maar één ding betekenen: problemen.  Voor ze er erg in heeft, wordt Pauling het doelwit van een huurmoordenaar. Zo start een thriller vol actie.  'Het plot raast vooruit met een razendsnel tempo. Goede actiescènes – dit is een must-read!' Amazon.com </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dan Ames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lente - Het laatste zomerkind]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460811975/lente---het-laatste-zomerkind-tamara-postma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460811975/lente---het-laatste-zomerkind-tamara-postma"/>
+        <updated>2026-06-22T12:44:08.583Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460811975?aid=kb-online-bibliotheek&sid=21&dts=1782132248090&sig=3b4e3bebcc2cb60c92adfdb9bae202b21c41a1ed08add82027740fd84e33e71b&width=320" alt="Omslag van 'Lente - Het laatste zomerkind'" title="Omslag van 'Lente - Het laatste zomerkind'">
+<p>Het laatste zomerkind is het twintigste en laatste deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Op de ochtend van haar vijfentwintigste verjaardag voelt Ava dat er iets moet veranderen. Ze besluit dat dit háár jaar gaat worden – het moment waarop ze eindelijk de regie over haar leven terugpakt. Geen uitstel meer, geen vluchtpogingen. Haar dromen zijn te groot om nog langer te laten overschaduwen door angst. Maar om vooruit te kunnen kijken, moet Ava eerst de schaduwen van het verleden trotseren: de nachtmerries die haar 's nachts wakker houden en de wonden die nooit helemaal zijn geheeld. Pas wanneer ze die demonen onder ogen durft te zien, kan ze ontdekken of er ruimte is voor iets nieuws. Zal dit het jaar worden waarin Ava eindelijk de liefde vindt – en de rust waar ze al die jaren zo naar heeft verlangd? Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tamara Postma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanilla]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812068/vanilla-ype-driessen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812068/vanilla-ype-driessen"/>
+        <updated>2026-06-22T12:44:07.013Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812068?aid=kb-online-bibliotheek&sid=21&dts=1782132246169&sig=aa04dca5ea1bceda65b00917788b5fc5034e6d1c1999ea1dd3538500e54f1763&width=320" alt="Omslag van 'Vanilla'" title="Omslag van 'Vanilla'">
+<p>Na een pijnlijke break-up verhuist de ietwat neurotische Jip met zijn twee beste vrienden naar – waar anders? – Amsterdam. Daar kan Jip volgens zijn vrienden van het leven gaan genieten. Alleen heeft hij op het gebied van seks nog nooit iets spannends meegemaakt. Hij is wat ze noemen: vanilla.  Jip wil zelf het liefst zo snel mogelijk weer een vaste relatie; of liever nog, terug naar zijn ex. Maar als hij op een avond somber en dronken een feestje verlaat, ontmoet hij een mysterieuze figuur die hem een verleidelijk aanbod doet: als Jip op twaalf betekenisloze seksdates gaat, zal hij verlost worden van zijn liefdesverdriet.  Wat volgt is een ontdekkingsreis langs de rafelranden van de gay datingwereld: van cardates tot groepsseks, en van roleplay tot diepe gesprekken over intimiteit. Tijdens zijn reeks absurde, geile en soms tragische dates, ontdekt Jip wie hij is en wat hij écht wil. Vanilla is een verhaal over een jongen die alles verliest om zichzelf terug te vinden.  Driessen maakte eerder de fotoroman Het nadeel van de twijfel, dat in meerdere landen werd uitgegeven. 'Ik ben altijd benieuwd naar wat Ype Driessen verzint, dus ook naar dit boek!' Paulien Cornelisse 'Een van de beste en meest gedurfde graphic novels van de zomer.' The Washington Post over Het nadeel van de twijfel </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ype Driessen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scherpschutter]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46081219X/scherpschutter-dan-ames</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46081219X/scherpschutter-dan-ames"/>
+        <updated>2026-06-22T12:44:10.970Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46081219X?aid=kb-online-bibliotheek&sid=21&dts=1782132250159&sig=19b08a985d13314aeedd9c323202c9d589884c0911c804a593770be28868d974&width=320" alt="Omslag van 'Scherpschutter'" title="Omslag van 'Scherpschutter'">
+<p>Scherpschutter is het vijftiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher.    Terwijl een sluipschutter om zich heen begint te schieten, ontdekt voormalig FBI-agent Lauren Pauling dat iemand het waarschijnlijk heeft voorzien op Jack Reacher wegens mogelijke oorlogsmisdaden. Maar zijn de zaken verbonden?  Michael Tallon hoort ondertussen dat het sluipschutter-incident wellicht een link heeft met zijn eigen verleden. Dit zet alles compleet op zijn kop.  'Dit verhaal gaat sneller dan een afgevuurde kogel, en komt net zo hard aan.' Apple Books </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dan Ames</name>
         </author>
     </entry>
     <entry>
@@ -204,39 +259,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fiësta]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812041/fi%C3%ABsta-sarah-engels</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812041/fi%C3%ABsta-sarah-engels"/>
-        <updated>2026-06-22T12:44:14.841Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812041?aid=kb-online-bibliotheek&sid=21&dts=1782131717126&sig=89c95270230d7efdb233b08d40a549d8aeacb3ebc63fcc3db835fd967c3ab670&width=320" alt="Omslag van 'Fiësta'" title="Omslag van 'Fiësta'">
-<p>Een razend spannende nieuwe zomerthriller voor de lezers van Linda van Rijn, Noortje Brink en Kiki van Dijk. Elles is vrij. Na een jarenlange vechtscheiding is ze eindelijk af van haar overspelige ex Michel. Dat mag gevierd worden, dus als haar vriendin Regina vraagt of ze een weekje meegaat naar het Spaanse Begur, zegt ze meteen ja. De Spaanse kustplaats vormt de ideale ontsnapping: zee en strand worden afgewisseld door betoverende, eeuwenoude architectuur. Elles en Regina worden al snel meegevoerd in het Fira d'Indians, een kleurrijk straatfeest dat elk jaar in Begur plaatsvindt. Ondanks de vrolijke stemming in de stad bekruipt Elles toch een ongemakkelijk gevoel. Ze krijgt vreemde blikken toegeworpen van de locals, en haar ex blijft haar maar berichtjes sturen, ondanks het contactverbod. En waarom lijkt het alsof er elke keer dat ze omkijkt er net iemand uit haar blikveld wegglipt? Tussen de gepleisterde witte villa's en feestende vakantiegangers laait een oude vete weer op en wordt Elles geconfronteerd met een onmogelijke beslissing. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sarah Engels</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scherpschutter]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46081219X/scherpschutter-dan-ames</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46081219X/scherpschutter-dan-ames"/>
-        <updated>2026-06-22T12:44:10.970Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46081219X?aid=kb-online-bibliotheek&sid=21&dts=1782132250159&sig=19b08a985d13314aeedd9c323202c9d589884c0911c804a593770be28868d974&width=320" alt="Omslag van 'Scherpschutter'" title="Omslag van 'Scherpschutter'">
-<p>Scherpschutter is het vijftiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher.    Terwijl een sluipschutter om zich heen begint te schieten, ontdekt voormalig FBI-agent Lauren Pauling dat iemand het waarschijnlijk heeft voorzien op Jack Reacher wegens mogelijke oorlogsmisdaden. Maar zijn de zaken verbonden?  Michael Tallon hoort ondertussen dat het sluipschutter-incident wellicht een link heeft met zijn eigen verleden. Dit zet alles compleet op zijn kop.  'Dit verhaal gaat sneller dan een afgevuurde kogel, en komt net zo hard aan.' Apple Books </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Ames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verdwenen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812084/verdwenen-dan-ames</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812084/verdwenen-dan-ames"/>
-        <updated>2026-06-22T12:44:11.879Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812084?aid=kb-online-bibliotheek&sid=21&dts=1782132251045&sig=69c296dcd6fe0fa6c2d7f922b1329c143e03fcf9b92cd47525aada955eba5fa6&width=320" alt="Omslag van 'Verdwenen'" title="Omslag van 'Verdwenen'">
-<p>Verdwenen is het zestiende deel van de Jack Reacher Cases, geschreven door Dan Ames. Het speelt zich af in de wereld van Lee Childs Jack Reacher. Voormalig FBI-agent Lauren Pauling wordt gevraagd om onderzoek te doen naar de vermissing van een jonge vrouw in Parijs. Het duurt niet lang of ze ontdekt een link met Jack Reacher. En dat kan maar één ding betekenen: problemen.  Voor ze er erg in heeft, wordt Pauling het doelwit van een huurmoordenaar. Zo start een thriller vol actie.  'Het plot raast vooruit met een razendsnel tempo. Goede actiescènes – dit is een must-read!' Amazon.com </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Ames</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De schoonzus]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460812025/de-schoonzus-sue-watson</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460812025/de-schoonzus-sue-watson"/>
@@ -249,17 +271,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vanilla]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812068/vanilla-ype-driessen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812068/vanilla-ype-driessen"/>
-        <updated>2026-06-22T12:44:07.013Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812068?aid=kb-online-bibliotheek&sid=21&dts=1782132246169&sig=aa04dca5ea1bceda65b00917788b5fc5034e6d1c1999ea1dd3538500e54f1763&width=320" alt="Omslag van 'Vanilla'" title="Omslag van 'Vanilla'">
-<p>Na een pijnlijke break-up verhuist de ietwat neurotische Jip met zijn twee beste vrienden naar – waar anders? – Amsterdam. Daar kan Jip volgens zijn vrienden van het leven gaan genieten. Alleen heeft hij op het gebied van seks nog nooit iets spannends meegemaakt. Hij is wat ze noemen: vanilla.  Jip wil zelf het liefst zo snel mogelijk weer een vaste relatie; of liever nog, terug naar zijn ex. Maar als hij op een avond somber en dronken een feestje verlaat, ontmoet hij een mysterieuze figuur die hem een verleidelijk aanbod doet: als Jip op twaalf betekenisloze seksdates gaat, zal hij verlost worden van zijn liefdesverdriet.  Wat volgt is een ontdekkingsreis langs de rafelranden van de gay datingwereld: van cardates tot groepsseks, en van roleplay tot diepe gesprekken over intimiteit. Tijdens zijn reeks absurde, geile en soms tragische dates, ontdekt Jip wie hij is en wat hij écht wil. Vanilla is een verhaal over een jongen die alles verliest om zichzelf terug te vinden.  Driessen maakte eerder de fotoroman Het nadeel van de twijfel, dat in meerdere landen werd uitgegeven. 'Ik ben altijd benieuwd naar wat Ype Driessen verzint, dus ook naar dit boek!' Paulien Cornelisse 'Een van de beste en meest gedurfde graphic novels van de zomer.' The Washington Post over Het nadeel van de twijfel </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ype Driessen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lente - Ver van huis]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460812009/lente---ver-van-huis-tamara-postma</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460812009/lente---ver-van-huis-tamara-postma"/>
@@ -268,6 +279,28 @@
 <p>Ver van huis is het achttiende deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Wanneer Ava's leven volledig op zijn kop komt te staan, rest haar nog maar één uitweg: vluchten. Halsoverkop laat ze alles achter wat haar ooit vertrouwd was en vertrekt naar New York, de stad die haar zowel vrijheid als anonimiteit belooft. Voor de mensen die ze achterlaat, lijkt ze spoorloos verdwenen – niemand weet waar ze is of waarom ze vertrokken is. In New York probeert Ava de scherven van haar bestaan opnieuw aan elkaar te lijmen en een nieuw begin te maken. Maar terwijl de bruisende stad haar lonkt met nieuwe kansen en beloften van geluk, blijven de schaduwen van haar verleden haar achtervolgen. Want hoe ver je ook reist, sommige geheimen vinden altijd een manier om je in te halen. Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Tamara Postma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiësta]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812041/fi%C3%ABsta-sarah-engels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812041/fi%C3%ABsta-sarah-engels"/>
+        <updated>2026-06-22T12:44:14.841Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812041?aid=kb-online-bibliotheek&sid=21&dts=1782131717126&sig=89c95270230d7efdb233b08d40a549d8aeacb3ebc63fcc3db835fd967c3ab670&width=320" alt="Omslag van 'Fiësta'" title="Omslag van 'Fiësta'">
+<p>Een razend spannende nieuwe zomerthriller voor de lezers van Linda van Rijn, Noortje Brink en Kiki van Dijk. Elles is vrij. Na een jarenlange vechtscheiding is ze eindelijk af van haar overspelige ex Michel. Dat mag gevierd worden, dus als haar vriendin Regina vraagt of ze een weekje meegaat naar het Spaanse Begur, zegt ze meteen ja. De Spaanse kustplaats vormt de ideale ontsnapping: zee en strand worden afgewisseld door betoverende, eeuwenoude architectuur. Elles en Regina worden al snel meegevoerd in het Fira d'Indians, een kleurrijk straatfeest dat elk jaar in Begur plaatsvindt. Ondanks de vrolijke stemming in de stad bekruipt Elles toch een ongemakkelijk gevoel. Ze krijgt vreemde blikken toegeworpen van de locals, en haar ex blijft haar maar berichtjes sturen, ondanks het contactverbod. En waarom lijkt het alsof er elke keer dat ze omkijkt er net iemand uit haar blikveld wegglipt? Tussen de gepleisterde witte villa's en feestende vakantiegangers laait een oude vete weer op en wordt Elles geconfronteerd met een onmogelijke beslissing. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sarah Engels</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stille branding]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460812157/stille-branding-lea-jansen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460812157/stille-branding-lea-jansen"/>
+        <updated>2026-06-22T12:44:08.018Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812157?aid=kb-online-bibliotheek&sid=21&dts=1782131448213&sig=70ace498de1e8a64999671cda80c46dfc024f5f59eea9e8c4c4bf1f2e05b0d5f&width=320" alt="Omslag van 'Stille branding'" title="Omslag van 'Stille branding'">
+<p>In Stille Branding, het eerste boek in de spannende Noordzeemoorden-serie van Duitse bestsellerauteur Lea Jansen, wordt het pittoreske Noordzee-eiland Sylt opgeschrikt door een dramatisch sterfgeval. Hoofdcommissaris Nele Petersen moet de dood van de beroemde schrijver Johannes Falkenberg oplossen, maar wat aanvankelijk lijkt op een tragische zelfmoord, blijkt al snel onderdeel te zijn van een duister geheim dat verband lijkt te houden met oude onopgeloste moordzaak.  Samen met de jonge, en aantrekkelijke, hoofdcommissaris Ole Schiller stuit Nele op een muur van stilzwijgen, want zowel de broer van het vroegere slachtoffer als leden van de invloedrijke Sylt-clique lijken de waarheid achter te houden. Hoe intensiever het onderzoek wordt, hoe meer het duo zelf in het vizier komt van een dader die voor niets terugdeinst om zijn identiteit te verbergen. Zal Nele erin slagen de schaduwen van het verleden op te lichten en verdere moorden te voorkomen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lea Jansen</name>
         </author>
     </entry>
     <entry>
@@ -293,47 +326,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het vertrek]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812343/het-vertrek-kevin-hassing</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812343/het-vertrek-kevin-hassing"/>
-        <updated>2026-06-22T12:44:06.050Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812343?aid=kb-online-bibliotheek&sid=21&dts=1782132245466&sig=26cff679aa58ce868e740e4d7b2f95504462898852ea447923a07abd38be5189&width=320" alt="Omslag van 'Het vertrek'" title="Omslag van 'Het vertrek'">
-<p>Drievoudig Kinderjury-winnaar Kevin Hassing (bekend van o.a. Mus & kapitein Kwaadbaard en het Kinderboekenweekgeschenk Lexie) verrast zijn lezers op een nieuwe avontuurlijke serie. Ruby Crusoe – Het vertrek is het eerste deel en gaat over de twaalfjarige Ruby, dochter van de beroemde schipbreukeling Robinson Crusoe. Terwijl haar broers huiveren bij de overlevingsverhalen van hun vader, verlangt Ruby naar één ding: ook overleven op een eiland. Dus springt ze stiekem aan boord van een schip, om weken later op een onbewoond eiland te stranden. Algauw ontdekt ze dat overleven zwaar en eenzaam is. Net wanneer ze de moed dreigt te verliezen, doet ze een angstaanjagende ontdekking… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het Strandfeest]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460804863/het-strandfeest-nikki-smith</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460804863/het-strandfeest-nikki-smith"/>
+        <updated>2026-06-29T11:53:27.047Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460804863?aid=kb-online-bibliotheek&sid=21&dts=1782659730164&sig=d3fb4f21e045c8b96b9010579aece7526f2ca195a763775e8b0d92ebd7f9b79f&width=320" alt="Omslag van 'Het Strandfeest'" title="Omslag van 'Het Strandfeest'">
+<p>1989: De muziek is luid en de outfits zijn evenmin subtiel. In de zomer van dit jaar arriveert een vriendengroep op Mallorca, om in een luxe villa hun eindexamens te vieren. Een groot strandfeest moet het hoogtepunt van de vakantie worden. Maar in het feestgedruis – met stuivend zand door dansende voeten, glinsterend water en feestgangers die van jachten af duiken – gebeurt er een ongeluk. Van het ene op het andere moment verandert een droomnacht in een nachtmerrie. </p><p>En nu… Nu verzwijgen alle betrokkenen de waarheid over deze zomer. Maar toch weet iemand wat er gebeurd is. En die wil dat de vrienden boeten voor wat ze hebben gedaan...  'Spannend, verrassend en met een heerlijke jaren 80-sfeer.’ – Chris Whitaker, auteur van De kleuren van het donker</p><p>‘Knettert van de suspense, het perfecte boek voor de zomer.’ – B. A. Paris, auteur van Achter gesloten deuren </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Kevin Hassing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lente - Het laatste zomerkind]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460811975/lente---het-laatste-zomerkind-tamara-postma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460811975/lente---het-laatste-zomerkind-tamara-postma"/>
-        <updated>2026-06-22T12:44:08.583Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460811975?aid=kb-online-bibliotheek&sid=21&dts=1782132248090&sig=3b4e3bebcc2cb60c92adfdb9bae202b21c41a1ed08add82027740fd84e33e71b&width=320" alt="Omslag van 'Lente - Het laatste zomerkind'" title="Omslag van 'Lente - Het laatste zomerkind'">
-<p>Het laatste zomerkind is het twintigste en laatste deel van de Seizoenenreeks van Tamara Postma, auteur van de succesvolle romanceserie Oxymoron.  Op de ochtend van haar vijfentwintigste verjaardag voelt Ava dat er iets moet veranderen. Ze besluit dat dit háár jaar gaat worden – het moment waarop ze eindelijk de regie over haar leven terugpakt. Geen uitstel meer, geen vluchtpogingen. Haar dromen zijn te groot om nog langer te laten overschaduwen door angst. Maar om vooruit te kunnen kijken, moet Ava eerst de schaduwen van het verleden trotseren: de nachtmerries die haar 's nachts wakker houden en de wonden die nooit helemaal zijn geheeld. Pas wanneer ze die demonen onder ogen durft te zien, kan ze ontdekken of er ruimte is voor iets nieuws. Zal dit het jaar worden waarin Ava eindelijk de liefde vindt – en de rust waar ze al die jaren zo naar heeft verlangd? Duik in het leven van vier generaties vrouwen uit één familie, in een meeslepende en verslavende dramaserie vol geheimen, liefde en verlies. De Seizoenenreeks is een serie die je niet meer loslaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamara Postma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stille branding]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812157/stille-branding-lea-jansen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812157/stille-branding-lea-jansen"/>
-        <updated>2026-06-22T12:44:08.018Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812157?aid=kb-online-bibliotheek&sid=21&dts=1782131448213&sig=70ace498de1e8a64999671cda80c46dfc024f5f59eea9e8c4c4bf1f2e05b0d5f&width=320" alt="Omslag van 'Stille branding'" title="Omslag van 'Stille branding'">
-<p>In Stille Branding, het eerste boek in de spannende Noordzeemoorden-serie van Duitse bestsellerauteur Lea Jansen, wordt het pittoreske Noordzee-eiland Sylt opgeschrikt door een dramatisch sterfgeval. Hoofdcommissaris Nele Petersen moet de dood van de beroemde schrijver Johannes Falkenberg oplossen, maar wat aanvankelijk lijkt op een tragische zelfmoord, blijkt al snel onderdeel te zijn van een duister geheim dat verband lijkt te houden met oude onopgeloste moordzaak.  Samen met de jonge, en aantrekkelijke, hoofdcommissaris Ole Schiller stuit Nele op een muur van stilzwijgen, want zowel de broer van het vroegere slachtoffer als leden van de invloedrijke Sylt-clique lijken de waarheid achter te houden. Hoe intensiever het onderzoek wordt, hoe meer het duo zelf in het vizier komt van een dader die voor niets terugdeinst om zijn identiteit te verbergen. Zal Nele erin slagen de schaduwen van het verleden op te lichten en verdere moorden te voorkomen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lea Jansen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De verdwenen dochter]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460812335/de-verdwenen-dochter-lauren-north</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460812335/de-verdwenen-dochter-lauren-north"/>
-        <updated>2026-06-22T12:44:05.383Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460812335?aid=kb-online-bibliotheek&sid=21&dts=1782131782943&sig=dc28440427a62aa28b25f4c2f9fc0cedcdb689bd0dac6fdfd9641d0462c656c2&width=320" alt="Omslag van 'De verdwenen dochter'" title="Omslag van 'De verdwenen dochter'">
-<p>Lees nu De verdwenen dochter, een bloedstollende psychologische thriller van Lauren North. Veertien jaar geleden eindigde onze familievakantie in een tragedie toen onze vierjarige dochter werd ontvoerd op het strand. Eén seconde keek ik weg, en ik heb het mezelf nooit vergeven. Vandaag is een zeventienjarig meisje een politiebureau bij ons in de buurt binnengelopen. Ze zegt dat ze mijn dochter is. Abigail is terug. Ik kan het niet geloven. Na jaren van rouw is mijn gezin eindelijk weer compleet. Dit zou het gelukkigste moment van mijn leven moeten zijn, maar er klopt iets niet. Hoe hard ik ook probeer, ik herken de tiener voor me niet. Dan vallen er gaten in Abigails verhaal. Haar accent begint te vervagen en ik betrap haar erop dat ze neppe tranen laat voor de journalisten buiten – en ik ben er zekerder van dan ooit dat ze niet mijn dochter is. Dat ze een vreemde is. En dat we haar niet kunnen vertrouwen… Maar als dit mysterieuze meisje niet Abigail is, wie is ze dan wel – en wat wil ze van mijn familie? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lauren North</name>
+            <name>Nikki Smith</name>
         </author>
     </entry>
     <entry>
