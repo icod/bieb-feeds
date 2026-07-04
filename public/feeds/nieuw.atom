@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-07-03T09:51:33.152Z</updated>
+    <updated>2026-07-04T09:15:43.790Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Ik lees met de Stoute Broertjes]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691880/ik-lees-met-de-stoute-broertjes-hanneke-de-zoete</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691880/ik-lees-met-de-stoute-broertjes-hanneke-de-zoete"/>
+        <updated>2026-07-04T09:15:35.119Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691880?aid=kb-online-bibliotheek&sid=21&dts=1783140578233&sig=456b18b8735a10e99026f3ae42f5a5814d18d22d634abbf33df84c36fe62e27f&width=320" alt="Omslag van 'Ik lees met de Stoute Broertjes'" title="Omslag van 'Ik lees met de Stoute Broertjes'">
+<p>Leren lezen is nog leuker met de Stoute Broertjes! Daarom zijn er nu drie originele Stoute Broertjes-titels van oplopend niveau:</p><p></p><p>‘Ik lees met de Stoute Broertjes’: voor de allerjongste lezers in groep 2 en begin groep 3 die woorden en klanken leren herkennen. ‘Samen lezen met de Stoute Broertjes’: voor beginnende lezers die een aantal maanden leesonderwijs hebben gehad. ‘Lekker lezen met Stoute Broertjes’: voor kinderen die al ongeveer een jaar leesonderwijs hebben gehad.</p><p>  Je kent Daan en Mees misschien als de buurjongens van de Zoete Zusjes Saar en Janna. Nu kunnen ook de allerjongste lezers genieten van de avonturen van de Stoute Broertjes. Met in totaal maar liefst 144 bladzijden leesplezier zullen kinderen in groep 2 en 3 kunnen beginnen met het herkennen en lezen van de eerste letters, woordjes en zinnen. Eerst samen, en dan zelf! Natuurlijk zijn de verhalen weer opgevrolijkt met de leukste illustraties van Iris Boter.  In het eerste boekje, 'Ik lees met de Stoute Broertjes’, leren kinderen klanken en woorden herkennen met hakken en plakken. Door de simpele woorden van één lettergreep en zeer korte zinnen kunnen startende lezers beginnen met het leren herkennen van klanken en woorden en korte zinnen maken. Voor de allerjongste lezers in groep 2 en begin groep 3. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hanneke de Zoete</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lekker lezen met de Stoute Broertjes]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691856/lekker-lezen-met-de-stoute-broertjes-hanneke-de-zoete</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691856/lekker-lezen-met-de-stoute-broertjes-hanneke-de-zoete"/>
+        <updated>2026-07-04T09:15:35.601Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691856?aid=kb-online-bibliotheek&sid=21&dts=1783091901920&sig=f52544bae2cd3222a2ab2b9870cda5f8c4051173f576fc6b82ff7fc39c66251d&width=320" alt="Omslag van 'Lekker lezen met de Stoute Broertjes'" title="Omslag van 'Lekker lezen met de Stoute Broertjes'">
+<p>Mees en Daan hebben dolle pret, maar maken te veel lawaai. Hup, naar buiten. Hier kunnen ze lekker voetballen... Of toch niet? Met kleurenillustraties. Zelf lezen vanaf ca. 7 jaar.</p>]]></content>
+        <author>
+            <name>Hanneke de Zoete</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samen lezen met de Stoute Broertjes]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691384/samen-lezen-met-de-stoute-broertjes-hanneke-de-zoete</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691384/samen-lezen-met-de-stoute-broertjes-hanneke-de-zoete"/>
+        <updated>2026-07-04T09:15:36.236Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691384?aid=kb-online-bibliotheek&sid=21&dts=1783151646191&sig=71a535054cea0189cd209a93b73760a4c814b79ec53069329e69969f22ad8326&width=320" alt="Omslag van 'Samen lezen met de Stoute Broertjes'" title="Omslag van 'Samen lezen met de Stoute Broertjes'">
+<p>Toneelleesboek met vier verhalen over de Stoute Broertjes Daan en Mees. Met kleurenillustraties. Samen lezen vanaf ca. 6 jaar.</p>]]></content>
+        <author>
+            <name>Hanneke de Zoete</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Communication Theory]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/46092964X/communication-theory-d%C3%A9sir%C3%A9e-van-osch---ren%C3%A9e-van-zijl</id>
@@ -45,6 +78,81 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Getrouwd met de Spanjaard]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460929704/getrouwd-met-de-spanjaard-lynne-graham</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460929704/getrouwd-met-de-spanjaard-lynne-graham"/>
+        <updated>2026-07-03T09:51:22.724Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929704?aid=kb-online-bibliotheek&sid=21&dts=1783072282105&sig=b086b6a5daf0090fab6e4c8f9497b56ff8ee31f4ce1be656206444778a86dd09&width=320" alt="Omslag van 'Getrouwd met de Spanjaard'" title="Omslag van 'Getrouwd met de Spanjaard'">
+<p>Getrouwd met de Spanjaard: een heerlijk romantisch verhaal om jouw zwoele zomeravond helemaal af te maken!Om allerlei lastige vragen over zijn zelfverkozen vrijgezellenstatus voor te zijn, heeft Ruy Valiente iemand nodig die als zijn verloofde mee wil gaan naar een familiebruiloft. Wanneer hij de onschuldige en zeer aantrekkelijke Suzy redt uit een penibele situatie, denkt hij de perfecte nepverloofde gevonden te hebben. Na een nare ervaring heeft Suzy schoon genoeg van de liefde. Dus staat het zakelijke voorstel van Ruy haar wel aan: hij biedt haar hulp en onderdak en zij doet een paar dagen net alsof ze met hem gaat trouwen. Ze had er alleen niet op gerekend dat de sexy Spaanse miljardair haar al bij de eerste, voorzichtige oefenkus zo in vuur en vlam zou zetten!Dit boek is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lynne Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De enige echte cowboy]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460929771/de-enige-echte-cowboy-maisey-yates</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460929771/de-enige-echte-cowboy-maisey-yates"/>
+        <updated>2026-07-03T09:51:24.171Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929771?aid=kb-online-bibliotheek&sid=21&dts=1783072283618&sig=4815fb11daeb0fcce9d879c2c7c600b490a98fd0ed04a13d40c91598fa769ebf&width=320" alt="Omslag van 'De enige echte cowboy'" title="Omslag van 'De enige echte cowboy'">
+<p>Gold Valley: small town romance… met cowboys! Gold Valley, Oregon. Een klein stadje tussen de bergen, omringd door ranches. Waar de cowboys stoer zijn en hard werken – en de juiste vrouw nodig hebben om hen te temmen!</p><p>Deel 5De enige echte cowboy Als stierenrijder kan Dane Parker wel tegen een stootje – totdat die ene stier hem goed te grazen nam. Tot zijn grote ergernis is hij nu al maanden uit de running om te herstellen van zijn verwondingen. En hoe lief ze het ook bedoelt, hij zit er totaal niet op te wachten dat zijn goede vriendin Bea hem als een van haar gewonde zwerfdieren behandelt – óf dat hij zich ineens zo tot haar aangetrokken voelt! Toch kan hij niet weigeren als ze zijn hulp vraagt bij het opzetten van een opvanghuis voor wilde dieren. Alleen blijkt het nog een hele klus om een beetje afstand van haar te houden...Dit boek is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Maisey Yates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Nehalenniamoorden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460929747/de-nehalenniamoorden-jeroen-windmeijer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460929747/de-nehalenniamoorden-jeroen-windmeijer"/>
+        <updated>2026-07-03T09:51:24.517Z</updated>
+        <summary type="html"><![CDATA[Op de bodem van de Oosterschelde wordt een gruwelijke ontdekking gedaan...]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929747?aid=kb-online-bibliotheek&sid=21&dts=1783072284312&sig=8bc1655c14850615ff08572793b8ae002d61d35f0b5d37047a3a85d65087a7b8&width=320" alt="Omslag van 'De Nehalenniamoorden'" title="Omslag van 'De Nehalenniamoorden'">
+<p>Welk gevaar gaat er verscholen in de diepte van de Oosterschelde? Bij een duik in de Oosterschelde doen onderzoekers Lex en Leonie een afschuwelijke vondst. Op de bodem van de zeearm bevindt zich niet alleen een eeuwen geleden verzonken tempel, maar ook het lichaam van een vermoorde vrouw. Niet lang daarna worden er vernielingen aangebracht aan de replica van een tempel op Colijnsplaat. Beide tempels houden verband met de Zeeuwse godin Nehalennia. Wat hebben de dode vrouw en de godin met elkaar te maken? En is het toeval dat deze twee duikers het lichaam vonden? De spanning stijgt tot een hoogtepunt als er kort daarop weer een slachtoffer valt… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jeroen Windmeijer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geschenken van het krentenboompje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460929666/geschenken-van-het-krentenboompje-robin-wall-kimmerer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460929666/geschenken-van-het-krentenboompje-robin-wall-kimmerer"/>
+        <updated>2026-07-03T09:51:23.297Z</updated>
+        <summary type="html"><![CDATA[Wat de natuur ons leert over geven en nemen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929666?aid=kb-online-bibliotheek&sid=21&dts=1783072282815&sig=07270de0995fb794925eb420f090a7b4e7936179dd5231b9f2ad606e7033d714&width=320" alt="Omslag van 'Geschenken van het krentenboompje'" title="Omslag van 'Geschenken van het krentenboompje'">
+<p>Geschenken van het krentenboompje is het nieuwste boek van botanicus Robin Wall Kimmerer. In dit boek gaat de auteur dieper in op de thema’s van haar bestseller Een vlecht van heilig gras (Braiding Sweetgrass) en verkent ze de geschenkeconomie, die is gebaseerd op wederkerigheid en overvloed. Door middel van rijke beschrijvingen van de natuur, waaronder de oogst van de bessen van het krentenboompje, laat Kimmerer zien hoe we wederzijdse relaties met de natuur en elkaar kunnen opbouwen. Met haar reflecties prikkelt ze lezers om anders naar consumptie te kijken en inspireert ze tot een bewuster en respectvoller gebruik van hulpbronnen. ‘Een overtuigende call to action.’ Publishers Weekly ‘Een tegengif voor de gebroken relaties en misplaatste doelen van deze tijd.’ Elizabeth Gilbert ‘Een prachtige reflectie op overvloed, wederkerigheid en gemeenschap.’ The Guardian 'Als geen ander kan zij beschrijven hoe ons leven gevoed wordt uit het lichaam van Moeder Aarde.' Susan Smit in Happinez </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Robin Wall Kimmerer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duid je dromen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460929682/duid-je-dromen-lisa-marchiano---deborah-stewart---joseph-r--lee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460929682/duid-je-dromen-lisa-marchiano---deborah-stewart---joseph-r--lee"/>
+        <updated>2026-07-03T09:51:25.217Z</updated>
+        <summary type="html"><![CDATA[Ontdek je diepste zelf, je schaduw en je potentieel]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929682?aid=kb-online-bibliotheek&sid=21&dts=1783072284614&sig=2cf90713e600624be85dc933ea885c99930a9917e0408f53ce0a504973a43c49&width=320" alt="Omslag van 'Duid je dromen'" title="Omslag van 'Duid je dromen'">
+<p>Elke nacht opent zich een wereld van archetypische beelden, onwaarschijnlijke ontmoetingen en bizarre gebeurtenissen. Dromen bevatten belangrijke boodschappen over ons levenspad – maar hoe ontcijfer je hun betekenis? Duid je dromen is een praktisch werkboek, met moderne technieken én inzichten gebaseerd op het werk van psychoanalyticus Carl Gustav Jung. In Duid je dromen wordt de lezer stap voor stap meegenomen in het analyseproces. Je leert hoe dromen je inzicht geven in je diepste zelf, je schaduw en je potentieel. Met praktische oefeningen, technieken en voorbeelden van droomanalyse laten de auteurs zien hoe je niet alleen je dromen kunt begrijpen, maar ze ook kunt gebruiken als krachtig instrument voor persoonlijke ontwikkeling. ‘Een droom is als een huis met veel prachtige, afgesloten kamers, en dit boek geeft je sleutels om hun deuren te openen.’ Uit Duid je dromen </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lisa Marchiano</name>
+        </author>
+        <author>
+            <name>Deborah Stewart</name>
+        </author>
+        <author>
+            <name>Joseph R. Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kerst met de cowboy]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460929690/kerst-met-de-cowboy-maisey-yates</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460929690/kerst-met-de-cowboy-maisey-yates"/>
+        <updated>2026-07-03T09:51:23.540Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929690?aid=kb-online-bibliotheek&sid=21&dts=1783072283372&sig=d71908863507f21b9d71000a29e922a31055f2499b2ea2ffa1b4a5784b16f271&width=320" alt="Omslag van 'Kerst met de cowboy'" title="Omslag van 'Kerst met de cowboy'">
+<p>Gold Valley: small town romance… met cowboys! Gold Valley, Oregon. Een klein stadje tussen de bergen, omringd door ranches. Waar de cowboys stoer zijn en hard werken – en de juiste vrouw nodig hebben om hen te temmen! Deel 4 Kerst met de cowboy Grant Dodge had nooit verwacht een slapende vrouw te vinden in een van de vakantiehuisjes op de Dodge Ranch, en al helemaal niet zo’n aantrekkelijke! Een enorm pluspunt is dat deze McKenna Tate – als ongeveer de enige vrouw in de hele omgeving – er niet van op de hoogte lijkt dat hij weduwnaar is. Nee, in háár ogen ziet hij iets totaal anders dan medelijden, namelijk passie! Het perfecte kerstcadeau, als je het hem vraagt: een vrijblijvende flirt met een beeldschone vrouw. Maar kan hij haar na de feestdagen wel weer laten gaan, of is dit het begin van een heleboel Kerstmissen samen?Dit boek is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Maisey Yates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cowboy met charme]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460929674/cowboy-met-charme-maisey-yates</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460929674/cowboy-met-charme-maisey-yates"/>
@@ -78,235 +186,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getrouwd met de Spanjaard]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460929704/getrouwd-met-de-spanjaard-lynne-graham</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460929704/getrouwd-met-de-spanjaard-lynne-graham"/>
-        <updated>2026-07-03T09:51:22.724Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929704?aid=kb-online-bibliotheek&sid=21&dts=1783072282105&sig=b086b6a5daf0090fab6e4c8f9497b56ff8ee31f4ce1be656206444778a86dd09&width=320" alt="Omslag van 'Getrouwd met de Spanjaard'" title="Omslag van 'Getrouwd met de Spanjaard'">
-<p>Getrouwd met de Spanjaard: een heerlijk romantisch verhaal om jouw zwoele zomeravond helemaal af te maken!Om allerlei lastige vragen over zijn zelfverkozen vrijgezellenstatus voor te zijn, heeft Ruy Valiente iemand nodig die als zijn verloofde mee wil gaan naar een familiebruiloft. Wanneer hij de onschuldige en zeer aantrekkelijke Suzy redt uit een penibele situatie, denkt hij de perfecte nepverloofde gevonden te hebben. Na een nare ervaring heeft Suzy schoon genoeg van de liefde. Dus staat het zakelijke voorstel van Ruy haar wel aan: hij biedt haar hulp en onderdak en zij doet een paar dagen net alsof ze met hem gaat trouwen. Ze had er alleen niet op gerekend dat de sexy Spaanse miljardair haar al bij de eerste, voorzichtige oefenkus zo in vuur en vlam zou zetten!Dit boek is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Zonsopgang in Half Moon Bay]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627275/zonsopgang-in-half-moon-bay-robyn-carr</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627275/zonsopgang-in-half-moon-bay-robyn-carr"/>
+        <updated>2026-07-04T09:15:36.855Z</updated>
+        <summary type="html"><![CDATA[Na een ingrijpende gebeurtenis hebben twee zussen elkaar harder nodig dan ooit]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627275?aid=kb-online-bibliotheek&sid=21&dts=1783089442642&sig=f95fb40c2ecdbc2ef30e067a8ba9188f04d8fbffd23a4204acb7235c0d9058a0&width=320" alt="Omslag van 'Zonsopgang in Half Moon Bay'" title="Omslag van 'Zonsopgang in Half Moon Bay'">
+<p>Zonsopgang in Half Moon Bay van bestsellerauteur Robyn Carr is een heerlijk romantisch verhaal waarin twee zussen centraal staan. De zussen Adele en Justine verschillen nogal in leeftijd, en daarom zijn ze nooit heel close geweest. Toen Adele met haar studie stopte om voor hun zieke ouders te gaan zorgen, nam Justine – een succesvolle advocaat – alle kosten voor haar rekening. Nu hun vader en moeder er niet meer zijn, moeten ze hun leven een nieuwe richting geven. Adele weet het even niet meer zo goed, na al die jaren voor haar ouders te hebben gezorgd. Ook Justine heeft het moeilijk. Hoe ze het ook proberen, haar huwelijk lijkt haar te ontglippen… Gelukkig vinden ze steun bij elkaar en ontdekken ze voor het eerst hoe waardevol het is om zussen te zijn. ‘Robyn Carrs schrijftalent spat van elke pagina.’ Publisher’s Weekly </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lynne Graham</name>
+            <name>Robyn Carr</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geschenken van het krentenboompje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460929666/geschenken-van-het-krentenboompje-robin-wall-kimmerer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460929666/geschenken-van-het-krentenboompje-robin-wall-kimmerer"/>
-        <updated>2026-07-03T09:51:23.297Z</updated>
-        <summary type="html"><![CDATA[Wat de natuur ons leert over geven en nemen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929666?aid=kb-online-bibliotheek&sid=21&dts=1783072282815&sig=07270de0995fb794925eb420f090a7b4e7936179dd5231b9f2ad606e7033d714&width=320" alt="Omslag van 'Geschenken van het krentenboompje'" title="Omslag van 'Geschenken van het krentenboompje'">
-<p>Geschenken van het krentenboompje is het nieuwste boek van botanicus Robin Wall Kimmerer. In dit boek gaat de auteur dieper in op de thema’s van haar bestseller Een vlecht van heilig gras (Braiding Sweetgrass) en verkent ze de geschenkeconomie, die is gebaseerd op wederkerigheid en overvloed. Door middel van rijke beschrijvingen van de natuur, waaronder de oogst van de bessen van het krentenboompje, laat Kimmerer zien hoe we wederzijdse relaties met de natuur en elkaar kunnen opbouwen. Met haar reflecties prikkelt ze lezers om anders naar consumptie te kijken en inspireert ze tot een bewuster en respectvoller gebruik van hulpbronnen. ‘Een overtuigende call to action.’ Publishers Weekly ‘Een tegengif voor de gebroken relaties en misplaatste doelen van deze tijd.’ Elizabeth Gilbert ‘Een prachtige reflectie op overvloed, wederkerigheid en gemeenschap.’ The Guardian 'Als geen ander kan zij beschrijven hoe ons leven gevoed wordt uit het lichaam van Moeder Aarde.' Susan Smit in Happinez </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Voor altijd verbonden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446906743/voor-altijd-verbonden-caroline-anderson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446906743/voor-altijd-verbonden-caroline-anderson"/>
+        <updated>2026-07-04T09:15:37.502Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906743?aid=kb-online-bibliotheek&sid=21&dts=1783156536984&sig=5603608028fc7f78a502b7fb393d973b9f47ca9d3c8dba5ff62338eacee73299&width=320" alt="Omslag van 'Voor altijd verbonden'" title="Omslag van 'Voor altijd verbonden'">
+<p>Toen Lindsey bijna verdronk......is ze gered door dokter Matthew. Sindsdien heeft ze hem nooit kunnen vergeten en ze is zelfs vanwege hem arts geworden. Toch is ze erg verrast wanneer ze hem weer ziet op de eerste dag van haar nieuwe baan... in zíjn praktijk!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Robin Wall Kimmerer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerst met de cowboy]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460929690/kerst-met-de-cowboy-maisey-yates</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460929690/kerst-met-de-cowboy-maisey-yates"/>
-        <updated>2026-07-03T09:51:23.540Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929690?aid=kb-online-bibliotheek&sid=21&dts=1783072283372&sig=d71908863507f21b9d71000a29e922a31055f2499b2ea2ffa1b4a5784b16f271&width=320" alt="Omslag van 'Kerst met de cowboy'" title="Omslag van 'Kerst met de cowboy'">
-<p>Gold Valley: small town romance… met cowboys! Gold Valley, Oregon. Een klein stadje tussen de bergen, omringd door ranches. Waar de cowboys stoer zijn en hard werken – en de juiste vrouw nodig hebben om hen te temmen! Deel 4 Kerst met de cowboy Grant Dodge had nooit verwacht een slapende vrouw te vinden in een van de vakantiehuisjes op de Dodge Ranch, en al helemaal niet zo’n aantrekkelijke! Een enorm pluspunt is dat deze McKenna Tate – als ongeveer de enige vrouw in de hele omgeving – er niet van op de hoogte lijkt dat hij weduwnaar is. Nee, in háár ogen ziet hij iets totaal anders dan medelijden, namelijk passie! Het perfecte kerstcadeau, als je het hem vraagt: een vrijblijvende flirt met een beeldschone vrouw. Maar kan hij haar na de feestdagen wel weer laten gaan, of is dit het begin van een heleboel Kerstmissen samen?Dit boek is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Maisey Yates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De enige echte cowboy]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460929771/de-enige-echte-cowboy-maisey-yates</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460929771/de-enige-echte-cowboy-maisey-yates"/>
-        <updated>2026-07-03T09:51:24.171Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929771?aid=kb-online-bibliotheek&sid=21&dts=1783072283618&sig=4815fb11daeb0fcce9d879c2c7c600b490a98fd0ed04a13d40c91598fa769ebf&width=320" alt="Omslag van 'De enige echte cowboy'" title="Omslag van 'De enige echte cowboy'">
-<p>Gold Valley: small town romance… met cowboys! Gold Valley, Oregon. Een klein stadje tussen de bergen, omringd door ranches. Waar de cowboys stoer zijn en hard werken – en de juiste vrouw nodig hebben om hen te temmen!</p><p>Deel 5De enige echte cowboy Als stierenrijder kan Dane Parker wel tegen een stootje – totdat die ene stier hem goed te grazen nam. Tot zijn grote ergernis is hij nu al maanden uit de running om te herstellen van zijn verwondingen. En hoe lief ze het ook bedoelt, hij zit er totaal niet op te wachten dat zijn goede vriendin Bea hem als een van haar gewonde zwerfdieren behandelt – óf dat hij zich ineens zo tot haar aangetrokken voelt! Toch kan hij niet weigeren als ze zijn hulp vraagt bij het opzetten van een opvanghuis voor wilde dieren. Alleen blijkt het nog een hele klus om een beetje afstand van haar te houden...Dit boek is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Maisey Yates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Nehalenniamoorden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460929747/de-nehalenniamoorden-jeroen-windmeijer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460929747/de-nehalenniamoorden-jeroen-windmeijer"/>
-        <updated>2026-07-03T09:51:24.517Z</updated>
-        <summary type="html"><![CDATA[Op de bodem van de Oosterschelde wordt een gruwelijke ontdekking gedaan...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929747?aid=kb-online-bibliotheek&sid=21&dts=1783072284312&sig=8bc1655c14850615ff08572793b8ae002d61d35f0b5d37047a3a85d65087a7b8&width=320" alt="Omslag van 'De Nehalenniamoorden'" title="Omslag van 'De Nehalenniamoorden'">
-<p>Welk gevaar gaat er verscholen in de diepte van de Oosterschelde? Bij een duik in de Oosterschelde doen onderzoekers Lex en Leonie een afschuwelijke vondst. Op de bodem van de zeearm bevindt zich niet alleen een eeuwen geleden verzonken tempel, maar ook het lichaam van een vermoorde vrouw. Niet lang daarna worden er vernielingen aangebracht aan de replica van een tempel op Colijnsplaat. Beide tempels houden verband met de Zeeuwse godin Nehalennia. Wat hebben de dode vrouw en de godin met elkaar te maken? En is het toeval dat deze twee duikers het lichaam vonden? De spanning stijgt tot een hoogtepunt als er kort daarop weer een slachtoffer valt… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jeroen Windmeijer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duid je dromen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460929682/duid-je-dromen-lisa-marchiano---deborah-stewart---joseph-r--lee</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460929682/duid-je-dromen-lisa-marchiano---deborah-stewart---joseph-r--lee"/>
-        <updated>2026-07-03T09:51:25.217Z</updated>
-        <summary type="html"><![CDATA[Ontdek je diepste zelf, je schaduw en je potentieel]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460929682?aid=kb-online-bibliotheek&sid=21&dts=1783072284614&sig=2cf90713e600624be85dc933ea885c99930a9917e0408f53ce0a504973a43c49&width=320" alt="Omslag van 'Duid je dromen'" title="Omslag van 'Duid je dromen'">
-<p>Elke nacht opent zich een wereld van archetypische beelden, onwaarschijnlijke ontmoetingen en bizarre gebeurtenissen. Dromen bevatten belangrijke boodschappen over ons levenspad – maar hoe ontcijfer je hun betekenis? Duid je dromen is een praktisch werkboek, met moderne technieken én inzichten gebaseerd op het werk van psychoanalyticus Carl Gustav Jung. In Duid je dromen wordt de lezer stap voor stap meegenomen in het analyseproces. Je leert hoe dromen je inzicht geven in je diepste zelf, je schaduw en je potentieel. Met praktische oefeningen, technieken en voorbeelden van droomanalyse laten de auteurs zien hoe je niet alleen je dromen kunt begrijpen, maar ze ook kunt gebruiken als krachtig instrument voor persoonlijke ontwikkeling. ‘Een droom is als een huis met veel prachtige, afgesloten kamers, en dit boek geeft je sleutels om hun deuren te openen.’ Uit Duid je dromen </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lisa Marchiano</name>
-        </author>
-        <author>
-            <name>Deborah Stewart</name>
-        </author>
-        <author>
-            <name>Joseph R. Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De ochtendnevel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44334910X/de-ochtendnevel-johanna-mo</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44334910X/de-ochtendnevel-johanna-mo"/>
-        <updated>2026-07-03T09:51:25.642Z</updated>
-        <summary type="html"><![CDATA[Een eiland kan alles van je afnemen. Behalve de waarheid...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44334910X?aid=kb-online-bibliotheek&sid=21&dts=1783072284383&sig=796af209dd25ff798b7bd2f68494f4c0641ae920bd1e1e48a7cb461070329f4c&width=320" alt="Omslag van 'De ochtendnevel'" title="Omslag van 'De ochtendnevel'">
-<p>Intrige en mysterie op een Zweeds eiland, De ochtendnevel van Johanna is het nieuwe boek in de #1 bestseller-serie.De rechtszaak waar rechercheur Hanna Duncker zo lang op heeft moeten wachten is eindelijk begonnen. Dankzij haar inspanningen zal haar vader binnenkort worden vrijgepleit, waardoor ze niet langer door het leven hoeft als de dochter van een veroordeelde moordenaar.Maar dan treft Ingrid, Hanna’s buurvrouw, haar jeugdliefde Vidar dood aan. Wat in eerste instantie een zelfdoding lijkt, blijkt een koelbloedige moord te zijn. Terwijl Hanna en haar collega Erik naar aanwijzingen zoeken, wordt er steeds meer bekend over het bonte verleden van Vidar. Al gauw realiseert Hanna zich dat een vonnis niet noodzakelijkerwijs verlossing betekent. Misschien loopt ze een groter gevaar dan ooit tevoren...Over eerder werk:‘De onderhuidse spanning houdt je van het begin tot het eind in zijn greep. Ik kijk nu al halsreikend uit naar het volgende deel in deze serie.’ Thrillers and More‘Een boeiend verhaal en goed uitgewerkte hoofdpersonen. Een aanwinst voor het Scandinavische schrijversgilde. De volgende delen ga ik zeker lezen.’ Josje Krol, The Read Shop </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Johanna Mo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een tweede kans in Ransom Canyon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446627232/een-tweede-kans-in-ransom-canyon-jodi-thomas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446627232/een-tweede-kans-in-ransom-canyon-jodi-thomas"/>
-        <updated>2026-07-03T09:51:25.941Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627232?aid=kb-online-bibliotheek&sid=21&dts=1783072285719&sig=2dd7d223c5e9a7b2942218c20b049bfce21b47fd7747821d4b2005aea6ee2877&width=320" alt="Omslag van 'Een tweede kans in Ransom Canyon'" title="Omslag van 'Een tweede kans in Ransom Canyon'">
-<p>Liefde en drama in een weergaloze setting: deze cowboyromance is dé opvolger van Virgin River! Drie onbekenden staan op een kruispunt in hun leven. Als íémand Angela zou kunnen laten stoppen met vluchten, dan is het Wilkes. Ondanks zijn stoere uiterlijk straalt hij veiligheid uit. Of toch… gevaar? Wilkes heeft zijn dromen opgegeven en leeft alleen nog voor de Devil’s Fork Ranch. Angela’s komst lijkt echter alles te veranderen. Lauren verlangt naar de aandacht van Lucas, de man die ooit haar leven redde. Maar als ze zelf een ander te hulp schiet, kan haar dat alles kosten – zelfs haar kans op geluk. Alle drie moeten ze beslissen: hoeveel zijn ze bereid te riskeren voor de liefde? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jodi Thomas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Als de duivel toeslaat]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446906808/als-de-duivel-toeslaat-lorraine-heath</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446906808/als-de-duivel-toeslaat-lorraine-heath"/>
-        <updated>2026-07-03T09:51:26.109Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906808?aid=kb-online-bibliotheek&sid=21&dts=1783071773337&sig=3b8105fcfc91b6c179bc5baa1c595b72db3c307fbbb97510354176f5bd804531&width=320" alt="Omslag van 'Als de duivel toeslaat'" title="Omslag van 'Als de duivel toeslaat'">
-<p>Van achterbuurt naar aristocratie...Londen, 1851Olivia Stanford, hertogin van Lovingdon, is buiten zichzelf van woede over het testament van haar man. De jonge weduwe begrijpt niet waarom hij een duivelse schurk als Jack Dodger heeft benoemd tot voogd van hun zoon. Toch zal ze moeten samenwerken met deze verderfelijke opportunist, over wie zoveel wordt geroddeld in de hoge kringen van Londen...Het duurt echter niet lang voordat de hertogin haar ijzige houding jegens Jack laat varen. Geen wonder, want met zijn ongebruikelijke aanpak weet hij ongekende gevoelens bij Olivia los te maken. Dan wordt opeens duidelijk welk geheim er achter het opmerkelijke testament schuilgaat...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lorraine Heath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nieuwe kans op geluk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446906611/nieuwe-kans-op-geluk-annie-claydon</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446906611/nieuwe-kans-op-geluk-annie-claydon"/>
-        <updated>2026-07-03T09:51:26.405Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906611?aid=kb-online-bibliotheek&sid=21&dts=1783072286204&sig=12747500404d96ded90877b7a8c1ec99e15b5df9d0019f1c2ae7c81fd4dcf578&width=320" alt="Omslag van 'Nieuwe kans op geluk'" title="Omslag van 'Nieuwe kans op geluk'">
-<p>Kiest hij voor rust… of voor haar?Rob is de stad en zijn drukke baan als chirurg in een groot ziekenhuis ontvlucht. Nu geniet hij van een rustig bestaan op het platteland. Maar dan komt Stella, zijn opvolger in het ziekenhuis, op bezoek. Een van haar patiënten heeft hulp nodig, en hij is de enige die kan helpen. Hij voelt weinig voor terugkeer naar de stad, maar merkt dat hij wél heel graag Stella veel beter zou willen leren kennen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Annie Claydon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misleid door de sexy magnaat]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44633409X/misleid-door-de-sexy-magnaat-julia-james</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44633409X/misleid-door-de-sexy-magnaat-julia-james"/>
-        <updated>2026-07-03T09:51:26.960Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44633409X?aid=kb-online-bibliotheek&sid=21&dts=1783072286496&sig=859935d835a7f51f1b5f2515714736ea853f9c41971ec95d22736e29c5799636&width=320" alt="Omslag van 'Misleid door de sexy magnaat'" title="Omslag van 'Misleid door de sexy magnaat'">
-<p>Sexy blikken van een Griekse god...Verlegen Kassia is eraan gewend om genegeerd te worden: niet alleen door haar wrede vader, maar ook door alle andere mannen – en al helemaal door iemand als sexy miljardair Damos Kallinikos. Dus voelt het bijna te mooi om waar te zijn als hij zijn zinnen op haar zet...Door Kassia te verleiden kan Damos zijn aartsvijand, haar vader, mooi te grazen nemen. Maar naarmate hij Kassia beter leert kennen, voelt zijn relatie met haar steeds minder als bedrog. En moet hij beslissen wat belangrijker is: vergelding of verlangen...  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Julia James</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gered door de sjeik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446906441/gered-door-de-sjeik-sandra-marton</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446906441/gered-door-de-sjeik-sandra-marton"/>
-        <updated>2026-07-03T09:51:27.662Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906441?aid=kb-online-bibliotheek&sid=21&dts=1783072287042&sig=7b834b9f036f7c60888b010a73409c56ad6bc2527d9dc59077fa3154de875a76&width=320" alt="Omslag van 'Gered door de sjeik'" title="Omslag van 'Gered door de sjeik'">
-<p>Financieel adviseur Megan O’Connell is de enige persoon......die het koninkrijk van sjeik Quasim kan helpen met het doorvoeren van hoognodige hervormingen. Al snel komt ze echter vanwege een eigenaardige traditie in de problemen, en is er maar één iemand die haar kan redden – de knappe Quasim!Dit verhaal is eerder verschenen </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sandra Marton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een geval van liefde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446906735/een-geval-van-liefde-fiona-lowe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446906735/een-geval-van-liefde-fiona-lowe"/>
-        <updated>2026-07-03T09:51:28.317Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906735?aid=kb-online-bibliotheek&sid=21&dts=1783072287742&sig=ab961cae4bd692c6ef2f33685526c7ad1f534b0e6dcc2b496f26c82af2936ef5&width=320" alt="Omslag van 'Een geval van liefde'" title="Omslag van 'Een geval van liefde'">
-<p>Dokter Abbie weet niet van ze van hem moet denken...Eerst geeft arrogante chirurg Leo haar de schuld van het hartinfarct van zijn grootmoeder, dan stelt hij haar voor om samen de nacht door te brengen! Abbie doet echt niet aan onenightstands, maar Leo’s Italiaanse charmes laten haar allesbehalve koud...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Fiona Lowe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekendje weg]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446334006/weekendje-weg-kristine-rolofson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446334006/weekendje-weg-kristine-rolofson"/>
-        <updated>2026-07-03T09:51:28.656Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446334006?aid=kb-online-bibliotheek&sid=21&dts=1783072288405&sig=305334bbd13f66cca2be8927d70ad25a6c2abcb884848a63eb33e4b732309a3c&width=320" alt="Omslag van 'Weekendje weg'" title="Omslag van 'Weekendje weg'">
-<p>Gina is verrukt wanneer haar beste vriendin haar verrast met een verwenweekend in het luxueuze Breakfast Inn Bed. Ze installeert zich snel in de prachtige suite. Alleen weet ze niet dat er nog iemand zo’n arrangement heeft gekregen. Voor hetzelfde weekend, in dezelfde suite...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kristine Rolofson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geluk in doktersjas]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446906727/geluk-in-doktersjas-charlotte-hawkes</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446906727/geluk-in-doktersjas-charlotte-hawkes"/>
-        <updated>2026-07-03T09:51:29.180Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906727?aid=kb-online-bibliotheek&sid=21&dts=1783072288730&sig=d785a5a9ceb8571d851e6a1c65f5599b0ce26b718ec0e137f3c2e385562dba6b&width=320" alt="Omslag van 'Geluk in doktersjas'" title="Omslag van 'Geluk in doktersjas'">
-<p>Evangeline beleeft een heerlijke nacht...…met knappe chirurg Max van Berg. Maar ze weet dat ze er niet meer van moet verwachten: hij sluit zich aan bij Artsen zonder Grenzen, en zij staat op het punt een niertransplantatie te ondergaan. Maar dan doet ze een ontdekking die alles op zijn kop zet...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Charlotte Hawkes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scotch on the Rocks]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446627259/scotch-on-the-rocks-elliot-fletcher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446627259/scotch-on-the-rocks-elliot-fletcher"/>
-        <updated>2026-07-03T09:51:29.444Z</updated>
-        <summary type="html"><![CDATA[Zij is verboden terrein. Hij houdt ervan de regels te overtreden.]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627259?aid=kb-online-bibliotheek&sid=21&dts=1783072289259&sig=c816087c61bbfff9a6321529dbb892ade36992f635168ae56a4b4b9c30147bc3&width=320" alt="Omslag van 'Scotch on the Rocks'" title="Omslag van 'Scotch on the Rocks'">
-<p>Scotch on the Rocks is een zinderende Schotse small town romance van de TikTok-sensatie Elliot Fletcher. Callum Macabe is ervan overtuigd: er is niemand zoals Juniper Ross. Ze is scherp, grappig, ongrijpbaar en, niet te vergeten, adembenemend mooi. Maar er is één probleem: haar ex, Alistair, is Callums broer. Vijf jaar na haar breuk met Alistair is Juniper nog altijd verboden terrein. Maar hoe harder Callum probeert zich aan de bro-code te houden, hoe moeilijker het wordt om haar te weerstaan. Zijn sommige regels er immers niet om gebroken te worden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elliot Fletcher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rose Bargain]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446627127/the-rose-bargain-sasha-peyton-smith</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446627127/the-rose-bargain-sasha-peyton-smith"/>
-        <updated>2026-07-03T09:51:29.692Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627127?aid=kb-online-bibliotheek&sid=21&dts=1783072289521&sig=c8fa34db13617d6be8d2871edb93c130a34ddf633ddfc5ade33cad71f6068a80&width=320" alt="Omslag van 'The Rose Bargain'" title="Omslag van 'The Rose Bargain'">
-<p>The Rose Bargain van Sasha Peyton Smith is een heerlijke YA-romantasy, voor de fans van Bridgerton. Alle burgers van Engeland krijgen een kans om te onderhandelen met de onsterfelijke feeënkoningin. De elite van Londen verwacht dat hun dochters eigenschappen verkrijgen waarmee ze aanbidders kunnen strikken, zoals een zeldzaam talent voor pianospelen in ruil voor hun gelukkigste jeugdherinnering. Maar in het jaar van Ivy Benton veranderen de spelregels drastisch. De debutanten moeten de strijd met elkaar aangaan om de hand van kroonprins Bram. Een overwinning zou Ivy’s familie van de ondergang kunnen redden en haar zus kunnen bevrijden van de hoge prijs die ze ooit voor haar gunst heeft moeten betalen… 'Een heerlijk duistere romantasy. Ik heb dit boek verslonden.’ Stephanie Garber  ‘Als je op zoek bent naar de volgende sensatie, dan is dit het!’ Adalyn Grace  ‘Deze op Bridgerton geïnspireerde romantasy is escapisme met een feministische boodschap.’ The Bookseller </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sasha Peyton Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vurige kus van de vijand]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44633412X/vurige-kus-van-de-vijand-caitlin-crews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44633412X/vurige-kus-van-de-vijand-caitlin-crews"/>
-        <updated>2026-07-03T09:51:30.344Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44633412X?aid=kb-online-bibliotheek&sid=21&dts=1783072289765&sig=ae73509f40f9bdcec12834b49fa3ec165480c98154069fc8c6d46a5d28cfbe0e&width=320" alt="Omslag van 'Vurige kus van de vijand'" title="Omslag van 'Vurige kus van de vijand'">
-<p>Hoe kan de vijand zó sexy zijn…Tycoon Apostolis Adrianakis heeft een pesthekel aan de weduwe van zijn vader. Hij weet namelijk zeker dat het Jolie – beeldschoon en veel jonger dan zijn vader – alleen te doen is om het geld. Dan blijkt dat hij zijn erfenis alleen krijgt als hij met Jolie trouwt! Jolie is verbijsterd dat het testament bepaalt dat ze opnieuw een verstandshuwelijk aan moet gaan, dit keer zelfs met een man die haar veracht! Wel vreemd dat de vurige blik in Apostolis’ ogen haar niet doet rillen van afkeer, maar juist een onweerstaanbaar verlangen in haar doet oplaaien… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Caitlin Crews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passie als inzet]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44690645X/passie-als-inzet-sandra-marton</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44690645X/passie-als-inzet-sandra-marton"/>
-        <updated>2026-07-03T09:51:30.585Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44690645X?aid=kb-online-bibliotheek&sid=21&dts=1783072290417&sig=ff38794edeca59df4f8f780d1acb9e6f4ea827bbdab32bc35d7ff24ff3cbe1ea&width=320" alt="Omslag van 'Passie als inzet'" title="Omslag van 'Passie als inzet'">
-<p>Savannah zou alles doen......om haar jongere zusje te helpen. Zelfs haar pokertalent gebruiken om een fortuin te winnen van de rijke, sexy Sean O’Connell. Maar ze raakt al haar geld aan hem kwijt, waarna hij haar vraagt om een ander soort inzet: een nacht met hem... Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sandra Marton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dubbelspel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448337177/dubbelspel-elle-kennedy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448337177/dubbelspel-elle-kennedy"/>
-        <updated>2026-07-03T09:51:31.176Z</updated>
-        <summary type="html"><![CDATA[Soms is het grootste gevaar datgene waar je het meest naar verlangt…]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448337177?aid=kb-online-bibliotheek&sid=21&dts=1783072290660&sig=66099b16fc854a979e3af432cd9439c2c98f525b6d542c332c8bc232be0e54c1&width=320" alt="Omslag van 'Dubbelspel'" title="Omslag van 'Dubbelspel'">
-<p>Dubbelspel is een nieuw steamy verhaal van bestsellerauteur Elle Kennedy! Lees nu deel drie in de zinderende nieuwe serie Op commando, waarvan alle delen los van elkaar te lezen zijn.  Tijdens een gewelddadige opstand komt onderzoeksjournalist Rebecca Parker in de vuurlinie terecht. Een onbekende man redt haar uit de menigte en brengt haar in veiligheid. Nick Prescott is gespierd, charmant en… allesbehalve wie hij zegt dat hij is. Terwijl ze probeert te achterhalen wat Nick te verbergen heeft, raakt ze steeds dieper verstrikt in een gevaarlijk spel van macht, leugens en verlangen. Hoe dichter ze bij de waarheid komt, hoe moeilijker het wordt om elkaar los te laten. Ze weet dat ze hem moet wantrouwen. Maar haar hart luistert niet... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elle Kennedy</name>
+            <name>Caroline Anderson</name>
         </author>
     </entry>
     <entry>
@@ -321,37 +220,139 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wraak van de Griekse tycoon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446333999/wraak-van-de-griekse-tycoon-tara-pammi</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446333999/wraak-van-de-griekse-tycoon-tara-pammi"/>
-        <updated>2026-07-03T09:51:32.352Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446333999?aid=kb-online-bibliotheek&sid=21&dts=1783072291857&sig=5245c441dd596b1145f8b8bd4bf8149b1da7d2e4c36971d3302a8728f9508927&width=320" alt="Omslag van 'Wraak van de Griekse tycoon'" title="Omslag van 'Wraak van de Griekse tycoon'">
-<p>Hij wil wraak, maar voelt verlangen... Griekse tycoon Apollo Gallanis heeft twintig jaar maar één doel voor ogen gehad: wraak op de Shetty-familie. Met zijn laatste zet, een huwelijk met hun oudste dochter, kan hij eindelijk het familiebedrijf overnemen. Maar dan krijgt hij een onverwacht voorstel...Haar hele leven zorgt Jia Shetty al voor haar familie. Dus als haar oudere zus haar om hulp vraagt om onder een verstandshuwelijk uit te komen, bedenkt ze een oplossing: ze zal de knappe tycoon zelf ten huwelijk vragen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Thuis is waar de zon schijnt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627267/thuis-is-waar-de-zon-schijnt-susan-wiggs</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627267/thuis-is-waar-de-zon-schijnt-susan-wiggs"/>
+        <updated>2026-07-04T09:15:38.016Z</updated>
+        <summary type="html"><![CDATA[Ze keert terug naar huis, maar zal moeten vechten voor alles wat haar lief is]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627267?aid=kb-online-bibliotheek&sid=21&dts=1783091060062&sig=14cdef2dad9db20d23bb49fbc9da7f9e1958d98e97748753748be5c3d75abdf3&width=320" alt="Omslag van 'Thuis is waar de zon schijnt'" title="Omslag van 'Thuis is waar de zon schijnt'">
+<p>Thuis is waar de zon schijnt van Susan Wiggs is het perfecte boek voor de zomer! Tien jaar geleden verliet Caroline Shelby het slaperige stadje Oysterville voor een droomcarrière als modeontwerper in New York. Na jaren ploeteren spat die droom als een zeepbel uit elkaar wanneer niet alleen haar mooiste ontwerpen worden gestolen, maar ook haar beste vriendin, Angelique, overlijdt. Zij krijgt de voogdij over Angeliques kinderen en besluit terug te gaan naar haar geboorteplaats. Langzaamaan komen zij en de kinderen tot rust, de rol van moeder gaat haar steeds beter af en ze komt zelfs haar jeugdliefde weer tegen. Dan dient zich onverwacht de volgende uitdaging aan, die haar dwingt te vechten voor alles wat haar lief is. 'Een geweldig boek - meeslepend, ontroerend en betekenisvol.' Kirkus Reviews </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tara Pammi</name>
+            <name>Susan Wiggs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verborgen goud]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446627283/verborgen-goud-nora-roberts</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446627283/verborgen-goud-nora-roberts"/>
-        <updated>2026-07-03T09:51:32.909Z</updated>
-        <summary type="html"><![CDATA[Ze zal hem weleens laten zien dat ze zich prima redt als vrouw alleen!]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627283?aid=kb-online-bibliotheek&sid=21&dts=1783072292452&sig=2a90d20353b0c36e242504e89d8272dad47beeb382ab764a4a3ba554cb73d7d4&width=320" alt="Omslag van 'Verborgen goud'" title="Omslag van 'Verborgen goud'">
-<p>In het spannende en romantische Verborgen goud neemt Nora Roberts je mee naar het Wilde Westen van 1875.  Vol verwachting reist Sarah naar Arizona, waar haar vader een goudader heeft aangeboord. Ze is benieuwd naar zijn mooie huis en het leven daar. Maar niets is wat het zou moeten zijn. Het plaatsje is een gehucht en het huis niet veel meer dan een hut. Het ergste is echter nog dat haar vader is overleden onder verdachte omstandigheden. Sarah wil onderzoek doen naar zijn mysterieuze dood en krijgt daarbij hulp – zij het met tegenzin – van Jake Redman. Hij vindt dat ze niet thuishoort in het Wilde Westen, maar Sarah is vastbesloten hem te laten zien wat ze waard is. Waarom dat zo belangrijk voor haar is, daar denkt ze maar liever niet over na... ‘Personages, plot en setting komen perfect samen.' Booklist </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Als de duivel toeslaat]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446906808/als-de-duivel-toeslaat-lorraine-heath</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446906808/als-de-duivel-toeslaat-lorraine-heath"/>
+        <updated>2026-07-03T09:51:26.109Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906808?aid=kb-online-bibliotheek&sid=21&dts=1783071773337&sig=3b8105fcfc91b6c179bc5baa1c595b72db3c307fbbb97510354176f5bd804531&width=320" alt="Omslag van 'Als de duivel toeslaat'" title="Omslag van 'Als de duivel toeslaat'">
+<p>Van achterbuurt naar aristocratie...Londen, 1851Olivia Stanford, hertogin van Lovingdon, is buiten zichzelf van woede over het testament van haar man. De jonge weduwe begrijpt niet waarom hij een duivelse schurk als Jack Dodger heeft benoemd tot voogd van hun zoon. Toch zal ze moeten samenwerken met deze verderfelijke opportunist, over wie zoveel wordt geroddeld in de hoge kringen van Londen...Het duurt echter niet lang voordat de hertogin haar ijzige houding jegens Jack laat varen. Geen wonder, want met zijn ongebruikelijke aanpak weet hij ongekende gevoelens bij Olivia los te maken. Dan wordt opeens duidelijk welk geheim er achter het opmerkelijke testament schuilgaat...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nora Roberts</name>
+            <name>Lorraine Heath</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helemaal leuk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446906549/helemaal-leuk-stefanie-london</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446906549/helemaal-leuk-stefanie-london"/>
-        <updated>2026-07-03T09:51:33.152Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906549?aid=kb-online-bibliotheek&sid=21&dts=1783072292986&sig=6d919fe6885cedcb3d62696d8da7f1f6d640e63024559cd37699e1c5209e1956&width=320" alt="Omslag van 'Helemaal leuk'" title="Omslag van 'Helemaal leuk'">
-<p>Een flirt met deze man is echt het laatste waar ze aan denkt!Elise moet haar balletstudio zien te redden van de financiële ondergang, maar hoe? Dan loopt ze Col Hillam tegen het lijf. Dé Col Hillam. Topman in de computerindustrie, financieel genie, en ook nog eens onwaarschijnlijk aantrekkelijk. Zijn hulp zou heel welkom zijn, ware het niet dat hij vijf jaar geleden haar hart brak… Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Affaire met de miljardair]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446333964/affaire-met-de-miljardair-heidi-rice</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446333964/affaire-met-de-miljardair-heidi-rice"/>
+        <updated>2026-07-04T09:15:38.577Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446333964?aid=kb-online-bibliotheek&sid=21&dts=1783109985219&sig=561def99531172fc5797560674bcf0581325dcce4d22779ed93475a6651568b8&width=320" alt="Omslag van 'Affaire met de miljardair'" title="Omslag van 'Affaire met de miljardair'">
+<p>Onweerstaanbare hartstocht, onvoorziene gevolgen…Door een weddenschap kan miljardair Cade Landry een felbegeerd bedrijf in handen krijgen. Maar dan moet hij wel enige maanden slechts één vrouw daten. Dus als zijn onenightstand met de mooie socialite Charley breed wordt uitgemeten in de roddelpers, weet hij wat hem te doen staat…Cades voorstel om net te doen alsof ze een serieuze relatie hebben, komt Charley wel goed uit. Misschien kan ze zo eindelijk van haar bad girl-imago afkomen. En fijn dat ze na een tijdje gewoon weer uit elkaar gaan. Maar dan ontdekt ze dat hun nacht samen een serieus gevolg heeft…  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Stefanie London</name>
+            <name>Heidi Rice</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zinderende hartstocht in Spanje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446334103/zinderende-hartstocht-in-spanje-natalie-anderson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446334103/zinderende-hartstocht-in-spanje-natalie-anderson"/>
+        <updated>2026-07-04T09:15:39.098Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446334103?aid=kb-online-bibliotheek&sid=21&dts=1783100082673&sig=ea36be4c89ceb9e9073fc4c3f41604219522327774812284b2a5c098c92585e2&width=320" alt="Omslag van 'Zinderende hartstocht in Spanje'" title="Omslag van 'Zinderende hartstocht in Spanje'">
+<p>Een uitdagend voorstel...Na een verschrikkelijk huwelijk heeft Elodie gezworen om nooit meer te trouwen. Maar voor haar zus, die naar het altaar wordt gedwongen, doet ze alles. Zelfs de knappe bruidegom uitdagen om met háár te trouwen in plaats van haar zus. Alleen verloopt dat niet zoals gepland...Ramon Fernandez is verbijsterd als er opeens een sexy, woedende vrouw voor zijn neus staat – die vervolgens eist dat hij met háár trouwt! Even later blijkt dat haar voorstel voor zijn egoïstische neef bedoeld was, niet voor hem. Maar eigenlijk vindt hij het helemaal geen slecht idee... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Natalie Anderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een daad van liefde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446906816/een-daad-van-liefde-lynsay-sands</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446906816/een-daad-van-liefde-lynsay-sands"/>
+        <updated>2026-07-04T09:15:39.588Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906816?aid=kb-online-bibliotheek&sid=21&dts=1783111029835&sig=683a978cdea09e1baafb80c896476228857abf663a9145326b41fb31585f58dd&width=320" alt="Omslag van 'Een daad van liefde'" title="Omslag van 'Een daad van liefde'">
+<p>Konings wil is wet...</p><p> </p><p>Engeland, 1395</p><p> </p><p>Lady Emmalene Eberhart  vraagt de koning om haar echtgenoot te dwingen vaker met haar ‘het bed te delen’. Dat is er na de huwelijksnacht immers niet meer van gekomen. Het verzoek wordt ingewilligd, maar als haar man opeens sterft is Emma nog even onervaren.   Vervolgens wordt zij door de koning toegewezen aan  Amaury de Aneford , een ruige ridder die haar hart sneller doet kloppen. Maar op de trouwdag snelt een rivaal naar Eberhart Castle om Emma op te eisen vóór het bruidspaar het huwelijk consummeert.   Terwijl de tijd dringt, merkt Amaury dat het nog niet zo eenvoudig is zijn onwetende bruid te verleiden...   Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lynsay Sands</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spanning en champagne]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446334030/spanning-en-champagne-natalie-anderson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446334030/spanning-en-champagne-natalie-anderson"/>
+        <updated>2026-07-04T09:15:40.110Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446334030?aid=kb-online-bibliotheek&sid=21&dts=1783110847445&sig=84fef0d32e1b2009741cb1795779aadfa89efbcf51f8ce793536bf6177537b60&width=320" alt="Omslag van 'Spanning en champagne'" title="Omslag van 'Spanning en champagne'">
+<p>Zo krijgt ze haar lijst natuurlijk nooit af!Wat Roxy betreft is het hoog tijd om een beetje plezier te gaan maken in haar leven. Daarom maakt ze een lijst met zes dingen die ze heel graag wil doen. Bij een van die doelen – één keer het bed delen met een onweerstaanbaar knappe man – zou Gabe, haar buurman, haar heel goed van dienst kunnen zijn. Maar tot haar schrik is hij niet van plan het bij één keer te laten!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Natalie Anderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seal My Fate]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627097/seal-my-fate-roxy-sloane</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627097/seal-my-fate-roxy-sloane"/>
+        <updated>2026-07-04T09:15:40.628Z</updated>
+        <summary type="html"><![CDATA[Zij kan alle geheimen onthullen. Maar is ze bereid de liefde daarvoor op te geven?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627097?aid=kb-online-bibliotheek&sid=21&dts=1783098080096&sig=9931ecd94a741bd0273b0ea78d57fe35bbe60aa62844bace21dfbc93ebcdab61&width=320" alt="Omslag van 'Seal My Fate'" title="Omslag van 'Seal My Fate'">
+<p>Seal My Fate is het zinderende slot van de spicy dark academia trilogie De Oxford Legacy van USA Today-bestsellerauteur Roxy Sloane.  Tessa kwam naar Oxford om haar zus te wreken, maar stuitte op een web van leugens. Ze ontdekte eeuwenoude geheime genootschappen en vermogens die zijn opgebouwd uit zonden. En de elite lijken hun rijkdommen en geheimen koste wat het kost te willen beschermen. Zij is degene die hun imperiums kan verwoesten. Maar kan ze de man vernietigen van wie ze houdt? De Oxford Legacy-serie is een zinderende dark academia trilogie, perfect voor fans van Ana Huang, Emily McIntire en Lauren Asher. Seal My Fate is het laatste deel uit de serie.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Roxy Sloane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dromen van Rome]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446906557/dromen-van-rome-lucy-gordon</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446906557/dromen-van-rome-lucy-gordon"/>
+        <updated>2026-07-04T09:15:41.367Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906557?aid=kb-online-bibliotheek&sid=21&dts=1783156540768&sig=bc98f44ed07d07ba371f0c1d21e17b02ab7fd89625bdd5dd377e7a57157b75d9&width=320" alt="Omslag van 'Dromen van Rome'" title="Omslag van 'Dromen van Rome'">
+<p>Eerst Rome zien, dan… een kind krijgen?Een nacht doorbrengen in de armen van een haar onbekende - maar heel erg knappe - wijnboer? Niet iets wat Charlotte normaal gesproken zou doen. Maar ze was in Rome, voelde zich een beetje verdrietig en liep toen Lucio tegen het goddelijke lijf. En nu ziet ze dat goddelijke lijf weer, maar voelt ze eerder vrees dan verlangen. Want ze heeft verrassend nieuws voor Lucio…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lucy Gordon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het grote geheim]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446906573/het-grote-geheim-cara-colter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446906573/het-grote-geheim-cara-colter"/>
+        <updated>2026-07-04T09:15:41.922Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906573?aid=kb-online-bibliotheek&sid=21&dts=1783108149504&sig=9eafb672cf7e94fa96ed9e44d83e48455d2bb2f44f09a68f5eff0f4922d79775&width=320" alt="Omslag van 'Het grote geheim'" title="Omslag van 'Het grote geheim'">
+<p>Hij staat voor een onmogelijke keuze…Nooit zal Rick aan Linda het geheim vertellen waarmee haar overleden man hem heeft opgezadeld. Maar wanneer haar dochter hem vraagt of hij haar moeder een beetje kan opvrolijken, wil hij zeker een poging wagen. Algauw merkt hij dat hij niet ongevoelig is voor Linda’s charmes. Helaas: het geheim dat hij voor haar verborgen houdt, staat als een hoge muur tussen hen in… Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Cara Colter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een onverwachte thuiskomst]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446906662/een-onverwachte-thuiskomst-brenda-novak</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446906662/een-onverwachte-thuiskomst-brenda-novak"/>
+        <updated>2026-07-04T09:15:42.495Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446906662?aid=kb-online-bibliotheek&sid=21&dts=1783096997144&sig=056fd950771459d9d477ed77b93267d08b82312e07ff875cbd6c23bccf0665fd&width=320" alt="Omslag van 'Een onverwachte thuiskomst'" title="Omslag van 'Een onverwachte thuiskomst'">
+<p>Het is gedaan met de rust in Coyote Canyon…Talulah Barclay is nooit op zoek naar problemen, maar helaas lijken die haar altijd te vinden. Veertien jaar nadat ze haar verloofde bij het altaar liet staan, keert ze terug naar haar geboorteplaats Coyote Canyon, om de nalatenschap van haar oudtante te regelen. Zoals ze al had gevreesd, staat ze er nog steeds bekend als de ‘weggelopen bruid’ en is niet iedereen haar goedgezind. Tot haar verbazing krijgt ze steun uit onverwachte hoek: van de beste vriend van haar ex, de sexy Brant Elway…Brant had nooit verwacht dat hij Talulah ooit weer in Coyote Canyon zou zien, en al helemaal niet dat hij met haar in bed zou belanden! Hoe geweldig het ook was, het is duidelijk dat ze het bij deze ene keer moeten houden en dat níémand erachter mag komen. Een onmogelijke opgave, blijkt: niet alleen lukt het ze niet om bij elkaar uit de buurt te blijven, ook wordt Brant al snel bij Talulah betrapt door - uitgerekend - haar ex-verloofde… Besluiten Brant en Talulah de handdoek in de ring te gooien en ieder hun eigen weg te gaan, of trotseren ze alle hindernissen om bij elkaar te kunnen zijn? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Brenda Novak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het boekwinkeltje in Venetië]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627240/het-boekwinkeltje-in-veneti%C3%AB-rebecca-raisin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627240/het-boekwinkeltje-in-veneti%C3%AB-rebecca-raisin"/>
+        <updated>2026-07-04T09:15:43.269Z</updated>
+        <summary type="html"><![CDATA[Een stapel mysterieuze brieven. Een reis naar Venetië. Een onvergetelijk avontuur]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627240?aid=kb-online-bibliotheek&sid=21&dts=1783094704848&sig=c5bc88f5b2d812e0c76437eb8ad01dc748b577111718159fda318b4394978209&width=320" alt="Omslag van 'Het boekwinkeltje in Venetië'" title="Omslag van 'Het boekwinkeltje in Venetië'">
+<p>Het boekwinkeltje in Venetië is de perfecte zonnige feelgood van Rebecca Raisin. Wanneer Luna haar moeder verliest, blijft ze alleen achter. Zonder enige andere familie voelt ze zich verloren – tot ze een stapel oude brieven tussen haar moeders spullen vindt. De brieven leiden haar naar Venetië, naar een betoverende maar vervallen boekwinkel aan een van de grachten. Eenmaal aangekomen in de romantische stad hoopt Luna het geheim van haar moeders verleden te ontrafelen. Zal ze achter de antwoorden komen waar ze naar op zoek is? En vindt ze misschien zelfs de plek waar ze écht thuishoort? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Rebecca Raisin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bad Publicity]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627208/bad-publicity-bianca-gillam</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627208/bad-publicity-bianca-gillam"/>
+        <updated>2026-07-04T09:15:43.789Z</updated>
+        <summary type="html"><![CDATA[Twee exen. Een maand op reis. Wat kan er misgaan?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627208?aid=kb-online-bibliotheek&sid=21&dts=1783102839388&sig=9eae803ef157c672f47c63fa80f5ae122c203295b41bd2ed183a567028bb5ef2&width=320" alt="Omslag van 'Bad Publicity'" title="Omslag van 'Bad Publicity'">
+<p>Bad Publicity is een onweerstaanbare bookish enemies-to-lovers romance vol humor, chemie en hartverwarmende momenten van nieuw toptalent Bianca Gillam. Andies droombaan als pr-medewerker bij een uitgeverij in New York verandert in een nachtmerrie als ze ontdekt wie haar belangrijkste auteur is: Jack Carlson. Dezelfde Jack die haar tijdens hun studie vijf jaar geleden in de steek liet. En dezelfde Jack die nu razend succesvol én irritant knap is. Als ze haar baan wil behouden, mag ze zijn publiciteitscampagne absoluut niet verpesten. Om zijn boek te promoten gaan Andie en Jack een maand lang op tour door Europa. Een maand lang de meest romantische steden ter wereld bezoeken met de man die je het liefst nooit meer had gezien… Wat kan er misgaan? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Bianca Gillam</name>
         </author>
     </entry>
 </feed>
