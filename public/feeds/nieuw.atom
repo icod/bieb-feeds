@@ -2,351 +2,382 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-07-22T09:22:32.872Z</updated>
+    <updated>2026-07-23T09:20:55.597Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
-        <title type="html"><![CDATA[Met liefde van Lukov]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439169046/met-liefde-van-lukov-mariana-zapata</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439169046/met-liefde-van-lukov-mariana-zapata"/>
-        <updated>2026-07-22T09:22:23.904Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439169046?aid=kb-online-bibliotheek&sid=22&dts=1784711902995&sig=8fd6bd8526da14da35edf30d30dee679883f4ede2ac4f0b401b5c3d34f7ad9d6&width=320" alt="Omslag van 'Met liefde van Lukov'" title="Omslag van 'Met liefde van Lukov'">
-<p>Na zeventien jaar - en ontelbare gebroken botten en verbroken beloftes - weet Jasmine Santos dat haar kansen als kunstschaatser bijna verkeken zijn. Maar dan krijgt ze het aanbod van haar leven van een arrogante idioot die al tien jaar de hoofdrol speelt in haar dromen - om hem voor een rijdende bus te duwen, that is. Toch zet het voorstel van Ivan Lukov haar aan het denken. Misschien is het tijd om alles te heroverwegen. Inclusief Ivan Lukov zelf. Deze slow burn romance is misschien wel het bekendste boek van Mariana Zapata, en zeker een van de meest geliefde. Het is haar geheel eigen interpretatie van de enemies-to-lovers-trope, en een leeservaring die je niet snel zult vergeten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Vogels op hun best]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/412566060/vogels-op-hun-best-hans-peeters</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/412566060/vogels-op-hun-best-hans-peeters"/>
+        <updated>2026-07-23T09:20:32.819Z</updated>
+        <summary type="html"><![CDATA[de beste vogelreportages uit De Telegraaf]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A412566060?aid=kb-online-bibliotheek&sid=22&dts=1784798432126&sig=f3c3126b456a7ea64814f46a6df770b842c75f161db32a83def9fa7e4a25d3c4&width=320" alt="Omslag van 'Vogels op hun best'" title="Omslag van 'Vogels op hun best'">
+<p>Bundel verhalen over diverse vogelsoorten in Nederland.</p>]]></content>
         <author>
-            <name>Mariana Zapata</name>
+            <name>Hans Peeters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aloha, baby!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443262543/aloha--baby--nicole-schelling</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443262543/aloha--baby--nicole-schelling"/>
-        <updated>2026-07-22T09:22:24.212Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443262543?aid=kb-online-bibliotheek&sid=22&dts=1784712144004&sig=d00ef74cd1fd6fccff12f5f7f19cba146f697cbf443bf69431a66ef41542bebb&width=320" alt="Omslag van 'Aloha, baby!'" title="Omslag van 'Aloha, baby!'">
-<p>Wanneer Phoebe zich door haar beste vriendin laat overhalen om naar een bruiloft op Hawaï te gaan, is het de bedoeling om even alles te vergeten. Met name haar ex Sam, die haar op klassieke wijze heeft verlaten voor een collega. Op Hawaï blijkt dat wat Sam kan, Phoebe ook kan. Want zodra ze Jax ontmoet, is ze haar ex héél snel vergeten. Maar wat ze niet vergeet, zijn haar principes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Gek van paarden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/412565420/gek-van-paarden-m-k--de-manvan</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/412565420/gek-van-paarden-m-k--de-manvan"/>
+        <updated>2026-07-23T09:20:33.532Z</updated>
+        <summary type="html"><![CDATA[de lotgevallen van M.K. de Manvan]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A412565420?aid=kb-online-bibliotheek&sid=22&dts=1784798432944&sig=1c6844ab78305de74509e5ac80d488dbc79722aa32c9c27be65e90c08ff660c2&width=320" alt="Omslag van 'Gek van paarden'" title="Omslag van 'Gek van paarden'">
+<p>Columns over paarden en paardensport.</p>]]></content>
         <author>
-            <name>Nicole Schelling</name>
+            <name>M.K. de Manvan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Met je rug tegen de muur]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442328133/met-je-rug-tegen-de-muur-mariana-zapata</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442328133/met-je-rug-tegen-de-muur-mariana-zapata"/>
-        <updated>2026-07-22T09:22:24.530Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442328133?aid=kb-online-bibliotheek&sid=22&dts=1784712144310&sig=2b9531d997147b616e83aafb15ceeb31f035a0c38ee1f2190352553149b50121&width=320" alt="Omslag van 'Met je rug tegen de muur'" title="Omslag van 'Met je rug tegen de muur'">
-<p>Vanessa Mazur weet dat ze het juiste doet. Ze hoeft zich niet bezwaard te voelen omdat ze ontslag heeft genomen. Manusje-van-alles zijn voor de topverdediger in de National Football Organization was bedoeld als een tijdelijke baan, niet als de rest van haar leven. Vanessa heeft plannen, en die omvatten niet het langer dan nodig wassen van zijn XL-ondergoed. Maar als Aiden Graves voor haar deur staat en vraagt of ze terugkomt, is ze meer dan geschokt. Twee jaar lang kon de man die bekendstond als The Wall of Winnipeg het niet opbrengen om haar goedemorgen te zeggen of haar zelfs maar te feliciteren met haar verjaardag. En nu ineens dit? Hij vraagt het ondenkbare. Maar hoe zeg je nee tegen de man die gewend is alles te krijgen wat hij wil? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Onvoorstelbaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/374549443/onvoorstelbaar-bernhard-reitsma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/374549443/onvoorstelbaar-bernhard-reitsma"/>
+        <updated>2026-07-23T09:20:34.320Z</updated>
+        <summary type="html"><![CDATA[bijbelstudies over de gelijkenissen van Jezus]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A374549443?aid=kb-online-bibliotheek&sid=22&dts=1784798433655&sig=5f7c9e426f948e19f5e9bad8397dac72ff5103d7687f49e49a079310be24ddb1&width=320" alt="Omslag van 'Onvoorstelbaar'" title="Omslag van 'Onvoorstelbaar'">
+<p>Bekende gelijkenissen van Jezus, die opnieuw gaan spreken tegen de achtergrond van de cultuur van Jezus tijd. De gelijkenissen van Jezus zijn uit het leven gegrepen, maar wel het leven in zíjn tijd. Wanneer je iets van de context gaat ontdekken, komen ook deze verhalen opnieuw tot leven. Wat Jezus te bieden heeft, is onvoorstelbaar. De gelijkenissen spreken van adembenemende liefde. Dat vraagt om een respons. Toch zijn er velen die de liefde van Jezus naast zich neerleggen. Ook dat is onvoorstelbaar. Wie de liefde van Jezus echt heeft geproefd kan toch eigenlijk niet anders dan Hem volgen. Dit boek biedt een ontdekkingstocht naar de diepte van Gods genade en een uitnodiging om de kracht daarvan te gaan ervaren. Het boek is voorzien van gespreksvragen, die het nog beter geschikt maken voor lezing op een bijbelkring.</p>]]></content>
         <author>
-            <name>Mariana Zapata</name>
+            <name>Bernhard Reitsma</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Medium gelukkig]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443318514/medium-gelukkig-sarah-adler</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443318514/medium-gelukkig-sarah-adler"/>
-        <updated>2026-07-22T09:22:24.871Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443318514?aid=kb-online-bibliotheek&sid=22&dts=1784712144641&sig=56c636b46d9221996131f4dfd4d73d9ecfc2ca11bdf40b2cdd2a552ac775a366&width=320" alt="Omslag van 'Medium gelukkig'" title="Omslag van 'Medium gelukkig'">
-<p>Nep-medium Gretchen mag dan wel een oplichtster zijn, ze ziet zichzelf graag als een weldoener. Dus als ze wordt ingehuurd om een geitenboerderij te 'reinigen' zodat een aardige oude man eindelijk met pensioen kan en dat haar tegelijkertijd een leuk honorarium oplevert, wie is zij dan om te weigeren? Als ze er aankomt, blijkt de boerderij-eigenaar niet de oude man die Gretchen zich had voorgesteld - Charlie Waybill is jong, knap én... totaal niet overtuigd dat Gretchen met de doden kan communiceren. Tot haar verbazing komt Gretchen echter oog in oog te staan met de geest die tijdens elk open huis een ravage aanricht. En deze Everett wil dat ze Charlie helpt om niet dezelfde familievloek te krijgen waardoor hij al sinds de jaren twintig in Gilded Creek rondspookt. Nu heeft Gretchen één maand de tijd om Charlie te overtuigen het huis niet te verkopen. Helaas lijken hard werken en eerlijkheid de manier te zijn om de koppige boer over te halen - niet bepaald Gretchens sterke punten. Maar vertrouwen is niet het enige wat tussen hen groeit, en het risico om Charlie aan het geestenrijk te verliezen hangt Gretchen bijna net zo boven het hoofd als Everett zelf. Om de geitenboerderij, het vriendelijke spook en de man van wie ze begint te houden te redden, moet Gretchen de grootste zwendel uithalen die ze ooit heeft gedaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Adembenemend]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/374549915/adembenemend-bernhard-reitsma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/374549915/adembenemend-bernhard-reitsma"/>
+        <updated>2026-07-23T09:20:35.023Z</updated>
+        <summary type="html"><![CDATA[nieuwe bijbelstudies over de gelijkenissen van Jezus]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A374549915?aid=kb-online-bibliotheek&sid=22&dts=1784798434458&sig=0fd09ded722e920ee52be9856ea99f3ce5731cafbc07489044adb7420ebd50d6&width=320" alt="Omslag van 'Adembenemend'" title="Omslag van 'Adembenemend'">
+<p>Bekende en minder bekende verhalen komen opnieuw tot leven tegen de achtergrond van de cultuur van Jezus. De liefde van God is adembenemend. Daarover valt eigenlijk alleen in beelden te spreken. Dat doet Jezus dan ook in de zogenoemde gelijkenissen, die beelden zijn van het leven van toen. In deze gelijkenissen verrast Hij ons steeds opnieuw met vreemde wendingen. Daarmee wil Hij laten zien hoe goed God is en hoe ongewoon zijn liefde een liefde die nooit vanzelfsprekend wordt. Bernhard Reitsma bespreekt er in dit boek acht en betrekt daarbij de context van Jezus tijd en van het Midden-Oosten. Dat werpt een heel nieuw licht op de gelijkenissen. Het lezen en overdenken ervan verandert je leven.</p>]]></content>
         <author>
-            <name>Sarah Adler</name>
+            <name>Bernhard Reitsma</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Broer van de cowboy]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443930171/broer-van-de-cowboy-kennedy-fox</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443930171/broer-van-de-cowboy-kennedy-fox"/>
-        <updated>2026-07-22T09:22:25.194Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443930171?aid=kb-online-bibliotheek&sid=22&dts=1784712144971&sig=d50f67a56344c3bfb4d6e0fdaebbe7363f72a6eef5d5cb6b1f01149f64b8c693&width=320" alt="Omslag van 'Broer van de cowboy'" title="Omslag van 'Broer van de cowboy'">
-<p>Wanneer Knox op de vrijgezellenveiling van Eldorado, Texas door zijn beste vriendin Hadleigh wordt 'gekocht' voor een date, doet hij niet erg zijn best om indruk op haar te maken. Ze zijn gewoon vrienden, tenslotte. Bovendien is zijn tweelingbroer al jaren smoorverliefd op Hadleigh. Maar de manier waarop ze op Knox reageert, is te verleidelijk. Weet Hadleigh haar afstand intact te houden zodat ze de vriendschapsgrens niet overschrijdt, of is voor haar de aantrekkingskracht ook te sterk? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Superzand]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394638271/superzand-colleen-dorsey---gail-kolmar</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394638271/superzand-colleen-dorsey---gail-kolmar"/>
+        <updated>2026-07-23T09:20:37.433Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394638271?aid=kb-online-bibliotheek&sid=22&dts=1784798435140&sig=70c845a808dbce5db551fad95e0408d574f191e911fed8e265f0645ade004a66&width=320" alt="Omslag van 'Superzand'" title="Omslag van 'Superzand'">
+<p>Maak met speciaal 'superzand' een wijze uil, een eskimodorp of gekke gezichten. Stap voor stap, met kleurenfoto's, worden 16 projecten uitgelegd. Met hulp vanaf ca. 4 t/m 8 jaar.</p>]]></content>
         <author>
-            <name>Kennedy Fox</name>
+            <name>Colleen Dorsey</name>
+        </author>
+        <author>
+            <name>Gail Kolmar</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wat ik wens voor kerst]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444427430/wat-ik-wens-voor-kerst-nicole-schelling</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444427430/wat-ik-wens-voor-kerst-nicole-schelling"/>
-        <updated>2026-07-22T09:22:25.585Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444427430?aid=kb-online-bibliotheek&sid=22&dts=1784712145358&sig=d75dda26d4ed714bef3c799f7457bdc9cbd04bb8c6f2f36623995a9cb2829df2&width=320" alt="Omslag van 'Wat ik wens voor kerst'" title="Omslag van 'Wat ik wens voor kerst'">
-<p>Nadine heeft een gruwelijke hekel aan kerst sinds haar ex-man de feestdag voor haar verpest heeft. Maar dit jaar moet ze verplicht naar de kerstborrel van haar werk, omdat haar baas een belangrijke aankondiging gaat doen. Als ze eenmaal daar is en een paar wijntjes op heeft, is de kerstman van dienst plotseling een stuk aantrekkelijker. Of is hij dat ook zónder zijn witte baard en rode muts op? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Band-it!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394638247/band-it--colleen-dorsey</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394638247/band-it--colleen-dorsey"/>
+        <updated>2026-07-23T09:20:38.092Z</updated>
+        <summary type="html"><![CDATA[rubberband sieraden om zelf te maken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394638247?aid=kb-online-bibliotheek&sid=22&dts=1784798437551&sig=fb5b02891024a73ce7d28b66e942820fcf3dfa8ae3a699202f3cba56e244e595&width=320" alt="Omslag van 'Band-it!'" title="Omslag van 'Band-it!'">
+<p>Maak je eigen sieraden van rubberband met een haaknaald of op een loom (plastic rekje met pinnen). Stapsgewijze uitleg met kleurenfoto's en enige schematische tekeningen. Vanaf ca. 10 jaar</p>]]></content>
         <author>
-            <name>Nicole Schelling</name>
+            <name>Colleen Dorsey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vuurgloed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442830254/vuurgloed-ryanne-veldkamp</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442830254/vuurgloed-ryanne-veldkamp"/>
-        <updated>2026-07-22T09:22:25.925Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442830254?aid=kb-online-bibliotheek&sid=22&dts=1784712145685&sig=e6bf7bcecdc15c9d17af2e967bc6c140a9efcee0a1a7452e066854885ccd1423&width=320" alt="Omslag van 'Vuurgloed'" title="Omslag van 'Vuurgloed'">
-<p>Joey is veertig, heeft een goedlopend restaurant, een mooie woning en fijn gezelschap van Moses, zijn Duitse herder. Al met al is hij tevreden met hoe alles loopt. Er lijkt geen vuiltje aan de lucht tot het restaurant een slechte recensie krijgt die hij totaal onterecht vindt. Normaal zou hij het laten gaan, maar in dit geval lukt hem dat niet. Ze moet hem een nieuwe kans geven en bij hem komen eten, of op zijn minst deze recensie verwijderen... Het probleem is dat Vicky dat absoluut niet van plan is. Joey kan haar niet uitstaan. Nog nooit was er iemand die zo het bloed onder zijn nagels vandaan haalde. Maar tussen haat en liefde zit een dunne lijn, toch? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Diersporengids]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/402367456/diersporengids-martin-lausser</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/402367456/diersporengids-martin-lausser"/>
+        <updated>2026-07-23T09:20:38.780Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A402367456?aid=kb-online-bibliotheek&sid=22&dts=1784798438216&sig=cd8ad1d312bad70de23a2a21be475b9e58df4ed6385a9823864ebc508f7a08f9&width=320" alt="Omslag van 'Diersporengids'" title="Omslag van 'Diersporengids'">
+<p>Gids voor het determineren van sporen van vogels, zoogdieren, amfibieën, reptielen en insecten in heel West-Europa, met dierportretten.</p>]]></content>
         <author>
-            <name>Ryanne Veldkamp</name>
+            <name>Martin Lausser</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conclaaf]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442944748/conclaaf-penelope-douglas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442944748/conclaaf-penelope-douglas"/>
-        <updated>2026-07-22T09:22:26.265Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442944748?aid=kb-online-bibliotheek&sid=22&dts=1784712146021&sig=a171e9a40507ad7903cbe73c5f3798451e3bb895497ec94237d06cce58e9948c&width=320" alt="Omslag van 'Conclaaf'" title="Omslag van 'Conclaaf'">
-<p>Spannend tussendeel in de Duivelsnacht-serie van Penelope Douglas! Will is verdwenen. Hij is al maanden niet gezien en de appjes die van zijn telefoon komen, zijn bijna zeker vervalst. Michael is klaar om The Cove af te breken, Rika verbergt iets, Evans Crist is een bedreiging en Winters vader loopt nog vrij rond. Iedereen gaat een miljoen kanten op en de groep is kwetsbaar. Het is tijd om hun plek op te eisen. Ze sluiten zichzelf op op een jacht, net zolang totdat alles op tafel ligt. Maar dat heeft een hogere prijs dan ze vooraf kunnen bedenken... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Meedogenloos]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/42410833X/meedogenloos-tim-grover---shari-lesser-wenk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/42410833X/meedogenloos-tim-grover---shari-lesser-wenk"/>
+        <updated>2026-07-23T09:20:39.512Z</updated>
+        <summary type="html"><![CDATA[From Good to Great to Unstoppable]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42410833X?aid=kb-online-bibliotheek&sid=22&dts=1784798438903&sig=0c5ab46f1b2e30f4f0de446755010b35d634e044662231edccf24e6adfc74717&width=320" alt="Omslag van 'Meedogenloos'" title="Omslag van 'Meedogenloos'">
+<p>Beschrijving van hoe je als sporter een Cleaner kunt worden: iemand die de moed en de visie heeft om alles in zijn voordeel te regisseren, waarbij alleen het rsultaat telt.</p>]]></content>
         <author>
-            <name>Penelope Douglas</name>
+            <name>Tim Grover</name>
+        </author>
+        <author>
+            <name>Shari Lesser Wenk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een koude douche]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443764298/een-koude-douche-kristie-raaijmakers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443764298/een-koude-douche-kristie-raaijmakers"/>
-        <updated>2026-07-22T09:22:26.576Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443764298?aid=kb-online-bibliotheek&sid=22&dts=1784712146355&sig=f89124004aa55631e5e2bf530b444a84f29f17add1ef5f44d0d02a265c719dd7&width=320" alt="Omslag van 'Een koude douche'" title="Omslag van 'Een koude douche'">
-<p>Na een verregende wandeling komt Isa terug in haar huisje op een vakantiepark met het verlangen om een lekkere warme douche te nemen. Dat zit er echter niet in, ontdekt ze al snel. Het water is ijskoud en de persoon die ze aan de lijn krijgt als ze hierover haar beklag doet, Jim, reageert al net zo koeltjes en kortaf. Maar als ze hem leert kennen, krijgt Isa het een stuk warmer... en dat is niet te danken aan haar boiler. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De vermiste griffioenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/42304348X/de-vermiste-griffioenen-tui-t--sutherland---kari-sutherland</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/42304348X/de-vermiste-griffioenen-tui-t--sutherland---kari-sutherland"/>
+        <updated>2026-07-23T09:20:40.239Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42304348X?aid=kb-online-bibliotheek&sid=22&dts=1784798439669&sig=e6cfeab12f8f7f8580a00afc7dd18cc5a1c801cf6fcf480b7feb57bae9054bc9&width=320" alt="Omslag van 'De vermiste griffioenen'" title="Omslag van 'De vermiste griffioenen'">
+<p>Logan vindt een griffioenwelpje in zijn slaapkamer. Voor hij het weet staat zijn wereld op zijn kop. Een wereld die vol mythologische dieren blijkt te zitten. Vanaf ca. 9 jaar.</p>]]></content>
         <author>
-            <name>Kristie Raaijmakers</name>
+            <name>Tui T. Sutherland</name>
+        </author>
+        <author>
+            <name>Kari Sutherland</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De verloren envelop]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444427422/de-verloren-envelop-kristie-raaijmakers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444427422/de-verloren-envelop-kristie-raaijmakers"/>
-        <updated>2026-07-22T09:22:26.836Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444427422?aid=kb-online-bibliotheek&sid=22&dts=1784711813642&sig=b12f0ecc7eaf65ac0eaf99a850712bd6a5e68386f5919a6058994b16a57d75f2&width=320" alt="Omslag van 'De verloren envelop'" title="Omslag van 'De verloren envelop'">
-<p>Ceciles driejarige zoontje Luuk is groot fan van de vuilniswagen. Elke week als de wagen de straat in komt, staat hij met zijn neus tegen het raam geplakt. En Cecile... doet met hem mee. Want de vuilnisman, die is érg prettig om naar te kijken. Dan, op een dag, krijgt Cecile de schrik van haar leven: ze heeft per ongeluk een belangrijke envelop bij het oud papier gegooid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Calvijn verzameld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/419029656/calvijn-verzameld-herman-j--selderhuis</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/419029656/calvijn-verzameld-herman-j--selderhuis"/>
+        <updated>2026-07-23T09:20:40.911Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A419029656?aid=kb-online-bibliotheek&sid=22&dts=1784798440364&sig=1c33d16c35b75fb8677ad54f377e891b5412a22194294b62f2646a6c6d63e4f0&width=320" alt="Omslag van 'Calvijn verzameld'" title="Omslag van 'Calvijn verzameld'">
+<p>Bloemlezing uit bekende en onbekende geschriften van de Franse reformator (1509-1564), voorzien van inleidingen en verklarende eindnoten.</p>]]></content>
         <author>
-            <name>Kristie Raaijmakers</name>
+            <name>Herman J. Selderhuis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Van mijn fiets geblazen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443764263/van-mijn-fiets-geblazen-nicole-schelling</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443764263/van-mijn-fiets-geblazen-nicole-schelling"/>
-        <updated>2026-07-22T09:22:27.131Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443764263?aid=kb-online-bibliotheek&sid=22&dts=1784712146927&sig=159485553ce5941b64a3782a9e9cb7b02d6d28c29119b35019758b9bf07b3345&width=320" alt="Omslag van 'Van mijn fiets geblazen'" title="Omslag van 'Van mijn fiets geblazen'">
-<p>Wanneer Sabine bij de supermarkt aankomt voor haar lievelingsbroodje, gunt een leuke man haar het laatste dat in de vitrine ligt. Vrolijk stapt ze daarna op de fiets, om even later van haar fiets te worden gereden door een asociale automobilist. Haar broodje kip belandt in een plas water, en haar fantasieën over de leuke man? Die belanden in de goot, want hij is de automobilist in kwestie. En dat is nog niet het enige wat er mis met hem blijkt... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Peaky Blinders]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/426304624/peaky-blinders-carl-chinn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/426304624/peaky-blinders-carl-chinn"/>
+        <updated>2026-07-23T09:20:41.505Z</updated>
+        <summary type="html"><![CDATA[De ware geschiedenis van de beruchtste bendes van Birmingham]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426304624?aid=kb-online-bibliotheek&sid=22&dts=1784797781471&sig=93f6c22adcd1c1ebded74d7516898cb87821591f0735410ce29fbbd4a07ef9a4&width=320" alt="Omslag van 'Peaky Blinders'" title="Omslag van 'Peaky Blinders'">
+<p>De Peaky Blinders, bekend vanwege de populaire tv-serie, vormden een criminele bende uit Birmingham die actief was kort na de Eerste Wereldoorlog. Sociaal historicus Carl Chinn heeft decennialang onderzoek gedaan naar deze bende, van wie één lid zijn eigen overgrootvader was. Deze aangrijpende 'Sunday Times Bestseller' voegt een opmerkelijk aantal originele bronnen samen, waaronder tot nu toe onbekende afbeeldingen van de historische Peaky Blinders en interviews met familieleden van de gangsters uit de jaren twintig van de vorige eeuw. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nicole Schelling</name>
+            <name>Carl Chinn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ver van je bed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443262489/ver-van-je-bed-nicole-schelling---ryanne-veldkamp---ren%C3%A9e-olsthoorn---kristie</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443262489/ver-van-je-bed-nicole-schelling---ryanne-veldkamp---ren%C3%A9e-olsthoorn---kristie"/>
-        <updated>2026-07-22T09:22:27.418Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443262489?aid=kb-online-bibliotheek&sid=22&dts=1784712147231&sig=26e6286858231b473425947e2162749f7626c7f10a43f5addbf2c44887c39eb3&width=320" alt="Omslag van 'Ver van je bed'" title="Omslag van 'Ver van je bed'">
-<p>Zin in vakantie, maar geen tijd of geld om zelf de wereld rond te reizen? Of ga je wel lekker op pad en heb je alsnog zin om ver weg te dromen? Wat je zomerplannen ook zijn, de verhalenbundel Ver van je bed staat bomvol romance-verhalen waarin de personages in allerlei verschillende landen een romantisch avontuur beleven. Zo word je meegevoerd naar San Francisco, Noorwegen, Bali en Hawaï. Arrivederci! Met bijdragen van Nicole Schelling, Ryanne Veldkamp, Patricia van Dam, Anne May, Melissa Blad, Lisanne Stam, Renée Olsthoorn, Kristie Raaijmakers, Yentl Spijk en Kyra Mind. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Curvy girls]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/426303725/curvy-girls-carla-schwind</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/426303725/curvy-girls-carla-schwind"/>
+        <updated>2026-07-23T09:20:42.180Z</updated>
+        <summary type="html"><![CDATA[Gehaakte poppen die hun curves rocken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426303725?aid=kb-online-bibliotheek&sid=22&dts=1784798441651&sig=528d545c988a9e6a4c07d1f54341354e5dda4547f3b1f86778a357cc5ba73eb2&width=320" alt="Omslag van 'Curvy girls'" title="Omslag van 'Curvy girls'">
+<p>We hoeven er niet omheen te draaien: Curvy girls haken van Carla Schwind is gewoon een hartstikke leuk haakboek! Stoer, vrouwelijk en supergrappig. De gehaakte poppen zijn allesbehalve braaf, saai of kinderachtig en staan met beide benen stevig op de grond. De poppen zijn ongeveer 23 cm groot en er zijn 15 verschillende haakpatronen.</p><p>Goed te doen voor beginners en even leuk voor gevorderden, alles staat duidelijk en stap-voor-stap uitgelegd. Van rockchick tot superwoman, van zeemeermin tot bakkersvrouw: er is een curvy girl voor jou! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nicole Schelling</name>
-        </author>
-        <author>
-            <name>Ryanne Veldkamp</name>
-        </author>
-        <author>
-            <name>Renée Olsthoorn</name>
-        </author>
-        <author>
-            <name>Kristie Raaijmakers</name>
-        </author>
-        <author>
-            <name>Kyra Mind</name>
+            <name>Carla Schwind</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vuurzee]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442328311/vuurzee-ryanne-veldkamp</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442328311/vuurzee-ryanne-veldkamp"/>
-        <updated>2026-07-22T09:22:27.721Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442328311?aid=kb-online-bibliotheek&sid=22&dts=1784712147519&sig=c95e4092b5889c79a0611a60a68a929477a111d1b6f5127635875bdb57d55532&width=320" alt="Omslag van 'Vuurzee'" title="Omslag van 'Vuurzee'">
-<p>Wanneer het bedrijf waaravoor hij werkt een vestiging opent in Schotland, grijpt Jelte de kans om weg te vluchten uit Nederland met beide handen aan. Weg van de plek waar vooral nare herinneringen liggen, waar hij zich bezoedeld voelt en onwaardig, waardoor hij op allerlei vlakken blokkeert. Eenmaal in Schotland, waar hij midden in het groen komt te wonen, krijgt Jelte lucht en ruimte. Het lijkt erop dat hij eindelijk kan vergeten en verdergaan - tot hij tijdens een wandeling een leuke man tegenkomt. Mats komt ook uit Nederland en is hierheen verhuisd voor de liefde, die helaas onlangs gestrand is. Jelte en Mats raken aan de praat en het klikt zo goed dat ze vaker afspreken. Maar er is één ding waar Jelte niet over wil praten. Het vervelende is alleen dat hij wel zal moeten om een relatie met Mats een eerlijke kans te geven... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Helden uit je kindertijd haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum"/>
+        <updated>2026-07-23T09:20:42.931Z</updated>
+        <summary type="html"><![CDATA[Tekenfilmfiguren, culthelden en andere amigurumi's]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427826381?aid=kb-online-bibliotheek&sid=22&dts=1784798442304&sig=07c2ab7cb94a5c86f273e0ef117110873e98f0b61237f86d9dc1d46b9168178e&width=320" alt="Omslag van 'Helden uit je kindertijd haken'" title="Omslag van 'Helden uit je kindertijd haken'">
+<p>Haakpatronen van bekende tekenfilm- en stripfiguren.</p>]]></content>
         <author>
-            <name>Ryanne Veldkamp</name>
+            <name>Sofie Kirschbaum</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mijn monster]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442311958/mijn-monster-nicole-schelling</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442311958/mijn-monster-nicole-schelling"/>
-        <updated>2026-07-22T09:22:27.936Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442311958?aid=kb-online-bibliotheek&sid=22&dts=1784711676064&sig=348ac4418e389b1b6a0fb444e3cc45d591bdfb22deab94be9a52c390bbfb4302&width=320" alt="Omslag van 'Mijn monster'" title="Omslag van 'Mijn monster'">
-<p>𝑾𝒂𝒕 𝒊𝒔 𝒔𝒕𝒆𝒓𝒌𝒆𝒓: 𝒅𝒆 𝒍𝒊𝒆𝒇𝒅𝒆, 𝒉𝒆𝒕 𝒅𝒖𝒊𝒔𝒕𝒆𝒓... 𝒐𝒇 𝒉𝒂𝒂𝒓 𝒍𝒊𝒆𝒇𝒅𝒆 𝒗𝒐𝒐𝒓 𝒉𝒆𝒕 𝒅𝒖𝒊𝒔𝒕𝒆𝒓? Noëlla houdt zichzelf voor dat ze haar leven prima op orde heeft. Ze is gewoon een 25-jarige meid met een leuke baan, lieve ouders, vriendschap door dik en dun en een haat-liefdeverhouding met de sportschool. Maar diep in haar schuilt een duister geheim. Een geheim met tentakels, dat haar steeds meer in zijn greep krijgt. Haar worsteling is zo groot dat ze zich willens en wetens in een wereld stort waarvan ze weet dat die haar demonen tot leven zal wekken. Hoe dieper ze gaat, hoe meer ze in tweestrijd raakt: springt ze of vlucht ze? Maar op het moment dat het monster dat ze al jaren zo diep heeft weggestopt, recht voor haar neus staat, heeft Noëlla geen keus meer. Er is geen weg meer terug. Het enige wat ze kan doen, is zich laten verslinden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Kraamcadeautjes haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/427826241/kraamcadeautjes-haken-annemarie-arts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/427826241/kraamcadeautjes-haken-annemarie-arts"/>
+        <updated>2026-07-23T09:20:43.659Z</updated>
+        <summary type="html"><![CDATA[Rammelaars, knuffeldoekjes en boekjes voor de baby]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427826241?aid=kb-online-bibliotheek&sid=22&dts=1784798443052&sig=6bce99219455778668d8ef039b7694cdc8908fec86baf005a7a44a10cc943b59&width=320" alt="Omslag van 'Kraamcadeautjes haken'" title="Omslag van 'Kraamcadeautjes haken'">
+<p>In ‘Kraamcadeautjes haken’ deelt de ervaren ontwerpster Annemarie Arts haar gloednieuwe haakontwerpen voor de vrolijkste kraamcadeautjes. De patronen voor babyboekjes, rammelaars en knuffeldoekjes zijn door de diverse thema’s leuk voor zowel jongens als meisjes. Daarnaast zijn de speelgoedsetjes naar hartenlust met elkaar te combineren. Annemaries ontwerpen zijn populair en geliefd. Vrolijk en kleurrijk, origineel en altijd met duidelijke patroonbeschrijvingen. Haakplezier gegarandeerd: zowel voor beginners als voor gevorderden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nicole Schelling</name>
+            <name>Annemarie Arts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Van ver gekomen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443262578/van-ver-gekomen-kristie-raaijmakers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443262578/van-ver-gekomen-kristie-raaijmakers"/>
-        <updated>2026-07-22T09:22:28.237Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443262578?aid=kb-online-bibliotheek&sid=22&dts=1784712148034&sig=9085033716d77f8f5f8adbb037d325cf3abaad7d8a55a90029c89e4b2110ac61&width=320" alt="Omslag van 'Van ver gekomen'" title="Omslag van 'Van ver gekomen'">
-<p>Mona was als puber waanzinnig verliefd op Lucas. Maar hij zag haar niet staan, net zoals iedereen destijds trouwens - ze was dat sneue geval met die rare ouders en het mikpunt van pesterijen. Als ze hem jaren later weer tegen het lijf loopt in Sevilla, probeert ze net te doen alsof ze hem niet kent. Dat laat Lucas echter niet gebeuren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hoe word je ALLES?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/426437101/hoe-word-je-alles--emilie-wapnick</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/426437101/hoe-word-je-alles--emilie-wapnick"/>
+        <updated>2026-07-23T09:20:44.372Z</updated>
+        <summary type="html"><![CDATA[Voor mensen met veel interesses, talenten en een lange bucketlist]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426437101?aid=kb-online-bibliotheek&sid=22&dts=1784798443777&sig=a496b42d9b68cbe3de48c4eaa86c28f87a6f6004da40eb5aecb0a5d4ce2aa3d1&width=320" alt="Omslag van 'Hoe word je ALLES?'" title="Omslag van 'Hoe word je ALLES?'">
+<p>Wat wil je later worden? Heel veel mensen weten niet wat voor werk ze (later) willen doen, of hebben het gevoel nog eens wat anders te willen doen in hun leven. Ze hebben vele passies, interesses en vaardigheden. Emilie Wapnick noemt hen multipotentialities: multigetalenteerden. Met haar motto ‘Word alles!’ en haar populaire TED-talk als basis biedt Wapnick hun perspectief om verschillende kansen en mogelijkheden te benutten. In dit boek schetst ze een praktisch kader voor het bouwen van een leven rond al hun passies en interesses.</p><p>‘Hoe word je ALLES? maakt je sterk. Dit boek is voor het soort mensen dat niet voor een enkel levenspad kan kiezen omdat ze ontwerper + restauranteigenaar + docent + bestsellerauteur + meer willen worden in dit leven.’ - Darla Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Kristie Raaijmakers</name>
+            <name>Emilie Wapnick</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blonde bezienswaardigheden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443262586/blonde-bezienswaardigheden-lisanne-stam</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443262586/blonde-bezienswaardigheden-lisanne-stam"/>
-        <updated>2026-07-22T09:22:28.552Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443262586?aid=kb-online-bibliotheek&sid=22&dts=1784712148334&sig=afca84175b32e797f6149fcfddd3b39655e55b3868365ef359651636576cf75c&width=320" alt="Omslag van 'Blonde bezienswaardigheden'" title="Omslag van 'Blonde bezienswaardigheden'">
-<p>Denzel valt niet op blond. Maar met zijn standaard type heeft hij weinig geluk gehad in de liefde, dus besluit hij impulsief naar Zweden te gaan om zijn gebroken hart eruit te bonken. Als wingman neemt hij zijn broertje mee, en dat zou weleens de grootste fout kunnen zijn die hij voor deze missie kon maken. Of is het stiekem een zegen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Winters haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/42782625X/winters-haken-thessa-kockelkorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/42782625X/winters-haken-thessa-kockelkorn"/>
+        <updated>2026-07-23T09:20:44.945Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42782625X?aid=kb-online-bibliotheek&sid=22&dts=1784796445688&sig=a29424b277709944a3cf573dca06d0b674cc07b911fc70c6b9cce411a49d4c00&width=320" alt="Omslag van 'Winters haken'" title="Omslag van 'Winters haken'">
+<p>Met ‘Winters haken’ haak je de mooiste patronen voor warme mutsen, wanten, sjaals en dekens in de meest schitterende kleurencombinaties. De patronen zijn ook uitgewerkt in een duurzame recycle-variant: met restjes wol. Er is voor iedereen genoeg uitdaging: voor beginners en gevorderde haaksters is dit een prachtig boek vol inspiratie. Het levert naast veel haakplezier gegarandeerd een warme en kleurrijke winter op. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lisanne Stam</name>
+            <name>Thessa Kockelkorn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vuurrood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440449855/vuurrood-ryanne-veldkamp</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440449855/vuurrood-ryanne-veldkamp"/>
-        <updated>2026-07-22T09:22:28.848Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440449855?aid=kb-online-bibliotheek&sid=22&dts=1784712148644&sig=4b5aa34dca7bda768f734c5b32023115c129d817ea4ad063b0b02ae2c908ed99&width=320" alt="Omslag van 'Vuurrood'" title="Omslag van 'Vuurrood'">
-<p>Kjeld heeft een hekel aan vuur en alles wat ermee te maken heeft. Dertien jaar geleden was hij namelijk bij een enorme schuurbrand. Hij wist maar ternauwernood een jong meisje te redden dat anders door de vlammen zou zijn verzwolgen, hoewel niet iedereen er levend uit kwam. Dat besef achtervolgt hem nog elke dag. Na zijn scheiding is Kjeld voorlopig niet van plan zich aan het vuur van de liefde te branden. Vervelend genoeg ontmoet hij vaak, als hij na werktijd wat gaat drinken, een heel leuke barvrouw die iets in hem losmaakt. En niet alleen een klik, maar ook een soort herkenning. Alsof hij met haar verbonden is. Hij krijgt haar niet uit zijn hoofd... en dan komt hij erachter waar hij haar eerder heeft ontmoet: in het vuur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Natuurzin]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434206512/natuurzin-marieke-schatteleijn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434206512/natuurzin-marieke-schatteleijn"/>
+        <updated>2026-07-23T09:20:45.597Z</updated>
+        <summary type="html"><![CDATA[Waarom de natuur ons blijer, gezonder en creatiever maakt]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434206512?aid=kb-online-bibliotheek&sid=22&dts=1784798445069&sig=76d8c4204e4d9e83d8f7fc314f6d6d6dcdc9e2f8e7e2931dff96c7208b192a9b&width=320" alt="Omslag van 'Natuurzin'" title="Omslag van 'Natuurzin'">
+<p>Hoe komt het dat we ons zo gelukkig voelen in het groen, omringd door planten, dieren, mooie landschappen en ander natuurschoon? Wat doet licht voor onze biologische klok? Wat doet hardlopen in de frisse buitenlucht met onze gezondheid? En waarom komt het stadsbrein eigenlijk tot rust in de natuur?</p><p>In Natuurzin gaat boswachter Marieke Schatteleijn op zoek naar antwoorden in de wetenschap en verbind ze die kennis met wat ze zelf ervaart als ze buiten is. Ga met haar mee op reis naar inspirerende Nederlandse natuurgebieden en ontdek aan de hand van negen themahoofdstukken waarom de natuur je blijer, gezonder en creatiever maakt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ryanne Veldkamp</name>
+            <name>Marieke Schatteleijn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carpe diem]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442257961/carpe-diem-ren%C3%A9e-olsthoorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442257961/carpe-diem-ren%C3%A9e-olsthoorn"/>
-        <updated>2026-07-22T09:22:29.043Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442257961?aid=kb-online-bibliotheek&sid=22&dts=1784711581892&sig=b0849e6664c38454b53dcc946527c1d5345fab6362d31ed6deedce84f12a8467&width=320" alt="Omslag van 'Carpe diem'" title="Omslag van 'Carpe diem'">
-<p>Sinds Sasha een halfjaar geleden bij zorgvilla Carpe Diem werkt, heeft ze stiekem een oogje op haar leidinggevende Stefan. Hij is echter kortgeleden weduwnaar geworden en daarom besluit ze dat het beter is om haar verliefdheid te verbergen. Dat lukt prima, tenminste: voor hem. De bewoners van Carpe Diem hebben iets te veel levenservaring om haar niet te doorzien... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het eiland van Verloren Woorden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43221822X/het-eiland-van-verloren-woorden-heather-fawcett</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43221822X/het-eiland-van-verloren-woorden-heather-fawcett"/>
+        <updated>2026-07-23T09:20:46.312Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43221822X?aid=kb-online-bibliotheek&sid=22&dts=1784798445728&sig=673d87bcba2862b7c2642050522ed197b2c9598518f46ed4bc0ad2ddd480ef2a&width=320" alt="Omslag van 'Het eiland van Verloren Woorden'" title="Omslag van 'Het eiland van Verloren Woorden'">
+<p>Het eiland van verloren woorden van Heather Fawcett (Ember en de ijsdraken), is het ultieme boek voor lezers vanaf 10 jaar die van magie en avontuur houden! En natuurlijk voor alle fans van Nevermoor en Bovenwereld. De koningin van Florean is vergiftigd. Haar zoon Julian en zijn zussen vluchten. Hun moeder was de eerste zwarte magiër die heerste over het koninkrijk. Xavier, haar voormalig raadsman, is de boosdoener. Hij aast op de troon en daarom zoekt hij een magisch boek met verloren bezweringen. Want om het koninkrijk te kunnen leiden moet hij een magische taal spreken. Julian, zelf zwarte magiër en troonopvolger, doorziet Xaviers plan. Met zijn zussen, zijn antieke anti-draak en een eigenzinnig zeemonster zoekt ook hij het magische boek. De tijd dringt… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Renée Olsthoorn</name>
+            <name>Heather Fawcett</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Niet bang voor hondenbaasjes]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443764255/niet-bang-voor-hondenbaasjes-ryanne-veldkamp</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443764255/niet-bang-voor-hondenbaasjes-ryanne-veldkamp"/>
-        <updated>2026-07-22T09:22:29.371Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443764255?aid=kb-online-bibliotheek&sid=22&dts=1784712149165&sig=6d797517ce94788d31f88dee8e0cdcdd34b060f51fd30a96adf0e83767313ff7&width=320" alt="Omslag van 'Niet bang voor hondenbaasjes'" title="Omslag van 'Niet bang voor hondenbaasjes'">
-<p>Bo krijgt de schrik van haar dag als ze door een hond omver wordt gerend en even later kennismaakt met zijn baasje, dat niet bepaald sympathiek reageert op het feit dat zijn hond haar compleet heeft overweldigd. Maar als ze niet lang daarna de man weer onder ogen komt, schaamt ze zich toch ook wel voor haar overdreven reactie. Of komt die schaamte vooral doordat ze hem best wel aantrekkelijk vindt? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Tijdwinst - Elke dag om 15.00 uur klaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/432484647/tijdwinst---elke-dag-om-15-00-uur-klaar-bj%C3%B6rn-deusings</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/432484647/tijdwinst---elke-dag-om-15-00-uur-klaar-bj%C3%B6rn-deusings"/>
+        <updated>2026-07-23T09:20:46.979Z</updated>
+        <summary type="html"><![CDATA[Van druk naar productief en meer rust]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432484647?aid=kb-online-bibliotheek&sid=22&dts=1784798446430&sig=050703b5b4ee3ac3fd21312d03e8e992123c556c12d59e2c60856a4c66a04fcf&width=320" alt="Omslag van 'Tijdwinst - Elke dag om 15.00 uur klaar'" title="Omslag van 'Tijdwinst - Elke dag om 15.00 uur klaar'">
+<p>‘Tijdwinst - Elke dag om 15.00 uur klaar’ belooft je een hogere productiviteit en meer rust dankzij praktische tips. Een 6-urige werkdag klinkt misschien te mooi om waar te zijn. Dat is het echter niet. Björn Deusings laat zien dat als je jezelf beter organiseert, realistischer plant, op een slimme manier omgaat met complexe taken en ophoudt met jezelf (en anderen) van het werk te houden, het dan heel goed mogelijk om veel tijd te besparen. Hoe je die extra tijd gebruikt is aan jou. Praktisch toepasbaar en toegankelijk geschreven door de meest toonaangevende blog op het gebied van slimmer werken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ryanne Veldkamp</name>
+            <name>Björn Deusings</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Muurtje om mijn hart]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440450055/muurtje-om-mijn-hart-kristie-raaijmakers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440450055/muurtje-om-mijn-hart-kristie-raaijmakers"/>
-        <updated>2026-07-22T09:22:29.574Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440450055?aid=kb-online-bibliotheek&sid=22&dts=1784711679373&sig=4e13edb959d6d647bcd0192ec250ae350357b7a76b9670a8725c52a85eec40e0&width=320" alt="Omslag van 'Muurtje om mijn hart'" title="Omslag van 'Muurtje om mijn hart'">
-<p>Elin houdt van rust. Niet voor niets is ze twee jaar geleden verhuisd naar een vrijstaande woning aan de rand van het bos, vanwaar ze ook haar administratiekantoor runt. Haar leven is al heftig genoeg geweest, dus dat er in deze buitenwijk nooit iets gebeurt, vindt ze helemaal prima. Die rust wordt behoorlijk verstoord als de leegstaande en vervallen bungalow naast haar verkocht wordt. Al snel komen er klussers voorrijden met harde muziek, vrouwonvriendelijk gefluit en een heleboel rommel. Terwijl Elin zich groen en geel ergert aan de overlast die Mike en Mats veroorzaken, houden haar collega's niet meer op over de woeste aantrekkingskracht van de bouwvakkerstweeling. Het ergste van alles is nog dat Elin het zelf ook begint te zien. En te voelen. Als ze dan ook nog een gigantische blunder begaat, vertrouwt ze zichzelf helemaal niet meer. Ze zou ver bij Mike uit de buurt moeten blijven. Maar ja, dat gaat nogal lastig als je ernaast woont. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Gidsen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/432258523/gidsen-bram-kunz---bram-de-muynck---henk-vermeulen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/432258523/gidsen-bram-kunz---bram-de-muynck---henk-vermeulen"/>
+        <updated>2026-07-23T09:20:47.652Z</updated>
+        <summary type="html"><![CDATA[Een christelijke schoolpedagogiek]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432258523?aid=kb-online-bibliotheek&sid=22&dts=1784798447105&sig=8318bea307b0f2066c7ffffb12c17d21483b1dba4059d1cd7ec89b8a226024b2&width=320" alt="Omslag van 'Gidsen'" title="Omslag van 'Gidsen'">
+<p>‘Gidsen’ van Bram de Muynck en Bram Kunz is een handleiding voor christelijke schoolpedagogiek, bedoeld voor masterstudenten pedagogiek, lerarenopleiders en beleidsmakers. Leraren worden in dit boek gezien als gidsen die leerlingen richting wijzen. Vanuit een christelijk perspectief leiden zij de leerlingen in de wereld en nodigen ze uit zich daartoe te verhouden. In dit boek wordt verkend hoe christelijke idealen over mens en wereld zich verbinden met pedagogische uitdagingen van de maatschappelijke context. Deze schoolpedagogiek is bedoeld voor masterstudenten pedagogiek, lerarenopleiders en beleidsmakers. De auteurs willen hiermee bijdragen aan de visievorming van onderwijsprofessionals. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Kristie Raaijmakers</name>
+            <name>Bram Kunz</name>
+        </author>
+        <author>
+            <name>Bram de Muynck</name>
+        </author>
+        <author>
+            <name>Henk Vermeulen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een pact met de schurk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440450063/een-pact-met-de-schurk-erin-langston</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440450063/een-pact-met-de-schurk-erin-langston"/>
-        <updated>2026-07-22T09:22:29.751Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440450063?aid=kb-online-bibliotheek&sid=22&dts=1784712088947&sig=76c1133a429c35ad9a27d0cef051b0bbd828140fdddb3667e04fe41c361f56e9&width=320" alt="Omslag van 'Een pact met de schurk'" title="Omslag van 'Een pact met de schurk'">
-<p>Zij is nog nooit zo wanhopig geweest. Hij is nog nooit zo overtuigd geweest. Lady Dane - Cora - heeft haar hoop op een gelukkig einde allang opgegeven. Deze weduwe en jonge moeder is vastbesloten om eindelijk op haar eigen voorwaarden te leven... tot ze door een verwoestend verraad haar toekomst in duigen ziet vallen. Nu het erop lijkt dat ze haar kinderen gaat kwijtraken aan overheersende familieleden, heeft Cora iets nodig waarvan ze had gezworen dat ze zich er nooit meer aan zou geven: een man. Nathaniel Travers leidt een zorgeloos leventje. Deze charismatische schurk heeft geen interesse in een huwelijk en de verplichtingen die dat met zich meebrengt. Maar dan zorgt een onverwachte zet van de hertog ervoor dat hij op een houtje moet bijten. Nate staat open voor alles wat hem op de been kan houden... zelfs de bizarre list van een koppige burggravin. Een schijnverloving zou een rechttoe-rechtaan oplossing moeten zijn voor hun beider problemen. Maar een zomer op Cora's landgoed stelt de regeling op de proef, en het duurt niet lang voor hun sluimerende aantrekkingskracht tot grote hoogten stijgt. Als ze worden geconfronteerd met de werkelijke implicaties van hun schijnverloving, moet Nate voor het eerst in zijn leven alles op het spel zetten... mits de wantrouwige Cora haar hart kan openstellen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Fulltime avonturier]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/430770847/fulltime-avonturier-tamar-valkenier</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/430770847/fulltime-avonturier-tamar-valkenier"/>
+        <updated>2026-07-23T09:20:48.366Z</updated>
+        <summary type="html"><![CDATA[Over alles achterlaten en de zoektocht naar ultieme vrijheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430770847?aid=kb-online-bibliotheek&sid=22&dts=1784798447790&sig=c5788de4a749da2dcd3e28376d74d79d5ac4b3d4cb5d9f85022ba830e2f59c0a&width=320" alt="Omslag van 'Fulltime avonturier'" title="Omslag van 'Fulltime avonturier'">
+<p>Op haar achtentwintigste besloot sterrenchef en recherchepsycholoog Tamar Valkenier afstand te doen van al haar bezittingen en haar veilige leven. Ze koos voor het avontuur. Twee jaar lang fietste ze de wereld rond. Eerst in het 'veilige' Europa en daarna almaar verder. Ze reisde vier maanden door Mongolië met haar paard, kameel en hond en liep 600 kilometer door Jordanië.</p><p>Met Miriam Lancewood, bekend van Mijn leven in de wildernis, doorkruiste Tamar het hooggebergte van Nieuw-Zeeland, terwijl ze leefden als jagers-verzamelaars. Ze werden daar opgezocht door Floortje Dessing voor haar tv-programma Floortje naar het einde van de wereld. Tamar Valkenier blijft op zoek naar nieuwe avonturen. In 'Fulltime avonturier' doet ze verslag van haar vrije leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Erin Langston</name>
+            <name>Tamar Valkenier</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kijk eens wat vaker in de spiegel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444427406/kijk-eens-wat-vaker-in-de-spiegel-ryanne-veldkamp</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444427406/kijk-eens-wat-vaker-in-de-spiegel-ryanne-veldkamp"/>
-        <updated>2026-07-22T09:22:30.043Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444427406?aid=kb-online-bibliotheek&sid=22&dts=1784712149844&sig=deb2a271ef16367dd8519be3a61726b545b02be6a4de71fe725e0e8dfdbf4a49&width=320" alt="Omslag van 'Kijk eens wat vaker in de spiegel'" title="Omslag van 'Kijk eens wat vaker in de spiegel'">
-<p>Ilse zit in de auto op de parkeerplaats voor haar sollicitatiegesprek net haar lippenstift te doen, als haar auto wordt geraakt door een veel te dure auto om zo roekeloos mee te rijden. Haar lippenstift belandt op haar neus en haar buitenspiegel wordt eraf gereden. Alsof het nog niet erg genoeg is, blijkt de veroorzaker van dit alles, Paul, degene te zijn met wie ze haar sollicitatiegesprek heeft... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Mussolini]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433462817/mussolini-hans-woller</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433462817/mussolini-hans-woller"/>
+        <updated>2026-07-23T09:20:48.974Z</updated>
+        <summary type="html"><![CDATA[De eerste fascist]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433462817?aid=kb-online-bibliotheek&sid=22&dts=1784796635499&sig=72d7628db23b6bbebf98e6c03c072d47f9fbf144925326bc8f9de7357c5fb315&width=320" alt="Omslag van 'Mussolini'" title="Omslag van 'Mussolini'">
+<p>Benito Mussolini was een telg uit een rood nest. Met zijn vlijmscherpe pen werkte hij aan een loopbaan als journalist. Hij groeide uit tot een van de voormannen van de Italiaanse socialistische partij. Maar na de Eerste Wereldoorlog koos hij een andere koers. Met zijn fascistische partij greep Mussolini bij de Mars op Rome in 1922 de macht, waarna hij op genade loze wijze zijn tegenstrevers uitschakelde. Tien duizenden socialisten en communisten werden opgesloten en gemarteld, verbannen of vermoord. Benito Mussolini muntte niet alleen het begrip ‘fascisme’, hij gaf de beweging ook zijn moorddadige ideologie. De Italiaanse leider beschouwde het Romeinse volk als superieur, hij was racistisch en antisemitisch en stortte zijn land in de ene na de andere zinloze oorlog. Als grondlegger van het fascisme wordt zijn rol in de Europese geschiedenis veelal onderschat. Met deze biografie toont Hans Woller het ware gezicht van een meedogenloze leider. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ryanne Veldkamp</name>
+            <name>Hans Woller</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kulti]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440415780/kulti-mariana-zapata</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440415780/kulti-mariana-zapata"/>
-        <updated>2026-07-22T09:22:30.653Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440415780?aid=kb-online-bibliotheek&sid=22&dts=1784712031396&sig=b8a58d1b7113c93876de9245df69d1497c39fce4143ea09d24b2d401581533bf&width=320" alt="Omslag van 'Kulti'" title="Omslag van 'Kulti'">
-<p>Wat doe je als internationaal voetbal-icoon Reiner Kulti je nieuwe coach wordt? Je springt een gat in de lucht. Tenminste, totdat je ontdekt wat voor eikel hij in werkelijkheid is. Als de 27-jarige Sal de kans krijgt om te werken met haar jeugdidool, duurt het niet lang voordat hij haar volkomen gek maakt. Wat heeft ze ooit in hem gezien? Ze heeft geen idee, maar het doet er ook niet meer toe. Het enige wat telt, is dat ze van hem kan leren hoe ze een nog betere voetballer wordt. En dat is iets waar Sal alles voor opzij zou zetten. Alles, behalve haar waardigheid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Helden uit je kindertijd tekenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/432484183/helden-uit-je-kindertijd-tekenen-berrin-jost</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/432484183/helden-uit-je-kindertijd-tekenen-berrin-jost"/>
+        <updated>2026-07-23T09:20:49.660Z</updated>
+        <summary type="html"><![CDATA[Stripfiguren en tekenfilmhelden stap voor stap tekenen en kleuren]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432484183?aid=kb-online-bibliotheek&sid=22&dts=1784798449104&sig=64a1e4af282768b44bcaaee088f5d77601d5cce4e0128162b72ce4555612b5bb&width=320" alt="Omslag van 'Helden uit je kindertijd tekenen'" title="Omslag van 'Helden uit je kindertijd tekenen'">
+<p>Helden uit je kindertijd – van vroeger en nu – komen weer tot leven! Met de hulp van Berrin Jost leer je geliefde figuren uit legendarische tekenfilms en series eenvoudig natekenen. In maar vijf stappen zet je gedetailleerde cultfiguren uit boeken, strips en van tv op het papier. Teken ze op een wenskaart, uitnodiging of wanddecoratie en ontdek het kind in jezelf! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Mariana Zapata</name>
+            <name>Berrin Jost</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bonden van Hercules]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461170949/bonden-van-hercules-jasmine-mas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461170949/bonden-van-hercules-jasmine-mas"/>
-        <updated>2026-07-22T09:22:30.931Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461170949?aid=kb-online-bibliotheek&sid=22&dts=1784712150743&sig=d34b76952c9ceed18cfa3496f11a426176429519521273d0dc843da0870ebab9&width=320" alt="Omslag van 'Bonden van Hercules'" title="Omslag van 'Bonden van Hercules'">
-<p>Hercules is back! En deze keer laat ze niet meer over zich heen lopen... Elke held heeft zijn vijanden. En Alexis zit aan de hare vast: voor altijd, onherroepelijk verbonden met de duistere erfgenamen van de onderwereld, in een huwelijk dat Sparta op zijn grondvesten heeft doen schudden - en alles wat Alexis ooit geloofde overhoop heeft gegooid. In shock sluit ze zich aan bij de Vergadering des Doods, samen met haar mentoren, vastbesloten om wraak te nemen op haar echtgenoten en de waarheid achter haar dodelijke krachten te ontrafelen. Ze zal hun allemaal laten zien dat een god niet geketend kan worden. En dat een monster niet in een kooitje kan worden gestopt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Onesiegurumi]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/432484140/onesiegurumi-sascha-blase-van-wagtendonk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/432484140/onesiegurumi-sascha-blase-van-wagtendonk"/>
+        <updated>2026-07-23T09:20:50.425Z</updated>
+        <summary type="html"><![CDATA[Amigurumi haken zonder naaiwerk!]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432484140?aid=kb-online-bibliotheek&sid=22&dts=1784798449777&sig=5f9db2f74913ccd2c03cfbabe5ba49e895e2576b4fe2da1aec135e5a5a3123a3&width=320" alt="Omslag van 'Onesiegurumi'" title="Omslag van 'Onesiegurumi'">
+<p>Haakexpert Sascha Blase-van Wagtendonk, bekend van onder meer de geliefde lappenpoppen en schitterende gehaakte sjaals, introduceert iets geheel nieuws: de onesiegurumi! Een nieuwe manier van amigurumi haken, waardoor je niets meer aan elkaar hoeft te naaien. Je begint met het haken van de losse onderdelen, waarna je verder gaat met het hoofd en het lijf, terwijl je onderweg alle delen bevestigt. Zo komt het knuffeltje al tijdens het haken tot leven.</p><p>De 15 uitgebreide patronen bevatten veel foto’s en stap-voor-stapbeschrijvingen. Met de handige tips leer je ook hoe je de beestjes in een mum van tijd een transformatie geeft: maak een mini- of een megavariant, haak ze met kleren aan of borstel ze voor een donzige look. Deze superschattige beestjes zijn voor elke haakliefhebber onweerstaanbaar! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jasmine Mas</name>
+            <name>Sascha Blase-Van Wagtendonk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Op de voorgrond]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461170957/op-de-voorgrond-kristie-raaijmakers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461170957/op-de-voorgrond-kristie-raaijmakers"/>
-        <updated>2026-07-22T09:22:31.250Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461170957?aid=kb-online-bibliotheek&sid=22&dts=1784712151027&sig=3f6bf3db5cda67ef6158298d80e20fd5cff864048122c920a12640f6ab16ddf0&width=320" alt="Omslag van 'Op de voorgrond'" title="Omslag van 'Op de voorgrond'">
-<p>Eerst gooide zij haar leven om. Nu gooit hij haar leven overhoop Twee jaar na de doorbraak met haar debuutroman over een curvy vrouw zoals zijzelf, heeft Cassandra Richards het roer noodgedwongen omgegooid. Ze is gezonder gaan leven en ruim dertig kilo afgevallen. Desondanks is ze onzekerder over zichzelf dan ooit. Bovendien is ze bang dat het een grote fout was om van haar tweede boek een sports romance te maken. Foto's van fitfluencer Ethan Greene vormden tijdens het schrijfproces de perfecte inspiratie voor haar mannelijke hoofdpersonage. Maar als haar literair agent Moira hem weet te strikken voor de covershoot, ontdekt Cassie waarom lezers sommige dingen liever aan de verbeelding overlaten. Want in het echt blijkt Ethan... nou ja, totaal níét zoals ze hem in haar boek beschreven heeft. Knap? Zeker. Charmant? Absoluut niet. Cassie heeft spijt dat ze met dit alles heeft ingestemd. Helemaal als de uitgever met een wilde promotiestunt komt: Ethan en Cassie gaan samen op signeertour door Amerika. Twee mensen die elkaar niet kunnen uitstaan, drie weken samen op reis - dat is gedoemd te mislukken. Of krijgt Cassie haar eigen plottwist? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Meer sjaals haken à la Sascha]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43122966X/meer-sjaals-haken-%C3%A0-la-sascha-sascha-blase-van-wagtendonk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43122966X/meer-sjaals-haken-%C3%A0-la-sascha-sascha-blase-van-wagtendonk"/>
+        <updated>2026-07-23T09:20:51.072Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43122966X?aid=kb-online-bibliotheek&sid=22&dts=1784798450541&sig=c3e2f49bbb7b8a07c0c43b64d95e54fe7d1e85cd3f4a44573e2218157ef43aab&width=320" alt="Omslag van 'Meer sjaals haken à la Sascha'" title="Omslag van 'Meer sjaals haken à la Sascha'">
+<p>Werkbeschrijvingen voor het haken van sjaals en omslagdoeken.</p>]]></content>
         <author>
-            <name>Kristie Raaijmakers</name>
+            <name>Sascha Blase-Van Wagtendonk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pak je lasso]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444326944/pak-je-lasso-lyla-sage</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444326944/pak-je-lasso-lyla-sage"/>
-        <updated>2026-07-22T09:22:31.548Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444326944?aid=kb-online-bibliotheek&sid=22&dts=1784712151344&sig=b2b3bb8c331bc0ad44df0dff203f005be1660815c739d01f5ed1578dfd69d709&width=320" alt="Omslag van 'Pak je lasso'" title="Omslag van 'Pak je lasso'">
-<p>Zij gedijt op chaos. Hij houdt van routine. Het enige wat ze gemeen hebben? Hun haat voor elkaar... Teddy Andersen heeft geen plan. Dat heeft ze nooit nodig gehad. Ze is meer een go with the flow-type, maar om de een of andere reden flowt de boel momenteel niet zo lekker. Er zit een gat in haar favoriete jack, haar naaimachine is kapot en haar beste vriendin is verloofd. Het voelt alsof alles verandert. En niet op een positieve manier. Blijft zij achter terwijl iedereen verdergaat? Gus Ryder heeft een hoop op zijn bord. Hij is altijd degene geweest op wie iedereen kan bouwen, maar als hij dreigt te verdrinken in het werk en de zorg voor zijn zesjarige dochtertje, moet hij toegeven dat hij niet alles alleen kan. Hij heeft hulp nodig. De beste vriendin van zijn zusje is daarvoor niet de eerste die in hem opkomt, maar ze is wel de enige die tijd heeft. Teddy besluit deze zomer te gebruiken om uit te vinden wat ze wil in het leven. Gus begint juist bang te worden dat hij nooit gaat vinden wat hij nodig heeft. Maar als ze elkaar voor het eerst in hun leven in een ander licht gaan zien, beginnen er onder de oppervlakte nieuwe gevoelens te broeien. Nu moeten ze alleen nog besluiten of ze daar iets mee gaan doen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Verschenen of verdwenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434787523/verschenen-of-verdwenen-sovon</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434787523/verschenen-of-verdwenen-sovon"/>
+        <updated>2026-07-23T09:20:51.699Z</updated>
+        <summary type="html"><![CDATA[Ruim een eeuw Nederlandse broedvogels in beweging]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434787523?aid=kb-online-bibliotheek&sid=22&dts=1784798451187&sig=d74f8afffa112616f32271a6530f92bc49ba68503b7e2d0692127d85dae3ac4e&width=320" alt="Omslag van 'Verschenen of verdwenen'" title="Omslag van 'Verschenen of verdwenen'">
+<p>Overzicht in woord en beeld van onderzoek naar zeventig broedvogelsoorten en wanneer ze in Nederland verschenen of verdwenen zijn.</p>]]></content>
         <author>
-            <name>Lyla Sage</name>
+            <name>Sovon</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Precies wat ik miste]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44331408X/precies-wat-ik-miste-hannah-bonam-young</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44331408X/precies-wat-ik-miste-hannah-bonam-young"/>
-        <updated>2026-07-22T09:22:31.833Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44331408X?aid=kb-online-bibliotheek&sid=22&dts=1784712151651&sig=572ca91c69f9af28c4dbcbb4cb30182e518f02900ac8133d6eeb9b86293d96d3&width=320" alt="Omslag van 'Precies wat ik miste'" title="Omslag van 'Precies wat ik miste'">
-<p>Winnifred McNulty is trots op haar onafhankelijkheid. Dat ze een onvolgroeide hand heeft, houdt haar niet tegen en ze wil er al helemaal niet anders om behandeld worden. Het grootste deel van haar leven heeft ze alles op alles gezet om te bewijzen dat ze het allemaal zelf kan, en met een paar kleine aanpassingen is dat prima gelukt. Maar dan heeft ze een onenightstand met de ongelooflijk charmante Bo en verandert alles. Ze verwachten namelijk samen een kindje. En terwijl Bo verrassend blij is met deze onverwachte wending, weet Win niet zeker of ze déze uitdaging wel in haar eentje aankan... of dat ze een helpende hand nodig heeft. Win en Bo besluiten ervoor te gaan als vrienden en niets meer dan dat. Maar zoals ze inmiddels allebei wel zouden moeten weten, verloopt het leven zelden volgens plan. 'Precies wat ik miste' is een ongelooflijk warm en realistisch feelgoodverhaal over twee mensen die helemaal niks tekortkomen... behalve misschien, zonder dat ze het wisten, elkaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Tassen haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433729112/tassen-haken-jennifer-stiller---karen-lee-luick</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433729112/tassen-haken-jennifer-stiller---karen-lee-luick"/>
+        <updated>2026-07-23T09:20:52.387Z</updated>
+        <summary type="html"><![CDATA[Van klein tot groot, van eenvoudig tot uitgebreid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433729112?aid=kb-online-bibliotheek&sid=22&dts=1784798451813&sig=218d0dcb746cde5c6c2ad0fb236e82674541fc47dc66c57fcb341b5b31eee591&width=320" alt="Omslag van 'Tassen haken'" title="Omslag van 'Tassen haken'">
+<p>Gehaakte tassen zijn hot! Jennifer Stiller leert je hoe ze ook nog eens gemakkelijk zelf haakt. Er is een tas voor elke smaak en stijl. Of je nu houdt van eenvoudig of speels, elegant of bohemien, groot of klein, snel gemaakt of meer uitgewerkt. Een tas is net zo individueel en uniek als de drager ervan. Dankzij de duidelijke en gedetailleerde instructies leer je allerlei verschillende tassen zelf haken: een shopper, mobiele-telefoontas, boodschappentas, en nog veel meer. Leuk voor jezelf, of om cadeau te doen. De patronen zijn geschikt voor beginners en gevorderden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Hannah Bonam-Young</name>
+            <name>Jennifer Stiller</name>
+        </author>
+        <author>
+            <name>Karen Lee Luick</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sleutel tot mijn hart]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444311386/sleutel-tot-mijn-hart-kristie-raaijmakers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444311386/sleutel-tot-mijn-hart-kristie-raaijmakers"/>
-        <updated>2026-07-22T09:22:32.164Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444311386?aid=kb-online-bibliotheek&sid=22&dts=1784712151938&sig=a68fe78e35b6edd6b0ab13b644750100d6d5c22258fec76bc6998d8f8184a9ee&width=320" alt="Omslag van 'Sleutel tot mijn hart'" title="Omslag van 'Sleutel tot mijn hart'">
-<p>Sinds Mats als zanger is doorgebroken met een liedje over de dood van zijn vader, staat zijn leven op z'n kop. Iedereen wil plotseling iets van hem en hij heeft moeite met alle veranderingen. Het leven van Rosanne is ook flink veranderd. Ze heeft het enorm naar haar zin in de tattooshop waar ze stage loopt, maar verzwijgt die carrièreswitch al maanden voor haar vader. Wanneer Mats en Rosanne elkaar een halfjaar na een stomende onenightstand weer ontmoeten bij Ink Fusion is hun eerdere aantrekkingskracht meteen terug. Al zijn ze allebei niet van plan om daar iets mee te doen. Mats gaat niet twee keer met dezelfde vrouw, en Rosanne heeft haar regel - geen seks op een eerste date - eerder al verbroken met deze man. Ze weet inmiddels dat ze met Mats niet op meer hoeft te hopen. Maar als Mats ontdekt dat een ex Rosanne blijft lastigvallen, is hij de eerste die zijn hulp aanbiedt. Diep vanbinnen weet hij dat hij het beste zoveel mogelijk afstand kan houden, om zichzelf en haar te beschermen voor alle ellende die hem al tien jaar achtervolgt. Zijn gevoel voor rechtvaardigheid is echter nog sterker dan dat - en als hij heel eerlijk is tegen zichzelf, is zijn gevoel voor Rosanne dat ook. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De verwarrende kraak]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/431012849/de-verwarrende-kraak-tui-sutherland---kari-sutherland</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/431012849/de-verwarrende-kraak-tui-sutherland---kari-sutherland"/>
+        <updated>2026-07-23T09:20:53.077Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A431012849?aid=kb-online-bibliotheek&sid=22&dts=1784798452513&sig=9b7a925c87a56670c9389de13d879bd116fd041b422c1a55b6edab1ad08cb99b&width=320" alt="Omslag van 'De verwarrende kraak'" title="Omslag van 'De verwarrende kraak'">
+<p>Evi Koch en haar vrienden proberen te ontdekken wie de Menagerie saboteert. Maar dan ontsnapt de basilisk en gaan de zeemeerminnen in staking. Vanaf ca. 9 jaar.</p>]]></content>
         <author>
-            <name>Kristie Raaijmakers</name>
+            <name>Tui Sutherland</name>
+        </author>
+        <author>
+            <name>Kari Sutherland</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het lichaam van de ziel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461170930/het-lichaam-van-de-ziel-ljoedmila-oelitskaja</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461170930/het-lichaam-van-de-ziel-ljoedmila-oelitskaja"/>
-        <updated>2026-07-22T09:22:32.455Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461170930?aid=kb-online-bibliotheek&sid=22&dts=1784712152256&sig=fffce9668405c7f151a10b1352a5a422448e498419b6dfd14c612ca144927527&width=320" alt="Omslag van 'Het lichaam van de ziel'" title="Omslag van 'Het lichaam van de ziel'">
-<p>In elf verhalen verkent Ljoedmila Oelitskaja de grenzen van ons bestaan en schetst ze een atlas van de ziel.</p><p>Met haar warmte en scherpzinnigheid belicht ze momenten waarop gewone levens kantelen: liefde en verlies, herinnering en verzoening.</p><p>Over het lichaam dat verdwijnt, en de ziel die blijft. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De Side Hustle]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/431812969/de-side-hustle-chris-guillebeau</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/431812969/de-side-hustle-chris-guillebeau"/>
+        <updated>2026-07-23T09:20:54.959Z</updated>
+        <summary type="html"><![CDATA[Extra geld verdienen door voor jezelf te beginnen naast je vaste baan]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A431812969?aid=kb-online-bibliotheek&sid=22&dts=1784798453197&sig=a5125971b5a172b3bc482cd32fa701dc782f0459f0bd99988c62cb05fa5f0085&width=320" alt="Omslag van 'De Side Hustle'" title="Omslag van 'De Side Hustle'">
+<p>Een side hustle is een project waar je hart sneller van gaat kloppen en dat je start zonder je huidige baan op te zeggen. Niet als hobby, maar als een onderneming waarvan je zelf de baas bent en waarmee je inkomsten genereert. Het verrijkt je leven en je maakt jezelf minder afhankelijk van die ene baan.</p><p>Chris Guillebeau, auteur van De 100 euro Startup, laat je in dit boek zien hoe je op een eenvoudige manier in slechts 27 dagen van idee (of passie) naar actie, en zelfs een extra inkomen, komt. Je hoeft voor je side hustle echt geen opleiding bedrijfskunde te hebben gehad of een onderneminsplan te maken. Begin met een activiteit, volg je hart en gebruik je brains. That’s all.</p><p>De Side Hustle is een praktische gids voor mensen die op zoek zijn naar meer vrijheid, plezier in wat ze doen en een plan B. Ook nu baanzekerheid steeds minder vanzelfsprekend is, is een side hustle niet alleen een verrijking, maar is het ook van groot belang om meerdere opties te hebben. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ljoedmila Oelitskaja</name>
+            <name>Chris Guillebeau</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gevonden: balans]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461170965/gevonden--balans-nicole-schelling</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461170965/gevonden--balans-nicole-schelling"/>
-        <updated>2026-07-22T09:22:32.870Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461170965?aid=kb-online-bibliotheek&sid=22&dts=1784712152573&sig=1ee106b3548ccb8e7d9ad421837f9be70f0f08ed28df31c3a7c9a34ba6dd8929&width=320" alt="Omslag van 'Gevonden: balans'" title="Omslag van 'Gevonden: balans'">
-<p>Voor alleenstaande moeder Lauren is duidelijk wat haar prioriteit is in het leven: haar kinderen. Gelukkig is ze daarin niet de enige. Ze krijgt veel steun van haar familie en van haar goede vriend Thijs, die ze al vele jaren kent. Met zijn beschermingsdrang en liefde voor haar en haar kinderen kan Lauren altijd op Thijs bouwen. Maar hoe solide en vertrouwd hun vriendschap ook is, een aantal gebeurtenissen veroorzaken barstjes in dat wat altijd zo vanzelfsprekend was. Lauren krijgt een baan aangeboden op het kantoor waar Thijs sinds kort de CEO is en hun samenwerking verloopt niet zo vlekkeloos als ze hadden verwacht. Wanneer dan op een dag ook nog de vader van haar kinderen op de stoep staat, raakt alles in de knoop en komen gevoelens en irritaties tot uiting. Lauren durft zich niet open te stellen voor wat zich recht voor haar neus lijkt te ontwikkelen en Thijs is bang om datgene wat hem het allerliefst is kwijt te raken. Maar hoezeer ze er ook op hun eigen manier tegen vechten, hun levens zijn te nauw met elkaar verbonden om afstand te kunnen nemen. 'Gevonden: balans' gaat over het vechten tegen gevoelens en een liefde die geen grenzen kent. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De route naar 100.000 euro per jaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433588861/de-route-naar-100-000-euro-per-jaar-suzanne-van-duijn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433588861/de-route-naar-100-000-euro-per-jaar-suzanne-van-duijn"/>
+        <updated>2026-07-23T09:20:55.596Z</updated>
+        <summary type="html"><![CDATA[Meer verdienen, meer vrijheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433588861?aid=kb-online-bibliotheek&sid=22&dts=1784798391249&sig=e96cc2b00c9c90ff82d16f8297dffff147a25d3962e88d6e023540bfe54b513a&width=320" alt="Omslag van 'De route naar 100.000 euro per jaar'" title="Omslag van 'De route naar 100.000 euro per jaar'">
+<p>Suzanne van Duijn werkte 3 jaar de longen uit haar lijf als freelancer voor een inkomen onder modaal toen in 2019 de maat vol was. Het moest anders. In 2020 verdiepte ze zich in de psychologie van geld, nam een businesscoach in de arm en interviewde meer dan 20 ervaringsdeskundigen die ruim een ton per jaar verdienen.</p><p>In De route naar een ton per jaar deelt ze hoe ze die inzichten in de praktijk bracht en haar inkomsten verdrievoudigde. Belangrijkste les: om je inkomen te laten groeien, moet je eerst zelf groeien. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nicole Schelling</name>
+            <name>Suzanne van Duijn</name>
         </author>
     </entry>
 </feed>
