@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-07-23T09:20:55.597Z</updated>
+    <updated>2026-07-24T09:15:45.269Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[De dood van een roddeltante]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437267709/de-dood-van-een-roddeltante-m-c-beaton</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437267709/de-dood-van-een-roddeltante-m-c-beaton"/>
+        <updated>2026-07-24T09:15:45.267Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437267709?aid=kb-online-bibliotheek&sid=22&dts=1784876502552&sig=eeda9da31f88038039d71613b3f10a2c06404899c000976d9a298869e0794f17&width=320" alt="Omslag van 'De dood van een roddeltante'" title="Omslag van 'De dood van een roddeltante'">
+<p>Roddeljournaliste Lady Jane Winters neemt geen blad voor de mond en dat komt haar duur te staan! Met haar vlijmscherpe opmerkingen maakt ze zich niet geliefd onder haar medecursisten tijdens een cursus vliegvissen. Maar wanneer op een dag haar levenloze lichaam uit het water gevist wordt, staat dorpsagent Hamish Macbeth voor een groot raadsel. Wie haatte haar zó erg, dat ze vermoord moest worden? ‘De dood van een roddeltante’ is een komische misdaadroman en het eerste deel in de bekende Hamish Macbeth-reeks van M.C. Beaton. De reeks is zo geliefd, dat het verfilmd is tot een populaire BBC tv-serie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>M.C Beaton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vogels op hun best]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/412566060/vogels-op-hun-best-hans-peeters</id>
@@ -366,18 +377,6 @@
 <p>Een side hustle is een project waar je hart sneller van gaat kloppen en dat je start zonder je huidige baan op te zeggen. Niet als hobby, maar als een onderneming waarvan je zelf de baas bent en waarmee je inkomsten genereert. Het verrijkt je leven en je maakt jezelf minder afhankelijk van die ene baan.</p><p>Chris Guillebeau, auteur van De 100 euro Startup, laat je in dit boek zien hoe je op een eenvoudige manier in slechts 27 dagen van idee (of passie) naar actie, en zelfs een extra inkomen, komt. Je hoeft voor je side hustle echt geen opleiding bedrijfskunde te hebben gehad of een onderneminsplan te maken. Begin met een activiteit, volg je hart en gebruik je brains. That’s all.</p><p>De Side Hustle is een praktische gids voor mensen die op zoek zijn naar meer vrijheid, plezier in wat ze doen en een plan B. Ook nu baanzekerheid steeds minder vanzelfsprekend is, is een side hustle niet alleen een verrijking, maar is het ook van groot belang om meerdere opties te hebben. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Chris Guillebeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De route naar 100.000 euro per jaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433588861/de-route-naar-100-000-euro-per-jaar-suzanne-van-duijn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433588861/de-route-naar-100-000-euro-per-jaar-suzanne-van-duijn"/>
-        <updated>2026-07-23T09:20:55.596Z</updated>
-        <summary type="html"><![CDATA[Meer verdienen, meer vrijheid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433588861?aid=kb-online-bibliotheek&sid=22&dts=1784798391249&sig=e96cc2b00c9c90ff82d16f8297dffff147a25d3962e88d6e023540bfe54b513a&width=320" alt="Omslag van 'De route naar 100.000 euro per jaar'" title="Omslag van 'De route naar 100.000 euro per jaar'">
-<p>Suzanne van Duijn werkte 3 jaar de longen uit haar lijf als freelancer voor een inkomen onder modaal toen in 2019 de maat vol was. Het moest anders. In 2020 verdiepte ze zich in de psychologie van geld, nam een businesscoach in de arm en interviewde meer dan 20 ervaringsdeskundigen die ruim een ton per jaar verdienen.</p><p>In De route naar een ton per jaar deelt ze hoe ze die inzichten in de praktijk bracht en haar inkomsten verdrievoudigde. Belangrijkste les: om je inkomen te laten groeien, moet je eerst zelf groeien. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Suzanne van Duijn</name>
         </author>
     </entry>
 </feed>
