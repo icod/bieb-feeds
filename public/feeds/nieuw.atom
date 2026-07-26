@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-07-24T09:15:45.269Z</updated>
+    <updated>2026-07-26T09:07:47.690Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -168,18 +168,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helden uit je kindertijd haken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum"/>
-        <updated>2026-07-23T09:20:42.931Z</updated>
-        <summary type="html"><![CDATA[Tekenfilmfiguren, culthelden en andere amigurumi's]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427826381?aid=kb-online-bibliotheek&sid=22&dts=1784798442304&sig=07c2ab7cb94a5c86f273e0ef117110873e98f0b61237f86d9dc1d46b9168178e&width=320" alt="Omslag van 'Helden uit je kindertijd haken'" title="Omslag van 'Helden uit je kindertijd haken'">
-<p>Haakpatronen van bekende tekenfilm- en stripfiguren.</p>]]></content>
-        <author>
-            <name>Sofie Kirschbaum</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kraamcadeautjes haken]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/427826241/kraamcadeautjes-haken-annemarie-arts</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/427826241/kraamcadeautjes-haken-annemarie-arts"/>
@@ -189,6 +177,18 @@
 <p>In ‘Kraamcadeautjes haken’ deelt de ervaren ontwerpster Annemarie Arts haar gloednieuwe haakontwerpen voor de vrolijkste kraamcadeautjes. De patronen voor babyboekjes, rammelaars en knuffeldoekjes zijn door de diverse thema’s leuk voor zowel jongens als meisjes. Daarnaast zijn de speelgoedsetjes naar hartenlust met elkaar te combineren. Annemaries ontwerpen zijn populair en geliefd. Vrolijk en kleurrijk, origineel en altijd met duidelijke patroonbeschrijvingen. Haakplezier gegarandeerd: zowel voor beginners als voor gevorderden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Annemarie Arts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helden uit je kindertijd haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum"/>
+        <updated>2026-07-23T09:20:42.931Z</updated>
+        <summary type="html"><![CDATA[Tekenfilmfiguren, culthelden en andere amigurumi's]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427826381?aid=kb-online-bibliotheek&sid=22&dts=1784798442304&sig=07c2ab7cb94a5c86f273e0ef117110873e98f0b61237f86d9dc1d46b9168178e&width=320" alt="Omslag van 'Helden uit je kindertijd haken'" title="Omslag van 'Helden uit je kindertijd haken'">
+<p>Haakpatronen van bekende tekenfilm- en stripfiguren.</p>]]></content>
+        <author>
+            <name>Sofie Kirschbaum</name>
         </author>
     </entry>
     <entry>
@@ -212,59 +212,6 @@
 <p>Met ‘Winters haken’ haak je de mooiste patronen voor warme mutsen, wanten, sjaals en dekens in de meest schitterende kleurencombinaties. De patronen zijn ook uitgewerkt in een duurzame recycle-variant: met restjes wol. Er is voor iedereen genoeg uitdaging: voor beginners en gevorderde haaksters is dit een prachtig boek vol inspiratie. Het levert naast veel haakplezier gegarandeerd een warme en kleurrijke winter op. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Thessa Kockelkorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Natuurzin]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434206512/natuurzin-marieke-schatteleijn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434206512/natuurzin-marieke-schatteleijn"/>
-        <updated>2026-07-23T09:20:45.597Z</updated>
-        <summary type="html"><![CDATA[Waarom de natuur ons blijer, gezonder en creatiever maakt]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434206512?aid=kb-online-bibliotheek&sid=22&dts=1784798445069&sig=76d8c4204e4d9e83d8f7fc314f6d6d6dcdc9e2f8e7e2931dff96c7208b192a9b&width=320" alt="Omslag van 'Natuurzin'" title="Omslag van 'Natuurzin'">
-<p>Hoe komt het dat we ons zo gelukkig voelen in het groen, omringd door planten, dieren, mooie landschappen en ander natuurschoon? Wat doet licht voor onze biologische klok? Wat doet hardlopen in de frisse buitenlucht met onze gezondheid? En waarom komt het stadsbrein eigenlijk tot rust in de natuur?</p><p>In Natuurzin gaat boswachter Marieke Schatteleijn op zoek naar antwoorden in de wetenschap en verbind ze die kennis met wat ze zelf ervaart als ze buiten is. Ga met haar mee op reis naar inspirerende Nederlandse natuurgebieden en ontdek aan de hand van negen themahoofdstukken waarom de natuur je blijer, gezonder en creatiever maakt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marieke Schatteleijn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het eiland van Verloren Woorden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43221822X/het-eiland-van-verloren-woorden-heather-fawcett</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43221822X/het-eiland-van-verloren-woorden-heather-fawcett"/>
-        <updated>2026-07-23T09:20:46.312Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43221822X?aid=kb-online-bibliotheek&sid=22&dts=1784798445728&sig=673d87bcba2862b7c2642050522ed197b2c9598518f46ed4bc0ad2ddd480ef2a&width=320" alt="Omslag van 'Het eiland van Verloren Woorden'" title="Omslag van 'Het eiland van Verloren Woorden'">
-<p>Het eiland van verloren woorden van Heather Fawcett (Ember en de ijsdraken), is het ultieme boek voor lezers vanaf 10 jaar die van magie en avontuur houden! En natuurlijk voor alle fans van Nevermoor en Bovenwereld. De koningin van Florean is vergiftigd. Haar zoon Julian en zijn zussen vluchten. Hun moeder was de eerste zwarte magiër die heerste over het koninkrijk. Xavier, haar voormalig raadsman, is de boosdoener. Hij aast op de troon en daarom zoekt hij een magisch boek met verloren bezweringen. Want om het koninkrijk te kunnen leiden moet hij een magische taal spreken. Julian, zelf zwarte magiër en troonopvolger, doorziet Xaviers plan. Met zijn zussen, zijn antieke anti-draak en een eigenzinnig zeemonster zoekt ook hij het magische boek. De tijd dringt… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Heather Fawcett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tijdwinst - Elke dag om 15.00 uur klaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/432484647/tijdwinst---elke-dag-om-15-00-uur-klaar-bj%C3%B6rn-deusings</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/432484647/tijdwinst---elke-dag-om-15-00-uur-klaar-bj%C3%B6rn-deusings"/>
-        <updated>2026-07-23T09:20:46.979Z</updated>
-        <summary type="html"><![CDATA[Van druk naar productief en meer rust]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432484647?aid=kb-online-bibliotheek&sid=22&dts=1784798446430&sig=050703b5b4ee3ac3fd21312d03e8e992123c556c12d59e2c60856a4c66a04fcf&width=320" alt="Omslag van 'Tijdwinst - Elke dag om 15.00 uur klaar'" title="Omslag van 'Tijdwinst - Elke dag om 15.00 uur klaar'">
-<p>‘Tijdwinst - Elke dag om 15.00 uur klaar’ belooft je een hogere productiviteit en meer rust dankzij praktische tips. Een 6-urige werkdag klinkt misschien te mooi om waar te zijn. Dat is het echter niet. Björn Deusings laat zien dat als je jezelf beter organiseert, realistischer plant, op een slimme manier omgaat met complexe taken en ophoudt met jezelf (en anderen) van het werk te houden, het dan heel goed mogelijk om veel tijd te besparen. Hoe je die extra tijd gebruikt is aan jou. Praktisch toepasbaar en toegankelijk geschreven door de meest toonaangevende blog op het gebied van slimmer werken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Björn Deusings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gidsen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/432258523/gidsen-bram-kunz---bram-de-muynck---henk-vermeulen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/432258523/gidsen-bram-kunz---bram-de-muynck---henk-vermeulen"/>
-        <updated>2026-07-23T09:20:47.652Z</updated>
-        <summary type="html"><![CDATA[Een christelijke schoolpedagogiek]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432258523?aid=kb-online-bibliotheek&sid=22&dts=1784798447105&sig=8318bea307b0f2066c7ffffb12c17d21483b1dba4059d1cd7ec89b8a226024b2&width=320" alt="Omslag van 'Gidsen'" title="Omslag van 'Gidsen'">
-<p>‘Gidsen’ van Bram de Muynck en Bram Kunz is een handleiding voor christelijke schoolpedagogiek, bedoeld voor masterstudenten pedagogiek, lerarenopleiders en beleidsmakers. Leraren worden in dit boek gezien als gidsen die leerlingen richting wijzen. Vanuit een christelijk perspectief leiden zij de leerlingen in de wereld en nodigen ze uit zich daartoe te verhouden. In dit boek wordt verkend hoe christelijke idealen over mens en wereld zich verbinden met pedagogische uitdagingen van de maatschappelijke context. Deze schoolpedagogiek is bedoeld voor masterstudenten pedagogiek, lerarenopleiders en beleidsmakers. De auteurs willen hiermee bijdragen aan de visievorming van onderwijsprofessionals. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bram Kunz</name>
-        </author>
-        <author>
-            <name>Bram de Muynck</name>
-        </author>
-        <author>
-            <name>Henk Vermeulen</name>
         </author>
     </entry>
     <entry>
@@ -327,18 +274,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verschenen of verdwenen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434787523/verschenen-of-verdwenen-sovon</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434787523/verschenen-of-verdwenen-sovon"/>
-        <updated>2026-07-23T09:20:51.699Z</updated>
-        <summary type="html"><![CDATA[Ruim een eeuw Nederlandse broedvogels in beweging]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434787523?aid=kb-online-bibliotheek&sid=22&dts=1784798451187&sig=d74f8afffa112616f32271a6530f92bc49ba68503b7e2d0692127d85dae3ac4e&width=320" alt="Omslag van 'Verschenen of verdwenen'" title="Omslag van 'Verschenen of verdwenen'">
-<p>Overzicht in woord en beeld van onderzoek naar zeventig broedvogelsoorten en wanneer ze in Nederland verschenen of verdwenen zijn.</p>]]></content>
-        <author>
-            <name>Sovon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tassen haken]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/433729112/tassen-haken-jennifer-stiller---karen-lee-luick</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/433729112/tassen-haken-jennifer-stiller---karen-lee-luick"/>
@@ -354,29 +289,89 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De verwarrende kraak]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/431012849/de-verwarrende-kraak-tui-sutherland---kari-sutherland</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/431012849/de-verwarrende-kraak-tui-sutherland---kari-sutherland"/>
-        <updated>2026-07-23T09:20:53.077Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A431012849?aid=kb-online-bibliotheek&sid=22&dts=1784798452513&sig=9b7a925c87a56670c9389de13d879bd116fd041b422c1a55b6edab1ad08cb99b&width=320" alt="Omslag van 'De verwarrende kraak'" title="Omslag van 'De verwarrende kraak'">
-<p>Evi Koch en haar vrienden proberen te ontdekken wie de Menagerie saboteert. Maar dan ontsnapt de basilisk en gaan de zeemeerminnen in staking. Vanaf ca. 9 jaar.</p>]]></content>
+        <title type="html"><![CDATA[Gifmengsters, gladiatoren en geleerden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433930713/gifmengsters--gladiatoren-en-geleerden-philip-matyszak---joanne-berry</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433930713/gifmengsters--gladiatoren-en-geleerden-philip-matyszak---joanne-berry"/>
+        <updated>2026-07-26T09:07:45.520Z</updated>
+        <summary type="html"><![CDATA[Mannen en vrouwen in het Romeinse Rijk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433930713?aid=kb-online-bibliotheek&sid=22&dts=1784989910794&sig=2f23ac4290e60f6751b4a5374679f9863eb4ae65df9d12c79e1ebc6ff8c6ffc4&width=320" alt="Omslag van 'Gifmengsters, gladiatoren en geleerden'" title="Omslag van 'Gifmengsters, gladiatoren en geleerden'">
+<p>Het Romeinse rijk mag dan een enorm imperium zijn geweest, het begon toch echt als een onaanzienlijke nederzetting aan een moeras. De auteurs portretteren de mannen en vrouwen die de Romeinse geschiedenis hebben gemaakt. Natuurlijk de machtige consuls, keizers en commandanten van Julius Caesar tot Constantijn, heerseressen als Agrippina en Livia, maar ook de architecten, wetenschappers en kunstenaars. Ze vergeten echter niet de vrouwelijke gladiator, de invloedrijke gifmengster, de slaafgemaakte huisdienaar, de soldaat en de timmerman. Het boek is in kleur en voorzien van afbeeldingen en foto’s van wat nog altijd zichtbaar is van het rijke verleden van Rome. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tui Sutherland</name>
+            <name>Philip Matyszak</name>
         </author>
         <author>
-            <name>Kari Sutherland</name>
+            <name>Joanne Berry</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Side Hustle]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/431812969/de-side-hustle-chris-guillebeau</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/431812969/de-side-hustle-chris-guillebeau"/>
-        <updated>2026-07-23T09:20:54.959Z</updated>
-        <summary type="html"><![CDATA[Extra geld verdienen door voor jezelf te beginnen naast je vaste baan]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A431812969?aid=kb-online-bibliotheek&sid=22&dts=1784798453197&sig=a5125971b5a172b3bc482cd32fa701dc782f0459f0bd99988c62cb05fa5f0085&width=320" alt="Omslag van 'De Side Hustle'" title="Omslag van 'De Side Hustle'">
-<p>Een side hustle is een project waar je hart sneller van gaat kloppen en dat je start zonder je huidige baan op te zeggen. Niet als hobby, maar als een onderneming waarvan je zelf de baas bent en waarmee je inkomsten genereert. Het verrijkt je leven en je maakt jezelf minder afhankelijk van die ene baan.</p><p>Chris Guillebeau, auteur van De 100 euro Startup, laat je in dit boek zien hoe je op een eenvoudige manier in slechts 27 dagen van idee (of passie) naar actie, en zelfs een extra inkomen, komt. Je hoeft voor je side hustle echt geen opleiding bedrijfskunde te hebben gehad of een onderneminsplan te maken. Begin met een activiteit, volg je hart en gebruik je brains. That’s all.</p><p>De Side Hustle is een praktische gids voor mensen die op zoek zijn naar meer vrijheid, plezier in wat ze doen en een plan B. Ook nu baanzekerheid steeds minder vanzelfsprekend is, is een side hustle niet alleen een verrijking, maar is het ook van groot belang om meerdere opties te hebben. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Verschenen of verdwenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434787523/verschenen-of-verdwenen-sovon</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434787523/verschenen-of-verdwenen-sovon"/>
+        <updated>2026-07-23T09:20:51.699Z</updated>
+        <summary type="html"><![CDATA[Ruim een eeuw Nederlandse broedvogels in beweging]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434787523?aid=kb-online-bibliotheek&sid=22&dts=1784798451187&sig=d74f8afffa112616f32271a6530f92bc49ba68503b7e2d0692127d85dae3ac4e&width=320" alt="Omslag van 'Verschenen of verdwenen'" title="Omslag van 'Verschenen of verdwenen'">
+<p>Overzicht in woord en beeld van onderzoek naar zeventig broedvogelsoorten en wanneer ze in Nederland verschenen of verdwenen zijn.</p>]]></content>
         <author>
-            <name>Chris Guillebeau</name>
+            <name>Sovon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De route naar 100.000 euro per jaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433588861/de-route-naar-100-000-euro-per-jaar-suzanne-van-duijn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433588861/de-route-naar-100-000-euro-per-jaar-suzanne-van-duijn"/>
+        <updated>2026-07-23T09:20:55.596Z</updated>
+        <summary type="html"><![CDATA[Meer verdienen, meer vrijheid]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433588861?aid=kb-online-bibliotheek&sid=22&dts=1784798391249&sig=e96cc2b00c9c90ff82d16f8297dffff147a25d3962e88d6e023540bfe54b513a&width=320" alt="Omslag van 'De route naar 100.000 euro per jaar'" title="Omslag van 'De route naar 100.000 euro per jaar'">
+<p>Suzanne van Duijn werkte 3 jaar de longen uit haar lijf als freelancer voor een inkomen onder modaal toen in 2019 de maat vol was. Het moest anders. In 2020 verdiepte ze zich in de psychologie van geld, nam een businesscoach in de arm en interviewde meer dan 20 ervaringsdeskundigen die ruim een ton per jaar verdienen.</p><p>In De route naar een ton per jaar deelt ze hoe ze die inzichten in de praktijk bracht en haar inkomsten verdrievoudigde. Belangrijkste les: om je inkomen te laten groeien, moet je eerst zelf groeien. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Suzanne van Duijn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huisportretjes tekenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43340096X/huisportretjes-tekenen-carla-kamphuis</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43340096X/huisportretjes-tekenen-carla-kamphuis"/>
+        <updated>2026-07-26T09:07:46.178Z</updated>
+        <summary type="html"><![CDATA[In Holland staat een huis]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43340096X?aid=kb-online-bibliotheek&sid=22&dts=1784977102755&sig=8a241d6554cc1a27394f22ac1ae359cfed6750cc8efa3879b1a4ceef0db0ce5c&width=320" alt="Omslag van 'Huisportretjes tekenen'" title="Omslag van 'Huisportretjes tekenen'">
+<p>Laat je inspireren door de (oud-)Hollandse architectuur en teken de leukste huisportretjes! Als architect tekent Carla Kamphuis al jaren strakke plattegronden en realistische gevels. Maar in je vrije tijd is het des te leuker om de teugels te laten vieren en huizen te tekenen die niet perfect in verhouding zijn – en die juist hun charme ontlenen aan een scheve lijn.</p><p>In dit boek laat ze zien hoe ook jij de leukste huisportretjes tekent. Kun je een rechthoek en een cirkel tekenen? Dan kan je ook een huis tekenen! Pak je potlood, fineliner of brushpen en ga aan de slag. De (oud-)Hollandse architectuur – maar ook jouw eigen huis – vormt een bron van inspiratie! Teken mee als een echte architect. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Carla Kamphuis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The War of Art - Nederlandse editie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43358887X/the-war-of-art---nederlandse-editie-steven-pressfield</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43358887X/the-war-of-art---nederlandse-editie-steven-pressfield"/>
+        <updated>2026-07-26T09:07:46.708Z</updated>
+        <summary type="html"><![CDATA[Het strijdplan om (creatieve) doelen te bereiken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43358887X?aid=kb-online-bibliotheek&sid=22&dts=1784978835681&sig=6a16387dceca8a9812b11b9b0cda710316248467d256f12f224ab379c2615bee&width=320" alt="Omslag van 'The War of Art - Nederlandse editie'" title="Omslag van 'The War of Art - Nederlandse editie'">
+<p>The War of Art gaat over wat ons ervan weerhoudt om de dingen te doen die we graag willen en vooral hoe we dat op kunnen lossen. Waarom zit er een doemdenker in ons hoofd? Welke obstakels verhinderen ons een bedrijf te beginnen, een boek te schrijven of een schilderij te maken? Steven Pressfield identificeert de vijand die we onderweg tegenkomen, biedt een strijdplan om deze innerlijke tegenstander te overmeesteren en legt uit hoe we daadwerkelijk onze (creatieve) doelen kunnen bereiken. The War of Art is een praktische gids die een einde maakt aan alle blokkades. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Steven Pressfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tim - De officiële biografie van Avicii]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433589019/tim---de-offici%C3%ABle-biografie-van-avicii-mans-mosesson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433589019/tim---de-offici%C3%ABle-biografie-van-avicii-mans-mosesson"/>
+        <updated>2026-07-26T09:07:47.213Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433589019?aid=kb-online-bibliotheek&sid=22&dts=1784980547245&sig=c6c266660f1391b00eb5c00bb29bec8a909405ff2ff211a9dea23a0215de07ea&width=320" alt="Omslag van 'Tim - De officiële biografie van Avicii'" title="Omslag van 'Tim - De officiële biografie van Avicii'">
+<p>‘Tim’ is de intieme en officiële biografie van Avicii. Tim Bergling was een zeer succesvolle dj en producer, maar ook een introverte jongen die moeilijk om kon gaan met zijn wereldwijde succes. Zijn mentale en fysieke problemen hadden het einde van zijn leven tot gevolg. Onderzoeksjournalist Måns Mosesson schetst, door middel van interviews met Tims familie, vrienden en collega’s uit de muziekindustrie een eerlijk en aangrijpend beeld van Tim en zijn zoektocht in het leven. ‘Tim’ is een aangrijpend verhaal over je weg vinden in het leven, terwijl je op jonge leeftijd te maken hebt met stress, depressie, angst, megasucces, roem en verslaving. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Mans Mosesson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noorse truien breien]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433343230/noorse-truien-breien-linka-neumann</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433343230/noorse-truien-breien-linka-neumann"/>
+        <updated>2026-07-26T09:07:47.688Z</updated>
+        <summary type="html"><![CDATA[Warme truien voor buitenmensen en avonturiers]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433343230?aid=kb-online-bibliotheek&sid=22&dts=1785056851304&sig=0d28535ac8c721958af747800b7e7e310555d83fa1d85800274d52b0727a48c6&width=320" alt="Omslag van 'Noorse truien breien'" title="Omslag van 'Noorse truien breien'">
+<p>In ons koude kikkerlandje heb je er nooit genoeg van: dikke truien! Met de hulp van Linka Neumann brei je nu gemakkelijk zelf een heerlijke Noorse trui. De breipatronen van stoere Noorse truien voor buitenmensen en avonturiers zijn geschikt voor vrouwen, mannen en kinderen. Brei ze voor jezelf of voor een ander – een musthave voor iedereen die een duurzame, wollen trui wil breien die je een leven lang warm houdt </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Linka Neumann</name>
         </author>
     </entry>
 </feed>
