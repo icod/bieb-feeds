@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-07-26T09:07:47.690Z</updated>
+    <updated>2026-07-27T10:34:52.706Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -19,15 +19,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vogels op hun best]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/412566060/vogels-op-hun-best-hans-peeters</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/412566060/vogels-op-hun-best-hans-peeters"/>
-        <updated>2026-07-23T09:20:32.819Z</updated>
-        <summary type="html"><![CDATA[de beste vogelreportages uit De Telegraaf]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A412566060?aid=kb-online-bibliotheek&sid=22&dts=1784798432126&sig=f3c3126b456a7ea64814f46a6df770b842c75f161db32a83def9fa7e4a25d3c4&width=320" alt="Omslag van 'Vogels op hun best'" title="Omslag van 'Vogels op hun best'">
-<p>Bundel verhalen over diverse vogelsoorten in Nederland.</p>]]></content>
+        <title type="html"><![CDATA[Sasjenka]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461217597/sasjenka-simon-sebag-montefiore</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461217597/sasjenka-simon-sebag-montefiore"/>
+        <updated>2026-07-27T10:34:46.664Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461217597?aid=kb-online-bibliotheek&sid=22&dts=1785145793828&sig=c5cc87a709bdc7f7c7e595cce69a2f03be2c187bdd3a3d7aac7fb80be9c2a740&width=320" alt="Omslag van 'Sasjenka'" title="Omslag van 'Sasjenka'">
+<p>Sasjenka (2008) is it earste deel fan de ferneamde Moskou-trilogy fan Simon Sebag Montefiore. Montefiore is de skriuwer fan in oantal boeken oer de skiednis fan Ruslân, mar hij hat ek in feardige pinne as romanskriuwer oer de perioade dêr't er as histoarikus oer skreaun hat. Sasjenka is de namme fan de haadfiguer fan it earste boek fan de trilogy. Yn 1916 is sij 16 jier âld. Sij wennet yn Sint-Petersburg. Har heit, baron Zeitlin, is in rike Joad út Odessa, mar sij is troch har Joadse omke Mendel bekeard ta it bolsjewisme, en wurdt oan it begjin fan it boek oppakt as revolúsjonêr. Har heit krijt har wol frij troch syn ynfloed, mar sij giet troch mei har aktiviteiten foar de Partij. In sekere Sagan fan de geheime tsjinst fan de Tsaar besiket har yn te hieren as dûbelagint. Omke Mendel stipet har hjiryn. Mar dan komt de Oktoberrevolúsje fan 1917. Yn it twadde deel fan dit boek, spyljend yn 1939, is Sasjenka troud mei in bolsjewyk yn in hege posysje bij de geheime tsjinst. Sasjenka is bij de redaksje fan in frouljusblêd foar kommunistise froulju. Dit is krekt nei de showprosessen en de hûnderttûzenen likwidaasjes en suveringen fan 1937-38. Op in jûn komt Stalin sels lâns yn har 'datsja' en kriget er in goede yndruk fan har. Mar yn dy tiid is gjinien feilich foar de paranoia fan Stalin, en ek Sasjenka wurdt dêr úteinlik it slachtoffer fan. Sij 'bekent' ûnder twang en wurdt feroardeeld as 'fijân fan it folk'. En kriget de deastraf, lykas ek har man. Har twa lytse bern wurde troch de freon fan har en har man, Satinov neamd, ûnderbrocht bij gesinnen yn Súd-Ruslân. Dat docht Satinov mei gefaar foar eigen libben, mar hij hat noch wat minskliks yn him, en hij wit dat in weeshûs foar bern fan in fijân fan it folk ek deadlik is. Hoe't Sasjenka oan har ein komt, is noch net dúdlik. Mar wol dat it net 'reglemintêr' gongen is. It tredde deel spilet yn 1994. Ruslân is no frij fan it kommunisme. Satinov is in hege militêr wurden en ien fan de meast fereare generaals. Hij is no stokâld en weromsjend op syn libben set er prosessen yn gong dy't ús úteinlik witte litte hoe't Sasjenka oan har freeslik ein kommen is. Wij leare har beppesizzer kennen en ek har twa troch Satinov rêden bern. SASJENKA is in yngeand en oangripend boek oer it paranoïde Ruslân fan Stalin dêr't de wierheid is sa't de Partij seit dat dy is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Hans Peeters</name>
+            <name>Simon Sebag Montefiore</name>
         </author>
     </entry>
     <entry>
@@ -40,6 +39,18 @@
 <p>Columns over paarden en paardensport.</p>]]></content>
         <author>
             <name>M.K. de Manvan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vogels op hun best]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/412566060/vogels-op-hun-best-hans-peeters</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/412566060/vogels-op-hun-best-hans-peeters"/>
+        <updated>2026-07-23T09:20:32.819Z</updated>
+        <summary type="html"><![CDATA[de beste vogelreportages uit De Telegraaf]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A412566060?aid=kb-online-bibliotheek&sid=22&dts=1784798432126&sig=f3c3126b456a7ea64814f46a6df770b842c75f161db32a83def9fa7e4a25d3c4&width=320" alt="Omslag van 'Vogels op hun best'" title="Omslag van 'Vogels op hun best'">
+<p>Bundel verhalen over diverse vogelsoorten in Nederland.</p>]]></content>
+        <author>
+            <name>Hans Peeters</name>
         </author>
     </entry>
     <entry>
@@ -67,6 +78,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Band-it!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394638247/band-it--colleen-dorsey</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394638247/band-it--colleen-dorsey"/>
+        <updated>2026-07-23T09:20:38.092Z</updated>
+        <summary type="html"><![CDATA[rubberband sieraden om zelf te maken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394638247?aid=kb-online-bibliotheek&sid=22&dts=1784798437551&sig=fb5b02891024a73ce7d28b66e942820fcf3dfa8ae3a699202f3cba56e244e595&width=320" alt="Omslag van 'Band-it!'" title="Omslag van 'Band-it!'">
+<p>Maak je eigen sieraden van rubberband met een haaknaald of op een loom (plastic rekje met pinnen). Stapsgewijze uitleg met kleurenfoto's en enige schematische tekeningen. Vanaf ca. 10 jaar</p>]]></content>
+        <author>
+            <name>Colleen Dorsey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Superzand]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394638271/superzand-colleen-dorsey---gail-kolmar</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394638271/superzand-colleen-dorsey---gail-kolmar"/>
@@ -81,18 +104,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Band-it!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394638247/band-it--colleen-dorsey</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394638247/band-it--colleen-dorsey"/>
-        <updated>2026-07-23T09:20:38.092Z</updated>
-        <summary type="html"><![CDATA[rubberband sieraden om zelf te maken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394638247?aid=kb-online-bibliotheek&sid=22&dts=1784798437551&sig=fb5b02891024a73ce7d28b66e942820fcf3dfa8ae3a699202f3cba56e244e595&width=320" alt="Omslag van 'Band-it!'" title="Omslag van 'Band-it!'">
-<p>Maak je eigen sieraden van rubberband met een haaknaald of op een loom (plastic rekje met pinnen). Stapsgewijze uitleg met kleurenfoto's en enige schematische tekeningen. Vanaf ca. 10 jaar</p>]]></content>
-        <author>
-            <name>Colleen Dorsey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Diersporengids]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/402367456/diersporengids-martin-lausser</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/402367456/diersporengids-martin-lausser"/>
@@ -101,6 +112,17 @@
 <p>Gids voor het determineren van sporen van vogels, zoogdieren, amfibieën, reptielen en insecten in heel West-Europa, met dierportretten.</p>]]></content>
         <author>
             <name>Martin Lausser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calvijn verzameld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/419029656/calvijn-verzameld-herman-j--selderhuis</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/419029656/calvijn-verzameld-herman-j--selderhuis"/>
+        <updated>2026-07-23T09:20:40.911Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A419029656?aid=kb-online-bibliotheek&sid=22&dts=1784798440364&sig=1c33d16c35b75fb8677ad54f377e891b5412a22194294b62f2646a6c6d63e4f0&width=320" alt="Omslag van 'Calvijn verzameld'" title="Omslag van 'Calvijn verzameld'">
+<p>Bloemlezing uit bekende en onbekende geschriften van de Franse reformator (1509-1564), voorzien van inleidingen en verklarende eindnoten.</p>]]></content>
+        <author>
+            <name>Herman J. Selderhuis</name>
         </author>
     </entry>
     <entry>
@@ -133,14 +155,50 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calvijn verzameld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/419029656/calvijn-verzameld-herman-j--selderhuis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/419029656/calvijn-verzameld-herman-j--selderhuis"/>
-        <updated>2026-07-23T09:20:40.911Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A419029656?aid=kb-online-bibliotheek&sid=22&dts=1784798440364&sig=1c33d16c35b75fb8677ad54f377e891b5412a22194294b62f2646a6c6d63e4f0&width=320" alt="Omslag van 'Calvijn verzameld'" title="Omslag van 'Calvijn verzameld'">
-<p>Bloemlezing uit bekende en onbekende geschriften van de Franse reformator (1509-1564), voorzien van inleidingen en verklarende eindnoten.</p>]]></content>
+        <title type="html"><![CDATA[Helden uit je kindertijd haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum"/>
+        <updated>2026-07-23T09:20:42.931Z</updated>
+        <summary type="html"><![CDATA[Tekenfilmfiguren, culthelden en andere amigurumi's]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427826381?aid=kb-online-bibliotheek&sid=22&dts=1784798442304&sig=07c2ab7cb94a5c86f273e0ef117110873e98f0b61237f86d9dc1d46b9168178e&width=320" alt="Omslag van 'Helden uit je kindertijd haken'" title="Omslag van 'Helden uit je kindertijd haken'">
+<p>Haakpatronen van bekende tekenfilm- en stripfiguren.</p>]]></content>
         <author>
-            <name>Herman J. Selderhuis</name>
+            <name>Sofie Kirschbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraamcadeautjes haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/427826241/kraamcadeautjes-haken-annemarie-arts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/427826241/kraamcadeautjes-haken-annemarie-arts"/>
+        <updated>2026-07-23T09:20:43.659Z</updated>
+        <summary type="html"><![CDATA[Rammelaars, knuffeldoekjes en boekjes voor de baby]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427826241?aid=kb-online-bibliotheek&sid=22&dts=1784798443052&sig=6bce99219455778668d8ef039b7694cdc8908fec86baf005a7a44a10cc943b59&width=320" alt="Omslag van 'Kraamcadeautjes haken'" title="Omslag van 'Kraamcadeautjes haken'">
+<p>In ‘Kraamcadeautjes haken’ deelt de ervaren ontwerpster Annemarie Arts haar gloednieuwe haakontwerpen voor de vrolijkste kraamcadeautjes. De patronen voor babyboekjes, rammelaars en knuffeldoekjes zijn door de diverse thema’s leuk voor zowel jongens als meisjes. Daarnaast zijn de speelgoedsetjes naar hartenlust met elkaar te combineren. Annemaries ontwerpen zijn populair en geliefd. Vrolijk en kleurrijk, origineel en altijd met duidelijke patroonbeschrijvingen. Haakplezier gegarandeerd: zowel voor beginners als voor gevorderden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Annemarie Arts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoe word je ALLES?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/426437101/hoe-word-je-alles--emilie-wapnick</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/426437101/hoe-word-je-alles--emilie-wapnick"/>
+        <updated>2026-07-23T09:20:44.372Z</updated>
+        <summary type="html"><![CDATA[Voor mensen met veel interesses, talenten en een lange bucketlist]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426437101?aid=kb-online-bibliotheek&sid=22&dts=1784798443777&sig=a496b42d9b68cbe3de48c4eaa86c28f87a6f6004da40eb5aecb0a5d4ce2aa3d1&width=320" alt="Omslag van 'Hoe word je ALLES?'" title="Omslag van 'Hoe word je ALLES?'">
+<p>Wat wil je later worden? Heel veel mensen weten niet wat voor werk ze (later) willen doen, of hebben het gevoel nog eens wat anders te willen doen in hun leven. Ze hebben vele passies, interesses en vaardigheden. Emilie Wapnick noemt hen multipotentialities: multigetalenteerden. Met haar motto ‘Word alles!’ en haar populaire TED-talk als basis biedt Wapnick hun perspectief om verschillende kansen en mogelijkheden te benutten. In dit boek schetst ze een praktisch kader voor het bouwen van een leven rond al hun passies en interesses.</p><p>‘Hoe word je ALLES? maakt je sterk. Dit boek is voor het soort mensen dat niet voor een enkel levenspad kan kiezen omdat ze ontwerper + restauranteigenaar + docent + bestsellerauteur + meer willen worden in dit leven.’ - Darla Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Emilie Wapnick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winters haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/42782625X/winters-haken-thessa-kockelkorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/42782625X/winters-haken-thessa-kockelkorn"/>
+        <updated>2026-07-23T09:20:44.945Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42782625X?aid=kb-online-bibliotheek&sid=22&dts=1784796445688&sig=a29424b277709944a3cf573dca06d0b674cc07b911fc70c6b9cce411a49d4c00&width=320" alt="Omslag van 'Winters haken'" title="Omslag van 'Winters haken'">
+<p>Met ‘Winters haken’ haak je de mooiste patronen voor warme mutsen, wanten, sjaals en dekens in de meest schitterende kleurencombinaties. De patronen zijn ook uitgewerkt in een duurzame recycle-variant: met restjes wol. Er is voor iedereen genoeg uitdaging: voor beginners en gevorderde haaksters is dit een prachtig boek vol inspiratie. Het levert naast veel haakplezier gegarandeerd een warme en kleurrijke winter op. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Thessa Kockelkorn</name>
         </author>
     </entry>
     <entry>
@@ -168,127 +226,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kraamcadeautjes haken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/427826241/kraamcadeautjes-haken-annemarie-arts</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/427826241/kraamcadeautjes-haken-annemarie-arts"/>
-        <updated>2026-07-23T09:20:43.659Z</updated>
-        <summary type="html"><![CDATA[Rammelaars, knuffeldoekjes en boekjes voor de baby]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427826241?aid=kb-online-bibliotheek&sid=22&dts=1784798443052&sig=6bce99219455778668d8ef039b7694cdc8908fec86baf005a7a44a10cc943b59&width=320" alt="Omslag van 'Kraamcadeautjes haken'" title="Omslag van 'Kraamcadeautjes haken'">
-<p>In ‘Kraamcadeautjes haken’ deelt de ervaren ontwerpster Annemarie Arts haar gloednieuwe haakontwerpen voor de vrolijkste kraamcadeautjes. De patronen voor babyboekjes, rammelaars en knuffeldoekjes zijn door de diverse thema’s leuk voor zowel jongens als meisjes. Daarnaast zijn de speelgoedsetjes naar hartenlust met elkaar te combineren. Annemaries ontwerpen zijn populair en geliefd. Vrolijk en kleurrijk, origineel en altijd met duidelijke patroonbeschrijvingen. Haakplezier gegarandeerd: zowel voor beginners als voor gevorderden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Annemarie Arts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helden uit je kindertijd haken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/427826381/helden-uit-je-kindertijd-haken-sofie-kirschbaum"/>
-        <updated>2026-07-23T09:20:42.931Z</updated>
-        <summary type="html"><![CDATA[Tekenfilmfiguren, culthelden en andere amigurumi's]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427826381?aid=kb-online-bibliotheek&sid=22&dts=1784798442304&sig=07c2ab7cb94a5c86f273e0ef117110873e98f0b61237f86d9dc1d46b9168178e&width=320" alt="Omslag van 'Helden uit je kindertijd haken'" title="Omslag van 'Helden uit je kindertijd haken'">
-<p>Haakpatronen van bekende tekenfilm- en stripfiguren.</p>]]></content>
-        <author>
-            <name>Sofie Kirschbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoe word je ALLES?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/426437101/hoe-word-je-alles--emilie-wapnick</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/426437101/hoe-word-je-alles--emilie-wapnick"/>
-        <updated>2026-07-23T09:20:44.372Z</updated>
-        <summary type="html"><![CDATA[Voor mensen met veel interesses, talenten en een lange bucketlist]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426437101?aid=kb-online-bibliotheek&sid=22&dts=1784798443777&sig=a496b42d9b68cbe3de48c4eaa86c28f87a6f6004da40eb5aecb0a5d4ce2aa3d1&width=320" alt="Omslag van 'Hoe word je ALLES?'" title="Omslag van 'Hoe word je ALLES?'">
-<p>Wat wil je later worden? Heel veel mensen weten niet wat voor werk ze (later) willen doen, of hebben het gevoel nog eens wat anders te willen doen in hun leven. Ze hebben vele passies, interesses en vaardigheden. Emilie Wapnick noemt hen multipotentialities: multigetalenteerden. Met haar motto ‘Word alles!’ en haar populaire TED-talk als basis biedt Wapnick hun perspectief om verschillende kansen en mogelijkheden te benutten. In dit boek schetst ze een praktisch kader voor het bouwen van een leven rond al hun passies en interesses.</p><p>‘Hoe word je ALLES? maakt je sterk. Dit boek is voor het soort mensen dat niet voor een enkel levenspad kan kiezen omdat ze ontwerper + restauranteigenaar + docent + bestsellerauteur + meer willen worden in dit leven.’ - Darla Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Emilie Wapnick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winters haken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/42782625X/winters-haken-thessa-kockelkorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/42782625X/winters-haken-thessa-kockelkorn"/>
-        <updated>2026-07-23T09:20:44.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42782625X?aid=kb-online-bibliotheek&sid=22&dts=1784796445688&sig=a29424b277709944a3cf573dca06d0b674cc07b911fc70c6b9cce411a49d4c00&width=320" alt="Omslag van 'Winters haken'" title="Omslag van 'Winters haken'">
-<p>Met ‘Winters haken’ haak je de mooiste patronen voor warme mutsen, wanten, sjaals en dekens in de meest schitterende kleurencombinaties. De patronen zijn ook uitgewerkt in een duurzame recycle-variant: met restjes wol. Er is voor iedereen genoeg uitdaging: voor beginners en gevorderde haaksters is dit een prachtig boek vol inspiratie. Het levert naast veel haakplezier gegarandeerd een warme en kleurrijke winter op. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Thessa Kockelkorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fulltime avonturier]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/430770847/fulltime-avonturier-tamar-valkenier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/430770847/fulltime-avonturier-tamar-valkenier"/>
-        <updated>2026-07-23T09:20:48.366Z</updated>
-        <summary type="html"><![CDATA[Over alles achterlaten en de zoektocht naar ultieme vrijheid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430770847?aid=kb-online-bibliotheek&sid=22&dts=1784798447790&sig=c5788de4a749da2dcd3e28376d74d79d5ac4b3d4cb5d9f85022ba830e2f59c0a&width=320" alt="Omslag van 'Fulltime avonturier'" title="Omslag van 'Fulltime avonturier'">
-<p>Op haar achtentwintigste besloot sterrenchef en recherchepsycholoog Tamar Valkenier afstand te doen van al haar bezittingen en haar veilige leven. Ze koos voor het avontuur. Twee jaar lang fietste ze de wereld rond. Eerst in het 'veilige' Europa en daarna almaar verder. Ze reisde vier maanden door Mongolië met haar paard, kameel en hond en liep 600 kilometer door Jordanië.</p><p>Met Miriam Lancewood, bekend van Mijn leven in de wildernis, doorkruiste Tamar het hooggebergte van Nieuw-Zeeland, terwijl ze leefden als jagers-verzamelaars. Ze werden daar opgezocht door Floortje Dessing voor haar tv-programma Floortje naar het einde van de wereld. Tamar Valkenier blijft op zoek naar nieuwe avonturen. In 'Fulltime avonturier' doet ze verslag van haar vrije leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tamar Valkenier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mussolini]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433462817/mussolini-hans-woller</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433462817/mussolini-hans-woller"/>
-        <updated>2026-07-23T09:20:48.974Z</updated>
-        <summary type="html"><![CDATA[De eerste fascist]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433462817?aid=kb-online-bibliotheek&sid=22&dts=1784796635499&sig=72d7628db23b6bbebf98e6c03c072d47f9fbf144925326bc8f9de7357c5fb315&width=320" alt="Omslag van 'Mussolini'" title="Omslag van 'Mussolini'">
-<p>Benito Mussolini was een telg uit een rood nest. Met zijn vlijmscherpe pen werkte hij aan een loopbaan als journalist. Hij groeide uit tot een van de voormannen van de Italiaanse socialistische partij. Maar na de Eerste Wereldoorlog koos hij een andere koers. Met zijn fascistische partij greep Mussolini bij de Mars op Rome in 1922 de macht, waarna hij op genade loze wijze zijn tegenstrevers uitschakelde. Tien duizenden socialisten en communisten werden opgesloten en gemarteld, verbannen of vermoord. Benito Mussolini muntte niet alleen het begrip ‘fascisme’, hij gaf de beweging ook zijn moorddadige ideologie. De Italiaanse leider beschouwde het Romeinse volk als superieur, hij was racistisch en antisemitisch en stortte zijn land in de ene na de andere zinloze oorlog. Als grondlegger van het fascisme wordt zijn rol in de Europese geschiedenis veelal onderschat. Met deze biografie toont Hans Woller het ware gezicht van een meedogenloze leider. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Hans Woller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helden uit je kindertijd tekenen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/432484183/helden-uit-je-kindertijd-tekenen-berrin-jost</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/432484183/helden-uit-je-kindertijd-tekenen-berrin-jost"/>
-        <updated>2026-07-23T09:20:49.660Z</updated>
-        <summary type="html"><![CDATA[Stripfiguren en tekenfilmhelden stap voor stap tekenen en kleuren]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432484183?aid=kb-online-bibliotheek&sid=22&dts=1784798449104&sig=64a1e4af282768b44bcaaee088f5d77601d5cce4e0128162b72ce4555612b5bb&width=320" alt="Omslag van 'Helden uit je kindertijd tekenen'" title="Omslag van 'Helden uit je kindertijd tekenen'">
-<p>Helden uit je kindertijd – van vroeger en nu – komen weer tot leven! Met de hulp van Berrin Jost leer je geliefde figuren uit legendarische tekenfilms en series eenvoudig natekenen. In maar vijf stappen zet je gedetailleerde cultfiguren uit boeken, strips en van tv op het papier. Teken ze op een wenskaart, uitnodiging of wanddecoratie en ontdek het kind in jezelf! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Berrin Jost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onesiegurumi]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/432484140/onesiegurumi-sascha-blase-van-wagtendonk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/432484140/onesiegurumi-sascha-blase-van-wagtendonk"/>
-        <updated>2026-07-23T09:20:50.425Z</updated>
-        <summary type="html"><![CDATA[Amigurumi haken zonder naaiwerk!]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432484140?aid=kb-online-bibliotheek&sid=22&dts=1784798449777&sig=5f9db2f74913ccd2c03cfbabe5ba49e895e2576b4fe2da1aec135e5a5a3123a3&width=320" alt="Omslag van 'Onesiegurumi'" title="Omslag van 'Onesiegurumi'">
-<p>Haakexpert Sascha Blase-van Wagtendonk, bekend van onder meer de geliefde lappenpoppen en schitterende gehaakte sjaals, introduceert iets geheel nieuws: de onesiegurumi! Een nieuwe manier van amigurumi haken, waardoor je niets meer aan elkaar hoeft te naaien. Je begint met het haken van de losse onderdelen, waarna je verder gaat met het hoofd en het lijf, terwijl je onderweg alle delen bevestigt. Zo komt het knuffeltje al tijdens het haken tot leven.</p><p>De 15 uitgebreide patronen bevatten veel foto’s en stap-voor-stapbeschrijvingen. Met de handige tips leer je ook hoe je de beestjes in een mum van tijd een transformatie geeft: maak een mini- of een megavariant, haak ze met kleren aan of borstel ze voor een donzige look. Deze superschattige beestjes zijn voor elke haakliefhebber onweerstaanbaar! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sascha Blase-Van Wagtendonk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meer sjaals haken à la Sascha]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43122966X/meer-sjaals-haken-%C3%A0-la-sascha-sascha-blase-van-wagtendonk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43122966X/meer-sjaals-haken-%C3%A0-la-sascha-sascha-blase-van-wagtendonk"/>
-        <updated>2026-07-23T09:20:51.072Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43122966X?aid=kb-online-bibliotheek&sid=22&dts=1784798450541&sig=c3e2f49bbb7b8a07c0c43b64d95e54fe7d1e85cd3f4a44573e2218157ef43aab&width=320" alt="Omslag van 'Meer sjaals haken à la Sascha'" title="Omslag van 'Meer sjaals haken à la Sascha'">
-<p>Werkbeschrijvingen voor het haken van sjaals en omslagdoeken.</p>]]></content>
-        <author>
-            <name>Sascha Blase-Van Wagtendonk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tassen haken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433729112/tassen-haken-jennifer-stiller---karen-lee-luick</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433729112/tassen-haken-jennifer-stiller---karen-lee-luick"/>
-        <updated>2026-07-23T09:20:52.387Z</updated>
-        <summary type="html"><![CDATA[Van klein tot groot, van eenvoudig tot uitgebreid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433729112?aid=kb-online-bibliotheek&sid=22&dts=1784798451813&sig=218d0dcb746cde5c6c2ad0fb236e82674541fc47dc66c57fcb341b5b31eee591&width=320" alt="Omslag van 'Tassen haken'" title="Omslag van 'Tassen haken'">
-<p>Gehaakte tassen zijn hot! Jennifer Stiller leert je hoe ze ook nog eens gemakkelijk zelf haakt. Er is een tas voor elke smaak en stijl. Of je nu houdt van eenvoudig of speels, elegant of bohemien, groot of klein, snel gemaakt of meer uitgewerkt. Een tas is net zo individueel en uniek als de drager ervan. Dankzij de duidelijke en gedetailleerde instructies leer je allerlei verschillende tassen zelf haken: een shopper, mobiele-telefoontas, boodschappentas, en nog veel meer. Leuk voor jezelf, of om cadeau te doen. De patronen zijn geschikt voor beginners en gevorderden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jennifer Stiller</name>
-        </author>
-        <author>
-            <name>Karen Lee Luick</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gifmengsters, gladiatoren en geleerden]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/433930713/gifmengsters--gladiatoren-en-geleerden-philip-matyszak---joanne-berry</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/433930713/gifmengsters--gladiatoren-en-geleerden-philip-matyszak---joanne-berry"/>
@@ -304,62 +241,51 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verschenen of verdwenen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434787523/verschenen-of-verdwenen-sovon</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434787523/verschenen-of-verdwenen-sovon"/>
-        <updated>2026-07-23T09:20:51.699Z</updated>
-        <summary type="html"><![CDATA[Ruim een eeuw Nederlandse broedvogels in beweging]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434787523?aid=kb-online-bibliotheek&sid=22&dts=1784798451187&sig=d74f8afffa112616f32271a6530f92bc49ba68503b7e2d0692127d85dae3ac4e&width=320" alt="Omslag van 'Verschenen of verdwenen'" title="Omslag van 'Verschenen of verdwenen'">
-<p>Overzicht in woord en beeld van onderzoek naar zeventig broedvogelsoorten en wanneer ze in Nederland verschenen of verdwenen zijn.</p>]]></content>
+        <title type="html"><![CDATA[Moeiteloos]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/432484566/moeiteloos-greg-mckeown</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/432484566/moeiteloos-greg-mckeown"/>
+        <updated>2026-07-27T10:34:47.483Z</updated>
+        <summary type="html"><![CDATA[Maximaal resultaat met minimale inspanning]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432484566?aid=kb-online-bibliotheek&sid=22&dts=1785148486778&sig=a5110bf8c6ca0b77ad47dd043306811cfe02094c1c5f73da8fdf3db9acdff74b&width=320" alt="Omslag van 'Moeiteloos'" title="Omslag van 'Moeiteloos'">
+<p>‘Moeiteloos’, de Nederlandse editie van ‘Effortless’ van Greg McKeown, is gewijd aan een eenvoudig principe: geweldige resultaten behalen hoeft niet moeilijk te zijn. We geloven dat we ons enorm moeten inspannen als we veel willen presteren. Er is een betere manier: in plaats van jezelf harder te pushen, kun je een makkelijker pad kiezen. ‘Moeiteloos’ biedt een schat aan eenvoudige strategieën om gewenste resultaten te bereiken zonder op te branden. Het meeste resultaat willen behalen met minimale inspanning is niet een luie keuze. Het is de slimme keuze. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sovon</name>
+            <name>Greg McKeown</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De route naar 100.000 euro per jaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433588861/de-route-naar-100-000-euro-per-jaar-suzanne-van-duijn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433588861/de-route-naar-100-000-euro-per-jaar-suzanne-van-duijn"/>
-        <updated>2026-07-23T09:20:55.596Z</updated>
-        <summary type="html"><![CDATA[Meer verdienen, meer vrijheid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433588861?aid=kb-online-bibliotheek&sid=22&dts=1784798391249&sig=e96cc2b00c9c90ff82d16f8297dffff147a25d3962e88d6e023540bfe54b513a&width=320" alt="Omslag van 'De route naar 100.000 euro per jaar'" title="Omslag van 'De route naar 100.000 euro per jaar'">
-<p>Suzanne van Duijn werkte 3 jaar de longen uit haar lijf als freelancer voor een inkomen onder modaal toen in 2019 de maat vol was. Het moest anders. In 2020 verdiepte ze zich in de psychologie van geld, nam een businesscoach in de arm en interviewde meer dan 20 ervaringsdeskundigen die ruim een ton per jaar verdienen.</p><p>In De route naar een ton per jaar deelt ze hoe ze die inzichten in de praktijk bracht en haar inkomsten verdrievoudigde. Belangrijkste les: om je inkomen te laten groeien, moet je eerst zelf groeien. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Feest- en gelukspoppetjes haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/432484957/feest--en-gelukspoppetjes-haken-annemarie-arts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/432484957/feest--en-gelukspoppetjes-haken-annemarie-arts"/>
+        <updated>2026-07-27T10:34:48.150Z</updated>
+        <summary type="html"><![CDATA[Kleine cadeautjes om zelf te maken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432484957?aid=kb-online-bibliotheek&sid=22&dts=1785148487599&sig=6a42fd0f3379142df0781861cfe434d895fa9f68070a2cb075895c7d20712d9e&width=320" alt="Omslag van 'Feest- en gelukspoppetjes haken'" title="Omslag van 'Feest- en gelukspoppetjes haken'">
+<p>De leukste cadeautjes maak je zelf! Deze schattige feest- en gelukspoppetjes haak je heel gemakkelijk zelf dankzij de duidelijke patronen van Annemarie Arts. Tover ze in een handomdraai om tot een vingerpoppetje, potloodtopper, feestketting of boekenlegger. Geweldig voor kinderfeestjes of als brievenbuscadeautje. Je hebt weinig materiaal nodig, en ze zijn zo klaar. Lief, verslavend om te doen en een echt hart onder de riem voor iedereen die dat wel even kan gebruiken! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Suzanne van Duijn</name>
+            <name>Annemarie Arts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Huisportretjes tekenen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43340096X/huisportretjes-tekenen-carla-kamphuis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43340096X/huisportretjes-tekenen-carla-kamphuis"/>
-        <updated>2026-07-26T09:07:46.178Z</updated>
-        <summary type="html"><![CDATA[In Holland staat een huis]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43340096X?aid=kb-online-bibliotheek&sid=22&dts=1784977102755&sig=8a241d6554cc1a27394f22ac1ae359cfed6750cc8efa3879b1a4ceef0db0ce5c&width=320" alt="Omslag van 'Huisportretjes tekenen'" title="Omslag van 'Huisportretjes tekenen'">
-<p>Laat je inspireren door de (oud-)Hollandse architectuur en teken de leukste huisportretjes! Als architect tekent Carla Kamphuis al jaren strakke plattegronden en realistische gevels. Maar in je vrije tijd is het des te leuker om de teugels te laten vieren en huizen te tekenen die niet perfect in verhouding zijn – en die juist hun charme ontlenen aan een scheve lijn.</p><p>In dit boek laat ze zien hoe ook jij de leukste huisportretjes tekent. Kun je een rechthoek en een cirkel tekenen? Dan kan je ook een huis tekenen! Pak je potlood, fineliner of brushpen en ga aan de slag. De (oud-)Hollandse architectuur – maar ook jouw eigen huis – vormt een bron van inspiratie! Teken mee als een echte architect. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Helden uit je kindertijd haken 2]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433343079/helden-uit-je-kindertijd-haken-2-sofie-kirschbaum</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433343079/helden-uit-je-kindertijd-haken-2-sofie-kirschbaum"/>
+        <updated>2026-07-27T10:34:48.982Z</updated>
+        <summary type="html"><![CDATA[Tekenfilmfiguren, culthelden en andere amigurumi's haken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433343079?aid=kb-online-bibliotheek&sid=22&dts=1785148488294&sig=9a9876911100ea5a4af27968220b53d35f23dcb9a2d0b3d0916031548c4ffc2b&width=320" alt="Omslag van 'Helden uit je kindertijd haken 2'" title="Omslag van 'Helden uit je kindertijd haken 2'">
+<p>In dit vervolg op de internationale bestseller Helden uit je kindertijd haken vind je haakpatronen van de populairste figuren uit kinderboekenklassiekers, strips, tekenfilms en legendarische televisieseries die iedereen kan haken. Dankzij dit vrolijke haakboek van Sophie Kirschbaum haak je nu nóg meer grote helden uit je kindertijd. Hierbij staat het vrolijk gekleurde haakplezier voorop!</p><p>Geef de poppetjes weg als kraamcadeautje of verzamel ze zelf allemaal – iedereen wordt blij van deze figuren. Dankzij de uitgebreide instructies zijn ze eenvoudig om te haken, zowel voor beginners als gevorderden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Carla Kamphuis</name>
+            <name>Sofie Kirschbaum</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The War of Art - Nederlandse editie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43358887X/the-war-of-art---nederlandse-editie-steven-pressfield</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43358887X/the-war-of-art---nederlandse-editie-steven-pressfield"/>
-        <updated>2026-07-26T09:07:46.708Z</updated>
-        <summary type="html"><![CDATA[Het strijdplan om (creatieve) doelen te bereiken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43358887X?aid=kb-online-bibliotheek&sid=22&dts=1784978835681&sig=6a16387dceca8a9812b11b9b0cda710316248467d256f12f224ab379c2615bee&width=320" alt="Omslag van 'The War of Art - Nederlandse editie'" title="Omslag van 'The War of Art - Nederlandse editie'">
-<p>The War of Art gaat over wat ons ervan weerhoudt om de dingen te doen die we graag willen en vooral hoe we dat op kunnen lossen. Waarom zit er een doemdenker in ons hoofd? Welke obstakels verhinderen ons een bedrijf te beginnen, een boek te schrijven of een schilderij te maken? Steven Pressfield identificeert de vijand die we onderweg tegenkomen, biedt een strijdplan om deze innerlijke tegenstander te overmeesteren en legt uit hoe we daadwerkelijk onze (creatieve) doelen kunnen bereiken. The War of Art is een praktische gids die een einde maakt aan alle blokkades. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Koningen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433462914/koningen-erik-petersson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433462914/koningen-erik-petersson"/>
+        <updated>2026-07-27T10:34:49.957Z</updated>
+        <summary type="html"><![CDATA[Een wereldgeschiedenis]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433462914?aid=kb-online-bibliotheek&sid=22&dts=1785148489099&sig=ca516a6a29a350e792649ac75ce1c08631001823a2c4e599ca2d7eadbd749a19&width=320" alt="Omslag van 'Koningen'" title="Omslag van 'Koningen'">
+<p>In Koningen neemt Erik Petersson de lezer mee op een reis door de tijd, van het tijdperk van koningen en keizerinnen, sultans, shoguns, koninginnen en tsaren tot de democratische samenleving van vandaag. In het middeleeuwse Constantinopel ontmoeten we een jonge, ambitieuze sultan die met hulp van zijn smid een einde maakte aan de politieke orde van zijn tijd. We komen een sultane tegen die vanaf haar eiland in de Nijl regeerde met een nieuwe vorm van loyaliteit en we vergezellen Theudebert I, die een groot deel van het zesde-eeuwse Europa overheerste. Aan de hand van talloze verhalen leren we tijd loze lessen over leiderschap, de menselijke psyche en de werking van macht. Petersson beschrijft wat er gebeurt als macht in handen van een individu ligt – een bestuursvorm met een slechte reputatie, maar hij laat ook zien hoe die duizenden jaren alleenheerschappij leidden tot de grootste verworvenheid van de twintigste eeuw: onze hedendaagse democratie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Steven Pressfield</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tim - De officiële biografie van Avicii]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433589019/tim---de-offici%C3%ABle-biografie-van-avicii-mans-mosesson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433589019/tim---de-offici%C3%ABle-biografie-van-avicii-mans-mosesson"/>
-        <updated>2026-07-26T09:07:47.213Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433589019?aid=kb-online-bibliotheek&sid=22&dts=1784980547245&sig=c6c266660f1391b00eb5c00bb29bec8a909405ff2ff211a9dea23a0215de07ea&width=320" alt="Omslag van 'Tim - De officiële biografie van Avicii'" title="Omslag van 'Tim - De officiële biografie van Avicii'">
-<p>‘Tim’ is de intieme en officiële biografie van Avicii. Tim Bergling was een zeer succesvolle dj en producer, maar ook een introverte jongen die moeilijk om kon gaan met zijn wereldwijde succes. Zijn mentale en fysieke problemen hadden het einde van zijn leven tot gevolg. Onderzoeksjournalist Måns Mosesson schetst, door middel van interviews met Tims familie, vrienden en collega’s uit de muziekindustrie een eerlijk en aangrijpend beeld van Tim en zijn zoektocht in het leven. ‘Tim’ is een aangrijpend verhaal over je weg vinden in het leven, terwijl je op jonge leeftijd te maken hebt met stress, depressie, angst, megasucces, roem en verslaving. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Mans Mosesson</name>
+            <name>Erik Petersson</name>
         </author>
     </entry>
     <entry>
@@ -372,6 +298,75 @@
 <p>In ons koude kikkerlandje heb je er nooit genoeg van: dikke truien! Met de hulp van Linka Neumann brei je nu gemakkelijk zelf een heerlijke Noorse trui. De breipatronen van stoere Noorse truien voor buitenmensen en avonturiers zijn geschikt voor vrouwen, mannen en kinderen. Brei ze voor jezelf of voor een ander – een musthave voor iedereen die een duurzame, wollen trui wil breien die je een leven lang warm houdt </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Linka Neumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De 100 euro Startup]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/431229643/de-100-euro-startup-chris-guillebeau</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/431229643/de-100-euro-startup-chris-guillebeau"/>
+        <updated>2026-07-27T10:34:50.636Z</updated>
+        <summary type="html"><![CDATA[Stap uit de ratrace, begin voor jezelf en maak je dromen waar]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A431229643?aid=kb-online-bibliotheek&sid=22&dts=1785148490070&sig=58dfb6221360b0518f2c9403dc7f1314e1696eae47575398189a4acce264d06e&width=320" alt="Omslag van 'De 100 euro Startup'" title="Omslag van 'De 100 euro Startup'">
+<p>Je hoeft niet langer van negen tot vijf voor een baas te werken om je hypotheek en jaarlijkse vakantie te betalen. Stap uit de ratrace en begin voor jezelf! In 'De 100 euro Startup' laat ondernemer en bestsellerauteur Chris Guillebeau zien hoe dat voor iedereen binnen handbereik is. Hij deelt cruciale inzichten van mensen die met 100 euro of minder een eigen bedrijf begonnen, waarmee ze nu 50.000 euro of meer verdienen. Alleen nog maar werken omdat het je gelukkig maakt is mogelijk voor iedereen. Zet je passie om in winst en creëer een onafhankelijker en zinvoller leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Chris Guillebeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Women Don't Owe You Pretty]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/432484590/women-don-t-owe-you-pretty-florence-given</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/432484590/women-don-t-owe-you-pretty-florence-given"/>
+        <updated>2026-07-27T10:34:51.249Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432484590?aid=kb-online-bibliotheek&sid=22&dts=1785148490751&sig=cc2d896c5e3fc521a99f3daefd18fc0a078b0a17dcb0c902102e6882f64e488a&width=320" alt="Omslag van 'Women Don't Owe You Pretty'" title="Omslag van 'Women Don't Owe You Pretty'">
+<p>Florence Given moedigt in ‘Women Don't Owe You Pretty’ lezers aan om de verhalen in twijfel te trekken die hen weerhouden van zelfacceptatie, eigenliefde en kracht. Het is een levendig geïllustreerde inleiding tot het moderne feminisme. Met dit boek leert iedere vrouw haar energie te beschermen. ‘Women Don't Owe You Pretty’ is er om ons eraan te herinneren dat iedereen waardevol is en dat vrouwen mannen niets verschuldigd zijn. WAARSCHUWING: bevat expliciete inhoud (en veel oncomfortabele waarheden). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Florence Given</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De hertenman]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433589035/de-hertenman-geoffroy-delorme</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433589035/de-hertenman-geoffroy-delorme"/>
+        <updated>2026-07-27T10:34:51.990Z</updated>
+        <summary type="html"><![CDATA[Zeven jaar overleven in het wild]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433589035?aid=kb-online-bibliotheek&sid=22&dts=1785148491368&sig=b2ed0b86ecce8e825e7e33a999b53e034bb062fd3d90f88f103be2b8b8de1695&width=320" alt="Omslag van 'De hertenman'" title="Omslag van 'De hertenman'">
+<p>Op zijn negentiende besluit Geoffroy Delorme het gewone leven achter zich te laten en zeven jaar door te brengen in een Normandisch bos. Alleen, zonder tent, beschutting of zelfs maar een slaapzak of deken. Na een tijdje wordt hij geaccepteerd door een familie wilde herten en ontstaat er een innige band tussen hem en Daguet, een van de dieren. In De hertenman lees je over zijn unieke ervaringen en wat het inhoudt te overleven in de natuur. Omlijst met intieme, zelfgemaakte natuurfoto’s toont Geoffroy ons de oeroude zoektocht om opnieuw verbinding te maken met de natuurlijke wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Geoffroy Delorme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het nest van de tijger]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433401052/het-nest-van-de-tijger-trudi-trueit</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433401052/het-nest-van-de-tijger-trudi-trueit"/>
+        <updated>2026-07-27T10:34:52.705Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433401052?aid=kb-online-bibliotheek&sid=22&dts=1785146750381&sig=e7246f5832a4f67c681c4dc011b45c2a41288a2bb1c3aca9e9e114fb22ddeab3&width=320" alt="Omslag van 'Het nest van de tijger'" title="Omslag van 'Het nest van de tijger'">
+<p>In deel 5 van de Explorer Academy reeks 'Het nest van de tijger' leiden alle aanwijzingen naar Azië. Op dit continent gaan Cruz en zijn vrienden op zoek naar het vijfde stuk van de geheime formule. Deze speurtocht brengt hen naar wereldberoemde plekken. En dat is niet zonder gevaar, want Nebula zit achter Cruz aan. Dit keer lijkt het erop dat hij niet meer kan ontsnappen. Of komt er toch nog redding uit onverwachte hoek?' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Trudi Trueit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Natuurzin]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434206512/natuurzin-marieke-schatteleijn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434206512/natuurzin-marieke-schatteleijn"/>
+        <updated>2026-07-23T09:20:45.597Z</updated>
+        <summary type="html"><![CDATA[Waarom de natuur ons blijer, gezonder en creatiever maakt]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434206512?aid=kb-online-bibliotheek&sid=22&dts=1784798445069&sig=76d8c4204e4d9e83d8f7fc314f6d6d6dcdc9e2f8e7e2931dff96c7208b192a9b&width=320" alt="Omslag van 'Natuurzin'" title="Omslag van 'Natuurzin'">
+<p>Hoe komt het dat we ons zo gelukkig voelen in het groen, omringd door planten, dieren, mooie landschappen en ander natuurschoon? Wat doet licht voor onze biologische klok? Wat doet hardlopen in de frisse buitenlucht met onze gezondheid? En waarom komt het stadsbrein eigenlijk tot rust in de natuur?</p><p>In Natuurzin gaat boswachter Marieke Schatteleijn op zoek naar antwoorden in de wetenschap en verbind ze die kennis met wat ze zelf ervaart als ze buiten is. Ga met haar mee op reis naar inspirerende Nederlandse natuurgebieden en ontdek aan de hand van negen themahoofdstukken waarom de natuur je blijer, gezonder en creatiever maakt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marieke Schatteleijn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het eiland van Verloren Woorden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43221822X/het-eiland-van-verloren-woorden-heather-fawcett</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43221822X/het-eiland-van-verloren-woorden-heather-fawcett"/>
+        <updated>2026-07-23T09:20:46.312Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43221822X?aid=kb-online-bibliotheek&sid=22&dts=1784798445728&sig=673d87bcba2862b7c2642050522ed197b2c9598518f46ed4bc0ad2ddd480ef2a&width=320" alt="Omslag van 'Het eiland van Verloren Woorden'" title="Omslag van 'Het eiland van Verloren Woorden'">
+<p>Het eiland van verloren woorden van Heather Fawcett (Ember en de ijsdraken), is het ultieme boek voor lezers vanaf 10 jaar die van magie en avontuur houden! En natuurlijk voor alle fans van Nevermoor en Bovenwereld. De koningin van Florean is vergiftigd. Haar zoon Julian en zijn zussen vluchten. Hun moeder was de eerste zwarte magiër die heerste over het koninkrijk. Xavier, haar voormalig raadsman, is de boosdoener. Hij aast op de troon en daarom zoekt hij een magisch boek met verloren bezweringen. Want om het koninkrijk te kunnen leiden moet hij een magische taal spreken. Julian, zelf zwarte magiër en troonopvolger, doorziet Xaviers plan. Met zijn zussen, zijn antieke anti-draak en een eigenzinnig zeemonster zoekt ook hij het magische boek. De tijd dringt… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Heather Fawcett</name>
         </author>
     </entry>
 </feed>
