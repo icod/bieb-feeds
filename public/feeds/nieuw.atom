@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-07-31T09:37:50.389Z</updated>
+    <updated>2026-08-01T09:00:41.011Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
-    <entry>
-        <title type="html"><![CDATA[De zilveren zetel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436847744/de-zilveren-zetel-c-s--lewis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436847744/de-zilveren-zetel-c-s--lewis"/>
-        <updated>2026-07-31T09:37:49.359Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436847744?aid=kb-online-bibliotheek&sid=22&dts=1785490669188&sig=072d7c758186b14867ed16d403ecc3e9cdd6ef8409ab76a4f095b78a68eb8eb8&width=320" alt="Omslag van 'De zilveren zetel'" title="Omslag van 'De zilveren zetel'">
-<p>De zilveren zetel van C.S. Lewis is het zesde deel van de beroemde serie ‘De Kronieken van Narnia’. Sprankelend vertaald door Imme Dros.</p><p>Justus probeert Jill, die zich eenzaam en ongelukkig voelt op de kostschool, te troosten met verhalen over het geheimzinnige land waar hij de afgelopen zomer is geweest. Jill zou daar ook wel naartoe willen. Totaal onverwacht gaat die wens in vervulling. Ze komen erachter dat Rilian, de zoon van koning Caspian, verdwenen is. Aslan geeft Jill en Justus de taak hem te vinden. Ze moeten vier tekens onthouden, maar dat lukt niet en het vinden van de prins lijkt onmogelijk te worden…</p><p></p><p> Voor kinderen vanaf 10 jaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>C.S. Lewis</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[De eindstrijd]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/436847728/de-eindstrijd-c-s--lewis</id>
@@ -25,6 +14,17 @@
         <updated>2026-07-31T09:37:49.552Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436847728?aid=kb-online-bibliotheek&sid=22&dts=1785462000960&sig=fd432dee5915626601e10ba4c05499ae72e15c1d694dca36bfcc0b2ccbe61ebc&width=320" alt="Omslag van 'De eindstrijd'" title="Omslag van 'De eindstrijd'">
 <p>De eindstrijd van C.S. Lewis is het zevende deel van de beroemde serie ‘De Kronieken van Narnia’. Sprankelend vertaald door Imme Dros.</p><p>Als Jill en Justus onverwacht weer in Narnia komen, blijkt er iets vreselijks aan de hand te zijn. De sluwe aap Slinks heeft een namaak-Aslan gemaakt en deelt in de naam van Aslan bevelen uit. Veel dieren geloven hem, zelfs als zijn bevelen steeds wreder worden. Tirian, de koning van Narnia, moet snel ingrijpen, voordat de vrede in het koninkrijk in gevaar komt. Het is maar goed dat Pieter, Edmond en Lucy samen met Jill en Justus meevechten in de eindstrijd, die de toekomst van Narnia voor eens en altijd zal bepalen.</p><p></p><p> Voor kinderen vanaf 10 jaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>C.S. Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De zilveren zetel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436847744/de-zilveren-zetel-c-s--lewis</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436847744/de-zilveren-zetel-c-s--lewis"/>
+        <updated>2026-07-31T09:37:49.359Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436847744?aid=kb-online-bibliotheek&sid=22&dts=1785490669188&sig=072d7c758186b14867ed16d403ecc3e9cdd6ef8409ab76a4f095b78a68eb8eb8&width=320" alt="Omslag van 'De zilveren zetel'" title="Omslag van 'De zilveren zetel'">
+<p>De zilveren zetel van C.S. Lewis is het zesde deel van de beroemde serie ‘De Kronieken van Narnia’. Sprankelend vertaald door Imme Dros.</p><p>Justus probeert Jill, die zich eenzaam en ongelukkig voelt op de kostschool, te troosten met verhalen over het geheimzinnige land waar hij de afgelopen zomer is geweest. Jill zou daar ook wel naartoe willen. Totaal onverwacht gaat die wens in vervulling. Ze komen erachter dat Rilian, de zoon van koning Caspian, verdwenen is. Aslan geeft Jill en Justus de taak hem te vinden. Ze moeten vier tekens onthouden, maar dat lukt niet en het vinden van de prins lijkt onmogelijk te worden…</p><p></p><p> Voor kinderen vanaf 10 jaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>C.S. Lewis</name>
         </author>
@@ -66,23 +66,23 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laatste adem]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/410588148/laatste-adem-karin-slaughter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/410588148/laatste-adem-karin-slaughter"/>
-        <updated>2026-07-28T09:31:20.190Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A410588148?aid=kb-online-bibliotheek&sid=22&dts=1785230933705&sig=080bd1121aadbe7518f778d29533945d6c85194abfb1755dde5c83eb915e4b89&width=320" alt="Omslag van 'Laatste adem'" title="Omslag van 'Laatste adem'">
-<p>Een jonge advocate met een traumatisch verleden zet zich in voor een tiener in nood.</p>]]></content>
-        <author>
-            <name>Karin Slaughter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Goede dochter]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/409753254/goede-dochter-karin-slaughter</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/409753254/goede-dochter-karin-slaughter"/>
         <updated>2026-07-28T09:31:20.002Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A409753254?aid=kb-online-bibliotheek&sid=22&dts=1785227350499&sig=ebdc6fe2b7f8816a77660c726a254262c5cf432978a1dbc22abd2c835fdf5e8e&width=320" alt="Omslag van 'Goede dochter'" title="Omslag van 'Goede dochter'">
 <p>3de plaats CPNB Top 100 Bestverkochte boeken van 2017!  'Gruwelijk knap opgeschreven.' - 4 ★★★★ in de Volkskrant Het zorgeloze leven van zusjes Charlotte en Samantha Quinn en hun ouders wordt wreed verstoord door een gruwelijke aanslag. Hun moeder verliest daarbij het leven en hun vader wordt nooit meer de oude. Achtentwintig jaar later: Charlotte - de klassieke 'goede dochter' - is advocaat geworden, in de voetsporen van haar vader. Dan is ze getuige van een nieuwe aanslag, en de details van het misdrijf halen de herinneringen naar boven die ze zo lang heeft geprobeerd te onderdrukken. Want de schokkende waarheid wil niet langer begraven blijven...  Over Goede dochter:  ''Slaughter doet waar ze goed in is: ze laat de lezer gruwelen.' - Elsevier 'Opnieuw een huiveringwekkende thriller die nog lang nazindert.' - Boeken Magazine 'Karin Slaughter verbluft opnieuw. Haar beschrijving van geweld tegen vrouwen is angstaanjagend, maar ook hun vechtlust geeft ze alle eer.' - KnackFocus ‘Deze standalone bewijst opnieuw Slaughters vermogen om verwikkelingen tussen interessante karakters te verweven met een doorwrochte plot.’ - ★★★★ VN Thriller- & Detectivegids </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Karin Slaughter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laatste adem]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/410588148/laatste-adem-karin-slaughter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/410588148/laatste-adem-karin-slaughter"/>
+        <updated>2026-07-28T09:31:20.190Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A410588148?aid=kb-online-bibliotheek&sid=22&dts=1785230933705&sig=080bd1121aadbe7518f778d29533945d6c85194abfb1755dde5c83eb915e4b89&width=320" alt="Omslag van 'Laatste adem'" title="Omslag van 'Laatste adem'">
+<p>Een jonge advocate met een traumatisch verleden zet zich in voor een tiener in nood.</p>]]></content>
         <author>
             <name>Karin Slaughter</name>
         </author>
@@ -113,13 +113,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onzichtbaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/433891807/onzichtbaar-karin-slaughter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/433891807/onzichtbaar-karin-slaughter"/>
-        <updated>2026-07-28T09:31:20.703Z</updated>
-        <summary type="html"><![CDATA[Sommige misdaden worden niet vergeten...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433891807?aid=kb-online-bibliotheek&sid=22&dts=1785229547092&sig=354d0819aeb2bc229adf2e224cae89f5aaf8dc19928f9e66adb0887c1884c0e3&width=320" alt="Omslag van 'Onzichtbaar'" title="Omslag van 'Onzichtbaar'">
-<p>Levensechte personages en bloedstollende spanning: deel 4 in de Grant County-reeks met Sara Linton in de hoofdrol.Een gewelddadige gijzeling houdt de inwoners van Grant County in zijn greep. Kinderarts Sara Linton en haar ex-man Jeffrey Tolliver bevinden zich onder de gegijzelden. Is rechercheur Lena Adams wel de aangewezen persoon om dit drama tot een goed einde te brengen? Houdt de gijzeling verband met mysterieuze gebeurtenissen uit het verleden? Heeft Jeffrey duistere kanten die zelfs Sara niet kent? 'Levensecht en verslavend!' Flair'Dit is misdaadliteratuur op zijn best.' Michael Connelly  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Onaantastbaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43385636X/onaantastbaar-karin-slaughter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43385636X/onaantastbaar-karin-slaughter"/>
+        <updated>2026-07-28T09:31:21.268Z</updated>
+        <summary type="html"><![CDATA[Was dit maar een simpele moordzaak...]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43385636X?aid=kb-online-bibliotheek&sid=22&dts=1785231081100&sig=9001c484bcfc62eb2e671e2426fa99e472fa0252cb9fe6812b6b121376723645&width=320" alt="Omslag van 'Onaantastbaar'" title="Omslag van 'Onaantastbaar'">
+<p>Levensechte personages en bloedstollende spanning: deel 6 in de Grant County-reeks met Sara Linton in de hoofdrol.Rechercheur Lena Adams heeft jarenlang geprobeerd haar gewelddadige verleden te ontvluchten. Maar bij een gedwongen terugkomst in haar geboortedorp wordt ze opnieuw geconfronteerd met een explosie van geweld: een meedogenloze moordenaar heeft een jonge vrouw onherkenbaar verbrand. Voor de plaatselijke politie is Lena de enige verdachte. Jeffrey Tolliver en Sara Linton reizen af naar het plaatsje om Lena's onschuld te bewijzen. Dan wordt een tweede lichaam gevonden en raken Jeffrey en Sara verstrikt in een duistere wereld vol geweld en rassenhaat. Kunnen zij de waarheid achterhalen voor de moordenaar opnieuw toeslaat?'Een bloedstollend verhaal in haar imposante oeuvre.' Elegance'Het bewijs is geleverd. Karin Slaughter behoort tot de allerbeste Amerikaanse misdaadschrijvers.' De Morgen   </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Karin Slaughter</name>
         </author>
@@ -137,24 +137,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onaantastbaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43385636X/onaantastbaar-karin-slaughter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43385636X/onaantastbaar-karin-slaughter"/>
-        <updated>2026-07-28T09:31:21.268Z</updated>
-        <summary type="html"><![CDATA[Was dit maar een simpele moordzaak...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43385636X?aid=kb-online-bibliotheek&sid=22&dts=1785231081100&sig=9001c484bcfc62eb2e671e2426fa99e472fa0252cb9fe6812b6b121376723645&width=320" alt="Omslag van 'Onaantastbaar'" title="Omslag van 'Onaantastbaar'">
-<p>Levensechte personages en bloedstollende spanning: deel 6 in de Grant County-reeks met Sara Linton in de hoofdrol.Rechercheur Lena Adams heeft jarenlang geprobeerd haar gewelddadige verleden te ontvluchten. Maar bij een gedwongen terugkomst in haar geboortedorp wordt ze opnieuw geconfronteerd met een explosie van geweld: een meedogenloze moordenaar heeft een jonge vrouw onherkenbaar verbrand. Voor de plaatselijke politie is Lena de enige verdachte. Jeffrey Tolliver en Sara Linton reizen af naar het plaatsje om Lena's onschuld te bewijzen. Dan wordt een tweede lichaam gevonden en raken Jeffrey en Sara verstrikt in een duistere wereld vol geweld en rassenhaat. Kunnen zij de waarheid achterhalen voor de moordenaar opnieuw toeslaat?'Een bloedstollend verhaal in haar imposante oeuvre.' Elegance'Het bewijs is geleverd. Karin Slaughter behoort tot de allerbeste Amerikaanse misdaadschrijvers.' De Morgen   </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Karin Slaughter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doorn in mijn vlees]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436966662/doorn-in-mijn-vlees-karin-slaughter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436966662/doorn-in-mijn-vlees-karin-slaughter"/>
-        <updated>2026-07-28T09:31:21.613Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436966662?aid=kb-online-bibliotheek&sid=22&dts=1785229302288&sig=4f6a6f6bcf67a429fb8d1e76c9f71e0336d73fbdbf960a2a6c6b90ccb2716934&width=320" alt="Omslag van 'Doorn in mijn vlees'" title="Omslag van 'Doorn in mijn vlees'">
-<p>Het leek een gewone nacht te worden en zij hadden twee gewone broers kunnen zijn, een doodnormale tweeling. Maar in deze nacht, in een bar in Atlanta waar de muziek boven de dansende menigte golft, pikt de knapste van de twee broers een meisje op. Samen gaan ze naar buiten. Wat daarna gebeurt in de donkere schaduwen van de parkeerplaats, kan met slechts twee woorden beschreven worden: vintage Slaughter.Doorn in mijn vlees is van de eerste scène tot de laatste zin even kwaadaardig als onderhoudend. Een onvergetelijk verhaal van een van de meest geliefde thrillerauteurs van deze tijd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Onzichtbaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433891807/onzichtbaar-karin-slaughter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433891807/onzichtbaar-karin-slaughter"/>
+        <updated>2026-07-28T09:31:20.703Z</updated>
+        <summary type="html"><![CDATA[Sommige misdaden worden niet vergeten...]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433891807?aid=kb-online-bibliotheek&sid=22&dts=1785229547092&sig=354d0819aeb2bc229adf2e224cae89f5aaf8dc19928f9e66adb0887c1884c0e3&width=320" alt="Omslag van 'Onzichtbaar'" title="Omslag van 'Onzichtbaar'">
+<p>Levensechte personages en bloedstollende spanning: deel 4 in de Grant County-reeks met Sara Linton in de hoofdrol.Een gewelddadige gijzeling houdt de inwoners van Grant County in zijn greep. Kinderarts Sara Linton en haar ex-man Jeffrey Tolliver bevinden zich onder de gegijzelden. Is rechercheur Lena Adams wel de aangewezen persoon om dit drama tot een goed einde te brengen? Houdt de gijzeling verband met mysterieuze gebeurtenissen uit het verleden? Heeft Jeffrey duistere kanten die zelfs Sara niet kent? 'Levensecht en verslavend!' Flair'Dit is misdaadliteratuur op zijn best.' Michael Connelly  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Karin Slaughter</name>
         </author>
@@ -171,12 +160,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verbroken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440063914/verbroken-karin-slaughter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440063914/verbroken-karin-slaughter"/>
-        <updated>2026-07-28T09:31:21.775Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440063914?aid=kb-online-bibliotheek&sid=22&dts=1785230523003&sig=81ed279771a592cb9a78a9b304f75906f70b098c33f1e8e56139ec7da3a6bc09&width=320" alt="Omslag van 'Verbroken'" title="Omslag van 'Verbroken'">
-<p>Twee vermoorde scholieren stellen een speurdersteam voor een raadsel terwijl de onderlinge relaties niet meewerken om tot een oplossing te komen.</p>]]></content>
+        <title type="html"><![CDATA[Doorn in mijn vlees]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436966662/doorn-in-mijn-vlees-karin-slaughter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436966662/doorn-in-mijn-vlees-karin-slaughter"/>
+        <updated>2026-07-28T09:31:21.613Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436966662?aid=kb-online-bibliotheek&sid=22&dts=1785229302288&sig=4f6a6f6bcf67a429fb8d1e76c9f71e0336d73fbdbf960a2a6c6b90ccb2716934&width=320" alt="Omslag van 'Doorn in mijn vlees'" title="Omslag van 'Doorn in mijn vlees'">
+<p>Het leek een gewone nacht te worden en zij hadden twee gewone broers kunnen zijn, een doodnormale tweeling. Maar in deze nacht, in een bar in Atlanta waar de muziek boven de dansende menigte golft, pikt de knapste van de twee broers een meisje op. Samen gaan ze naar buiten. Wat daarna gebeurt in de donkere schaduwen van de parkeerplaats, kan met slechts twee woorden beschreven worden: vintage Slaughter.Doorn in mijn vlees is van de eerste scène tot de laatste zin even kwaadaardig als onderhoudend. Een onvergetelijk verhaal van een van de meest geliefde thrillerauteurs van deze tijd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Karin Slaughter</name>
         </author>
@@ -188,6 +177,17 @@
         <updated>2026-07-28T09:31:22.729Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440063957?aid=kb-online-bibliotheek&sid=22&dts=1785231082497&sig=469d0da71acb654990188a1e41e3eb368981442ed8d7c48a135b620622adef21&width=320" alt="Omslag van 'Veroordeeld'" title="Omslag van 'Veroordeeld'">
 <p>In het Atlanta van 1974 gaan een ervaren agente en een groentje op zoek naar een moordenaar die politiemannen executeert.</p>]]></content>
+        <author>
+            <name>Karin Slaughter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verbroken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440063914/verbroken-karin-slaughter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440063914/verbroken-karin-slaughter"/>
+        <updated>2026-07-28T09:31:21.775Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440063914?aid=kb-online-bibliotheek&sid=22&dts=1785230523003&sig=81ed279771a592cb9a78a9b304f75906f70b098c33f1e8e56139ec7da3a6bc09&width=320" alt="Omslag van 'Verbroken'" title="Omslag van 'Verbroken'">
+<p>Twee vermoorde scholieren stellen een speurdersteam voor een raadsel terwijl de onderlinge relaties niet meewerken om tot een oplossing te komen.</p>]]></content>
         <author>
             <name>Karin Slaughter</name>
         </author>
@@ -226,12 +226,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ongezien]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443865280/ongezien-karin-slaughter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443865280/ongezien-karin-slaughter"/>
-        <updated>2026-07-30T09:25:24.857Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443865280?aid=kb-online-bibliotheek&sid=22&dts=1785335140698&sig=72a42c07e29ca3d227314caa33cd8aa68e3c8d315567f6e02e7afc1d1f520825&width=320" alt="Omslag van 'Ongezien'" title="Omslag van 'Ongezien'">
-<p>In Ongezien van meesterverteller Karin Slaughter heeft June Conner voor ze sterft nog één dag om de confrontatie aan te gaan met haar verleden.. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Onbegrepen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443865264/onbegrepen-karin-slaughter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443865264/onbegrepen-karin-slaughter"/>
+        <updated>2026-07-30T09:25:23.972Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443865264?aid=kb-online-bibliotheek&sid=22&dts=1785336523252&sig=3c7659e012fcafcf35721ad2aa723b8b142e734d71bf4999114d2d13243478ac&width=320" alt="Omslag van 'Onbegrepen'" title="Omslag van 'Onbegrepen'">
+<p>In Onbegrepen van meesterverteller Karin Slaughter gaat Martin, een stille man die in zijn vrije tijd veel thrillers leest, op onderzoek uit nadat zijn collega wordt vermoord... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Karin Slaughter</name>
         </author>
@@ -243,6 +243,17 @@
         <updated>2026-07-30T09:25:24.589Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443865256?aid=kb-online-bibliotheek&sid=22&dts=1785335148966&sig=83e1c5b2f7165ed742f461a1f86de812681986c95eaa5902af052057518894fc&width=320" alt="Omslag van 'Onmisbare vrouwen'" title="Omslag van 'Onmisbare vrouwen'">
 <p>In Onmisbare vrouwen van 'Queen of Crime' Karin Slaughter was ze veertien toen ze haar moeder zag sterven. Haar vader besluit dat zij nu de vrouw des huizes moet zijn, maar ze heeft een verrassing voor hem... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Karin Slaughter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ongezien]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443865280/ongezien-karin-slaughter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443865280/ongezien-karin-slaughter"/>
+        <updated>2026-07-30T09:25:24.857Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443865280?aid=kb-online-bibliotheek&sid=22&dts=1785335140698&sig=72a42c07e29ca3d227314caa33cd8aa68e3c8d315567f6e02e7afc1d1f520825&width=320" alt="Omslag van 'Ongezien'" title="Omslag van 'Ongezien'">
+<p>In Ongezien van meesterverteller Karin Slaughter heeft June Conner voor ze sterft nog één dag om de confrontatie aan te gaan met haar verleden.. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Karin Slaughter</name>
         </author>
@@ -277,17 +288,6 @@
         <updated>2026-07-30T09:25:26.704Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443865272?aid=kb-online-bibliotheek&sid=22&dts=1785335555168&sig=1ca0be0fe133aa940fc02ee2e9480fec775792f9eaa45902af05144fa7d32368&width=320" alt="Omslag van 'De zegen van het gebroken zijn'" title="Omslag van 'De zegen van het gebroken zijn'">
 <p>In De zegen van het gebroken zijn van 'Queen of Crime' Karin Slaughter houdt Mary Lou Dixon toezicht op de reparatie van het kruis in haar kerk, als er iets vreselijks gebeurt... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Karin Slaughter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onbegrepen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443865264/onbegrepen-karin-slaughter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443865264/onbegrepen-karin-slaughter"/>
-        <updated>2026-07-30T09:25:23.972Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443865264?aid=kb-online-bibliotheek&sid=22&dts=1785336523252&sig=3c7659e012fcafcf35721ad2aa723b8b142e734d71bf4999114d2d13243478ac&width=320" alt="Omslag van 'Onbegrepen'" title="Omslag van 'Onbegrepen'">
-<p>In Onbegrepen van meesterverteller Karin Slaughter gaat Martin, een stille man die in zijn vrije tijd veel thrillers leest, op onderzoek uit nadat zijn collega wordt vermoord... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Karin Slaughter</name>
         </author>
@@ -339,24 +339,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onderwijs ondersteunen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461231271/onderwijs-ondersteunen-beno-schraepen---anke-deckers---deborah-davits---leen-sebrechts</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461231271/onderwijs-ondersteunen-beno-schraepen---anke-deckers---deborah-davits---leen-sebrechts"/>
-        <updated>2026-07-28T09:31:23.461Z</updated>
-        <summary type="html"><![CDATA[Gids voor leersteuncentra]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461231271?aid=kb-online-bibliotheek&sid=22&dts=1785231083290&sig=2b1acc15def38aa61a590fae33e674d70149d74fbbe235fa350f69cd6f0b488c&width=320" alt="Omslag van 'Onderwijs ondersteunen'" title="Omslag van 'Onderwijs ondersteunen'">
-<p>Goed onderwijs kan niet zonder gepaste onderwijsondersteuning. Het is een onmisbare schakel in het realiseren van inclusief onderwijs op de klasvloer en een noodzakelijke voorwaarde in de evolutie naar scholen voor iedereen. Scholen zijn binnen deze context voortdurend op zoek naar manieren om onderwijs te organiseren in functie van het leren en de ontwikkeling van alle leerlingen, ongeacht hun specifieke socio-economische context, sterktes of beperkingen. Een efficiënte samenwerking met partners die leerlingen, leerkrachten, schoolteams en ouders ondersteunen is dan goud waard. Sinds de invoering van het decreet leersteun in 2023 wordt onderwijsondersteuning georganiseerd vanuit leersteuncentra. Verspreid over het Vlaamse onderwijslandschap bieden meer dan 3600 professionals ondersteuning op leerling- en leerkrachtniveau. Ze zijn de bevoorrechte partner van de schoolteams in het ontwikkelen van een inclusieve klaspraktijk en schoolcultuur. Maar wat houdt het concept 'onderwijsondersteuning' precies in? Wat is nodig om kwaliteitsvol te ondersteunen en doelgericht samen te werken? Of hoe te kijken vanuit een ondersteuningsperspectief? Een multidisciplinair onderzoeksteam van de AP Hogeschool volgde in de aanloop naar het decreet leersteun gedurende vier jaar het reilen en zeilen in die ondersteuningspraktijk. De verhalen, bezorgdheden, tools, reflecties en ervaringen uit die praktijk liggen aan de basis van deze gids. Het is een hand- of werkboek dat de essentiële basiskennis biedt voor de onderwijsondersteuner, of die nu extern of intern aan de school verbonden is. Het definieert waar ondersteuning begint en eindigt, linkt het aan de klas- en schoolcontext, verkent de rol en het mandaat van de ondersteuner, en beschrijft vier begeleidingsvormen. Een onmisbare gids voor iedereen die betrokken is bij leersteun, ondersteuning en inclusief onderwijs. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[You rock]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461231220/you-rock-lies-cattersel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461231220/you-rock-lies-cattersel"/>
+        <updated>2026-07-28T09:31:23.199Z</updated>
+        <summary type="html"><![CDATA[Een pleidooi voor meer kleur, durf en goesting om jezelf te tonen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461231220?aid=kb-online-bibliotheek&sid=22&dts=1785229105033&sig=4c6e20b543794a9889da12026f48a343a4b952cbabf94737475d50b3c72a5b34&width=320" alt="Omslag van 'You rock'" title="Omslag van 'You rock'">
+<p>We leven in een wereld waarin we van alle kanten horen dat je 'jezelf moet zijn'. Maar tegelijk wordt iedereen die te veel van de norm afwijkt, afgestraft. Dus leer je je aanpassen. Loop je braafjes in de pas en hou je je aan de ongeschreven regels die je voorschrijven wat 'normaal' is. En onderweg verlies je jezelf. Hoe dat gebeurt, merk je vaak pas later. Aan hoe je jezelf voortdurend afmeet aan anderen, alles goed wil doen en ondertussen vooral probeert niet op te vallen. Aan de stemmetjes in je hoofd die zeggen dat het beter is om te zwijgen en je in te houden. You rock! is een pleidooi voor meer kleur, lef en goesting om jezelf te tonen. Over ruimte durven innemen, je plek opeisen en ophouden met jezelf kleiner maken dan je bent. Dit boek vertelt waar dat 'aanpassen' vandaan komt, wat het met je doet én hoe je het kan afleren. Met herkenbare verhalen, praktische inzichten en concrete check-ins die je helpen om stap voor stap dichter bij jezelf te komen - in hoe je denkt, werkt, praat, je kleedt en beweegt. Want elke keer dat jij jezelf inhoudt, ontneem je de wereld iets van jouw unieke potentieel. En dat is ongelooflijk jammer. Voor jezelf, je omgeving én de wereld. You rock! nodigt je uit om dat potentieel terug te vinden. Tijd dus om je niet langer te verstoppen, en te tonen wie je écht bent, met alles erop en eraan. Wat de wereld écht nodig heeft, zijn mensen die zichzelf durven laten zien. Toch? En wanneer zou je daar beter mee beginnen dan vandaag? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Beno Schraepen</name>
-        </author>
-        <author>
-            <name>Anke Deckers</name>
-        </author>
-        <author>
-            <name>Deborah Davits</name>
-        </author>
-        <author>
-            <name>Leen Sebrechts</name>
+            <name>Lies Cattersel</name>
         </author>
     </entry>
 </feed>
