@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-08-07T08:08:28.605Z</updated>
+    <updated>2026-08-08T07:41:39.513Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Aber du siehst gar nicht autistisch aus]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436880415/aber-du-siehst-gar-nicht-autistisch-aus-bianca-toeps</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436880415/aber-du-siehst-gar-nicht-autistisch-aus-bianca-toeps"/>
+        <updated>2026-08-08T07:41:38.653Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436880415?aid=kb-online-bibliotheek&sid=22&dts=1786130448131&sig=f0d7a07b7f344a55048638cb452c5f3048c4b88668902a4d2ca383b1cdea536f&width=320" alt="Omslag van 'Aber du siehst gar nicht autistisch aus'" title="Omslag van 'Aber du siehst gar nicht autistisch aus'">
+<p>Autismus - Ist das nicht, wenn man blitzschnell ausrechnen kann, dass der 7. August 1984 auf einen Dienstag fällt? Nun... nein. In diesem Buch erklärt dir Bianca Toeps ganz genau, was es bedeutet, wenn man Autismus hat. Sie macht dies, indem sie zum Beispiel schaut, was die Wissenschaft über Autismus sagt (und warum einige Theorien verworfen werden sollten), aber auch, indem sie ihre eigene Geschichte erzählt und andere Menschen mit Autismus interviewt. Bianca beschreibt auf frische und unbeschwerte Weise die verschiedenen Situationen, die man als Autist im Alltag erlebt. Sie gibt auch Tipps für Nicht-Autisten: was man tun kann, wenn einen jemand nicht ansehen will, warum es manchmal besser ist, eine E-Mail zu schreiben, und vor allem, warum es überhaupt kein Kompliment ist, wenn man sagt: "Aber du siehst gar nicht autistisch aus!" </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Bianca Toeps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This autistic girl went to Japan]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442188455/this-autistic-girl-went-to-japan-bianca-toeps</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442188455/this-autistic-girl-went-to-japan-bianca-toeps"/>
+        <updated>2026-08-08T07:41:38.817Z</updated>
+        <summary type="html"><![CDATA[and you won't believe what happened next]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442188455?aid=kb-online-bibliotheek&sid=22&dts=1786133713988&sig=e8d80086870fd0aec0d4598dc657e500366936dbb9dc828cd3d381e185bae08c&width=320" alt="Omslag van 'This autistic girl went to Japan'" title="Omslag van 'This autistic girl went to Japan'">
+<p>When Bianca Toeps first set foot in Japan in 2008, she just knew: "I'm going to live here someday." Flash forward fifteen years, and she's finally traded her tiny apartment in the Netherlands for an even tinier one in Tokyo. But it wasn't always easy. Between that first visit and now, Toeps was diagnosed with autism at age 26, suffered several burnouts, and switched careers a time or two (or three) before becoming a web developer and a best-selling author. And just when she was all set for the big move, the pandemic derailed everything. This Autistic Girl Went to Japan is the inspiring story of a young woman who moved halfway around the world in pursuit of happiness. With humor and remarkable candor, Bianca describes the challenges of applying for a visa during a time of terrifying uncertainty, slogging through endless red tape, and the loneliness that comes with being a stranger in a strange land. Oh, and how she wound up evicting a bat from her new apartment, attending a Pokémon go event with a bunch of middle-aged women, and discovering the best thrift store in all of Tokyo. Along the way, she explains why she feels so at home in Japan, where things are often a bit easier for autistic folks. Well, except for revenue stamps. And opening a bank account. And faxes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Bianca Toeps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[But you don't look autistic at all]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439134560/but-you-don-t-look-autistic-at-all-bianca-toeps</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439134560/but-you-don-t-look-autistic-at-all-bianca-toeps"/>
+        <updated>2026-08-08T07:41:38.991Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439134560?aid=kb-online-bibliotheek&sid=22&dts=1786107322822&sig=6f872b545f764df2a2e3ae416136a9997eb7264520e93053c58751e79f1c629d&width=320" alt="Omslag van 'But you don't look autistic at all'" title="Omslag van 'But you don't look autistic at all'">
+<p>Bianca (1984) legt uit wat het betekent om autistisch te zijn. Ze zocht uit wat de wetenschap erover zegt, hield interviews en vertelt ook haar eigen verhaal. Bevat ook tips voor o.a. vrienden. Vanaf ca. 15 jaar.</p>]]></content>
+        <author>
+            <name>Bianca Toeps</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De driehoek]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/424290421/de-driehoek-danielle-steel</id>
@@ -41,6 +75,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De kleuren van het donker]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444245103/de-kleuren-van-het-donker-chris-whitaker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444245103/de-kleuren-van-het-donker-chris-whitaker"/>
+        <updated>2026-08-08T07:41:39.173Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444245103?aid=kb-online-bibliotheek&sid=22&dts=1786101612453&sig=8f725f40722d7a5ef88bbc22fa9b28d9bfe778b9e5d041d14f6f6fe0f3716d8d&width=320" alt="Omslag van 'De kleuren van het donker'" title="Omslag van 'De kleuren van het donker'">
+<p>Een kolkende thriller en een episch liefdesverhaal van prijswinnend bestsellerauteur Chris Whitaker.</p><p> Amerika, 1975. In het dorpje Monta Clare, Missouri, wordt tiener Joseph 'Patch' Macauley ontvoerd. Saint Brown, zet alles op het spel om haar beste vriend te vinden.</p><p> Patch ligt alleen in een pikdonkere kamer totdat hij een hand in de zijne voelt. Ze heet Grace en in het donker is haar stem zijn redding. Als Patch ontsnapt, is er echter geen bewijs dat ze ooit heeft bestaan, dus begint hij een grootse zoektocht om haar te vinden.</p><p> Terwijl jaren decennia worden en hoop een obsessie, jaagt Patch's jeugdvriendin Saint op de man die de twee ontvoerde en daarmee de enige jongen van wie ze ooit heeft gehouden een doel in het leven gaf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Chris Whitaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De jongen die de tijd wilde stopzetten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444700331/de-jongen-die-de-tijd-wilde-stopzetten-stefan-raatgever</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444700331/de-jongen-die-de-tijd-wilde-stopzetten-stefan-raatgever"/>
+        <updated>2026-08-08T07:41:39.337Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444700331?aid=kb-online-bibliotheek&sid=22&dts=1786104781873&sig=57568884df6b728e7dd4d27fced26360d6870ef351a50454a12c171c3cce7692&width=320" alt="Omslag van 'De jongen die de tijd wilde stopzetten'" title="Omslag van 'De jongen die de tijd wilde stopzetten'">
+<p>Stefan Raatgever schreef een even grappig als pijnlijk vervolg op De jongen die van de klif sprong en zacht terechtkwam, zijn YA-debuut dat genomineerd was voor de Jonge Jury Debuutprijs 2023 en dat verfilmd wordt. In De jongen die de tijd wilde stopzetten probeert een eerstejaarsstudent na zijn coming-out zijn eigen weg te vinden, maar hoever gaat hij voor de liefde? Alec denkt na zijn coming-out een onbezorgd leven binnen te stappen. Hij geniet van het studentenbestaan en gaat op dates, feest volop en studeert af en toe een beetje. Maar toch struggelt hij met zijn geaardheid. Waarom kan hij niet gewoon normaal zijn? Dan komt hij zijn eerste liefde Björn weer tegen. In de maanden erna vertelt Björn stukje bij beetje zijn verhaal. Alec is onder de indruk van zijn kwetsbaarheid en schijnbare eerlijkheid. Hun band wordt sterker en Alec doet er alles aan om hun relatie te laten slagen. Maar Björn blijkt nog steeds vooral met zichzelf bezig. Wanneer Alec besluit dat hij niet verder wil met Björn, verklaart Björn hem de liefde. Is Alec sterk genoeg om nee te zeggen tegen de jongen die een nieuwe wereld voor hem heeft geopend, of heeft hij werkelijk zijn ware liefde gevonden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Stefan Raatgever</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knot Simply Friends]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46130211X/knot-simply-friends-layla-heart</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46130211X/knot-simply-friends-layla-heart"/>
+        <updated>2026-08-08T07:41:39.512Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46130211X?aid=kb-online-bibliotheek&sid=22&dts=1786103423436&sig=fc40e957959d2928f7d5233f5f1988efd1fb8e0961cdb48f9469b158d2416c7c&width=320" alt="Omslag van 'Knot Simply Friends'" title="Omslag van 'Knot Simply Friends'">
+<p>A scent-matched but unbonded Omega-Beta pair. A Heat Seekers match with her older brother's Alpha best friend. And a litter of newborn kittens.</p><p> Nick  My niece complained that I'm too old to still be single, so she signed me up for the Heat Seekers app. Where I matched with a pair, Fenna, my best friend's younger sister, and Britt, her girlfriend (though they insist they're 'simply friends'). Seeing them for the first time in two decades and literally falling on my ass when I catch a whiff of Fenna's scent, wasn't how I expected to find my scent matches. Is this what meeting your fated mates is like? Is it always this intense?</p><p>Britt  My heart breaks watching my childhood best friend and scent-matched Omega lose her spark of joy every time she locks herself in her nest when her bond disorder acts up. Mating with her scent matches is supposed to help, but she refuses. She was traumatised after watching her Omega aunt forced to break the bond with her Beta girlfriend by some Alphahole, and now she won't bond with me until we've found everyone in our pack. When Nick turns out to be our other mate, things were supposed to get easier. So why is everything unravelling at an even higher speed?</p><p>Fenna  Unlike what the doctor promised, my bond disorder is acting up more than before since finding Nick. So, I set a limit. We're going to take things slow, starting by building a close friendship. That plan goes out the window the moment Nick appears in the middle of our hallway, a bag with his clothes and a cat carrier at his feet, ready to move in with us so we can co-parent a litter of newborn kittens. I don't think midnight feedings and broken sleep are 'keeping things casual', right?</p><p>This is an MFF/AOB romance, Nick and Britt are only with Fenna, not each other. Knot Simply Friends is part of the Heat Seekers Omegaverse, a shared world series featuring an amazing group of Omegaverse authors all centered around an app that Omegas use to find partners for their heats. All books can be read as stand alones, but you'll find lots of character crossovers in the series. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Layla Heart</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Al is de leugen nog zo snel...]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/458013536/al-is-de-leugen-nog-zo-snel----ellen-barksdale</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/458013536/al-is-de-leugen-nog-zo-snel----ellen-barksdale"/>
@@ -52,25 +119,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Expeditie Gifvis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458013455/expeditie-gifvis-petra-van-rijssen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458013455/expeditie-gifvis-petra-van-rijssen"/>
-        <updated>2026-08-02T09:05:10.473Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013455?aid=kb-online-bibliotheek&sid=22&dts=1785661509960&sig=2f0592df656f6d69c03edbe6dec781cba495dcdffda344dd265241b1b47afc1a&width=320" alt="Omslag van 'Expeditie Gifvis'" title="Omslag van 'Expeditie Gifvis'">
-<p>In 'Expeditie Gifvis' van Petra van Rijssen vindt Amir het niks aan op zijn nieuwe school. Er zijn drie klierjongens in de klas die hem steeds moeten hebben. Gelukkig helpt zijn klasgenootje Olivia hem om zich thuis te voelen in groep acht en het pesten te negeren.  Ondertussen zitten de pestkoppen met een probleem. Ze hebben hun neef beloofd om in ruil voor geld otters te vergiftigen, want die zwemmen steeds zijn palingfuiken in. Omdat ze met te weinig zijn zetten ze Amir en Oliva zo onder druk dat ze wel mee móéten helpen.  Maar in het geheim verzinnen Amir en Olivia een list om het plan te saboteren... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De laatste adem]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46020758X/de-laatste-adem-ellen-barksdale</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46020758X/de-laatste-adem-ellen-barksdale"/>
+        <updated>2026-08-02T09:05:07.706Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46020758X?aid=kb-online-bibliotheek&sid=22&dts=1785592358754&sig=13e91356d8f841baa9b99bef99aa7c7d6583a918566dbbbfeee6dc837882ca76&width=320" alt="Omslag van 'De laatste adem'" title="Omslag van 'De laatste adem'">
+<p>Thee? Koffie? Moord! deel 2. De beroemde schrijver Ian O'Shelley wordt dood aangetroffen in zijn huisje in Earlsraven met een zelfmoordbrief naast zich. Nathalie Ames is een grote fan van de auteur en begint de zaak nader te onderzoeken. Ze ontdekt dat O'Shelley een man was met veel geheimen. Was het echt zelfmoord? Of werd de sympathieke bestsellerauteur vermoord? Maar terwijl Nathalie zijn verleden van onderzoekt, stort haar privéleven in - allemaal vanwege haar verhuizing naar Earlsraven. Voor fans van de Cherringham-serie van Costello & Richards. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Petra van Rijssen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Florence roze]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691546/florence-roze-claudia-schoemacher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691546/florence-roze-claudia-schoemacher"/>
-        <updated>2026-08-02T09:05:11.406Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691546?aid=kb-online-bibliotheek&sid=22&dts=1785658398625&sig=a9b310e39a08f911594468905032b5e8cd7ef9b8c37b9f1e5584d8df6ace719a&width=320" alt="Omslag van 'Florence roze'" title="Omslag van 'Florence roze'">
-<p>Valentina's vendetta is de maffia romance die je niet kan wegleggen. Florence roze is deel 2 en net zo heet als het eerste deel. Net wanneer kunsthistorica Valentina na een roerige tijd haar rust weer heeft gevonden in Amsterdam, staat de duistere zakenman Frank onverwacht weer op haar stoep. Opnieuw valt ze voor hem, ongeacht het gevaar dat hij met zich meebrengt. Partners in crime, zo noemt hij het... Voor fans van Gabrielle Sands en haar Fallen serie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Claudia Schoemacher</name>
+            <name>Ellen Barksdale</name>
         </author>
     </entry>
     <entry>
@@ -96,6 +152,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Expeditie Gifvis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/458013455/expeditie-gifvis-petra-van-rijssen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/458013455/expeditie-gifvis-petra-van-rijssen"/>
+        <updated>2026-08-02T09:05:10.473Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458013455?aid=kb-online-bibliotheek&sid=22&dts=1785661509960&sig=2f0592df656f6d69c03edbe6dec781cba495dcdffda344dd265241b1b47afc1a&width=320" alt="Omslag van 'Expeditie Gifvis'" title="Omslag van 'Expeditie Gifvis'">
+<p>In 'Expeditie Gifvis' van Petra van Rijssen vindt Amir het niks aan op zijn nieuwe school. Er zijn drie klierjongens in de klas die hem steeds moeten hebben. Gelukkig helpt zijn klasgenootje Olivia hem om zich thuis te voelen in groep acht en het pesten te negeren.  Ondertussen zitten de pestkoppen met een probleem. Ze hebben hun neef beloofd om in ruil voor geld otters te vergiftigen, want die zwemmen steeds zijn palingfuiken in. Omdat ze met te weinig zijn zetten ze Amir en Oliva zo onder druk dat ze wel mee móéten helpen.  Maar in het geheim verzinnen Amir en Olivia een list om het plan te saboteren... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Petra van Rijssen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Napels geel]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460691457/napels-geel-claudia-schoemacher"/>
@@ -107,14 +174,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De laatste adem]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46020758X/de-laatste-adem-ellen-barksdale</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46020758X/de-laatste-adem-ellen-barksdale"/>
-        <updated>2026-08-02T09:05:07.706Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46020758X?aid=kb-online-bibliotheek&sid=22&dts=1785592358754&sig=13e91356d8f841baa9b99bef99aa7c7d6583a918566dbbbfeee6dc837882ca76&width=320" alt="Omslag van 'De laatste adem'" title="Omslag van 'De laatste adem'">
-<p>Thee? Koffie? Moord! deel 2. De beroemde schrijver Ian O'Shelley wordt dood aangetroffen in zijn huisje in Earlsraven met een zelfmoordbrief naast zich. Nathalie Ames is een grote fan van de auteur en begint de zaak nader te onderzoeken. Ze ontdekt dat O'Shelley een man was met veel geheimen. Was het echt zelfmoord? Of werd de sympathieke bestsellerauteur vermoord? Maar terwijl Nathalie zijn verleden van onderzoekt, stort haar privéleven in - allemaal vanwege haar verhuizing naar Earlsraven. Voor fans van de Cherringham-serie van Costello & Richards. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Florence roze]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691546/florence-roze-claudia-schoemacher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691546/florence-roze-claudia-schoemacher"/>
+        <updated>2026-08-02T09:05:11.406Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691546?aid=kb-online-bibliotheek&sid=22&dts=1785658398625&sig=a9b310e39a08f911594468905032b5e8cd7ef9b8c37b9f1e5584d8df6ace719a&width=320" alt="Omslag van 'Florence roze'" title="Omslag van 'Florence roze'">
+<p>Valentina's vendetta is de maffia romance die je niet kan wegleggen. Florence roze is deel 2 en net zo heet als het eerste deel. Net wanneer kunsthistorica Valentina na een roerige tijd haar rust weer heeft gevonden in Amsterdam, staat de duistere zakenman Frank onverwacht weer op haar stoep. Opnieuw valt ze voor hem, ongeacht het gevaar dat hij met zich meebrengt. Partners in crime, zo noemt hij het... Voor fans van Gabrielle Sands en haar Fallen serie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ellen Barksdale</name>
+            <name>Claudia Schoemacher</name>
         </author>
     </entry>
     <entry>
@@ -177,26 +244,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sevilla rood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460691597/sevilla-rood-claudia-schoemacher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460691597/sevilla-rood-claudia-schoemacher"/>
-        <updated>2026-08-02T09:05:16.293Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691597?aid=kb-online-bibliotheek&sid=22&dts=1785613049537&sig=4c3966da540502e1e40161bd0bd612c925dddbd28f499ce00d73af43c5a1f3e6&width=320" alt="Omslag van 'Sevilla rood'" title="Omslag van 'Sevilla rood'">
-<p>Valentina's vendetta is de maffia romance die je niet kan wegleggen! Sevilla rood is deel 3 en net zo heet als de voorgaande delen. Valentina's leven lijkt een droom: een huwelijk in Kroatië, een verlovingsring met een robijn zo rood als bloed, en een huwelijksreis naar het zinderende Sevilla. Maar achter de façade van luxe en romantiek schuilt een wereld vol geheimen, jaloezie en gevaar. Frank blijkt niet alleen onvoorspelbaar, maar ook verbonden met duistere zaken en een verleden dat haar steeds meer in zijn greep krijgt. Voor fans van Gabrielle Sands en haar Fallen serie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Odyssee]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461287609/odyssee-homerus</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461287609/odyssee-homerus"/>
+        <updated>2026-08-05T09:30:17.822Z</updated>
+        <summary type="html"><![CDATA[Geïnspireerd op de originele vertaling]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461287609?aid=kb-online-bibliotheek&sid=22&dts=1785857390486&sig=a5269d2cbf91169aef83da4bdc5ddd5a1214fab8397bc19d0247c1a199911782&width=320" alt="Omslag van 'Odyssee'" title="Omslag van 'Odyssee'">
+<p>De grandioze speelfilm The Odyssey van regisseur Christopher Nolan heeft de belangstelling voor een van de oudste en invloedrijkste verhalen uit de westerse literatuur opnieuw aangewakkerd. Homerus' Odyssee is veel meer dan een avonturenverhaal: het is een epos over verlangen, trouw, verleiding, verlies en de moeizame weg naar huis. Al bijna drieduizend jaar spreekt de omzwerving van Odysseus tot de verbeelding van lezers, kunstenaars en vertellers. De hiernavolgende vertelling is geïnspireerd door de zeventiende-eeuwse Nederlandse vertaling van Dirck Volckertszoon Coornhert, maar is herschreven in modern, literair Nederlands. Na de val van Troje begint voor Odysseus, koning van Ithaka, een zwerftocht die tien jaar zal duren. Onderweg trotseert hij de Cycloop Polyphemos, de betoveringen van Kirke, de lokroep van de Sirenen, de zeemonsters Skylla en Charybdis, en de toorn van Poseidon, die hem na de verblinding van zijn zoon meedogenloos achtervolgt. Terwijl de held van eiland naar eiland zwerft, wachten zijn vrouw Penelope en zijn zoon Telemachos thuis op zijn terugkeer, terwijl vrijers zijn paleis bezetten en zijn bezit verkwisten. Met hulp van Athena bereikt Odysseus uiteindelijk vermomd zijn vaderland. Samen met Telemachos en enkele trouwe dienaren beraamt hij de ondergang van de vrijers. Nadat hij zich door het spannen van zijn beroemde boog heeft geopenbaard, neemt hij op beslissende wijze wraak en herstelt hij de orde in zijn huis. Uiteindelijk herkennen ook Penelope en zijn oude vader Laërtes hem weer, waarna vrede terugkeert op Ithaka. Zo eindigt de Odyssee als een verhaal waarin niet alleen heldhaftigheid, maar vooral volharding, wijsheid en trouw de weg naar huis mogelijk maken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Claudia Schoemacher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondertussen op aarde...]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460921886/ondertussen-op-aarde----oliver-jeffers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460921886/ondertussen-op-aarde----oliver-jeffers"/>
-        <updated>2026-08-02T09:05:16.813Z</updated>
-        <summary type="html"><![CDATA[Op zoek naar onze plaats in ruimte en tijd]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460921886?aid=kb-online-bibliotheek&sid=22&dts=1785589087591&sig=d4600b4c84f994c854cfb195a9696ee0618c2943a9bb92e89f8543676289c2a5&width=320" alt="Omslag van 'Ondertussen op aarde...'" title="Omslag van 'Ondertussen op aarde...'">
-<p>Twee kinderen maken ruzie op de achterbank. Hun vader neemt ze mee op een reis door tijd en ruimte. Hij nodigt hen uit om terug te kijken naar de aarde en de conflicten die sinds het begin der tijden hebben plaatsgevonden. Oliver Jeffers verbindt een korte geschiedenis van de wereld met informatie over ons universum; verteld vanuit een bijzonder perspectief, maar met humor en prachtige illustraties. Dit boek geeft een unieke kijk op het leven op aarde. Jeffers laat op subtiele wijze zien dat onze plaats in de tijd en ruimte maar betrekkelijk is en dat ‘het verschil maken’ op kleine schaal begint. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Oliver Jeffers</name>
+            <name>Homerus</name>
         </author>
     </entry>
     <entry>
@@ -226,13 +282,24 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Begin]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460921584/begin-oliver-jeffers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460921584/begin-oliver-jeffers"/>
-        <updated>2026-08-02T09:05:18.597Z</updated>
-        <summary type="html"><![CDATA[Hoe we hier zijn gekomen en welke kant we op kunnen. Het verhaal van de mens. Tot dusver.]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460921584?aid=kb-online-bibliotheek&sid=22&dts=1785661518114&sig=35986e636bb20aecb3aa85f51c2dc0d203e0e3438c9101d3b2d54a48ecab26ed&width=320" alt="Omslag van 'Begin'" title="Omslag van 'Begin'">
-<p>In zijn eerste geïllustreerde boek voor lezers van alle leeftijden, deelt Oliver Jeffers een zeer korte geschiedenis van de mensheid en deelt hij zijn dromen over waar we vanaf hier naartoe zouden moeten gaan. Met zijn gedurfde, iconische kunst volgt Jeffers het menselijke pad vanaf het begin van onze soort door de geschiedenis, waarbij hij diepgaand, soms aangrijpend commentaar geeft op ons heden, en vervolgens een uitdaging biedt: waar gaan we heen vanaf hier? Hoe kunnen we nieuwe verhalen en nieuwe systemen creëren waarin iedereen kan floreren? Hoe kunnen we samen op weg naar een collectieve en duurzame toekomst? Een must-have voor iedereen die wil dat de volgende generatie een wereld erft om trots op te zijn – en een perfect cadeau om te delen met degenen om wie je geeft. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Sevilla rood]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460691597/sevilla-rood-claudia-schoemacher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460691597/sevilla-rood-claudia-schoemacher"/>
+        <updated>2026-08-02T09:05:16.293Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460691597?aid=kb-online-bibliotheek&sid=22&dts=1785613049537&sig=4c3966da540502e1e40161bd0bd612c925dddbd28f499ce00d73af43c5a1f3e6&width=320" alt="Omslag van 'Sevilla rood'" title="Omslag van 'Sevilla rood'">
+<p>Valentina's vendetta is de maffia romance die je niet kan wegleggen! Sevilla rood is deel 3 en net zo heet als de voorgaande delen. Valentina's leven lijkt een droom: een huwelijk in Kroatië, een verlovingsring met een robijn zo rood als bloed, en een huwelijksreis naar het zinderende Sevilla. Maar achter de façade van luxe en romantiek schuilt een wereld vol geheimen, jaloezie en gevaar. Frank blijkt niet alleen onvoorspelbaar, maar ook verbonden met duistere zaken en een verleden dat haar steeds meer in zijn greep krijgt. Voor fans van Gabrielle Sands en haar Fallen serie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Claudia Schoemacher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondertussen op aarde...]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460921886/ondertussen-op-aarde----oliver-jeffers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460921886/ondertussen-op-aarde----oliver-jeffers"/>
+        <updated>2026-08-02T09:05:16.813Z</updated>
+        <summary type="html"><![CDATA[Op zoek naar onze plaats in ruimte en tijd]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460921886?aid=kb-online-bibliotheek&sid=22&dts=1785589087591&sig=d4600b4c84f994c854cfb195a9696ee0618c2943a9bb92e89f8543676289c2a5&width=320" alt="Omslag van 'Ondertussen op aarde...'" title="Omslag van 'Ondertussen op aarde...'">
+<p>Twee kinderen maken ruzie op de achterbank. Hun vader neemt ze mee op een reis door tijd en ruimte. Hij nodigt hen uit om terug te kijken naar de aarde en de conflicten die sinds het begin der tijden hebben plaatsgevonden. Oliver Jeffers verbindt een korte geschiedenis van de wereld met informatie over ons universum; verteld vanuit een bijzonder perspectief, maar met humor en prachtige illustraties. Dit boek geeft een unieke kijk op het leven op aarde. Jeffers laat op subtiele wijze zien dat onze plaats in de tijd en ruimte maar betrekkelijk is en dat ‘het verschil maken’ op kleine schaal begint. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Oliver Jeffers</name>
         </author>
@@ -261,60 +328,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Odyssee]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461287609/odyssee-homerus</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461287609/odyssee-homerus"/>
-        <updated>2026-08-05T09:30:17.822Z</updated>
-        <summary type="html"><![CDATA[Geïnspireerd op de originele vertaling]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461287609?aid=kb-online-bibliotheek&sid=22&dts=1785857390486&sig=a5269d2cbf91169aef83da4bdc5ddd5a1214fab8397bc19d0247c1a199911782&width=320" alt="Omslag van 'Odyssee'" title="Omslag van 'Odyssee'">
-<p>De grandioze speelfilm The Odyssey van regisseur Christopher Nolan heeft de belangstelling voor een van de oudste en invloedrijkste verhalen uit de westerse literatuur opnieuw aangewakkerd. Homerus' Odyssee is veel meer dan een avonturenverhaal: het is een epos over verlangen, trouw, verleiding, verlies en de moeizame weg naar huis. Al bijna drieduizend jaar spreekt de omzwerving van Odysseus tot de verbeelding van lezers, kunstenaars en vertellers. De hiernavolgende vertelling is geïnspireerd door de zeventiende-eeuwse Nederlandse vertaling van Dirck Volckertszoon Coornhert, maar is herschreven in modern, literair Nederlands. Na de val van Troje begint voor Odysseus, koning van Ithaka, een zwerftocht die tien jaar zal duren. Onderweg trotseert hij de Cycloop Polyphemos, de betoveringen van Kirke, de lokroep van de Sirenen, de zeemonsters Skylla en Charybdis, en de toorn van Poseidon, die hem na de verblinding van zijn zoon meedogenloos achtervolgt. Terwijl de held van eiland naar eiland zwerft, wachten zijn vrouw Penelope en zijn zoon Telemachos thuis op zijn terugkeer, terwijl vrijers zijn paleis bezetten en zijn bezit verkwisten. Met hulp van Athena bereikt Odysseus uiteindelijk vermomd zijn vaderland. Samen met Telemachos en enkele trouwe dienaren beraamt hij de ondergang van de vrijers. Nadat hij zich door het spannen van zijn beroemde boog heeft geopenbaard, neemt hij op beslissende wijze wraak en herstelt hij de orde in zijn huis. Uiteindelijk herkennen ook Penelope en zijn oude vader Laërtes hem weer, waarna vrede terugkeert op Ithaka. Zo eindigt de Odyssee als een verhaal waarin niet alleen heldhaftigheid, maar vooral volharding, wijsheid en trouw de weg naar huis mogelijk maken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Begin]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460921584/begin-oliver-jeffers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460921584/begin-oliver-jeffers"/>
+        <updated>2026-08-02T09:05:18.597Z</updated>
+        <summary type="html"><![CDATA[Hoe we hier zijn gekomen en welke kant we op kunnen. Het verhaal van de mens. Tot dusver.]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460921584?aid=kb-online-bibliotheek&sid=22&dts=1785661518114&sig=35986e636bb20aecb3aa85f51c2dc0d203e0e3438c9101d3b2d54a48ecab26ed&width=320" alt="Omslag van 'Begin'" title="Omslag van 'Begin'">
+<p>In zijn eerste geïllustreerde boek voor lezers van alle leeftijden, deelt Oliver Jeffers een zeer korte geschiedenis van de mensheid en deelt hij zijn dromen over waar we vanaf hier naartoe zouden moeten gaan. Met zijn gedurfde, iconische kunst volgt Jeffers het menselijke pad vanaf het begin van onze soort door de geschiedenis, waarbij hij diepgaand, soms aangrijpend commentaar geeft op ons heden, en vervolgens een uitdaging biedt: waar gaan we heen vanaf hier? Hoe kunnen we nieuwe verhalen en nieuwe systemen creëren waarin iedereen kan floreren? Hoe kunnen we samen op weg naar een collectieve en duurzame toekomst? Een must-have voor iedereen die wil dat de volgende generatie een wereld erft om trots op te zijn – en een perfect cadeau om te delen met degenen om wie je geeft. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Homerus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Oxford Year]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461273624/my-oxford-year-julia-whelan</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461273624/my-oxford-year-julia-whelan"/>
-        <updated>2026-08-02T09:05:20.531Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461273624?aid=kb-online-bibliotheek&sid=22&dts=1785661520351&sig=316d7e0215d6815c32add3384eed06a92c530d2eafb0c84de3fd8167defd516d&width=320" alt="Omslag van 'My Oxford Year'" title="Omslag van 'My Oxford Year'">
-<p>My Oxford Year van Julia Whelan is nu ook te zien op Netflix, met hoofdrollen voor Sofia Carson and Corey Mylchreest. De Amerikaanse Ella volgt haar droom: een jaar studeren aan de universiteit van Oxford, in Engeland. Na dat jaar zal ze aan de slag gaan voor het campagneteam van de eerste vrouwelijke presidentskandidaat van de Verenigde Staten. Tot die tijd dompelt ze zich onder in de Engelse cultuur en literatuur. Maar haar jaar verloopt anders dan verwacht. Haar poëziedocent Jamie blijkt zeer aantrekkelijk, ook al blijft hij afstandelijk. Ze worden friends with benefits; Ella is immers maar een jaar in het land. Langzaam ontdekt Ella echter dat Jamie een groot geheim bij zich draagt, een geheim dat hun relatie – en Ella’s toekomst – volledig zal veranderen. Als het einde van het universiteitsjaar nadert, staat Ella voor de onmogelijke keuze: blijft ze of gaat ze terug? Een onvergetelijke roman over een vastberaden jonge vrouw, een onweerstaanbare man en de liefde die hen onherroepelijk zal veranderen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Julia Whelan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bevroren]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461273772/bevroren-mary-kubica</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461273772/bevroren-mary-kubica"/>
-        <updated>2026-08-02T09:05:20.698Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461273772?aid=kb-online-bibliotheek&sid=22&dts=1785591919725&sig=05ea68ba766380400a84bf92174187e6246f4a6f3045af45eee6f34bc7522ab4&width=320" alt="Omslag van 'Bevroren'" title="Omslag van 'Bevroren'">
-<p>Bevroren: een adembenemend spannende psychologische thriller van bestsellerauteur Mary Kubica. Colins opdracht is duidelijk: Mia Bennett, dochter van een prominente rechter, ontvoeren en afleveren bij zijn opdrachtgever. Hij treft haar in een bar en krijgt haar zover dat ze met hem meegaat. Maar dan verandert er iets en van het ene op het andere moment besluit hij haar mee te nemen naar zijn blokhut, ver van de bewoonde wereld. Een zenuwslopende tijd breekt aan. Voor Colin en Mia, die samen vastzitten in een claustrofobische situatie. Voor rechercheur Gabe Hoffman, die weet dat in een vermissingszaak elk uur telt. En voor Mia’s familie, die geen idee heeft waar hun dochter is en of ze nog leeft... Wordt het Colin uiteindelijk te heet onder zijn voeten en levert hij Mia alsnog af, of heeft hij zo zijn eigen plannen met haar? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Mary Kubica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben zo terug]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461273721/ben-zo-terug-mary-kubica</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461273721/ben-zo-terug-mary-kubica"/>
-        <updated>2026-08-02T09:05:21.058Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461273721?aid=kb-online-bibliotheek&sid=22&dts=1785576406344&sig=be1db77dbe097bd1893d50f16d30aa7056c122b628850542ba68d263a4c0e008&width=320" alt="Omslag van 'Ben zo terug'" title="Omslag van 'Ben zo terug'">
-<p>Ben zo terug: een adembenemend spannende psychologische thriller van bestsellerauteur Mary Kubica.  Esther Vaughan, een jonge vrouw, verdwijnt spoorloos. Een door haar geschreven brief wordt tussen haar bezittingen gevonden. De inhoud daarvan is zo verontrustend dat Quinn, haar beste vriendin, zich afvraagt of ze Esther wel zo goed kent als ze dacht. Ondertussen duikt in een havenstadje in Michigan een geheimzinnige vrouw op, voor wie de achttienjarige Alex Gallo als een blok valt. Al snel merkt hij dat wat in zijn ogen een onschuldige flirt was, iets veel onheilspellenders is. Terwijl Quinn naar Esther zoekt en Alex steeds meer verward raakt in het web van de onbekende vrouw, wordt één ding duidelijk... Hoe je het ook probeert, aan je verleden ontkom je niet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Mary Kubica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krijg grip op je denken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461273608/krijg-grip-op-je-denken-joseph-nguyen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461273608/krijg-grip-op-je-denken-joseph-nguyen"/>
-        <updated>2026-08-02T09:05:20.252Z</updated>
-        <summary type="html"><![CDATA[Hoe je op een eenvoudige manier innerlijke rust, liefde en geluk vindt]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461273608?aid=kb-online-bibliotheek&sid=22&dts=1785661520064&sig=3d2e84e1af77e97ccb9dc140d97dd3a3f184e5ef6df596d00482e7b1ba7f6416&width=320" alt="Omslag van 'Krijg grip op je denken'" title="Omslag van 'Krijg grip op je denken'">
-<p>Wil je leren hoe je angst, onzekerheid en zelfsabotage kunt overwinnen? In 15 korte hoofdstukken laat Joseph Nguyen zien dat ons denken invloed heeft op hoe we ons voelen en dat het de belangrijkste oorzaak is van ons lijden. Wanneer we ons realiseren dat ons denken de wereld en onze gevoelens kleurt, kunnen we het loslaten en ontstaat er ruimte voor geluk. Deze herziene editie bevat extra voorbeelden en gedachte-experimenten en een nieuw hoofdstuk met een praktische, stapsgewijze methode om negatieve gedachten los te laten. In het afsluitende gedeelte vind je oefeningen om de inzichten uit het boek in het dagelijks leven te integreren. ‘Een inspirerende gids die je helpt jezelf te bevrijden van emotionele ballast.’ Deepak Chopra ‘Joseph geeft briljante en eenvoudige oplossingen om te stoppen met overdenken.’ Francesc Miralles, coauteur van Ikigai </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Joseph Nguyen</name>
+            <name>Oliver Jeffers</name>
         </author>
     </entry>
     <entry>
@@ -326,28 +348,6 @@
 <p>Laatste leugen: een adembenemend spannende psychologische thriller van bestsellerauteur Mary Kubica.  Clara’s wereld stort in wanneer haar echtgenoot Nick en hun vierjarige dochtertje Maisie betrokken raken bij een botsing. Maisie overleeft het gelukkig, maar Nick overlijdt. Wanneer Maisie nachtmerries krijgt over een enge man en een zwarte auto begint Clara te vermoeden dat iemand het op Nick voorzien had. Volgens de politie is ze getraumatiseerd door het verlies van haar man, maar de wanhopige Clara kan haar gevoelens niet negeren en gaat zelf op onderzoek uit. Ze laat zich door niemand tegenhouden om achter de waarheid te komen, maar soms kun je maar beter niet alles willen weten... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Mary Kubica</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uitgedaagd door de cowboy]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461273578/uitgedaagd-door-de-cowboy-maisey-yates</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461273578/uitgedaagd-door-de-cowboy-maisey-yates"/>
-        <updated>2026-08-02T09:05:19.976Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461273578?aid=kb-online-bibliotheek&sid=22&dts=1785661519692&sig=09763ca9814a1427a20a324ceea5e2d0f7087666837def96d865203c5db05edf&width=320" alt="Omslag van 'Uitgedaagd door de cowboy'" title="Omslag van 'Uitgedaagd door de cowboy'">
-<p>Gold Valley: small town romance… met cowboys!  Sexy, ruig, onbeteugeld... de knapste cowboys vind je in Gold Valley, Oregon!</p><p> Deel 9 Uitgedaagd door de cowboy  Politieagent Pansy Daniels is het toonbeeld van verantwoordelijk gedrag. Haar levensdoel: de plaatselijke gemeenschap veilig houden. Dus zit ze totaal niet te wachten op een arrogante en o zo sexy cowboy die de boel even op zijn kop komt zetten! West Caldwell mag dan wel haar nieuwe huisbaas zijn, dat betekent nog niet dat hij haar zo hoeft uit te dagen... en hij hoeft al helemaal niet te denken dat hij zomaar haar hart kan stelen!Dit boek is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Maisey Yates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dans met de cowboy]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461273616/dans-met-de-cowboy-maisey-yates</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461273616/dans-met-de-cowboy-maisey-yates"/>
-        <updated>2026-08-02T09:05:19.400Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461273616?aid=kb-online-bibliotheek&sid=22&dts=1785661519209&sig=836a8786af048cf9c69916f670988e241a54939d14c87e9ff85305f4f0ed5290&width=320" alt="Omslag van 'Dans met de cowboy'" title="Omslag van 'Dans met de cowboy'">
-<p>Gold Valley: small town romance… met cowboys!  Sexy, ruig, onbeteugeld... de knapste cowboys vind je in Gold Valley, Oregon!</p><p>Deel 8 Dans met de cowboy Caleb Dalton is al jaren verliefd op alleenstaand moeder Ellie Bell, maar ze is nu eenmaal de weduwe van zijn beste vriend en daarom strikt verboden terrein. Alleen schijnt die boodschap maar niet tot zijn hart door te dringen. Wanneer Caleb ontdekt dat Ellie zich heeft voorgenomen weer te gaan daten, kan hij zich niet langer inhouden. Want als íémand haar mee uit mag nemen, met haar mag dansen en haar mag kussen, dan is híj dat! Dit boek is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Maisey Yates</name>
         </author>
     </entry>
 </feed>
