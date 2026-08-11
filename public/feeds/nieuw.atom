@@ -2,11 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-08-10T08:21:43.498Z</updated>
+    <updated>2026-08-11T08:05:15.331Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[De oorlog van mijn moeder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394709519/de-oorlog-van-mijn-moeder-ya%C3%ABl-vinckx</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394709519/de-oorlog-van-mijn-moeder-ya%C3%ABl-vinckx"/>
+        <updated>2026-08-11T08:05:13.487Z</updated>
+        <summary type="html"><![CDATA[een familieroman]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394709519?aid=kb-online-bibliotheek&sid=22&dts=1786379017037&sig=2e96dc7ebcd1e646a428bd31cf7637792d1f60fe4e2f950d2a5bbf55fecabecb&width=320" alt="Omslag van 'De oorlog van mijn moeder'" title="Omslag van 'De oorlog van mijn moeder'">
+<p>Het verhaal van een moeder die haar dochter ruim zestig jaar na dato vertelt over haar jeugd in bezet Nederland en de laatste jaren van Nederlands-Indië.</p>]]></content>
+        <author>
+            <name>Yaël Vinckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeemansgraf voor een kort verhaal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/416909876/zeemansgraf-voor-een-kort-verhaal-doroth%C3%A9e-albers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/416909876/zeemansgraf-voor-een-kort-verhaal-doroth%C3%A9e-albers"/>
+        <updated>2026-08-11T08:05:14.093Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A416909876?aid=kb-online-bibliotheek&sid=22&dts=1786380048440&sig=156cde6f220025eb47cb34ff9924bd3c61f2a50b1dc604949d79a048b23098b6&width=320" alt="Omslag van 'Zeemansgraf voor een kort verhaal'" title="Omslag van 'Zeemansgraf voor een kort verhaal'">
+<p>Familiegeschiedenis, gesitueerd in de tweede helft van de twintigste eeuw in Nederland, waarin muzikaal talent een belangrijke rol speelt in het leven van personages uit drie opeenvolgende generaties.</p>]]></content>
+        <author>
+            <name>Dorothée Albers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De strijd om de toekomst]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/420955739/de-strijd-om-de-toekomst-addie-schulte</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/420955739/de-strijd-om-de-toekomst-addie-schulte"/>
+        <updated>2026-08-11T08:05:14.643Z</updated>
+        <summary type="html"><![CDATA[Over doemscenario's en vooruitgang]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A420955739?aid=kb-online-bibliotheek&sid=22&dts=1786377624648&sig=5dccea21338162110876d4629b59964d6f189320e7cf42974d298389a2013b42&width=320" alt="Omslag van 'De strijd om de toekomst'" title="Omslag van 'De strijd om de toekomst'">
+<p>Beschouwingen over de ontwikkeling en betekenis van doemscenario's en vooruitgangsdenken voor het politieke debat en de mens zelf.</p>]]></content>
+        <author>
+            <name>Addie Schulte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wat van mij is]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438860187/wat-van-mij-is-bette-adriaanse</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438860187/wat-van-mij-is-bette-adriaanse"/>
+        <updated>2026-08-11T08:05:15.329Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438860187?aid=kb-online-bibliotheek&sid=22&dts=1786377639067&sig=f3ad96dbd4e9a2e3e27d24c60e0d663693775227b1d96fecf7a8c82136394f84&width=320" alt="Omslag van 'Wat van mij is'" title="Omslag van 'Wat van mij is'">
+<p>Een afwasser van begin dertig woont in het appartement van zijn moeder in Amsterdam-Zuid. Wanneer er op een dag een welbespraakte man voor de deur staat die meent recht te hebben op het appartement, moeten de mannen beslissen wat echt van hen is en hoe ver ze willen gaan om dat te verdedigen.</p>]]></content>
+        <author>
+            <name>Bette Adriaanse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aber du siehst gar nicht autistisch aus]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/436880415/aber-du-siehst-gar-nicht-autistisch-aus-bianca-toeps</id>
@@ -19,6 +65,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[But you don't look autistic at all]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439134560/but-you-don-t-look-autistic-at-all-bianca-toeps</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439134560/but-you-don-t-look-autistic-at-all-bianca-toeps"/>
+        <updated>2026-08-08T07:41:38.991Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439134560?aid=kb-online-bibliotheek&sid=22&dts=1786107322822&sig=6f872b545f764df2a2e3ae416136a9997eb7264520e93053c58751e79f1c629d&width=320" alt="Omslag van 'But you don't look autistic at all'" title="Omslag van 'But you don't look autistic at all'">
+<p>Bianca (1984) legt uit wat het betekent om autistisch te zijn. Ze zocht uit wat de wetenschap erover zegt, hield interviews en vertelt ook haar eigen verhaal. Bevat ook tips voor o.a. vrienden. Vanaf ca. 15 jaar.</p>]]></content>
+        <author>
+            <name>Bianca Toeps</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[This autistic girl went to Japan]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/442188455/this-autistic-girl-went-to-japan-bianca-toeps</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/442188455/this-autistic-girl-went-to-japan-bianca-toeps"/>
@@ -26,17 +83,6 @@
         <summary type="html"><![CDATA[and you won't believe what happened next]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442188455?aid=kb-online-bibliotheek&sid=22&dts=1786133713988&sig=e8d80086870fd0aec0d4598dc657e500366936dbb9dc828cd3d381e185bae08c&width=320" alt="Omslag van 'This autistic girl went to Japan'" title="Omslag van 'This autistic girl went to Japan'">
 <p>When Bianca Toeps first set foot in Japan in 2008, she just knew: "I'm going to live here someday." Flash forward fifteen years, and she's finally traded her tiny apartment in the Netherlands for an even tinier one in Tokyo. But it wasn't always easy. Between that first visit and now, Toeps was diagnosed with autism at age 26, suffered several burnouts, and switched careers a time or two (or three) before becoming a web developer and a best-selling author. And just when she was all set for the big move, the pandemic derailed everything. This Autistic Girl Went to Japan is the inspiring story of a young woman who moved halfway around the world in pursuit of happiness. With humor and remarkable candor, Bianca describes the challenges of applying for a visa during a time of terrifying uncertainty, slogging through endless red tape, and the loneliness that comes with being a stranger in a strange land. Oh, and how she wound up evicting a bat from her new apartment, attending a Pokémon go event with a bunch of middle-aged women, and discovering the best thrift store in all of Tokyo. Along the way, she explains why she feels so at home in Japan, where things are often a bit easier for autistic folks. Well, except for revenue stamps. And opening a bank account. And faxes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bianca Toeps</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[But you don't look autistic at all]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439134560/but-you-don-t-look-autistic-at-all-bianca-toeps</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439134560/but-you-don-t-look-autistic-at-all-bianca-toeps"/>
-        <updated>2026-08-08T07:41:38.991Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439134560?aid=kb-online-bibliotheek&sid=22&dts=1786107322822&sig=6f872b545f764df2a2e3ae416136a9997eb7264520e93053c58751e79f1c629d&width=320" alt="Omslag van 'But you don't look autistic at all'" title="Omslag van 'But you don't look autistic at all'">
-<p>Bianca (1984) legt uit wat het betekent om autistisch te zijn. Ze zocht uit wat de wetenschap erover zegt, hield interviews en vertelt ook haar eigen verhaal. Bevat ook tips voor o.a. vrienden. Vanaf ca. 15 jaar.</p>]]></content>
         <author>
             <name>Bianca Toeps</name>
         </author>
@@ -98,14 +144,59 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wachten op vrede]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461324547/wachten-op-vrede-judith-kerr</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461324547/wachten-op-vrede-judith-kerr"/>
-        <updated>2026-08-10T08:21:39.002Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324547?aid=kb-online-bibliotheek&sid=22&dts=1786276277850&sig=bd612a1c0d8384c7d1f3b29c7516aa1fd0cf1d6a225df114cff35e85ab64754b&width=320" alt="Omslag van 'Wachten op vrede'" title="Omslag van 'Wachten op vrede'">
-<p>Anna bouwt een nieuw leven op in Londen tijdens de Tweede Wereldoorlog nadat ze met haar familie Duitsland is ontvlucht. Ze maakt vrienden en wordt verliefd, terwijl de oorlog voortdurend in de lucht hangt. Vanaf ca. 12 jaar.</p>]]></content>
+        <title type="html"><![CDATA[Ontdek de Máxima in jezelf]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461324539/ontdek-de-m%C3%A1xima-in-jezelf-kim-querfurth</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461324539/ontdek-de-m%C3%A1xima-in-jezelf-kim-querfurth"/>
+        <updated>2026-08-10T08:21:40.287Z</updated>
+        <summary type="html"><![CDATA[In 12 stappen naar maximale stijl en smaak]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324539?aid=kb-online-bibliotheek&sid=22&dts=1786277497115&sig=7962bcc91838fc565a85bb4ee64d6b017ab9239b64d745cb4e091d7568236ddb&width=320" alt="Omslag van 'Ontdek de Máxima in jezelf'" title="Omslag van 'Ontdek de Máxima in jezelf'">
+<p>Modegids voor vrouwen die zich willen laten inspireren door de kleding en stijl van koningin Máxima. Met foto’s en tekeningen.</p>]]></content>
         <author>
-            <name>Judith Kerr</name>
+            <name>Kim Querfurth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het hele jaar door]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461324598/het-hele-jaar-door-mariana-ruiz-johnson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461324598/het-hele-jaar-door-mariana-ruiz-johnson"/>
+        <updated>2026-08-10T08:21:39.634Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324598?aid=kb-online-bibliotheek&sid=22&dts=1786302201912&sig=f5b7592294f0995fa23a4cd542ba3acfd3dab0b0c730bd0682d42427d5a0f940&width=320" alt="Omslag van 'Het hele jaar door'" title="Omslag van 'Het hele jaar door'">
+<p>In Het hele jaar door ontdek je wat elk seizoen zo bijzonder maakt. Van warme dekentjes en sneeuwmonsters tot blote benen, snotneuzen en modderplassen. Er wordt gelachen, gerend, gesprongen, geschaakt en geslapen. Een vrolijk prentenboek vol herkenbare momenten, grappige details en kleurrijke tekeningen. Om keer op keer (en seizoen na seizoen) van te genieten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Mariana Ruiz Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Faraway Inn]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461324512/the-faraway-inn-sarah-beth-durst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461324512/the-faraway-inn-sarah-beth-durst"/>
+        <updated>2026-08-10T08:21:40.075Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324512?aid=kb-online-bibliotheek&sid=22&dts=1786279446392&sig=e9787d06e96586eba8d2728a569cea6eaba403a60abe893d2a1a87c819fddb7d&width=320" alt="Omslag van 'The Faraway Inn'" title="Omslag van 'The Faraway Inn'">
+<p>Calisa (16) verhuist met een gebroken hart naar de afgelegen B&B van haar oudtante in Vermont. Alles is daar vervallen en vreemd, en ze ontdekt dat het huis een magisch geheim bewaart. Vanaf ca. 15 jaar.</p>]]></content>
+        <author>
+            <name>Sarah Beth Durst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dagboek van een uitvaartverzorger]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461324482/dagboek-van-een-uitvaartverzorger-iede-hoorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461324482/dagboek-van-een-uitvaartverzorger-iede-hoorn"/>
+        <updated>2026-08-10T08:21:39.858Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324482?aid=kb-online-bibliotheek&sid=22&dts=1786277495446&sig=f87616cd64b56bed240f27357dc1c25ad254e1ddca1bded148b66de1f8a16dc5&width=320" alt="Omslag van 'Dagboek van een uitvaartverzorger'" title="Omslag van 'Dagboek van een uitvaartverzorger'">
+<p>Dagboek van een uitvaartverzorger is het nieuwe, openhartige boek van uitvaartverzorger, columnist en bestsellerauteur Iede Hoorn. In dit persoonlijke en ontroerende dagboek over rouw, verlies en afscheid nemen geeft hij een unieke inkijk in een van de meest bijzondere beroepen van Nederland.</p><p>Van een uitvaart in panterprint tot een techno-afscheid, een Surinaamse ceremonie vol rituelen en muziek en zelfs een musical-uitvaart, geen werkdag is hetzelfde. Iede laat zien hoe persoonlijk en creatief een moderne uitvaart kan zijn, en hoe een passend afscheid troost biedt en ruimte geeft aan liefde, eigenheid en soms zelfs humor.</p><p>Met ruim tien jaar ervaring beschrijft hij aangrijpende praktijkverhalen én de veranderingen in de uitvaartbranche. De aandacht voor duurzaamheid groeit, bijvoorbeeld door elektrische rouwauto's en natuurbegraafplaatsen. Daarnaast bevat het boek persoonlijke gesprekken met onder anderen Jeroen van der Boom en Ewout Genemans over de impact van verlies.</p><p>Na het succes van zijn bestseller Leven met de dood laat Iede opnieuw zien dat een boek over de dood niet somber hoeft te zijn, maar juist troostrijk en vol leven.</p><p>Voor lezers van: Post mortem, Broeder Joep en Op de spoedeisende hulp.</p><p>Over Iede Hoorn  Iede Hoorn begon zijn loopbaan als steward, tot een billboard van een uitvaartcentrum zijn leven een andere richting gaf. Inmiddels is hij uitgegroeid tot Nederlands bekendste uitvaartverzorger. Hij is columnist bij LINDA.nl, deelt over zijn werk via social media en is regelmatig te zien in de media. Dagboek van een uitvaartverzorger is zijn tweede boek. Eerder verscheen de bestseller Leven met de dood, waarmee hij een breed publiek wist te raken. Samen met zijn man Chris en zoontje Elia woont hij in Amsterdam.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Iede Hoorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Zoete Zusjes worden kampioen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46132458X/de-zoete-zusjes-worden-kampioen-hanneke-de-zoete</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46132458X/de-zoete-zusjes-worden-kampioen-hanneke-de-zoete"/>
+        <updated>2026-08-10T08:21:40.507Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46132458X?aid=kb-online-bibliotheek&sid=22&dts=1786302238181&sig=e56d0a9e90eef8d5b2d4caea9ec32d6619d1ee07509679e12e341074439cf8ed&width=320" alt="Omslag van 'De Zoete Zusjes worden kampioen'" title="Omslag van 'De Zoete Zusjes worden kampioen'">
+<p>Saar speelt mee in het schoolvoetbalteam en doet mee aan een wedstrijd. Als de keeper uitvalt, moet Saar in het doel staan. Zal het team van Saar nu nog kunnen winnen? Met kleurenillustraties. Voorlezen vanaf ca. 4 jaar, zelf lezen vanaf ca. 7 jaar.</p>]]></content>
+        <author>
+            <name>Hanneke de Zoete</name>
         </author>
     </entry>
     <entry>
@@ -133,70 +224,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het hele jaar door]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461324598/het-hele-jaar-door-mariana-ruiz-johnson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461324598/het-hele-jaar-door-mariana-ruiz-johnson"/>
-        <updated>2026-08-10T08:21:39.634Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324598?aid=kb-online-bibliotheek&sid=22&dts=1786302201912&sig=f5b7592294f0995fa23a4cd542ba3acfd3dab0b0c730bd0682d42427d5a0f940&width=320" alt="Omslag van 'Het hele jaar door'" title="Omslag van 'Het hele jaar door'">
-<p>In Het hele jaar door ontdek je wat elk seizoen zo bijzonder maakt. Van warme dekentjes en sneeuwmonsters tot blote benen, snotneuzen en modderplassen. Er wordt gelachen, gerend, gesprongen, geschaakt en geslapen. Een vrolijk prentenboek vol herkenbare momenten, grappige details en kleurrijke tekeningen. Om keer op keer (en seizoen na seizoen) van te genieten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Wachten op vrede]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461324547/wachten-op-vrede-judith-kerr</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461324547/wachten-op-vrede-judith-kerr"/>
+        <updated>2026-08-10T08:21:39.002Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324547?aid=kb-online-bibliotheek&sid=22&dts=1786276277850&sig=bd612a1c0d8384c7d1f3b29c7516aa1fd0cf1d6a225df114cff35e85ab64754b&width=320" alt="Omslag van 'Wachten op vrede'" title="Omslag van 'Wachten op vrede'">
+<p>Anna bouwt een nieuw leven op in Londen tijdens de Tweede Wereldoorlog nadat ze met haar familie Duitsland is ontvlucht. Ze maakt vrienden en wordt verliefd, terwijl de oorlog voortdurend in de lucht hangt. Vanaf ca. 12 jaar.</p>]]></content>
         <author>
-            <name>Mariana Ruiz Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dagboek van een uitvaartverzorger]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461324482/dagboek-van-een-uitvaartverzorger-iede-hoorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461324482/dagboek-van-een-uitvaartverzorger-iede-hoorn"/>
-        <updated>2026-08-10T08:21:39.858Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324482?aid=kb-online-bibliotheek&sid=22&dts=1786277495446&sig=f87616cd64b56bed240f27357dc1c25ad254e1ddca1bded148b66de1f8a16dc5&width=320" alt="Omslag van 'Dagboek van een uitvaartverzorger'" title="Omslag van 'Dagboek van een uitvaartverzorger'">
-<p>Dagboek van een uitvaartverzorger is het nieuwe, openhartige boek van uitvaartverzorger, columnist en bestsellerauteur Iede Hoorn. In dit persoonlijke en ontroerende dagboek over rouw, verlies en afscheid nemen geeft hij een unieke inkijk in een van de meest bijzondere beroepen van Nederland.</p><p>Van een uitvaart in panterprint tot een techno-afscheid, een Surinaamse ceremonie vol rituelen en muziek en zelfs een musical-uitvaart, geen werkdag is hetzelfde. Iede laat zien hoe persoonlijk en creatief een moderne uitvaart kan zijn, en hoe een passend afscheid troost biedt en ruimte geeft aan liefde, eigenheid en soms zelfs humor.</p><p>Met ruim tien jaar ervaring beschrijft hij aangrijpende praktijkverhalen én de veranderingen in de uitvaartbranche. De aandacht voor duurzaamheid groeit, bijvoorbeeld door elektrische rouwauto's en natuurbegraafplaatsen. Daarnaast bevat het boek persoonlijke gesprekken met onder anderen Jeroen van der Boom en Ewout Genemans over de impact van verlies.</p><p>Na het succes van zijn bestseller Leven met de dood laat Iede opnieuw zien dat een boek over de dood niet somber hoeft te zijn, maar juist troostrijk en vol leven.</p><p>Voor lezers van: Post mortem, Broeder Joep en Op de spoedeisende hulp.</p><p>Over Iede Hoorn  Iede Hoorn begon zijn loopbaan als steward, tot een billboard van een uitvaartcentrum zijn leven een andere richting gaf. Inmiddels is hij uitgegroeid tot Nederlands bekendste uitvaartverzorger. Hij is columnist bij LINDA.nl, deelt over zijn werk via social media en is regelmatig te zien in de media. Dagboek van een uitvaartverzorger is zijn tweede boek. Eerder verscheen de bestseller Leven met de dood, waarmee hij een breed publiek wist te raken. Samen met zijn man Chris en zoontje Elia woont hij in Amsterdam.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Iede Hoorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Faraway Inn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461324512/the-faraway-inn-sarah-beth-durst</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461324512/the-faraway-inn-sarah-beth-durst"/>
-        <updated>2026-08-10T08:21:40.075Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324512?aid=kb-online-bibliotheek&sid=22&dts=1786279446392&sig=e9787d06e96586eba8d2728a569cea6eaba403a60abe893d2a1a87c819fddb7d&width=320" alt="Omslag van 'The Faraway Inn'" title="Omslag van 'The Faraway Inn'">
-<p>Calisa (16) verhuist met een gebroken hart naar de afgelegen B&B van haar oudtante in Vermont. Alles is daar vervallen en vreemd, en ze ontdekt dat het huis een magisch geheim bewaart. Vanaf ca. 15 jaar.</p>]]></content>
-        <author>
-            <name>Sarah Beth Durst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ontdek de Máxima in jezelf]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461324539/ontdek-de-m%C3%A1xima-in-jezelf-kim-querfurth</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461324539/ontdek-de-m%C3%A1xima-in-jezelf-kim-querfurth"/>
-        <updated>2026-08-10T08:21:40.287Z</updated>
-        <summary type="html"><![CDATA[In 12 stappen naar maximale stijl en smaak]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461324539?aid=kb-online-bibliotheek&sid=22&dts=1786277497115&sig=7962bcc91838fc565a85bb4ee64d6b017ab9239b64d745cb4e091d7568236ddb&width=320" alt="Omslag van 'Ontdek de Máxima in jezelf'" title="Omslag van 'Ontdek de Máxima in jezelf'">
-<p>Modegids voor vrouwen die zich willen laten inspireren door de kleding en stijl van koningin Máxima. Met foto’s en tekeningen.</p>]]></content>
-        <author>
-            <name>Kim Querfurth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Zoete Zusjes worden kampioen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46132458X/de-zoete-zusjes-worden-kampioen-hanneke-de-zoete</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46132458X/de-zoete-zusjes-worden-kampioen-hanneke-de-zoete"/>
-        <updated>2026-08-10T08:21:40.507Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46132458X?aid=kb-online-bibliotheek&sid=22&dts=1786302238181&sig=e56d0a9e90eef8d5b2d4caea9ec32d6619d1ee07509679e12e341074439cf8ed&width=320" alt="Omslag van 'De Zoete Zusjes worden kampioen'" title="Omslag van 'De Zoete Zusjes worden kampioen'">
-<p>Saar speelt mee in het schoolvoetbalteam en doet mee aan een wedstrijd. Als de keeper uitvalt, moet Saar in het doel staan. Zal het team van Saar nu nog kunnen winnen? Met kleurenillustraties. Voorlezen vanaf ca. 4 jaar, zelf lezen vanaf ca. 7 jaar.</p>]]></content>
-        <author>
-            <name>Hanneke de Zoete</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verborgen in het verleden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461309556/verborgen-in-het-verleden-viveca-sten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461309556/verborgen-in-het-verleden-viveca-sten"/>
-        <updated>2026-08-10T08:21:40.721Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309556?aid=kb-online-bibliotheek&sid=22&dts=1786274427219&sig=18eb5a893b0a653883a5eaea64b738061f33dd30484313bea8c21ae58482ce7c&width=320" alt="Omslag van 'Verborgen in het verleden'" title="Omslag van 'Verborgen in het verleden'">
-<p>Een succesvolle zakenvrouw wordt dood aangetroffen in een hotelsuite. Daniel Lindskog en Hanna Ahlander worden op de zaak gezet en ontdekken een verband met een vervallen berghotel. Persoonlijke worstelingen en pijnlijke jeugdherinneringen maken het onderzoek er echter niet gemakkelijker op.</p>]]></content>
-        <author>
-            <name>Viveca Sten</name>
+            <name>Judith Kerr</name>
         </author>
     </entry>
     <entry>
@@ -212,6 +247,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Verborgen in het verleden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461309556/verborgen-in-het-verleden-viveca-sten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461309556/verborgen-in-het-verleden-viveca-sten"/>
+        <updated>2026-08-10T08:21:40.721Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309556?aid=kb-online-bibliotheek&sid=22&dts=1786274427219&sig=18eb5a893b0a653883a5eaea64b738061f33dd30484313bea8c21ae58482ce7c&width=320" alt="Omslag van 'Verborgen in het verleden'" title="Omslag van 'Verborgen in het verleden'">
+<p>Een succesvolle zakenvrouw wordt dood aangetroffen in een hotelsuite. Daniel Lindskog en Hanna Ahlander worden op de zaak gezet en ontdekken een verband met een vervallen berghotel. Persoonlijke worstelingen en pijnlijke jeugdherinneringen maken het onderzoek er echter niet gemakkelijker op.</p>]]></content>
+        <author>
+            <name>Viveca Sten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De kleuren van het donker]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444245103/de-kleuren-van-het-donker-chris-whitaker</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444245103/de-kleuren-van-het-donker-chris-whitaker"/>
@@ -220,94 +266,6 @@
 <p>Een kolkende thriller en een episch liefdesverhaal van prijswinnend bestsellerauteur Chris Whitaker.</p><p> Amerika, 1975. In het dorpje Monta Clare, Missouri, wordt tiener Joseph 'Patch' Macauley ontvoerd. Saint Brown, zet alles op het spel om haar beste vriend te vinden.</p><p> Patch ligt alleen in een pikdonkere kamer totdat hij een hand in de zijne voelt. Ze heet Grace en in het donker is haar stem zijn redding. Als Patch ontsnapt, is er echter geen bewijs dat ze ooit heeft bestaan, dus begint hij een grootse zoektocht om haar te vinden.</p><p> Terwijl jaren decennia worden en hoop een obsessie, jaagt Patch's jeugdvriendin Saint op de man die de twee ontvoerde en daarmee de enige jongen van wie ze ooit heeft gehouden een doel in het leven gaf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Chris Whitaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finlay Donovan maakt het af]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461309467/finlay-donovan-maakt-het-af-elle-cosimano</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461309467/finlay-donovan-maakt-het-af-elle-cosimano"/>
-        <updated>2026-08-10T08:21:41.276Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309467?aid=kb-online-bibliotheek&sid=22&dts=1786342352750&sig=7ad37801b43e44128914a358d0a348b1987b6c0cc45c2530597fd8e7b5b1d7ca&width=320" alt="Omslag van 'Finlay Donovan maakt het af'" title="Omslag van 'Finlay Donovan maakt het af'">
-<p>Een pas gescheiden thrillerschrijfster wordt door een onbekende vrouw aangezien voor een huurmoordenaar. Als ze een klus aanneemt om een lastige echtgenoot te vermoorden, blijkt deze opdracht lastiger dan gedacht.</p>]]></content>
-        <author>
-            <name>Elle Cosimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Willem en Mary]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461309572/willem-en-mary-matthias-rozemond</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461309572/willem-en-mary-matthias-rozemond"/>
-        <updated>2026-08-10T08:21:41.506Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309572?aid=kb-online-bibliotheek&sid=22&dts=1786305314571&sig=55ed09a488c6881fde11f8310706f8e44a031d7131894a69272e87ba3b64cd3e&width=320" alt="Omslag van 'Willem en Mary'" title="Omslag van 'Willem en Mary'">
-<p>In 1684 verkeert het huwelijk tussen prins Willem III en de Engelse Mary Stuart in een impasse, terwijl de spanningen in Europa toenemen. Een gedurfd politiek spel kan het paar de Engelse troon opleveren. Met stamboom in zwart-wit.</p>]]></content>
-        <author>
-            <name>Matthias Rozemond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De afstammeling]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46130953X/de-afstammeling-almar-otten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46130953X/de-afstammeling-almar-otten"/>
-        <updated>2026-08-10T08:21:41.697Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46130953X?aid=kb-online-bibliotheek&sid=22&dts=1786288296190&sig=ad4d48598e5e9f2151ce7c7cfcf92a9f1b414942d7d042b8b73fdd292045ca11&width=320" alt="Omslag van 'De afstammeling'" title="Omslag van 'De afstammeling'">
-<p>De afstammeling van Diamanten Kogel-winnaar en auteur van Blauw goud en De rode erfenis Almar Otten is een zinderende thriller die je vanaf de eerste pagina in zijn greep houdt. Wanneer historica Lineke Tesinga ontdekt dat haar vriend Berend, een gepassioneerd amateurarcheoloog, iets inmetselt in haar kelder, vertelt ze hier niemand over. Kort daarop sterft hij bij een onverklaarbaar auto-ongeluk. Nu wil Lineke nog maar één ding: de waarheid achterhalen.  Joris Dumbar doet tijdens zijn promotieonderzoek in Utrecht een opzienbarende vondst: een onbekend en eeuwenoud manuscript over de reis van Lebuïnus, een achtste-eeuwse missionaris. Wanneer Joris' flat overhoop wordt gehaald, realiseert hij zich dat hij iets bijzonders en gevaarlijks op het spoor is.  Op zoek naar antwoorden vlucht hij naar Deventer: de bron van het verhaal. Daar ontmoet hij Lineke, en samen doen ze een ontdekking die de Nederlandse geschiedenis op zijn kop zet… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Almar Otten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De verhalenwinkel van Puffin Island]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461309564/de-verhalenwinkel-van-puffin-island-christie-barlow</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461309564/de-verhalenwinkel-van-puffin-island-christie-barlow"/>
-        <updated>2026-08-10T08:21:41.900Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309564?aid=kb-online-bibliotheek&sid=22&dts=1786341197296&sig=50b0402e337b8426b6aa7df170885593b8849b9fe84d9f7682d66277cc785e19&width=320" alt="Omslag van 'De verhalenwinkel van Puffin Island'" title="Omslag van 'De verhalenwinkel van Puffin Island'">
-<p>De verhalenwinkel van Puffin Island is het derde deel in de Puffin Island-serie van Christie Barlow, bekend van de Love Heart Lane-serie. Wanneer reisjournalist Jack Hartwell tijdens een hevige storm op Puffin Island aankomt, zoekt hij zijn toevlucht in The Story Shop, het charmante boekwinkeltje van het eiland. Op zoek naar beschutting raakt hij al snel verstrikt in de betoverende wereld van Amelia Brown – vol boeken, puffins en een excentrieke groep trouwe leesclubleden. Wanneer de raadselachtige Amelia hem uitdaagt om The Temptation Bucket List te lezen en samen met haar de opdrachten uit het boek uit te voeren, kan Jack simpelweg geen nee zeggen. Maar terwijl zijn tijd op Puffin Island langzaam wegtikt, lopen de spanningen op. De laatste opdracht op de lijst? Een geheim delen dat niemand anders kent… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Christie Barlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alles voor het plot]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461309483/alles-voor-het-plot-vivian-van-leeuwen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461309483/alles-voor-het-plot-vivian-van-leeuwen"/>
-        <updated>2026-08-10T08:21:42.099Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309483?aid=kb-online-bibliotheek&sid=22&dts=1786277491756&sig=0147058e4b81ec07bd769a0220547baf96f4b5cc94507be90654af76bd2b4b3e&width=320" alt="Omslag van 'Alles voor het plot'" title="Omslag van 'Alles voor het plot'">
-<p>Een heerlijke nieuwe romance voor de fans van Emily Henry, Rachel Lynn Solomon en Lisette Jonkman! Na jarenlang ploeteren komt Olivia's droom eindelijk uit: haar debuutroman wordt uitgegeven. Er is alleen een probleem: ze heeft zelf nog geen ervaring in de liefde – en dat lees je. Om haar het een en ander bij te brengen over relaties en romantiek, koppelt haar uitgever haar aan Benjamin, een flirterige muzikant die lijdt aan writer's block. Benjamin heeft zo zijn eigen problemen. Hij is al jaren de bekendste singer-songwriter van Nederland, maar met simpele popdeuntjes komt hij nu niet meer weg. Als hij populair wil blijven zal hij dieper moeten graven voor zijn songteksten, en laat dat nu net iets zijn waar hij totaal geen talent voor heeft. In theorie is het een perfect plan: hij leert haar hoe liefde echt werkt en zij helpt hem de diepgang in zijn teksten te vinden. Maar wat begint als een samenwerking, wordt al snel meer. Want ineens lijkt Olivia's leven wel heel erg op dat van haar hoofdpersonen, en komt Benjamin erachter dat de liefde misschien wel anders werkt dan in zijn liedjes… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Vivian van Leeuwen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De kracht van de schaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461309459/de-kracht-van-de-schaar-meryem-temel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461309459/de-kracht-van-de-schaar-meryem-temel"/>
-        <updated>2026-08-10T08:21:42.421Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309459?aid=kb-online-bibliotheek&sid=22&dts=1786350102208&sig=1788e39d82f132729efebf230d8958604c2072e5cb7ec50c5fa8b1ca1b614813&width=320" alt="Omslag van 'De kracht van de schaar'" title="Omslag van 'De kracht van de schaar'">
-<p>De kracht van de schaar - Een leven zonder filter  Een leven dat schuurt  Meryem Temel groeit op in de Turkse gemeenschap rond Hasselt, gevangen tussen loyaliteit, geloof, geweld en vooroordelen. Het is een jeugd die geen ruimte laat voor zwakte.  Overleven en kiezen  Ze houdt stand, tegen de stroom in. Meryem vindt houvast in het schoonheidsvak en rust in het boeddhisme, waar vergeving geen zwakte blijkt maar kracht.  Het moment van waarheid  Tijdens de coronalockdown van 2020 valt de wereld stil en begint haar echte reis. Op een bankje in Maastricht besluit ze haar verhaal vast te leggen, zonder omwegen en zonder verzachting.  Schrijven zonder schuilplaats  Ze had geen dagboek, geen veilige kamer, geen bescherming. Toch schrijft ze alles op, in brokken herinnering, rauw en eerlijk, omdat zwijgen geen optie meer is.  Alles of niets  Meryem kiest voor de waarheid, ook waar die pijn doet. Alleen zo krijgt haar leven betekenis en wordt dit boek wat het moet zijn.  Waarom je dit boek leest  Dit is geen verzonnen verhaal en geen gepolijste succesmythe. Het is een getuigenis van veerkracht, liefde en de moed om jezelf aan te kijken.  Dit boek laat je niet los  De kracht van de schaar snijdt door schaamte, stilte en angst heen. Een boek dat gelezen móét worden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Meryem Temel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dushi Curaçao]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461309491/dushi-cura%C3%A7ao-tamara-haagmans</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461309491/dushi-cura%C3%A7ao-tamara-haagmans"/>
-        <updated>2026-08-10T08:21:42.643Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309491?aid=kb-online-bibliotheek&sid=22&dts=1786349164917&sig=96e1706309f0ac391ecdffb41101aa202a19326b1b5274c085a2d76132943eb9&width=320" alt="Omslag van 'Dushi Curaçao'" title="Omslag van 'Dushi Curaçao'">
-<p>Na een plotselinge break-up reist een vrouw met haar zus naar Curaçao, het eiland waar haar ouders verliefd werden, en staat ze onverwacht oog in oog met haar zomerliefde van vijftien jaar geleden. Hoe langer ze blijft, hoe sterker haar gevoel wordt dat ze op Curaçao thuishoort.</p>]]></content>
-        <author>
-            <name>Tamara Haagmans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeugdzonde]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461309521/jeugdzonde-almar-otten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461309521/jeugdzonde-almar-otten"/>
-        <updated>2026-08-10T08:21:42.848Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309521?aid=kb-online-bibliotheek&sid=22&dts=1786273454076&sig=ba50f9333b7c8ba4ce4cd108aa9214f7575a8c68770739b45261039fc6ac68ba&width=320" alt="Omslag van 'Jeugdzonde'" title="Omslag van 'Jeugdzonde'">
-<p>Almar Otten, Diamanten Kogel-winnaar en auteur van De rode erfenis, keert terug met Jeugdzonde, een meeslepende thriller die je vanaf de eerste pagina in zijn greep houdt. Een bekende evangelische tv-presentator wordt ontvoerd. Kort daarop wordt een orthodox-christelijke politicus vermoord. Niemand legt het verband…  In Deventer krijgt Lineke Tesingate te maken met een serie vreemde zaken: er verdwijnt een archiefstuk over Spinoza uit de Athenaeumbibliotheek, een oud-klasgenote begint haar te stalken en ze krijgt het enige exemplaar in handen van het Verboden Boek – een godslasterlijk manuscript uit haar middelbareschooltijd, geschreven door een onbekende. Samen met haar vriendin Laura gaat Lineke op onderzoek uit, en stuit op verschrikkingen en misdaden die in haar eigen verleden geworteld zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Almar Otten</name>
         </author>
     </entry>
     <entry>
@@ -322,6 +280,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Alles voor het plot]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461309483/alles-voor-het-plot-vivian-van-leeuwen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461309483/alles-voor-het-plot-vivian-van-leeuwen"/>
+        <updated>2026-08-10T08:21:42.099Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309483?aid=kb-online-bibliotheek&sid=22&dts=1786277491756&sig=0147058e4b81ec07bd769a0220547baf96f4b5cc94507be90654af76bd2b4b3e&width=320" alt="Omslag van 'Alles voor het plot'" title="Omslag van 'Alles voor het plot'">
+<p>Een heerlijke nieuwe romance voor de fans van Emily Henry, Rachel Lynn Solomon en Lisette Jonkman! Na jarenlang ploeteren komt Olivia's droom eindelijk uit: haar debuutroman wordt uitgegeven. Er is alleen een probleem: ze heeft zelf nog geen ervaring in de liefde – en dat lees je. Om haar het een en ander bij te brengen over relaties en romantiek, koppelt haar uitgever haar aan Benjamin, een flirterige muzikant die lijdt aan writer's block. Benjamin heeft zo zijn eigen problemen. Hij is al jaren de bekendste singer-songwriter van Nederland, maar met simpele popdeuntjes komt hij nu niet meer weg. Als hij populair wil blijven zal hij dieper moeten graven voor zijn songteksten, en laat dat nu net iets zijn waar hij totaal geen talent voor heeft. In theorie is het een perfect plan: hij leert haar hoe liefde echt werkt en zij helpt hem de diepgang in zijn teksten te vinden. Maar wat begint als een samenwerking, wordt al snel meer. Want ineens lijkt Olivia's leven wel heel erg op dat van haar hoofdpersonen, en komt Benjamin erachter dat de liefde misschien wel anders werkt dan in zijn liedjes… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Vivian van Leeuwen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Het Ronde Huis]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461309505/het-ronde-huis-almar-otten</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461309505/het-ronde-huis-almar-otten"/>
@@ -333,6 +302,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dushi Curaçao]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461309491/dushi-cura%C3%A7ao-tamara-haagmans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461309491/dushi-cura%C3%A7ao-tamara-haagmans"/>
+        <updated>2026-08-10T08:21:42.643Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309491?aid=kb-online-bibliotheek&sid=22&dts=1786349164917&sig=96e1706309f0ac391ecdffb41101aa202a19326b1b5274c085a2d76132943eb9&width=320" alt="Omslag van 'Dushi Curaçao'" title="Omslag van 'Dushi Curaçao'">
+<p>Na een plotselinge break-up reist een vrouw met haar zus naar Curaçao, het eiland waar haar ouders verliefd werden, en staat ze onverwacht oog in oog met haar zomerliefde van vijftien jaar geleden. Hoe langer ze blijft, hoe sterker haar gevoel wordt dat ze op Curaçao thuishoort.</p>]]></content>
+        <author>
+            <name>Tamara Haagmans</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vriendendienst]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461309475/vriendendienst-almar-otten</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461309475/vriendendienst-almar-otten"/>
@@ -341,6 +321,28 @@
 <p>Vriendendienst is een meeslepende thriller van Diamanten Kogel-winnaar en auteur van De rode erfenis Almar Otten.  In het Engelse landhuis van Arthur de Rothschild komt een twintigtal vooraanstaande bankiers uit Londen bijeen. Het is een bijeenkomst over enorme mondiale belangen. Wat is dan één mensenleven?  David Zomer kent Eline nog uit een roemrucht Amsterdams krakersbolwerk. Een pijnlijke periode waar hij niet graag aan herinnerd wil worden. Maar als Eline hem om hulp vraagt, stemt hij toe. Een levensgevaarlijke tocht door Zwitserland en Italië voert David naar Diyarbak&imath;r, de Koerdische hoofdstad in het zuidoosten van Turkije.  Wat hebben deze gebeurtenissen met elkaar te maken? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Almar Otten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Willem en Mary]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461309572/willem-en-mary-matthias-rozemond</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461309572/willem-en-mary-matthias-rozemond"/>
+        <updated>2026-08-10T08:21:41.506Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309572?aid=kb-online-bibliotheek&sid=22&dts=1786305314571&sig=55ed09a488c6881fde11f8310706f8e44a031d7131894a69272e87ba3b64cd3e&width=320" alt="Omslag van 'Willem en Mary'" title="Omslag van 'Willem en Mary'">
+<p>In 1684 verkeert het huwelijk tussen prins Willem III en de Engelse Mary Stuart in een impasse, terwijl de spanningen in Europa toenemen. Een gedurfd politiek spel kan het paar de Engelse troon opleveren. Met stamboom in zwart-wit.</p>]]></content>
+        <author>
+            <name>Matthias Rozemond</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De verhalenwinkel van Puffin Island]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461309564/de-verhalenwinkel-van-puffin-island-christie-barlow</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461309564/de-verhalenwinkel-van-puffin-island-christie-barlow"/>
+        <updated>2026-08-10T08:21:41.900Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461309564?aid=kb-online-bibliotheek&sid=22&dts=1786341197296&sig=50b0402e337b8426b6aa7df170885593b8849b9fe84d9f7682d66277cc785e19&width=320" alt="Omslag van 'De verhalenwinkel van Puffin Island'" title="Omslag van 'De verhalenwinkel van Puffin Island'">
+<p>De verhalenwinkel van Puffin Island is het derde deel in de Puffin Island-serie van Christie Barlow, bekend van de Love Heart Lane-serie. Wanneer reisjournalist Jack Hartwell tijdens een hevige storm op Puffin Island aankomt, zoekt hij zijn toevlucht in The Story Shop, het charmante boekwinkeltje van het eiland. Op zoek naar beschutting raakt hij al snel verstrikt in de betoverende wereld van Amelia Brown – vol boeken, puffins en een excentrieke groep trouwe leesclubleden. Wanneer de raadselachtige Amelia hem uitdaagt om The Temptation Bucket List te lezen en samen met haar de opdrachten uit het boek uit te voeren, kan Jack simpelweg geen nee zeggen. Maar terwijl zijn tijd op Puffin Island langzaam wegtikt, lopen de spanningen op. De laatste opdracht op de lijst? Een geheim delen dat niemand anders kent… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Christie Barlow</name>
         </author>
     </entry>
 </feed>
