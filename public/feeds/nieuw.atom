@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-08-16T07:23:58.089Z</updated>
+    <updated>2026-08-17T07:44:56.207Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -42,6 +42,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rendez-vous]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461387298/rendez-vous-simone-atangana-bekono</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461387298/rendez-vous-simone-atangana-bekono"/>
+        <updated>2026-08-17T07:44:48.848Z</updated>
+        <summary type="html"><![CDATA[3PAK]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461387298?aid=kb-online-bibliotheek&sid=22&dts=1786952688648&sig=9420f781a4a30502cf4c0981932e4651590c16efa77c1c8b3809415191d27c75&width=320" alt="Omslag van 'Rendez-vous'" title="Omslag van 'Rendez-vous'">
+<p></p>]]></content>
+        <author>
+            <name>Simone Atangana Bekono</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schouders]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt"/>
+        <updated>2026-08-17T07:44:49.037Z</updated>
+        <summary type="html"><![CDATA[3PAK]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461387301?aid=kb-online-bibliotheek&sid=22&dts=1786950406921&sig=b97f2203ad307c5789d24e89edd127475e2da07d0394b9ece0462cc3b4d576a9&width=320" alt="Omslag van 'Schouders'" title="Omslag van 'Schouders'">
+<p></p>]]></content>
+        <author>
+            <name>Harmen van Liemt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Alles voor de reis]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/460257579/alles-voor-de-reis-adriaan-van-dis</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/460257579/alles-voor-de-reis-adriaan-van-dis"/>
@@ -53,310 +77,289 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aber du siehst gar nicht autistisch aus]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436880415/aber-du-siehst-gar-nicht-autistisch-aus-bianca-toeps</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436880415/aber-du-siehst-gar-nicht-autistisch-aus-bianca-toeps"/>
-        <updated>2026-08-08T07:41:38.653Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436880415?aid=kb-online-bibliotheek&sid=22&dts=1786130448131&sig=f0d7a07b7f344a55048638cb452c5f3048c4b88668902a4d2ca383b1cdea536f&width=320" alt="Omslag van 'Aber du siehst gar nicht autistisch aus'" title="Omslag van 'Aber du siehst gar nicht autistisch aus'">
-<p>Autismus - Ist das nicht, wenn man blitzschnell ausrechnen kann, dass der 7. August 1984 auf einen Dienstag fällt? Nun... nein. In diesem Buch erklärt dir Bianca Toeps ganz genau, was es bedeutet, wenn man Autismus hat. Sie macht dies, indem sie zum Beispiel schaut, was die Wissenschaft über Autismus sagt (und warum einige Theorien verworfen werden sollten), aber auch, indem sie ihre eigene Geschichte erzählt und andere Menschen mit Autismus interviewt. Bianca beschreibt auf frische und unbeschwerte Weise die verschiedenen Situationen, die man als Autist im Alltag erlebt. Sie gibt auch Tipps für Nicht-Autisten: was man tun kann, wenn einen jemand nicht ansehen will, warum es manchmal besser ist, eine E-Mail zu schreiben, und vor allem, warum es überhaupt kein Kompliment ist, wenn man sagt: "Aber du siehst gar nicht autistisch aus!" </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Benin Boi]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367769/benin-boi-nanoah-struik</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367769/benin-boi-nanoah-struik"/>
+        <updated>2026-08-17T07:44:49.313Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367769?aid=kb-online-bibliotheek&sid=22&dts=1786952689127&sig=59029302868bcdd5c0bd98040ddd6aa7d3a22ede5338d27e8457936733af0d14&width=320" alt="Omslag van 'Benin Boi'" title="Omslag van 'Benin Boi'">
+<p>'In Afrika bestaat dat niet,' zegt de vader van Nanoah als hen uit de kast komt. Daardoor voelt Nanoah, geboren en getogen in Drenthe, zich lang niet verbonden met diens Nigeriaanse roots. Maar na de Black Lives Matter-protesten kan hen niet langer om hun eigen Zwartheid heen. Op zoek naar verzoening besluit Nanoah samen met diens vader naar Benin City, Nigeria te reizen. Kan daar voor hen ruimte ontstaan om volledig zichzelf te zijn? Ontwapenend en ongekunsteld neemt Nanoah je mee op een reis vol geswipe op datingapps, gammele plastic stoeltjes, afro beats en techno, witte -mensen -sambal en appelsap in plaats van bier. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Bianca Toeps</name>
+            <name>Nanoah Struik</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[But you don't look autistic at all]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439134560/but-you-don-t-look-autistic-at-all-bianca-toeps</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439134560/but-you-don-t-look-autistic-at-all-bianca-toeps"/>
-        <updated>2026-08-08T07:41:38.991Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439134560?aid=kb-online-bibliotheek&sid=22&dts=1786107322822&sig=6f872b545f764df2a2e3ae416136a9997eb7264520e93053c58751e79f1c629d&width=320" alt="Omslag van 'But you don't look autistic at all'" title="Omslag van 'But you don't look autistic at all'">
-<p>Bianca (1984) legt uit wat het betekent om autistisch te zijn. Ze zocht uit wat de wetenschap erover zegt, hield interviews en vertelt ook haar eigen verhaal. Bevat ook tips voor o.a. vrienden. Vanaf ca. 15 jaar.</p>]]></content>
+        <title type="html"><![CDATA[Danswoede]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367599/danswoede-vincent-merjenberg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367599/danswoede-vincent-merjenberg"/>
+        <updated>2026-08-17T07:44:49.707Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367599?aid=kb-online-bibliotheek&sid=22&dts=1786952689407&sig=dbc6dec68b71c5da32cdaca1bf7498f19bfcb2677701196c2492b3438451fd78&width=320" alt="Omslag van 'Danswoede'" title="Omslag van 'Danswoede'">
+<p>Wanneer Elias naar het sterfbed van zijn oude mentor Encke wordt geroepen, denkt hij simpelweg afscheid te gaan nemen van de man die hem zijn literaire bezorgde. Maar in de afgelegen mistige bossen van Oost-Duitsland verandert dit laatste bezoek in een beklemmende confrontatie. Elias heeft zijn hele leven geprobeerd te ontsnappen aan zijn familiegeschiedenis, en de verstikkende grip van zijn moeder, maar hij ontdekt dat dit wellicht een illusie is. Zijn succesvolle roman blijkt onderdeel te zijn van een duister en zorgvuldig opgezet experiment onder leiding van zijn mentor. Naarmate de schokkende waarheid zich ontvouwt, vervaagt de grens tussen historische feiten en angstaanjagende hallucinaties, tussen oprechte herinneringen en geraffineerde manipulatie. In een sfeer van psychologische spanning moet Elias vechten voor zijn verstand en zichzelf de meest angstaanjagende vraag stellen: was hij ooit werkelijk de auteur van zijn eigen verhaal, of is hij slechts een pion in het spel van een ander? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Bianca Toeps</name>
+            <name>Vincent Merjenberg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This autistic girl went to Japan]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442188455/this-autistic-girl-went-to-japan-bianca-toeps</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442188455/this-autistic-girl-went-to-japan-bianca-toeps"/>
-        <updated>2026-08-08T07:41:38.817Z</updated>
-        <summary type="html"><![CDATA[and you won't believe what happened next]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442188455?aid=kb-online-bibliotheek&sid=22&dts=1786133713988&sig=e8d80086870fd0aec0d4598dc657e500366936dbb9dc828cd3d381e185bae08c&width=320" alt="Omslag van 'This autistic girl went to Japan'" title="Omslag van 'This autistic girl went to Japan'">
-<p>When Bianca Toeps first set foot in Japan in 2008, she just knew: "I'm going to live here someday." Flash forward fifteen years, and she's finally traded her tiny apartment in the Netherlands for an even tinier one in Tokyo. But it wasn't always easy. Between that first visit and now, Toeps was diagnosed with autism at age 26, suffered several burnouts, and switched careers a time or two (or three) before becoming a web developer and a best-selling author. And just when she was all set for the big move, the pandemic derailed everything. This Autistic Girl Went to Japan is the inspiring story of a young woman who moved halfway around the world in pursuit of happiness. With humor and remarkable candor, Bianca describes the challenges of applying for a visa during a time of terrifying uncertainty, slogging through endless red tape, and the loneliness that comes with being a stranger in a strange land. Oh, and how she wound up evicting a bat from her new apartment, attending a Pokémon go event with a bunch of middle-aged women, and discovering the best thrift store in all of Tokyo. Along the way, she explains why she feels so at home in Japan, where things are often a bit easier for autistic folks. Well, except for revenue stamps. And opening a bank account. And faxes. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De prijs van vergeving]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367688/de-prijs-van-vergeving-alain-verheij</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367688/de-prijs-van-vergeving-alain-verheij"/>
+        <updated>2026-08-17T07:44:50.035Z</updated>
+        <summary type="html"><![CDATA[Over de schoonheid van vergeven en de netelige weg ernaartoe]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367688?aid=kb-online-bibliotheek&sid=22&dts=1786952689804&sig=fe2a7b1652737beb62e9a8ed2f97a8a1cc88941a3ef51994fb49388ef36d1280&width=320" alt="Omslag van 'De prijs van vergeving'" title="Omslag van 'De prijs van vergeving'">
+<p>Vergeven is een van de mooiste én moeilijkste dingen die een mens kan doen. Het is een geschenk aan een ander en aan onszelf.  In een wereld vol onrecht, grensoverschrijdend gedrag en intieme vertrouwensbreuken, klinkt vaak de oproep tot 'vergeven en vergeten'. Iedereen verdient een tweede kans, zeggen we. Tegelijkertijd geven discussies over'cancelcultuur' aan dat dit zo eenvoudig nog niet is. Wie bepaalt of, door wie en wanneer er vergeven wordt? Theoloog Alain Verheij onderzoekt deze complexe kwesties. Hij neemt je mee langs eeuwenoude Bijbelverhalen en de tijdloze morele vraagstukken over schuld, pijn, wraak, rechtvaardigheid en genade die daarin aan de orde komen. De prijs van vergeving is een wijs, hoopvol en verrijkend boek en een oproep tot zorgvuldige benadering van vergeving. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Bianca Toeps</name>
+            <name>Alain Verheij</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ondanks alles de hare]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440513626/ondanks-alles-de-hare-becky-wade</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440513626/ondanks-alles-de-hare-becky-wade"/>
-        <updated>2026-08-12T08:10:16.901Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440513626?aid=kb-online-bibliotheek&sid=22&dts=1786454843450&sig=52b5bb240b129cc39aac8eb020dc7313abbd707609f1518a529ee1f8602d9cfd&width=320" alt="Omslag van 'Ondanks alles de hare'" title="Omslag van 'Ondanks alles de hare'">
-<p>Hij vindt zichzelf te beschadigd voor een relatie. Zij houdt van hem ondanks zijn imperfecties. Weten ze de kloof tussen hen te overbruggen? Voormalig marinier Jake Porter heeft meer littekens dan het ene dat zijn gezicht ontsiert - hij worstelt met PTSS. Om die reden leidt hij een teruggetrokken bestaan en gaat hij relaties uit de weg. Maar dan keert Lyndie James, een vroegere vriendin, terug naar Holley, Texas. Op aandringen van zijn broer en Lyndie zelf besluit hij haar na enige aarzeling in te huren om zijn volbloedpaarden te trainen. Hij geeft haar vijf paarden onder haar hoede, waaronder Silver Leaf, een hengst die veel potentie heeft, maar nog geen resultaten heeft geboekt, in de hoop dat zij kan ontdekken waar de weerzin om te racen van het paard vandaan komt. Al snel blijkt dat er nog steeds een band tussen Jake en Lyndie bestaat. En dat, plus Lyndies sprankelende, optimistische persoonlijkheid en haar vastberadenheid om hem te helpen, zorgt ervoor dat de muur die hij om zijn hart heeft opgetrokken langzaam begint af te brokkelen en dat hij steeds meer voor haar gaat voelen. Maar hij twijfelt. Zal zij hem willen hebben, ondanks alles wat hij met zich meesjouwt? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een kleine geschiedenis van bijna alles 2.0]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367335/een-kleine-geschiedenis-van-bijna-alles-2-0-bill-bryson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367335/een-kleine-geschiedenis-van-bijna-alles-2-0-bill-bryson"/>
+        <updated>2026-08-17T07:44:50.237Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367335?aid=kb-online-bibliotheek&sid=22&dts=1786946466711&sig=04c2f38ba070a60221802094484df0cb024b4da3f4ae46ce60fe4f46e05b2f1e&width=320" alt="Omslag van 'Een kleine geschiedenis van bijna alles 2.0'" title="Omslag van 'Een kleine geschiedenis van bijna alles 2.0'">
+<p>Sinds de publicatie in 2003 groeide Een kleine geschiedenis van bijna alles uit tot het geliefdste én bestverkochte populairwetenschappelijke boek van de eenentwintigste eeuw. In deze volledig geactualiseerde editie waarin de vele wetenschappelijke ontdekkingen van de afge-lopen twintig jaar zijn verwerkt, neemt Bill Bryson de lezer opnieuw mee op een reis door tijd en ruimte. Zijn doel is even simpel als alomvattend: alles begrijpen wat er is gebeurd vanaf de oerknal tot de opkomst van de beschaving. Het resultaat is dit boek, waarin Bryson deze ingewikkelde zaken niet alleen ontsluiert maar ze ook op heldere, spannende en meeslepende wijze beschrijft. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Becky Wade</name>
+            <name>Bill Bryson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uiteindelijk toch de zijne]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443314160/uiteindelijk-toch-de-zijne-becky-wade</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443314160/uiteindelijk-toch-de-zijne-becky-wade"/>
-        <updated>2026-08-13T08:13:12.048Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443314160?aid=kb-online-bibliotheek&sid=22&dts=1786606453733&sig=5b46628218ff8c7e92542f3eedff62a7c91fb2d93fdf32f041774b8791b2e5b6&width=320" alt="Omslag van 'Uiteindelijk toch de zijne'" title="Omslag van 'Uiteindelijk toch de zijne'">
-<p>Hij wil geen bodyguard, vooral geen vrouwelijke. Zij is vastbesloten om hem te beschermen. Kan dit ooit goed gaan? Na tien jaar te hebben gespeeld in de NFL is superster Gray Fowler gewend aan opdringerige fans. Maar als hij doodsbedreigingen van een stalker begint te ontvangen, huurt zijn team een beveiligingsbedrijf in om hem te beveiligen tot de verdachte is gearresteerd. Gray komt al snel tot de conclusie dat vierentwintig uur per dag een bodyguard om je heen hebben irritant is - vooral als een van hen een knappe jonge vrouw is. En belangrijker: hoe kan een vrouw die ruim een kop kleiner is dan hij, hem nu beter beschermen dan hij zichzelf kan beschermen? Dru Porter is voormalig marinier, een uitstekende scherpschutter en heeft een zwarte band - maar niets van dat alles heeft haar gered van de ramp tijdens haar laatste opdracht. In een poging haar geruïneerde reputatie te herstellen, is ze vastbesloten om Grays stalker te vinden en, omdat relaties tussen bodyguards en cliënten verboden is, om elke vorm van romantiek tussen haar en de knappe footballspeler met zijn mysterieuze verleden te vermijden. Maar iedere aanwijzing die Dru meer naar de stalker leidt, brengt haar ook dichter bij Gray. En als vervolgens het gevaar escaleert, blijkt dat ze het alleen overleven als ze elkaar hun leven - en hun hart - toevertrouwen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Else]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367297/else-sanne-van-heijst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367297/else-sanne-van-heijst"/>
+        <updated>2026-08-17T07:44:50.556Z</updated>
+        <summary type="html"><![CDATA[Het eigenwijze leven van een kinderboekenschrijfster]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367297?aid=kb-online-bibliotheek&sid=22&dts=1786952690343&sig=7bc3ba640764195ec1ce872a5243c7ae903a59eafeafde9223bb44b6f7c2650f&width=320" alt="Omslag van 'Else'" title="Omslag van 'Else'">
+<p>Met drie Gouden Griffels en de Theo Thijssen-prijs behoort Els Pelgrom tot de allergrootsten van de Nederlandse jeugdliteratuur, in de traditie van schrijvers als Tonke Dragt en Imme Dros.  Op haar vierenveertigste brak Els Pelgrom (geboren Else Koch, Arnhem 1934) door met De kinderen van het Achtste Woud (1977), haar autobiografische boek over de oorlogswinter die ze doorbracht op een afgelegen boerderij op de Veluwe. Die periode kleurde haar levenskeuzes en had grote invloed op haar oeuvre, met hoogtepunten als de klassiekers Kleine Sofie en Lange Wapper (1984) en De eikelvreters (1989). Als schrijfster was Pelgrom briljant maar onzeker, een vrouw die haar plek moest bevechten in een door mannen gedomineerde wereld. Op basis van vele tot nog toe onbekende bronnen zoals dagboeken en briefwisselingen laat Else zien hoe Pelgrom in een allesbepalende jeugdervaring inspiratie vond voor haar boeken vol verbeeldingskracht en fantasie, die nog altijd ontroeren, troosten en verrassen. Biografie van een briljant schrijfster die haar plek moest bevechten in een door mannen gedomineerde wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Becky Wade</name>
+            <name>Sanne van Heijst</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Niet zonder jou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442716567/niet-zonder-jou-denise-hunter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442716567/niet-zonder-jou-denise-hunter"/>
-        <updated>2026-08-13T08:13:11.886Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442716567?aid=kb-online-bibliotheek&sid=22&dts=1786608075735&sig=fb8acbe4743814bcb2d7077af1fa34dcd022a4e6575e6da27b7e1c6e04ea8084&width=320" alt="Omslag van 'Niet zonder jou'" title="Omslag van 'Niet zonder jou'">
-<p>Ze heeft zo haar redenen om de rest van haar leven single te blijven, maar dan brengt een knappe aannemer haar besluit aan het wankelen Nadat Avery Robinson er als meisje getuige van was dat haar moeder de strijd met een vreselijke ziekte verloor, wist ze één ding zeker: ze zou dokter worden. En dat is gelukt; ze heeft zelfs haar eigen kliniek. Voor de buitenwereld lijkt het er daardoor op dat ze het gemaakt heeft, maar wat niemand weet, is dat er een kans is dat ze dezelfde ziekte heeft. Om die reden heeft ze haar hart afgesloten voor de liefde en stort ze zich op haar werk. Als eerbetoon aan de man die zijn leven gaf om het zijne te redden, loopt Wes Garrett de Appalachian Trail, maar ergens halverwege wordt hij ziek. Met het uiterste van zijn krachten weet hij de kliniek van Avery te bereiken, die hem zonder aarzelen opneemt en verzorgt, net zo lang tot hij beter is. Alleen heeft hij geen ziektekostenverzekering, met als gevolg dat Wes, eenmaal beter, een flinke rekening heeft te vereffenen. Avery weet het goed gemaakt: hij kan in ruil voor de schuld het vervallen koetshuis opknappen. Wes stemt toe en vanaf het moment dat hij met de klus begint, is de aantrekkingskracht tussen beiden onmiskenbaar. Maar de obstakels die een eventuele liefde in de weg staan ook. Waar kan dit toe leiden? Niet zonder jou is het tweede deel van de feelgoodserie Riverbend Gap over Gavin, Cooper en Avery Robinson, die zich afspeelt in en om het gelijknamige stadje in North Carolina, langs de Appalachian Trail. Eerder verscheen Jij hoort bij mij. DENISE HUNTER schrijft het liefst hartverwarmende romantische verhalen die zich afspelen in een klein plaatsje. Ze heeft al veel titels op haar naam staan, waaronder Boekhandel Zeezicht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het beste wat je met je geld kunt doen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367580/het-beste-wat-je-met-je-geld-kunt-doen-bram-schaper</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367580/het-beste-wat-je-met-je-geld-kunt-doen-bram-schaper"/>
+        <updated>2026-08-17T07:44:50.757Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367580?aid=kb-online-bibliotheek&sid=22&dts=1786951553359&sig=78bc3a243c209ac71dceb7bf5cc79663c78b60dd19a2f5dc5d6f9ead622fa265&width=320" alt="Omslag van 'Het beste wat je met je geld kunt doen'" title="Omslag van 'Het beste wat je met je geld kunt doen'">
+<p>Je doneert af en toe of regelmatig aan een goed doel, maar je tijd is schaars en je budget beperkt. Wat je wél weet: je wil niet dat jouw geld verdwijnt in de dikke auto van een directeur of verdampt in een kostbare marketingcampagne. Maar hoe check je dat? En als je toch geeft, waarom dan niet meteen zo veel mogelijk verschil maken met datzelfde bedrag? De harde waarheid: de meeste donaties helpen nauwelijks. Veel mensen geven op gevoel, verleid door geraffineerde marketing of beïnvloed door nabijheid. Maar hoe weet je zeker dat jouw donatie écht verschil maakt? Bram Schaper laat zien dat van de miljoenen goede doelen er slechts enkele zijn die er met kop en schouders boven uitsteken – toporganisaties waar de impact van jouw euro wel honderd keer zo groot is. Aan de hand van ontnuchterende feiten en verrassende inzichten legt Schaper uit waar de weeffouten in de goededoelenmarkt zitten, hoe toporganisaties te herkennen zijn en hoe je met dezelfde portemonnee veel meer voor elkaar krijgt. 'Wil je écht verschil maken met je geld? Lees dit boek.' – Rutger Bregman </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Denise Hunter</name>
+            <name>Bram Schaper</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kom bij me terug]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347687/kom-bij-me-terug-denise-hunter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347687/kom-bij-me-terug-denise-hunter"/>
-        <updated>2026-08-15T07:23:28.061Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347687?aid=kb-online-bibliotheek&sid=22&dts=1786718127209&sig=292daa3df5b4bfe684403ab4fe7c7234f6835b11cb1e3328cb158f700619e291&width=320" alt="Omslag van 'Kom bij me terug'" title="Omslag van 'Kom bij me terug'">
-<p>Ze zijn uit elkaar gegaan met het idee de ander nooit meer te zien, maar dan brengt een tragisch ongeluk hen onverwacht weer bij elkaar Na een verschrikkelijke gebeurtenis eindigde de relatie van Laurel en Gavin in een scheiding. Nu, terwijl ze ieder hun eigen leven en carrière hebben, zijn ze tevreden... maar niet echt gelukkig. Hun wegen kruisen elkaar onverwacht weer als twee van hun gezamenlijke vrienden omkomen bij een vliegtuigcrash en vervolgens blijkt dat ze Laurel en Gavin hebben benoemd tot voogden van hun dochtertje, Emma. Ondanks dat het nieuws hen overrompelt, besluiten ze alles wat er tussen is voorgevallen opzij te zetten en op zoek te gaan naar een geschikte voogd voor het meisje, terwijl ze tot het zover is voor Emma zullen zorgen en hun best zullen doen om de appelboomgaard van Mike en Mallory te onderhouden. Al snel dienen de irritaties van vroeger zich weer aan... net als de passie die ze zich allebei zo goed herinneren. En ondertussen probeert zowel Laurel en Gavin het verleden - inclusief hun fouten, de miscommunicatie en de tragedie die het einde van hun huwelijk betekende - te verwerken. Zal de liefde van vroeger, die zich nog altijd in hun hart bevindt, weer opbloeien, of is dit vragen om nieuw hartzeer? Kom bij me terug is het derde deel van de feelgoodserie Riverbend Gap over Gavin, Cooper en Avery Robinson, die zich afspeelt in en om het gelijknamige stadje in North Carolina, langs de Appalachian Trail. Eerder verschenen Jij hoort bij mij en Niet zonder jou. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De beslisarchitect]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367319/de-beslisarchitect-hans-van-emmerik</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367319/de-beslisarchitect-hans-van-emmerik"/>
+        <updated>2026-08-17T07:44:51.136Z</updated>
+        <summary type="html"><![CDATA[Bouwen aan betere beslissingen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367319?aid=kb-online-bibliotheek&sid=22&dts=1786952690855&sig=b8ac6d7ee827c449d22831907fb77d1d13ef197f6e33cdab961eb2ab9a5d4d02&width=320" alt="Omslag van 'De beslisarchitect'" title="Omslag van 'De beslisarchitect'">
+<p>Je zit met de juiste mensen aan tafel, en toch komt er geen besluit uit. Wéér niet. De vergadering loopt uit, iedereen vertrekt met een ander verhaal en de knoop die allang doorgehakt had moeten worden blijft hangen. Frustrerend – en volledig te voorkomen.  Gedragseconoom Hans van Emmerik dook in de wetenschap én de praktijk van directieteams, kabinetsinformateurs en operatiekamers. Zijn ontdekking: slechte besluitvorming heeft niets te maken met intelligentie of inzet. Het probleem zit in de omgeving. Ontwerp je die slim, dan volgen de juiste beslissingen vanzelf. Dat is de kracht van de beslisarchitect.  In dit boek ontrafelt Van Emmerik negen factoren die besluitvorming ongemerkt saboteren – van verliesaversie en vaagtaal tot informatiecascades en open eindjes. Herkenbaar, concreet en direct toepasbaar.  Word de beslisarchitect van jouw team. 'Een doordacht en vlotgeschreven boek met veel inzichten en praktische wetenswaardigheden over de architectuur van goede beslissingen.' – Marcel Levi, arts en bestuurder </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Denise Hunter</name>
+            <name>Hans van Emmerik</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kerst in Hickory Hollow]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347717/kerst-in-hickory-hollow-beverly-lewis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347717/kerst-in-hickory-hollow-beverly-lewis"/>
-        <updated>2026-08-15T07:23:28.294Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347717?aid=kb-online-bibliotheek&sid=22&dts=1786712819488&sig=f5a4740d2f506aa25424fbbdaa19e4ed5d226f1fdcd09e6f865eb7832d43e93f&width=320" alt="Omslag van 'Kerst in Hickory Hollow'" title="Omslag van 'Kerst in Hickory Hollow'">
-<p>Nu de feestdagen in aantocht zijn, weet Liz Lantz dat er een drukke tijd aan komt voor haar bedrijfje Amish Buggy Rides, want de speciale kerstbuggytocht door Hickory Hollow, die ze jaarlijks organiseert, trekt altijd veel toeristen. Als ze hoort dat haar broer dit jaar voor de verandering niet kan helpen, is ze dan ook niet bepaald blij, helemaal wanneer blijk dat er ongevraagd hulp is geregeld in de persoon van Matthew Yoder; daar zit ze absoluut niet op te wachten. Maar al snel blijkt het nog niet zo gek, want zijn hulp komt goed van pas en hij blijkt veel aardiger dan gedacht... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Autisme]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367416/autisme-niels-springveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367416/autisme-niels-springveld"/>
+        <updated>2026-08-17T07:44:51.358Z</updated>
+        <summary type="html"><![CDATA[Een biografie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367416?aid=kb-online-bibliotheek&sid=22&dts=1786946510147&sig=75aad02a6e9e57d6eada1a0ca2f62c8d8d216960835c1ae4af0db1854e5d4e06&width=320" alt="Omslag van 'Autisme'" title="Omslag van 'Autisme'">
+<p>EEN BAANBREKEND STANDAARDWERK OVER DE GESCHIEDENIS VAN AUTISME Tegenwoordig komt autisme bij ongeveer 1 op de 100 mensen voor en wemelt het in de populaire cultuur van de autisten. En dat terwijl het als diagnose nog niet zo heel lang geleden vrijwel onbekend was en voornamelijk bij kinderen werd vastgesteld. In Autisme beschrijft de autistische historicus Niels Springveld de geschiedenis van deze opmerkelijke omslag. Aan de hand van uitgebreid archief- en literatuuronderzoek laat hij zien hoe autisme zich ontwikkelde van een benaming voor een symptoom van schizofrenie tot een term voor een zeldzame kinderstoornis tot een veelvoorkomende vorm van neurodiversiteit. Dit boek is het verhaal van deskundigen, van films als Rain Man en van veranderende wetenschappelijke trends en diagnostische criteria. Maar boven alles is deze baanbrekende studie het verhaal van mensen met autisme en hun naasten – en van hun voortdurende streven naar acceptatie en erkenning. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Beverly Lewis</name>
+            <name>Niels Springveld</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De dochter van de natuurbeschermer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347741/de-dochter-van-de-natuurbeschermer-tracie-peterson---kimberley-woodhouse</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347741/de-dochter-van-de-natuurbeschermer-tracie-peterson---kimberley-woodhouse"/>
-        <updated>2026-08-15T07:23:27.804Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347741?aid=kb-online-bibliotheek&sid=22&dts=1786718079173&sig=13c278c93f3ba1cbe9ed63305a165e9ab8abc801099c3528f38dffac2437626d&width=320" alt="Omslag van 'De dochter van de natuurbeschermer'" title="Omslag van 'De dochter van de natuurbeschermer'">
-<p>'Deze roman leent zich er goed voor om mee onder een dekentje op de bank te kruipen en even ongecompliceerd te genieten.' - Leeslievelings over De droom van de stenografe Montana, 1904. Sinds de dood van haar moeder heeft Eleanor Briggs samen met haar vader, Samuel Briggs, door het land gereisd om hem te helpen met zijn missie: natuurgebieden beschermen door ze als nationaal park voor te behouden. Zo komen ze ook in Kalispell, waar plannen worden gemaakt voor de realisatie van het Glacier National Park. Haar vader is vastbesloten om dat voor elkaar te krijgen en Ellie steunt hem daarin, maar de plaatselijke bewoners zijn op z'n zachtst gezegd niet zo enthousiast over het idee. Carter Brunswick is een van hen, maar het is vooral het feit dat de Great Northern Railway zal worden verplaatst dat hem bezighoudt. Tenslotte is het levensonderhoud van zijn hele familie, die graan verbouwt en het maalt in hun eigen molen, evenals dat van de meeste andere inwoners van het stadje, juist afhankelijk van het treinvervoer. Als de trein echt weggaat, weet hij niet of de mensen het zullen redden én de kans bestaat dat Kalispell verandert in een spookstadje. Als vervolgens de spanningen omtrent het verdwijnen van het treinspoor hoog oplopen, moeten Eleanor en Carter samenwerken, of anders loopt het helemaal uit de hand... TRACIE PETERSON schrijft veel en graag en uit al haar verhalen spreekt haar enthousiasme voor schrijven en verhalen vertellen. Ze heeft al tientallen romantische historische romans op haar naam staan, KIMBERLEY WOODHOUSE doet graag onderzoek naar de geschiedenis om haar heen, wat al tot vele meeslepende historische romans vol romantiek en mysterie heeft geleid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het offer]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367459/het-offer-wouter-godijn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367459/het-offer-wouter-godijn"/>
+        <updated>2026-08-17T07:44:51.670Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367459?aid=kb-online-bibliotheek&sid=22&dts=1786952691457&sig=fddd3d093f7325cb1344a0c31839bc5c71b9a5fb41ad6ee607679edcaad0d4cb&width=320" alt="Omslag van 'Het offer'" title="Omslag van 'Het offer'">
+<p>Een oudere man vertelt het verhaal van zijn grote liefde, een jeugdliefde zo hevig dat zijn hele leven erdoor werd overschaduwd. Wouter Godijn voert ons mee naar de beginjaren van Nicole en Maarten, twee jonge mensen die, belast met trauma's van hun ouders, een wereld ontdekken waarin begeerte en tederheid alles overheersen. Maar zullen ze daar kunnen blijven? In fonkelend proza vangt Godijn de fysieke en mentale gewaarwordingen van een eerste, allesverterende liefde, zo precies dat het de herinneringen van de lezer aan de eerste eigen liefde naar boven haalt. Het offer is een roman die doet denken aan Terug tot Ina Damman en Turks fruit: een hartstochtelijk verhaal over verlangen en verlies.  Over 'Het offer': 'De taal van Wouter Godijn lijkt gemaakt voor de liefde (…) gulzig geschreven proza.' – De Volkskrant 'Een gelukszalige tuimeling in de wereld van freejazz en vrije liefde (…) overtuigend opgetekend in een onbevangen, onbevreesde stijl.' – Trouw </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tracie Peterson</name>
-        </author>
-        <author>
-            <name>Kimberley Woodhouse</name>
+            <name>Wouter Godijn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zwijgen is nu een misdaad]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46134761X/zwijgen-is-nu-een-misdaad-bart-slijper</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46134761X/zwijgen-is-nu-een-misdaad-bart-slijper"/>
-        <updated>2026-08-15T07:23:30.664Z</updated>
-        <summary type="html"><![CDATA[Toonaangevende Europese schrijvers tijdens de Eerste Wereldoorlog]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46134761X?aid=kb-online-bibliotheek&sid=22&dts=1786717815048&sig=4167470e431016a6c838f019cf76d11946e2ac481308feab8f0245577d00d72b&width=320" alt="Omslag van 'Zwijgen is nu een misdaad'" title="Omslag van 'Zwijgen is nu een misdaad'">
-<p>Zoals Stefan Zweig eens zei was het hele Europese continent tijdens de Eerste Wereldoorlog volgepompt met haat. Tijdens de oorlog hielden hij en prominente auteurs als Romain Rolland en Frederik van Eeden over de grenzen heen contact, om met de kracht van hun woord gezamenlijk een tegenwicht te bieden. In dit panoramische verhaal over de strijd tegen de allesbeheersende oorlogspropaganda horen we verder de stemmen van Heinrich en Thomas Mann, Roger Martin du Gard, Marcel Proust, Ernst Toller, Joseph Roth en Konstantin Paustovski, ieder voor zich of reagerend op de anderen. Zij zetten de waanzin in een ontluisterend licht en ontwikkelden ondertussen ideeën over hoe het na de oorlog verder moest met het verscheurde Europese continent. Opgeklopte haat en blind nationalisme zijn uiteraard van alle tijden. Bart Slijper laat met imponerend overzicht zien hoe schrijvers meer dan honderd jaar geleden de misleiding door politici en de pers analyseerden in vlammende teksten die ze net zo goed vandaag hadden kunnen schrijven.</p><p>Bart Slijper (1963) schreef eerder veelgeprezen biografieën van J.C. Bloem, Willem Kloos en Martinus Nijhoff, alsook een groepsportret van de Tachtigers.</p><p>Over Elk woord ging ademhalen (over Martinus Nijhoff):  'Zowel het werk als het leven is door Bart Slijper zorgvuldig belicht, zonder dat daarbij afbreuk wordt gedaan aan een van de twee, wat in mijn ogen zweemt naar meesterschap. Reden te meer dat dit boek zich laat ondergaan als een les in hoe het nou moet, een schrijversbiografie maken.'  De Groene Amsterdammer</p><p>Over Van alle dingen los (over J.C. Bloem):  'J.C. Bloem met al zijn hebbelijkheden kort, knap en krachtig geportretteerd. (...) Slijper vertelt dit alles op een uiterst plezierige manier, met tempo, humor en scherpte.'  NRC</p><p>Over In dit gevreesd gemis (over Willem Kloos):  'Slijpers commentaar geeft blijk van grote inleving; de biograaf staat boven zijn materiaal en speelt ermee. Een bewonderenswaardige, beknopte biografie.'  de Volkskrant </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het seniorenbrein]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367424/het-seniorenbrein-andr%C3%A9-aleman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367424/het-seniorenbrein-andr%C3%A9-aleman"/>
+        <updated>2026-08-17T07:44:52.067Z</updated>
+        <summary type="html"><![CDATA[De ontwikkeling van onze hersenen na ons vijftigste]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367424?aid=kb-online-bibliotheek&sid=22&dts=1786952691875&sig=b3eb73e9fee56bc84065d1506e53911cadcb50930435eb7e7facfe57bf831feb&width=320" alt="Omslag van 'Het seniorenbrein'" title="Omslag van 'Het seniorenbrein'">
+<p>We maken ons allemaal wel eens zorgen over ons geheugen en ons verstand, zeker als we de vijftig gepasseerd zijn. De achteruitgang van het menselijk brein begint al vroeg maar is minder erg dan we soms denken. Sterker nog: een ouder brein is stressbestendiger en kan beter omgaan met complexe situaties dan een jong brein. In de internationale bestseller Het seniorenbrein toont André Aleman op toegankelijke wijze wat er in ons hoofd gebeurt als we ouder worden. Hij laat zien welke veranderingen je kunt verwachten en waarom, hoe je de voortekenen van alzheimer kunt herkennen, en hoe je zelf van alles kunt doen om je hersenen scherp en gezond te houden. Deze editie van Het seniorenbrein is volledig herzien en bevat de laatste wetenschappelijke inzichten, bijvoorbeeld over de invloed van alcohol op het brein. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Bart Slijper</name>
+            <name>André Aleman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De goede moeder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347652/de-goede-moeder-anna-van-den-breemer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347652/de-goede-moeder-anna-van-den-breemer"/>
-        <updated>2026-08-15T07:23:30.907Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347652?aid=kb-online-bibliotheek&sid=22&dts=1786712369430&sig=d7da97aa63307b2308ac0e06a1f4e91c06e3db5f603069dfbb15fe126abc0131&width=320" alt="Omslag van 'De goede moeder'" title="Omslag van 'De goede moeder'">
-<p>Als Sascha haar zoon na zijn middagslaapje uit bed wil halen, stopt de wereld met draaien. Hij is weg. Wie heeft Olivier op klaarlichte dag uit hun villa meegenomen? De uren verstrijken en de wanhoop groeit. Heeft de ontvoering iets te maken met het politieke werk van haar man Victor? Of komt het gevaar van dichterbij? De goede moeder is een ijzersterke en indringende thriller over ambitie, zingeving, vriendschap en bovenal moederschap. Anna van den Breemer (1984) is journalist voor de Volkskrant. In 2023 verscheen haar thrillerdebuut Het perfecte zusje. Het werd een veelgeprezen bestseller waarvan meer dan 30.000 exemplaren werden verkocht. De goede moeder is haar tweede thriller, die eerder onder de titel De schaduwvrouw verscheen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Over welvaart]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367602/over-welvaart-bart-de-wever</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367602/over-welvaart-bart-de-wever"/>
+        <updated>2026-08-17T07:44:52.516Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367602?aid=kb-online-bibliotheek&sid=22&dts=1786952692170&sig=c400ac42dd5a7f4c639599c3f3e61c43695b7c5c416a1018655b2d8e9360bb2f&width=320" alt="Omslag van 'Over welvaart'" title="Omslag van 'Over welvaart'">
+<p>In Over Welvaart plaatst Bart De Wever het menselijk streven naar welvaart in een breed historisch perspectief. Hij schetst hoe België en Europa de wieg vormden van de industriële revolutie, en hoe daaruit de moderne sociale welvaartsstaat is gegroeid - een model dat ons continent naar ongeziene hoogten van welvaart en levenskwaliteit tilde. Maar die verworvenheden staan vandaag onder druk. Door het economische fundament van welvaart te verwaarlozen en het takenpakket van de staat steeds verder uit te breiden, dreigt de welvaartsstaat in te storten. Volgens De Wever leidt dat niet alleen tot minder welzijn voor de burger, maar ook tot tanende invloed en een afbrokkelend geloof in vooruitgang. Als eerste minister wil hij het tij keren. In dit boek toont De Wever welke koers nodig is om de welvaartsstaat te redden, onze geopolitieke slagkracht te versterken en het vertrouwen in vooruitgang te herstellen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Anna van den Breemer</name>
+            <name>Bart De Wever</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De moed om lief te hebben]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347679/de-moed-om-lief-te-hebben-nowelle-barnhoorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347679/de-moed-om-lief-te-hebben-nowelle-barnhoorn"/>
-        <updated>2026-08-15T07:23:30.004Z</updated>
-        <summary type="html"><![CDATA[Hoe je zacht blijft in een harde wereld]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347679?aid=kb-online-bibliotheek&sid=22&dts=1786778609763&sig=fb12f6b5764fbec4ff2e0608d8c1d0b75f3926b76229584092c8b5cb9a6ad45d&width=320" alt="Omslag van 'De moed om lief te hebben'" title="Omslag van 'De moed om lief te hebben'">
-<p>Een liefdevolle, iets vriendelijkere wereld; iedereen lijkt ernaar te snakken. Maar zelf liefdevoller in het leven staan - waarbij je jezelf en de ander meeweegt - is zo makkelijk nog niet. Misschien roept het idee bij voorbaat al teleurstelling, boosheid of moedeloosheid bij je op. Een gevoel dat het toch niet meer goed gaat komen, of een diepe angst dat je te soft wordt als je daadwerkelijk meer vanuit je hart gaat leven. In dit boek doet Nowelle Barnhoorn in praktische, compassievolle stappen uit de doeken hoe je meer liefde kunt voelen voor jezelf en tegelijkertijd voor anderen: niet alleen voor mensen die je al liefhebt, maar ook voor wie je niet kent of misschien zelfs helemaal niet mag. We kunnen allemaal veel meer liefde gebruiken. En als we willen bouwen aan een betere wereld, dan begint dat hier en nu. Met een geloof in de liefde en de moed om daarvoor te kiezen.</p><p>Nowelle Barnhoorn (1986) is schrijver en healer. Eerder schreef ze de veelbesproken boeken Schemerdieren en De tweelingparadox. In 2017 kwam zij uit haar burn-out en depressie door een verlichtingservaring, waarna voor haar een zoektocht naar een liefdevoller leven begon. Over deze spirituele omwenteling schrijft ze ook in haar boek Dwars door het donker.</p><p>Over Dwars door het donker:  'In Dwars door het donker breekt Nowelle Barnhoorn een lans voor mindere momenten. Een verfrissend, verrassend optimistisch en persoonlijk relaas.'  Jan Magazine</p><p>'Een bloedeerlijk non-fictiewerk.'  Dagblad van het Noorden </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Beest in mijn hoofd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367629/beest-in-mijn-hoofd-judith-deryckere</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367629/beest-in-mijn-hoofd-judith-deryckere"/>
+        <updated>2026-08-17T07:44:52.740Z</updated>
+        <summary type="html"><![CDATA[Het boek dat ik zelf had willen lezen tijdens mijn strijd tegen OCD]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367629?aid=kb-online-bibliotheek&sid=22&dts=1786924892693&sig=33a6937c9ec4b86691d283a0a4d0811ea2d09bc1f3bb6da4b9714a8db3562c59&width=320" alt="Omslag van 'Beest in mijn hoofd'" title="Omslag van 'Beest in mijn hoofd'">
+<p>Beest in mijn hoofd is een rauw, eerlijk en indringend relaas over leven met een obsessief-compulsieve stoornis - én over hoe herstel mogelijk is, zelfs als alle hoop lijkt verdwenen. De auteur vertelt haar verhaal van binnenuit, verweven met getuigenissen van lotgenoten, naasten en hulpverleners. Een boek vol inzichten, herkenning en hoop, met ruimte voor kwetsbaarheid én strijdlust. Voor iedereen die zelf vecht, naast iemand staat, of écht wil begrijpen wat OCD betekent. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nowelle Barnhoorn</name>
+            <name>Judith Deryckere</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De tijd van de oligarchen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347644/de-tijd-van-de-oligarchen-aldous-huxley---bas-heijne</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347644/de-tijd-van-de-oligarchen-aldous-huxley---bas-heijne"/>
-        <updated>2026-08-15T07:23:28.891Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347644?aid=kb-online-bibliotheek&sid=22&dts=1786778608700&sig=364bc7575676abf336eb9e70bf5e9e3928db452ddbc80992bb4e3df9c52b75af&width=320" alt="Omslag van 'De tijd van de oligarchen'" title="Omslag van 'De tijd van de oligarchen'">
-<p>Al in 1946 voorspelde Aldous Huxley met griezelige precisie onze huidige wereld, waarin politieke macht met behulp van technologie in handen is van een kleine minderheid. Maatschappelijk onrustige tijden zijn ideaal voor nationalisme en geopolitieke machtsspelletjes, terwijl democratie en solidariteit onder vuur komen te liggen. Huxley, bij ons vooral bekend van zijn visionaire roman Brave New World, kondigt in dit vlijmscherpe essay de komst van het techno-oligarchische tijdperk aan - een wereld met boy-gangsters als regeringsleiders, waarin onze vrijheid wordt bedreigd door het recht van de sterkste. Huxleys verbluffende analyse is na tachtig jaar herontdekt. Hij raakt de kern van de uitdagingen waarvoor wij in de eenentwintigste eeuw zijn komen te staan. Gelauwerd essayist Bas Heijne voorzag Huxleys tekst van een verhelderende inleiding. 'Vergeet Orwell, lees Huxley!' Philipp Blom </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Wie zijn we morgen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367343/wie-zijn-we-morgen-babs-gons</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367343/wie-zijn-we-morgen-babs-gons"/>
+        <updated>2026-08-17T07:44:53.047Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367343?aid=kb-online-bibliotheek&sid=22&dts=1786952692836&sig=8e3765ae9c1d4ee10d01f38b1a487b1d61f6b160ab62aeef95505e165b916cc9&width=320" alt="Omslag van 'Wie zijn we morgen'" title="Omslag van 'Wie zijn we morgen'">
+<p>De poëzie van Babs Gons is urgent en betrokken, maar ook zorgvuldig en muzikaal van toon. In heldere, ritmische taal verweeft zij het persoonlijke met het politieke en laat zij zien hoe identiteit, afkomst en macht hun sporen nalaten in het alledaagse. Haar gedichten openen ruimte voor wat vaak buiten beeld blijft, voor stemmen die zelden gehoord worden. Met scherpe, soms ontregelende observaties onderzoekt zij zichtbaarheid en uitsluiting, verzet en geschiedenis, zonder het kwetsbare uit het oog te verliezen. Tussen de regels door klinkt ook zachtheid: over liefde, herinnering en de behoefte om gezien te worden. Haar poëzie nodigt uit tot vertragen, tot werkelijk kijken en luisteren. Ze zoekt de lezer op als gesprekspartner, en laat de taal ademen als een plek van ontmoeting. In die beweging schuilt hoop – niet als belofte, maar als een werkwoord: een zoektocht naar hoe we met elkaar in de wereld kunnen staan, naar wie we morgen willen zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Aldous Huxley</name>
-        </author>
-        <author>
-            <name>Bas Heijne</name>
+            <name>Babs Gons</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Reichenbachs]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46134758X/de-reichenbachs-berend-sommer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46134758X/de-reichenbachs-berend-sommer"/>
-        <updated>2026-08-15T07:23:29.320Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46134758X?aid=kb-online-bibliotheek&sid=22&dts=1786778594108&sig=4bc71d4c39064a8c017f4c10329c7f7629dc9516ad9e911c478b1a1cfb6e1989&width=320" alt="Omslag van 'De Reichenbachs'" title="Omslag van 'De Reichenbachs'">
-<p>De politieke val van Willemijn veroorzaakt een schokgolf in de familie Reichenbach. Haar publieke vernedering brengt zoon, dochter en echtgenoot naar onontgonnen terrein. Nu zijn ze op zichzelf aangewezen.  Een kunstenaar, een oorlogsverslaggever, een topambtenaar. Hun honger naar erkenning heeft gevolgen die verder strekken dan de onttakeling van het gezin.  De Reichenbachs is een duister verhaal over eenzaamheid, macht en oorlog; een roman die zich uitstrekt van Haagse labyrinten en Zuid-Afrikaanse woestijnen tot aan de oostgrens van Europa.  In De Reichenbachs beschrijft Berend Sommer het verval van de Nederlandse middenklasse en de tol van de eenentwintigste eeuw op het moderne gezin.</p><p>Berend Sommer (1990) is schrijver en historicus. Eerder verschenen van zijn hand de romans Gouden dagen, De onweerstaanbare val van Henri Furet en Duchamp. Een detective. De Reichenbachs is zijn grote roman over Nederland.</p><p>Over Gouden dagen:</p><p>'Berend Sommer neemt zelfgenoegzame mannen op de korrel en dat doet hij goed.'  de Volkskrant</p><p>'Een hilarische kroniek van de wanen die deze tijd kenmerken.'  EW</p><p>'Ongelooflijk goed, prachtige literatuur van Nederlandse bodem.'  Mathieu Segers </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Alleen als jij het ook doet]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367718/alleen-als-jij-het-ook-doet-helga-van-leur---reint-jan-renes</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367718/alleen-als-jij-het-ook-doet-helga-van-leur---reint-jan-renes"/>
+        <updated>2026-08-17T07:44:53.296Z</updated>
+        <summary type="html"><![CDATA[De (on)logica van ons klimaatgedrag en hoe het anders kan]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367718?aid=kb-online-bibliotheek&sid=22&dts=1786942980264&sig=73e64b79464edaecbc1285fa256ed5f99b61f4824d193e23b275f4cb0303b13f&width=320" alt="Omslag van 'Alleen als jij het ook doet'" title="Omslag van 'Alleen als jij het ook doet'">
+<p>Nee, mensen zijn niet gek, lui of ongeïnteresseerd. Maar wel onnavolgbaar. We willen een beter klimaat, maar handelen er vaak niet naar. In dit levendige boek laten Helga van Leur en Reint Jan Renes zien waarom het zo lastig is je karbonaadje over te slaan, maar je wel heel tevreden kunt zijn met twee minuten korter douchen. Met humor en compassie tonen ze hoe we botsen op ingesleten gewoontes en verleidingen van de wereld om ons heen. Maar er liggen ook kansen: misschien doen we niet altijd het goede, maar samen met anderen kunnen we wel degelijk het verschil maken (en is het nog leuk ook!). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Berend Sommer</name>
+            <name>Helga van Leur</name>
+        </author>
+        <author>
+            <name>Reint Jan Renes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ooit geleerd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347636/ooit-geleerd-alexander-rinnooy-kan</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347636/ooit-geleerd-alexander-rinnooy-kan"/>
-        <updated>2026-08-15T07:23:29.653Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347636?aid=kb-online-bibliotheek&sid=22&dts=1786778609432&sig=28bba55943d24fc8e18a2ea2909d0d9916faf20c3ff717e07325def7239320e4&width=320" alt="Omslag van 'Ooit geleerd'" title="Omslag van 'Ooit geleerd'">
-<p>Aan de hand van zijn veelzijdige en lange loopbaan biedt Alexander Rinnooy Kan een kleurrijk beeld van een veranderende wereld, in binnen- en buitenland, met een scherp oog voor kleine en grote ontwikkelingen, en gebaseerd op vele gevarieerde persoonlijke ervaringen. In het bijzonder is er aandacht voor kennis vergaren en kennis delen, voor besturen en bestuurd worden, en voor de betekenis van Nederland in de wereld.  Ooit geleerd gaat ook over grote en kleine rituelen, over wat bereikt is en over wat om aandacht blijft vragen. Niet alles spreekt vanzelf en niet alles is te voorspellen. Wie zich zorgen maakt bij een vooruitblik, doet er goed aan om even om te kijken en dankbaar te zijn voor wat hij ooit heeft geleerd.</p><p>Alexander Rinnooy Kan is wiskundige, voormalig senator voor D66 en universiteitshoogleraar economie en bedrijfskunde aan de Universiteit van Amsterdam. Hij was eerder voorzitter van de Sociaal-Economische Raad (SER) en van VNO-NCW, rector van de Erasmus Universiteit en lid van de raad van bestuur van ING. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De kemphaan]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367327/de-kemphaan-marc-van-houten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367327/de-kemphaan-marc-van-houten"/>
+        <updated>2026-08-17T07:44:53.616Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367327?aid=kb-online-bibliotheek&sid=22&dts=1786952693399&sig=543c142307f313c20c2682210804036afbb549c41fc13ecb5437decde8bda188&width=320" alt="Omslag van 'De kemphaan'" title="Omslag van 'De kemphaan'">
+<p>Rond de vorige eeuwwisseling behoorden kemphanen nog tot de meest voorkomende weidevogels van Nederland. Tot zo'n vijfentwintig jaar geleden trokken ieder voorjaar tienduizenden kemphanen vanuit hun natte winterverblijfplaatsen in de Afrikaanse Sahel door Nederland. Maar tegenwoordig zien we in het voorjaar nog maar enkele duizenden kemphanen in onze graslanden en is het spotten van een kemphen met kuikens een unicum geworden. De kemphaan is een van de meest opvallende en verleidelijkste Nederlandse broedvogels. Althans in het voorjaar, wanneer honkmannetjes, randmannetjes en satellietmannetjes, vaak uitbundig uitgedost, zich in een arena uitsloven om de gunst van de vrouwtjes te winnen.  Marc van Houten beschrijft deze toernooien uitgebreid in zijn monografie en brengt zo een liefdesverklaring aan deze gepassioneerde vogel. En weemoedig gaat hij in op de oorzaken van de achteruitgang van deze weidevogels in Nederland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Alexander Rinnooy Kan</name>
+            <name>Marc van Houten</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amsterdam, bijna gesloopt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347598/amsterdam--bijna-gesloopt-walther-schoonenberg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347598/amsterdam--bijna-gesloopt-walther-schoonenberg"/>
-        <updated>2026-08-15T07:23:30.431Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347598?aid=kb-online-bibliotheek&sid=22&dts=1786712762138&sig=b7b4a4cdeecb6563c05aaebb8381b0108f41310bb64384e3914a23fff2f91c1e&width=320" alt="Omslag van 'Amsterdam, bijna gesloopt'" title="Omslag van 'Amsterdam, bijna gesloopt'">
-<p>Wie door het centrum van Amsterdam loopt, kan zich geen voorstelling maken van hoe de stad er een halve eeuw geleden bij lag. Verkrotte huizen, vaak in stutten, gaten in de gevelwand en panden waarvan alleen de onderste verdieping nog overeind stond bepaalden het beeld. Bijna niemand wilde nog in de binnenstad wonen. Voor verschillende wijken maakte de gemeente grootschalige afbraakplannen en veel bewoners trokken weg naar de nieuwbouwwijken of randgemeenten buiten Amsterdam. Amsterdam, bijna gesloopt vertelt het verhaal van de miraculeuze redding en opmerkelijke wederopbouw van de Amsterdamse binnenstad. Bewoners begonnen zich steeds meer te verzetten. Actievoerders in de buurten en monumentenzorgers sloten een verbond en wisten met hun acties de gemeentelijke plannen 180 graden om te buigen. Mede aan de hand van bijzonder beeldmateriaal, zoals kaarten en foto's van stadsgezichten vóór en na restauratie, is dit in beeld gebracht. Uiteindelijk werd de binnenstad zelfs een van de meest gewilde woonlocaties in ons land. Walther Schoonenberg (Amsterdam, 1957) studeerde kunst- en architectuurgeschiedenis aan de Universiteit van Amsterdam. Hij heeft veel artikelen geschreven over Amsterdam en zijn monumenten, en is al meer dan een kwarteeuw verbonden aan de Vereniging Vrienden van de Amsterdamse Binnenstad (VVAB). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een verwittigd man is niets waard]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367467/een-verwittigd-man-is-niets-waard-dimitri-verhulst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367467/een-verwittigd-man-is-niets-waard-dimitri-verhulst"/>
+        <updated>2026-08-17T07:44:53.893Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367467?aid=kb-online-bibliotheek&sid=22&dts=1786952430262&sig=cb735512559099db8c67d3f407be3eb2fe2c9a19c0a6a79397e8a8b146cc755b&width=320" alt="Omslag van 'Een verwittigd man is niets waard'" title="Omslag van 'Een verwittigd man is niets waard'">
+<p>Eric Finck verwerkt een echtscheiding. Om zijn gedachten lam te leggen en vooral niet gek te worden, speelt hij piano, dag in, dag uit. Maar in plaats van zijn verleden de vergetelheid in te spelen, loeien de herinneringen per noot steeds luider in zijn kop.  Dit adembenemende relaas heeft de vorm van een jazzcompositie. Door ritmische motieven en herhalingen ontstaat een hartverscheurend beeld van een man die zijn wonden likt en probeert recht te krabbelen. Een ode aan de liefde, aan vergeving, het helende van een goede maaltijd en, in een donkere vorm, toch ook wel aan het leven zelf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Walther Schoonenberg</name>
+            <name>Dimitri Verhulst</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thalassa]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347660/thalassa-fik-meijer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347660/thalassa-fik-meijer"/>
-        <updated>2026-08-15T07:23:29.120Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347660?aid=kb-online-bibliotheek&sid=22&dts=1786719089722&sig=f4106290c3c70c33be67f7a1829996456d8d10e5a1ada314d949eb68c9bb0228&width=320" alt="Omslag van 'Thalassa'" title="Omslag van 'Thalassa'">
-<p>Door de oude Grieken werd de oergodin Thalassa gezien als de personificatie van de Middellandse Zee. Tallozen zijn bezweken voor haar charmes. De liefde voor haar is een virus dat je nooit meer verlaat.  Al meer dan zestig jaar bestudeert Fik Meijer in, op en langs de Middellandse Zee de geschiedenis van de Grieken en Romeinen. In Thalassa neemt hij de lezer mee op zijn afscheidsreis langs dertig lieux de mémoire, in overgrote meerderheid plaatsen die tot nu toe redelijk onbekend zijn, maar die gezamenlijk wel het bijzondere verhaal over de zee vertellen. Ze variëren van Romeinse wrakken op de zeebodem, die in zijn jeugdige jaren grote indruk op hem maakten, tot plaatsen waar de mechanismen van de oude economie of politiek een gezicht krijgen of oorlogsschepen iets van hun geheimen prijsgeven. Ook probeert Meijer erachter te komen welke rol de zee speelde in het dagelijks leven. Zo toont Thalassa zich in vele gedaanten.</p><p>Fik Meijer (1942) is een van de bekendste classici/oudhistorici van Nederland, en de auteur van publiekslievelingen en bestsellers als Keizers sterven niet in bed, Gladiatoren, Jezus en de vijfde evangelist, De vele gezichten van Sicilië en Goede tijden, slechte tijden in de antieke wereld.</p><p>Over De vele gezichten van Sicilië:  'In een helder, actueel en veelzijdig boek schetst Fik Meijer de geschiedenis van dit grootste eiland in de Middellandse Zee. Zijn grote kennis van de oudheid drukt een stempel op dit boek.'  NRC</p><p>'Wandel mee met de ideale docent Fik Meijer door de geschiedenis van het grootste eiland in de Middellandse Zee. (...) Meijer gaat een vleugje horror niet uit de weg.'  Nederlands Dagblad</p><p>Over Goede tijden, slechte tijden in de antieke wereld:  'Zijn ambitie is nog volledig intact: in 410 bladzijden beschrijft Meijer de zoektocht naar de beste staats- en regeringsvorm gedurende 1800 jaar.'  Historisch Nieuwsblad</p><p>'Het wordt allemaal fijnzinnig neergeschreven, met humor en oog voor detail. De anekdote wordt niet geschuwd. Fik Meijer is ook in dit duizendjarig doolhof de geschiedenisleraar die je had willen hebben.'  Nederlands Dagblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Mogen we nog een beetje leven?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367378/mogen-we-nog-een-beetje-leven--arnon-grunberg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367378/mogen-we-nog-een-beetje-leven--arnon-grunberg"/>
+        <updated>2026-08-17T07:44:54.243Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367378?aid=kb-online-bibliotheek&sid=22&dts=1786952694005&sig=5ce6cd7128c6e0f6a7beda903beb0953ff348468b02d057046bf95d955d12eb2&width=320" alt="Omslag van 'Mogen we nog een beetje leven?'" title="Omslag van 'Mogen we nog een beetje leven?'">
+<p>We leven in een tijd waarin de universele mensenrechten niet alleen minder worden nageleefd, maar zelfs steeds minder met de mond worden beleden. In dit essay gaat Arnon Grunberg op zoek naar de wortels van het universalisme en komt uit bij Jezus' Bergrede. Hoewel hij de aantrekkingskracht ervan begrijpt, observeert hij ook dat deze leer vanaf het begin weerstand opriep. Jezus appelleerde aan een universeel verlangen naar verlossing van lijden, maar stelde er een opdracht tegenover – namelijk het liefhebben van je vijand – die misschien wel te veel van de mensen vroeg. Toch zijn we nog niet van religie af, juist ook in het politieke domein. Zoals alleen Grunberg dat kan, verbindt hij in dit essay het verhaal van Abraham met de inzichten van de psychoanalyticus Winnicott en de legende van Don Juan met de filosofie van Nietzsche. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Fik Meijer</name>
+            <name>Arnon Grunberg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De butler van God]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347601/de-butler-van-god-ellen-de-bruin</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347601/de-butler-van-god-ellen-de-bruin"/>
-        <updated>2026-08-15T07:23:30.204Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347601?aid=kb-online-bibliotheek&sid=22&dts=1786713049308&sig=9412f9109dc7ed85aca14c8bce63156a75c2c02bd726472aa895a7f669276e31&width=320" alt="Omslag van 'De butler van God'" title="Omslag van 'De butler van God'">
-<p>"Ze had God zelf nog niet ontmoet, die was er nooit. Zijn butler regelde alles."</p><p>In De butler van God, een satirische, ontroerende en spannende roman over familie en over liefde, draait de wereld om kunst. Om het geld dat ermee te verdienen valt, om de status en aandacht die ermee te verkrijgen zijn, om de schimmige spelletjes die ermee te spelen zijn, en natuurlijk om de inspiratie, de schoonheid en de troost.</p><p>We reizen van Amsterdam naar Berlijn, Parijs, en vooral Venetië, waar de grote kunstbiënnale wordt gehouden. We volgen een klimaatactivist die geen soep naar schilderijen wil gooien, een afgewezen tekenares die van haar kunst wil leven, een rijke maar onvervulde galeriehoudster, en nog enkele anderen die proberen hun dromen waar te maken (of niet ten onder te gaan) in de keiharde internationale kunstwereld. Sommigen van hen zijn familie van elkaar en waren dat liever niet geweest. Twee van hen komen om het leven. Maar wie?</p><p>En waar is God als je hem nodig hebt?</p><p>Ellen de Bruin⁠ is redacteur wetenschap bij NRC. Met haar debuutroman ⁠Onder het ijs⁠ won ze de Anton Wachterprijs. De opvolger ⁠Kraaien in het paradijs⁠ leverde haar onder meer vergelijkingen op met John Steinbeck en Gabriel García Márquez.</p><p>Over Kraaien in het paradijs:  'Kraaien in het paradijs is zo'n boek dat je overal mee naar toe sleept, zo'n boek waarvan je al lezend steeds denkt 'Moet uit! Moet uit!' - tot het moment dat je het daadwerkelijk dichtslaat, en baalt dat je het uit hebt.'  NRC ****</p><p>'De Bruin betoont zich een eersteklas vertelster.'  Knack **** </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De onzekerheidsepidemie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367661/de-onzekerheidsepidemie-jeroen-van-baar</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367661/de-onzekerheidsepidemie-jeroen-van-baar"/>
+        <updated>2026-08-17T07:44:54.634Z</updated>
+        <summary type="html"><![CDATA[Hoe we overeind blijven in een wankelende wereld]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367661?aid=kb-online-bibliotheek&sid=22&dts=1786952694362&sig=e53b70be0b7c13a523410f4ba1d1179e605c88ce5d3b88aa8613ed309d6f7484&width=320" alt="Omslag van 'De onzekerheidsepidemie'" title="Omslag van 'De onzekerheidsepidemie'">
+<p>De verrassende psychologie van onzekerheid De moderne mens kan niet zonder zekerheid. Met Buienradar, deurbelcamera's en koopkrachtplaatjes voorspellen en controleren we elk aspect van onze leefwereld. Tegelijkertijd neemt de onzekerheid om ons heen juist toe. AI, klimaatverandering en geopolitieke verschuivingen brengen onze vertrouwde wereld aan het wankelen. Hoe ontsnappen we uit deze spagaat?  Jeroen van Baar laat zien waarom we kampen met een 'onzekerheidsepidemie' en hoe deze ten grondslag ligt aan tal van maatschappelijke problemen – van polarisatie tot angststoornissen bij tieners. Gelukkig is er een psychologisch tegengif. De onzekerheidsepidemie onthult hoe we ons kunnen aanpassen aan een onvoorspelbare wereld en hoe onzekerheid juist een kracht kan zijn. Zo zet Van Baar een cruciaal debat voor de eenentwintigste eeuw op scherp: wie zijn we als vooruitgang en voorspelbaarheid niet langer zeker zijn? ‛IJzersterk, een verhelderend en optimistisch boek' - Eveline Crone ‛Essentieel om onze tijd te begrijpen' - Roel Maalderink </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ellen de Bruin</name>
+            <name>Jeroen van Baar</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Littekens uit je jeugd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461347628/littekens-uit-je-jeugd-christiaan-vinkers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461347628/littekens-uit-je-jeugd-christiaan-vinkers"/>
-        <updated>2026-08-15T07:23:28.597Z</updated>
-        <summary type="html"><![CDATA[Hoe jeugdtrauma je vormt – en hoe herstel mogelijk is]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461347628?aid=kb-online-bibliotheek&sid=22&dts=1786778608397&sig=9b1610dd82219a1dd5448ad895f3cfd117c96f33d8f963d9e1e7a5363afd5ba9&width=320" alt="Omslag van 'Littekens uit je jeugd'" title="Omslag van 'Littekens uit je jeugd'">
-<p>Jeugdtrauma is een begrip dat steeds vaker opduikt: in de media, in de spreekkamer, op school en thuis. Maar wat bedoelen we er eigenlijk mee? En wat weten we écht over de gevolgen later in het leven? In Littekens uit je jeugd laat psychiater Christiaan Vinkers zien dat jeugdtrauma vaak niet ontstaat door één ingrijpende gebeurtenis of zichtbaar geweld, maar door langdurige patronen in de opvoeding, of door wat er structureel ontbrak, zoals veiligheid of voorspelbaarheid. Veel mensen herkennen pas veel later in het leven dat hun jeugd ontregelend was. Hoewel de sporen hiervan soms levenslang zichtbaar blijven, is herstel mogelijk, ook als dat grillig verloopt of jaren duurt, onder meer via het hervinden van veerkracht, betekenisgeving en steun van anderen. Met oog voor de nuance verbindt Vinkers wetenschappelijke inzichten met persoonlijke verhalen en maatschappelijke context. Littekens uit je jeugd is een toegankelijk en hoopvol boek voor iedereen die met jeugdtrauma te maken heeft, persoonlijk of professioneel. Christiaan Vinkers is psychiater en hoogleraar Stress en Veerkracht aan Amsterdam UMC en GGZ InGeest. Hij doet onderzoek naar stress, trauma en herstel, en is betrokken bij diverse landelijke initiatieven op het gebied van geestelijke gezondheidszorg. Eerder schreef hij (met Roeland Vis) Hoe zit het nu echt met antidepressiva en In de ban van burn-out. Over In de ban van burn-out: 'Een krachtige en inhoudelijk goed onderbouwde poging om meer helderheid en richting te verschaffen.' GGZ Totaal 'Een fascinerend verslag van de zoektocht naar de zin en onzin van een diagnose die - verrassing één - eigenlijk niet bestaat.' Libelle </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[En de zon gaat op]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367750/en-de-zon-gaat-op-ernest-hemingway</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367750/en-de-zon-gaat-op-ernest-hemingway"/>
+        <updated>2026-08-17T07:44:54.950Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367750?aid=kb-online-bibliotheek&sid=22&dts=1786952694733&sig=9adbe4f3ea0dc99e9cea0d74212521742ba6ce338ed626d1a1b9553b205a8092&width=320" alt="Omslag van 'En de zon gaat op'" title="Omslag van 'En de zon gaat op'">
+<p>Parijs in de opwindende jaren twintig: de ongelukkige Jake, oorlogsveteraan en verslaggever, is stapelverliefd op Brett, een beeldschone maar losbandige societyfiguur. Met een groepje vrienden reizen ze af naar Pamplona voor het jaarlijkse stierenvechten, waar hun relatie onder druk komt te staan door nieuwe hartstochten en jaloezie. Deze debuutroman verscheen 100 jaar geleden en maakte van Ernest Hemingway de stem van de 'verloren generatie' van de jaren twintig, die richtingloos opgroeide na het einde van de Eerste Wereldoorlog. Ernest Hemingway's portret van the lost generation verscheen in 1926 en was meteen een klassieker. Zijn debuutroman zette een hele generatie in beweging en maakte van hem de stem van zijn generatie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Christiaan Vinkers</name>
+            <name>Ernest Hemingway</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Strijd van de Profeten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461341581/strijd-van-de-profeten-rolf-%C3%B6sterberg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461341581/strijd-van-de-profeten-rolf-%C3%B6sterberg"/>
-        <updated>2026-08-12T08:10:17.110Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461341581?aid=kb-online-bibliotheek&sid=22&dts=1786454323101&sig=9ae9e5136496a894d6ed43b4f695e9e5a49712642e95aa2ed47317f0f371d522&width=320" alt="Omslag van 'Strijd van de Profeten'" title="Omslag van 'Strijd van de Profeten'">
-<p>'Nanali leefde driehonderd jaar geleden. We leven nu in een andere tijd met andere mensen, andere wapens en zelfs de Magie is niet gelijk. Het enige dat schijnbaar in driehonderd jaar niet is veranderd, is de strijd tussen goden die om voor mij onbegrijpelijke redenen stervelingen tegen elkaar opzetten...' - Naseka * * * In haar zucht naar meer volgelingen wil de godin Moriko zich spiritueel vestigen in het Varingwoud. Zij stuurt vier Profeten, elk uitgerust met de Magie van een van de vier elementen, op oorlogsschepen met een groot leger mariniers naar Varingholt en Waktura. Hun opdracht: het veroveren van de landen ten noorden van het Grote Water en het vernietigen van alle Magie. Daar hebben Naseka en haar broer Rhulani ieder een lichte, nog niet ontwikkelde vorm van. Als Rhulani aanvoelt dat er over zee een dreiging op Waktura afkomt, gelooft hun vader daar niets van. Samen met Naseka gaat hij in zijn luchtschip poolshoogte nemen en ontdekt tot zijn schrik dat zijn zoon gelijk heeft. In de laatste eeuwen hebben vooruitgang en techniek Magie naar de achtergrond verdrongen. Maar met de komst van de Profeten blijkt dat die onontbeerlijk is in de ontbrandende strijd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Transcriptie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367505/transcriptie-ben-lerner</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367505/transcriptie-ben-lerner"/>
+        <updated>2026-08-17T07:44:55.231Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367505?aid=kb-online-bibliotheek&sid=22&dts=1786952695037&sig=f48e4b047b1cfd4da184c9a7b9987042670928ed71d3cb0f711d200554dcfb94&width=320" alt="Omslag van 'Transcriptie'" title="Omslag van 'Transcriptie'">
+<p>De verstrooide, naamloze verteller van Transcriptie is afgereisd naar een Amerikaanse universiteitsstad om zijn oude mentor te interviewen voor een literair tijdschrift. Deze Thomas, inmiddels negentig, was ooit een heel grote in zijn vak. Het wordt vermoedelijk zijn laatste interview. Maar in het hotel gaat het mis: de telefoon van de verteller belandt in de wasbak en begeeft het, waardoor hij geen mogelijkheid meer heeft het gesprek op te nemen. Aangekomen bij Thomas verzwijgt hij dit. Terwijl de oude man in lange, meanderende zinnen van wal steekt, blijft het relaas onopgetekend. Wat volgt is een opeenstapeling van miscommunicatie en misverstanden, een beknopt verhaal van een gezin in crisis, en een droomachtig relaas van Thomas, die de verteller door de war haalt met zijn eigen zoon. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Rolf Österberg</name>
+            <name>Ben Lerner</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De machtscode]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46041349X/de-machtscode-marietje-schaake</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46041349X/de-machtscode-marietje-schaake"/>
-        <updated>2026-08-12T08:10:17.716Z</updated>
-        <summary type="html"><![CDATA[Hoe de onzichtbare belangenstrijd achter AI onze democratie bedreigt]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46041349X?aid=kb-online-bibliotheek&sid=22&dts=1786452425678&sig=92a3949a304588f334b5c8f38d7a57146fb36bc360c6139ecd4610e725796a41&width=320" alt="Omslag van 'De machtscode'" title="Omslag van 'De machtscode'">
-<p>De kans is groot dat je dagelijks AI gebruikt – voor een recept, een samenvatting, een boekentip. Nooit eerder omarmden we een nieuwe technologie zo snel, en nooit werd er zo massaal in geïnvesteerd. Van scholen tot het leger en de overheid: overal wordt AI ingezet. Maar met elke stap geven we de democratische controle verder uit handen. De grote vraag is: aan wie, en met welke gevolgen? In dit heldere pamflet ontleedt technologie-expert Marietje Schaake de machtsstrijd achter AI en laat ze zien waarom – en hoe – Europa en Nederland daar een politiek antwoord op moeten formuleren. Reacties: ‘Tegen de AI-hysterie, voor democratische grip op AI. Marietje Schaake wijst de weg.’ – Sander Schimmelpenninck ‘Marietje Schaake stelt ongemakkelijke en noodzakelijke vragen over de macht van AI.’ – Marleen Stikker 'Marietje Schaake opent je de ogen voor wat er bij AI op het spel staat.' – Ilyaz Nasrullah 'Als vrijheid, privacy en democratie je lief zijn, lees dit boek. Marietje Schaake laat zien hoe wij AI kunnen beheersen in plaats van dat het ons beheerst.' – Eva Rovers </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het verjaart niet in je hoofd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367351/het-verjaart-niet-in-je-hoofd-jan-puype</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367351/het-verjaart-niet-in-je-hoofd-jan-puype"/>
+        <updated>2026-08-17T07:44:55.517Z</updated>
+        <summary type="html"><![CDATA[Ik ben een godvergeten slachtoffer van misbruik door een priester]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367351?aid=kb-online-bibliotheek&sid=22&dts=1786952695331&sig=a812a846120b66824b01bd1a4312d7d743dd8265dcb0c0a565d90e4abfd69ccf&width=320" alt="Omslag van 'Het verjaart niet in je hoofd'" title="Omslag van 'Het verjaart niet in je hoofd'">
+<p>Toen de reeks Godvergeten op televisie kwam in 2023 schrok Vlaanderen op. De getuigenissen over het misbruik binnen de Kerk waren zo pakkend en openhartig, dat de verontwaardiging om wat er gebeurd is sindsdien niet meer is gaan liggen. Begin 2026 komt er op televisie een vervolg op Godvergeten. In beide programma's speelt Jan Puype een spijtige hoofdrol. Hij werd als kleine jongen in de jaren tachtig bijna drie jaar lang misbruikt door een pater-priester in een college in Waregem. Hij vertelt nu zijn dramatische levensverhaal, inclusief zijn twee ontmoetingen met twee pausen, eerlijk, onverbloemd. Het grijpt je naar de keel en laat je achter met zoveel vragen over hoe zoiets is kunnen gebeuren... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Marietje Schaake</name>
+            <name>Jan Puype</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Morele revolutie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/458136514/morele-revolutie-rutger-bregman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/458136514/morele-revolutie-rutger-bregman"/>
-        <updated>2026-08-12T08:10:18.254Z</updated>
-        <summary type="html"><![CDATA[De BBC Reith-lezingen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A458136514?aid=kb-online-bibliotheek&sid=22&dts=1786458785317&sig=b47229a7e87705d15aad1a8597c8dd9156b74696c960ac5fa848100f80ee1024&width=320" alt="Omslag van 'Morele revolutie'" title="Omslag van 'Morele revolutie'">
-<p>De westerse wereld verkeert in een morele crisis. Niet de meest bekwame, maar de meest schaamteloze leiders komen aan de macht. In zijn BBC Reith Lectures — hier in ongecensureerde vorm — brengt Rutger Bregman zijn hele oeuvre samen in een pleidooi voor een morele revolutie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Nest]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367793/nest-rob-waumans</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367793/nest-rob-waumans"/>
+        <updated>2026-08-17T07:44:55.704Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367793?aid=kb-online-bibliotheek&sid=22&dts=1786942179973&sig=24011843145c646ec378feb49fea06292c3a48792b1f8ff32bd81688ca15c316&width=320" alt="Omslag van 'Nest'" title="Omslag van 'Nest'">
+<p>Een moeder kijkt vanuit het hiernamaals toe als haar man en drie zoons een weekend doorbrengen in een duinhuis. Anton, de jongste, heeft het initiatief genomen en hoopt op meer dan kaarten en zwijgen. Maar hoe blijf je verbonden als de lijm tussen iedereen is weggevallen? Terwijl er buiten een storm opsteekt en vader Frans onwel wordt, dwaalt Anton door de mistige duinen, opgesloten in zijn familiegeschiedenis en gedachten. Intussen keert de moeder terug naar haar eigen jeugd, naar verlies, stilte en patronen die ze zelf nooit wist te doorbreken. Een indringende en ontroerende roman over families gevangen in zwijgen, en over de vraag of sommige patronen ooit te doorbreken zijn. Met scherp mededogen schetst Rob Waumans de breekbaarheid van een gezin. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Rutger Bregman</name>
+            <name>Rob Waumans</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waanzinnige tijden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459546643/waanzinnige-tijden-rob-wijnberg---rosan-smits---maaike-goslinga</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459546643/waanzinnige-tijden-rob-wijnberg---rosan-smits---maaike-goslinga"/>
-        <updated>2026-08-12T08:10:18.466Z</updated>
-        <summary type="html"><![CDATA[Journalistiek voorbij de waan]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459546643?aid=kb-online-bibliotheek&sid=22&dts=1786456194027&sig=e72601e902febd4b6fc7d828e7ab8068860865e15644882d2f50c74844e5785b&width=320" alt="Omslag van 'Waanzinnige tijden'" title="Omslag van 'Waanzinnige tijden'">
-<p>We leven in waanzinnige tijden. De wereld is in de ban van een mondiale autoritaire beweging die van feiten leugens probeert te maken en van leugens een nieuwe waarheid. Een beweging die al onze zwaarbevochten democratische vrijheden, burgerrechten en verworvenheden bedreigt. Hoe bedrijf je journalistiek in een wereld waarin waarheid leugen en oorlog vrede is geworden? In zo’n wereld is het belang van onafhankelijke, integere en onbevreesde journalistiek groter dan ooit. Journalistiek die kritisch is op de macht, nieuwsgierig naar een ander en, bovenal, moedig als het gaat om het spreken van de waarheid. In Waanzinnige tijden laten 22 correspondenten, zoals Jesse Frederik, Rosan Smits, Simon van Teutem en Rinke Verkerk, zien hoe onafhankelijke journalistiek de nieuwe machten kan controleren, voor verbinding kan zorgen en een betere toekomst kan verbeelden. Reacties: ‘Al 12,5 jaar bedrijft De Correspondent de waardengedreven en waarachtige journalistiek die essentieel is voor onze democratie.’ – Marcia Luyten ‘Onafhankelijk, diepgravend en dapper. De Correspondent is een baken in donkere tijden.' – Nadia Moussaid </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De krater]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367386/de-krater-gerwin-van-der-werf</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367386/de-krater-gerwin-van-der-werf"/>
+        <updated>2026-08-17T07:44:55.943Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367386?aid=kb-online-bibliotheek&sid=22&dts=1786942207909&sig=ad0c7624aa6a47b5430ec870531511e0d31e048ac6557d2170865c0cde6cbf2b&width=320" alt="Omslag van 'De krater'" title="Omslag van 'De krater'">
+<p>Eden is met haar twee broers op weg naar een meteorietkrater, ergens in Duitsland. Ze heeft een missie: haar jongste broer redden. Benjamin heeft een depressie, Johnny een rijbewijs. Benjamin weet alles van sterren en meteorieten, Johnny weet de weg – hopelijk. En Eden? Die zit ertussenin. Altijd ertussenin. Een van de meest succesvolle Boekenweekgeschenken, geprezen door critici en lezers. Na talloze verzoeken nu eindelijk verkrijgbaar als handelseditie </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Rob Wijnberg</name>
-        </author>
-        <author>
-            <name>Rosan Smits</name>
-        </author>
-        <author>
-            <name>Maaike Goslinga</name>
+            <name>Gerwin van der Werf</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De oorlog van mijn moeder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394709519/de-oorlog-van-mijn-moeder-ya%C3%ABl-vinckx</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394709519/de-oorlog-van-mijn-moeder-ya%C3%ABl-vinckx"/>
-        <updated>2026-08-11T08:05:13.487Z</updated>
-        <summary type="html"><![CDATA[een familieroman]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394709519?aid=kb-online-bibliotheek&sid=22&dts=1786379017037&sig=2e96dc7ebcd1e646a428bd31cf7637792d1f60fe4e2f950d2a5bbf55fecabecb&width=320" alt="Omslag van 'De oorlog van mijn moeder'" title="Omslag van 'De oorlog van mijn moeder'">
-<p>Het verhaal van een moeder die haar dochter ruim zestig jaar na dato vertelt over haar jeugd in bezet Nederland en de laatste jaren van Nederlands-Indië.</p>]]></content>
+        <title type="html"><![CDATA[Maandagavonden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461367610/maandagavonden-suzanne-grotenhuis---rebekka-de-wit---ellis-meeusen---freek-vielen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461367610/maandagavonden-suzanne-grotenhuis---rebekka-de-wit---ellis-meeusen---freek-vielen"/>
+        <updated>2026-08-17T07:44:56.205Z</updated>
+        <summary type="html"><![CDATA[Teksten om te lezen op een doodgewone maandagavond wanneer je nadenkt over iets groots en troost zoekt in iets kleins]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461367610?aid=kb-online-bibliotheek&sid=22&dts=1786952696026&sig=2b31445c67ed519e7d7954d35bbb48f6bc3664c08ac6f6abdd0606bb9cbf1229&width=320" alt="Omslag van 'Maandagavonden'" title="Omslag van 'Maandagavonden'">
+<p>Dit boek leest u het best op een doodgewone maandagavond. U komt thuis, trekt uw jas en schoenen uit, terwijl u in de koelkast op zoek gaat naar iets lekkers. Als u op de bank gaat zitten, denkt u aan alles wat u die dag heeft gedaan, betreurd of gehoopt. U merkt dat u op zoek bent naar iets. Of juist naar niets. Even niets. Misschien denkt u na over iets groots, misschien zoekt u troost in iets kleins. Voor al die momenten is Maandagavonden er. Een bundel schoonheid en troost in scherpe, grappige en ontroerende teksten. Al tien jaar spreken schrijvers en theatermakers Suzanne Grotenhuis, Ellis Meeusen, Freek Vielen en Rebekka de Wit af op de eerste maandagavond van de maand. Dan lezen ze elkaar teksten voor die ze speciaal voor die avond hebben geschreven. Het zijn persoonlijke teksten waarmee ze zichzelf en de tijd waarin we leven proberen te vatten. De meest herkenbare en tijdloze daarvan komen samen in dit boek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Yaël Vinckx</name>
+            <name>Suzanne Grotenhuis</name>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zeemansgraf voor een kort verhaal]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/416909876/zeemansgraf-voor-een-kort-verhaal-doroth%C3%A9e-albers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/416909876/zeemansgraf-voor-een-kort-verhaal-doroth%C3%A9e-albers"/>
-        <updated>2026-08-11T08:05:14.093Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A416909876?aid=kb-online-bibliotheek&sid=22&dts=1786380048440&sig=156cde6f220025eb47cb34ff9924bd3c61f2a50b1dc604949d79a048b23098b6&width=320" alt="Omslag van 'Zeemansgraf voor een kort verhaal'" title="Omslag van 'Zeemansgraf voor een kort verhaal'">
-<p>Familiegeschiedenis, gesitueerd in de tweede helft van de twintigste eeuw in Nederland, waarin muzikaal talent een belangrijke rol speelt in het leven van personages uit drie opeenvolgende generaties.</p>]]></content>
         <author>
-            <name>Dorothée Albers</name>
+            <name>Rebekka de Wit</name>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De strijd om de toekomst]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/420955739/de-strijd-om-de-toekomst-addie-schulte</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/420955739/de-strijd-om-de-toekomst-addie-schulte"/>
-        <updated>2026-08-11T08:05:14.643Z</updated>
-        <summary type="html"><![CDATA[Over doemscenario's en vooruitgang]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A420955739?aid=kb-online-bibliotheek&sid=22&dts=1786377624648&sig=5dccea21338162110876d4629b59964d6f189320e7cf42974d298389a2013b42&width=320" alt="Omslag van 'De strijd om de toekomst'" title="Omslag van 'De strijd om de toekomst'">
-<p>Beschouwingen over de ontwikkeling en betekenis van doemscenario's en vooruitgangsdenken voor het politieke debat en de mens zelf.</p>]]></content>
         <author>
-            <name>Addie Schulte</name>
+            <name>Ellis Meeusen</name>
+        </author>
+        <author>
+            <name>Freek Vielen</name>
         </author>
     </entry>
 </feed>
