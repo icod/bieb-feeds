@@ -2,354 +2,361 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-08-19T07:31:15.609Z</updated>
+    <updated>2026-08-20T07:34:03.657Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
-        <title type="html"><![CDATA[Yquem]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394649710/yquem-addy-kaiser</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394649710/yquem-addy-kaiser"/>
-        <updated>2026-08-18T07:30:44.808Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394649710?aid=kb-online-bibliotheek&sid=22&dts=1787038244564&sig=5b2bb7d1f452ac386de634a9e7850b20cc5c6a0f8a2b00199ed25776a0917c25&width=320" alt="Omslag van 'Yquem'" title="Omslag van 'Yquem'">
-<p>Bij het in kaart brengen van een wijnkelder in België doet een vinologe en oud-journaliste een byzondere vondst.</p>]]></content>
+        <title type="html"><![CDATA[Schouders]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt"/>
+        <updated>2026-08-17T07:44:49.037Z</updated>
+        <summary type="html"><![CDATA[3PAK]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461387301?aid=kb-online-bibliotheek&sid=22&dts=1786950406921&sig=b97f2203ad307c5789d24e89edd127475e2da07d0394b9ece0462cc3b4d576a9&width=320" alt="Omslag van 'Schouders'" title="Omslag van 'Schouders'">
+<p></p>]]></content>
         <author>
-            <name>Addy Kaiser</name>
+            <name>Harmen van Liemt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wijnoffer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394649648/wijnoffer-addy-kaiser</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394649648/wijnoffer-addy-kaiser"/>
-        <updated>2026-08-18T07:30:45.172Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394649648?aid=kb-online-bibliotheek&sid=22&dts=1787038244917&sig=44859678e0ea24ba2e54143da572c4ce65e78a3032304bfb33158714b1cefbb9&width=320" alt="Omslag van 'Wijnoffer'" title="Omslag van 'Wijnoffer'">
-<p>Een Nederlandse journaliste doet in Frankrijk onderzoek naar de mysterieuze dood van haar vriendin en van een oud-collega.</p>]]></content>
+        <title type="html"><![CDATA[Rendez-vous]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461387298/rendez-vous-simone-atangana-bekono</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461387298/rendez-vous-simone-atangana-bekono"/>
+        <updated>2026-08-17T07:44:48.848Z</updated>
+        <summary type="html"><![CDATA[3PAK]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461387298?aid=kb-online-bibliotheek&sid=22&dts=1786952688648&sig=9420f781a4a30502cf4c0981932e4651590c16efa77c1c8b3809415191d27c75&width=320" alt="Omslag van 'Rendez-vous'" title="Omslag van 'Rendez-vous'">
+<p></p>]]></content>
         <author>
-            <name>Addy Kaiser</name>
+            <name>Simone Atangana Bekono</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moord in de Dom]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394651804/moord-in-de-dom-rom-molemaker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394651804/moord-in-de-dom-rom-molemaker"/>
-        <updated>2026-08-18T07:30:48.363Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394651804?aid=kb-online-bibliotheek&sid=22&dts=1787038247803&sig=e2847141072842589528536a7f7d7e30b0e84c509cd5c8baff13ffb9d20a73d0&width=320" alt="Omslag van 'Moord in de Dom'" title="Omslag van 'Moord in de Dom'">
-<p>Een student die deel uitmaakt van de Domcantorij in Utrecht, treft het levenloze lichaam aan van een ander koorlid op de vloer van de Domkerk.</p>]]></content>
+        <title type="html"><![CDATA[De obsessie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461392917/de-obsessie-maren-stoffels</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461392917/de-obsessie-maren-stoffels"/>
+        <updated>2026-08-20T07:33:55.449Z</updated>
+        <summary type="html"><![CDATA[3PAK]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461392917?aid=kb-online-bibliotheek&sid=22&dts=1787211235205&sig=42fcbbf054d7c722dec8c528838b8d12ac581a37d8dbeb7d9f5912ba7cb46e3d&width=320" alt="Omslag van 'De obsessie'" title="Omslag van 'De obsessie'">
+<p>Wat een prachtige ogen! Eline is onder de indruk van Flow die ineens voor haar staat op een stille dag in de supermarkt waar ze werkt. Hij komt nog eens langs, ze vraagt hem om samen iets te drinken. Hij lijkt in niets op de jongens die ik ken, denkt ze. Gaandeweg ondervindt ze dat dat klopt. En hoe. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Rom Molemaker</name>
+            <name>Maren Stoffels</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heimwee heeft een kleur]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394649699/heimwee-heeft-een-kleur-guus-bauer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394649699/heimwee-heeft-een-kleur-guus-bauer"/>
-        <updated>2026-08-18T07:30:46.575Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394649699?aid=kb-online-bibliotheek&sid=22&dts=1787038246351&sig=1d5c6043163df270a763fe066019b28639a36321527c3cac310fd543afad7abd&width=320" alt="Omslag van 'Heimwee heeft een kleur'" title="Omslag van 'Heimwee heeft een kleur'">
-<p>Drie novellen.</p>]]></content>
+        <title type="html"><![CDATA[We always get our sin too]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645618/we-always-get-our-sin-too-maarten-h--rijkens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645618/we-always-get-our-sin-too-maarten-h--rijkens"/>
+        <updated>2026-08-20T07:33:55.793Z</updated>
+        <summary type="html"><![CDATA[tips om bizar Engels te vermijden]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645618?aid=kb-online-bibliotheek&sid=22&dts=1787211235541&sig=5c64607067b55c96d69e79f6106053fa30ba6fb07d6447f0efe063c80d5de73a&width=320" alt="Omslag van 'We always get our sin too'" title="Omslag van 'We always get our sin too'">
+<p>Voorbeelden van te letterlijke vertalingen van Nederlandse uitdrukkingen in het Engels.</p>]]></content>
         <author>
-            <name>Guus Bauer</name>
+            <name>Maarten H. Rijkens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zoekende zondaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393666212/zoekende-zondaar-hilbert-kuik</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393666212/zoekende-zondaar-hilbert-kuik"/>
-        <updated>2026-08-18T07:30:49.019Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393666212?aid=kb-online-bibliotheek&sid=22&dts=1787038248467&sig=2e2442151b0fd8ff47488009769578bd28cc2351b3c03306b37cac4596ac0b65&width=320" alt="Omslag van 'Zoekende zondaar'" title="Omslag van 'Zoekende zondaar'">
-<p>Een 18-jarige kamerbewoner zoekt zijn weg in het leven.</p>]]></content>
+        <title type="html"><![CDATA[De prooi]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644557/de-prooi-jeroen-smit</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644557/de-prooi-jeroen-smit"/>
+        <updated>2026-08-20T07:33:56.111Z</updated>
+        <summary type="html"><![CDATA[blinde trots breekt ABN Amro]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644557?aid=kb-online-bibliotheek&sid=22&dts=1787211235892&sig=db42bf0c2101a3a6ac39f1199bcb474076c427f4d35583821df36be238e6acd3&width=320" alt="Omslag van 'De prooi'" title="Omslag van 'De prooi'">
+<p>Geschiedenis van de overname en opsplitsing van ABN AMRO in 2007.</p>]]></content>
         <author>
-            <name>Hilbert Kuik</name>
+            <name>Jeroen Smit</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De tuinman van niemandsland]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39465207X/de-tuinman-van-niemandsland-guus-bauer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39465207X/de-tuinman-van-niemandsland-guus-bauer"/>
-        <updated>2026-08-18T07:30:45.388Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39465207X?aid=kb-online-bibliotheek&sid=22&dts=1787038216463&sig=1c9f7027c7af17ab95384f1f18c2f9900732711b5f91d0653a1f93fb0cd36c4c&width=320" alt="Omslag van 'De tuinman van niemandsland'" title="Omslag van 'De tuinman van niemandsland'">
-<p>Een houthakkersgeslacht werkt van generatie op generatie op een bosrijke heuvel in Tsjechoslowakije, maar dan wordt de keten doorbroken.</p>]]></content>
+        <title type="html"><![CDATA[Doe maar gewoon]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644905/doe-maar-gewoon-hans-kaldenbach</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644905/doe-maar-gewoon-hans-kaldenbach"/>
+        <updated>2026-08-20T07:33:56.467Z</updated>
+        <summary type="html"><![CDATA[99 tips voor het omgaan met Nederlanders]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644905?aid=kb-online-bibliotheek&sid=22&dts=1787211236235&sig=44c2a8071269dd2a049b3370928e17d272397d11828175d127de1b235c944ab5&width=320" alt="Omslag van 'Doe maar gewoon'" title="Omslag van 'Doe maar gewoon'">
+<p>Als u bij een Nederlander op bezoek gaat, dan krijgt u vaak meteen een kopje koffie of thee. Dat betekent niet dat u snel weer weg moet, maar juist dat u van harte welkom bent. U krijgt bij ieder kopje één koekje en daarna gaat de koektrommel dicht. Nederlanders vinden dat helemaal niet onhartelijk van zichzelf. Meestal krijgt u na uw eerste kopje nog een tweede kopje, ook weer met één koekje. Dit is één van de 99 observaties uit Doe maar gewoon, een luchtige gebruiksaanwijzing voor iedereen die in het dagelijks leven al dan niet vrijwillig geconfronteerd wordt met Nederlanders. In deze kleine en gezellige cultuurschets wordt de hedendaagse Nederlandse etiquette op rake wijze beschreven. Af en toe mag de auteur verdacht worden van lichte spotternij, maar nooit kan getwijfeld worden aan zijn deskundigheid. Doe maar gewoon houdt Nederlanders een plezierige lachspiegel voor. Tevens kan het dienst doen als een compacte en nuttige handleiding voor de vele buitenlanders die zich in Nederland gevestigd hebben. Doe maar gewoon is vertaald in het Duits, Arabisch en Engels. Hans Kaldenbach is adviseur bij ACTA Kaldenbach en bij Centro, de contractafdeling van de Hogeschool van Utrecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Guus Bauer</name>
+            <name>Hans Kaldenbach</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ontvreemd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39366578X/ontvreemd-hilbert-kuik</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39366578X/ontvreemd-hilbert-kuik"/>
-        <updated>2026-08-18T07:30:47.678Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39366578X?aid=kb-online-bibliotheek&sid=22&dts=1787038099416&sig=975cdb1f365308c271f9549fa7732e8bbe86405bd9492fc1265122b2690b9e7e&width=320" alt="Omslag van 'Ontvreemd'" title="Omslag van 'Ontvreemd'">
-<p>Als hij de aanval op zijn ex-collega onderzoekt, stuit een psychotherapeut op een complot dat is gericht tegen het Joegoslaviëtribunaal.</p>]]></content>
+        <title type="html"><![CDATA[Respect!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644913/respect--hans-kaldenbach</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644913/respect--hans-kaldenbach"/>
+        <updated>2026-08-20T07:33:56.697Z</updated>
+        <summary type="html"><![CDATA[99 tips voor het omgaan met jongeren in de straatcultuur]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644913?aid=kb-online-bibliotheek&sid=22&dts=1787210579310&sig=0ee6de3cd991459de7edbd593da775fed16fcc2a32a19f51275625fb34042e59&width=320" alt="Omslag van 'Respect!'" title="Omslag van 'Respect!'">
+<p>Hans Kaldenbach Respect! Hoe kan een conciërge een wapengevaarlijke jongen verwijderen van het schoolplein? Hoe kunt u plassende hangjongeren uit uw portiek weg krijgen? Hoe kan de politie een bekentenis krijgen van jongeren die altijd ontkennen? Respect! is een praktisch boek over jongeren die zich niet laten corrigeren. Het geeft concrete tips voor effectief gedrag, zowel voor individuele correctie als voor corrigeren in groepsverband. Over welke jongeren gaat het? Als je ze corrigeert geven ze jou het gevoel dat je een zeikerd bent. Ze zullen nooit toegeven dat ze iets gedaan hebben. Ze kennen geen nee. Ze gáán maar door. Ze praten op een hondsbrutale, denigrerende toon tegen je. Je voelt hun minachting, zeker als je vrouw bent. Ze zeggen meteen dat je ze discrimineert. Ze eisen respect maar geven dat zelf juist niet. Respect! is luchtig en puntsgewijs opgebouwd in 99 korte verhelderende paragrafen. Hans Kaldenbach is onder meer bekend van Doe maar gewoon, 99 tips voor het omgaan met Nederlanders. Hij heeft politieagenten, docenten, zwembadpersoneel en vele anderen getraind in de moeilijkste buurten van Nederland. Zijn leidraad is: u kunt de wind niet veranderen, maar hoe de zeilen staan, bepaalt u zelf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Hilbert Kuik</name>
+            <name>Hans Kaldenbach</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geen plek om te sterven]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/393665933/geen-plek-om-te-sterven-hilbert-kuik</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/393665933/geen-plek-om-te-sterven-hilbert-kuik"/>
-        <updated>2026-08-18T07:30:47.411Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A393665933?aid=kb-online-bibliotheek&sid=22&dts=1787038246686&sig=921765efe2846c585b47993cedf547808bf39dbb72ecae12918f3a3cb98aa121&width=320" alt="Omslag van 'Geen plek om te sterven'" title="Omslag van 'Geen plek om te sterven'">
-<p>Na het lezen van een verslag over een driedubbele moord in 1969 gaat een man samen met de verdachte van toen op zoek naar de echte dader.</p>]]></content>
+        <title type="html"><![CDATA[Jihad met sambal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645731/jihad-met-sambal-step-vaessen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645731/jihad-met-sambal-step-vaessen"/>
+        <updated>2026-08-20T07:33:57.072Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645731?aid=kb-online-bibliotheek&sid=22&dts=1787211236810&sig=9ede59809fc0d727d3584d2f5b465d04c03d5fd1cebab3e097406c03b0e5da9a&width=320" alt="Omslag van 'Jihad met sambal'" title="Omslag van 'Jihad met sambal'">
+<p>De Nederlandse televisieverslaggeefster voor de NOS en later Al Jazeera vertelt over haar (persoonlijke) ervaringen in Indonesië, het grootste moslimland ter wereld.</p>]]></content>
         <author>
-            <name>Hilbert Kuik</name>
+            <name>Step Vaessen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cuba Libre]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394651340/cuba-libre-michel-van-rijn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394651340/cuba-libre-michel-van-rijn"/>
-        <updated>2026-08-18T07:30:46.219Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394651340?aid=kb-online-bibliotheek&sid=22&dts=1787038245494&sig=b6a0bb7bdeb23f312201eaa5dd39b98c7861148f0651365039ee03ab6fae1b73&width=320" alt="Omslag van 'Cuba Libre'" title="Omslag van 'Cuba Libre'">
-<p>Terwijl een kunstsmokkelaar op Cuba is om schatten uit een oud galjoen op de kop te tikken, bieden neonazi's Raoul Castro een geavanceerd lipleesprogramma aan waarmee hij de Verenigde Staten kan chanteren.</p>]]></content>
+        <title type="html"><![CDATA[Het maakbare brein]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39462288X/het-maakbare-brein-margriet-sitskoorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39462288X/het-maakbare-brein-margriet-sitskoorn"/>
+        <updated>2026-08-20T07:33:57.429Z</updated>
+        <summary type="html"><![CDATA[gebruik je hersens en word wie je wilt zijn]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39462288X?aid=kb-online-bibliotheek&sid=22&dts=1787211237179&sig=166ecbd11a168f017688ae3e1bc3273d59bb5cd6352217e928843d7707745539&width=320" alt="Omslag van 'Het maakbare brein'" title="Omslag van 'Het maakbare brein'">
+<p>Kun je op volwassen leeftijd nog een rekenwonder worden, doorzettingsvermogen verkrijgen of je angsten overwinnen? Dat kan, want onze hersenen zijn in staat tot reorganisatie en zelfvernieuwing: er ontstaan nieuwe verbindingen in het brein en er worden nieuwe cellen aangemaakt. Hierdoor kunnen we onszelf op alle fronten blijven ontwikkelen. Het maakbare brein beschrijft hoe de hersenen zich ontwikkelen en hoe dit zich verhoudt tot het leren van een tweede taal, een absoluut gehoor of het onderdrukken van impulsen. Bijzondere levensverhalen laten zien dat gedrag en omgeving je hersenen vormen en je vermogens bepalen: een violiste die een kwart van haar hersenen verloor kon toch professioneel blijven spelen, en een jongen die door kippen werd opgevoed veranderde zijn kippengedrag in menselijk gedrag. Aan de hand van de laatste inzichten uit het hersenonderzoek en voorbeelden uit de praktijk laat Margriet Sitskoorn zien hoe we door ons gedrag zélf onze hersenen kunnen vormen en zo beter kunnen functioneren. Het maakbare brein geeft een handreiking voor sterker hersenwerk en een krachtige persoonlijke ontwikkeling. Margriet Sitskoorn is neuropsycholoog en associate professor bij het Universitair Medisch Centrum Utrecht. Zij verricht onder andere onderzoek naar de relatie tussen gedrag en de plasticiteit van het menselijk brein. Ze schrijft naast haar wetenschappelijke werk columns voor verschillende populair-wetenschappelijke bladen en verleende haar medewerking aan meerdere tv-programmas. Sitskoorn kan goed vertellen. Haar wonderbaarlijke verhalen doen denken aan de boeken van Oliver Sacks. nederlands dagblad Heel fijn is dat het boek korte metten maakt met het deprimerende idee dat je hersenen rond je twintigste klaar zijn en dat het daarna alleen bergafwaarts gaat. psychologie magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Michel van Rijn</name>
+            <name>Margriet Sitskoorn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wachten op de moesson]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394648021/wachten-op-de-moesson-threes-anna</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394648021/wachten-op-de-moesson-threes-anna"/>
-        <updated>2026-08-18T07:30:50.708Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394648021?aid=kb-online-bibliotheek&sid=22&dts=1787038250170&sig=f551f4d98a632fc029d9061589b8c1d8b9dc81ecd9680300e6bef69053d88d8d&width=320" alt="Omslag van 'Wachten op de moesson'" title="Omslag van 'Wachten op de moesson'">
-<p>In India in 1995 ontstaat tussen een Britse dame en een eenvoudige plaatselijke kleermaker een bijzondere relatie.</p>]]></content>
+        <title type="html"><![CDATA[Tegenwicht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39462291X/tegenwicht-jaap-seidell---jutka-halberstadt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39462291X/tegenwicht-jaap-seidell---jutka-halberstadt"/>
+        <updated>2026-08-20T07:33:57.761Z</updated>
+        <summary type="html"><![CDATA[feiten en fabels over overgewicht]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39462291X?aid=kb-online-bibliotheek&sid=22&dts=1787211237540&sig=c11bfa7cf06ae23c96deb363041cc9455351b104a286ec98a75e153e3a9f0a62&width=320" alt="Omslag van 'Tegenwicht'" title="Omslag van 'Tegenwicht'">
+<p>We wonen tegenwoordig in Luilekkerland. De mensheid is erin geslaagd voor een toenemend deel van de wereldbevolking voedsel in overvloed te produceren. Ruim vijfhonderd miljoen mensen hebben als gevolg hiervan nu ernstig overgewicht. Velen kunnen om fysieke, sociale of psychologische redenen geen weerstand bieden aan de overvloed en worstelen daardoor met hun gewicht. Diëten, pillen en poeders die een quick fix beloven, zijn voor hen niet de oplossing. Hoe kunnen we tegenwicht bieden aan de verleidingen om ons heen die leiden tot vetzucht en chronische ziekten? In Tegenwicht wordt het probleem van overgewicht beschreven vanuit een wetenschappelijk en maatschappelijk perspectief. Hoogleraar voeding en gezondheid Jaap Seidell en psycholoog en onderzoeker Jutka Halberstadt analyseren de oorzaken en gevolgen van overgewicht bij volwassenen en kinderen, ontkrachten de vele mythes en misverstanden daarover en bieden oplossingen voor de toekomst. Tegenwicht is een must voor professionals in het beleid, het onderwijs en de gezondheidszorg en natuurlijk voor de mensen die zelf dagelijks vechten tegen de kilos. Over Tegenwicht: Martijn B. Katan, hoogleraar voedingsleer, Vrije Universiteit Amsterdam: Wie dit boek gelezen heeft, begrijpt beter dan de meeste zogenaamde experts waarom we dik worden en wat ertegen te doen is. Hanneke Groenteman, journaliste: Tegenwicht had ik willen lezen voor ik, verblind door valse hoop, van dieet naar dieet worstelde. Een leerzaam en troostrijk boek. Kelly D. Brownell, hoogleraar Yale University, VS: Professor Seidell is one of the worlds leading experts on the prevention and management of obesity. His work is a shining example of quality and integrity, and has remarkable vision. Paul Rosenmöller, voorzitter Convenant Gezond Gewicht: Tegenwicht is het perfecte boek op het perfecte moment. Het belang van een gezonde leefstijl wordt alom onderkend, maar met dit boek in een breder perspectief geplaatst. Seidell analyseert, polemiseert en stimuleert. De zin en onzin worden scherp van elkaar onderscheiden. En hoewel de basis wetenschappelijk is, is het boek buitengewoon toegankelijk. Tegenwicht is verplichte kost zonder calorieën. Hans van Maanen, wetenschapsjournalist: Ik heb het met erg veel plezier gelezen eindelijk een verstandig boek over overgewicht, zonder die stiekem verwijtende ondertoon die in andere boeken zit. Over de auteurs: Jaap Seidell is hoogleraar voeding en gezondheid en directeur van de afdeling gezondheidswetenschappen aan de Vrije Universiteit en het VU medisch centrum in Amsterdam. Hij is een internationaal gerenommeerd onderzoeker op het gebied van zowel de oorzaken en gevolgen van overgewicht en obesitas als de effectiviteit van overgewichtpreventie en obesitaszorg. Hij is vanwege zijn kennis een veelgevraagd adviseur van organisaties in binnen- en buitenland zoals de Wereldgezondheidsorganisatie, de Gezondheidsraad, overheden, consumentenorganisaties en organisaties van patiënten en zorgverleners. Jutka Halberstadt is psycholoog en doet onderzoek naar obesitas aan de Vrije Universiteit in Amsterdam. Zij is tevens projectleider bij het Partnerschap Overgewicht Nederland. Voorheen schreef zij als journalist voor onder meer de Volkskrant en Psychologie Magazine over voeding, gedrag en gezondheid, maar ook over bredere maatschappelijke problemen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Threes Anna</name>
+            <name>Jaap Seidell</name>
+        </author>
+        <author>
+            <name>Jutka Halberstadt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het laatste land]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394653327/het-laatste-land-threes-anna</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394653327/het-laatste-land-threes-anna"/>
-        <updated>2026-08-18T07:30:49.360Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394653327?aid=kb-online-bibliotheek&sid=22&dts=1787038249147&sig=4881a555186b3b5a6d57711fb1759eeecda7288342d493fe91705776660d60f7&width=320" alt="Omslag van 'Het laatste land'" title="Omslag van 'Het laatste land'">
-<p>Een grote storm heeft grote invloed op het leven op een afgelegen noordelijk eiland.</p>]]></content>
+        <title type="html"><![CDATA[Lang leven de hersenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394622936/lang-leven-de-hersenen-margriet-sitskoorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394622936/lang-leven-de-hersenen-margriet-sitskoorn"/>
+        <updated>2026-08-20T07:33:58.013Z</updated>
+        <summary type="html"><![CDATA[positieve prikkels voor hersenen die ouder worden]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622936?aid=kb-online-bibliotheek&sid=22&dts=1787206837550&sig=05d6e130e1fce0f7240811d460a3b21a91495b491d0405a56625edbd571cf0bf&width=320" alt="Omslag van 'Lang leven de hersenen'" title="Omslag van 'Lang leven de hersenen'">
+<p>Columns over de veranderingen, met name in positieve zin, in het geheugen en het denken bij het ouder worden.</p>]]></content>
         <author>
-            <name>Threes Anna</name>
+            <name>Margriet Sitskoorn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De stille stad]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394653947/de-stille-stad-threes-anna</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394653947/de-stille-stad-threes-anna"/>
-        <updated>2026-08-18T07:30:50.056Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394653947?aid=kb-online-bibliotheek&sid=22&dts=1787038249825&sig=2779804c6f2b0dea8cb9668a71babb1ee4668f933248bed09eef244ea115adcb&width=320" alt="Omslag van 'De stille stad'" title="Omslag van 'De stille stad'">
-<p>Als een Nederlands meisje stage loopt in een wereldberoemd visrestaurant in Tokio, krijgt ze een hevige cultuurschok.</p>]]></content>
+        <title type="html"><![CDATA[Conservatieve vooruitgang]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623177/conservatieve-vooruitgang-thierry-baudet</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623177/conservatieve-vooruitgang-thierry-baudet"/>
+        <updated>2026-08-20T07:33:58.240Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623177?aid=kb-online-bibliotheek&sid=22&dts=1787208350025&sig=8d9c44f8023175aa658d82cb1b7704d8ec83df8ca17a93e0a3e04323a58fba02&width=320" alt="Omslag van 'Conservatieve vooruitgang'" title="Omslag van 'Conservatieve vooruitgang'">
+<p>Portretten van twintig belangrijke conservatieve denkers uit de twintigste eeuw.</p>]]></content>
         <author>
-            <name>Threes Anna</name>
+            <name>Thierry Baudet</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ideale ouders]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394650654/ideale-ouders-alex-van-galen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394650654/ideale-ouders-alex-van-galen"/>
-        <updated>2026-08-18T07:30:49.709Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394650654?aid=kb-online-bibliotheek&sid=22&dts=1787038249474&sig=e25a8d50f80c67fe740ebb1052e3503a4491d1f0fe54dfd8ed868d95129bdaf5&width=320" alt="Omslag van 'Ideale ouders'" title="Omslag van 'Ideale ouders'">
-<p>Als een vrouw vijftien jaar nadat zij haar baby gedwongen heeft moeten afstaan, ontdekt dat hij niet is overleden zoals haar is verteld, stelt ze alles in het werk om hem op te sporen.</p>]]></content>
+        <title type="html"><![CDATA[De aanval op de natiestaat]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623053/de-aanval-op-de-natiestaat-thierry-baudet</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623053/de-aanval-op-de-natiestaat-thierry-baudet"/>
+        <updated>2026-08-20T07:33:58.589Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623053?aid=kb-online-bibliotheek&sid=22&dts=1787211238341&sig=7d495503fbc7d776693e3bf01c637df034ca340b1d7c4edd4d96218f39c1e2a9&width=320" alt="Omslag van 'De aanval op de natiestaat'" title="Omslag van 'De aanval op de natiestaat'">
+<p>Kritische beschouwing over de voortschrijdende Europese eenwording, die de nationale staat en daarmee de democratische rechtsstaat zou bedreigen.</p>]]></content>
         <author>
-            <name>Alex van Galen</name>
+            <name>Thierry Baudet</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[College tour met Willem Holleeder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39467202X/college-tour-met-willem-holleeder-twan-huys</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39467202X/college-tour-met-willem-holleeder-twan-huys"/>
-        <updated>2026-08-19T07:31:14.609Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39467202X?aid=kb-online-bibliotheek&sid=22&dts=1787066617785&sig=cc7b97c83ca0d4882063069041f55d37765309bbd66035c576a917680d8bcd11&width=320" alt="Omslag van 'College tour met Willem Holleeder'" title="Omslag van 'College tour met Willem Holleeder'">
-<p>Zonder uitzondering zijn de gasten van NTR College Tour meesters in hun vak. Twan Huys, de bedenker en presentator van het programma, verzamelde de indrukwekkendste verhalen en de opvallendste anekdotes. Hij geeft in Dertien meesters en één crimineel een uniek kijkje achter de schermen van zijn spraakmakende show. In dit ebook, College Tour met Willem Holleeder zijn de mooiste en spraakmakendste momenten uit de uitzending met Willem Holleeder te zien als ingevoegde filmfragmenten. De mogelijkheid om de fragmenten af te spelen is afhankelijk van het gebruikte apparaat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Handboek voor de liefdespanter]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645952/handboek-voor-de-liefdespanter-jan-heemskerk---marcel-langedijk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645952/handboek-voor-de-liefdespanter-jan-heemskerk---marcel-langedijk"/>
+        <updated>2026-08-20T07:33:58.830Z</updated>
+        <summary type="html"><![CDATA[succesgids voor de kansloze casanova]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645952?aid=kb-online-bibliotheek&sid=22&dts=1787209067196&sig=ffa9ba5456bf9771f0f9f719667ad96215ab37b31309cb88c19c7f707ada5860&width=320" alt="Omslag van 'Handboek voor de liefdespanter'" title="Omslag van 'Handboek voor de liefdespanter'">
+<p>Humoristische adviezen voor mannen die vrouwen willen versieren.</p>]]></content>
         <author>
-            <name>Twan Huys</name>
+            <name>Jan Heemskerk</name>
+        </author>
+        <author>
+            <name>Marcel Langedijk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Heimwee heeft een kleur]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394655052/heimwee-heeft-een-kleur-guus-bauer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394655052/heimwee-heeft-een-kleur-guus-bauer"/>
-        <updated>2026-08-18T07:30:51.459Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394655052?aid=kb-online-bibliotheek&sid=22&dts=1787038251248&sig=6ca4192503093ae85c2946432094c95b74231227db43519957d07345b5b37cc7&width=320" alt="Omslag van 'Heimwee heeft een kleur'" title="Omslag van 'Heimwee heeft een kleur'">
-<p>Drie novellen.</p>]]></content>
+        <title type="html"><![CDATA[Het voorseizoen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394646096/het-voorseizoen-david-pefko</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394646096/het-voorseizoen-david-pefko"/>
+        <updated>2026-08-20T07:33:59.147Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646096?aid=kb-online-bibliotheek&sid=22&dts=1787211238952&sig=d267f7e0e42e0cfe3d08f8e9110583a80b6915c15d239a354f6666a538ec01dc&width=320" alt="Omslag van 'Het voorseizoen'" title="Omslag van 'Het voorseizoen'">
+<p>Nadat zijn vrouw hem verlaten heeft, raakt een middelbare politierechercheur in een midlife-crisis.</p>]]></content>
         <author>
-            <name>Guus Bauer</name>
+            <name>David Pefko</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Je bent zelden getuige]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394655079/je-bent-zelden-getuige-guus-bauer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394655079/je-bent-zelden-getuige-guus-bauer"/>
-        <updated>2026-08-18T07:30:52.660Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394655079?aid=kb-online-bibliotheek&sid=22&dts=1787038252132&sig=5f07d8d9c5409cdaecf07e72634494fbf92a2cde0514d8156180c955e0d65eb2&width=320" alt="Omslag van 'Je bent zelden getuige'" title="Omslag van 'Je bent zelden getuige'">
-<p>Je bent zelden getuige van aardverschuivingen in de geschiedenis. Altmann woont in West-Berlijn en is een ziekelijke patissier. Novak is exact even oud, een spierbundel vanjewelste en oefent hetzelfde vak uit, in Oost-Berlijn. In het westen worden de opbrengsten van een door Altmann uitgevonden succestaartje door zijn baas de hotelier opgestreken. Novak slaagt erin om een exacte kopie te maken. Dat taartje wordt vernoemd naar de vriendin van een partijbons, degene die revenuen aldaar in zijn zak steekt. Dan valt de Muur. Waar de meeste auteurs bij het beschrijven van de Wende zouden kiezen voor de euforie, voor de massa, kiest Bauer voor de eenling. Novak steekt in zijn eentje de grens over en wordt als vanzelf getrokken naar het hotel waar Altmann ooit werkte en nog dagelijks een drankje neemt. Is het toeval dat ze exact op dezelfde dag zijn geboren? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het gaat geweldig]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623223/het-gaat-geweldig-michiel-bicker-caarten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623223/het-gaat-geweldig-michiel-bicker-caarten"/>
+        <updated>2026-08-20T07:33:59.375Z</updated>
+        <summary type="html"><![CDATA[100 feiten die u een andere kijk op de wereld geven]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623223?aid=kb-online-bibliotheek&sid=22&dts=1787209690179&sig=cb9fe6910a623fec1398e833469682387c5cb2b2a9eaaea6218181fefb0f40a1&width=320" alt="Omslag van 'Het gaat geweldig'" title="Omslag van 'Het gaat geweldig'">
+<p>Optimistische visie op de huidige wereldproblemen en de mogelijkheden om deze op te lossen.</p>]]></content>
         <author>
-            <name>Guus Bauer</name>
+            <name>Michiel Bicker Caarten</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soldaat van oranje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394672542/soldaat-van-oranje-erik-hazelhoff-roelfzema</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394672542/soldaat-van-oranje-erik-hazelhoff-roelfzema"/>
-        <updated>2026-08-18T07:30:51.776Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394672542?aid=kb-online-bibliotheek&sid=22&dts=1787038251575&sig=0b8baef7e001053cbe6d5a3bdfaedb22bbedffe1b2579bdadf5c9bb39683f9cd&width=320" alt="Omslag van 'Soldaat van oranje'" title="Omslag van 'Soldaat van oranje'">
-<p>Dit e-book uit de serie PrismaDyslexie bevat het lettertype Dyslexie. De letters van dit lettertype zijn zodanig aangepast dat dyslectici minder moeite hebben ze van elkaar te onderscheiden, waardoor er minder leesfouten gemaakt worden en het lezen gemakkelijker wordt. Soldaat van Oranje is niet alleen een spannend verhaal maar ook een historisch document over de Tweede Wereldoorlog. Prins Bernhard schreef niet voor niets over dit boek: 'Ik ben erbij geweest, en zo was het.' Soldaat van Oranje is een van de beroemdste boeken over de Tweede Wereldoorlog. Erik Hazelhoff Roelfzema (1917-2007) beschrijft hierin zijn persoonlijke belevenissen tijdens de bezetting en ten tijde van de bevrijding. De Soldaat van Oranje vertelt hoe hij als jongeman in 1941 de oversteek naar Engeland waagt, in Londen in allerlei intriges verwikkeld raakt, kennismaakt met de geheime diensten, nachtelijke landingen uitvoert in Scheveningen en als RAF-piloot meedoet aan een luchtaanval op Berlijn. Nadat het zuiden van Nederland is bevrijd, werkt hij daar als adjudant van koningin Wilhelmina. In 1977 werd Soldaat van Oranje verfilmd onder regie van Paul Verhoeven met in de hoofdrollen Jeroen Krabbé en Rutger Hauer. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Makke schapen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623169/makke-schapen-paul-kalma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623169/makke-schapen-paul-kalma"/>
+        <updated>2026-08-20T07:33:59.678Z</updated>
+        <summary type="html"><![CDATA[over volgzame burgers en vluchtige politiek]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623169?aid=kb-online-bibliotheek&sid=22&dts=1787211239486&sig=8cbc0e5be250e935d0784fa57ed27588351c68744a72ef7ec2bcbe7e6652e69b&width=320" alt="Omslag van 'Makke schapen'" title="Omslag van 'Makke schapen'">
+<p>Pleidooi vanuit sociaaldemocratische hoek voor meer democratische burgerinitiatieven om maatschappelijke veranderingen niet langer alleen aan de politici over te laten.</p>]]></content>
         <author>
-            <name>Erik Hazelhoff Roelfzema</name>
+            <name>Paul Kalma</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het geheim van Treurwegen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394654218/het-geheim-van-treurwegen-guus-bauer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394654218/het-geheim-van-treurwegen-guus-bauer"/>
-        <updated>2026-08-18T07:30:51.117Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394654218?aid=kb-online-bibliotheek&sid=22&dts=1787038250834&sig=0ffd3aafed02b77e866d952cce6c8dc1873a1153aab09f4b932c278f6ab600c3&width=320" alt="Omslag van 'Het geheim van Treurwegen'" title="Omslag van 'Het geheim van Treurwegen'">
-<p>In de Eerste Wereldoorlog probeert een Vlaamse tiener naar het neutrale Nederland te vluchten, waarbij hij in een reeks van wonderlijke avonturen belandt.</p>]]></content>
+        <title type="html"><![CDATA[Frans Goedhart]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623134/frans-goedhart-madelon-de-keizer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623134/frans-goedhart-madelon-de-keizer"/>
+        <updated>2026-08-20T07:33:59.887Z</updated>
+        <summary type="html"><![CDATA[journalist en politicus (1904-1990); een biografie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623134?aid=kb-online-bibliotheek&sid=22&dts=1787211175589&sig=1dde5734314d6588f29e62c6973f7d344bd6da95881b4816bc1879075935ba67&width=320" alt="Omslag van 'Frans Goedhart'" title="Omslag van 'Frans Goedhart'">
+<p>Felle conflicten en grote controverses kenmerkten het leven van de markante Nederlandse journalist en politicus Frans Goedhart. Geboren in het decennium voor de Eerste Wereldoorlog en overleden enkele maanden na de val van de Muur omspande zijn leven bijna de hele twintigste eeuw. Een belangrijk deel van die tijd was hij ongekend politiek actief waarbij hij alle politieke uitdagingen van zijn tijd het hoofd bood in woord en geschrift - en vaak op scherpe en humoristische wijze. Maar Frans Goedhart, journalist en politicus is ook het verhaal van een onbegrepen held, wiens taaie vasthoudendheid als behoudzucht en scherpe observaties als uitingen van blinde obsessie werden geïnterpreteerd. Een man die zich aan niets en niemand iets gelegen liet liggen en die stond voor zijn opvattingen. Frans Goedhart stelde zijn hele leven in dienst van de strijd tegen de dictatuur. In de Tweede Wereldoorlog als de spraakmakende en invloedrijke Pieter 't Hoen van het verzetsblad Het Parool, na de oorlog als omstreden Parool-commentator en een kwarteeuw lang als kritisch buitenlandspecialist van de PvdA. Deze onthullende biografie biedt een nieuwe en verrassende blik op hoe een groot Nederlands politicus en journalist worstelde met de machten van zijn tijd, niet alleen voor en in de oorlog, maar ook nadien: in de Raad van Europa, via het door de cia gesubsidieerde Radio Free Europe, als navo-parlementariër en als Tweede Kamerlid, dat in 1970 dramatisch afscheid nam van de sociaaldemocratie. Madelon de Keizer is historicus en verbonden aan het niod. Zij promoveerde cum laude op Het Parool 1940-1945. Verzetsblad in Oorlogstijd en publiceerde veel over de Nederlandse geschiedenis van de twintigste eeuw, zoals Putten. De razzia en de herinnering (1998) en in 2010 met Marije Plomp Een open zenuw. Hoe wij ons de Tweede Wereldoorlog herinneren. In 2005-2006 was zij verbonden aan Harvard University. In dat kader verscheen De dochter van een gazan. Carry van Bruggen en de Nederlandse samenleving 1900-1930 (2006). 'Een prachtige biografie en een uniek portret van een uitzonderlijk twintigste-eeuwse politicus.' hans daalder - biograaf van willem drees 'Dit boek is een indringend verslag van de politieke levensloop van een fysieke en intellectuele held, voor wie de bestrijding van elke vorm van dictatuur, zowel van voor 1945 als van daarna, een zelfgekozen opdracht was.' wim van norden - oud-directeur van het parool 'De Koude Oorlog en de angst van het Westen voor de communistische ondermijning van de democratische westerse samenleving herleeft in deze met empathie en groot gevoel voor scherpe analyse van de mens, journalist en politicus Frans Goedhart geschreven biografie.' albert kersten - biograaf van jozef luns </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Guus Bauer</name>
+            <name>Madelon de Keizer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De koperslager en het grauw]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394655060/de-koperslager-en-het-grauw-guus-bauer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394655060/de-koperslager-en-het-grauw-guus-bauer"/>
-        <updated>2026-08-18T07:30:53.196Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394655060?aid=kb-online-bibliotheek&sid=22&dts=1787038232486&sig=95dd0850041c7637290c8fae715ab5f16abf1fc68f4639f513a4d6f39c254419&width=320" alt="Omslag van 'De koperslager en het grauw'" title="Omslag van 'De koperslager en het grauw'">
-<p>In De koperslager en het grauw hebben de communisten letterlijk elke kleur in het dorp verboden. De steenhouwer en doodgraver Clemens en zijn schoonvader Domin, een koperslager, komen hiertegen in opstand nadat ze filmrollen hebben gevonden met opnames uit een ver verleden. Er staan beelden op van de oogst, van kinderen die in de rivier aan het spelevaren zijn en van een smid die lachend een paard beslaat voor een meisje in bloemetjesjurk. Gesterkt door het verleden gaan Clemens en Domin letterlijk ondergronds en doen het dictatoriale regime op hun grondvesten schudden. Het verboden gebied moest worden opengesteld en de strook land die van niemand was, moest weer van iedereen worden. De muur die de mensen scheidde moest worden afgebroken. Een sprookje als meest wrede afspiegeling van de werkelijkheid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Bikkel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623282/bikkel-rudie-kagie</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623282/bikkel-rudie-kagie"/>
+        <updated>2026-08-20T07:34:00.254Z</updated>
+        <summary type="html"><![CDATA[het verhaal van de eerste politieke moord van het Bouterse-regime]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623282?aid=kb-online-bibliotheek&sid=22&dts=1787211239994&sig=a96ca2d8fdb244eb8f74f5ffb423497120c46a109e6e455211b68659466147b8&width=320" alt="Omslag van 'Bikkel'" title="Omslag van 'Bikkel'">
+<p>Leven en dood van Fred Ormskerk (1925-1980), een Surinaamse militair die vanwege zijn kritische houding tegenover door het regiem-Bouters werd omgebracht.</p>]]></content>
         <author>
-            <name>Guus Bauer</name>
+            <name>Rudie Kagie</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solliciteren via LinkedIn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394672771/solliciteren-via-linkedin-aaltje-vincent---jacco-valkenburg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394672771/solliciteren-via-linkedin-aaltje-vincent---jacco-valkenburg"/>
-        <updated>2026-08-18T07:30:53.866Z</updated>
-        <summary type="html"><![CDATA[dyslexie vriendelijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394672771?aid=kb-online-bibliotheek&sid=22&dts=1787038253304&sig=b762cfe5a0142202a1b1f6c3e996b5cc837f14ee42868cdf9a96c22ecd7f487d&width=320" alt="Omslag van 'Solliciteren via LinkedIn'" title="Omslag van 'Solliciteren via LinkedIn'">
-<p>Lekker lezen ondanks dyslexie Dit ebook uit de serie PrismaDyslexie bevat het lettertype Dyslexie. De letters van dit lettertype zijn zodanig aangepast dat dyslectici minder moeite hebben ze van elkaar te onderscheiden, waardoor er minder leesfouten gemaakt worden en het lezen gemakkelijker wordt. Solliciteren via LinkedIn Als sinds 2009 het bestverkochte sollicitatieboek!</p><p>Complete en actuele tiende editie! Netwerken is dé manier om nieuw werk te vinden. Dit gebeurt steeds meer online. Vooral LinkedIn is een veelgebruikt netwerk om je zakelijke contacten mee te onderhouden. Daarmee is het uitermate geschikt om gevonden te worden, een nieuwe baan te zoeken of opdrachten voor je bedrijf binnen te halen. Tijd om er actief gebruik van te maken en de mogelijkheden volledig te benutten. Voor werkzoekers, werknemers, zelfstandigen, loopbaanprofessionals en carrièrecoaches Praktisch, stap voor stap: wat kun je ermee en hoe dat je dat dan? Boordevol unieke en succesvol bewezen netwerk-, internet- en carrièretips Voor de beginnende én gevorderde LinkedIn-gebruiker  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Wij zijn maar wij zijn niet geschift]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645758/wij-zijn-maar-wij-zijn-niet-geschift-tim-krabbe-</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645758/wij-zijn-maar-wij-zijn-niet-geschift-tim-krabbe-"/>
+        <updated>2026-08-20T07:34:00.455Z</updated>
+        <summary type="html"><![CDATA[de schietpartij van Columbine]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645758?aid=kb-online-bibliotheek&sid=22&dts=1787211220485&sig=8a5fc036304df2326729b49c4a6bed140a64ea030faf30534e4e4b31dc4359e8&width=320" alt="Omslag van 'Wij zijn maar wij zijn niet geschift'" title="Omslag van 'Wij zijn maar wij zijn niet geschift'">
+<p>Reconstructie van de schietpartij op Columbine High School in 1999 waarbij dertien dodelijke slachtoffers vielen, met een onderzoek naar de achtergronden van de 17- en 18-jarige daders.</p>]]></content>
         <author>
-            <name>Aaltje Vincent</name>
-        </author>
-        <author>
-            <name>Jacco Valkenburg</name>
+            <name>Tim Krabbé</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lezen, weten en niet vergeten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/395607558/lezen--weten-en-niet-vergeten-mark-tigchelaar</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/395607558/lezen--weten-en-niet-vergeten-mark-tigchelaar"/>
-        <updated>2026-08-18T07:30:54.509Z</updated>
-        <summary type="html"><![CDATA[dyslexie vriendelijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A395607558?aid=kb-online-bibliotheek&sid=22&dts=1787038253977&sig=9d84daba2bd948d1174bfae35ad4d6d3984dda1e7410d2b0d30a5302a4b7476b&width=320" alt="Omslag van 'Lezen, weten en niet vergeten'" title="Omslag van 'Lezen, weten en niet vergeten'">
-<p>Informatie sneller en makkelijker opnemen, verwerken en onthouden - nu in lettertype Dyslexie! Mark Tigchelaar kreeg kort voordat hij cognitieve psychologie ging studeren te horen dat hij zwaar dyslectisch is. Gedurende zijn studie heeft hij zich gespecialiseerd in hoe mensen meer uit hun hersenen kunnen halen. Mark is breinexpert en heeft al meer dan 70.000 mensen mogen opleiden in de technieken om meer uit het brein te halen. 93% van de mensen is snel afgeleid tijdens het lezen 84% kan de volgende dag de informatie niet meer reproduceren 72% scant alleen maar informatie, omdat ze te langzaam lezen om alles te lezen</p><p> </p><p>Mark Tigchelaar leert ons het volgende:</p><p>Hoe ga je hiermee om? Hoe zorg je ervoor dat het makkelijker wordt om informatie te verwerken, zonder dat dit ten koste gaat van het tekstbegrip? Hoe kun je grote hoeveelheden informatie sneller lezen en onthouden? Hoe blijf je geconcentreerd in een drukke omgeving?</p><p> </p><p>In Lezen, weten en niet vergeten beschrijft Mark een baanbrekende methode om dit voor elkaar te krijgen. De methode bestaat uit acht principes gebaseerd op revolutionair wetenschappelijk onderzoek naar de werking van onze hersenen. Door de praktische aanpak is het geschikt voor iedereen die te maken heeft met veel informatie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De dagen van Sjaitan]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394646371/de-dagen-van-sjaitan-said-el-haji</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394646371/de-dagen-van-sjaitan-said-el-haji"/>
+        <updated>2026-08-20T07:34:00.764Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646371?aid=kb-online-bibliotheek&sid=22&dts=1787211240573&sig=331dd89dae953c7be1f05fdda493d6b66b2f51a36e432736e57e223ffc44634a&width=320" alt="Omslag van 'De dagen van Sjaitan'" title="Omslag van 'De dagen van Sjaitan'">
+<p>Een jongen uit een streng islamitisch gezin van Marokkaanse migranten in Nederland komt meer en meer in verzet tegen zijn vader en diens traditie.</p>]]></content>
         <author>
-            <name>Mark Tigchelaar</name>
+            <name>Said El Haji</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Holland House]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/402321936/holland-house-sarah-prins</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/402321936/holland-house-sarah-prins"/>
-        <updated>2026-08-18T07:30:55.170Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A402321936?aid=kb-online-bibliotheek&sid=22&dts=1787038254615&sig=1add49c90842bed6677495e929e4b52918b791d410f5c7f0a4f3bca45e1d4baa&width=320" alt="Omslag van 'Holland House'" title="Omslag van 'Holland House'">
-<p>Als een journaliste de Olympische Spelen 2016 in Brazilië bezoekt, ontdekt ze malafide praktijken.</p>]]></content>
+        <title type="html"><![CDATA[IJzeren wil]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623290/ijzeren-wil-sander-voormolen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623290/ijzeren-wil-sander-voormolen"/>
+        <updated>2026-08-20T07:34:01.093Z</updated>
+        <summary type="html"><![CDATA[de wetenschap achter durfals]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623290?aid=kb-online-bibliotheek&sid=22&dts=1787211240873&sig=b7ec6357ba06bc3848beb0da264f74432065d911f0fd0b8b7f384b4f9eec8fa2&width=320" alt="Omslag van 'IJzeren wil'" title="Omslag van 'IJzeren wil'">
+<p>Artikelen over mensen die extreme situaties zoeken en daarbij tot het uiterste gaan, en over hun fysiologie die hen daartoe in staat stelt.</p>]]></content>
         <author>
-            <name>Sarah Prins</name>
+            <name>Sander Voormolen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1943]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/413496082/1943-elias-van-der-plicht</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/413496082/1943-elias-van-der-plicht"/>
-        <updated>2026-08-18T07:30:55.564Z</updated>
-        <summary type="html"><![CDATA[onderdrukking en verzet]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A413496082?aid=kb-online-bibliotheek&sid=22&dts=1787038255346&sig=df20768a8af796e9078334a1c58dbe95170dc213893aca18300671d44c7e6bc5&width=320" alt="Omslag van '1943'" title="Omslag van '1943'">
-<p>Overzicht in woord en beeld van het vierde jaar van de Duitse bezetting van Nederland.</p>]]></content>
+        <title type="html"><![CDATA[Bevrijd de psychologie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394622979/bevrijd-de-psychologie-jan-derksen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394622979/bevrijd-de-psychologie-jan-derksen"/>
+        <updated>2026-08-20T07:34:01.386Z</updated>
+        <summary type="html"><![CDATA[uit de greep van de hersenmythe]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622979?aid=kb-online-bibliotheek&sid=22&dts=1787211241194&sig=31d6c62c0dd0afb23f91b9e292bd8cb48661af680ac80aa94d88b2a768221202&width=320" alt="Omslag van 'Bevrijd de psychologie'" title="Omslag van 'Bevrijd de psychologie'">
+<p>Psychologische thema's beheersen dagelijks het nieuws, waardoor het lijkt alsof psychologisch inzicht vandaag de dag hoog op de agenda staat. Schijn bedriegt, volgens Jan Derksen. In Bevrijd de psychologie zet hij uiteen hoe de onderzoekspsychologen het goud in de hersenen zoeken in plaats van zich te richten op menselijke motieven, emoties en verlangens. 'Amateurbiologen' noemt Derksen de neuropsychologen en experimenteel onderzoekers die de psychologie reduceren tot de studie van observeerbaar gedrag en de mens zien als een cognitieve machine, waarmee ze het werken met emoties en dieperliggende psychische thema's naar het alternatieve circuit laveren. De praktijk van etikettenplakkerij, waarbij elk probleem een etiket krijgt dat op zichzelf betekenisloos is en tot een hersenstoornis wordt uitgeroepen, evenals het klakkeloos uitdelen van pillen, moet een halt worden toegeroepen. Derksen stelt dat er geen oog meer is voor de kwetsbare persoonlijkheid van iemand met ernstige klachten of ambivalente gevoelens. De psychologie moet worden gered van de ondergang. Bevrijd de psychologie biedt een goed onderbouwd en vurig betoog om de psychologie te bevrijden van de pogingen er elk leven uit te blazen. Prof. dr. J.J.L. Derksen (1953) studeerde journalistiek, psychologie, sociologie, filosofie en psychofarmacologie. Hij promoveerde in 1983 op een studie naar indicatiestelling voor psychotherapie. Hij doceert psychologische diagnostiek en psychodynamische psychotherapie aan de Radboud Universiteit Nijmegen en de Vrije Universiteit Brussel. Hij is als eerstelijnspsycholoog en psychotherapeut werkzaam in Psychologenpraktijk Derksen & Klein Herenbrink te Bemmel. Hij publiceerde eerder Het narcistisch ideaal. Opvoeden in een tijd van zelfverheerlijking (2009) en De woorden om het te zeggen, over ontdekkende psychotherapie (2011). </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Elias van der Plicht</name>
+            <name>Jan Derksen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dit vuur dooft nooit]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/41092010X/dit-vuur-dooft-nooit-fr%C3%A9derike-geerdink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/41092010X/dit-vuur-dooft-nooit-fr%C3%A9derike-geerdink"/>
-        <updated>2026-08-19T07:31:14.810Z</updated>
-        <summary type="html"><![CDATA[Een jaar bij de PKK]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A41092010X?aid=kb-online-bibliotheek&sid=22&dts=1787123458197&sig=855792cf8a6a729c65c65f2cdff572cbd2220efd1354838e5930519a864a5729&width=320" alt="Omslag van 'Dit vuur dooft nooit'" title="Omslag van 'Dit vuur dooft nooit'">
-<p>Persoonlijk verslag door een Nederlandse journaliste van een reis door Koerdistan en de politieke en humanitaire achtergronden van de PKK en de strijd voor een onafhankelijk Koerdistan.</p>]]></content>
+        <title type="html"><![CDATA[Revolutionair verval en de conservatieve vooruitgang in de achttiende en negentiende eeuw]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623347/revolutionair-verval-en-de-conservatieve-vooruitgang-in-de-achttiende-en-negentiende-eeuw--</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623347/revolutionair-verval-en-de-conservatieve-vooruitgang-in-de-achttiende-en-negentiende-eeuw--"/>
+        <updated>2026-08-20T07:34:01.608Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623347?aid=kb-online-bibliotheek&sid=22&dts=1787209795425&sig=215bc55a6b189fd082ffa5482ee3502dead2a04e73df807676c08dc045dc78bc&width=320" alt="Omslag van 'Revolutionair verval en de conservatieve vooruitgang in de achttiende en negentiende eeuw'" title="Omslag van 'Revolutionair verval en de conservatieve vooruitgang in de achttiende en negentiende eeuw'">
+<p>Portretten van 21 belangrijke conservatieve denkers uit de achttiende en negentiende eeuw.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De loden bal van het socialisme]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623479/de-loden-bal-van-het-socialisme-bart-tromp</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623479/de-loden-bal-van-het-socialisme-bart-tromp"/>
+        <updated>2026-08-20T07:34:01.923Z</updated>
+        <summary type="html"><![CDATA[Bart Tromp over de sociaaldemocratie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623479?aid=kb-online-bibliotheek&sid=22&dts=1787211241721&sig=461616c0fea05a8b3e39f197d5f212760dd0f370b82059b40a00e32a96e33fef&width=320" alt="Omslag van 'De loden bal van het socialisme'" title="Omslag van 'De loden bal van het socialisme'">
+<p>In De loden bal van het socialisme is een selectie opgenomen van analyses en beschouwingen die Bart Tromp in de loop der jaren heeft geschreven over één van de grote themas waarmee hij zich zijn leven lang met hart en ziel heeft beziggehouden: de sociaaldemocratie in al haar aspecten. Hoe de geldzucht in toom te houden die mens en samenleving wereldwijd bedreigen? Bart Tromp laat zien hoe de sociaaldemocratie vanaf haar ontstaan met dit probleem heeft geworsteld. Marx, Kautsky, Bernstein, Lenin, de Fabians en vele anderen zijn de wegwijzers, waarschuwingstekens en verbodsborden waarlangs hij de lezer voert. De dwaalwegen en dilemmas uit het verleden sleept de sociaaldemocratie nog steeds als een loden bal met zich mee. Het boek is onderverdeeld in zes delen. De ontwikkeling van de kapitalistische wereldeconomie is het toneel waarop Tromp de noodzaak van een moderne sociaaldemocratie uiteenzet. Naast biografische schetsen van de belangrijkste erflaters van het socialisme, zijn in dit boek ook prachtige essays opgenomen over mensen die zich wijdden aan de sociaaldemocratie: van Clement Attlee tot De Miranda. Uitgebreide aandacht wordt besteed aan nut en noodzaak van de beginselen, de `missie, van de sociaaldemocratie. Aan organisatie, ideologie en strategie van de PvdA is een apart deel gewijd. Het boek eindigt met opstellen over de democratie die voor Tromp onlosmakelijk met het socialisme verbonden is omdat alleen daardoor de dominantie van het kapitalisme aan banden is te leggen. Deze uitgave met werk van Bart Tromp verschijnt onder auspiciën van de Bart Trompstichting - www.BartTrompstichting.nl - en wordt ingeleid door Job Cohen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Fréderike Geerdink</name>
+            <name>Bart Tromp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duty free: wodka en sigaren]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/416931618/duty-free--wodka-en-sigaren-jan-tjerk-mossel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/416931618/duty-free--wodka-en-sigaren-jan-tjerk-mossel"/>
-        <updated>2026-08-18T07:30:57.013Z</updated>
-        <summary type="html"><![CDATA[het geheim van de Russische maffia]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A416931618?aid=kb-online-bibliotheek&sid=22&dts=1787038256368&sig=b7f1932348666b82ff3a5ab5d447a47b464d6345ad104f15585d4fbb15fe1061&width=320" alt="Omslag van 'Duty free: wodka en sigaren'" title="Omslag van 'Duty free: wodka en sigaren'">
-<p>Autobiografie van een Nederlandse zakenman die handel dreef in wodka en sigaren met Rusland en zo de misdaad en corruptie daar leerde kennen.</p>]]></content>
+        <title type="html"><![CDATA[Huis van de Aanrakingen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394646401/huis-van-de-aanrakingen-peter-verhelst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394646401/huis-van-de-aanrakingen-peter-verhelst"/>
+        <updated>2026-08-20T07:34:02.269Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646401?aid=kb-online-bibliotheek&sid=22&dts=1787211242037&sig=fac4170fcadc570d4185cc21103ed9d5b16c849b3ea56bf3b0d8376454f1bd45&width=320" alt="Omslag van 'Huis van de Aanrakingen'" title="Omslag van 'Huis van de Aanrakingen'">
+<p>Twee archeologen stuiten op een oude beschaving; door hun speurtocht wordt de eeuwenoude traditie van het verhalenvertellen geopenbaard.</p>]]></content>
         <author>
-            <name>Jan Tjerk Mossel</name>
+            <name>Peter Verhelst</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hét Margriet Kookboek]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/416769241/h%C3%A9t-margriet-kookboek-sonja-van-de-rhoer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/416769241/h%C3%A9t-margriet-kookboek-sonja-van-de-rhoer"/>
-        <updated>2026-08-19T07:31:15.179Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A416769241?aid=kb-online-bibliotheek&sid=22&dts=1787124674955&sig=24808120b6282aa281fc0c8a1fa901f47feb7bdaf558eaa4d61793fb94839638&width=320" alt="Omslag van 'Hét Margriet Kookboek'" title="Omslag van 'Hét Margriet Kookboek'">
-<p>Al 75 jaar is Hét Margriet kookboek het basiskookboek.  Dit boek geeft duidelijk antwoord op vragen als: hoe kook je aardappelen, hoe maak je boontjes en hoe bak je een appeltaart? Daarnaast biedt het volop praktische informatie over groenten, kruiden en specerijen, wijnen, keukengereedschap en meer.</p><p>Met ruim duizend recepten uit onder andere de Hollandse, Italiaanse en Thaise keuken is er keuze genoeg voor doordeweekse gerechten én feestelijke maaltijden. Van bouillons en soepen, sauzen, eieren, kaas, vis, schaal- en schelpdieren, vlees, groenten en salades tot aardappelen, granen, pasta en rijst, desserts, gebak en brood. Hét Margriet kookboek bevat onmisbare kennis voor zowel de beginner als de ervaren thuiskok en past perfect in elke keuken.</p><p>Sonja van de Rhoer is docent Koken en Voedingsleer en auteur van ruim zestig kookboeken. Als dochter van een drankengroothandelaar kwam ze al vroeg in aanraking met verschillende smaken. Ze schrijft wekelijks voor Trouw, waarbij ze haar recepten helder en eenvoudig uitlegt.</p><p>'Dit is een boek dat je gebruikt, dat met vetvlekken en ezelsoren op je aanrecht ligt.' Annemart van Rhee, Eindhovens Dagblad</p><p>'Naast alle hypes en rages is er één constante in het Nederlandse bakbijbellandschap: Hét Margriet Kookboek.' AD Amersfoortse Courant</p><p>'Margriet levert dé bakbijbel.' Dagblad van het noorden & de Leeuwarder Courant</p><p>'Deze bakbijbel overleeft al zeventig jaar alle hypes.' Algemeen Dagblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het grootste geluk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394646932/het-grootste-geluk-eveline-vreeburg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394646932/het-grootste-geluk-eveline-vreeburg"/>
+        <updated>2026-08-20T07:34:02.632Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646932?aid=kb-online-bibliotheek&sid=22&dts=1787211242374&sig=94d0cbcac2c93a52243c954bceef658a93d3b005d2a49a7d74e505d8a1f6e641&width=320" alt="Omslag van 'Het grootste geluk'" title="Omslag van 'Het grootste geluk'">
+<p>Een echtpaar lijkt niet voortbestemd voor het grote geluk.</p>]]></content>
         <author>
-            <name>Sonja van de Rhoer</name>
+            <name>Eveline Vreeburg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Als een dierbare depressief is]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/41349702X/als-een-dierbare-depressief-is-huub-buijssen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/41349702X/als-een-dierbare-depressief-is-huub-buijssen"/>
-        <updated>2026-08-18T07:30:58.076Z</updated>
-        <summary type="html"><![CDATA[helpen zonder jezelf te verliezen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A41349702X?aid=kb-online-bibliotheek&sid=22&dts=1787038257500&sig=a951576e31509a47139f962180272dba4ff9874245f112810c6215d94b79a139&width=320" alt="Omslag van 'Als een dierbare depressief is'" title="Omslag van 'Als een dierbare depressief is'">
-<p>Praktische voorlichting voor mensen in de omgeving van patiënten met een depressie.</p>]]></content>
+        <title type="html"><![CDATA[Iedereen noemt me Loulou]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394646940/iedereen-noemt-me-loulou-anna-karolina</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394646940/iedereen-noemt-me-loulou-anna-karolina"/>
+        <updated>2026-08-20T07:34:02.864Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646940?aid=kb-online-bibliotheek&sid=22&dts=1787210351359&sig=be13e9a80ffbf8a62ad205e0f8dc27ec244d68008cb569fce25a07dbb840a3ff&width=320" alt="Omslag van 'Iedereen noemt me Loulou'" title="Omslag van 'Iedereen noemt me Loulou'">
+<p>Als een knappe dertigjarige vrouw een nieuwe baan vindt bij de televisie, krijgt ze daar direct een seksuele relatie met haar aantrekkelijke baas.</p>]]></content>
         <author>
-            <name>Huub Buijssen</name>
+            <name>Anna Karolina</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Focus Aan/Uit]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/421478209/focus-aan-uit-mark-tigchelaar---oscar-de-bos</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/421478209/focus-aan-uit-mark-tigchelaar---oscar-de-bos"/>
-        <updated>2026-08-18T07:30:59.142Z</updated>
-        <summary type="html"><![CDATA[dicht de 4 concentratielekken en krijg meer gedaan in een wereld vol afleiding]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A421478209?aid=kb-online-bibliotheek&sid=22&dts=1787038258895&sig=5d1fef9df1c6a9d95e522a1484c1fd7029c47e5163ddcb5f6aad078b8d1c8104&width=320" alt="Omslag van 'Focus Aan/Uit'" title="Omslag van 'Focus Aan/Uit'">
-<p>'Beknopt, vlot geschreven en praktische handvatten om meer uit je leven te halen.' Wouter de Jong, auteur van de bestseller Mindgym</p><p>Inclusief online training!</p><p>Afdwalen tijdens gesprekken, aan het einde van de pagina erachter komen dat je eigenlijk geen idee meer hebt waar de tekst over ging en moeite met in slaap vallen omdat je hoofd blijft doortollen. Wanneer we geen grip op onze aandacht hebben, waaien we met alle winden mee, kost het meer tijd om ons werk te doen en neemt de stress toe. Op de lange termijn vergroot het zelfs de kans op een burn-out. Bestsellerauteur Mark Tigchelaar laat aan de hand van nieuw wetenschappelijk onderzoek en voorbeelden uit de praktijk zien hoe we weer grip op onze focus krijgen. Het effect is dat we weerbaarder tegen stress worden, productiever zijn en meer aanwezig zijn in het hier en nu. Rust, overzicht en controle.</p><p>Lees dit boek en je ontdekt:</p><p> </p><p>hoe je slimme brain hacks inzet om niet meer af te dwalen hoe je met het 'MTW'-principe structureel meer gedaan krijgt hoe je je kunt afsluiten voor de luidruchtigste collega hoe je de denkmachine stopt en makkelijker in slaap valt</p><p>Mark Tigchelaar (1984) studeerde neuropsychologie en begeleidt kenniswerkers, ondernemers en top- sporters om hun prestaties te verbeteren. Hij heeft verschillende TEDx Talks gegeven over de werking van het brein en wereldwijd hebben meer dan 100.000 mensen een focustraining bij hem gevolgd. Zijn eerdere boeken zijn in zes talen verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De algehele geschiedenis van het denken, of Het verbond tussen filosofie, wetenschap, kunst en godsdienst]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623363/de-algehele-geschiedenis-van-het-denken--of-het-verbond-tussen-filosofie--wetenschap--kunst-en-godsdienst-andre--klukhuhn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623363/de-algehele-geschiedenis-van-het-denken--of-het-verbond-tussen-filosofie--wetenschap--kunst-en-godsdienst-andre--klukhuhn"/>
+        <updated>2026-08-20T07:34:03.277Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623363?aid=kb-online-bibliotheek&sid=22&dts=1787211243021&sig=1c81489575992e324f10f8ae4a2f17f33ba9be4de3626b3bd0acb847dd75fe0e&width=320" alt="Omslag van 'De algehele geschiedenis van het denken, of Het verbond tussen filosofie, wetenschap, kunst en godsdienst'" title="Omslag van 'De algehele geschiedenis van het denken, of Het verbond tussen filosofie, wetenschap, kunst en godsdienst'">
+<p>De grote filosoof en wetenschapper André Klukhuhn houdt zich al jaren bezig met de menselijke geest. De algehele geschiedenis van het denken is zijn magnum opus: de weergave van een leven lang denken. Klukhuhns basisgedachten zijn dat het menselijke bewustzijn uniek is en dat wetenschap en kunst, als twee aspecten daarvan, per definitie altijd tegenstrijdig zijn, maar tegelijk ook niet zonder elkaar kunnen: ze zijn complementair. Centraal in dit boek staat de tweeslachtige verhouding van de mens tot zijn leefwereld: de rede, met de wetenschap als ultieme consequentie, en het gevoel, dat in de kunst tot uitdrukking wordt gebracht. In een meesterlijke stijl, en gebruikmakend van de nieuwste inzichten, beschrijft André Klukhuhn de eeuwige spanning en het onlosmakelijke verbond tussen filosofie, wetenschap, kunst en godsdienst. De algehele geschiedenis van het denken is een belangrijk en baanbrekend boek. André Klukhuhn (1940) is scheikundige en filosoof. In 2003 verscheen zijn grote boek De geschiedenis van het denken, in 2008 gevolgd door Alle mensen heten Janus. Beide werden filosofische bestsellers. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Mark Tigchelaar</name>
-        </author>
-        <author>
-            <name>Oscar de Bos</name>
+            <name>André Klukhuhn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De dr. Ludidi Vastenmethode]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/420841245/de-dr--ludidi-vastenmethode-samefko-ludidi</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/420841245/de-dr--ludidi-vastenmethode-samefko-ludidi"/>
-        <updated>2026-08-19T07:31:15.439Z</updated>
-        <summary type="html"><![CDATA[Intermittent fasting: verantwoord vasten voor iedereen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A420841245?aid=kb-online-bibliotheek&sid=22&dts=1787124675265&sig=67644b67fca457e9b7899b27fd4ce3fb622ac1729b89098f80ba1d7f89f5b509&width=320" alt="Omslag van 'De dr. Ludidi Vastenmethode'" title="Omslag van 'De dr. Ludidi Vastenmethode'">
-<p>Intermittent fasting: val af, reset je lijf en krijg grip op je gezondheid.  Hoewel vasten in eerste instantie streng klinkt, blijkt niets minder waar. Dr. Ludidi ontwikkelde een methode om intermittent fasting (onderbroken vasten) voor iedereen toegankelijk te maken. Of je nu wilt afvallen, gezonder wilt leven of je sportprestaties wilt verbeteren: onderbroken vasten kan in alle soorten en maten. De dr. Ludidi Vastenmethode laat zien dat het eigenlijk heel makkelijk is. Ook laat de jonge doctor zien hoe ons huidige eetpatroon tot stand is gekomen en waarom we het vaak lastig vinden om een gezonde leefstijl vol te houden. Hij helpt je beter te begrijpen hoe je lichaam werkt en reageert op eten en waarom je bepaalde keuzes maakt. Met onderbroken vasten krijg je grip op je gezondheid en het mooie is dat er maar weinig regels zijn. Dat het ook nog lekker kan zijn bewijzen de recepten uit het boek, die dr. Ludidi samen met chef-kok Frank van Thiel ontwikkelde. Ook jij kan het!</p><p>Dr. Samefko Ludidi (1985) is voedingswetenschapper en promoveerde aan de Universiteit van Maastricht op het prikkelbare darmsyndroom. Als gezondheidsexpert vertaalt hij wetenschap naar praktijk. Hij adviseert ziekenhuizen, zorgorganisaties en profitorganisaties, is universitair gastdocent en coacht cliënten met een complexe leefstijl. Ludidi werkt samen met o.a. Women's Health die hem uitriep tot 'Clever Cookie', Men's Health en verschijnt regelmatig in de media. Momenteel werkt hij aan zijn concept Moser Gym, een plek om te sporten met sociale interactie </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Vallen als het heet is]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464705X/vallen-als-het-heet-is-jelmer-jepsen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464705X/vallen-als-het-heet-is-jelmer-jepsen"/>
+        <updated>2026-08-20T07:34:03.656Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464705X?aid=kb-online-bibliotheek&sid=22&dts=1787211243392&sig=90e9cb1feef410737e802a49ace188f3c7b40075c17938b160412fcb67b0d5c4&width=320" alt="Omslag van 'Vallen als het heet is'" title="Omslag van 'Vallen als het heet is'">
+<p>Op weg naar zijn zieke oma spreekt een jongeman zijn moeder na lange tijd weer.</p>]]></content>
         <author>
-            <name>Samefko Ludidi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dat smaakt naar meer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/410920223/dat-smaakt-naar-meer-jan-willem-van-der-hek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/410920223/dat-smaakt-naar-meer-jan-willem-van-der-hek"/>
-        <updated>2026-08-19T07:31:15.607Z</updated>
-        <summary type="html"><![CDATA[Ontdek de wijn die bij jou past]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A410920223?aid=kb-online-bibliotheek&sid=22&dts=1787121745938&sig=faabb205348f97ffe56ab6f536c3dacd5c2da8e08e3ef952411818a7dabc9dd3&width=320" alt="Omslag van 'Dat smaakt naar meer'" title="Omslag van 'Dat smaakt naar meer'">
-<p>Dat smaakt naar meer, een boek waar je dorstig van wordt.</p><p> Jan-Willem van der Hek, de Beste Sommelier van Nederland heeft met Dat smaakt naar meer een laagdrempelig wijnboek geschreven. Geen stoffige theorie of wijncursus, maar eenvoudigweg leren over wijn zodat je er meer van geniet en het beter waardeert.</p><p>Jan-Willem deelt de informatie in op smaak en karakter, geeft heldere uitleg over de druiven, en geeft suggesties voor wijn-spijscombinaties. Daarnaast vertelt hij zijn ervaringen en anekdotes, evenals die van restauranthouders, andere sommeliers en wijnverkopers. Dat smaakt naar meer biedt volop tips: hoe bestel je een écht lekkere wijn in een restaurant? Waar let je op in de wijnwinkel? Maar ook: welke wijnglazen gebruik je? Wat is een goede serveertemperatuur? En wat doe je met wijnvlekken? Om het enthousiasme nog verder aan te sporen bevat het boek een wijnbucketlist: ga de uitdaging, klein of groot, aan en leer op eenvoudige wijze écht van wijn genieten!</p><p>Jan-Willem van der Hek (1986) is De Beste Sommelier van Nederland (in 2012/13 en 2016/2017). Hij is jong en enthousiast en heeft als missie om op een toegankelijke manier mensen te begeleiden om tot een goede wijnkeuze te komen, en hun wijnsmaak en -voorkeuren te ontwikkelen. Jan-Willem is eigenaar van flex4wine waar hij diverse restaurants adviseert over wijnspijs en het samenstellen van de wijnkaarten, particulieren adviseert over wijnen en adviseur is voor Lidl Nederland. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jan-Willem van der Hek</name>
+            <name>Jelmer Jepsen</name>
         </author>
     </entry>
 </feed>
