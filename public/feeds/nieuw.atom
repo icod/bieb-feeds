@@ -2,21 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-08-20T07:34:03.657Z</updated>
+    <updated>2026-08-21T07:36:11.561Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
-        <title type="html"><![CDATA[Schouders]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt"/>
-        <updated>2026-08-17T07:44:49.037Z</updated>
-        <summary type="html"><![CDATA[3PAK]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461387301?aid=kb-online-bibliotheek&sid=22&dts=1786950406921&sig=b97f2203ad307c5789d24e89edd127475e2da07d0394b9ece0462cc3b4d576a9&width=320" alt="Omslag van 'Schouders'" title="Omslag van 'Schouders'">
-<p></p>]]></content>
+        <title type="html"><![CDATA[Superseks in 10 stappen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/397277318/superseks-in-10-stappen-goedele-liekens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/397277318/superseks-in-10-stappen-goedele-liekens"/>
+        <updated>2026-08-21T07:36:01.859Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A397277318?aid=kb-online-bibliotheek&sid=22&dts=1787297761657&sig=261d84e46c882165dd4c1e09eab121c160783a557568973cfd3069b310c204e6&width=320" alt="Omslag van 'Superseks in 10 stappen'" title="Omslag van 'Superseks in 10 stappen'">
+<p>Let op: Epub3 fixed lay-out, niet geschikt voor e-reader. We vinden seks belangrijk. Maar over ons eigen seksleven zijn we niet echt tevreden: we willen meer en we willen het spannender. Wees gerust, monogamie hoeft niet monotoon te zijn. Goedele Liekens, de bekendste seksuologe van de Lage Landen, toont hoe het anders kan. In tien concrete stappen wijst Goedele de weg naar optimaal seksueel genot voor jou en je partner. Verwacht van Goedele geen halsbrekende acrobatische posities, maar wel haalbare en verrassende tips & tricks die je seksleven een boost geven en je liefdesleven (nog) leuker maken. Erotiek voor zowel prille lovers als koppels die elkaar door en door kennen. Dit ultieme nachtkastboek voor elke man en vrouw geeft openhartig advies, met een vette knipoog en een gezonde dosis humor. Meer kennis over seks leidt tot een beter seksleven. En betere seks, dat willen we toch allemaal? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Harmen van Liemt</name>
+            <name>Goedele Liekens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vertellingen van Duizend-en-één-nacht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394929071/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394929071/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel"/>
+        <updated>2026-08-21T07:36:02.193Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394929071?aid=kb-online-bibliotheek&sid=22&dts=1787297761988&sig=37fba402bbe56d0b125e8e70f40e7a666f1d8abbf574fd49a0320dba08c71bfb&width=320" alt="Omslag van 'De vertellingen van Duizend-en-één-nacht'" title="Omslag van 'De vertellingen van Duizend-en-één-nacht'">
+<p>De vertellingen van Duizend-en-één-nacht 3 Het derde deel uit de klassieke verzameling van mysterieuze en sprookjesachtige verhalen zoals Alladin en de wonderlamp, Sinbad de zeeman en Ali Baba en de veertig rovers. Koning Scheherban is bedrogen door zijn vrouw. Vastbesloten om dat nooit meer mee te maken, besluit hij elke avond een nieuwe maagd te trouwen om haar de volgende ochtend te doden. Zo trouwt hij ook met Scheherezade, de dochter van zijn grootvizier. Zij vertelt hem elke nacht een onvoltooid verhaal en hoopt zo in leven te blijven. Dit houdt ze duizend en één nacht vol totdat de koning beseft dat hij van haar houdt. Het lot van de andere maagden zal Scheherezade bespaard blijven en haar sprookjesachtige vertellingen leven voort. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Henri Borel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vertellingen van Duizend-en-één-nacht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394929055/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394929055/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel"/>
+        <updated>2026-08-21T07:36:02.554Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394929055?aid=kb-online-bibliotheek&sid=22&dts=1787297762301&sig=6792435c43110d22ffeb7591c0420dc841d70a14f6fba30e6ef4ddaa5edb360e&width=320" alt="Omslag van 'De vertellingen van Duizend-en-één-nacht'" title="Omslag van 'De vertellingen van Duizend-en-één-nacht'">
+<p>De vertellingen van Duizend-en-één-nacht 1 Het eerste deel uit de klassieke verzameling van mysterieuze en sprookjesachtige verhalen zoals Alladin en de wonderlamp, Sinbad de zeeman en Ali Baba en de veertig rovers. Koning Scheherban is bedrogen door zijn vrouw. Vastbesloten om dat nooit meer mee te maken, besluit hij elke avond een nieuwe maagd te trouwen om haar de volgende ochtend te doden. Zo trouwt hij ook met Scheherezade, de dochter van zijn grootvizier. Zij vertelt hem elke nacht een onvoltooid verhaal en hoopt zo in leven te blijven. Dit houdt ze duizend en één nacht vol totdat de koning beseft dat hij van haar houdt. Het lot van de andere maagden zal Scheherezade bespaard blijven en haar sprookjesachtige vertellingen leven voort. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Henri Borel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vertellingen van Duizend-en-één-nacht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394929101/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394929101/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel"/>
+        <updated>2026-08-21T07:36:02.869Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394929101?aid=kb-online-bibliotheek&sid=22&dts=1787297762679&sig=b43478ceb2e0ddd6a55253cf51be65e12d87dc085c42982fd6c2139b616434a2&width=320" alt="Omslag van 'De vertellingen van Duizend-en-één-nacht'" title="Omslag van 'De vertellingen van Duizend-en-één-nacht'">
+<p>De vertellingen van Duizend-en-één-nacht 6 Het zesde deel uit de klassieke verzameling van mysterieuze en sprookjesachtige verhalen zoals Alladin en de wonderlamp, Sinbad de zeeman en Ali Baba en de veertig rovers. Koning Scheherban is bedrogen door zijn vrouw. Vastbesloten om dat nooit meer mee te maken, besluit hij elke avond een nieuwe maagd te trouwen om haar de volgende ochtend te doden. Zo trouwt hij ook met Scheherezade, de dochter van zijn grootvizier. Zij vertelt hem elke nacht een onvoltooid verhaal en hoopt zo in leven te blijven. Dit houdt ze duizend en één nacht vol totdat de koning beseft dat hij van haar houdt. Het lot van de andere maagden zal Scheherezade bespaard blijven en haar sprookjesachtige vertellingen leven voort. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Henri Borel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duizend-en-één-nacht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394929063/duizend-en-%C3%A9%C3%A9n-nacht-henri-borel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394929063/duizend-en-%C3%A9%C3%A9n-nacht-henri-borel"/>
+        <updated>2026-08-21T07:36:03.168Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394929063?aid=kb-online-bibliotheek&sid=22&dts=1787297762984&sig=09e1239338c6abee4bb7129cd48a14f232b8f184dce702fa4cf38e0d87a4195d&width=320" alt="Omslag van 'Duizend-en-één-nacht'" title="Omslag van 'Duizend-en-één-nacht'">
+<p>De vertellingen van Duizend-en-één-nacht 2 Het tweede deel uit de klassieke verzameling van mysterieuze en sprookjesachtige verhalen zoals Alladin en de wonderlamp, Sinbad de zeeman en Ali Baba en de veertig rovers. Koning Scheherban is bedrogen door zijn vrouw. Vastbesloten om dat nooit meer mee te maken, besluit hij elke avond een nieuwe maagd te trouwen om haar de volgende ochtend te doden. Zo trouwt hij ook met Scheherezade, de dochter van zijn grootvizier. Zij vertelt hem elke nacht een onvoltooid verhaal en hoopt zo in leven te blijven. Dit houdt ze duizend en één nacht vol totdat de koning beseft dat hij van haar houdt. Het lot van de andere maagden zal Scheherezade bespaard blijven en haar sprookjesachtige vertellingen leven voort. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Henri Borel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dokter Pol]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/399891692/dokter-pol-jan-pol---david-fisher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/399891692/dokter-pol-jan-pol---david-fisher"/>
+        <updated>2026-08-21T07:36:03.490Z</updated>
+        <summary type="html"><![CDATA[de wereldberoemde dierenarts uit Nederland]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A399891692?aid=kb-online-bibliotheek&sid=22&dts=1787297763295&sig=b6bbc5524c114c3bd091c85ec3e126c4e5f197ebb3213b3060d64d3d33e67ef2&width=320" alt="Omslag van 'Dokter Pol'" title="Omslag van 'Dokter Pol'">
+<p>Verhalen uit de dierenartspraktijk en het leven van de van National Geographic bekende dr. Jan Pol, sinds 1967 wonend en werkend in de VS.</p>]]></content>
+        <author>
+            <name>Jan Pol</name>
+        </author>
+        <author>
+            <name>David Fisher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mosselen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/403983959/mosselen-piet-devriendt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/403983959/mosselen-piet-devriendt"/>
+        <updated>2026-08-21T07:36:03.806Z</updated>
+        <summary type="html"><![CDATA[de lekkerste gerechten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A403983959?aid=kb-online-bibliotheek&sid=22&dts=1787297763609&sig=aa8f17b03f0f0b62ace2ed56a6e04bb24b6dd949027539101203d8ae16788a2f&width=320" alt="Omslag van 'Mosselen'" title="Omslag van 'Mosselen'">
+<p>Mosselen. Wij Belgen eten ze het liefste met frietjes. Onze noorderburen graag met brood. Maar je kunt zo veel meer met de schelpdiertjes. Piet Devriendt, mosselchef van het restaurant De Oesterput in Blankenberge, selecteerde nieuwe, verfrissende, bekende en minder bekende recepten met de mossel in de hoofdrol. Gekookt, gebakken, in de wok of rauw, je kunt er alle kanten mee uit. Mosselen zijn niet alleen heel lekker, ze zijn ook erg gezond. Ze bevatten eiwitten, mineralen, vitamines en nauwelijks vet. En met dit boek heb je meer dan 50 manieren om het kleine zeediertje klaar te maken. Aan de hand van schitterende foto's legt Piet de recepten stap-voor-stap uit, zodat ook een niet-geoefende kok lekkere mosselgerechten op tafel kan toveren. Krijg jij ook al honger? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Piet Devriendt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het houden van mannen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/408126116/het-houden-van-mannen-myrthe-van-der-meer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/408126116/het-houden-van-mannen-myrthe-van-der-meer"/>
+        <updated>2026-08-21T07:36:04.134Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A408126116?aid=kb-online-bibliotheek&sid=22&dts=1787297763930&sig=a2dacddc7bad1be2bdc32499c6038ce90aa2ed3733e5149df4799e6512e78c40&width=320" alt="Omslag van 'Het houden van mannen'" title="Omslag van 'Het houden van mannen'">
+<p>Veel Nederlandse vrouwen hebben een man, of kennen iemand die er een heeft. Voor iedereen die interesse heeft in de man als huisgenoot of er al een heeft en hier meer over wil weten, is er nu Het houden van mannen. Deze compacte en geïllustreerde veldgids is gebaseerd op 20 jaar onderzoek en geeft antwoord op het hoe en waarom van de man in al zijn facetten: van voeding en verzorging tot training en voortplanting. Het houden van mannen was nog nooit zo eenvoudig! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Myrthe van der Meer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De kat die de weg kwijt was]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/412029170/de-kat-die-de-weg-kwijt-was-britt-collins</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/412029170/de-kat-die-de-weg-kwijt-was-britt-collins"/>
+        <updated>2026-08-21T07:36:04.327Z</updated>
+        <summary type="html"><![CDATA[waargebeurd verhaal van een karaktervol katje en een dappere zwerver]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A412029170?aid=kb-online-bibliotheek&sid=22&dts=1787295844813&sig=bbf1be5738f36a4a8c600aae4191a78e0ca3af320cabaffb329c7b0ec7c456f0&width=320" alt="Omslag van 'De kat die de weg kwijt was'" title="Omslag van 'De kat die de weg kwijt was'">
+<p>Een dakloze man ontfermt zich maandenlang over een weggelopen kat en neemt de kat mee op een lange tocht naar het warme zuiden van de VS.</p>]]></content>
+        <author>
+            <name>Britt Collins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De nieuwe wijnsurvivalgids]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/407732438/de-nieuwe-wijnsurvivalgids-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/407732438/de-nieuwe-wijnsurvivalgids-ilja-gort"/>
+        <updated>2026-08-21T07:36:04.544Z</updated>
+        <summary type="html"><![CDATA[wijnboek voor bierdrinkers]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A407732438?aid=kb-online-bibliotheek&sid=22&dts=1787296632257&sig=e23cd297138ed16a5f9fd3337443548129b5f2356993c3d45427db679b759471&width=320" alt="Omslag van 'De nieuwe wijnsurvivalgids'" title="Omslag van 'De nieuwe wijnsurvivalgids'">
+<p>Dit geestige boek is speciaal bedoeld voor beginnende wijnliefhebbers. Geen stoffige poeha, maar fitte info, geschreven door de man die dat als geen ander weet: wijnboer Ilja Gort. Motto: 'Wijn is om te lachen en om van te genieten.' In de nieuwe wijnsurvivalgids geeft wijnkenner Ilja Gort tal van tips, dwarse weetjes en onthullingen uit de achterkamers van de wijnhandel. Met deze nieuwe gids kan zelfs de meest ervaren bierdrinker de wijngevaren aan. Op zijn bekende humoristische manier geeft Gort simpele oplossingen voor lastige wijnvragen: Hoe ga ik in een restaurant de wijnkaart te lijf? Wat zeg ik tegen een onwillige ober? Hoe koop ik wijn? Na deze gids weet je alles wat nodig is en heers je als een vorst over de kurkentrekker. Het boek is voorzien van een sticker 'Wijnboek van het jaar'! 'Eindelijk een wijnboek dat op een simpele manier uitlegt hoe het nu écht zit met wijn.' - de Volkskrant 'Dit boek zou verplicht gesteld moeten worden op de middelbare school', De Telegraaf 'Een verrukkelijk boek, een geweldig cadeau en een absolute must voor iedere wijnliefhebber of francofiel.' - En Route Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ilja Gort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omdat het kan]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/418962227/omdat-het-kan-eva-daeleman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/418962227/omdat-het-kan-eva-daeleman"/>
+        <updated>2026-08-21T07:36:04.790Z</updated>
+        <summary type="html"><![CDATA[een boek over veerkracht, levenslust en ont-moeten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A418962227?aid=kb-online-bibliotheek&sid=22&dts=1787297464761&sig=e5683e3a1a2ec99fa491518774e0089beb6943136b4690cff2e5e81ad57c9446&width=320" alt="Omslag van 'Omdat het kan'" title="Omslag van 'Omdat het kan'">
+<p>Een bekende Vlaamse radiomaakster die haar leven heeft omgegooid na een burn-out, geeft adviezen over wat echt belangrijk is in het leven.</p>]]></content>
+        <author>
+            <name>Eva Daeleman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vrije vogels]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436134403/vrije-vogels-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436134403/vrije-vogels-ilja-gort"/>
+        <updated>2026-08-21T07:36:05.199Z</updated>
+        <summary type="html"><![CDATA[roman]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436134403?aid=kb-online-bibliotheek&sid=22&dts=1787297764939&sig=f1f7de416fa4678740223e184dc92ed8b6e23ad244618fc7c5acac7c02e2e729&width=320" alt="Omslag van 'Vrije vogels'" title="Omslag van 'Vrije vogels'">
+<p>In Vrije vogels genieten idealist Abel en zijn doortastende vrouw Angela van het heerlijke leven op hun Zuid-Franse wijndomein. Maar dan komt de leider van een Brabantse motorbende verhaal halen en wordt alles op zijn kop gezet. Abel en de bendeleider vertrekken per Harley Davidson op een roadtrip door het ruige Pyreneese berglandschap. Bijgestaan door een bijzondere ezel begint hun barre tocht die via spectaculaire avonturen leidt tot een knallende ontknoping. Vrije vogels is Ilja Gorts vervolg op Bed en Breakfast en Godendrank, maar ook goed afzonderlijk te lezen. Een zomerboek met Franse avonturen, spanning en veel humor dat heerlijk wegleest. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
@@ -44,15 +173,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We always get our sin too]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645618/we-always-get-our-sin-too-maarten-h--rijkens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645618/we-always-get-our-sin-too-maarten-h--rijkens"/>
-        <updated>2026-08-20T07:33:55.793Z</updated>
-        <summary type="html"><![CDATA[tips om bizar Engels te vermijden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645618?aid=kb-online-bibliotheek&sid=22&dts=1787211235541&sig=5c64607067b55c96d69e79f6106053fa30ba6fb07d6447f0efe063c80d5de73a&width=320" alt="Omslag van 'We always get our sin too'" title="Omslag van 'We always get our sin too'">
-<p>Voorbeelden van te letterlijke vertalingen van Nederlandse uitdrukkingen in het Engels.</p>]]></content>
+        <title type="html"><![CDATA[Schouders]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt"/>
+        <updated>2026-08-17T07:44:49.037Z</updated>
+        <summary type="html"><![CDATA[3PAK]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461387301?aid=kb-online-bibliotheek&sid=22&dts=1786950406921&sig=b97f2203ad307c5789d24e89edd127475e2da07d0394b9ece0462cc3b4d576a9&width=320" alt="Omslag van 'Schouders'" title="Omslag van 'Schouders'">
+<p></p>]]></content>
         <author>
-            <name>Maarten H. Rijkens</name>
+            <name>Harmen van Liemt</name>
         </author>
     </entry>
     <entry>
@@ -65,53 +194,6 @@
 <p>Geschiedenis van de overname en opsplitsing van ABN AMRO in 2007.</p>]]></content>
         <author>
             <name>Jeroen Smit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doe maar gewoon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394644905/doe-maar-gewoon-hans-kaldenbach</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394644905/doe-maar-gewoon-hans-kaldenbach"/>
-        <updated>2026-08-20T07:33:56.467Z</updated>
-        <summary type="html"><![CDATA[99 tips voor het omgaan met Nederlanders]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644905?aid=kb-online-bibliotheek&sid=22&dts=1787211236235&sig=44c2a8071269dd2a049b3370928e17d272397d11828175d127de1b235c944ab5&width=320" alt="Omslag van 'Doe maar gewoon'" title="Omslag van 'Doe maar gewoon'">
-<p>Als u bij een Nederlander op bezoek gaat, dan krijgt u vaak meteen een kopje koffie of thee. Dat betekent niet dat u snel weer weg moet, maar juist dat u van harte welkom bent. U krijgt bij ieder kopje één koekje en daarna gaat de koektrommel dicht. Nederlanders vinden dat helemaal niet onhartelijk van zichzelf. Meestal krijgt u na uw eerste kopje nog een tweede kopje, ook weer met één koekje. Dit is één van de 99 observaties uit Doe maar gewoon, een luchtige gebruiksaanwijzing voor iedereen die in het dagelijks leven al dan niet vrijwillig geconfronteerd wordt met Nederlanders. In deze kleine en gezellige cultuurschets wordt de hedendaagse Nederlandse etiquette op rake wijze beschreven. Af en toe mag de auteur verdacht worden van lichte spotternij, maar nooit kan getwijfeld worden aan zijn deskundigheid. Doe maar gewoon houdt Nederlanders een plezierige lachspiegel voor. Tevens kan het dienst doen als een compacte en nuttige handleiding voor de vele buitenlanders die zich in Nederland gevestigd hebben. Doe maar gewoon is vertaald in het Duits, Arabisch en Engels. Hans Kaldenbach is adviseur bij ACTA Kaldenbach en bij Centro, de contractafdeling van de Hogeschool van Utrecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Hans Kaldenbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Respect!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394644913/respect--hans-kaldenbach</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394644913/respect--hans-kaldenbach"/>
-        <updated>2026-08-20T07:33:56.697Z</updated>
-        <summary type="html"><![CDATA[99 tips voor het omgaan met jongeren in de straatcultuur]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644913?aid=kb-online-bibliotheek&sid=22&dts=1787210579310&sig=0ee6de3cd991459de7edbd593da775fed16fcc2a32a19f51275625fb34042e59&width=320" alt="Omslag van 'Respect!'" title="Omslag van 'Respect!'">
-<p>Hans Kaldenbach Respect! Hoe kan een conciërge een wapengevaarlijke jongen verwijderen van het schoolplein? Hoe kunt u plassende hangjongeren uit uw portiek weg krijgen? Hoe kan de politie een bekentenis krijgen van jongeren die altijd ontkennen? Respect! is een praktisch boek over jongeren die zich niet laten corrigeren. Het geeft concrete tips voor effectief gedrag, zowel voor individuele correctie als voor corrigeren in groepsverband. Over welke jongeren gaat het? Als je ze corrigeert geven ze jou het gevoel dat je een zeikerd bent. Ze zullen nooit toegeven dat ze iets gedaan hebben. Ze kennen geen nee. Ze gáán maar door. Ze praten op een hondsbrutale, denigrerende toon tegen je. Je voelt hun minachting, zeker als je vrouw bent. Ze zeggen meteen dat je ze discrimineert. Ze eisen respect maar geven dat zelf juist niet. Respect! is luchtig en puntsgewijs opgebouwd in 99 korte verhelderende paragrafen. Hans Kaldenbach is onder meer bekend van Doe maar gewoon, 99 tips voor het omgaan met Nederlanders. Hij heeft politieagenten, docenten, zwembadpersoneel en vele anderen getraind in de moeilijkste buurten van Nederland. Zijn leidraad is: u kunt de wind niet veranderen, maar hoe de zeilen staan, bepaalt u zelf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Hans Kaldenbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jihad met sambal]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645731/jihad-met-sambal-step-vaessen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645731/jihad-met-sambal-step-vaessen"/>
-        <updated>2026-08-20T07:33:57.072Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645731?aid=kb-online-bibliotheek&sid=22&dts=1787211236810&sig=9ede59809fc0d727d3584d2f5b465d04c03d5fd1cebab3e097406c03b0e5da9a&width=320" alt="Omslag van 'Jihad met sambal'" title="Omslag van 'Jihad met sambal'">
-<p>De Nederlandse televisieverslaggeefster voor de NOS en later Al Jazeera vertelt over haar (persoonlijke) ervaringen in Indonesië, het grootste moslimland ter wereld.</p>]]></content>
-        <author>
-            <name>Step Vaessen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het maakbare brein]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39462288X/het-maakbare-brein-margriet-sitskoorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39462288X/het-maakbare-brein-margriet-sitskoorn"/>
-        <updated>2026-08-20T07:33:57.429Z</updated>
-        <summary type="html"><![CDATA[gebruik je hersens en word wie je wilt zijn]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39462288X?aid=kb-online-bibliotheek&sid=22&dts=1787211237179&sig=166ecbd11a168f017688ae3e1bc3273d59bb5cd6352217e928843d7707745539&width=320" alt="Omslag van 'Het maakbare brein'" title="Omslag van 'Het maakbare brein'">
-<p>Kun je op volwassen leeftijd nog een rekenwonder worden, doorzettingsvermogen verkrijgen of je angsten overwinnen? Dat kan, want onze hersenen zijn in staat tot reorganisatie en zelfvernieuwing: er ontstaan nieuwe verbindingen in het brein en er worden nieuwe cellen aangemaakt. Hierdoor kunnen we onszelf op alle fronten blijven ontwikkelen. Het maakbare brein beschrijft hoe de hersenen zich ontwikkelen en hoe dit zich verhoudt tot het leren van een tweede taal, een absoluut gehoor of het onderdrukken van impulsen. Bijzondere levensverhalen laten zien dat gedrag en omgeving je hersenen vormen en je vermogens bepalen: een violiste die een kwart van haar hersenen verloor kon toch professioneel blijven spelen, en een jongen die door kippen werd opgevoed veranderde zijn kippengedrag in menselijk gedrag. Aan de hand van de laatste inzichten uit het hersenonderzoek en voorbeelden uit de praktijk laat Margriet Sitskoorn zien hoe we door ons gedrag zélf onze hersenen kunnen vormen en zo beter kunnen functioneren. Het maakbare brein geeft een handreiking voor sterker hersenwerk en een krachtige persoonlijke ontwikkeling. Margriet Sitskoorn is neuropsycholoog en associate professor bij het Universitair Medisch Centrum Utrecht. Zij verricht onder andere onderzoek naar de relatie tussen gedrag en de plasticiteit van het menselijk brein. Ze schrijft naast haar wetenschappelijke werk columns voor verschillende populair-wetenschappelijke bladen en verleende haar medewerking aan meerdere tv-programmas. Sitskoorn kan goed vertellen. Haar wonderbaarlijke verhalen doen denken aan de boeken van Oliver Sacks. nederlands dagblad Heel fijn is dat het boek korte metten maakt met het deprimerende idee dat je hersenen rond je twintigste klaar zijn en dat het daarna alleen bergafwaarts gaat. psychologie magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Margriet Sitskoorn</name>
         </author>
     </entry>
     <entry>
@@ -142,14 +224,60 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conservatieve vooruitgang]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623177/conservatieve-vooruitgang-thierry-baudet</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623177/conservatieve-vooruitgang-thierry-baudet"/>
-        <updated>2026-08-20T07:33:58.240Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623177?aid=kb-online-bibliotheek&sid=22&dts=1787208350025&sig=8d9c44f8023175aa658d82cb1b7704d8ec83df8ca17a93e0a3e04323a58fba02&width=320" alt="Omslag van 'Conservatieve vooruitgang'" title="Omslag van 'Conservatieve vooruitgang'">
-<p>Portretten van twintig belangrijke conservatieve denkers uit de twintigste eeuw.</p>]]></content>
+        <title type="html"><![CDATA[Het maakbare brein]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39462288X/het-maakbare-brein-margriet-sitskoorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39462288X/het-maakbare-brein-margriet-sitskoorn"/>
+        <updated>2026-08-20T07:33:57.429Z</updated>
+        <summary type="html"><![CDATA[gebruik je hersens en word wie je wilt zijn]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39462288X?aid=kb-online-bibliotheek&sid=22&dts=1787211237179&sig=166ecbd11a168f017688ae3e1bc3273d59bb5cd6352217e928843d7707745539&width=320" alt="Omslag van 'Het maakbare brein'" title="Omslag van 'Het maakbare brein'">
+<p>Kun je op volwassen leeftijd nog een rekenwonder worden, doorzettingsvermogen verkrijgen of je angsten overwinnen? Dat kan, want onze hersenen zijn in staat tot reorganisatie en zelfvernieuwing: er ontstaan nieuwe verbindingen in het brein en er worden nieuwe cellen aangemaakt. Hierdoor kunnen we onszelf op alle fronten blijven ontwikkelen. Het maakbare brein beschrijft hoe de hersenen zich ontwikkelen en hoe dit zich verhoudt tot het leren van een tweede taal, een absoluut gehoor of het onderdrukken van impulsen. Bijzondere levensverhalen laten zien dat gedrag en omgeving je hersenen vormen en je vermogens bepalen: een violiste die een kwart van haar hersenen verloor kon toch professioneel blijven spelen, en een jongen die door kippen werd opgevoed veranderde zijn kippengedrag in menselijk gedrag. Aan de hand van de laatste inzichten uit het hersenonderzoek en voorbeelden uit de praktijk laat Margriet Sitskoorn zien hoe we door ons gedrag zélf onze hersenen kunnen vormen en zo beter kunnen functioneren. Het maakbare brein geeft een handreiking voor sterker hersenwerk en een krachtige persoonlijke ontwikkeling. Margriet Sitskoorn is neuropsycholoog en associate professor bij het Universitair Medisch Centrum Utrecht. Zij verricht onder andere onderzoek naar de relatie tussen gedrag en de plasticiteit van het menselijk brein. Ze schrijft naast haar wetenschappelijke werk columns voor verschillende populair-wetenschappelijke bladen en verleende haar medewerking aan meerdere tv-programmas. Sitskoorn kan goed vertellen. Haar wonderbaarlijke verhalen doen denken aan de boeken van Oliver Sacks. nederlands dagblad Heel fijn is dat het boek korte metten maakt met het deprimerende idee dat je hersenen rond je twintigste klaar zijn en dat het daarna alleen bergafwaarts gaat. psychologie magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Thierry Baudet</name>
+            <name>Margriet Sitskoorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jihad met sambal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645731/jihad-met-sambal-step-vaessen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645731/jihad-met-sambal-step-vaessen"/>
+        <updated>2026-08-20T07:33:57.072Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645731?aid=kb-online-bibliotheek&sid=22&dts=1787211236810&sig=9ede59809fc0d727d3584d2f5b465d04c03d5fd1cebab3e097406c03b0e5da9a&width=320" alt="Omslag van 'Jihad met sambal'" title="Omslag van 'Jihad met sambal'">
+<p>De Nederlandse televisieverslaggeefster voor de NOS en later Al Jazeera vertelt over haar (persoonlijke) ervaringen in Indonesië, het grootste moslimland ter wereld.</p>]]></content>
+        <author>
+            <name>Step Vaessen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Respect]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644913/respect-hans-kaldenbach</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644913/respect-hans-kaldenbach"/>
+        <updated>2026-08-21T07:36:05.507Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644913?aid=kb-online-bibliotheek&sid=22&dts=1787297765303&sig=c6df7a87d10898a244e800a30fd4e031b287411b3f4b4bc0326dc71bfdaeb06e&width=320" alt="Omslag van 'Respect'" title="Omslag van 'Respect'">
+<p>Hans Kaldenbach Respect! Hoe kan een conciërge een wapengevaarlijke jongen verwijderen van het schoolplein? Hoe kunt u plassende hangjongeren uit uw portiek weg krijgen? Hoe kan de politie een bekentenis krijgen van jongeren die altijd ontkennen? Respect! is een praktisch boek over jongeren die zich niet laten corrigeren. Het geeft concrete tips voor effectief gedrag, zowel voor individuele correctie als voor corrigeren in groepsverband. Over welke jongeren gaat het? Als je ze corrigeert geven ze jou het gevoel dat je een zeikerd bent. Ze zullen nooit toegeven dat ze iets gedaan hebben. Ze kennen geen nee. Ze gáán maar door. Ze praten op een hondsbrutale, denigrerende toon tegen je. Je voelt hun minachting, zeker als je vrouw bent. Ze zeggen meteen dat je ze discrimineert. Ze eisen respect maar geven dat zelf juist niet. Respect! is luchtig en puntsgewijs opgebouwd in 99 korte verhelderende paragrafen. Hans Kaldenbach is onder meer bekend van Doe maar gewoon, 99 tips voor het omgaan met Nederlanders. Hij heeft politieagenten, docenten, zwembadpersoneel en vele anderen getraind in de moeilijkste buurten van Nederland. Zijn leidraad is: u kunt de wind niet veranderen, maar hoe de zeilen staan, bepaalt u zelf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hans Kaldenbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doe maar gewoon]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394644905/doe-maar-gewoon-hans-kaldenbach</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394644905/doe-maar-gewoon-hans-kaldenbach"/>
+        <updated>2026-08-20T07:33:56.467Z</updated>
+        <summary type="html"><![CDATA[99 tips voor het omgaan met Nederlanders]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644905?aid=kb-online-bibliotheek&sid=22&dts=1787211236235&sig=44c2a8071269dd2a049b3370928e17d272397d11828175d127de1b235c944ab5&width=320" alt="Omslag van 'Doe maar gewoon'" title="Omslag van 'Doe maar gewoon'">
+<p>Als u bij een Nederlander op bezoek gaat, dan krijgt u vaak meteen een kopje koffie of thee. Dat betekent niet dat u snel weer weg moet, maar juist dat u van harte welkom bent. U krijgt bij ieder kopje één koekje en daarna gaat de koektrommel dicht. Nederlanders vinden dat helemaal niet onhartelijk van zichzelf. Meestal krijgt u na uw eerste kopje nog een tweede kopje, ook weer met één koekje. Dit is één van de 99 observaties uit Doe maar gewoon, een luchtige gebruiksaanwijzing voor iedereen die in het dagelijks leven al dan niet vrijwillig geconfronteerd wordt met Nederlanders. In deze kleine en gezellige cultuurschets wordt de hedendaagse Nederlandse etiquette op rake wijze beschreven. Af en toe mag de auteur verdacht worden van lichte spotternij, maar nooit kan getwijfeld worden aan zijn deskundigheid. Doe maar gewoon houdt Nederlanders een plezierige lachspiegel voor. Tevens kan het dienst doen als een compacte en nuttige handleiding voor de vele buitenlanders die zich in Nederland gevestigd hebben. Doe maar gewoon is vertaald in het Duits, Arabisch en Engels. Hans Kaldenbach is adviseur bij ACTA Kaldenbach en bij Centro, de contractafdeling van de Hogeschool van Utrecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hans Kaldenbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We always get our sin too]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645618/we-always-get-our-sin-too-maarten-h-rijkens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645618/we-always-get-our-sin-too-maarten-h-rijkens"/>
+        <updated>2026-08-21T07:36:05.722Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645618?aid=kb-online-bibliotheek&sid=22&dts=1787233662907&sig=70256d5a33e77d3ffbcbe8cb5cd390f734fe9cecc02660d10137eabf8b5cb9d1&width=320" alt="Omslag van 'We always get our sin too'" title="Omslag van 'We always get our sin too'">
+<p>Voorbeelden van te letterlijke vertalingen van Nederlandse uitdrukkingen in het Engels.</p>]]></content>
+        <author>
+            <name>Maarten H Rijkens</name>
         </author>
     </entry>
     <entry>
@@ -164,65 +292,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Handboek voor de liefdespanter]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645952/handboek-voor-de-liefdespanter-jan-heemskerk---marcel-langedijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645952/handboek-voor-de-liefdespanter-jan-heemskerk---marcel-langedijk"/>
-        <updated>2026-08-20T07:33:58.830Z</updated>
-        <summary type="html"><![CDATA[succesgids voor de kansloze casanova]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645952?aid=kb-online-bibliotheek&sid=22&dts=1787209067196&sig=ffa9ba5456bf9771f0f9f719667ad96215ab37b31309cb88c19c7f707ada5860&width=320" alt="Omslag van 'Handboek voor de liefdespanter'" title="Omslag van 'Handboek voor de liefdespanter'">
-<p>Humoristische adviezen voor mannen die vrouwen willen versieren.</p>]]></content>
-        <author>
-            <name>Jan Heemskerk</name>
-        </author>
-        <author>
-            <name>Marcel Langedijk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het voorseizoen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394646096/het-voorseizoen-david-pefko</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394646096/het-voorseizoen-david-pefko"/>
-        <updated>2026-08-20T07:33:59.147Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646096?aid=kb-online-bibliotheek&sid=22&dts=1787211238952&sig=d267f7e0e42e0cfe3d08f8e9110583a80b6915c15d239a354f6666a538ec01dc&width=320" alt="Omslag van 'Het voorseizoen'" title="Omslag van 'Het voorseizoen'">
-<p>Nadat zijn vrouw hem verlaten heeft, raakt een middelbare politierechercheur in een midlife-crisis.</p>]]></content>
-        <author>
-            <name>David Pefko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het gaat geweldig]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623223/het-gaat-geweldig-michiel-bicker-caarten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623223/het-gaat-geweldig-michiel-bicker-caarten"/>
-        <updated>2026-08-20T07:33:59.375Z</updated>
-        <summary type="html"><![CDATA[100 feiten die u een andere kijk op de wereld geven]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623223?aid=kb-online-bibliotheek&sid=22&dts=1787209690179&sig=cb9fe6910a623fec1398e833469682387c5cb2b2a9eaaea6218181fefb0f40a1&width=320" alt="Omslag van 'Het gaat geweldig'" title="Omslag van 'Het gaat geweldig'">
-<p>Optimistische visie op de huidige wereldproblemen en de mogelijkheden om deze op te lossen.</p>]]></content>
-        <author>
-            <name>Michiel Bicker Caarten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makke schapen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623169/makke-schapen-paul-kalma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623169/makke-schapen-paul-kalma"/>
-        <updated>2026-08-20T07:33:59.678Z</updated>
-        <summary type="html"><![CDATA[over volgzame burgers en vluchtige politiek]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623169?aid=kb-online-bibliotheek&sid=22&dts=1787211239486&sig=8cbc0e5be250e935d0784fa57ed27588351c68744a72ef7ec2bcbe7e6652e69b&width=320" alt="Omslag van 'Makke schapen'" title="Omslag van 'Makke schapen'">
-<p>Pleidooi vanuit sociaaldemocratische hoek voor meer democratische burgerinitiatieven om maatschappelijke veranderingen niet langer alleen aan de politici over te laten.</p>]]></content>
-        <author>
-            <name>Paul Kalma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frans Goedhart]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623134/frans-goedhart-madelon-de-keizer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623134/frans-goedhart-madelon-de-keizer"/>
-        <updated>2026-08-20T07:33:59.887Z</updated>
-        <summary type="html"><![CDATA[journalist en politicus (1904-1990); een biografie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623134?aid=kb-online-bibliotheek&sid=22&dts=1787211175589&sig=1dde5734314d6588f29e62c6973f7d344bd6da95881b4816bc1879075935ba67&width=320" alt="Omslag van 'Frans Goedhart'" title="Omslag van 'Frans Goedhart'">
+        <title type="html"><![CDATA[Frans Goedhart, journalist en politicus (1904-1990)]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394623134/frans-goedhart--journalist-en-politicus--1904-1990--madelon-de-keizer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394623134/frans-goedhart--journalist-en-politicus--1904-1990--madelon-de-keizer"/>
+        <updated>2026-08-21T07:36:06.066Z</updated>
+        <summary type="html"><![CDATA[een biografie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623134?aid=kb-online-bibliotheek&sid=22&dts=1787297765847&sig=62915de32563de730afe01c73adef98221ec6fed6a2c95ded96a8d31fe7ce5fb&width=320" alt="Omslag van 'Frans Goedhart, journalist en politicus (1904-1990)'" title="Omslag van 'Frans Goedhart, journalist en politicus (1904-1990)'">
 <p>Felle conflicten en grote controverses kenmerkten het leven van de markante Nederlandse journalist en politicus Frans Goedhart. Geboren in het decennium voor de Eerste Wereldoorlog en overleden enkele maanden na de val van de Muur omspande zijn leven bijna de hele twintigste eeuw. Een belangrijk deel van die tijd was hij ongekend politiek actief waarbij hij alle politieke uitdagingen van zijn tijd het hoofd bood in woord en geschrift - en vaak op scherpe en humoristische wijze. Maar Frans Goedhart, journalist en politicus is ook het verhaal van een onbegrepen held, wiens taaie vasthoudendheid als behoudzucht en scherpe observaties als uitingen van blinde obsessie werden geïnterpreteerd. Een man die zich aan niets en niemand iets gelegen liet liggen en die stond voor zijn opvattingen. Frans Goedhart stelde zijn hele leven in dienst van de strijd tegen de dictatuur. In de Tweede Wereldoorlog als de spraakmakende en invloedrijke Pieter 't Hoen van het verzetsblad Het Parool, na de oorlog als omstreden Parool-commentator en een kwarteeuw lang als kritisch buitenlandspecialist van de PvdA. Deze onthullende biografie biedt een nieuwe en verrassende blik op hoe een groot Nederlands politicus en journalist worstelde met de machten van zijn tijd, niet alleen voor en in de oorlog, maar ook nadien: in de Raad van Europa, via het door de cia gesubsidieerde Radio Free Europe, als navo-parlementariër en als Tweede Kamerlid, dat in 1970 dramatisch afscheid nam van de sociaaldemocratie. Madelon de Keizer is historicus en verbonden aan het niod. Zij promoveerde cum laude op Het Parool 1940-1945. Verzetsblad in Oorlogstijd en publiceerde veel over de Nederlandse geschiedenis van de twintigste eeuw, zoals Putten. De razzia en de herinnering (1998) en in 2010 met Marije Plomp Een open zenuw. Hoe wij ons de Tweede Wereldoorlog herinneren. In 2005-2006 was zij verbonden aan Harvard University. In dat kader verscheen De dochter van een gazan. Carry van Bruggen en de Nederlandse samenleving 1900-1930 (2006). 'Een prachtige biografie en een uniek portret van een uitzonderlijk twintigste-eeuwse politicus.' hans daalder - biograaf van willem drees 'Dit boek is een indringend verslag van de politieke levensloop van een fysieke en intellectuele held, voor wie de bestrijding van elke vorm van dictatuur, zowel van voor 1945 als van daarna, een zelfgekozen opdracht was.' wim van norden - oud-directeur van het parool 'De Koude Oorlog en de angst van het Westen voor de communistische ondermijning van de democratische westerse samenleving herleeft in deze met empathie en groot gevoel voor scherpe analyse van de mens, journalist en politicus Frans Goedhart geschreven biografie.' albert kersten - biograaf van jozef luns </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Madelon de Keizer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huis van de Aanrakingen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394646401/huis-van-de-aanrakingen-peter-verhelst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394646401/huis-van-de-aanrakingen-peter-verhelst"/>
+        <updated>2026-08-20T07:34:02.269Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646401?aid=kb-online-bibliotheek&sid=22&dts=1787211242037&sig=fac4170fcadc570d4185cc21103ed9d5b16c849b3ea56bf3b0d8376454f1bd45&width=320" alt="Omslag van 'Huis van de Aanrakingen'" title="Omslag van 'Huis van de Aanrakingen'">
+<p>Twee archeologen stuiten op een oude beschaving; door hun speurtocht wordt de eeuwenoude traditie van het verhalenvertellen geopenbaard.</p>]]></content>
+        <author>
+            <name>Peter Verhelst</name>
         </author>
     </entry>
     <entry>
@@ -239,37 +328,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Wij zijn maar wij zijn niet geschift]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645758/wij-zijn-maar-wij-zijn-niet-geschift-tim-krabbe-</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645758/wij-zijn-maar-wij-zijn-niet-geschift-tim-krabbe-"/>
-        <updated>2026-08-20T07:34:00.455Z</updated>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394645758/wij-zijn-maar-wij-zijn-niet-geschift-tim-krabbe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394645758/wij-zijn-maar-wij-zijn-niet-geschift-tim-krabbe"/>
+        <updated>2026-08-21T07:36:11.560Z</updated>
         <summary type="html"><![CDATA[de schietpartij van Columbine]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645758?aid=kb-online-bibliotheek&sid=22&dts=1787211220485&sig=8a5fc036304df2326729b49c4a6bed140a64ea030faf30534e4e4b31dc4359e8&width=320" alt="Omslag van 'Wij zijn maar wij zijn niet geschift'" title="Omslag van 'Wij zijn maar wij zijn niet geschift'">
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645758?aid=kb-online-bibliotheek&sid=22&dts=1787297766185&sig=37ebd5df744e05cb87524a657bbb9a2bf801e1764d44f63cb7f5e53d066752c2&width=320" alt="Omslag van 'Wij zijn maar wij zijn niet geschift'" title="Omslag van 'Wij zijn maar wij zijn niet geschift'">
 <p>Reconstructie van de schietpartij op Columbine High School in 1999 waarbij dertien dodelijke slachtoffers vielen, met een onderzoek naar de achtergronden van de 17- en 18-jarige daders.</p>]]></content>
         <author>
-            <name>Tim Krabbé</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De dagen van Sjaitan]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394646371/de-dagen-van-sjaitan-said-el-haji</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394646371/de-dagen-van-sjaitan-said-el-haji"/>
-        <updated>2026-08-20T07:34:00.764Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646371?aid=kb-online-bibliotheek&sid=22&dts=1787211240573&sig=331dd89dae953c7be1f05fdda493d6b66b2f51a36e432736e57e223ffc44634a&width=320" alt="Omslag van 'De dagen van Sjaitan'" title="Omslag van 'De dagen van Sjaitan'">
-<p>Een jongen uit een streng islamitisch gezin van Marokkaanse migranten in Nederland komt meer en meer in verzet tegen zijn vader en diens traditie.</p>]]></content>
-        <author>
-            <name>Said El Haji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IJzeren wil]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623290/ijzeren-wil-sander-voormolen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623290/ijzeren-wil-sander-voormolen"/>
-        <updated>2026-08-20T07:34:01.093Z</updated>
-        <summary type="html"><![CDATA[de wetenschap achter durfals]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623290?aid=kb-online-bibliotheek&sid=22&dts=1787211240873&sig=b7ec6357ba06bc3848beb0da264f74432065d911f0fd0b8b7f384b4f9eec8fa2&width=320" alt="Omslag van 'IJzeren wil'" title="Omslag van 'IJzeren wil'">
-<p>Artikelen over mensen die extreme situaties zoeken en daarbij tot het uiterste gaan, en over hun fysiologie die hen daartoe in staat stelt.</p>]]></content>
-        <author>
-            <name>Sander Voormolen</name>
+            <name>Tim Krabbe</name>
         </author>
     </entry>
     <entry>
@@ -285,14 +351,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revolutionair verval en de conservatieve vooruitgang in de achttiende en negentiende eeuw]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623347/revolutionair-verval-en-de-conservatieve-vooruitgang-in-de-achttiende-en-negentiende-eeuw--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623347/revolutionair-verval-en-de-conservatieve-vooruitgang-in-de-achttiende-en-negentiende-eeuw--"/>
-        <updated>2026-08-20T07:34:01.608Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623347?aid=kb-online-bibliotheek&sid=22&dts=1787209795425&sig=215bc55a6b189fd082ffa5482ee3502dead2a04e73df807676c08dc045dc78bc&width=320" alt="Omslag van 'Revolutionair verval en de conservatieve vooruitgang in de achttiende en negentiende eeuw'" title="Omslag van 'Revolutionair verval en de conservatieve vooruitgang in de achttiende en negentiende eeuw'">
-<p>Portretten van 21 belangrijke conservatieve denkers uit de achttiende en negentiende eeuw.</p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De loden bal van het socialisme]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394623479/de-loden-bal-van-het-socialisme-bart-tromp</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394623479/de-loden-bal-van-het-socialisme-bart-tromp"/>
@@ -302,61 +360,6 @@
 <p>In De loden bal van het socialisme is een selectie opgenomen van analyses en beschouwingen die Bart Tromp in de loop der jaren heeft geschreven over één van de grote themas waarmee hij zich zijn leven lang met hart en ziel heeft beziggehouden: de sociaaldemocratie in al haar aspecten. Hoe de geldzucht in toom te houden die mens en samenleving wereldwijd bedreigen? Bart Tromp laat zien hoe de sociaaldemocratie vanaf haar ontstaan met dit probleem heeft geworsteld. Marx, Kautsky, Bernstein, Lenin, de Fabians en vele anderen zijn de wegwijzers, waarschuwingstekens en verbodsborden waarlangs hij de lezer voert. De dwaalwegen en dilemmas uit het verleden sleept de sociaaldemocratie nog steeds als een loden bal met zich mee. Het boek is onderverdeeld in zes delen. De ontwikkeling van de kapitalistische wereldeconomie is het toneel waarop Tromp de noodzaak van een moderne sociaaldemocratie uiteenzet. Naast biografische schetsen van de belangrijkste erflaters van het socialisme, zijn in dit boek ook prachtige essays opgenomen over mensen die zich wijdden aan de sociaaldemocratie: van Clement Attlee tot De Miranda. Uitgebreide aandacht wordt besteed aan nut en noodzaak van de beginselen, de `missie, van de sociaaldemocratie. Aan organisatie, ideologie en strategie van de PvdA is een apart deel gewijd. Het boek eindigt met opstellen over de democratie die voor Tromp onlosmakelijk met het socialisme verbonden is omdat alleen daardoor de dominantie van het kapitalisme aan banden is te leggen. Deze uitgave met werk van Bart Tromp verschijnt onder auspiciën van de Bart Trompstichting - www.BartTrompstichting.nl - en wordt ingeleid door Job Cohen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Bart Tromp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huis van de Aanrakingen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394646401/huis-van-de-aanrakingen-peter-verhelst</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394646401/huis-van-de-aanrakingen-peter-verhelst"/>
-        <updated>2026-08-20T07:34:02.269Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646401?aid=kb-online-bibliotheek&sid=22&dts=1787211242037&sig=fac4170fcadc570d4185cc21103ed9d5b16c849b3ea56bf3b0d8376454f1bd45&width=320" alt="Omslag van 'Huis van de Aanrakingen'" title="Omslag van 'Huis van de Aanrakingen'">
-<p>Twee archeologen stuiten op een oude beschaving; door hun speurtocht wordt de eeuwenoude traditie van het verhalenvertellen geopenbaard.</p>]]></content>
-        <author>
-            <name>Peter Verhelst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het grootste geluk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394646932/het-grootste-geluk-eveline-vreeburg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394646932/het-grootste-geluk-eveline-vreeburg"/>
-        <updated>2026-08-20T07:34:02.632Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646932?aid=kb-online-bibliotheek&sid=22&dts=1787211242374&sig=94d0cbcac2c93a52243c954bceef658a93d3b005d2a49a7d74e505d8a1f6e641&width=320" alt="Omslag van 'Het grootste geluk'" title="Omslag van 'Het grootste geluk'">
-<p>Een echtpaar lijkt niet voortbestemd voor het grote geluk.</p>]]></content>
-        <author>
-            <name>Eveline Vreeburg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iedereen noemt me Loulou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394646940/iedereen-noemt-me-loulou-anna-karolina</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394646940/iedereen-noemt-me-loulou-anna-karolina"/>
-        <updated>2026-08-20T07:34:02.864Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646940?aid=kb-online-bibliotheek&sid=22&dts=1787210351359&sig=be13e9a80ffbf8a62ad205e0f8dc27ec244d68008cb569fce25a07dbb840a3ff&width=320" alt="Omslag van 'Iedereen noemt me Loulou'" title="Omslag van 'Iedereen noemt me Loulou'">
-<p>Als een knappe dertigjarige vrouw een nieuwe baan vindt bij de televisie, krijgt ze daar direct een seksuele relatie met haar aantrekkelijke baas.</p>]]></content>
-        <author>
-            <name>Anna Karolina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De algehele geschiedenis van het denken, of Het verbond tussen filosofie, wetenschap, kunst en godsdienst]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623363/de-algehele-geschiedenis-van-het-denken--of-het-verbond-tussen-filosofie--wetenschap--kunst-en-godsdienst-andre--klukhuhn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623363/de-algehele-geschiedenis-van-het-denken--of-het-verbond-tussen-filosofie--wetenschap--kunst-en-godsdienst-andre--klukhuhn"/>
-        <updated>2026-08-20T07:34:03.277Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623363?aid=kb-online-bibliotheek&sid=22&dts=1787211243021&sig=1c81489575992e324f10f8ae4a2f17f33ba9be4de3626b3bd0acb847dd75fe0e&width=320" alt="Omslag van 'De algehele geschiedenis van het denken, of Het verbond tussen filosofie, wetenschap, kunst en godsdienst'" title="Omslag van 'De algehele geschiedenis van het denken, of Het verbond tussen filosofie, wetenschap, kunst en godsdienst'">
-<p>De grote filosoof en wetenschapper André Klukhuhn houdt zich al jaren bezig met de menselijke geest. De algehele geschiedenis van het denken is zijn magnum opus: de weergave van een leven lang denken. Klukhuhns basisgedachten zijn dat het menselijke bewustzijn uniek is en dat wetenschap en kunst, als twee aspecten daarvan, per definitie altijd tegenstrijdig zijn, maar tegelijk ook niet zonder elkaar kunnen: ze zijn complementair. Centraal in dit boek staat de tweeslachtige verhouding van de mens tot zijn leefwereld: de rede, met de wetenschap als ultieme consequentie, en het gevoel, dat in de kunst tot uitdrukking wordt gebracht. In een meesterlijke stijl, en gebruikmakend van de nieuwste inzichten, beschrijft André Klukhuhn de eeuwige spanning en het onlosmakelijke verbond tussen filosofie, wetenschap, kunst en godsdienst. De algehele geschiedenis van het denken is een belangrijk en baanbrekend boek. André Klukhuhn (1940) is scheikundige en filosoof. In 2003 verscheen zijn grote boek De geschiedenis van het denken, in 2008 gevolgd door Alle mensen heten Janus. Beide werden filosofische bestsellers. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>André Klukhuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vallen als het heet is]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39464705X/vallen-als-het-heet-is-jelmer-jepsen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39464705X/vallen-als-het-heet-is-jelmer-jepsen"/>
-        <updated>2026-08-20T07:34:03.656Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464705X?aid=kb-online-bibliotheek&sid=22&dts=1787211243392&sig=90e9cb1feef410737e802a49ace188f3c7b40075c17938b160412fcb67b0d5c4&width=320" alt="Omslag van 'Vallen als het heet is'" title="Omslag van 'Vallen als het heet is'">
-<p>Op weg naar zijn zieke oma spreekt een jongeman zijn moeder na lange tijd weer.</p>]]></content>
-        <author>
-            <name>Jelmer Jepsen</name>
         </author>
     </entry>
 </feed>
