@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-08-23T07:26:38.153Z</updated>
+    <updated>2026-08-24T07:51:29.176Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[3PAK Goed Verhaal 2026]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461414295/3pak-goed-verhaal-2026-maren-stoffels---harmen-van-liemt---simone-atangana-bekono</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461414295/3pak-goed-verhaal-2026-maren-stoffels---harmen-van-liemt---simone-atangana-bekono"/>
+        <updated>2026-08-24T07:51:18.795Z</updated>
+        <summary type="html"><![CDATA[3 x een goed verhaal]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461414295?aid=kb-online-bibliotheek&sid=23&dts=1787557878245&sig=5b1d5a3a539ad36adf3612ef4db0c8d148515c000b33d886091b2cf16a9de4b2&width=320" alt="Omslag van '3PAK Goed Verhaal 2026'" title="Omslag van '3PAK Goed Verhaal 2026'">
+<p>Maren Stoffels</p><p>LONE WOLF</p><p>Hoe ver ga je om iemands aandacht te krijgen? Tijdens een optreden van hun favoriete artiest ziet Robin eindelijk kans om Leon voor zich te winnen. Robin is echter niet de enige die gevaarlijk spel speelt…</p><p>  Harmen van Liemt</p><p>ONS VOORBIJ (ZOEF ZOEF)</p><p>Jules en Malik zijn al beste vrienden zolang ze zich kunnen herinneren. Onlosmakelijk met elkaar verbonden. Maar hoe ver gaat Maliks loyaliteit als de weg die ze samen hebben uitgestippeld niet meer bij hem past?</p><p> Simone Atangana Bekono</p><p>IEMAND MOET HET DOEN</p><p>Wanneer jeugdvriend Eric weer thuis is van zijn studie in België, kan Tony niet wachten om weer tijd met hem door te brengen. Maar Eric gedraagt zich anders en reageert nauwelijks op berichtjes. Wat is er met hem gebeurd?</p><p> LEES MEER 3PAK!</p><p>Klaar voor drie extra verhalen? Ga naar jeugdbibliotheek.nl/3pak-extra. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Maren Stoffels</name>
+        </author>
+        <author>
+            <name>Harmen van Liemt</name>
+        </author>
+        <author>
+            <name>Simone Atangana Bekono</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Superseks in 10 stappen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/397277318/superseks-in-10-stappen-goedele-liekens</id>
@@ -63,18 +81,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mosselen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/403983959/mosselen-piet-devriendt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/403983959/mosselen-piet-devriendt"/>
-        <updated>2026-08-21T07:36:03.806Z</updated>
-        <summary type="html"><![CDATA[de lekkerste gerechten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A403983959?aid=kb-online-bibliotheek&sid=22&dts=1787297763609&sig=aa8f17b03f0f0b62ace2ed56a6e04bb24b6dd949027539101203d8ae16788a2f&width=320" alt="Omslag van 'Mosselen'" title="Omslag van 'Mosselen'">
-<p>Mosselen. Wij Belgen eten ze het liefste met frietjes. Onze noorderburen graag met brood. Maar je kunt zo veel meer met de schelpdiertjes. Piet Devriendt, mosselchef van het restaurant De Oesterput in Blankenberge, selecteerde nieuwe, verfrissende, bekende en minder bekende recepten met de mossel in de hoofdrol. Gekookt, gebakken, in de wok of rauw, je kunt er alle kanten mee uit. Mosselen zijn niet alleen heel lekker, ze zijn ook erg gezond. Ze bevatten eiwitten, mineralen, vitamines en nauwelijks vet. En met dit boek heb je meer dan 50 manieren om het kleine zeediertje klaar te maken. Aan de hand van schitterende foto's legt Piet de recepten stap-voor-stap uit, zodat ook een niet-geoefende kok lekkere mosselgerechten op tafel kan toveren. Krijg jij ook al honger? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Piet Devriendt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dokter Pol]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/399891692/dokter-pol-jan-pol---david-fisher</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/399891692/dokter-pol-jan-pol---david-fisher"/>
@@ -87,6 +93,18 @@
         </author>
         <author>
             <name>David Fisher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mosselen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/403983959/mosselen-piet-devriendt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/403983959/mosselen-piet-devriendt"/>
+        <updated>2026-08-21T07:36:03.806Z</updated>
+        <summary type="html"><![CDATA[de lekkerste gerechten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A403983959?aid=kb-online-bibliotheek&sid=22&dts=1787297763609&sig=aa8f17b03f0f0b62ace2ed56a6e04bb24b6dd949027539101203d8ae16788a2f&width=320" alt="Omslag van 'Mosselen'" title="Omslag van 'Mosselen'">
+<p>Mosselen. Wij Belgen eten ze het liefste met frietjes. Onze noorderburen graag met brood. Maar je kunt zo veel meer met de schelpdiertjes. Piet Devriendt, mosselchef van het restaurant De Oesterput in Blankenberge, selecteerde nieuwe, verfrissende, bekende en minder bekende recepten met de mossel in de hoofdrol. Gekookt, gebakken, in de wok of rauw, je kunt er alle kanten mee uit. Mosselen zijn niet alleen heel lekker, ze zijn ook erg gezond. Ze bevatten eiwitten, mineralen, vitamines en nauwelijks vet. En met dit boek heb je meer dan 50 manieren om het kleine zeediertje klaar te maken. Aan de hand van schitterende foto's legt Piet de recepten stap-voor-stap uit, zodat ook een niet-geoefende kok lekkere mosselgerechten op tafel kan toveren. Krijg jij ook al honger? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Piet Devriendt</name>
         </author>
     </entry>
     <entry>
@@ -149,219 +167,192 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schouders]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461387301/schouders-harmen-van-liemt"/>
-        <updated>2026-08-17T07:44:49.037Z</updated>
-        <summary type="html"><![CDATA[3PAK]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461387301?aid=kb-online-bibliotheek&sid=22&dts=1786950406921&sig=b97f2203ad307c5789d24e89edd127475e2da07d0394b9ece0462cc3b4d576a9&width=320" alt="Omslag van 'Schouders'" title="Omslag van 'Schouders'">
-<p></p>]]></content>
+        <title type="html"><![CDATA[Bed en breakfast: roman]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439035910/bed-en-breakfast--roman-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439035910/bed-en-breakfast--roman-ilja-gort"/>
+        <updated>2026-08-24T07:51:19.332Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439035910?aid=kb-online-bibliotheek&sid=23&dts=1787555469646&sig=a010c1ff7cfb510a841bf14d0da66b4b4bd10fb4b09a547bb0ab5f0af60ef31d&width=320" alt="Omslag van 'Bed en breakfast: roman'" title="Omslag van 'Bed en breakfast: roman'">
+<p>Ilja Gort raakte in de ban van zijn eigen hoofdpersoon: Abel, de warhoofdige held uit zijn bestseller Godendrank. In Bed en Breakfast begint Abel met zijn vrouw Angela een B&B op hun Zuid-­Franse wijndomein. Maar natuurlijk gaat dat niet van een leien dakje. Een televisie­ploeg met een dubbele agenda wil daar een reality soap van maken, waarna Abel en Angela worden over­rompeld door gasten die het bloed onder hun nagels vandaan halen. Als Abels heimelijke verzet de spuigaten uitloopt, is er geen weg terug: om hun wijndomein van de ondergang te redden moet hij in zee met een onvoorspelbare Franse klusjesman en een Brabantse drugsbaron. Bed en Breakfast is het hilarische vervolg op Godendrank, maar uitstekend zonder enige voorkennis te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Harmen van Liemt</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rendez-vous]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461387298/rendez-vous-simone-atangana-bekono</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461387298/rendez-vous-simone-atangana-bekono"/>
-        <updated>2026-08-17T07:44:48.848Z</updated>
-        <summary type="html"><![CDATA[3PAK]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461387298?aid=kb-online-bibliotheek&sid=22&dts=1786952688648&sig=9420f781a4a30502cf4c0981932e4651590c16efa77c1c8b3809415191d27c75&width=320" alt="Omslag van 'Rendez-vous'" title="Omslag van 'Rendez-vous'">
-<p></p>]]></content>
+        <title type="html"><![CDATA[Leven als Gort in Frankrijk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440180880/leven-als-gort-in-frankrijk-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440180880/leven-als-gort-in-frankrijk-ilja-gort"/>
+        <updated>2026-08-24T07:51:20.031Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440180880?aid=kb-online-bibliotheek&sid=23&dts=1787557879482&sig=a7df55d6f244fa31765aa8c71eb9b5d5e606bb80cf868602529aef3676c7c38c&width=320" alt="Omslag van 'Leven als Gort in Frankrijk'" title="Omslag van 'Leven als Gort in Frankrijk'">
+<p>Ilja Gort kocht in 1994 een vervallen wijnkasteel bij Bordeaux. In tien jaar tijd wist hij dit op te bouwen tot een succesvol wijnbedrijf. Zijn wijnen winnen hoge onderscheidingen op internationale wijn­concoursen. Over de beginperiode en de opbouw van zijn Château La Tulipe (sinds 2021 met de nieuwe naam Château Gort & Gort) schreef Gort Leven als Gort in Frankrijk, een buitengewoon humoristisch boek waarvan inmiddels meer dan 100.000 exemplaren zijn verkocht. Op geestige wijze beschrijft hij het reilen en zeilen op een Frans wijnchateau. Hij onthult zorgvuldig bewaarde geheimen over wijn en doet intieme ontboezemingen over de verwezenlijking van een droom. Soms lucht­hartig, soms emotioneel, maar altijd oprecht. Een heerlijk boek en een absolute aanrader voor iedere Frankrijkliefhebber. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Simone Atangana Bekono</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De obsessie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461392917/de-obsessie-maren-stoffels</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461392917/de-obsessie-maren-stoffels"/>
-        <updated>2026-08-20T07:33:55.449Z</updated>
-        <summary type="html"><![CDATA[3PAK]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461392917?aid=kb-online-bibliotheek&sid=22&dts=1787211235205&sig=42fcbbf054d7c722dec8c528838b8d12ac581a37d8dbeb7d9f5912ba7cb46e3d&width=320" alt="Omslag van 'De obsessie'" title="Omslag van 'De obsessie'">
-<p>Wat een prachtige ogen! Eline is onder de indruk van Flow die ineens voor haar staat op een stille dag in de supermarkt waar ze werkt. Hij komt nog eens langs, ze vraagt hem om samen iets te drinken. Hij lijkt in niets op de jongens die ik ken, denkt ze. Gaandeweg ondervindt ze dat dat klopt. En hoe. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De hemel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438735285/de-hemel-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438735285/de-hemel-ilja-gort"/>
+        <updated>2026-08-24T07:51:20.728Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438735285?aid=kb-online-bibliotheek&sid=23&dts=1787557880133&sig=6f8e23743a5f1259c9c7912b2aff20433759f55ce3158911eb2a04b31267362a&width=320" alt="Omslag van 'De hemel'" title="Omslag van 'De hemel'">
+<p>Na wilde avonturen op hun wijndomein en B&B beginnen ras-optimist Abel en zijn nuchtere vrouw Angela in een Zuid-Frans kasteel een esoterisch centrum dat ze 'Hemel op Aarde' noemen. Ze worden bijgestaan door motorbendeleider Sjeng, zijn vrouw Kimberley (begiftigd met paranormale gaven) en Plato, een wijsgerige ezel die kan spreken. Helaas wordt hun perfecte wereld ruw verstoord door de komst van een bende zware criminelen. Dit perspectief vormt een inspirerend speelveld voor Gort, die hier alle registers van zijn humoristische schrijverschap opentrekt. Abel vaart een geheel nieuwe koers en zet daarmee een reeks gebeurtenissen in gang die elke beschrijving tarten, behalve die van Ilja Gort. Deze sprankelende roman is als een voortdenderende trein. Hij leest als een spannende film, maar dan gelardeerd met schaterende lachsalvo's. Een boek om van te houden. De Hemel is het uitstekend zelfstandig te lezen deel 4 in de Abel en Angela-trilogie. Eerder verschenen Godendrank, Bed en Breakfast en Vrije Vogels. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Maren Stoffels</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De prooi]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394644557/de-prooi-jeroen-smit</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394644557/de-prooi-jeroen-smit"/>
-        <updated>2026-08-20T07:33:56.111Z</updated>
-        <summary type="html"><![CDATA[blinde trots breekt ABN Amro]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644557?aid=kb-online-bibliotheek&sid=22&dts=1787211235892&sig=db42bf0c2101a3a6ac39f1199bcb474076c427f4d35583821df36be238e6acd3&width=320" alt="Omslag van 'De prooi'" title="Omslag van 'De prooi'">
-<p>Geschiedenis van de overname en opsplitsing van ABN AMRO in 2007.</p>]]></content>
+        <title type="html"><![CDATA[De druivenfluisteraar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440180899/de-druivenfluisteraar-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440180899/de-druivenfluisteraar-ilja-gort"/>
+        <updated>2026-08-24T07:51:21.241Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440180899?aid=kb-online-bibliotheek&sid=23&dts=1787555659722&sig=46bbd3200f86071f197cf4a4483ba2b1678eeeb397c170e70cd7254a88f096d0&width=320" alt="Omslag van 'De druivenfluisteraar'" title="Omslag van 'De druivenfluisteraar'">
+<p>Janty is een anti-held wiens leven bestaat uit werken in de wijngaard. Alles wat hij ziet, vertaalt hij naar zijn eenzame bestaan tussen de druiven. Dankzij een bijzondere gave sluit hij vriendschap met een truffelvarken en redt dat van de slager. Dit vormt het startschot voor een roadtrip waarin Janty en zijn varken op de vlucht in een oude eend door Frankrijk en Italië, verzeild raken in bizarre situaties. Geholpen door Figaro-journaliste Leonie Fougard stuiten ze op een grootschalige fraude met valse truffels die uiteindelijk leidt tot een verrassende confrontatie met de Italiaanse Maffia. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jeroen Smit</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het maakbare brein]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39462288X/het-maakbare-brein-margriet-sitskoorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39462288X/het-maakbare-brein-margriet-sitskoorn"/>
-        <updated>2026-08-20T07:33:57.429Z</updated>
-        <summary type="html"><![CDATA[gebruik je hersens en word wie je wilt zijn]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39462288X?aid=kb-online-bibliotheek&sid=22&dts=1787211237179&sig=166ecbd11a168f017688ae3e1bc3273d59bb5cd6352217e928843d7707745539&width=320" alt="Omslag van 'Het maakbare brein'" title="Omslag van 'Het maakbare brein'">
-<p>Kun je op volwassen leeftijd nog een rekenwonder worden, doorzettingsvermogen verkrijgen of je angsten overwinnen? Dat kan, want onze hersenen zijn in staat tot reorganisatie en zelfvernieuwing: er ontstaan nieuwe verbindingen in het brein en er worden nieuwe cellen aangemaakt. Hierdoor kunnen we onszelf op alle fronten blijven ontwikkelen. Het maakbare brein beschrijft hoe de hersenen zich ontwikkelen en hoe dit zich verhoudt tot het leren van een tweede taal, een absoluut gehoor of het onderdrukken van impulsen. Bijzondere levensverhalen laten zien dat gedrag en omgeving je hersenen vormen en je vermogens bepalen: een violiste die een kwart van haar hersenen verloor kon toch professioneel blijven spelen, en een jongen die door kippen werd opgevoed veranderde zijn kippengedrag in menselijk gedrag. Aan de hand van de laatste inzichten uit het hersenonderzoek en voorbeelden uit de praktijk laat Margriet Sitskoorn zien hoe we door ons gedrag zélf onze hersenen kunnen vormen en zo beter kunnen functioneren. Het maakbare brein geeft een handreiking voor sterker hersenwerk en een krachtige persoonlijke ontwikkeling. Margriet Sitskoorn is neuropsycholoog en associate professor bij het Universitair Medisch Centrum Utrecht. Zij verricht onder andere onderzoek naar de relatie tussen gedrag en de plasticiteit van het menselijk brein. Ze schrijft naast haar wetenschappelijke werk columns voor verschillende populair-wetenschappelijke bladen en verleende haar medewerking aan meerdere tv-programmas. Sitskoorn kan goed vertellen. Haar wonderbaarlijke verhalen doen denken aan de boeken van Oliver Sacks. nederlands dagblad Heel fijn is dat het boek korte metten maakt met het deprimerende idee dat je hersenen rond je twintigste klaar zijn en dat het daarna alleen bergafwaarts gaat. psychologie magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Godendrank]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440187443/godendrank-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440187443/godendrank-ilja-gort"/>
+        <updated>2026-08-24T07:51:21.859Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440187443?aid=kb-online-bibliotheek&sid=23&dts=1787557881325&sig=e08531c22f9f311392a03c373ef3b53e0ce59a2e7d38d384d6eac2f8ae9e647d&width=320" alt="Omslag van 'Godendrank'" title="Omslag van 'Godendrank'">
+<p>Deze roman van Ilja Gort is 'Ik vertrek' in de overtreffende trap. Met veel humor beschrijft Gort de avonturen van dromer Abel en zijn nuchtere vrouw Angela die hun winkeltje in de Amsterdamse Jordaan verkopen om een wijnboerderij in Zuid-Frankrijk te beginnen. Ze worden getroffen door bizarre tegenslagen en Abel besluit wiet te gaan telen om zijn wijn te voorzien van een scheut geestverruiming. Daarmee kruisen ze het pad van lieden die het niet zo nauw nemen met de wet, hetgeen leidt tot hilarische gebeurtenissen en een spetterende ontknoping. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Margriet Sitskoorn</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lang leven de hersenen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394622936/lang-leven-de-hersenen-margriet-sitskoorn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394622936/lang-leven-de-hersenen-margriet-sitskoorn"/>
-        <updated>2026-08-20T07:33:58.013Z</updated>
-        <summary type="html"><![CDATA[positieve prikkels voor hersenen die ouder worden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394622936?aid=kb-online-bibliotheek&sid=22&dts=1787206837550&sig=05d6e130e1fce0f7240811d460a3b21a91495b491d0405a56625edbd571cf0bf&width=320" alt="Omslag van 'Lang leven de hersenen'" title="Omslag van 'Lang leven de hersenen'">
-<p>Columns over de veranderingen, met name in positieve zin, in het geheugen en het denken bij het ouder worden.</p>]]></content>
+        <title type="html"><![CDATA[De Geluksvogel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440180864/de-geluksvogel-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440180864/de-geluksvogel-ilja-gort"/>
+        <updated>2026-08-24T07:51:22.444Z</updated>
+        <summary type="html"><![CDATA[roman]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440180864?aid=kb-online-bibliotheek&sid=23&dts=1787557881953&sig=ae492de55fc1eaedf5e0afd54df178c49378129eaf5c901a75f4ea0fa31cfaa0&width=320" alt="Omslag van 'De Geluksvogel'" title="Omslag van 'De Geluksvogel'">
+<p>Harold Wechter is een Nederlandse reclameman die een wijnchateau in Frankrijk bezit. Hij ontmoet Régis, een Franse wijnboer wiens zaken niet al te best gaan en adviseert hem een 'Camping à la Ferme' te beginnen. Hiermee ontketent hij een reeks voorvallen die tot bizarre situaties leidt op het zinderende Zuid-Franse platteland. Een groep advocaten wordt met kettingzagen het bos ingestuurd, Hollandse naaktlopers biodansen in het maanlicht en een druivenfluisteraar zoekt de mysterieuze wijngaard waar een opmerkelijk lekkere wijn vandaan komt. Eerder verschenen als Het Merlot Mysterie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Margriet Sitskoorn</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doe maar gewoon]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394644905/doe-maar-gewoon-hans-kaldenbach</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394644905/doe-maar-gewoon-hans-kaldenbach"/>
-        <updated>2026-08-20T07:33:56.467Z</updated>
-        <summary type="html"><![CDATA[99 tips voor het omgaan met Nederlanders]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644905?aid=kb-online-bibliotheek&sid=22&dts=1787211236235&sig=44c2a8071269dd2a049b3370928e17d272397d11828175d127de1b235c944ab5&width=320" alt="Omslag van 'Doe maar gewoon'" title="Omslag van 'Doe maar gewoon'">
-<p>Als u bij een Nederlander op bezoek gaat, dan krijgt u vaak meteen een kopje koffie of thee. Dat betekent niet dat u snel weer weg moet, maar juist dat u van harte welkom bent. U krijgt bij ieder kopje één koekje en daarna gaat de koektrommel dicht. Nederlanders vinden dat helemaal niet onhartelijk van zichzelf. Meestal krijgt u na uw eerste kopje nog een tweede kopje, ook weer met één koekje. Dit is één van de 99 observaties uit Doe maar gewoon, een luchtige gebruiksaanwijzing voor iedereen die in het dagelijks leven al dan niet vrijwillig geconfronteerd wordt met Nederlanders. In deze kleine en gezellige cultuurschets wordt de hedendaagse Nederlandse etiquette op rake wijze beschreven. Af en toe mag de auteur verdacht worden van lichte spotternij, maar nooit kan getwijfeld worden aan zijn deskundigheid. Doe maar gewoon houdt Nederlanders een plezierige lachspiegel voor. Tevens kan het dienst doen als een compacte en nuttige handleiding voor de vele buitenlanders die zich in Nederland gevestigd hebben. Doe maar gewoon is vertaald in het Duits, Arabisch en Engels. Hans Kaldenbach is adviseur bij ACTA Kaldenbach en bij Centro, de contractafdeling van de Hogeschool van Utrecht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De Vrouwenslagerij]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440176735/de-vrouwenslagerij-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440176735/de-vrouwenslagerij-ilja-gort"/>
+        <updated>2026-08-24T07:51:23.098Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440176735?aid=kb-online-bibliotheek&sid=23&dts=1787557882526&sig=c8a6db97c4055bd730176746fe7d577874e159e1c5ec734ec16a1d5498ac7a4a&width=320" alt="Omslag van 'De Vrouwenslagerij'" title="Omslag van 'De Vrouwenslagerij'">
+<p>Als de enige slager in een Frans dorp plotseling sterft, nemen zijn dochter en haar nietsnuttige man de zaak over. Dit is het begin van een reeks dramatische gebeurtenissen, lugubere incidenten en romantische misverstanden die het leven in het dorpje voorgoed veranderen. Op Roald Dahl-achtige wijze beschrijft Ilja Gort wat er gebeurt als vier vrouwen het recht in eigen hand nemen. Deze met vaart geschreven roman ontroert en weet ook de lachspieren te prikkelen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Hans Kaldenbach</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Respect]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394644913/respect-hans-kaldenbach</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394644913/respect-hans-kaldenbach"/>
-        <updated>2026-08-21T07:36:05.507Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394644913?aid=kb-online-bibliotheek&sid=22&dts=1787297765303&sig=c6df7a87d10898a244e800a30fd4e031b287411b3f4b4bc0326dc71bfdaeb06e&width=320" alt="Omslag van 'Respect'" title="Omslag van 'Respect'">
-<p>Hans Kaldenbach Respect! Hoe kan een conciërge een wapengevaarlijke jongen verwijderen van het schoolplein? Hoe kunt u plassende hangjongeren uit uw portiek weg krijgen? Hoe kan de politie een bekentenis krijgen van jongeren die altijd ontkennen? Respect! is een praktisch boek over jongeren die zich niet laten corrigeren. Het geeft concrete tips voor effectief gedrag, zowel voor individuele correctie als voor corrigeren in groepsverband. Over welke jongeren gaat het? Als je ze corrigeert geven ze jou het gevoel dat je een zeikerd bent. Ze zullen nooit toegeven dat ze iets gedaan hebben. Ze kennen geen nee. Ze gáán maar door. Ze praten op een hondsbrutale, denigrerende toon tegen je. Je voelt hun minachting, zeker als je vrouw bent. Ze zeggen meteen dat je ze discrimineert. Ze eisen respect maar geven dat zelf juist niet. Respect! is luchtig en puntsgewijs opgebouwd in 99 korte verhelderende paragrafen. Hans Kaldenbach is onder meer bekend van Doe maar gewoon, 99 tips voor het omgaan met Nederlanders. Hij heeft politieagenten, docenten, zwembadpersoneel en vele anderen getraind in de moeilijkste buurten van Nederland. Zijn leidraad is: u kunt de wind niet veranderen, maar hoe de zeilen staan, bepaalt u zelf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Overleven als Gort in Frankrijk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44017662X/overleven-als-gort-in-frankrijk-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44017662X/overleven-als-gort-in-frankrijk-ilja-gort"/>
+        <updated>2026-08-24T07:51:23.756Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44017662X?aid=kb-online-bibliotheek&sid=23&dts=1787557883208&sig=5c74940290bb62de9e0948b3febbf67a06aecc88b38c270c6003d9cb559effc9&width=320" alt="Omslag van 'Overleven als Gort in Frankrijk'" title="Omslag van 'Overleven als Gort in Frankrijk'">
+<p>Ilja Gort kocht in 1994 een vervallen wijnkasteel bij Bordeaux en wist dat in tien jaar tijd op te bouwen tot een succesvol wijnbedrijf. Over de beginperiode van zijn Château La Tulipe schreef Gort Leven als Gort in Frankrijk, een buitengewoon humoristisch boek waarvan inmiddels meer dan 100.000 exemplaren zijn verkocht. Overleven als Gort in Frankrijk is het vervolg en belicht de andere kant van zijn succesverhaal. Omdat het volgens Gort 'een iets te persoonlijk verslag' was geworden, heeft hij dit boek na de eerste druk uit de handel laten nemen en verdere publicatie ervan tegen­gehouden. Nu, 18 jaar later, zijn zoals Gort het verwoordt, 'de wonden geheeld en de blunders verjaard' en is het boek weer vrijgegeven. Geniet van dit ongefilterde relaas met ontboezemingen van een Ilja Gort zoals u die niet kende. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Hans Kaldenbach</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tegenwicht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/39462291X/tegenwicht-jaap-seidell---jutka-halberstadt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/39462291X/tegenwicht-jaap-seidell---jutka-halberstadt"/>
-        <updated>2026-08-20T07:33:57.761Z</updated>
-        <summary type="html"><![CDATA[feiten en fabels over overgewicht]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39462291X?aid=kb-online-bibliotheek&sid=22&dts=1787211237540&sig=c11bfa7cf06ae23c96deb363041cc9455351b104a286ec98a75e153e3a9f0a62&width=320" alt="Omslag van 'Tegenwicht'" title="Omslag van 'Tegenwicht'">
-<p>We wonen tegenwoordig in Luilekkerland. De mensheid is erin geslaagd voor een toenemend deel van de wereldbevolking voedsel in overvloed te produceren. Ruim vijfhonderd miljoen mensen hebben als gevolg hiervan nu ernstig overgewicht. Velen kunnen om fysieke, sociale of psychologische redenen geen weerstand bieden aan de overvloed en worstelen daardoor met hun gewicht. Diëten, pillen en poeders die een quick fix beloven, zijn voor hen niet de oplossing. Hoe kunnen we tegenwicht bieden aan de verleidingen om ons heen die leiden tot vetzucht en chronische ziekten? In Tegenwicht wordt het probleem van overgewicht beschreven vanuit een wetenschappelijk en maatschappelijk perspectief. Hoogleraar voeding en gezondheid Jaap Seidell en psycholoog en onderzoeker Jutka Halberstadt analyseren de oorzaken en gevolgen van overgewicht bij volwassenen en kinderen, ontkrachten de vele mythes en misverstanden daarover en bieden oplossingen voor de toekomst. Tegenwicht is een must voor professionals in het beleid, het onderwijs en de gezondheidszorg en natuurlijk voor de mensen die zelf dagelijks vechten tegen de kilos. Over Tegenwicht: Martijn B. Katan, hoogleraar voedingsleer, Vrije Universiteit Amsterdam: Wie dit boek gelezen heeft, begrijpt beter dan de meeste zogenaamde experts waarom we dik worden en wat ertegen te doen is. Hanneke Groenteman, journaliste: Tegenwicht had ik willen lezen voor ik, verblind door valse hoop, van dieet naar dieet worstelde. Een leerzaam en troostrijk boek. Kelly D. Brownell, hoogleraar Yale University, VS: Professor Seidell is one of the worlds leading experts on the prevention and management of obesity. His work is a shining example of quality and integrity, and has remarkable vision. Paul Rosenmöller, voorzitter Convenant Gezond Gewicht: Tegenwicht is het perfecte boek op het perfecte moment. Het belang van een gezonde leefstijl wordt alom onderkend, maar met dit boek in een breder perspectief geplaatst. Seidell analyseert, polemiseert en stimuleert. De zin en onzin worden scherp van elkaar onderscheiden. En hoewel de basis wetenschappelijk is, is het boek buitengewoon toegankelijk. Tegenwicht is verplichte kost zonder calorieën. Hans van Maanen, wetenschapsjournalist: Ik heb het met erg veel plezier gelezen eindelijk een verstandig boek over overgewicht, zonder die stiekem verwijtende ondertoon die in andere boeken zit. Over de auteurs: Jaap Seidell is hoogleraar voeding en gezondheid en directeur van de afdeling gezondheidswetenschappen aan de Vrije Universiteit en het VU medisch centrum in Amsterdam. Hij is een internationaal gerenommeerd onderzoeker op het gebied van zowel de oorzaken en gevolgen van overgewicht en obesitas als de effectiviteit van overgewichtpreventie en obesitaszorg. Hij is vanwege zijn kennis een veelgevraagd adviseur van organisaties in binnen- en buitenland zoals de Wereldgezondheidsorganisatie, de Gezondheidsraad, overheden, consumentenorganisaties en organisaties van patiënten en zorgverleners. Jutka Halberstadt is psycholoog en doet onderzoek naar obesitas aan de Vrije Universiteit in Amsterdam. Zij is tevens projectleider bij het Partnerschap Overgewicht Nederland. Voorheen schreef zij als journalist voor onder meer de Volkskrant en Psychologie Magazine over voeding, gedrag en gezondheid, maar ook over bredere maatschappelijke problemen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De Kwartiermaker]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461419319/de-kwartiermaker-juul-martin-williams</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461419319/de-kwartiermaker-juul-martin-williams"/>
+        <updated>2026-08-24T07:51:24.375Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461419319?aid=kb-online-bibliotheek&sid=23&dts=1787557883853&sig=285aae9446ae05ebe9fcc8a231b095dd5843c22f023f7799f0869e82190073e5&width=320" alt="Omslag van 'De Kwartiermaker'" title="Omslag van 'De Kwartiermaker'">
+<p>Juni 1815 Voor Napoleons troepen uit trekt een man op zijn paard naar het noorden. Een kwartiermaker met een dubbele agenda, want behalve zijn eigen werk heeft hij nog een andere missie te vervullen. een missie waar mensenlevens mee gemoeid zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jaap Seidell</name>
-        </author>
-        <author>
-            <name>Jutka Halberstadt</name>
+            <name>Juul Martin Williams</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jihad met sambal]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645731/jihad-met-sambal-step-vaessen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645731/jihad-met-sambal-step-vaessen"/>
-        <updated>2026-08-20T07:33:57.072Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645731?aid=kb-online-bibliotheek&sid=22&dts=1787211236810&sig=9ede59809fc0d727d3584d2f5b465d04c03d5fd1cebab3e097406c03b0e5da9a&width=320" alt="Omslag van 'Jihad met sambal'" title="Omslag van 'Jihad met sambal'">
-<p>De Nederlandse televisieverslaggeefster voor de NOS en later Al Jazeera vertelt over haar (persoonlijke) ervaringen in Indonesië, het grootste moslimland ter wereld.</p>]]></content>
+        <title type="html"><![CDATA[De Flessentrekker]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442886950/de-flessentrekker-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442886950/de-flessentrekker-ilja-gort"/>
+        <updated>2026-08-24T07:51:25.002Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442886950?aid=kb-online-bibliotheek&sid=23&dts=1787557884474&sig=4533001b406c108cf124fe22d48b54a9de07648136f7d492af499ae958fdd365&width=320" alt="Omslag van 'De Flessentrekker'" title="Omslag van 'De Flessentrekker'">
+<p>Een man die wijnen vervalst, krijgt een affaire met de eigenares van een wijnwinkel. Ondanks dat ze beiden een dubbele agenda hebben nemen ze het samen op tegen een machtige Franse organisatie die op veel grotere schaal wijnen vervalst.</p>]]></content>
         <author>
-            <name>Step Vaessen</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We always get our sin too]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645618/we-always-get-our-sin-too-maarten-h-rijkens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645618/we-always-get-our-sin-too-maarten-h-rijkens"/>
-        <updated>2026-08-21T07:36:05.722Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645618?aid=kb-online-bibliotheek&sid=22&dts=1787233662907&sig=70256d5a33e77d3ffbcbe8cb5cd390f734fe9cecc02660d10137eabf8b5cb9d1&width=320" alt="Omslag van 'We always get our sin too'" title="Omslag van 'We always get our sin too'">
-<p>Voorbeelden van te letterlijke vertalingen van Nederlandse uitdrukkingen in het Engels.</p>]]></content>
+        <title type="html"><![CDATA[Hier en aan de overkant]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461419335/hier-en-aan-de-overkant-j-m--williams</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461419335/hier-en-aan-de-overkant-j-m--williams"/>
+        <updated>2026-08-24T07:51:25.655Z</updated>
+        <summary type="html"><![CDATA[De MacEwens deel 1]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461419335?aid=kb-online-bibliotheek&sid=23&dts=1787557885087&sig=f7e05c84ff2e66e401fb81f61f621ff9aa90b36050a2cee69981df0d10922a55&width=320" alt="Omslag van 'Hier en aan de overkant'" title="Omslag van 'Hier en aan de overkant'">
+<p>In de zomer van 1926 keert chirurg Alistair MacEwen terug naar Noord-Frankrijk, naar de plek waar hij in 1917 zijn verstand verloor. Daar bezoekt hij de vrouw die toen voor hem zorgde, Ghislaine. Een weerzien dat aan hun leven voorgoed een andere wending geeft. Tegen de achtergrond van de turbulente jaren twintig en dertig zien we hoe Alistair boven verwachting goed herstelt. Ghislaine, die nooit het verlies van haar dierbaren heeft kunnen verwerken, lijkt juist steeds meer de grip op haar leven kwijt te raken. Wanneer zij berooid en vereenzaamd in Schotland belandt, is het inmiddels 1938 en hangt de volgende oorlog als een storm boven de horizon. Met psychologisch inzicht, een scherp oog voor detail en stilistische finesse weet J.M. Williams de sfeer van het Interbellum levensecht neer te zetten en een reeks personages op te voeren die de lezer niet snel vergeet. Een must-read voor de liefhebbers van Elizabeth Jane Howard, Rebecca West, Sebastian Faulks, E.M. Forster. 'Een intense leeservaring. Juul Williams is een rasverteller.' Maria Boonzaaijer, auteur van o.a. Joodse buren 'Een boeiende en ontroerende roman over de trauma's van WOI en de impact daarvan op families.' Judit Neurink, auteur en journalist Over Borduren in het donker 'Een echte masterclass in writing. Williams heeft een patent op zinnen die je zo wilt inkaderen en in je woonkamer hangen.' Finn Audenaert, auteur en redacteur 'Een literaire parel. Klein van omvang, groots qua inhoud.' Amsterdams Dagblad J.M. Williams (Breda, 1959) studeerde filosofie en geschiedenis. Naast fictie schrijft zij non-fictie en poëzie, recenseert voor o.a. Literair Nederland en beheert een eigen website. In 2022 debuteerde zij met 'De kwartiermaker'. Momenteel legt zij de laatste hand aan het derde deel van de MacEwen-trilogie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Maarten H Rijkens</name>
+            <name>J.M. Williams</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frans Goedhart, journalist en politicus (1904-1990)]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623134/frans-goedhart--journalist-en-politicus--1904-1990--madelon-de-keizer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623134/frans-goedhart--journalist-en-politicus--1904-1990--madelon-de-keizer"/>
-        <updated>2026-08-21T07:36:06.066Z</updated>
-        <summary type="html"><![CDATA[een biografie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623134?aid=kb-online-bibliotheek&sid=22&dts=1787297765847&sig=62915de32563de730afe01c73adef98221ec6fed6a2c95ded96a8d31fe7ce5fb&width=320" alt="Omslag van 'Frans Goedhart, journalist en politicus (1904-1990)'" title="Omslag van 'Frans Goedhart, journalist en politicus (1904-1990)'">
-<p>Felle conflicten en grote controverses kenmerkten het leven van de markante Nederlandse journalist en politicus Frans Goedhart. Geboren in het decennium voor de Eerste Wereldoorlog en overleden enkele maanden na de val van de Muur omspande zijn leven bijna de hele twintigste eeuw. Een belangrijk deel van die tijd was hij ongekend politiek actief waarbij hij alle politieke uitdagingen van zijn tijd het hoofd bood in woord en geschrift - en vaak op scherpe en humoristische wijze. Maar Frans Goedhart, journalist en politicus is ook het verhaal van een onbegrepen held, wiens taaie vasthoudendheid als behoudzucht en scherpe observaties als uitingen van blinde obsessie werden geïnterpreteerd. Een man die zich aan niets en niemand iets gelegen liet liggen en die stond voor zijn opvattingen. Frans Goedhart stelde zijn hele leven in dienst van de strijd tegen de dictatuur. In de Tweede Wereldoorlog als de spraakmakende en invloedrijke Pieter 't Hoen van het verzetsblad Het Parool, na de oorlog als omstreden Parool-commentator en een kwarteeuw lang als kritisch buitenlandspecialist van de PvdA. Deze onthullende biografie biedt een nieuwe en verrassende blik op hoe een groot Nederlands politicus en journalist worstelde met de machten van zijn tijd, niet alleen voor en in de oorlog, maar ook nadien: in de Raad van Europa, via het door de cia gesubsidieerde Radio Free Europe, als navo-parlementariër en als Tweede Kamerlid, dat in 1970 dramatisch afscheid nam van de sociaaldemocratie. Madelon de Keizer is historicus en verbonden aan het niod. Zij promoveerde cum laude op Het Parool 1940-1945. Verzetsblad in Oorlogstijd en publiceerde veel over de Nederlandse geschiedenis van de twintigste eeuw, zoals Putten. De razzia en de herinnering (1998) en in 2010 met Marije Plomp Een open zenuw. Hoe wij ons de Tweede Wereldoorlog herinneren. In 2005-2006 was zij verbonden aan Harvard University. In dat kader verscheen De dochter van een gazan. Carry van Bruggen en de Nederlandse samenleving 1900-1930 (2006). 'Een prachtige biografie en een uniek portret van een uitzonderlijk twintigste-eeuwse politicus.' hans daalder - biograaf van willem drees 'Dit boek is een indringend verslag van de politieke levensloop van een fysieke en intellectuele held, voor wie de bestrijding van elke vorm van dictatuur, zowel van voor 1945 als van daarna, een zelfgekozen opdracht was.' wim van norden - oud-directeur van het parool 'De Koude Oorlog en de angst van het Westen voor de communistische ondermijning van de democratische westerse samenleving herleeft in deze met empathie en groot gevoel voor scherpe analyse van de mens, journalist en politicus Frans Goedhart geschreven biografie.' albert kersten - biograaf van jozef luns </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Château Migraine]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461419521/ch%C3%A2teau-migraine-ilja-gort</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461419521/ch%C3%A2teau-migraine-ilja-gort"/>
+        <updated>2026-08-24T07:51:26.381Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461419521?aid=kb-online-bibliotheek&sid=23&dts=1787557885746&sig=7ca3f0737bc4f54adcc7ea6e1dd0cffa7a224965f6bf5ee08f5a14c2265abfa7&width=320" alt="Omslag van 'Château Migraine'" title="Omslag van 'Château Migraine'">
+<p>Château Migraine. Wijn, macht en een pact met de duivel. Wat een droom moest zijn, wordt een nachtmerrie. Maxim en Claudine (uit De Flessentrekker) zetten alles op het spel voor hun eigen wijnkasteel in de Provence. Maar wanneer een mysterieuze Russische oligarch zich opwerpt als hun 'redder', raken ze verstrikt in  een spel dat veel groter en gevaarlijker is dan ze ooit hadden voorzien. Leugens stapelen zich op, de spanning neemt toe en Maxim en Claudine staan voor een onmogelijke keuze: zich overgeven aan een meedogenloze vijand, of een stap zetten die geen weg terug kent. Château Migraine is een meeslepende roman over ambitie, verraad en de prijs van vrijheid. Een spannende thriller, losjes gebaseerd op de geruchtmakende affaire rond het wijnkasteel van Brad Pitt en Angelina Jolie, waarin een verborgen deal met een Russische oligarch een droom veranderde in een nachtmerrie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Madelon de Keizer</name>
+            <name>Ilja Gort</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wij zijn maar wij zijn niet geschift]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645758/wij-zijn-maar-wij-zijn-niet-geschift-tim-krabbe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645758/wij-zijn-maar-wij-zijn-niet-geschift-tim-krabbe"/>
-        <updated>2026-08-21T07:36:11.560Z</updated>
-        <summary type="html"><![CDATA[de schietpartij van Columbine]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645758?aid=kb-online-bibliotheek&sid=22&dts=1787297766185&sig=37ebd5df744e05cb87524a657bbb9a2bf801e1764d44f63cb7f5e53d066752c2&width=320" alt="Omslag van 'Wij zijn maar wij zijn niet geschift'" title="Omslag van 'Wij zijn maar wij zijn niet geschift'">
-<p>Reconstructie van de schietpartij op Columbine High School in 1999 waarbij dertien dodelijke slachtoffers vielen, met een onderzoek naar de achtergronden van de 17- en 18-jarige daders.</p>]]></content>
+        <title type="html"><![CDATA[Koekoeksjong]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442273525/koekoeksjong-s%C3%B8ren-sveistrup</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442273525/koekoeksjong-s%C3%B8ren-sveistrup"/>
+        <updated>2026-08-24T07:51:26.962Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442273525?aid=kb-online-bibliotheek&sid=23&dts=1787555155120&sig=034a722d6c9d66aac823cde80be4a680b8b39ae91293012eb2d2b87fd9e24036&width=320" alt="Omslag van 'Koekoeksjong'" title="Omslag van 'Koekoeksjong'">
+<p>Een gescheiden vrouw wordt op een besneeuwde Valentijnsdag in Kopenhagen als vermist opgegeven door haar dochter en ex-man. Na haar laatste grote moordzaak is rechercheur Naia Thulin gaan werken in NC3, het Nationaal Centrum voor Cybercriminaliteit, om meer tijd te hebben voor haar nieuwe vriend en familie, maar ze wordt bij toeval op de vermissingszaak gezet. Thulin ontdekt dat de vermiste vrouw al lange tijd werd gestalkt. De anonieme berichten die ze kreeg waren telkens hetzelfde: een foto van de vrouw, met het bijschrift: Gevonden! Deze berichten doen Thulin denken aan de zaak van de brute, onopgeloste moord op de scholier Caroline Holst, die na ruim twee jaar onderzoek de nabestaanden en de Deense politie nog steeds voor een raadsel stelt. Thulin wordt bij het onderzoek gekoppeld aan onderzoeker Mark Hess. Die is net teruggekeerd van Europol omdat zijn broer in het ziekenhuis ligt, maar de samenwerking tussen Hess en Thulin verloopt problematisch omdat hun eerdere liefdesrelatie mislukte. Als blijkt dat de moordenaar een wel heel sadistisch spel speelt, zetten ze hun verschillen zo goed als mogelijk aan de kant en werken ze samen. Dan verdwijnt er opnieuw iemand die werd gestalkt. Een race tegen de klok begint en Thulin en Hess moeten, onder grote druk, proberen te voorkomen dat er nog meer slachtoffers vallen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tim Krabbe</name>
+            <name>Søren Sveistrup</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het voorseizoen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394646096/het-voorseizoen-david-pefko</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394646096/het-voorseizoen-david-pefko"/>
-        <updated>2026-08-20T07:33:59.147Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394646096?aid=kb-online-bibliotheek&sid=22&dts=1787211238952&sig=d267f7e0e42e0cfe3d08f8e9110583a80b6915c15d239a354f6666a538ec01dc&width=320" alt="Omslag van 'Het voorseizoen'" title="Omslag van 'Het voorseizoen'">
-<p>Nadat zijn vrouw hem verlaten heeft, raakt een middelbare politierechercheur in een midlife-crisis.</p>]]></content>
+        <title type="html"><![CDATA[Een dodelijke affaire]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461419742/een-dodelijke-affaire-e-v--hunter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461419742/een-dodelijke-affaire-e-v--hunter"/>
+        <updated>2026-08-24T07:51:27.453Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461419742?aid=kb-online-bibliotheek&sid=23&dts=1787556498410&sig=c9de76b7c793d18be012be93cb78a318ec28bcd00f1d5176039d8f5d2a5f7dea&width=320" alt="Omslag van 'Een dodelijke affaire'" title="Omslag van 'Een dodelijke affaire'">
+<p>Het vijfde deel van de cozy crime-serie: Mysteries op Hopgood Hall</p><p>Een plaatselijke roddeltante staat op het punt haar verdiende loon te krijgen.  Het leven op Hopgood Hall verveelt nooit, maar Alexi Ellis hoopt dat er voorlopig geen moorden meer zullen plaatsvinden. Ze heeft er al vier moeten oplossen en begint in de omgeving de reputatie te krijgen dat ze ongeluk brengt.  Dus wanneer de roddeltante Polly Pearson opduikt op Hopgood Hall, weet Alexi dat dit weinig goeds voorspelt. Polly windt er geen doekjes om dat ze Alexi niet mag, en heeft zelfs campagne gevoerd om haar voorgoed van Hopgood Hall te laten vertrekken - dus wat zou Polly van haar willen?  Dan onthult Polly dat haar partner Gerry vermoord is aangetroffen in haar bed & breakfast, en dat zijzelf de hoofdverdachte is. Alexi, haar partner Jack, en Cosmo de kat staan met hun mond vol tanden. Al helemaal wanneer Polly Alexi smeekt haar te helpen haar onschuld te bewijzen.  Maar Alexi weet niet zeker of ze deze venijnige roddeltante wel wil helpen. Is Polly echt onschuldig, of is ze net zo gevaarlijk als de politie denkt? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>David Pefko</name>
+            <name>E.V. Hunter</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Makke schapen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623169/makke-schapen-paul-kalma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623169/makke-schapen-paul-kalma"/>
-        <updated>2026-08-20T07:33:59.678Z</updated>
-        <summary type="html"><![CDATA[over volgzame burgers en vluchtige politiek]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623169?aid=kb-online-bibliotheek&sid=22&dts=1787211239486&sig=8cbc0e5be250e935d0784fa57ed27588351c68744a72ef7ec2bcbe7e6652e69b&width=320" alt="Omslag van 'Makke schapen'" title="Omslag van 'Makke schapen'">
-<p>Pleidooi vanuit sociaaldemocratische hoek voor meer democratische burgerinitiatieven om maatschappelijke veranderingen niet langer alleen aan de politici over te laten.</p>]]></content>
+        <title type="html"><![CDATA[De legendes van Koning Arthur - Geen gewone jongen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461419904/de-legendes-van-koning-arthur---geen-gewone-jongen-tracey-mayhew</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461419904/de-legendes-van-koning-arthur---geen-gewone-jongen-tracey-mayhew"/>
+        <updated>2026-08-24T07:51:28.084Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461419904?aid=kb-online-bibliotheek&sid=23&dts=1787557887543&sig=10db5bc3186824816c57c8f8527c0ecc1442ccbff97fb93c913423d2a6ab2f12&width=320" alt="Omslag van 'De legendes van Koning Arthur - Geen gewone jongen'" title="Omslag van 'De legendes van Koning Arthur - Geen gewone jongen'">
+<p>Het enige wat Merlijn kent, is het dorp waar hij toverdrankjes brouwt en soms vreemde visioenen heeft. Dan verschijnt er een mysterieuze man met een kap in het dorp, op zoek naar een jongen met magische krachten. Merlijn wordt meegenomen naar een vervallen toren en een meedogenloze koning. Een plek waar hij niet de enige is die magische krachten heeft. Kan hij het mysterie oplossen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Paul Kalma</name>
+            <name>Tracey Mayhew</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Handboek voor de liefdespanter]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394645952/handboek-voor-de-liefdespanter-jan-heemskerk---marcel-langedijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394645952/handboek-voor-de-liefdespanter-jan-heemskerk---marcel-langedijk"/>
-        <updated>2026-08-20T07:33:58.830Z</updated>
-        <summary type="html"><![CDATA[succesgids voor de kansloze casanova]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394645952?aid=kb-online-bibliotheek&sid=22&dts=1787209067196&sig=ffa9ba5456bf9771f0f9f719667ad96215ab37b31309cb88c19c7f707ada5860&width=320" alt="Omslag van 'Handboek voor de liefdespanter'" title="Omslag van 'Handboek voor de liefdespanter'">
-<p>Humoristische adviezen voor mannen die vrouwen willen versieren.</p>]]></content>
+        <title type="html"><![CDATA[Een definitie van schuld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461419912/een-definitie-van-schuld-susie-dent</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461419912/een-definitie-van-schuld-susie-dent"/>
+        <updated>2026-08-24T07:51:28.666Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461419912?aid=kb-online-bibliotheek&sid=23&dts=1787554569238&sig=45c84fc4e488b131bff69d9f79d9a2c97e69b8a5dfafe95d4dcc2c46dca244dc&width=320" alt="Omslag van 'Een definitie van schuld'" title="Omslag van 'Een definitie van schuld'">
+<p>Een anonieme brief aan de redactie van de Clarendon English Dictionary bevat hints naar gebeurtenissen in een specifiek jaar. Voor redacteur Martha Thornhill kan dit maar naar één ding verwijzen: de zomer waarin haar zus Charlie verdween. Na tien jaar in het buitenland is Martha terug in Oxford, een stad met eeuwenoude instituten, waar haar familie al generaties deel van uitmaakt. Wachten de demonen die ze achterliet nog op haar? Als de anonieme brieven blijven komen en Martha en haar team ze verder ontrafelen, wordt de situatie steeds dreigender. Het lijkt erop dat Charlie een groot geheim bewaarde. Iemand probeert hen nu naar de waarheid te leiden. Maar er zijn andere krachten aan het werk om die waarheid juist voorgoed te begraven.</p><p>‘Iedereen die houdt van mooie misdaadverhalen, maar ook taalliefhebbers en (nostalgische) fans van Inspector Morse kunnen hun hart ophalen.’ – The Times</p><p>‘Een ontzettend knappe literaire thriller.’ – The Guardian</p><p>‘De personages zijn mensen die ik graag in het echt zou willen kennen; de Oxford-types zie je direct voor je, de puzzel is slim uitgewerkt. Dit was genietend lezen.’ - Philip Pullman </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jan Heemskerk</name>
-        </author>
-        <author>
-            <name>Marcel Langedijk</name>
+            <name>Susie Dent</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conservatieve vooruitgang]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623177/conservatieve-vooruitgang-thierry-baudet</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623177/conservatieve-vooruitgang-thierry-baudet"/>
-        <updated>2026-08-20T07:33:58.240Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623177?aid=kb-online-bibliotheek&sid=22&dts=1787208350025&sig=8d9c44f8023175aa658d82cb1b7704d8ec83df8ca17a93e0a3e04323a58fba02&width=320" alt="Omslag van 'Conservatieve vooruitgang'" title="Omslag van 'Conservatieve vooruitgang'">
-<p>Portretten van twintig belangrijke conservatieve denkers uit de twintigste eeuw.</p>]]></content>
+        <title type="html"><![CDATA[De boekwinkel voor gebroken harten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461419599/de-boekwinkel-voor-gebroken-harten-rebecca-raisin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461419599/de-boekwinkel-voor-gebroken-harten-rebecca-raisin"/>
+        <updated>2026-08-24T07:51:29.175Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461419599?aid=kb-online-bibliotheek&sid=23&dts=1787557207403&sig=9e8d208a5b9f3e5fa8e86f26e2e0f83acc327f280503d2126741291a29879fdc&width=320" alt="Omslag van 'De boekwinkel voor gebroken harten'" title="Omslag van 'De boekwinkel voor gebroken harten'">
+<p>Kun je de liefde afzweren in de stad van de liefde?  Coco heeft een verschrikkelijke maand. Ze is haar vriend en haar bedrijf kwijtgeraakt, moest haar dochter achterlaten om weer bij haar ouders in Parijs te gaan wonen, en nu staat een irritant aantrekkelijke vreemdeling tegen haar te schreeuwen omdat ze zich als een toerist gedraagt... Pal onder de Eiffeltoren. Ze loopt woedend bij hem weg en zweert mannen voor altijd af. Ze besluit dat ze de eerste baan zal aannemen die op haar pad komt.  En dan, alsof het lot haar heeft gehoord, loopt ze later die dag een klein boekwinkeltje binnen - maar niet zomaar een boekwinkel. Deze heeft ook een café, een cocktailbar, een leesruimte en een geheime tunnel vol boeken, en er hangt een vleugje magie in de lucht. Dus wanneer Coco daar een baan krijgt aangeboden om boeken te verkopen, voelt het als de perfecte plek voor haar.  Er is alleen één probleem... Aan de bar van de boekwinkel zit niemand minder dan de norse, knappe vreemdeling die ze eerder die dag ontmoette.  Een heerlijk romantische en verrukkelijk escapistische roman voor boekenliefhebbers, die zich afspeelt in Parijs in de lente. Perfect voor fans van Emily Henry, Ali Hazelwood en Jenny Colgan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Thierry Baudet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De aanval op de natiestaat]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394623053/de-aanval-op-de-natiestaat-thierry-baudet</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394623053/de-aanval-op-de-natiestaat-thierry-baudet"/>
-        <updated>2026-08-20T07:33:58.589Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394623053?aid=kb-online-bibliotheek&sid=22&dts=1787211238341&sig=7d495503fbc7d776693e3bf01c637df034ca340b1d7c4edd4d96218f39c1e2a9&width=320" alt="Omslag van 'De aanval op de natiestaat'" title="Omslag van 'De aanval op de natiestaat'">
-<p>Kritische beschouwing over de voortschrijdende Europese eenwording, die de nationale staat en daarmee de democratische rechtsstaat zou bedreigen.</p>]]></content>
-        <author>
-            <name>Thierry Baudet</name>
+            <name>Rebecca Raisin</name>
         </author>
     </entry>
 </feed>
