@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-08-26T07:39:07.780Z</updated>
+    <updated>2026-08-27T18:00:32.372Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Rood in Wassenaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/433305487/rood-in-wassenaar-marjolein-moorman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/433305487/rood-in-wassenaar-marjolein-moorman"/>
+        <updated>2026-08-27T18:00:31.896Z</updated>
+        <summary type="html"><![CDATA[Pleidooi voor een kansrijk leven (voor iedereen)]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A433305487?aid=kb-online-bibliotheek&sid=23&dts=1787841888558&sig=82e290d4f51337c4ac9d42499672ad425842b90875a16817cf4fbd75b04cac5b&width=320" alt="Omslag van 'Rood in Wassenaar'" title="Omslag van 'Rood in Wassenaar'">
+<p>Memoires van de PvdA-politica (1974), momenteel wethoudster van Onderwijs, Armoede en Inburgering in Amsterdam.</p>]]></content>
+        <author>
+            <name>Marjolein Moorman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In de mist van Golden Gate Park]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439221137/in-de-mist-van-golden-gate-park-murat-isik</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439221137/in-de-mist-van-golden-gate-park-murat-isik"/>
+        <updated>2026-08-27T18:00:32.127Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439221137?aid=kb-online-bibliotheek&sid=23&dts=1787839761732&sig=064368d69255d8b29b80de1d64dfb80be566e496864edd15dd1e1d4e75e40659&width=320" alt="Omslag van 'In de mist van Golden Gate Park'" title="Omslag van 'In de mist van Golden Gate Park'">
+<p>Een epische vertelling over het zoeken naar vrijhei, autonomie, het vinden van een grote liefde, de wording van een schrijver en de onoverkomelijke banden met je familie.</p><p>Zomer 2001. Metin Mutlu gaat studeren in San Francisco. Met het betreden van deze nieuwe, vrije wereld is hij vastbesloten zijn oude zelf achter te laten. In plaats van de verlegen toehoorder die hij in Amsterdam was, wil hij in Amerika iemand anders worden: een zelfbewuste en daadkrachtige man.</p><p>Metin studeert rechten maar het idee dat hij zijn leven zal slijten als jurist benauwt hem. Op zoek naar een uitweg stort hij zich in San Francisco vol op het keuzevak Creative Writing. Tijdens die colleges ontmoet hij de mysterieuze Joan Springfield, voor wie hij als een blok valt.</p><p>Zijn nieuwe vrije leven lijkt Metin goed af te gaan en langzaam ontluikt de schrijver in hem. Dan storten onvermoede gebeurtenissen hem echter in een overrompelend avontuur, terwijl ontwikkelingen in San Francisco en aan het thuisfront zijn verblijf in een heel ander licht stellen. Metin komt voor onmogelijke dilemma’s te staan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Murat Isik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De perfecte match]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461396092/de-perfecte-match-linda-babel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461396092/de-perfecte-match-linda-babel"/>
+        <updated>2026-08-27T18:00:32.369Z</updated>
+        <summary type="html"><![CDATA[De binge-editie]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461396092?aid=kb-online-bibliotheek&sid=23&dts=1787842103411&sig=e817b097aa05997a31d90aecbbabc2127b81f658c65a8141fb4228d895ebbcd0&width=320" alt="Omslag van 'De perfecte match'" title="Omslag van 'De perfecte match'">
+<p>De Verhalenfabriek Binge-Editie: de complete serie om in één ruk uit te lezen.  Nina weet één ding zeker: haar oudere zus Annet verdient de liefde van haar leven. Dus als Annet zelf de ware maar niet lijkt te vinden, neemt Nina het heft in eigen handen. Met goedbedoelde adviezen, verrassende dates en een flinke dosis doorzettingsvermogen stort ze zich vol enthousiasme op haar nieuwe rol als matchmaker. Maar terwijl Nina alles op alles zet om de perfecte man voor haar zus te vinden, wordt haar eigen liefdesleven steeds ingewikkelder. Haar relatie met Steve begint te wankelen en de aantrekkelijke buurman Leon lijkt steeds vaker haar pad te kruisen. Hoe langer Nina zich met de liefde van anderen bemoeit, hoe moeilijker het wordt om haar eigen hart te negeren. De perfecte match is een heerlijke feelgoodserie vol humor, romantiek, vriendschap en onverwachte wendingen. Want de perfecte match blijkt soms dichterbij dan je denkt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Linda Babel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond The Sugarcane]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461437538/beyond-the-sugarcane-vinco-david</id>
@@ -88,17 +123,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eldrie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461434105/eldrie-lisa-van-coillie</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461434105/eldrie-lisa-van-coillie"/>
-        <updated>2026-08-26T07:39:06.649Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461434105?aid=kb-online-bibliotheek&sid=23&dts=1787729946447&sig=0966e64e0f13e69362fb84007d325571ac83fdc1b8b5982cbd7649c85034d06b&width=320" alt="Omslag van 'Eldrie'" title="Omslag van 'Eldrie'">
-<p>Loes, Charlotte en Leen waren ooit onafscheidelijk. Als Eldrie zongen ze samen, droomden ze groots en geloofden ze dat hun vriendschap alles zou overleven.</p><p>Tien jaar later leven ze langs elkaar heen. Loes bewaakt schilderijen in een stil museum en draagt de schaduw van haar familie als een tweede huid. Charlotte probeert overeind te blijven voor haar dochter, terwijl alles in en om haar afbrokkelt. Leen heeft schijnbaar alles onder controle, behalve zichzelf.</p><p>Dan vallen er drie brieven in de bus. Teksten die ze ooit schreven aan de vrouwen die ze tien jaar later zouden zijn geworden. Brieven over een belofte en een geheim begraven onder een oude boom.</p><p>Wat begon als een spel, dwingt hen nu om elkaar weer in de ogen te kijken.</p><p>Een indringende roman over indentiteit, stilstand en de moed om jezelf onder ogen te zien. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lisa Van Coillie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zonder jou geen Ja!]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461434296/zonder-jou-geen-ja--eva-cadier</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461434296/zonder-jou-geen-ja--eva-cadier"/>
@@ -107,6 +131,17 @@
 <p>Lizzy heeft haar leven aardig op de rit. Een droombaan in de muziekwereld, een eigen appartement vol platen én een beste vriendin die altijd voor haar klaarstaat. Alleen op één vlak blijft het stil: de liefde. Wanneer haar beste vriendin Vicky haar probeert te koppelen aan de charmante Luc, lijkt Cupido eindelijk raak te schieten. Maar Lizzy's onzekerheid gooit roet in het eten en ze besluit haar zoektocht naar de liefde voorlopig op pauze te zetten. Dan brengt een reis naar het zonnige Portugal alles in een stroomversnelling. Wat begint als een ontspannen meidenvakantie, blijkt in werkelijkheid een bruiloftstrip te zijn. En uitgerekend Lizzy mag samen met Luc de bruiloft organiseren. Tussen zon, zee en een vleugje mysterie groeien ze steeds dichter naar elkaar toe. Maar durft Lizzy haar hart écht open te stellen, of laat ze haar kans op liefde opnieuw aan zich voorbijgaan? Een hartverwarmende Summer Romance over liefde, vriendschap en tweede kansen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Eva Cadier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eldrie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461434105/eldrie-lisa-van-coillie</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461434105/eldrie-lisa-van-coillie"/>
+        <updated>2026-08-26T07:39:06.649Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461434105?aid=kb-online-bibliotheek&sid=23&dts=1787729946447&sig=0966e64e0f13e69362fb84007d325571ac83fdc1b8b5982cbd7649c85034d06b&width=320" alt="Omslag van 'Eldrie'" title="Omslag van 'Eldrie'">
+<p>Loes, Charlotte en Leen waren ooit onafscheidelijk. Als Eldrie zongen ze samen, droomden ze groots en geloofden ze dat hun vriendschap alles zou overleven.</p><p>Tien jaar later leven ze langs elkaar heen. Loes bewaakt schilderijen in een stil museum en draagt de schaduw van haar familie als een tweede huid. Charlotte probeert overeind te blijven voor haar dochter, terwijl alles in en om haar afbrokkelt. Leen heeft schijnbaar alles onder controle, behalve zichzelf.</p><p>Dan vallen er drie brieven in de bus. Teksten die ze ooit schreven aan de vrouwen die ze tien jaar later zouden zijn geworden. Brieven over een belofte en een geheim begraven onder een oude boom.</p><p>Wat begon als een spel, dwingt hen nu om elkaar weer in de ogen te kijken.</p><p>Een indringende roman over indentiteit, stilstand en de moed om jezelf onder ogen te zien. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lisa Van Coillie</name>
         </author>
     </entry>
     <entry>
@@ -324,40 +359,6 @@
         <updated>2026-08-24T07:51:21.859Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440187443?aid=kb-online-bibliotheek&sid=23&dts=1787557881325&sig=e08531c22f9f311392a03c373ef3b53e0ce59a2e7d38d384d6eac2f8ae9e647d&width=320" alt="Omslag van 'Godendrank'" title="Omslag van 'Godendrank'">
 <p>Deze roman van Ilja Gort is 'Ik vertrek' in de overtreffende trap. Met veel humor beschrijft Gort de avonturen van dromer Abel en zijn nuchtere vrouw Angela die hun winkeltje in de Amsterdamse Jordaan verkopen om een wijnboerderij in Zuid-Frankrijk te beginnen. Ze worden getroffen door bizarre tegenslagen en Abel besluit wiet te gaan telen om zijn wijn te voorzien van een scheut geestverruiming. Daarmee kruisen ze het pad van lieden die het niet zo nauw nemen met de wet, hetgeen leidt tot hilarische gebeurtenissen en een spetterende ontknoping. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ilja Gort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Geluksvogel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440180864/de-geluksvogel-ilja-gort</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440180864/de-geluksvogel-ilja-gort"/>
-        <updated>2026-08-24T07:51:22.444Z</updated>
-        <summary type="html"><![CDATA[roman]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440180864?aid=kb-online-bibliotheek&sid=23&dts=1787557881953&sig=ae492de55fc1eaedf5e0afd54df178c49378129eaf5c901a75f4ea0fa31cfaa0&width=320" alt="Omslag van 'De Geluksvogel'" title="Omslag van 'De Geluksvogel'">
-<p>Harold Wechter is een Nederlandse reclameman die een wijnchateau in Frankrijk bezit. Hij ontmoet Régis, een Franse wijnboer wiens zaken niet al te best gaan en adviseert hem een 'Camping à la Ferme' te beginnen. Hiermee ontketent hij een reeks voorvallen die tot bizarre situaties leidt op het zinderende Zuid-Franse platteland. Een groep advocaten wordt met kettingzagen het bos ingestuurd, Hollandse naaktlopers biodansen in het maanlicht en een druivenfluisteraar zoekt de mysterieuze wijngaard waar een opmerkelijk lekkere wijn vandaan komt. Eerder verschenen als Het Merlot Mysterie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ilja Gort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Vrouwenslagerij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440176735/de-vrouwenslagerij-ilja-gort</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440176735/de-vrouwenslagerij-ilja-gort"/>
-        <updated>2026-08-24T07:51:23.098Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440176735?aid=kb-online-bibliotheek&sid=23&dts=1787557882526&sig=c8a6db97c4055bd730176746fe7d577874e159e1c5ec734ec16a1d5498ac7a4a&width=320" alt="Omslag van 'De Vrouwenslagerij'" title="Omslag van 'De Vrouwenslagerij'">
-<p>Als de enige slager in een Frans dorp plotseling sterft, nemen zijn dochter en haar nietsnuttige man de zaak over. Dit is het begin van een reeks dramatische gebeurtenissen, lugubere incidenten en romantische misverstanden die het leven in het dorpje voorgoed veranderen. Op Roald Dahl-achtige wijze beschrijft Ilja Gort wat er gebeurt als vier vrouwen het recht in eigen hand nemen. Deze met vaart geschreven roman ontroert en weet ook de lachspieren te prikkelen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ilja Gort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overleven als Gort in Frankrijk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44017662X/overleven-als-gort-in-frankrijk-ilja-gort</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44017662X/overleven-als-gort-in-frankrijk-ilja-gort"/>
-        <updated>2026-08-24T07:51:23.756Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44017662X?aid=kb-online-bibliotheek&sid=23&dts=1787557883208&sig=5c74940290bb62de9e0948b3febbf67a06aecc88b38c270c6003d9cb559effc9&width=320" alt="Omslag van 'Overleven als Gort in Frankrijk'" title="Omslag van 'Overleven als Gort in Frankrijk'">
-<p>Ilja Gort kocht in 1994 een vervallen wijnkasteel bij Bordeaux en wist dat in tien jaar tijd op te bouwen tot een succesvol wijnbedrijf. Over de beginperiode van zijn Château La Tulipe schreef Gort Leven als Gort in Frankrijk, een buitengewoon humoristisch boek waarvan inmiddels meer dan 100.000 exemplaren zijn verkocht. Overleven als Gort in Frankrijk is het vervolg en belicht de andere kant van zijn succesverhaal. Omdat het volgens Gort 'een iets te persoonlijk verslag' was geworden, heeft hij dit boek na de eerste druk uit de handel laten nemen en verdere publicatie ervan tegen­gehouden. Nu, 18 jaar later, zijn zoals Gort het verwoordt, 'de wonden geheeld en de blunders verjaard' en is het boek weer vrijgegeven. Geniet van dit ongefilterde relaas met ontboezemingen van een Ilja Gort zoals u die niet kende. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Ilja Gort</name>
         </author>
