@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "feed": "^5.1.0",
-    "node-html-parser": "^7.0.1"
+    "node-html-parser": "^7.0.2"
   }
 }
