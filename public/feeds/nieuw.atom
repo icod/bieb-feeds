@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-08-28T19:10:43.697Z</updated>
+    <updated>2026-08-29T12:54:25.918Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -42,17 +42,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kwaad bloed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443125589/kwaad-bloed-jet-van-vuuren</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443125589/kwaad-bloed-jet-van-vuuren"/>
-        <updated>2026-08-28T19:10:43.519Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443125589?aid=kb-online-bibliotheek&sid=23&dts=1787921884377&sig=047e1efb4788936a614e3813d136ab01a8c123410a357aea097a07e8a59ba88a&width=320" alt="Omslag van 'Kwaad bloed'" title="Omslag van 'Kwaad bloed'">
-<p>Drie jaar na de gruwelijke moordaanslag die haar hele leven op zijn kop zette, heeft bij ex-rechercheur Barbara van Eck het verdriet plaatsgemaakt voor een kille woede. Hoewel de zorg voor haar kleindochter Lily en haar detectivebureau al haar tijd vragen, zet ze toch alles op alles om de moordenaar die haar wereld vernietigde te vinden.  Ze is ervan overtuigd dat ze weet wie de dader is, maar de man is onvindbaar en het politieonderzoek heeft geen enkel spoor opgeleverd dat naar hem wijst. Sterker nog, vanwege dat gebrek aan bewijs wordt de zaak gesloten.  Barbara staat op het punt van opgeven, maar dan komt Lily thuis met verhalen over een aardige meneer die ze bij het kinderdagverblijf heeft ontmoet... 'Kwaad bloed' is het derde en laatste boek in de Barbara van Eck-mysteries. Barbara's verhaal begon in 'Nieuw bloed' en 'Bloedband'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jet van Vuuren</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Narcis]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444196595/narcis-judith-fanto</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444196595/narcis-judith-fanto"/>
@@ -61,6 +50,17 @@
 <p>1916. Na de dood van zijn moeder verhuist de tienjarige Manno van Haarlem naar de door oorlog geteisterde wereldstad Wenen. De eisen die zijn nieuwe leven aan hem stelt, drijven hem tot wanhoop, tot hij op een zomerkamp vriendschap sluit met vijf leeftijdsgenoten. In de decennia die volgen overleeft hun hechte vriendschap de meest uiteenlopende beproevingen.  Maar als Hitler aan de vooravond van de Tweede Wereldoorlog Oostenrijk binnenvalt, wordt het maatschappelijke persoonlijk en moet ieder van de vrienden kleur bekennen. Kun je een ander ooit ten diepste kennen? Vergt werkelijke vriendschap wel absolute openheid? Of is respect voor de geheimen van de ander juist het grondrecht van elke vriend? In dit onvergetelijke verhaal over vriendschap, verraad en vergelding combineert Judith Fanto opnieuw haar wonderschone stijl en historische kennis, die ze combineert met een vlijmscherp psychologisch inzicht. Met groot meesterschap wekt Fanto een vervlogen wereld tot leven, die de lezer betovert en alle zintuigen beroert.  'Behept met een neus voor waarachtige personages en een stijl zo gracieus als Wenen zelf, schreef Fanto met Narcis een zintuiglijke, historische roman die wezenlijke vragen oproept over wat er gebeurt als vriendschap en ideologie met elkaar in botsing raken.' - VPRO gids</p><p>'Als enige Nederlander is Manno het buiten­beentje, tegelijkertijd is hij de smeerolie van de groep. Fanto beschrijft mooi hoe de vriendschap onder druk komt te staan door de opkomst van nazisme en fascisme. Een mooie afspiegeling van de tijd tussen twee oorlogen.' - Margot Osse, MEZZA</p><p>'In haar tweede roman laat Judith Fanto opnieuw zien dat ze een plot kan opbouwen. - Trouw</p><p>'Het resultaat is niet alleen een wervelend verhaal over verraad en vergelding, maar ook een bijzonder zintuiglijke roman' - Telegraaf </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Judith Fanto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kwaad bloed]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443125589/kwaad-bloed-jet-van-vuuren</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443125589/kwaad-bloed-jet-van-vuuren"/>
+        <updated>2026-08-28T19:10:43.519Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443125589?aid=kb-online-bibliotheek&sid=23&dts=1787921884377&sig=047e1efb4788936a614e3813d136ab01a8c123410a357aea097a07e8a59ba88a&width=320" alt="Omslag van 'Kwaad bloed'" title="Omslag van 'Kwaad bloed'">
+<p>Drie jaar na de gruwelijke moordaanslag die haar hele leven op zijn kop zette, heeft bij ex-rechercheur Barbara van Eck het verdriet plaatsgemaakt voor een kille woede. Hoewel de zorg voor haar kleindochter Lily en haar detectivebureau al haar tijd vragen, zet ze toch alles op alles om de moordenaar die haar wereld vernietigde te vinden.  Ze is ervan overtuigd dat ze weet wie de dader is, maar de man is onvindbaar en het politieonderzoek heeft geen enkel spoor opgeleverd dat naar hem wijst. Sterker nog, vanwege dat gebrek aan bewijs wordt de zaak gesloten.  Barbara staat op het punt van opgeven, maar dan komt Lily thuis met verhalen over een aardige meneer die ze bij het kinderdagverblijf heeft ontmoet... 'Kwaad bloed' is het derde en laatste boek in de Barbara van Eck-mysteries. Barbara's verhaal begon in 'Nieuw bloed' en 'Bloedband'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jet van Vuuren</name>
         </author>
     </entry>
     <entry>
@@ -76,27 +76,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Male Harem]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46143752X/the-male-harem-vinco-david</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46143752X/the-male-harem-vinco-david"/>
-        <updated>2026-08-26T07:39:05.289Z</updated>
-        <summary type="html"><![CDATA[A Dutch Indian Tale of Masculine Love]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46143752X?aid=kb-online-bibliotheek&sid=23&dts=1787729945116&sig=e5bbfca15be5f24df9f7c441ee171b13622ce97d81db48e0c97d60186c56ce31&width=320" alt="Omslag van 'The Male Harem'" title="Omslag van 'The Male Harem'">
-<p>"Compellingly and exuberantly written, the writing style is inspiring, far from politically correct." The Pioneer - Indian newspaper "A warmly recommended multicultural love story of two men." Priyam Gandhi-Mody - author. "An enthralling novel about masculine love. You won't want to put it down!" Ashutosh Garg - founder of podcast TBCY. "A novel that brought tears to my eyes many times, I read and reread it several times." Gay&Night - the leading Dutch gay newspaper. In medieval India, two young men from a male harem in a royal palace become friends, then lovers. It is a time of permanent war between rival kingdoms. Although the male harem is tolerated, the boys must learn to protect each other while remaining loyal to their royal master. In early 2000s, an Indian student from the same region discovers he is gay while living in the Netherlands. Ancient and modern love stories blend into an exciting emotional rollercoaster when he then falls in love with a Dutch expert in Indian history. The two love stories blend together in spectacular and emotional rollercoaster. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De meisjes van de Muur]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461453908/de-meisjes-van-de-muur-miriam-ootjers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461453908/de-meisjes-van-de-muur-miriam-ootjers"/>
+        <updated>2026-08-29T12:54:25.916Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461453908?aid=kb-online-bibliotheek&sid=23&dts=1787963359913&sig=33f2284fcbc942a35647d9aff3f2cc217e72d4d3dc48f8434029013db1c6a545&width=320" alt="Omslag van 'De meisjes van de Muur'" title="Omslag van 'De meisjes van de Muur'">
+<p>De bewoners van het Centrum en de Muur leven gescheiden van elkaar. Twee eeuwen gaat dat goed. Tot op een dag een dood meisje over de Muur het Centrum in wordt gegooid. Centrum-inspecteur Lucas neemt de zaak op zich. Hij stuit echter al snel op de onwil van de mensen achter de Muur. Enkele dagen later wordt een tweede meisje over de Muur gegooid. Meer meisjes volgen, ieder kind jonger dan het vorige. Raaf, geboren en getogen achter de Muur, gaat ook op onderzoek uit. Al snel komen Raaf en Lucas tot de conclusie dat ze moeten samenwerken om de moordenaar te vinden. Dankzij Raaf vormt Lucas een nieuw beeld van het "fatsoenlijke" Centrum en de "ghetto" van de Muur. Leven beide volken wel echt gescheiden van elkaar? De meisjes van de Muur is een verhaal over tegenstellingen. Rijk en arm, leven en geleefd worden, anders-zijn en conformeren. Wie is er beter af? Het rijke, aangeharkte Centrum, waar voor de bevolking alles door regels en wetten tot in de puntjes is geregeld? Of de povere, modderige Muur, met het bestaan gericht op overleven en waar de bevolking haar eigen keuzes maakt? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Vinco David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Reptile Funds]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461437546/the-reptile-funds-vinco-david</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461437546/the-reptile-funds-vinco-david"/>
-        <updated>2026-08-26T07:39:05.753Z</updated>
-        <summary type="html"><![CDATA[A tale of Dutch-Indian masculine love during the financial crisis of 2008]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461437546?aid=kb-online-bibliotheek&sid=23&dts=1787729945476&sig=47bf2d822145aaddff6e4fa07149f187f6c9c0bf3b80c71cdb45b1dcfa2d1551&width=320" alt="Omslag van 'The Reptile Funds'" title="Omslag van 'The Reptile Funds'">
-<p>"A warmly recommended multicultural love story of two men" Priyam Gandhi-Mody - author. " A superb, well written novel." Pieter Waterdrinker - Dutch best-selling novelist. "An exciting novel, full of surprising twists." Het Financieele Dagblad - Dutch daily financial newspaper. "This titanic gay novel is a great read for holidays. You don't want to stop reading." De Telegraaf - the largest Dutch daily morning newspaper. "Vinco is an exceptionally inspirational writer!" Mark Rutte - NATO Secretary-General and former Dutch Prime Minister. "Vinco was a brilliant Dutchman, and our country is very proud of him." Jan Peter Balkenende - former Dutch Prime Minister. At ﬁrst, it seemed nothing more than an innocent love affair between the Indo-Caribbean Arjun and Dutchman Reinier - two young men in Amsterdam starting out in their careers - but unwelcome truths about intolerance and institutional greed were soon revealed. From testimony to confession and back again, the revelations from Kochi in Southern India tell an extraordinary tale of passion, greed, fear and lies. Without Arjun's story, we would still be in the dark about the devastating practices of wealth-obsessed bankers and the damage caused by a cynical disregard for people. Will love and truth survive while the guilty parties continue to evade justice? Arjun will let you be the judge of that </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Vinco David</name>
+            <name>Miriam Ootjers</name>
         </author>
     </entry>
     <entry>
@@ -122,6 +109,30 @@
         <author>
             <name>Adjiedj Bakas</name>
         </author>
+        <author>
+            <name>Vinco David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Male Harem]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46143752X/the-male-harem-vinco-david</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46143752X/the-male-harem-vinco-david"/>
+        <updated>2026-08-26T07:39:05.289Z</updated>
+        <summary type="html"><![CDATA[A Dutch Indian Tale of Masculine Love]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46143752X?aid=kb-online-bibliotheek&sid=23&dts=1787729945116&sig=e5bbfca15be5f24df9f7c441ee171b13622ce97d81db48e0c97d60186c56ce31&width=320" alt="Omslag van 'The Male Harem'" title="Omslag van 'The Male Harem'">
+<p>"Compellingly and exuberantly written, the writing style is inspiring, far from politically correct." The Pioneer - Indian newspaper "A warmly recommended multicultural love story of two men." Priyam Gandhi-Mody - author. "An enthralling novel about masculine love. You won't want to put it down!" Ashutosh Garg - founder of podcast TBCY. "A novel that brought tears to my eyes many times, I read and reread it several times." Gay&Night - the leading Dutch gay newspaper. In medieval India, two young men from a male harem in a royal palace become friends, then lovers. It is a time of permanent war between rival kingdoms. Although the male harem is tolerated, the boys must learn to protect each other while remaining loyal to their royal master. In early 2000s, an Indian student from the same region discovers he is gay while living in the Netherlands. Ancient and modern love stories blend into an exciting emotional rollercoaster when he then falls in love with a Dutch expert in Indian history. The two love stories blend together in spectacular and emotional rollercoaster. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Vinco David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Reptile Funds]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461437546/the-reptile-funds-vinco-david</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461437546/the-reptile-funds-vinco-david"/>
+        <updated>2026-08-26T07:39:05.753Z</updated>
+        <summary type="html"><![CDATA[A tale of Dutch-Indian masculine love during the financial crisis of 2008]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461437546?aid=kb-online-bibliotheek&sid=23&dts=1787729945476&sig=47bf2d822145aaddff6e4fa07149f187f6c9c0bf3b80c71cdb45b1dcfa2d1551&width=320" alt="Omslag van 'The Reptile Funds'" title="Omslag van 'The Reptile Funds'">
+<p>"A warmly recommended multicultural love story of two men" Priyam Gandhi-Mody - author. " A superb, well written novel." Pieter Waterdrinker - Dutch best-selling novelist. "An exciting novel, full of surprising twists." Het Financieele Dagblad - Dutch daily financial newspaper. "This titanic gay novel is a great read for holidays. You don't want to stop reading." De Telegraaf - the largest Dutch daily morning newspaper. "Vinco is an exceptionally inspirational writer!" Mark Rutte - NATO Secretary-General and former Dutch Prime Minister. "Vinco was a brilliant Dutchman, and our country is very proud of him." Jan Peter Balkenende - former Dutch Prime Minister. At ﬁrst, it seemed nothing more than an innocent love affair between the Indo-Caribbean Arjun and Dutchman Reinier - two young men in Amsterdam starting out in their careers - but unwelcome truths about intolerance and institutional greed were soon revealed. From testimony to confession and back again, the revelations from Kochi in Southern India tell an extraordinary tale of passion, greed, fear and lies. Without Arjun's story, we would still be in the dark about the devastating practices of wealth-obsessed bankers and the damage caused by a cynical disregard for people. Will love and truth survive while the guilty parties continue to evade justice? Arjun will let you be the judge of that </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Vinco David</name>
         </author>
@@ -156,17 +167,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eldrie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461434105/eldrie-lisa-van-coillie</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461434105/eldrie-lisa-van-coillie"/>
-        <updated>2026-08-26T07:39:06.649Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461434105?aid=kb-online-bibliotheek&sid=23&dts=1787729946447&sig=0966e64e0f13e69362fb84007d325571ac83fdc1b8b5982cbd7649c85034d06b&width=320" alt="Omslag van 'Eldrie'" title="Omslag van 'Eldrie'">
-<p>Loes, Charlotte en Leen waren ooit onafscheidelijk. Als Eldrie zongen ze samen, droomden ze groots en geloofden ze dat hun vriendschap alles zou overleven.</p><p>Tien jaar later leven ze langs elkaar heen. Loes bewaakt schilderijen in een stil museum en draagt de schaduw van haar familie als een tweede huid. Charlotte probeert overeind te blijven voor haar dochter, terwijl alles in en om haar afbrokkelt. Leen heeft schijnbaar alles onder controle, behalve zichzelf.</p><p>Dan vallen er drie brieven in de bus. Teksten die ze ooit schreven aan de vrouwen die ze tien jaar later zouden zijn geworden. Brieven over een belofte en een geheim begraven onder een oude boom.</p><p>Wat begon als een spel, dwingt hen nu om elkaar weer in de ogen te kijken.</p><p>Een indringende roman over indentiteit, stilstand en de moed om jezelf onder ogen te zien. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lisa Van Coillie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zonder jou geen Ja!]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461434296/zonder-jou-geen-ja--eva-cadier</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461434296/zonder-jou-geen-ja--eva-cadier"/>
@@ -175,6 +175,17 @@
 <p>Lizzy heeft haar leven aardig op de rit. Een droombaan in de muziekwereld, een eigen appartement vol platen én een beste vriendin die altijd voor haar klaarstaat. Alleen op één vlak blijft het stil: de liefde. Wanneer haar beste vriendin Vicky haar probeert te koppelen aan de charmante Luc, lijkt Cupido eindelijk raak te schieten. Maar Lizzy's onzekerheid gooit roet in het eten en ze besluit haar zoektocht naar de liefde voorlopig op pauze te zetten. Dan brengt een reis naar het zonnige Portugal alles in een stroomversnelling. Wat begint als een ontspannen meidenvakantie, blijkt in werkelijkheid een bruiloftstrip te zijn. En uitgerekend Lizzy mag samen met Luc de bruiloft organiseren. Tussen zon, zee en een vleugje mysterie groeien ze steeds dichter naar elkaar toe. Maar durft Lizzy haar hart écht open te stellen, of laat ze haar kans op liefde opnieuw aan zich voorbijgaan? Een hartverwarmende Summer Romance over liefde, vriendschap en tweede kansen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Eva Cadier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eldrie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461434105/eldrie-lisa-van-coillie</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461434105/eldrie-lisa-van-coillie"/>
+        <updated>2026-08-26T07:39:06.649Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461434105?aid=kb-online-bibliotheek&sid=23&dts=1787729946447&sig=0966e64e0f13e69362fb84007d325571ac83fdc1b8b5982cbd7649c85034d06b&width=320" alt="Omslag van 'Eldrie'" title="Omslag van 'Eldrie'">
+<p>Loes, Charlotte en Leen waren ooit onafscheidelijk. Als Eldrie zongen ze samen, droomden ze groots en geloofden ze dat hun vriendschap alles zou overleven.</p><p>Tien jaar later leven ze langs elkaar heen. Loes bewaakt schilderijen in een stil museum en draagt de schaduw van haar familie als een tweede huid. Charlotte probeert overeind te blijven voor haar dochter, terwijl alles in en om haar afbrokkelt. Leen heeft schijnbaar alles onder controle, behalve zichzelf.</p><p>Dan vallen er drie brieven in de bus. Teksten die ze ooit schreven aan de vrouwen die ze tien jaar later zouden zijn geworden. Brieven over een belofte en een geheim begraven onder een oude boom.</p><p>Wat begon als een spel, dwingt hen nu om elkaar weer in de ogen te kijken.</p><p>Een indringende roman over indentiteit, stilstand en de moed om jezelf onder ogen te zien. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lisa Van Coillie</name>
         </author>
     </entry>
     <entry>
@@ -201,34 +212,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Superseks in 10 stappen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/397277318/superseks-in-10-stappen-goedele-liekens</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/397277318/superseks-in-10-stappen-goedele-liekens"/>
-        <updated>2026-08-21T07:36:01.859Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A397277318?aid=kb-online-bibliotheek&sid=22&dts=1787297761657&sig=261d84e46c882165dd4c1e09eab121c160783a557568973cfd3069b310c204e6&width=320" alt="Omslag van 'Superseks in 10 stappen'" title="Omslag van 'Superseks in 10 stappen'">
-<p>Let op: Epub3 fixed lay-out, niet geschikt voor e-reader. We vinden seks belangrijk. Maar over ons eigen seksleven zijn we niet echt tevreden: we willen meer en we willen het spannender. Wees gerust, monogamie hoeft niet monotoon te zijn. Goedele Liekens, de bekendste seksuologe van de Lage Landen, toont hoe het anders kan. In tien concrete stappen wijst Goedele de weg naar optimaal seksueel genot voor jou en je partner. Verwacht van Goedele geen halsbrekende acrobatische posities, maar wel haalbare en verrassende tips & tricks die je seksleven een boost geven en je liefdesleven (nog) leuker maken. Erotiek voor zowel prille lovers als koppels die elkaar door en door kennen. Dit ultieme nachtkastboek voor elke man en vrouw geeft openhartig advies, met een vette knipoog en een gezonde dosis humor. Meer kennis over seks leidt tot een beter seksleven. En betere seks, dat willen we toch allemaal? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Goedele Liekens</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De vertellingen van Duizend-en-één-nacht]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/394929071/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/394929071/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel"/>
         <updated>2026-08-21T07:36:02.193Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394929071?aid=kb-online-bibliotheek&sid=22&dts=1787297761988&sig=37fba402bbe56d0b125e8e70f40e7a666f1d8abbf574fd49a0320dba08c71bfb&width=320" alt="Omslag van 'De vertellingen van Duizend-en-één-nacht'" title="Omslag van 'De vertellingen van Duizend-en-één-nacht'">
 <p>De vertellingen van Duizend-en-één-nacht 3 Het derde deel uit de klassieke verzameling van mysterieuze en sprookjesachtige verhalen zoals Alladin en de wonderlamp, Sinbad de zeeman en Ali Baba en de veertig rovers. Koning Scheherban is bedrogen door zijn vrouw. Vastbesloten om dat nooit meer mee te maken, besluit hij elke avond een nieuwe maagd te trouwen om haar de volgende ochtend te doden. Zo trouwt hij ook met Scheherezade, de dochter van zijn grootvizier. Zij vertelt hem elke nacht een onvoltooid verhaal en hoopt zo in leven te blijven. Dit houdt ze duizend en één nacht vol totdat de koning beseft dat hij van haar houdt. Het lot van de andere maagden zal Scheherezade bespaard blijven en haar sprookjesachtige vertellingen leven voort. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Henri Borel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De vertellingen van Duizend-en-één-nacht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394929101/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394929101/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel"/>
-        <updated>2026-08-21T07:36:02.869Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394929101?aid=kb-online-bibliotheek&sid=22&dts=1787297762679&sig=b43478ceb2e0ddd6a55253cf51be65e12d87dc085c42982fd6c2139b616434a2&width=320" alt="Omslag van 'De vertellingen van Duizend-en-één-nacht'" title="Omslag van 'De vertellingen van Duizend-en-één-nacht'">
-<p>De vertellingen van Duizend-en-één-nacht 6 Het zesde deel uit de klassieke verzameling van mysterieuze en sprookjesachtige verhalen zoals Alladin en de wonderlamp, Sinbad de zeeman en Ali Baba en de veertig rovers. Koning Scheherban is bedrogen door zijn vrouw. Vastbesloten om dat nooit meer mee te maken, besluit hij elke avond een nieuwe maagd te trouwen om haar de volgende ochtend te doden. Zo trouwt hij ook met Scheherezade, de dochter van zijn grootvizier. Zij vertelt hem elke nacht een onvoltooid verhaal en hoopt zo in leven te blijven. Dit houdt ze duizend en één nacht vol totdat de koning beseft dat hij van haar houdt. Het lot van de andere maagden zal Scheherezade bespaard blijven en haar sprookjesachtige vertellingen leven voort. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Henri Borel</name>
         </author>
@@ -256,18 +245,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dokter Pol]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/399891692/dokter-pol-jan-pol---david-fisher</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/399891692/dokter-pol-jan-pol---david-fisher"/>
-        <updated>2026-08-21T07:36:03.490Z</updated>
-        <summary type="html"><![CDATA[de wereldberoemde dierenarts uit Nederland]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A399891692?aid=kb-online-bibliotheek&sid=22&dts=1787297763295&sig=b6bbc5524c114c3bd091c85ec3e126c4e5f197ebb3213b3060d64d3d33e67ef2&width=320" alt="Omslag van 'Dokter Pol'" title="Omslag van 'Dokter Pol'">
-<p>Verhalen uit de dierenartspraktijk en het leven van de van National Geographic bekende dr. Jan Pol, sinds 1967 wonend en werkend in de VS.</p>]]></content>
+        <title type="html"><![CDATA[De vertellingen van Duizend-en-één-nacht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394929101/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394929101/de-vertellingen-van-duizend-en-%C3%A9%C3%A9n-nacht-henri-borel"/>
+        <updated>2026-08-21T07:36:02.869Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394929101?aid=kb-online-bibliotheek&sid=22&dts=1787297762679&sig=b43478ceb2e0ddd6a55253cf51be65e12d87dc085c42982fd6c2139b616434a2&width=320" alt="Omslag van 'De vertellingen van Duizend-en-één-nacht'" title="Omslag van 'De vertellingen van Duizend-en-één-nacht'">
+<p>De vertellingen van Duizend-en-één-nacht 6 Het zesde deel uit de klassieke verzameling van mysterieuze en sprookjesachtige verhalen zoals Alladin en de wonderlamp, Sinbad de zeeman en Ali Baba en de veertig rovers. Koning Scheherban is bedrogen door zijn vrouw. Vastbesloten om dat nooit meer mee te maken, besluit hij elke avond een nieuwe maagd te trouwen om haar de volgende ochtend te doden. Zo trouwt hij ook met Scheherezade, de dochter van zijn grootvizier. Zij vertelt hem elke nacht een onvoltooid verhaal en hoopt zo in leven te blijven. Dit houdt ze duizend en één nacht vol totdat de koning beseft dat hij van haar houdt. Het lot van de andere maagden zal Scheherezade bespaard blijven en haar sprookjesachtige vertellingen leven voort. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jan Pol</name>
+            <name>Henri Borel</name>
         </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superseks in 10 stappen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/397277318/superseks-in-10-stappen-goedele-liekens</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/397277318/superseks-in-10-stappen-goedele-liekens"/>
+        <updated>2026-08-21T07:36:01.859Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A397277318?aid=kb-online-bibliotheek&sid=22&dts=1787297761657&sig=261d84e46c882165dd4c1e09eab121c160783a557568973cfd3069b310c204e6&width=320" alt="Omslag van 'Superseks in 10 stappen'" title="Omslag van 'Superseks in 10 stappen'">
+<p>Let op: Epub3 fixed lay-out, niet geschikt voor e-reader. We vinden seks belangrijk. Maar over ons eigen seksleven zijn we niet echt tevreden: we willen meer en we willen het spannender. Wees gerust, monogamie hoeft niet monotoon te zijn. Goedele Liekens, de bekendste seksuologe van de Lage Landen, toont hoe het anders kan. In tien concrete stappen wijst Goedele de weg naar optimaal seksueel genot voor jou en je partner. Verwacht van Goedele geen halsbrekende acrobatische posities, maar wel haalbare en verrassende tips & tricks die je seksleven een boost geven en je liefdesleven (nog) leuker maken. Erotiek voor zowel prille lovers als koppels die elkaar door en door kennen. Dit ultieme nachtkastboek voor elke man en vrouw geeft openhartig advies, met een vette knipoog en een gezonde dosis humor. Meer kennis over seks leidt tot een beter seksleven. En betere seks, dat willen we toch allemaal? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>David Fisher</name>
+            <name>Goedele Liekens</name>
         </author>
     </entry>
     <entry>
@@ -280,6 +276,21 @@
 <p>Mosselen. Wij Belgen eten ze het liefste met frietjes. Onze noorderburen graag met brood. Maar je kunt zo veel meer met de schelpdiertjes. Piet Devriendt, mosselchef van het restaurant De Oesterput in Blankenberge, selecteerde nieuwe, verfrissende, bekende en minder bekende recepten met de mossel in de hoofdrol. Gekookt, gebakken, in de wok of rauw, je kunt er alle kanten mee uit. Mosselen zijn niet alleen heel lekker, ze zijn ook erg gezond. Ze bevatten eiwitten, mineralen, vitamines en nauwelijks vet. En met dit boek heb je meer dan 50 manieren om het kleine zeediertje klaar te maken. Aan de hand van schitterende foto's legt Piet de recepten stap-voor-stap uit, zodat ook een niet-geoefende kok lekkere mosselgerechten op tafel kan toveren. Krijg jij ook al honger? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Piet Devriendt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dokter Pol]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/399891692/dokter-pol-jan-pol---david-fisher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/399891692/dokter-pol-jan-pol---david-fisher"/>
+        <updated>2026-08-21T07:36:03.490Z</updated>
+        <summary type="html"><![CDATA[de wereldberoemde dierenarts uit Nederland]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A399891692?aid=kb-online-bibliotheek&sid=22&dts=1787297763295&sig=b6bbc5524c114c3bd091c85ec3e126c4e5f197ebb3213b3060d64d3d33e67ef2&width=320" alt="Omslag van 'Dokter Pol'" title="Omslag van 'Dokter Pol'">
+<p>Verhalen uit de dierenartspraktijk en het leven van de van National Geographic bekende dr. Jan Pol, sinds 1967 wonend en werkend in de VS.</p>]]></content>
+        <author>
+            <name>Jan Pol</name>
+        </author>
+        <author>
+            <name>David Fisher</name>
         </author>
     </entry>
     <entry>
@@ -306,18 +317,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Omdat het kan]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/418962227/omdat-het-kan-eva-daeleman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/418962227/omdat-het-kan-eva-daeleman"/>
-        <updated>2026-08-21T07:36:04.790Z</updated>
-        <summary type="html"><![CDATA[een boek over veerkracht, levenslust en ont-moeten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A418962227?aid=kb-online-bibliotheek&sid=22&dts=1787297464761&sig=e5683e3a1a2ec99fa491518774e0089beb6943136b4690cff2e5e81ad57c9446&width=320" alt="Omslag van 'Omdat het kan'" title="Omslag van 'Omdat het kan'">
-<p>Een bekende Vlaamse radiomaakster die haar leven heeft omgegooid na een burn-out, geeft adviezen over wat echt belangrijk is in het leven.</p>]]></content>
-        <author>
-            <name>Eva Daeleman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De nieuwe wijnsurvivalgids]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/407732438/de-nieuwe-wijnsurvivalgids-ilja-gort</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/407732438/de-nieuwe-wijnsurvivalgids-ilja-gort"/>
@@ -327,6 +326,18 @@
 <p>Dit geestige boek is speciaal bedoeld voor beginnende wijnliefhebbers. Geen stoffige poeha, maar fitte info, geschreven door de man die dat als geen ander weet: wijnboer Ilja Gort. Motto: 'Wijn is om te lachen en om van te genieten.' In de nieuwe wijnsurvivalgids geeft wijnkenner Ilja Gort tal van tips, dwarse weetjes en onthullingen uit de achterkamers van de wijnhandel. Met deze nieuwe gids kan zelfs de meest ervaren bierdrinker de wijngevaren aan. Op zijn bekende humoristische manier geeft Gort simpele oplossingen voor lastige wijnvragen: Hoe ga ik in een restaurant de wijnkaart te lijf? Wat zeg ik tegen een onwillige ober? Hoe koop ik wijn? Na deze gids weet je alles wat nodig is en heers je als een vorst over de kurkentrekker. Het boek is voorzien van een sticker 'Wijnboek van het jaar'! 'Eindelijk een wijnboek dat op een simpele manier uitlegt hoe het nu écht zit met wijn.' - de Volkskrant 'Dit boek zou verplicht gesteld moeten worden op de middelbare school', De Telegraaf 'Een verrukkelijk boek, een geweldig cadeau en een absolute must voor iedere wijnliefhebber of francofiel.' - En Route Magazine </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Ilja Gort</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omdat het kan]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/418962227/omdat-het-kan-eva-daeleman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/418962227/omdat-het-kan-eva-daeleman"/>
+        <updated>2026-08-21T07:36:04.790Z</updated>
+        <summary type="html"><![CDATA[een boek over veerkracht, levenslust en ont-moeten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A418962227?aid=kb-online-bibliotheek&sid=22&dts=1787297464761&sig=e5683e3a1a2ec99fa491518774e0089beb6943136b4690cff2e5e81ad57c9446&width=320" alt="Omslag van 'Omdat het kan'" title="Omslag van 'Omdat het kan'">
+<p>Een bekende Vlaamse radiomaakster die haar leven heeft omgegooid na een burn-out, geeft adviezen over wat echt belangrijk is in het leven.</p>]]></content>
+        <author>
+            <name>Eva Daeleman</name>
         </author>
     </entry>
     <entry>
@@ -348,17 +359,6 @@
         <updated>2026-08-24T07:51:19.332Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439035910?aid=kb-online-bibliotheek&sid=23&dts=1787555469646&sig=a010c1ff7cfb510a841bf14d0da66b4b4bd10fb4b09a547bb0ab5f0af60ef31d&width=320" alt="Omslag van 'Bed en breakfast: roman'" title="Omslag van 'Bed en breakfast: roman'">
 <p>Ilja Gort raakte in de ban van zijn eigen hoofdpersoon: Abel, de warhoofdige held uit zijn bestseller Godendrank. In Bed en Breakfast begint Abel met zijn vrouw Angela een B&B op hun Zuid-­Franse wijndomein. Maar natuurlijk gaat dat niet van een leien dakje. Een televisie­ploeg met een dubbele agenda wil daar een reality soap van maken, waarna Abel en Angela worden over­rompeld door gasten die het bloed onder hun nagels vandaan halen. Als Abels heimelijke verzet de spuigaten uitloopt, is er geen weg terug: om hun wijndomein van de ondergang te redden moet hij in zee met een onvoorspelbare Franse klusjesman en een Brabantse drugsbaron. Bed en Breakfast is het hilarische vervolg op Godendrank, maar uitstekend zonder enige voorkennis te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ilja Gort</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leven als Gort in Frankrijk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440180880/leven-als-gort-in-frankrijk-ilja-gort</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440180880/leven-als-gort-in-frankrijk-ilja-gort"/>
-        <updated>2026-08-24T07:51:20.031Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440180880?aid=kb-online-bibliotheek&sid=23&dts=1787557879482&sig=a7df55d6f244fa31765aa8c71eb9b5d5e606bb80cf868602529aef3676c7c38c&width=320" alt="Omslag van 'Leven als Gort in Frankrijk'" title="Omslag van 'Leven als Gort in Frankrijk'">
-<p>Ilja Gort kocht in 1994 een vervallen wijnkasteel bij Bordeaux. In tien jaar tijd wist hij dit op te bouwen tot een succesvol wijnbedrijf. Zijn wijnen winnen hoge onderscheidingen op internationale wijn­concoursen. Over de beginperiode en de opbouw van zijn Château La Tulipe (sinds 2021 met de nieuwe naam Château Gort & Gort) schreef Gort Leven als Gort in Frankrijk, een buitengewoon humoristisch boek waarvan inmiddels meer dan 100.000 exemplaren zijn verkocht. Op geestige wijze beschrijft hij het reilen en zeilen op een Frans wijnchateau. Hij onthult zorgvuldig bewaarde geheimen over wijn en doet intieme ontboezemingen over de verwezenlijking van een droom. Soms lucht­hartig, soms emotioneel, maar altijd oprecht. Een heerlijk boek en een absolute aanrader voor iedere Frankrijkliefhebber. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Ilja Gort</name>
         </author>
