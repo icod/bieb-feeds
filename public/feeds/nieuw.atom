@@ -2,340 +2,343 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-09-01T12:16:16.030Z</updated>
+    <updated>2026-09-02T11:53:34.266Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
-        <title type="html"><![CDATA[Daisy]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/381183564/daisy-susanna-florie</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/381183564/daisy-susanna-florie"/>
-        <updated>2026-09-01T12:15:58.291Z</updated>
-        <summary type="html"><![CDATA[zolang er leven is, is er hoop]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A381183564?aid=kb-online-bibliotheek&sid=23&dts=1788243068189&sig=43de547a62bd3986144b0da48e0bc69d2e96f66f1c6b08fd7a024ea08784df28&width=320" alt="Omslag van 'Daisy'" title="Omslag van 'Daisy'">
-<p>'Hij moet dood.' Haar echtgenoot. Zijn opdracht. Een held? Als een sneeuwbal rolt het verhaal de ijskoude wereld in van haat, wraak, drugs, vergetelheid en gekte, want iedereen verwerkt verlies op zijn eigen manier. De spannendste thriller van 2014 met familiebanden, een grand café en een heel klein lichtpuntje roze als de ultieme nalatenschap. Zolang er leven is, is er hoop, blijven we op de been en zijn we sterk. Maar wat doe jij als je alles en iedereen die je lief hebt verliest? Is er dan nog hoop? Daisy is een koopzieke, verwende, maar hardwerkende vrouw. Als zij binnen afzienbare tijd alles en iedereen om zich heen verliest kan zij zich maar met moeite staande houden in haar harde wereld waar leugens en angsten regeren. Niets is meer wat het lijkt en als ze dan onverhoopt zwanger blijkt van haar vermoorde echtgenoot is het enige wat ze wil ervan verlost zijn. En Einar, de jonge Noor die de verleiding van drugs niet kan weerstaan zal hij na de dood van zijn Eva het geluk nog vinden? Is de eenzame Nathalie degene die hem kan redden? Of speelt zij een heel ander spel? Met zijn drieën vluchten ze naar het koude Noorwegen waar ze meegesleurd worden in een lawine van bedrog en een stormachtig slot op een bevroren meer.</p>]]></content>
+        <title type="html"><![CDATA[De nomade]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440349842/de-nomade-anya-niewierra</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440349842/de-nomade-anya-niewierra"/>
+        <updated>2026-09-02T11:53:24.306Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440349842?aid=kb-online-bibliotheek&sid=23&dts=1788343951872&sig=ecfbc786d8ceebea95cc7e32d51bd5aa0d80e43e710448ffc261df1e935803ea&width=320" alt="Omslag van 'De nomade'" title="Omslag van 'De nomade'">
+<p>Een 37-jarige documentairemaker gaat in Oost-Europa op zoek naar haar geheime familiegeschiedenis en komt in het vizier van de man voor wie haar vader al decennia op de vlucht is.</p>]]></content>
         <author>
-            <name>Susanna Florie</name>
+            <name>Anya Niewierra</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het familieweekend]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/459835521/het-familieweekend-nadine-barroso</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/459835521/het-familieweekend-nadine-barroso"/>
-        <updated>2026-08-31T14:41:32.690Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A459835521?aid=kb-online-bibliotheek&sid=23&dts=1788174100178&sig=bc135f47d0f98bc94caa7aff14dedb898b39a422917b4530645c9e3b8ba1b699&width=320" alt="Omslag van 'Het familieweekend'" title="Omslag van 'Het familieweekend'">
-<p>Zeventien jaar geleden overleefde Gwen als enige een verwoestende brand tijdens het jaarlijkse familieweekend. De tragedie liet diepe sporen na. Als journalist Nina de Wilde het verhaal oprakelt, komen bij Gwen verdrongen herinneringen boven aan die fatale nacht.</p><p>Gwen is vastberaden de waarheid over dat allerlaatste familieweekend te achterhalen. Haar zoektocht brengt duistere en schokkende familiegeheimen aan het licht. Maar iemand is bereid alles te doen om het verleden voorgoed te begraven… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Love Redesigned]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440314364/love-redesigned-lauren-asher</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440314364/love-redesigned-lauren-asher"/>
+        <updated>2026-09-02T11:53:24.521Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440314364?aid=kb-online-bibliotheek&sid=23&dts=1788344930915&sig=effe60f11206140f94161d4893f5eb9b18855c92c64dab93a166f88833328524&width=320" alt="Omslag van 'Love Redesigned'" title="Omslag van 'Love Redesigned'">
+<p>Julian koopt een Victoriaanse villa en vraagt Dahlia om het interieur te ontwerpen. Er onstaat een relatie.</p>]]></content>
         <author>
-            <name>Nadine Barroso</name>
+            <name>Lauren Asher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skin and Other Stories]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417052170/skin-and-other-stories-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417052170/skin-and-other-stories-roald-dahl"/>
-        <updated>2026-09-01T12:15:58.833Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417052170?aid=kb-online-bibliotheek&sid=23&dts=1788248240158&sig=1a7b9dbe974e6d41ced0adf9b5cf43bf20478de88f03297c133ca432e16f0fc0&width=320" alt="Omslag van 'Skin and Other Stories'" title="Omslag van 'Skin and Other Stories'">
-<p>HOW would you dispose of a murder weapon without causing suspicion? WHERE would you hide a diamond where no one else would think of looking? WHAT if you discovered the tattoo on your back was worth a million dollars? ELEVEN TALES FILLED WITH INTRIGUE AND SUSPENSE TO STARTLE AND SPELLBIND YOU. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Nachtzwaluw]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/385898738/nachtzwaluw-kjell-eriksson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/385898738/nachtzwaluw-kjell-eriksson"/>
+        <updated>2026-09-02T11:53:24.711Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A385898738?aid=kb-online-bibliotheek&sid=23&dts=1788343405260&sig=0becdaa476a6b97234536e03c783be3a619aa5078e8c44c5394804f5386d88ce&width=320" alt="Omslag van 'Nachtzwaluw'" title="Omslag van 'Nachtzwaluw'">
+<p>Een vrouwelijke inspecteur onderzoekt de moord op een jonge Zweed, die is aangetroffen tussen de brokstukken van een tijdens een onrustige nacht vernield winkelcentrum in Uppsala.</p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Kjell Eriksson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matilda]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434841773/matilda-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434841773/matilda-roald-dahl"/>
-        <updated>2026-09-01T12:15:59.479Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434841773?aid=kb-online-bibliotheek&sid=23&dts=1788184677329&sig=0a693328451e812d9e6f1fbb8a9bed9ddb1022ebf041ef983367eab61c715b24&width=320" alt="Omslag van 'Matilda'" title="Omslag van 'Matilda'">
-<p>"A true genius ... Roald Dahl is my hero" - David Walliams "So Matilda's strong young mind continued to grow, nurtured by the voices of all those authors who had sent their books out into the world like ships on the sea. These books gave Matilda a hopeful and comforting message: You are not alone. " Matilda is the world's most famous bookworm, no thanks to her ghastly parents. Her father thinks she's a little scab. Her mother spends all afternoon playing bingo. And her headmistress, Miss Trunchbull? She's the worst of all. She's a big bully, who thinks all her pupils are rotten and locks them in the dreaded Chokey. Despite these beastly grownups trying to push her down, Matilda is an extraordinary girl with a magical mind. And she's had enough. So all the terrible adults had better watch out, because she's going to teach them a lesson they'll never forget! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De man uit de bergen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/385900295/de-man-uit-de-bergen-kjell-eriksson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/385900295/de-man-uit-de-bergen-kjell-eriksson"/>
+        <updated>2026-09-02T11:53:24.876Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A385900295?aid=kb-online-bibliotheek&sid=23&dts=1788344194533&sig=09f4b50e6f89d3ca0b1f1ee42eb2a510c56c62f9a032390bc442d8bf9c9b1f72&width=320" alt="Omslag van 'De man uit de bergen'" title="Omslag van 'De man uit de bergen'">
+<p>Een Mexicaan reist naar Uppsala om uit te zoeken wat een Zweedse drugshandelaar zijn twee broers heeft aangedaan. Inspecteur Ann Lindell wordt op de zaak gezet.</p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Kjell Eriksson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nineteen Eighty-Four]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434842427/nineteen-eighty-four-george-orwell</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434842427/nineteen-eighty-four-george-orwell"/>
-        <updated>2026-09-01T12:15:59.964Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434842427?aid=kb-online-bibliotheek&sid=23&dts=1788214107433&sig=38380d4855a5f4654b8250254d9234001ca28f6e7c67ed97d93088caf8e23577&width=320" alt="Omslag van 'Nineteen Eighty-Four'" title="Omslag van 'Nineteen Eighty-Four'">
-<p>One of the BBC's '100 Novels that Shaped the World''Who controls the past controls the future: who controls the present controls the past' Hidden away in the Record Department of the sprawling Ministry of Truth, Winston Smith skilfully rewrites the past to suit the needs of the Party. Yet he inwardly rebels against the totalitarian world he lives in, which demands absolute obedience and controls him through the all-seeing telescreens and the watchful eye of Big Brother, symbolic head of the Party. In his longing for truth and liberty, Smith begins a secret love affair with a fellow-worker Julia, but soon discovers the true price of freedom is betrayal. George Orwell's dystopian masterpiece, Nineteen Eighty-Four is perhaps the most pervasively influential book of the twentieth century. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Open graf]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/385903766/open-graf-kjell-eriksson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/385903766/open-graf-kjell-eriksson"/>
+        <updated>2026-09-02T11:53:25.069Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A385903766?aid=kb-online-bibliotheek&sid=23&dts=1788344522051&sig=174b210c9de7d5309c3b8ea965f63af203d85d08dff040eff384e5003d0166e5&width=320" alt="Omslag van 'Open graf'" title="Omslag van 'Open graf'">
+<p>De Deense inspecteur van politie Ann Lindell stuit op een donker verleden als een Nobelprijswinnaar wordt bedreigd.</p>]]></content>
         <author>
-            <name>George Orwell</name>
+            <name>Kjell Eriksson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Extremely Loud and Incredibly Close]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434842710/extremely-loud-and-incredibly-close-jonathan-safran-foer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434842710/extremely-loud-and-incredibly-close-jonathan-safran-foer"/>
-        <updated>2026-09-01T12:16:00.658Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434842710?aid=kb-online-bibliotheek&sid=23&dts=1788263600644&sig=ac3193495290b94fffd14397c867ea0b1d0e368ee91d644c6e518760860d25a1&width=320" alt="Omslag van 'Extremely Loud and Incredibly Close'" title="Omslag van 'Extremely Loud and Incredibly Close'">
-<p>THE INTERNATIONAL BESTSELLERADAPTED INTO A FEATURE FILM WITH TOM HANKSFrom the critically acclaimed author of Here I Am, Everything is Illuminated and We are the Weather - a heartrending and unforgettable novel set in the aftermath of the 9/11'Utterly engaging, hugely involving, tragic, funny and intensely moving... A heartbreaker' Spectator'The most incredible fictional nine-year-old ever created... a funny, heart-rending portrayal of a child coping with disaster. It will have you biting back the tears' Glamour'Pulsates with dazzling ideas' Times Literary Supplement'It's a miracle... So impeccably imagined, so courageously executed, so everlastingly moving' Baltimore Sun'Jonathan Safran Foer is a writer of considerable brilliance' Observer In a vase in a closet, a couple of years after his father died in 9/11, nine-year-old Oskar discovers a key... The key belonged to his father, he's sure of that. But which of New York's 162 million locks does it open?So begins a quest that takes Oskar - inventor, letter-writer and amateur detective - across New York's five boroughs and into the jumbled lives of friends, relatives and complete strangers. He gets heavy boots, he gives himself little bruises and he inches ever nearer to the heart of a family mystery that stretches back fifty years. But will it take him any closer to, or even further from, his lost father? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De kikkerbilletjes van de koning en andere sprookjes]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/418267219/de-kikkerbilletjes-van-de-koning-en-andere-sprookjes-janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/418267219/de-kikkerbilletjes-van-de-koning-en-andere-sprookjes-janneke-schotveld"/>
+        <updated>2026-09-02T11:53:26.264Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A418267219?aid=kb-online-bibliotheek&sid=23&dts=1788350005178&sig=596c67f71213517ddde522e33c6af95215bc0b6574438d248bedbb962db684b9&width=320" alt="Omslag van 'De kikkerbilletjes van de koning en andere sprookjes'" title="Omslag van 'De kikkerbilletjes van de koning en andere sprookjes'">
+<p>Bundel met vijftien moderne sprookjes met een verrassende draai. Zo is er een dappere 'ridster' die een knappe prins redt en verandert een koning in een kikker. Voorlezen vanaf ca. 6 jaar, zelf lezen vanaf ca. 8 jaar.</p>]]></content>
         <author>
-            <name>Jonathan Safran Foer</name>
+            <name>Janneke Schotveld</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Witches]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417052707/the-witches-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417052707/the-witches-roald-dahl"/>
-        <updated>2026-09-01T12:16:01.332Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417052707?aid=kb-online-bibliotheek&sid=23&dts=1788257653293&sig=a337f4eaad2ef91fe24b40ceeb20ffc4a3cadc09bb70f8ca25a2a1f0b4b10b8d&width=320" alt="Omslag van 'The Witches'" title="Omslag van 'The Witches'">
-<p>Ook al heeft een 7-jarige jongen van zijn oma geleerd hoe hij heksen kan herkennen, toch lukt het hen om hem in een muis te veranderen.</p>]]></content>
+        <title type="html"><![CDATA[Het kattenmannetje en andere sprookjes]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/422978426/het-kattenmannetje-en-andere-sprookjes-janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/422978426/het-kattenmannetje-en-andere-sprookjes-janneke-schotveld"/>
+        <updated>2026-09-02T11:53:27.508Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A422978426?aid=kb-online-bibliotheek&sid=23&dts=1788350006350&sig=d73cd13634024bb76962e045149670645291c662b8df54dbdae4845e8e6a3f9f&width=320" alt="Omslag van 'Het kattenmannetje en andere sprookjes'" title="Omslag van 'Het kattenmannetje en andere sprookjes'">
+<p>Bundel met vijftien moderne sprookjes met een verrassende draai. Zo trouwt een dappere 'ridster' met de koning, willen twee koninginnen samen graag een kindje krijgen en wordt de knappe prins Ebben door zijn boze stiefvader naar het bos gestuurd met een slechte jager. Voorlezen vanaf ca. 6 jaar, zelf lezen vanaf ca. 8 jaar.</p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Janneke Schotveld</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fantastic Mr Fox]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417051557/fantastic-mr-fox-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417051557/fantastic-mr-fox-roald-dahl"/>
-        <updated>2026-09-01T12:16:01.877Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417051557?aid=kb-online-bibliotheek&sid=23&dts=1788185403116&sig=873c27e0d37fe0b3bd413367a8a241df757ade84e18e26aae95d00a6af8850b6&width=320" alt="Omslag van 'Fantastic Mr Fox'" title="Omslag van 'Fantastic Mr Fox'">
-<p>Drie rijke en gierige boeren proberen een vossenfamilie te doden omdat deze al hun pluimvee opeet. Maar meneer Vos is erg slim. Vanaf ca. 9 jaar.</p>]]></content>
+        <title type="html"><![CDATA[Red Flags]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447378821/red-flags-robin-venn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447378821/red-flags-robin-venn"/>
+        <updated>2026-09-02T11:53:27.694Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447378821?aid=kb-online-bibliotheek&sid=23&dts=1788344137075&sig=d36c4f6441130366a9e929e024de04d3e6927fe87ef995e3b5e20ab4d12a811f&width=320" alt="Omslag van 'Red Flags'" title="Omslag van 'Red Flags'">
+<p>Is he more than just a walking red flag? After flunking out of college, Sam takes a gap year with her boyfriend—only for her dream trip to end in heartbreak when she catches him cheating. Now she’s back home, single, lost, and crashing in Amsterdam with her best friend, Mila. Thanks to Mila, Sam lands a job at a five-star hotel dripping in luxury—crystal chandeliers, extravagant suites, and VIP guests who expect the world on a silver platter. But as glamorous as it looks, Sam can’t shake the feeling that she doesn’t belong. Enter Fender Kroon. Nepo baby, influencer, and the hotel's most infamous guest, Fender is exactly the type of trouble Sam doesn’t need. He’s all flirty smirks, shirtless selfies, and the kind of rich-boy attitude that sets off every alarm bell. She knows better than to get involved. But the more she learns about the guy behind the glossy Instagram persona, the harder it is to keep her distance. As the truth about Fender unravels, Sam has to wonder—was she right to ignore the red flags, or is she about to make her biggest mistake yet? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Robin Venn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Charlie and the Great Glass Elevator - Charlie and the Chocolate Factory]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417050577/charlie-and-the-great-glass-elevator---charlie-and-the-chocolate-factory-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417050577/charlie-and-the-great-glass-elevator---charlie-and-the-chocolate-factory-roald-dahl"/>
-        <updated>2026-09-01T12:16:02.521Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417050577?aid=kb-online-bibliotheek&sid=23&dts=1788179084264&sig=4e39d3453de6dde9a2ab7acc928c8a73f7fe0e552395c9aefe20e33c4a5e2d95&width=320" alt="Omslag van 'Charlie and the Great Glass Elevator - Charlie and the Chocolate Factory'" title="Omslag van 'Charlie and the Great Glass Elevator - Charlie and the Chocolate Factory'">
-<p>Charlie beleeft met zijn familie en de wonderlijke meneer Wonka spannende momenten, wanneer hij in de ruimte monsterlijke gedrochten ontmoet en als zijn oma te veel verjongingspillen slikt. Vanaf ca. 10 jaar.</p>]]></content>
+        <title type="html"><![CDATA[Schuilplaats]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440449863/schuilplaats-penelope-douglas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440449863/schuilplaats-penelope-douglas"/>
+        <updated>2026-09-02T11:53:27.913Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440449863?aid=kb-online-bibliotheek&sid=23&dts=1788347849950&sig=323b75ce8d77f3410aa03c4b969f4b8091feff0ac49ca8dde1c18a49d746c400&width=320" alt="Omslag van 'Schuilplaats'" title="Omslag van 'Schuilplaats'">
+<p>Je kunt je wel verstoppen. Maar je kunt je lot niet onlopen. In de diepste krochten van de stad zit hotel The Pope verscholen. Het is er donker en verlaten, en het is omgeven door mysterie. Naar het schijnt zit er op de twaalfde verdieping een gast in haar schuilplaats, die nooit is ingecheckt en ook nooit zal uitchecken. Kai is nog steeds aan het bijkomen van zijn tijd in de gevangenis. Als hij tomboy Banks ontmoet, brengt dat herinneringen boven die hij liever niet toelaat. Maar omdat Kai denkt dat zij antwoorden voor hem heeft waardoor hij eindelijk verder kan met zijn leven, laat hij haar niet los. Waar hij geen rekening mee houdt, is dat ze veel meer heeft dan antwoorden. Ze heeft de sleutel van zijn hart. Schuilplaats is een razend spannend en romantisch verhaal over een zoektocht naar waarheid, met twee hoofdpersonages die aan elkaar gewaagd bad-ass zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Penelope Douglas</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Magic Finger]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417052782/the-magic-finger-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417052782/the-magic-finger-roald-dahl"/>
-        <updated>2026-09-01T12:16:03.023Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417052782?aid=kb-online-bibliotheek&sid=23&dts=1788184709220&sig=993d1810f296cf6a25ff688b1b3c21b7153403fcc302be7dfcfac2188cbd2ee6&width=320" alt="Omslag van 'The Magic Finger'" title="Omslag van 'The Magic Finger'">
-<p>A true genius . . . Roald Dahl is my hero' - David Walliams Every Saturday morning the Greg family goes off to shoot animals and birds. But the girl who lives next door hates hunting.Now it's made her so angry she's PUT THE MAGIC FINGER ON THEM ALL. And very strange things have begun to happen . . .And now you can listen to THE MAGIC FINGER (with THE MINPINS) and other Roald Dahl audiobooks read by some very famous voices, including Kate Winslet, David Walliams and Steven Fry - plus there are added squelchy soundeffects from Pinewood Studios! Also look out for new Roald Dahl apps in the App store and Google Play- including the disgusting TWIT OR MISS! and HOUSE OF TWITS inspired by the revolting Twits. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De bloedrode sluier]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440415659/de-bloedrode-sluier-shelby-mahurin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440415659/de-bloedrode-sluier-shelby-mahurin"/>
+        <updated>2026-09-02T11:53:28.119Z</updated>
+        <summary type="html"><![CDATA[Liefde overwint alles]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440415659?aid=kb-online-bibliotheek&sid=23&dts=1788348060250&sig=92cab623c786ef3587f5481d811e6cb7c1004f78cb5fbf56b5cc33cae372b6dd&width=320" alt="Omslag van 'De bloedrode sluier'" title="Omslag van 'De bloedrode sluier'">
+<p>De bloedrode sluier is een spannende nieuwe romantasyserie van TikTok-ster Shelby Mahurin.Célie Tremblay heeft altijd braaf gedaan wat er van haar werd verwacht. Iedereen in haar omgeving is dan ook in shock wanneer ze met alle tradities breekt en de eerste vrouwelijke jager in Belterra wordt. Inclusief Jean-Luc, haar verloofde en tevens kapitein van de jagers. Célie is echter vastbesloten zichzelf te bewijzen.Ze neemt het op zich om een reeks vreemde moorden te onderzoeken, gepleegd op magische wezens die tot op de laatste druppel bloed leeggezogen lijken te zijn. Het onderzoek leidt naar een schuilplaats van vampiers en hun wrede maar bloedmooie koning. Célies angst neemt toe, want hoe dichterbij hij komt, hoe meer ze in de verleiding komt om toe te geven aan zijn duistere honger – en die van haarzelf…Over het werk van Shelby Mahurin:'Briljant. Bevat alle ingrediënten waar ik van houd: een sprankelende heldin, een magische wereld en een broeierige romance die me tot diep in de nacht aan het lezen hield. Een absoluut pareltje.' Sarah J. Maas'Boordevol spannende elementen, waardoor het niet eens in je opkomt om het boek weg te leggen.' Chicklit *****'Met de vele plottwists is dit een must-read voor de fans!' School Library Journal </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Shelby Mahurin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Giraffe and the Pelly and Me]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417052693/the-giraffe-and-the-pelly-and-me-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417052693/the-giraffe-and-the-pelly-and-me-roald-dahl"/>
-        <updated>2026-09-01T12:16:03.722Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417052693?aid=kb-online-bibliotheek&sid=23&dts=1788206371030&sig=39aee486500ea67445d071295fb5fa4494badad92a4df5765d84f2cccbaa3f6d&width=320" alt="Omslag van 'The Giraffe and the Pelly and Me'" title="Omslag van 'The Giraffe and the Pelly and Me'">
-<p>In een oud huis vindt een jongen allerlei dieren waarmee hij allerlei vreemde avonturen beleeft.</p>]]></content>
+        <title type="html"><![CDATA[Laatbloeier]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442328141/laatbloeier-mazey-eddings</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442328141/laatbloeier-mazey-eddings"/>
+        <updated>2026-09-02T11:53:28.303Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442328141?aid=kb-online-bibliotheek&sid=23&dts=1788345072689&sig=618135eaf9fd5bf4484d25be8d5e83b0bca725b892000248ee0589ddf469bd2f&width=320" alt="Omslag van 'Laatbloeier'" title="Omslag van 'Laatbloeier'">
+<p>De loterij winnen heeft Opal Devlins leven verpest. Na het opzeggen van haar uitzichtloze baan waar ze het minimumloon voor kreeg en nog minder respect, wordt ze overspoeld door mensen die bij haar aankloppen voor een aalmoes zodra ze erachter komen dat er nogal wat nullen op haar bankrekening staan. En Opal kan maar niet stoppen met ja zeggen. Haar tere hart is grondig misbruikt en Opal besluit zichzelf te beschermen, wat voor haar betekent dat ze bijna al haar geld steekt in het kopen van een failliete bloemenkwekerij in Asheville, North Carolina. Maar haar plannen voor afzondering en zelfbehoud lopen hopeloos mis wanneer een boze (maar bloedmooie) Pepper Smith haar opwacht op haar nieuwe boerderij. Pepper beweert dat zij de rechtmatige eigenaar is van Thistle and Bloom Farms en dat ze niet verhuist. Het onwaarschijnlijke paar sluit een overeenkomst om samen te gaan wonen, maar ze blijven botsen. Kunnen deze tegenpolen allebei hun dromen tot bloei laten komen? Of zal hun ontvlambare geruzie (en groeiende aantrekkingskracht) de hele boel platbranden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Mazey Eddings</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boy : Tales of Childhood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417052502/boy---tales-of-childhood-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417052502/boy---tales-of-childhood-roald-dahl"/>
-        <updated>2026-09-01T12:16:04.438Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417052502?aid=kb-online-bibliotheek&sid=23&dts=1788248254033&sig=67baa36cdf03d880c9f6050a33b398029cfd2f3af4abf9654a85b0b0f6ce35e3&width=320" alt="Omslag van 'Boy : Tales of Childhood'" title="Omslag van 'Boy : Tales of Childhood'">
-<p>Mede aan de hand van foto's en brieffragmenten vertelt de auteur Roald Dahl (1916-1991) over zijn jeugd.</p>]]></content>
+        <title type="html"><![CDATA[New York, New York]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444427384/new-york--new-york-ren%C3%A9e-olsthoorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444427384/new-york--new-york-ren%C3%A9e-olsthoorn"/>
+        <updated>2026-09-02T11:53:28.657Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444427384?aid=kb-online-bibliotheek&sid=23&dts=1788350008390&sig=68ce98f0e2d64beacbc3592d6b62269ed630d34e6b9a26229f441927da482c99&width=320" alt="Omslag van 'New York, New York'" title="Omslag van 'New York, New York'">
+<p>Voor het eerst sinds haar scheiding gaat Hanne op vakantie. Haar kinderen hebben haar overgehaald om mee te gaan op een singlesreis. Dus vertrekt Hanne naar The Big Apple, en al op Schiphol komt ze een man tegen die ze leuker vindt dan ze ooit nog had verwacht: Robert. Voor ze het weet, heeft ze een New Yorkse date met hem te pakken. Zou ze dan toch nog gelukkig kunnen worden in de liefde? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Renée Olsthoorn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Never Let Me Go]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/441465889/never-let-me-go-kazuo-ishiguro</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/441465889/never-let-me-go-kazuo-ishiguro"/>
-        <updated>2026-09-01T12:16:05.045Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A441465889?aid=kb-online-bibliotheek&sid=23&dts=1788245791050&sig=0ca2ccf54928e054b27c5d8aae8e5a3718387544c512bb75c1e5f5685943de75&width=320" alt="Omslag van 'Never Let Me Go'" title="Omslag van 'Never Let Me Go'">
-<p>**OVER 1 MILLION COPIES SOLD**SHORTLISTED FOR THE BOOKER PRIZE'Brilliantly executed.'MARGARET ATWOOD'A page-turner and a heartbreaker.'TIME'Masterly.'SUNDAY TIMESOne of the most acclaimed novels of the 21st Century, from the Nobel Prize-winning authorKazuo Ishiguro imagines the lives of a group of students growing up in a darkly skewed version of contemporary England. Narrated by Kathy, now thirty-one, Never Let Me Go dramatises her attempts to come to terms with her childhood at the seemingly idyllic Hailsham School and with the fate that has always awaited her and her closest friends in the wider world. A story of love, friendship and memory, Never Let Me Go is charged throughout with a sense of the fragility of life.'Exquisite.'GUARDIAN'A feat of imaginative sympathy.'NEW YORK TIMESWhat readers are saying:'A book I will return to again and again, and one that keeps me thinking even after finishing it.''I loved it, every single word of it.''It took me wholly by surprise.''Utterly beautiful.''Essentially perfect.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het monster in de Holly Library]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443660646/het-monster-in-de-holly-library-k-a--linde</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443660646/het-monster-in-de-holly-library-k-a--linde"/>
+        <updated>2026-09-02T11:53:28.875Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443660646?aid=kb-online-bibliotheek&sid=23&dts=1788348924987&sig=7bf2c30cb20a2b116699cf8b535079aa374a6544b4daba20816fa80b5ac14aa0&width=320" alt="Omslag van 'Het monster in de Holly Library'" title="Omslag van 'Het monster in de Holly Library'">
+<p>Straatdief Kierse had moeten weten dat er iets niet klopte. Nu zit ze gevangen in een bibliotheek - met een monster. Ze kan niet vluchten. Ze kan zich niet verstoppen. En deze man - dit wezen, gevuld met een verschrikkelijke kracht en duisternis - heeft het volste recht om haar te doden. Door op verboden terrein te komen heeft Kierse het fragiele vredesverdrag tussen monsters en mensen verbroken. Maar in plaats van haar te vermoorden, doet Graves het onverwachte: hij biedt haar een baan aan. Een kans om uit te vinden wie ze werkelijk is. Kierse heeft altijd geweten dat ze anders is. Dat ze dingen een beetje beter kan, een beetje sneller. En dan is er nog het voorgevoel dat ze heeft als het gevaar op een steenworp afstand is. Maar als de oude verhalen waar zijn, zijn er ergere dingen in de wereld dan monsters. Zoals een bedreiging die zo oud is als de legende. Zoals Graves. Of zoals Kierse zelf... 'Het monster in de Holly Library' speelt zich af in een alternatief, dystopisch New York waarin monsters de dienst uitmaken en de strijdbijl begraven lijkt, maar in werkelijkheid de verschillende groepen op gespannen voet met elkaar leven. En dan is er ook nog een samenleving ónder de samenleving, die het daglicht al helemaal niet kan verdragen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Kazuo Ishiguro</name>
+            <name>K.A. Linde</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hobbit : The Lord of the Rings]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434334189/the-hobbit---the-lord-of-the-rings-j--r--r--tolkien</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434334189/the-hobbit---the-lord-of-the-rings-j--r--r--tolkien"/>
-        <updated>2026-09-01T12:16:05.674Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434334189?aid=kb-online-bibliotheek&sid=23&dts=1788178565580&sig=8e6f8dc2cad6b9f2b3c102f6d3d3687ec7f80cef62f9d172da2ef2858d43db8c&width=320" alt="Omslag van 'The Hobbit : The Lord of the Rings'" title="Omslag van 'The Hobbit : The Lord of the Rings'">
-<p>This is the story of how a Baggins had an adventure, and found himself doing and saying things altogether unexpected... 'A flawless masterpiece'The TimesBilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely travelling further than the pantry of his hobbit-hole in Bag End. But his contentment is disturbed when the wizard, Gandalf, and a company of thirteen dwarves arrive on his doorstep one day, to whisk him away on a journey 'there and back again'. They have a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon... The prelude to THE LORD OF THE RINGS, THE HOBBIT has sold many millions of copies since its publication in 1937, establishing itself as one of the most beloved and influential books of the twentieth century. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een boom te ver]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44326256X/een-boom-te-ver-ryanne-veldkamp</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44326256X/een-boom-te-ver-ryanne-veldkamp"/>
+        <updated>2026-09-02T11:53:29.113Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44326256X?aid=kb-online-bibliotheek&sid=23&dts=1788343903734&sig=d87976a5786e4b35cd9430a0cb080ae5c3828162709bfa41a2654f2892f9fb6f&width=320" alt="Omslag van 'Een boom te ver'" title="Omslag van 'Een boom te ver'">
+<p>Mare wordt door haar baas naar Noorwegen gestuurd om een onwillige landeigenaar te overtuigen zijn erfgrens een paar meter op te schuiven, zodat zij een vakantiepark kunnen bouwen op die plek. Als ze voor zijn deur staat, zakt de moed haar meteen in de schoenen. Deze Ivar wil écht niet over verkoop praten. Wat alleen zo vreemd is, is dat hij er wel voor openstaat om over andere dingen te praten... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>J. R. R. Tolkien</name>
+            <name>Ryanne Veldkamp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pretty Little Liars #4: Unbelievable]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417051689/pretty-little-liars--4--unbelievable-sara-shepard</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417051689/pretty-little-liars--4--unbelievable-sara-shepard"/>
-        <updated>2026-09-01T12:16:06.314Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417051689?aid=kb-online-bibliotheek&sid=23&dts=1788192881243&sig=62bd177c822892ca8b43bd4d8065daec074e0556b8dbb4f2685a6fd132a5ec71&width=320" alt="Omslag van 'Pretty Little Liars #4: Unbelievable'" title="Omslag van 'Pretty Little Liars #4: Unbelievable'">
-<p>#1 New York Times bestselling seriesThe fourth book in the #1 New York Times bestselling series that inspired the hit ABC Family TV show Pretty Little Liars.Four pretty little liars charmed lives have turned into living nightmares. Emilys been shipped off to Iowa to live with her berconservative cousins. Arias boyfriend is behind barsbecause of her. Spencers afraid she was involved in Alis murder. But Hannas fate is far worse: Shes clinging to life in the hospital because she knew too much. These liars have tried to keep their scandals secret, but the truth is about to rock their pretty little world!Full of unexpected twists and shocking revelations, Unbelievable is the fourth book in New York Times bestselling author Sara Shepards compelling Pretty Little Liars series. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De Leugenvanger]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627046/de-leugenvanger-rob-koops</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627046/de-leugenvanger-rob-koops"/>
+        <updated>2026-09-02T11:53:29.330Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627046?aid=kb-online-bibliotheek&sid=23&dts=1788344661532&sig=36bbcc32324031c09105518d7c89f0429aa3453d31fc5c8b0900f0d3d4a59569&width=320" alt="Omslag van 'De Leugenvanger'" title="Omslag van 'De Leugenvanger'">
+<p>De Leugenvanger van Rob Koops is het epische laatste deel van de Oerbloed-trilogie. Obbe, Darja en hun vrienden reizen met het machtige Zevende Boek terug naar de Boekenburcht. De reis is vol gevaren, vooral als ze in het Vergeten Moeras terechtkomen, waar ze worden belaagd door bloedslurpers en maagzuurkikkers. Eenmaal aangekomen in de duistere tunnels van de Boekenburcht ontdekken ze hoe het Zevende Boek is ontstaan. Ze komen erachter dat er groot gevaar dreigt. Wat kunnen Obbe en Darja doen om Norgië te redden? Fans over Oerbloed: ‘Als je Oerbloed leest, wil je nooit meer stoppen!’ Adam (11) ‘Nadat ik De Raadselbreker op school uit had, wilde ik het écht hebben.’ Maja (12) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sara Shepard</name>
+            <name>Rob Koops</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Two Towers : The Lord of the Rings]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434333581/the-two-towers---the-lord-of-the-rings-j--r--r--tolkien</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434333581/the-two-towers---the-lord-of-the-rings-j--r--r--tolkien"/>
-        <updated>2026-09-01T12:16:06.843Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434333581?aid=kb-online-bibliotheek&sid=23&dts=1788184695418&sig=5503e511aa6b297bfb96b58a7afd0f14b4c5aef68be7032190345fb37dc1ca0f&width=320" alt="Omslag van 'The Two Towers : The Lord of the Rings'" title="Omslag van 'The Two Towers : The Lord of the Rings'">
-<p>The second part of J. R. R. Tolkien's epic adventureTHE LORD OF THE RINGS'Among the greatest works of imaginative fiction of the twentieth century. 'Sunday TelegraphThe company of the Ring is torn asunder. Frodo and Sam continue their journey alone down the great River Anduin - alone, that is, save for the mysterious creeping figure that follows wherever they go. This continues the classic tale begun in The Fellowship of the Ring, which reaches its awesome climax in The Return of the King. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Kussen in het kasteel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914158/kussen-in-het-kasteel-rebecca-winters</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914158/kussen-in-het-kasteel-rebecca-winters"/>
+        <updated>2026-09-02T11:53:29.686Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914158?aid=kb-online-bibliotheek&sid=23&dts=1788350009421&sig=b01d77af085dc18916f9739b804786d1a7dbea00ac2dc7e9ca1c81adad6cecf3&width=320" alt="Omslag van 'Kussen in het kasteel'" title="Omslag van 'Kussen in het kasteel'">
+<p>Valt hij alleen voor haar kookkunst?Iedereen is wég van de taarten van Gemma, en haar macarons smelten op de tong. Toch had ze niet verwacht dat juist zíj de topbaan zou krijgen van chef patisserie bij het Italiaanse castello waar ze is opgegroeid. Nauwelijks bekomen van de verbazing, wacht haar nog een verrassing. Want haar nieuwe baas is niemand minder dan miljardair Vincenzo Gagliardi. De man die ooit haar hart brak...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>J. R. R. Tolkien</name>
+            <name>Rebecca Winters</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The BFG : Plays for Children]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417053452/the-bfg---plays-for-children-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417053452/the-bfg---plays-for-children-roald-dahl"/>
-        <updated>2026-09-01T12:16:07.458Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417053452?aid=kb-online-bibliotheek&sid=23&dts=1788230091734&sig=b94fdaaccf6ebdeb1579a20d209251f3fe3389fdeafb189dcd1d5d632b6a9b0d&width=320" alt="Omslag van 'The BFG : Plays for Children'" title="Omslag van 'The BFG : Plays for Children'">
-<p>Everybody loves the BFG. Now children can bring him to life! Children will have a phizzwizardly good time - and their friends won't believe their gogglers! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Schatgraven naar geluk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914395/schatgraven-naar-geluk-jessica-gilmore</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914395/schatgraven-naar-geluk-jessica-gilmore"/>
+        <updated>2026-09-02T11:53:29.965Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914395?aid=kb-online-bibliotheek&sid=23&dts=1788343943287&sig=889dc7eda42b34819b5ba52b8a61493be1442553b7f2f3639dae3f9ba74cf655&width=320" alt="Omslag van 'Schatgraven naar geluk'" title="Omslag van 'Schatgraven naar geluk'">
+<p>Haar comfortzone is mijlenver weg!Anna zit het liefst thuis met haar neus in een studieboek. Maar wanneer haar moeder haar nodig heeft bij de organisatie van een societybruiloft op La Isla Marina, gaat ze mee. Daar ontmoet ze de knappe Leo di Marquez. Hij is totaal niet haar type, maar hoe ze ook bladert in haar studieboeken, nergens staat hoe ze deze charmante playboy kan weerstaan!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Jessica Gilmore</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pretty Little Liars]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417053606/pretty-little-liars-sara-shepard</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417053606/pretty-little-liars-sara-shepard"/>
-        <updated>2026-09-01T12:16:07.987Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417053606?aid=kb-online-bibliotheek&sid=23&dts=1788184679982&sig=9e2efdf2e748adf9c872be456c531c9a58aa6674a2c0568aa7f2cb78b618a7a9&width=320" alt="Omslag van 'Pretty Little Liars'" title="Omslag van 'Pretty Little Liars'">
-<p>#1 New York Times bestselling seriesThe first book in the #1 New York Times bestselling series that inspired the hit ABC Family TV show Pretty Little Liars.In ultra-trendy Rosewood, Pennsylvania, four beautiful girls are hiding very ugly secrets. High school juniors Spencer, Hanna, Aria, and Emily have grown apart since their best friend Alison DiLaurentis went missing three years ago. But now someone is sending them anonymous notes, threatening to reveal their darkest secrets. Theres only one person who knows that much about them, but Alis gone . . . isnt she?Full of unexpected twists and shocking revelations, this is the first book in New York Times bestselling author Sara Shepards compelling Pretty Little Liars series. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De schat van Amalfi]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446626872/de-schat-van-amalfi-sarah-penner</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446626872/de-schat-van-amalfi-sarah-penner"/>
+        <updated>2026-09-02T11:53:30.195Z</updated>
+        <summary type="html"><![CDATA[Een verboden liefde roept een woeste zee op...]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446626872?aid=kb-online-bibliotheek&sid=23&dts=1788343918624&sig=561d5692c034205d1b225c70c44bee4b75a44d12a275d46de77879c01b1f5858&width=320" alt="Omslag van 'De schat van Amalfi'" title="Omslag van 'De schat van Amalfi'">
+<p>De schat van Amalfi is de nieuwe roman met duale tijdlijn van de internationale bestsellerauteur Sarah Penner. 1821. Mari DeLuca en de andere vrouwen van het Italiaanse dorp Positano beoefenen de kunst van stregheria, een soort ritueel waarmee ze hun dorp beschermen tegen de zee. Wanneer de wrede gebroeders Mazza dit ontdekken, komt Mari voor een onmogelijke keuze te staan… HEDEN. Scheepsarcheoloog Haven Ambrose leidt in Positano een expeditie naar oude scheepswrakken. Stiekem hoopt ze echter meer te vinden dan enkel wrakhout, want ze is op zoek naar een schat met kostbare edelstenen. Dan stuit ze op een oud verhaal over hekserij en een gevaarlijke liefde... ‘Het boek nam me mee naar de woeste zee en de kliffen van Positano, en had personages die ik nooit zal vergeten. Een magische leeservaring!’ Emilia Hart, auteur van De sirenen </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sara Shepard</name>
+            <name>Sarah Penner</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Lost Symbol : (Robert Langdon Book 3)]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434842958/the-lost-symbol----robert-langdon-book-3--dan-brown</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434842958/the-lost-symbol----robert-langdon-book-3--dan-brown"/>
-        <updated>2026-09-01T12:16:08.627Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434842958?aid=kb-online-bibliotheek&sid=23&dts=1788261134605&sig=8e1f5bc19fefc99f7528f2c94cc20a3af221915db930a2154db50fcd1a04fbb7&width=320" alt="Omslag van 'The Lost Symbol : (Robert Langdon Book 3)'" title="Omslag van 'The Lost Symbol : (Robert Langdon Book 3)'">
-<p></p>]]></content>
+        <title type="html"><![CDATA[Italiaanse maskerade]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914360/italiaanse-maskerade-lynn-raye-harris</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914360/italiaanse-maskerade-lynn-raye-harris"/>
+        <updated>2026-09-02T11:53:30.410Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914360?aid=kb-online-bibliotheek&sid=23&dts=1788344711985&sig=d128c3e8b482cd1bda74bb1cc10603e919520fa5cfd4a7548b856b6172620264&width=320" alt="Omslag van 'Italiaanse maskerade'" title="Omslag van 'Italiaanse maskerade'">
+<p>Ze durft het haar familie niet te vertellen…Valentina is zwanger! Geheel tegen haar gewoonte in had ze na een bal masqué een onenightstand met een onbekende, gemaskerde man. Haar schrik slaat om in wanhoop als ze ontdekt wie die man is: Niccolo Gavretti, op wie ze als jong meisje heimelijk verliefd was, maar die inmiddels een vijand van de familie is…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Dan Brown</name>
+            <name>Lynn Raye Harris</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Remains of the Day]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/441465536/the-remains-of-the-day-kazuo-ishiguro</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/441465536/the-remains-of-the-day-kazuo-ishiguro"/>
-        <updated>2026-09-01T12:16:09.743Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A441465536?aid=kb-online-bibliotheek&sid=23&dts=1788264968729&sig=926e1aa2ff71478f60c143094f6afb49fc85dfa9fe771efbb685e267924b1d4f&width=320" alt="Omslag van 'The Remains of the Day'" title="Omslag van 'The Remains of the Day'">
-<p>*Kazuo Ishiguro's new novel Klara and the Sun is now available*WINNER OF THE BOOKER PRIZEA contemporary classic, The Remains of the Day is Kazuo Ishiguro's beautiful and haunting evocation of life between the wars in a Great English House.In the summer of 1956, Stevens, the ageing butler of Darlington Hall, embarks on a leisurely holiday that will take him deep into the countryside and into his past.'A triumph . . . This wholly convincing portrait of a human life unweaving before your eyes is inventive and absorbing, by turns funny, absurd and ultimately very moving.' Sunday Times'A dream of a book: a beguiling comedy of manners that evolves almost magically into a profound and heart-rending study of personality, class and culture.' New York TImes Book Review </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De kleine cottage in Ierland]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627178/de-kleine-cottage-in-ierland-julie-caplin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627178/de-kleine-cottage-in-ierland-julie-caplin"/>
+        <updated>2026-09-02T11:53:30.622Z</updated>
+        <summary type="html"><![CDATA[Een kookcursus in Ierland lijkt de perfecte vakantie, tot ze ziet wie er ook aan deelneemt...]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627178?aid=kb-online-bibliotheek&sid=23&dts=1788346041569&sig=7f9a8866afba7861e448a95b663c22495b017542fdf320066b2bd2315dbf1ddb&width=320" alt="Omslag van 'De kleine cottage in Ierland'" title="Omslag van 'De kleine cottage in Ierland'">
+<p>Onweerstaanbare romantiek in het groene Ierland: De kleine cottage in Ierland van Julie Caplin. Beschamend genoeg is het in Hannahs vriendenkring niet bepaald een geheim dat ze totaal niet kan koken. Daar wil ze iets aan doen voor er helemaal niemand meer bij haar komt eten. Tijd voor een kookcursus in Ierland. In Dublin ontmoet ze de knappe Conor en doet ze iets wat ze normaal nooit zou doen: ze kust hem vrijwel meteen. Maar ach, ze ziet hem toch nooit meer terug, want de volgende dag reist ze verder naar de kookschool. Pas in de knusse cottage waar ze verblijft, ontdekt ze tot haar schrik dat ze zich heeft vergist… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Kazuo Ishiguro</name>
+            <name>Julie Caplin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotty Powder and other Splendiferous Secrets]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/417052731/spotty-powder-and-other-splendiferous-secrets-roald-dahl</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/417052731/spotty-powder-and-other-splendiferous-secrets-roald-dahl"/>
-        <updated>2026-09-01T12:16:10.399Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A417052731?aid=kb-online-bibliotheek&sid=23&dts=1788206371711&sig=5f1aa71cfada5af3e7cba94cfc603c20411aa6b23c2779f8541b5fc35c4967db&width=320" alt="Omslag van 'Spotty Powder and other Splendiferous Secrets'" title="Omslag van 'Spotty Powder and other Splendiferous Secrets'">
-<p>A treasure trove of Dahl! Amazing facts - some funny, some silly - and an original chapter from Charlie and the Chocolate Factory make this a splendiferous, surprising and delicious treat from the wonderful world of Roald Dahl! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Kind van de baas]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914026/kind-van-de-baas-tessa-radley</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914026/kind-van-de-baas-tessa-radley"/>
+        <updated>2026-09-02T11:53:31.117Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914026?aid=kb-online-bibliotheek&sid=23&dts=1788350010886&sig=be35c5917a1792d23f11d19630e5a260eec57a1106a8dc8c8dcf12d882f90447&width=320" alt="Omslag van 'Kind van de baas'" title="Omslag van 'Kind van de baas'">
+<p>Hij doet alles voor zijn dochtertje - maar zíj ook...Biljonair Nick Valentine dacht het al: zijn nieuwe nanny, de sexy Candace, was te mooi om waar te zijn. Hoe durft deze vrouw ineens te beweren dat zíj de moeder is van zijn dochter, in plaats van zijn overleden echtgenote? Dat kan toch helemaal niet? Maar dan krijgt hij onomstotelijk bewijs dat Candy inderdaad de waarheid spreekt...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Roald Dahl</name>
+            <name>Tessa Radley</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Da Vinci Code : (Robert Langdon Book 2)]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434842222/the-da-vinci-code----robert-langdon-book-2--dan-brown</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434842222/the-da-vinci-code----robert-langdon-book-2--dan-brown"/>
-        <updated>2026-09-01T12:16:11.097Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434842222?aid=kb-online-bibliotheek&sid=23&dts=1788264970494&sig=c32d299c19c793a72edc3b2208d054e02908e3a5db903ebb84f876affa9b23c9&width=320" alt="Omslag van 'The Da Vinci Code : (Robert Langdon Book 2)'" title="Omslag van 'The Da Vinci Code : (Robert Langdon Book 2)'">
-<p>*INCLUDES AN EXTRACT FROM ORIGIN,THE NEW THRILLER BY DAN BROWN: OUT NOW* Harvard professor Robert Langdon receives an urgent late-night phone call while on business in Paris: the elderly curator of the Louvre has been brutally murdered inside the museum. Alongside the body, police have found a series of baffling codes. As Langdon and a gifted French cryptologist, Sophie Neveu, begin to sort through the bizarre riddles, they are stunned to find a trail that leads to the works of Leonardo Da Vinci - and suggests the answer to a mystery that stretches deep into the vault of history. Unless Langdon and Neveu can decipher the labyrinthine code and quickly assemble the pieces of the puzzle, a stunning historical truth will be lost forever... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De Griekse magnaat]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914387/de-griekse-magnaat-jacqueline-baird</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914387/de-griekse-magnaat-jacqueline-baird"/>
+        <updated>2026-09-02T11:53:31.428Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914387?aid=kb-online-bibliotheek&sid=23&dts=1788350011204&sig=9e515efc365fd37d6be23b09ffe97546da0c2046f3e2d91591fc03c1bbe411bf&width=320" alt="Omslag van 'De Griekse magnaat'" title="Omslag van 'De Griekse magnaat'">
+<p>Willow is geschokt......als ze acht jaar na hun hartstochtelijke nacht de steenrijke Theo Kadros weer tegen het lijf loopt. Omdat hij destijds een verloofde bleek te hebben, vluchtte ze van hem weg. En nu staat hem een flinke verrassing te wachten...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Dan Brown</name>
+            <name>Jacqueline Baird</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On Chesil Beach]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/441465897/on-chesil-beach-ian-mcewan</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/441465897/on-chesil-beach-ian-mcewan"/>
-        <updated>2026-09-01T12:16:11.745Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A441465897?aid=kb-online-bibliotheek&sid=23&dts=1788239426855&sig=fd01b8dcb9e831ccc9cd09f3ed8115d17fd5802985f34cff3ba7ae3bc2587272&width=320" alt="Omslag van 'On Chesil Beach'" title="Omslag van 'On Chesil Beach'">
-<p>SHORTLISTED FOR THE BOOKER PRIZE AND NOW A MAJOR MOTION PICTUREIt is July 1962. Edward and Florence, young innocents married that morning, arrive at a hotel on the Dorset coast. At dinner in their rooms they struggle to suppress their private fears of the wedding night to come and, unbeknownst to them both, the events of the evening will haunt them for the rest of their lives.''McEwan brings Florence and Edward touchingly alive for us'' Guardian </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Rival Darling]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627119/rival-darling-alexandra-moody</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627119/rival-darling-alexandra-moody"/>
+        <updated>2026-09-02T11:53:31.656Z</updated>
+        <summary type="html"><![CDATA[Is een deal met een devil wel zo'n goed idee?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627119?aid=kb-online-bibliotheek&sid=23&dts=1788348863804&sig=9987c3407c2848bf2234c5c2d6065cbd6fb745e97bdd327609dd4746b118d9e2&width=320" alt="Omslag van 'Rival Darling'" title="Omslag van 'Rival Darling'">
+<p>Rival Darling van Alexandra Moody is nu al een grote hit op BookTok. De zeventienjarige Violet heeft het uitgemaakt met haar vriendje, de aanvoerder van het ijshockeyteam van haar school. En daar had ze goede redenen voor! Om hem te bewijzen dat ze doorgaat met haar leven, wendt ze zich tot zijn grootste rivaal, de beruchte aanvoerder van de Ransom Devils. Reed Darling is knap, mysterieus en een echte bad boy. Wie zou zich beter voor kunnen doen als Violets vriendje zodat haar ex ophoudt met haar lastigvallen? Ondanks Reeds slechte reputatie begint Violet zich al snel af te vragen of al die roddels over hem wel kloppen. En terwijl zij bezig is met het opstellen van strenge regels voor hun neprelatie, heeft Reed andere plannen… Was het wel zo’n goed idee om een deal met een devil te sluiten?  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ian McEwan</name>
+            <name>Alexandra Moody</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Game of Thrones (A Song of Ice and Fire, Book 1)]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43433376X/a-game-of-thrones--a-song-of-ice-and-fire--book-1--george-r-r--martin</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43433376X/a-game-of-thrones--a-song-of-ice-and-fire--book-1--george-r-r--martin"/>
-        <updated>2026-09-01T12:16:12.266Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43433376X?aid=kb-online-bibliotheek&sid=23&dts=1788192879655&sig=3424fbea8dda9b1835f0d2c8c419918e9acbeace8ba995c227cf4435582fd976&width=320" alt="Omslag van 'A Game of Thrones (A Song of Ice and Fire, Book 1)'" title="Omslag van 'A Game of Thrones (A Song of Ice and Fire, Book 1)'">
-<p>HBO's hit series A GAME OF THRONES is based on George R. R. Martin's internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age. A GAME OF THRONES is the first volume in the series. Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun. As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must ... and a dead enemy is a thing of beauty. The old gods have no power in the south, Stark's family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Sleutel naar haar hart]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914522/sleutel-naar-haar-hart-lynsay-sands</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914522/sleutel-naar-haar-hart-lynsay-sands"/>
+        <updated>2026-09-02T11:53:31.869Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914522?aid=kb-online-bibliotheek&sid=23&dts=1788346204766&sig=35a2ae4d33453ba1f24ff77784e8b5c52b0c836af088494e1ba488aae252ed3c&width=320" alt="Omslag van 'Sleutel naar haar hart'" title="Omslag van 'Sleutel naar haar hart'">
+<p>Konings wil is wet...Schotland, 1395Iliana Wildwood heeft er alles voor over om te ontkomen aan haar nietsontziende stiefvader, dus komt het door de koning gearrangeerde huwelijk met Schotse krijgsheer Duncan Dunbar haar eigenlijk goed van pas. Maar als ze hem voor het eerst ontmoet, is ze bepaald niet enthousiast over de conditie waarin ze het kasteel – en haar man – aantreft. Dus stelt ze hem een ultimatum: hij krijgt de sleutel van haar kuisheidsgordel pas als hij haar eisen inwilligt...Duncan is als trotse Schot niet zomaar van plan een of andere vrouw – en ook nog een Engelse! – hem rond te laten commanderen. Ook al is zijn hunkering naar Iliana nog zo groot...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>George R.R. Martin</name>
+            <name>Lynsay Sands</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Sense of an Ending]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434842648/the-sense-of-an-ending-julian-barnes</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434842648/the-sense-of-an-ending-julian-barnes"/>
-        <updated>2026-09-01T12:16:12.920Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434842648?aid=kb-online-bibliotheek&sid=23&dts=1788194725106&sig=4c9ada7a8f33d26f1eea3293a7bc76468da74be3ced06c92f8e28e2b94677f70&width=320" alt="Omslag van 'The Sense of an Ending'" title="Omslag van 'The Sense of an Ending'">
-<p>A masterpiece... I would urge you to read - and re-read ' Daily Telegraph**Winner of the Man Booker Prize for Fiction 2011**Tony Webster and his clique first met Adrian Finn at school. Sex-hungry and book-hungry, they would navigate the girl-less sixth form together, trading in affectations, in-jokes, rumour and wit. Maybe Adrian was a little more serious than the others, certainly more intelligent, but they all swore to stay friends for life. Now Tony is retired. He's had a career and a single marriage, a calm divorce. He's certainly never tried to hurt anybody. Memory, though, is imperfect. It can always throw up surprises, as a lawyer's letter is about to prove. Now a major film </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een schitterend avontuur]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914530/een-schitterend-avontuur-jill-shalvis</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914530/een-schitterend-avontuur-jill-shalvis"/>
+        <updated>2026-09-02T11:53:32.058Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914530?aid=kb-online-bibliotheek&sid=23&dts=1788344972395&sig=2896022029a20fe677cb594976d5e06322f2603d9df0033000cb48e31a292bc2&width=320" alt="Omslag van 'Een schitterend avontuur'" title="Omslag van 'Een schitterend avontuur'">
+<p>Ze was totaal niet op zoek naar avontuur… Privédetective Anna Moore is totaal niet wild of avontuurlijk, dus hoe is ze ineens in deze situatie beland? Het is allemaal begonnen met de vondst van een oude munt in haar vaders nalatenschap, en de daaropvolgende claim van een zekere Owen Harris dat die – samen met een kostbare ketting – jaren eerder is gestolen van zijn oudtante. Anna is stomverbaasd. Die Owen mag dan nog zo sexy zijn, beweert hij nu echt dat haar dierbare vader een dief was? Owen weet het zeker: Anna’s vader was hartstikke schuldig. Vastbesloten om te ontdekken waar hij de rest van de gestolen buit heeft verstopt, besluit Owen Anna in te huren om achter de waarheid te komen. Misschien een vreemde keuze, aangezien zij overtuigd is van haar vaders onschuld, maar zo kan hij haar een beetje in de gaten houden – wat geen straf is, overigens. Hoewel ze lijnrecht tegenover elkaar staan in dit avontuur, moeten Anna en Owen hun uiterste best doen om de vonken die tussen hen overspringen te negeren. Leidt hun zoektocht naar de ketting… of vinden ze uiteindelijk iets nog veel waardevollers?  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Julian Barnes</name>
+            <name>Jill Shalvis</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blue Monday : A Frieda Klein Novel (1)]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434842532/blue-monday---a-frieda-klein-novel--1--nicci-french</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434842532/blue-monday---a-frieda-klein-novel--1--nicci-french"/>
-        <updated>2026-09-01T12:16:13.659Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434842532?aid=kb-online-bibliotheek&sid=23&dts=1788264973013&sig=33b92e72ed05943c4ce74c38bdadc52bca159f2a36a3587616681bc88a720740&width=320" alt="Omslag van 'Blue Monday : A Frieda Klein Novel (1)'" title="Omslag van 'Blue Monday : A Frieda Klein Novel (1)'">
-<p>Feel chills down your spine with the thrilling first novel in Nicci French's bestselling killer series'Undeniably at the top of British psychological suspense writing' OBSERVER'Utterly gripping ... I could hardly turn the pages fast enough' 5***** READER REVIEW Monday: five-year-old Matthew Faraday is abducted. His face is splashed across newspaper front pages. His parents and the police are desperate. Can anyone help find their little boy before it is too late? Psychotherapist Frieda Klein just might know something. She has a lead: a previous abduction, from twenty years ago. One that only Frieda, an expert on the minds of disturbed individuals, can uncover. Struggling to make sense of this terrifying investigation, Frieda will face her darkest fears in the hunt for a clever and brutal killer ... _______'The twists within the last few chapters left me thinking about it for hours after' 5***** READER REVIEW'I was really gripped from start to finish' 5***** READER REVIEW Praise for Nicci French: 'Sophisticated, compassionate, gripping ... Not many books are as insightful as they are addictive; Nicci French's are' Sophie Hannah 'A brilliantly crafted new crime series' Daily Mirror 'Terrific. The writing is pacy, the jaw-dropping twists are plentiful' Short List 'One of French's hardest-to-put-down novels' Sunday Express 'French is undeniably at the top of British psychological suspense writing, expert in the unguessable twist, supremely skilled at ratcheting up the tension' Observer 'A nerve-jangling and addictive read' Daily Express </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Dokter met allures]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44891431X/dokter-met-allures-kate-hardy</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44891431X/dokter-met-allures-kate-hardy"/>
+        <updated>2026-09-02T11:53:32.959Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44891431X?aid=kb-online-bibliotheek&sid=23&dts=1788350012542&sig=1230b9c88e44ca15907d8149a58a0f6db8899bf4de954270d2a7f69e719942a4&width=320" alt="Omslag van 'Dokter met allures'" title="Omslag van 'Dokter met allures'">
+<p>Dokter Sophie wint een date......met arts Sebastian, die wijd en zijd bekend staat als playboy. Zij is echter na een verschrikkelijk huwelijk niet van plan om door hem verleid en verlaten te worden. Hoe snel haar hart ook begint te kloppen door zijn vurige blikken...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nicci French</name>
+            <name>Kate Hardy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Clockwork Orange : Penguin Modern Classics]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43484263X/a-clockwork-orange---penguin-modern-classics-anthony-burgess</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43484263X/a-clockwork-orange---penguin-modern-classics-anthony-burgess"/>
-        <updated>2026-09-01T12:16:14.381Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43484263X?aid=kb-online-bibliotheek&sid=23&dts=1788206388068&sig=4efc83a702ffa160cea9fb9d6085a9388329275619f481562526ecffb9d7d36d&width=320" alt="Omslag van 'A Clockwork Orange : Penguin Modern Classics'" title="Omslag van 'A Clockwork Orange : Penguin Modern Classics'">
-<p>I do not know of any other writer who has done as much with language ... a very funny book' William S. Burroughs Fifteen-year-old Alex doesn't just like ultra-violence - he also enjoys rape, drugs and Beethoven's ninth. He and his gang of droogs rampage through a dystopian future, hunting for terrible thrills. But when Alex finds himself at the mercy of the state and subject to the ministrations of Dr Brodsky, and the mind-altering treatment of the Ludovico Technique, he discovers that fun is no longer the order of the day. The basis for Stanley Kubrick's notorious 1971 film, A Clockwork Orange is both a virtuoso performance from an electrifying prose stylist and a serious exploration of the morality of free will. In his introduction, Blake Morrison situates A Clockwork Orange within the context of Anthony Burgess's many other works, explores the author's unhappiness with the Stanley Kubrick film version, analyses the composition of the Nadsat argot spoken by Alex and his droogs, and examines the influences on Burgess's unique, eternally original style. With an Introduction by Blake Morrison </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een ware koning]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627100/een-ware-koning-soman-chainani</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627100/een-ware-koning-soman-chainani"/>
+        <updated>2026-09-02T11:53:33.183Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627100?aid=kb-online-bibliotheek&sid=23&dts=1788344427294&sig=5067a18b7db4c4e46bd05ee013ad3c4e9031fa66decc9b92c8c2ececa285e04d&width=320" alt="Omslag van 'Een ware koning'" title="Omslag van 'Een ware koning'">
+<p>Een ware koning van Soman Chainani is het laatste deel van de voor Netflix verfilmde YA-serie De School van Goed en Kwaad. Volgens een mythe worden er eens in de vier jaar twee kinderen ontvoerd uit Gavaldon om naar de School van Goed en Kwaad te gaan, waar ze worden opgeleid tot sprookjesfiguren. Inmiddels is de strijd om de kroon van Camelot losgebarsten. Wie wordt de ware koning? Wordt het Japeth, die slimmer, gemener en machtiger is dan wie danook? Of zijn rivaal, de goudblonde posterboy-prins Tedros? Helaas (voor Japeth) zitten er een paar heel slimme en sterke vrouwen in Team Tedros. Onder leiding van Agatha en Sophie gaan ze de strijd met Japeth aan om de kroon voor eens en altijd te bemachtigen. Zal dit laatste deel van Soman Chainani’s populaire fantasyserie eindelijk een ‘en ze leefden nog lang en gelukkig’ brengen? ‘Ik vond het geweldig!’ Rick Riordan, bestsellerauteur van de Percy Jackson-serie ‘Na een paar hoofdstukken was ik helemaal verkocht.’ Rubén Rodriguez da Silva, Libris Venstra ‘Dit laatste deel, boordevol avontuur, geeft de fans een passend happily-ever-after.’ Kirkus Reviews </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Anthony Burgess</name>
+            <name>Soman Chainani</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Norwegian Wood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434842982/norwegian-wood-haruki-murakami</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434842982/norwegian-wood-haruki-murakami"/>
-        <updated>2026-09-01T12:16:14.908Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434842982?aid=kb-online-bibliotheek&sid=23&dts=1788248953814&sig=43717e2b39eb9edea169ec7f1af4d2eca877a520247605a9b22c7d474f83c90c&width=320" alt="Omslag van 'Norwegian Wood'" title="Omslag van 'Norwegian Wood'">
-<p>Read the haunting love story that turned Murakami into a literary superstar. When he hears her favourite Beatles song, Toru Watanabe recalls his first love Naoko, the girlfriend of his best friend Kizuki. Immediately he is transported back almost twenty years to his student days in Tokyo, adrift in a world of uneasy friendships, casual sex, passion, loss and desire - to a time when an impetuous young woman called Midori marches into his life and he has to choose between the future and the past. 'Evocative, entertaining, sexy and funny; but then Murakami is one of the best writers around' Time Out'Such is the exquisite, gossamer construction of Murakami's writing that everything he chooses to describe trembles with symbolic possibility' Guardian'This book is undeniably hip, full of student uprisings, free love, booze and 1960s pop, it's also genuinely emotionally engaging, and describes the highs of adolescence as well as the lows' Independent on Sunday </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[In de armen van de Griek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914379/in-de-armen-van-de-griek-sandra-marton</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914379/in-de-armen-van-de-griek-sandra-marton"/>
+        <updated>2026-09-02T11:53:33.566Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914379?aid=kb-online-bibliotheek&sid=23&dts=1788350013267&sig=fbb09afb77bb1172352fd5c34efd6fc579a5a2c59f2caa6dde9ce57bbad73683&width=320" alt="Omslag van 'In de armen van de Griek'" title="Omslag van 'In de armen van de Griek'">
+<p>Samantha is verbijsterd... ...als ze ontdekt aan wie haar familie haar wil koppelen. Iedereen weet toch dat de sexy magnaat Demetrios Karas overtuigd vrijgezel is? Toch zijn ze binnen de kortste keren aan elkaar verbonden – op een manier die geen van beiden had kunnen voorzien...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Haruki Murakami</name>
+            <name>Sandra Marton</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diary of a Wimpy Kid - Diary of a Wimpy Kid #1]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/42492451X/diary-of-a-wimpy-kid----diary-of-a-wimpy-kid--1-jeff-kinney</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/42492451X/diary-of-a-wimpy-kid----diary-of-a-wimpy-kid--1-jeff-kinney"/>
-        <updated>2026-09-01T12:16:15.532Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A42492451X?aid=kb-online-bibliotheek&sid=23&dts=1788206375050&sig=2ff9344bed1ffdbc5124c1f5017f4778daabe678fb5d706341d2e958543da20d&width=320" alt="Omslag van 'Diary of a Wimpy Kid - Diary of a Wimpy Kid #1'" title="Omslag van 'Diary of a Wimpy Kid - Diary of a Wimpy Kid #1'">
-<p>Boys don't keep diariesor do they?The launch of an exciting and innovatively illustrated new series narrated by an unforgettable kid every family can relate toIt's a new school year, and Greg Heffley finds himself thrust into middle school, where undersized weaklings share the hallways with kids who are taller, meaner, and already shaving. The hazards of growing up before you're ready are uniquely revealed through words and drawings as Greg records them in his diary.In book one of this debut series, Greg is happy to have Rowley, his sidekick, along for the ride. But when Rowley's star starts to rise, Greg tries to use his best friend's newfound popularity to his own advantage, kicking off a chain of events that will test their friendship in hilarious fashion.Author/illustrator Jeff Kinney recalls the growing pains of school life and introduces a new kind of hero who epitomizes the challenges of being a kid. As Greg says in his diary, Just don't expect me to be all Dear Diary' this and Dear Diary' that." Luckily for us, what Greg Heffley says he won't do and what he actually does are two very different things.Since its launch in May 2004 on Funbrain.com, the Web version of Diary of a Wimpy Kid has been viewed by 20 million unique online readers. This year, it is averaging 70,000 readers a day. F&P level: T </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Trouwen met de Griek]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914352/trouwen-met-de-griek-michelle-smart</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914352/trouwen-met-de-griek-michelle-smart"/>
+        <updated>2026-09-02T11:53:33.919Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914352?aid=kb-online-bibliotheek&sid=23&dts=1788350013662&sig=782ef16c47ea59ce02f6e4df46218f3d4d74a6598201a9133ccf71205f276a52&width=320" alt="Omslag van 'Trouwen met de Griek'" title="Omslag van 'Trouwen met de Griek'">
+<p>Christian Markos wilde een erfgenaam......en nu is het zover. Hoewel de beeldschone Alessandra, de zus van zijn beste vriend, verboden terrein voor hem was, verleidde hij haar tot een nacht in zijn bed. Nu blijkt dat die nacht niet zonder gevolgen is gebleven, weet hij wat hij moet doen...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jeff Kinney</name>
+            <name>Michelle Smart</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Secret Garden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434334014/the-secret-garden-frances-hodgson-burnett</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434334014/the-secret-garden-frances-hodgson-burnett"/>
-        <updated>2026-09-01T12:16:16.029Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434334014?aid=kb-online-bibliotheek&sid=23&dts=1788206379045&sig=6a9cdb5cec4506cef24b4e9587ff1807a78dd9c90a5ac556ac0d198e22254944&width=320" alt="Omslag van 'The Secret Garden'" title="Omslag van 'The Secret Garden'">
-<p>Mary Lennox was horrid. Selfish and spoilt, she was sent to stay with her hunchback uncle in Yorkshire. She hated it. But when she finds the way into a secret garden and begins to tend it, a change comes over her and her life. She meets and befriends a local boy, the talented Dickon, and comes across her sickly cousin Colin who had been kept hidden from her. Between them, the three children work astonishing magic in themselves and those around them. The Secret Garden is one of the best-loved stories of all time. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Niet zonder gevaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448914212/niet-zonder-gevaar-cassie-miles</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448914212/niet-zonder-gevaar-cassie-miles"/>
+        <updated>2026-09-02T11:53:34.236Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448914212?aid=kb-online-bibliotheek&sid=23&dts=1788350014003&sig=9dc4fae8060539418150adeca4dc3616ff43c5dabe7964d6aa56f25ddf084f67&width=320" alt="Omslag van 'Niet zonder gevaar'" title="Omslag van 'Niet zonder gevaar'">
+<p>Piper Comstock en haar hond, Izzy, leiden een rustig leven in de bossen van Oregon. Totdat een goede vriend in haar bijzijn doelwit wordt van een moordaanslag. Via US Marshal Gavin McQueen ontdekt ze dat haar vriend een beschermde getuige is, die op de hielen wordt gezeten door een beruchte bendeleider. Samen met Gavin gaat Piper achter de dader aan. Hoe dieper ze erin betrokken raakt, hoe dichterbij het gevaar komt - voor haar leven, maar ook voor haar hart… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Frances Hodgson Burnett</name>
+            <name>Cassie Miles</name>
         </author>
     </entry>
 </feed>
