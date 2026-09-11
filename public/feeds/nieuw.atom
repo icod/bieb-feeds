@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-09-10T11:59:16.902Z</updated>
+    <updated>2026-09-11T11:57:42.969Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -14,6 +14,17 @@
         <updated>2026-09-10T11:58:59.406Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A412021803?aid=kb-online-bibliotheek&sid=23&dts=1789033598428&sig=5170150a52c276dc7a84220b23a518abe40d7e249206ac18d8c9d94913068d31&width=320" alt="Omslag van 'Opmerkelijke schepsels'" title="Omslag van 'Opmerkelijke schepsels'">
 <p>De beroemde Engelse fossielenzoekster Mary Anning (1799-1847) sluit vriendschap met Elizabeth Philpot, een verzamelaarster van fossiele vissen.</p>]]></content>
+        <author>
+            <name>Tracy Chevalier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een losse draad]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/424229668/een-losse-draad-tracy-chevalier</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/424229668/een-losse-draad-tracy-chevalier"/>
+        <updated>2026-09-10T11:59:01.289Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424229668?aid=kb-online-bibliotheek&sid=23&dts=1789037414965&sig=d147b51c2cc2b3adeef538c268f982fe6622347a2112391797a5e102c6000d2b&width=320" alt="Omslag van 'Een losse draad'" title="Omslag van 'Een losse draad'">
+<p>In 1932 verandert het leven van een Engelse vrouw als ze zich aansluit bij een borduurvereniging.</p>]]></content>
         <author>
             <name>Tracy Chevalier</name>
         </author>
@@ -41,17 +52,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een losse draad]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/424229668/een-losse-draad-tracy-chevalier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/424229668/een-losse-draad-tracy-chevalier"/>
-        <updated>2026-09-10T11:59:01.289Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424229668?aid=kb-online-bibliotheek&sid=23&dts=1789037414965&sig=d147b51c2cc2b3adeef538c268f982fe6622347a2112391797a5e102c6000d2b&width=320" alt="Omslag van 'Een losse draad'" title="Omslag van 'Een losse draad'">
-<p>In 1932 verandert het leven van een Engelse vrouw als ze zich aansluit bij een borduurvereniging.</p>]]></content>
-        <author>
-            <name>Tracy Chevalier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wen er maar aan]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/429438605/wen-er-maar-aan-maike-meijer</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/429438605/wen-er-maar-aan-maike-meijer"/>
@@ -74,14 +74,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meisje met de parel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443318417/meisje-met-de-parel-tracy-chevalier</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443318417/meisje-met-de-parel-tracy-chevalier"/>
-        <updated>2026-09-10T11:59:03.241Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443318417?aid=kb-online-bibliotheek&sid=23&dts=1789035597536&sig=66c068ff62f2407f3e6fce1b459376855cc9f041d007c02e83b38779fba929d2&width=320" alt="Omslag van 'Meisje met de parel'" title="Omslag van 'Meisje met de parel'">
-<p>Met een geweldig vermogen zich in te leven in het zeventiendeeeuwse Delft, vertelt Tracy Chevalier in Meisje met de parel het fictieve verhaal van een jonge vrouw die op de rand van haar volwassenheid een genie ontmoet. De zestienjarige Griet aanvaardt een betrekking als dienstmeisje bij de vermaarde schilder Johannes Vermeer. Het beeldschone, protestantse meisje weet al snel een plek te veroveren binnen de katholieke familie. In de loop der jaren raakt de kunstenaar steeds meer gecharmeerd van haar schoonheid, en besluit haar te schilderen. De groeiende intimiteit tussen hen veroorzaakt spanning en onrust in het geordende huishouden, tot ergernis van Vermeers eigenzinnige vrouw Catharina. Tracy Chevaliers meeslepende historische roman over de corruptie van onschuld en de prijs van genialiteit is een hedendaagse klassieker die perfect is voor lezers van Sarah Dunant en Philippa Gregory. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Deze brieven eindigen in tranen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443397627/deze-brieven-eindigen-in-tranen-musih-tedji-xaviere</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443397627/deze-brieven-eindigen-in-tranen-musih-tedji-xaviere"/>
+        <updated>2026-09-10T11:59:06.763Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443397627?aid=kb-online-bibliotheek&sid=23&dts=1789036802462&sig=dc121e1452136b344986dedc3906b1ec077ce3f33102e4b82684060835ecb87b&width=320" alt="Omslag van 'Deze brieven eindigen in tranen'" title="Omslag van 'Deze brieven eindigen in tranen'">
+<p>Bessem ziet Fatima voor het eerst op het voetbalveld en het is liefde op het eerste gezicht. Eén speelse knipoog van Fatima en Bessem weet dat haar leven nooit meer hetzelfde zal zijn. In Kameroen, een land waar relaties tussen mensen van hetzelfde geslacht strafbaar zijn, is een gezamenlijke toekomst voor Bessem en Fatima uitgesloten. Wanneer Fatima wordt opgepakt bij een politie-inval in de enige homobar in de stad, verdwijnt ze vervolgens. Bessem blijft ontredderd achter. Dertien jaar later is Bessem hoogleraar aan de universiteit. Wanneer ze een gemeenschappelijke vriendin tegenkomt - de laatste persoon die Fatima misschien heeft gezien - begint Bessem aan een zoektocht naar haar verloren liefde. Deze brieven eindigen in tranen is het liefdesverhaal van een christelijk meisje met een rebels hart en een moslimmeisje dat een dubbelleven leidt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Tracy Chevalier</name>
+            <name>Musih Tedji Xaviere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vrouw van Montparnasse]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard"/>
+        <updated>2026-09-10T11:59:07.495Z</updated>
+        <summary type="html"><![CDATA[Roman over filosofe en schrijfster Simone de Beauvoir]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44056106X?aid=kb-online-bibliotheek&sid=23&dts=1789041546878&sig=268a5047927bb44f7873439c2ed49bc5d32d8b73aaf93cadcafbe21efea3abaf&width=320" alt="Omslag van 'De vrouw van Montparnasse'" title="Omslag van 'De vrouw van Montparnasse'">
+<p>Biografische roman over het leven van de Franse filosofe en schrijver (1908-1986), met aandacht voor haar zoektocht naar vrijheid in de liefde en in haar carrière.</p>]]></content>
+        <author>
+            <name>Caroline Bernard</name>
         </author>
     </entry>
     <entry>
@@ -118,17 +130,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ik die nooit een man heb gekend]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443397635/ik-die-nooit-een-man-heb-gekend-jacqueline-harpman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443397635/ik-die-nooit-een-man-heb-gekend-jacqueline-harpman"/>
-        <updated>2026-09-10T11:59:05.566Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443397635?aid=kb-online-bibliotheek&sid=23&dts=1789036792569&sig=ba46344b45681f2c7b3391ec36b84eef6e2652f084665ce668c925b12ae5a300&width=320" alt="Omslag van 'Ik die nooit een man heb gekend'" title="Omslag van 'Ik die nooit een man heb gekend'">
-<p>Diep onder de grond leven negenendertig vrouwen gevangen in een kooi. De vrouwen worden in de gaten gehouden door ongenaakbare bewakers en kunnen zich niet herinneren hoe ze daar terecht zijn gekomen, ze hebben geen besef van tijd en herinneren zich slechts vaag hoe hun leven ooit is geweest. Terwijl het continu brandende licht de dag in de nacht doet overgaan en er ontelbare jaren verstrijken, zit een jong meisje - de veertigste gevangene - alleen en verstoten in de hoek. Al snel zal blijken dat zij de sleutel is tot de ontsnapping van de anderen en hun kans op overleving in de vreemde wereld die boven de grond op hen wacht. Ik die nooit een man heb gekend is een beklemmende, hartverscheurende post-apocalyptische roman over vrouwelijke vriendschap en intimiteit, en over de moeite die mensen doen om hun menselijkheid te behouden in het aangezicht van verwoesting. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jacqueline Harpman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De glasmaakster]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/443397600/de-glasmaakster-tracy-chevalier</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/443397600/de-glasmaakster-tracy-chevalier"/>
@@ -140,26 +141,48 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deze brieven eindigen in tranen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443397627/deze-brieven-eindigen-in-tranen-musih-tedji-xaviere</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443397627/deze-brieven-eindigen-in-tranen-musih-tedji-xaviere"/>
-        <updated>2026-09-10T11:59:06.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443397627?aid=kb-online-bibliotheek&sid=23&dts=1789036802462&sig=dc121e1452136b344986dedc3906b1ec077ce3f33102e4b82684060835ecb87b&width=320" alt="Omslag van 'Deze brieven eindigen in tranen'" title="Omslag van 'Deze brieven eindigen in tranen'">
-<p>Bessem ziet Fatima voor het eerst op het voetbalveld en het is liefde op het eerste gezicht. Eén speelse knipoog van Fatima en Bessem weet dat haar leven nooit meer hetzelfde zal zijn. In Kameroen, een land waar relaties tussen mensen van hetzelfde geslacht strafbaar zijn, is een gezamenlijke toekomst voor Bessem en Fatima uitgesloten. Wanneer Fatima wordt opgepakt bij een politie-inval in de enige homobar in de stad, verdwijnt ze vervolgens. Bessem blijft ontredderd achter. Dertien jaar later is Bessem hoogleraar aan de universiteit. Wanneer ze een gemeenschappelijke vriendin tegenkomt - de laatste persoon die Fatima misschien heeft gezien - begint Bessem aan een zoektocht naar haar verloren liefde. Deze brieven eindigen in tranen is het liefdesverhaal van een christelijk meisje met een rebels hart en een moslimmeisje dat een dubbelleven leidt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Ik die nooit een man heb gekend]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443397635/ik-die-nooit-een-man-heb-gekend-jacqueline-harpman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443397635/ik-die-nooit-een-man-heb-gekend-jacqueline-harpman"/>
+        <updated>2026-09-10T11:59:05.566Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443397635?aid=kb-online-bibliotheek&sid=23&dts=1789036792569&sig=ba46344b45681f2c7b3391ec36b84eef6e2652f084665ce668c925b12ae5a300&width=320" alt="Omslag van 'Ik die nooit een man heb gekend'" title="Omslag van 'Ik die nooit een man heb gekend'">
+<p>Diep onder de grond leven negenendertig vrouwen gevangen in een kooi. De vrouwen worden in de gaten gehouden door ongenaakbare bewakers en kunnen zich niet herinneren hoe ze daar terecht zijn gekomen, ze hebben geen besef van tijd en herinneren zich slechts vaag hoe hun leven ooit is geweest. Terwijl het continu brandende licht de dag in de nacht doet overgaan en er ontelbare jaren verstrijken, zit een jong meisje - de veertigste gevangene - alleen en verstoten in de hoek. Al snel zal blijken dat zij de sleutel is tot de ontsnapping van de anderen en hun kans op overleving in de vreemde wereld die boven de grond op hen wacht. Ik die nooit een man heb gekend is een beklemmende, hartverscheurende post-apocalyptische roman over vrouwelijke vriendschap en intimiteit, en over de moeite die mensen doen om hun menselijkheid te behouden in het aangezicht van verwoesting. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Musih Tedji Xaviere</name>
+            <name>Jacqueline Harpman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De vrouw van Montparnasse]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard"/>
-        <updated>2026-09-10T11:59:07.495Z</updated>
-        <summary type="html"><![CDATA[Roman over filosofe en schrijfster Simone de Beauvoir]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44056106X?aid=kb-online-bibliotheek&sid=23&dts=1789041546878&sig=268a5047927bb44f7873439c2ed49bc5d32d8b73aaf93cadcafbe21efea3abaf&width=320" alt="Omslag van 'De vrouw van Montparnasse'" title="Omslag van 'De vrouw van Montparnasse'">
-<p>Biografische roman over het leven van de Franse filosofe en schrijver (1908-1986), met aandacht voor haar zoektocht naar vrijheid in de liefde en in haar carrière.</p>]]></content>
+        <title type="html"><![CDATA[Meisje met de parel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443318417/meisje-met-de-parel-tracy-chevalier</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443318417/meisje-met-de-parel-tracy-chevalier"/>
+        <updated>2026-09-10T11:59:03.241Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443318417?aid=kb-online-bibliotheek&sid=23&dts=1789035597536&sig=66c068ff62f2407f3e6fce1b459376855cc9f041d007c02e83b38779fba929d2&width=320" alt="Omslag van 'Meisje met de parel'" title="Omslag van 'Meisje met de parel'">
+<p>Met een geweldig vermogen zich in te leven in het zeventiendeeeuwse Delft, vertelt Tracy Chevalier in Meisje met de parel het fictieve verhaal van een jonge vrouw die op de rand van haar volwassenheid een genie ontmoet. De zestienjarige Griet aanvaardt een betrekking als dienstmeisje bij de vermaarde schilder Johannes Vermeer. Het beeldschone, protestantse meisje weet al snel een plek te veroveren binnen de katholieke familie. In de loop der jaren raakt de kunstenaar steeds meer gecharmeerd van haar schoonheid, en besluit haar te schilderen. De groeiende intimiteit tussen hen veroorzaakt spanning en onrust in het geordende huishouden, tot ergernis van Vermeers eigenzinnige vrouw Catharina. Tracy Chevaliers meeslepende historische roman over de corruptie van onschuld en de prijs van genialiteit is een hedendaagse klassieker die perfect is voor lezers van Sarah Dunant en Philippa Gregory. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Caroline Bernard</name>
+            <name>Tracy Chevalier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aan de inwoners van Gaza]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/457552514/aan-de-inwoners-van-gaza-samar-yazbek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/457552514/aan-de-inwoners-van-gaza-samar-yazbek"/>
+        <updated>2026-09-10T11:59:10.341Z</updated>
+        <summary type="html"><![CDATA[Uw aanwezigheid hier brengt uw leven in gevaar]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552514?aid=kb-online-bibliotheek&sid=23&dts=1789035442250&sig=88fdb0ab2deed6b2213ac94c457e2fccbab9a123f1735ae8b6914c81cd665ed4&width=320" alt="Omslag van 'Aan de inwoners van Gaza'" title="Omslag van 'Aan de inwoners van Gaza'">
+<p>Samar Yazbek legde de aangrijpende verhalen vast van gewone burgers in Gaza, die getuige waren van wat de geschiedenis zich misschien ooit zal herinneren als een van de meest wrede oorlogen van onze tijd. Hun verhalen onthullen een nachtmerrie vol gruwelen: van drones en bommen met verarmd uranium tot exploderende vaten en hongersnood. De overlevenden beschrijven een realiteit waarin mensen als prooi worden opgejaagd en vluchten door de openluchtgevangenis die de Gazastrook is geworden. Iedere overlevende heeft een onvoorstelbaar verlies geleden - huizen verwoest, dierbaren verdwenen, ledematen weggevaagd. Velen zijn behandeld in ziekenhuizen die werden aangevallen door Israëlische raketten, en waren getuige van de vernietiging van cruciale zorginstellingen. Yazbek illustreert de verschrikkelijke gevolgen van deze verwoesting: door gebrek aan medicijnen, bedden en basisvoorzieningen zijn ze symbool geworden voor de hel die de slachtoffers doorstaan. Ondanks alles blijven de overlevenden, te midden van de tragedie, vastberaden om hun verhalen te delen. Ze klampen zich vast aan de hoop dat hun stemmen weerklank zullen vinden, dat de wereld zal luisteren en dat ze ooit naar huis kunnen terugkeren om hun leven weer op te bouwen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Samar Yazbek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dood in de haven]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460617435/dood-in-de-haven-pauline-rowson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460617435/dood-in-de-haven-pauline-rowson"/>
+        <updated>2026-09-10T11:59:10.895Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460617435?aid=kb-online-bibliotheek&sid=23&dts=1789034070587&sig=1873ec0b1086ae1ab2b7bb8309601dfce1ec7dd5bc87f53bfd33fe16e715c74a&width=320" alt="Omslag van 'Dood in de haven'" title="Omslag van 'Dood in de haven'">
+<p>Een innemende hoofdpersoon, een fascinerend historisch mysterie vol plottwists.</p><p>Maak kennis met inspecteur Ryga van Scotland Yard’s Murder Squad.</p><p> 1950, Newhaven, East Sussex</p><p> Op een mistige novemberavond verdwijnt politieagent George Swinley tijdens zijn gebruikelijke ronde. Vier dagen later wordt zijn levenloze lichaam gevonden bij de kades van Newhaven.</p><p>George’s dood wordt als een ongeluk gezien – men neemt aan dat de mist hem fataal werd. Zijn vrouw Myra gelooft er niets van. George kende de haven als zijn broekzak.</p><p>Myra is vastbesloten de waarheid te achterhalen en gaat een oude vriend bij Scotland Yard om hulp vragen. Maar hij denkt niet dat hij veel kan doen.</p><p>Dan raakt Myra zelf vermist. Ze komt nooit thuis uit Londen.</p><p>Inspecteur Ryga wordt naar Sussex gestuurd om onderzoek te doen. Is hij voorbereid op wat hij daar zal aantreffen?</p><p>Fans van Laura Wilson, Philip Kerr en Elly Griffiths zullen genieten van deze boeiende historische misdaadromans die zich afspelen in het Engeland van de jaren vijftig – een tijd van tekorten, armoede en tergend traag herstel van de ontberingen van de Tweede Wereldoorlog.  DE SPEURDER  In de oorlog was Ryga zeeman en krijgsgevangene. Zijn kampervaringen maken hem opmerkzaam, analytisch en beschouwend. Hij was getuige van medeleven, wreedheid, lafheid, heldendom, mentale instorting en wanhoop – het geeft hem inzicht in zijn medemensen. Na de oorlog heeft hij zichzelf beloofd dat wat er ook gebeurt, hij er voor openstaat. Hij wil zich niet laten leiden door vooroordelen.  DE SETTING  De zuidkust van Engeland heeft meer dan vierhonderd mijl aan adembenemende kusten. Van krijtwitte kliffen en zandstranden tot kiezelbaaien en nationale parken, de schoonheid is eindeloos. Maar het naoorlogse Groot-Brittannië heeft ook lelijke kanten. Alles is nog steeds op rantsoen en er is grote woningschaarste. Voor veel mensen is het armoe troef en sommigen gaan de misdaad in om te overleven.  REACTIES OP DOOD IN DE HAVEN  ‘Het verhaal is goed geplot... Rowson weet de tijd perfect te vangen.’ – Mystery People</p><p>‘Weer een briljant verhaal. Je hebt bijna het gevoel dat je bij de personages bent.’ – Mel ⭐⭐⭐⭐⭐</p><p>‘Zoals bij de eerste in de serie zijn het de tijdsperiode en de personages die je echt opslokken.’ – Jennifer ⭐⭐⭐⭐⭐</p><p>‘Geniet van de settings, personages en onvoorspelbare plots in deze serie.’ – Colleen ⭐⭐⭐⭐⭐ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Pauline Rowson</name>
         </author>
     </entry>
     <entry>
@@ -207,62 +230,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aan de inwoners van Gaza]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/457552514/aan-de-inwoners-van-gaza-samar-yazbek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/457552514/aan-de-inwoners-van-gaza-samar-yazbek"/>
-        <updated>2026-09-10T11:59:10.341Z</updated>
-        <summary type="html"><![CDATA[Uw aanwezigheid hier brengt uw leven in gevaar]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552514?aid=kb-online-bibliotheek&sid=23&dts=1789035442250&sig=88fdb0ab2deed6b2213ac94c457e2fccbab9a123f1735ae8b6914c81cd665ed4&width=320" alt="Omslag van 'Aan de inwoners van Gaza'" title="Omslag van 'Aan de inwoners van Gaza'">
-<p>Samar Yazbek legde de aangrijpende verhalen vast van gewone burgers in Gaza, die getuige waren van wat de geschiedenis zich misschien ooit zal herinneren als een van de meest wrede oorlogen van onze tijd. Hun verhalen onthullen een nachtmerrie vol gruwelen: van drones en bommen met verarmd uranium tot exploderende vaten en hongersnood. De overlevenden beschrijven een realiteit waarin mensen als prooi worden opgejaagd en vluchten door de openluchtgevangenis die de Gazastrook is geworden. Iedere overlevende heeft een onvoorstelbaar verlies geleden - huizen verwoest, dierbaren verdwenen, ledematen weggevaagd. Velen zijn behandeld in ziekenhuizen die werden aangevallen door Israëlische raketten, en waren getuige van de vernietiging van cruciale zorginstellingen. Yazbek illustreert de verschrikkelijke gevolgen van deze verwoesting: door gebrek aan medicijnen, bedden en basisvoorzieningen zijn ze symbool geworden voor de hel die de slachtoffers doorstaan. Ondanks alles blijven de overlevenden, te midden van de tragedie, vastberaden om hun verhalen te delen. Ze klampen zich vast aan de hoop dat hun stemmen weerklank zullen vinden, dat de wereld zal luisteren en dat ze ooit naar huis kunnen terugkeren om hun leven weer op te bouwen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Samar Yazbek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dood in de haven]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460617435/dood-in-de-haven-pauline-rowson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460617435/dood-in-de-haven-pauline-rowson"/>
-        <updated>2026-09-10T11:59:10.895Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460617435?aid=kb-online-bibliotheek&sid=23&dts=1789034070587&sig=1873ec0b1086ae1ab2b7bb8309601dfce1ec7dd5bc87f53bfd33fe16e715c74a&width=320" alt="Omslag van 'Dood in de haven'" title="Omslag van 'Dood in de haven'">
-<p>Een innemende hoofdpersoon, een fascinerend historisch mysterie vol plottwists.</p><p>Maak kennis met inspecteur Ryga van Scotland Yard’s Murder Squad.</p><p> 1950, Newhaven, East Sussex</p><p> Op een mistige novemberavond verdwijnt politieagent George Swinley tijdens zijn gebruikelijke ronde. Vier dagen later wordt zijn levenloze lichaam gevonden bij de kades van Newhaven.</p><p>George’s dood wordt als een ongeluk gezien – men neemt aan dat de mist hem fataal werd. Zijn vrouw Myra gelooft er niets van. George kende de haven als zijn broekzak.</p><p>Myra is vastbesloten de waarheid te achterhalen en gaat een oude vriend bij Scotland Yard om hulp vragen. Maar hij denkt niet dat hij veel kan doen.</p><p>Dan raakt Myra zelf vermist. Ze komt nooit thuis uit Londen.</p><p>Inspecteur Ryga wordt naar Sussex gestuurd om onderzoek te doen. Is hij voorbereid op wat hij daar zal aantreffen?</p><p>Fans van Laura Wilson, Philip Kerr en Elly Griffiths zullen genieten van deze boeiende historische misdaadromans die zich afspelen in het Engeland van de jaren vijftig – een tijd van tekorten, armoede en tergend traag herstel van de ontberingen van de Tweede Wereldoorlog.  DE SPEURDER  In de oorlog was Ryga zeeman en krijgsgevangene. Zijn kampervaringen maken hem opmerkzaam, analytisch en beschouwend. Hij was getuige van medeleven, wreedheid, lafheid, heldendom, mentale instorting en wanhoop – het geeft hem inzicht in zijn medemensen. Na de oorlog heeft hij zichzelf beloofd dat wat er ook gebeurt, hij er voor openstaat. Hij wil zich niet laten leiden door vooroordelen.  DE SETTING  De zuidkust van Engeland heeft meer dan vierhonderd mijl aan adembenemende kusten. Van krijtwitte kliffen en zandstranden tot kiezelbaaien en nationale parken, de schoonheid is eindeloos. Maar het naoorlogse Groot-Brittannië heeft ook lelijke kanten. Alles is nog steeds op rantsoen en er is grote woningschaarste. Voor veel mensen is het armoe troef en sommigen gaan de misdaad in om te overleven.  REACTIES OP DOOD IN DE HAVEN  ‘Het verhaal is goed geplot... Rowson weet de tijd perfect te vangen.’ – Mystery People</p><p>‘Weer een briljant verhaal. Je hebt bijna het gevoel dat je bij de personages bent.’ – Mel ⭐⭐⭐⭐⭐</p><p>‘Zoals bij de eerste in de serie zijn het de tijdsperiode en de personages die je echt opslokken.’ – Jennifer ⭐⭐⭐⭐⭐</p><p>‘Geniet van de settings, personages en onvoorspelbare plots in deze serie.’ – Colleen ⭐⭐⭐⭐⭐ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Pauline Rowson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rijpheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss"/>
-        <updated>2026-09-10T11:59:11.564Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505679?aid=kb-online-bibliotheek&sid=23&dts=1789041551028&sig=1f8f5f957e7f0f88ba291415a6e78c61a6680c59917dc0e7b252194ed7612c0a&width=320" alt="Omslag van 'Rijpheid'" title="Omslag van 'Rijpheid'">
-<p>Edith woont in haar eentje aan de Ierse kust, waar haar gedachten afdwalen naar een zomer, lang geleden, die nog steeds een grote impact op haar leven heeft. Ze onderhoudt een intense vriendschap met Meabh en een intens fysieke relatie met haar buurman. In de jaren zestig werd de zeventienjarige Edith naar een villa aan het Comomeer gestuurd om haar zwangere zus Lydia, een balletdanseres, bij te staan. In dat leven tussen de dansers en omgeven door schoonheid wordt er een delicate spanning opgebouwd die leidt tot een indringende scène waarin Lydia bevalt en vervolgens haar baby ter adoptie afstaat. Sarah Moss schrijft in Rijpheid op een bijna hypnotiserende manier over het lichaam: de ruimte die het inneemt, de cyclus van het leven, het begin en het verval ervan. Bovendien weet ze als geen ander gevoelens van erbij willen horen, vriendschap, familie, eenzaamheid en vooral liefde tot leven te wekken. Rijpheid is een roman vol schoonheid, verdriet en diepmenselijke ervaringen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sarah Moss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een handvol leven]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444505792/een-handvol-leven-marlen-haushofer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444505792/een-handvol-leven-marlen-haushofer"/>
-        <updated>2026-09-10T11:59:12.113Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505792?aid=kb-online-bibliotheek&sid=23&dts=1789041054099&sig=12855cddd7193926320cbf47b1d5852870f54e3771154aa30c708bf7b3848e85&width=320" alt="Omslag van 'Een handvol leven'" title="Omslag van 'Een handvol leven'">
-<p>Een jonge vrouw zet haar eigen dood in scène om aan haar familie te ontsnappen. Na jaren van sociale ketenen wil ze breken met de rol van vrouw, moeder en minnares: ze weigert nog langer een leven te leiden dat door anderen wordt gedicteerd. Jaren later keert Elisabeth terug naar het huis dat ze ooit verliet. Oude foto's brengen herinneringen terug: een zomer op het platteland, haar ervaringen op de nonnenschool, een liefdesrelatie op het werk, het huwelijksleven in de middenklasse en het tweede huwelijk van haar man met haar vriendin Käthe. Deze herinneringen onthullen haar tweestrijd: ooit verkoos ze vrijheid en onafhankelijkheid boven bescherming, toch verlangde ze haar hele leven naar genegenheid, warmte en veiligheid. In plaats van een voortkabbelend 'geluk' koos ze voor 'een handvol leven'. Een handvol leven, gepubliceerd in 1955, is een bijzonder eigentijds portret van een vrouw die weigert de haar toegewezen rol te aanvaarden en besluit haar man en kind achter te laten op zoek naar vrijheid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marlen Haushofer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O, Caledonia]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker"/>
-        <updated>2026-09-10T11:59:12.643Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505652?aid=kb-online-bibliotheek&sid=23&dts=1789039386761&sig=bd4e55b7cd23b58e59a76b1b68edb1686a74d70126823fd755077abe26220d43&width=320" alt="Omslag van 'O, Caledonia'" title="Omslag van 'O, Caledonia'">
-<p>Onder aan de trap van het kasteel, gekleed in haar moeders zwart kanten avondjurk, ligt Janet, in de verwrongen houding die duidt op moord... O, Caledonia is een verbluffende roman, waarin de kettingreactie van gebeurtenissen wordt beschreven die leidt tot de bizarre dood van een zestienjarig meisje, gesitueerd in Schotland in de jaren veertig en vijftig. Opgroeiend in een geïsoleerde en eenzame wereld wendt Barkers verdoemde jonge heldin zich tot de literatuur, de natuur en tot haar tante Lila, die haar korte momenten van troost bieden in een verder grimmig bestaan. Mensen, vogels en andere dieren bevolken een verhaal dat zowel sfeervol als geestig en vlijmscherp is. Het familiemotto - moriens sed invictus (stervend maar onoverwonnen) - is een toepasselijk grafschrift voor de wilde en dappere Janet, wier vurige vastberadenheid om trouw te blijven aan zichzelf haar tot een van de onvergetelijkste heldinnen van de hedendaagse literatuur maakt. Op meesterlijke wijze roept Elspeth Barker het barre klimaat van Schotland voor de geest in deze gothic roman, die wel wordt vergeleken met het werk van de Brontës, Edgar Allen Poe en We hebben altijd in het kasteel gewoond van Shirley Jackson. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elspeth Barker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dat mag je óók al niet meer zeggen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/447379429/dat-mag-je-%C3%B3%C3%B3k-al-niet-meer-zeggen-vivien-waszink</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/447379429/dat-mag-je-%C3%B3%C3%B3k-al-niet-meer-zeggen-vivien-waszink"/>
@@ -272,29 +239,6 @@
 <p>Allochtoon, negerzoen, slaaf, homofiel - soms zijn er woorden waar we opeens niet zo blij meer mee zijn. Ze wringen en schuren omdat ze beledigend zijn of bepaalde groepen mensen een ongewenst etiket geven. Sommige woorden zijn zó beladen dat ze zelfs niet meer uitgesproken of geschreven worden, zoals het n-woord. Voor zulke woorden zoeken we alternatieven - en daardoor verandert de taal. Tegelijkertijd verandert ook hoe we over onszelf denken en praten. De tijd dat we de mensheid zonder meer verdeelden in mannen en vrouwen is definitief voorbij. Naast hij en zij kunnen we nu ook kiezen voor het genderneutrale die en hen. En ook de tijd dat we mannen belangrijker vonden dan vrouwen ligt achter ons - en ook dat heeft gevolgen voor ons taalgebruik. Noem je een vrouw die de baas is nou directrice of directeur? In Dat mag je óók (al niet meer) zeggen inventariseert taalkundige Vivien Waszink wat er allemaal gebeurt op hetgebied van schurende taal, genderinclusief woordgebruik en het weergeven van diversiteit. Welke gevoeligheden zijn er, en hoe gaan we daarmee om? Kun je de samenleving sturen door de taal te veranderen? Vivien Waszink werkt als taalkundige bij het Instituut voor de Nederlandse Taal, en is auteur van diverse boeken over taal. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Vivien Waszink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De kleur van henna]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444505741/de-kleur-van-henna-esther-freud</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444505741/de-kleur-van-henna-esther-freud"/>
-        <updated>2026-09-10T11:59:13.907Z</updated>
-        <summary type="html"><![CDATA[Verfilmd als Hideous Kinky]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505741?aid=kb-online-bibliotheek&sid=23&dts=1789041553315&sig=ad878f65ae1999c1d5d422be08e7c0f4f053431daf48d363041095b0745f4062&width=320" alt="Omslag van 'De kleur van henna'" title="Omslag van 'De kleur van henna'">
-<p>De kleur van henna, succesvol verfilmd als Hideous Kinky, met Kate Winslet in de hoofdrol, is het onweerstaanbare verhaal van een Engelse hippiemoeder die in een opwelling besluit om het grauwe Londen van 1972 te ontvluchten en met haar twee jonge dochters naar Marokko te verhuizen. Het avontuur dat volgt voert hen langs kleurrijke markten, vervallen hotels en mystieke soefi-retraites, via vriendschappen en vetes, affaires met nomadische straatartiesten, urenlang liften langs stoffige wegen en nachtenlang kamperen aan de kust - dit alles gezien door de ogen van een vijfjarig meisje. Herontdek deze meeslepende moderne klassieker over de geest van vrijheid, vol met de beelden, geuren, kleuren en smaken van het Marokko van de twintigste eeuw. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Esther Freud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mijn zus en andere liefdes]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446627054/mijn-zus-en-andere-liefdes-esther-freud</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446627054/mijn-zus-en-andere-liefdes-esther-freud"/>
-        <updated>2026-09-10T11:59:14.450Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627054?aid=kb-online-bibliotheek&sid=23&dts=1789041045391&sig=9123d4073a9015fae3737794a18f80b0caf8d9748c422f026248cb2dadd2423f&width=320" alt="Omslag van 'Mijn zus en andere liefdes'" title="Omslag van 'Mijn zus en andere liefdes'">
-<p>In Mijn zus en andere liefdes keert Esther Freud terug naar Bea en Lucy, de zusjes uit haar autobiografische debuutroman De kleur van henna, die in de jaren zestig met hun hippie-moeder door Marokko reisden. Zolang Lucy zich kan herinneren zit ze klem tussen haar liefde voor haar bohemien moeder en haar verknochtheid aan Bea, haar heftige, veeleisende zus. Van hun kindertijd vol omzwervingen tot hun rusteloze tienerjaren - liftend door het Ierse platteland, de verhuizing naar een soort commune - heeft ze moeten kiezen tussen twee zeer verschillende benaderingen van het leven. Wanneer de meisjes volwassen worden en zich wagen aan hun eigen experimenten - in de liefde, met drugs, werk, het moederschap - dreigt Bea steeds verder af te drijven. Kan hun trouw aan elkaar de beschadigingen overstijgen van een verleden dat bijna te gevaarlijk voelt om te onderzoeken? Met messcherp inzicht delft Esther Freud de intiemste relaties van ons leven op, ze legt de angst en het verlangen bloot, de geheimen en het wantrouwen. Mijn zus en andere liefdes is een onweerstaanbare verkenning van liefde, familie en vrijheid in al hun vormen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Esther Freud</name>
         </author>
     </entry>
     <entry>
@@ -341,6 +285,62 @@
 <p>Het is best gek dat we nooit écht hebben leren werken. Hoe houden we ons staande in deze tijd van voortdurende bereikbaarheid? Hoe bewaren we overzicht, met die uitpuilende mailbox, overvolle agenda en eindeloze takenlijst? En nog veel belangrijker: hoe zorgen we ervoor dat we eindelijk toekomen aan de plannen die we wel hebben maar niet uitvoeren? Sommige mensen lijken altijd grip op de zaak te hebben. Een van hen is Blendle-man Rick Pastoor. In dit boek deelt hij zijn razendslimme werkmethode GRIP, die hij door de jaren heen ontwikkelde. Zijn no-nonsenseaanpak leert je hoe je rust, ruimte en richting in je werkweek krijgt. En hoe je jezelf kunt uitdagen, ook al heb je het druk. Het resultaat? Je gaat niet alleen efficiënter aan de slag, maar vooral effectiever. En zodra je grip hebt, ontstaat er ruimte voor grotere plannen en levensdromen. GRIP toont hoe je die kunt realiseren. In dit boek geen eindeloze theorieën, maar eenvoudige, concrete stappen. En je begint gewoon vandaag. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Rick Pastoor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rijpheid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss"/>
+        <updated>2026-09-10T11:59:11.564Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505679?aid=kb-online-bibliotheek&sid=23&dts=1789041551028&sig=1f8f5f957e7f0f88ba291415a6e78c61a6680c59917dc0e7b252194ed7612c0a&width=320" alt="Omslag van 'Rijpheid'" title="Omslag van 'Rijpheid'">
+<p>Edith woont in haar eentje aan de Ierse kust, waar haar gedachten afdwalen naar een zomer, lang geleden, die nog steeds een grote impact op haar leven heeft. Ze onderhoudt een intense vriendschap met Meabh en een intens fysieke relatie met haar buurman. In de jaren zestig werd de zeventienjarige Edith naar een villa aan het Comomeer gestuurd om haar zwangere zus Lydia, een balletdanseres, bij te staan. In dat leven tussen de dansers en omgeven door schoonheid wordt er een delicate spanning opgebouwd die leidt tot een indringende scène waarin Lydia bevalt en vervolgens haar baby ter adoptie afstaat. Sarah Moss schrijft in Rijpheid op een bijna hypnotiserende manier over het lichaam: de ruimte die het inneemt, de cyclus van het leven, het begin en het verval ervan. Bovendien weet ze als geen ander gevoelens van erbij willen horen, vriendschap, familie, eenzaamheid en vooral liefde tot leven te wekken. Rijpheid is een roman vol schoonheid, verdriet en diepmenselijke ervaringen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sarah Moss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O, Caledonia]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker"/>
+        <updated>2026-09-10T11:59:12.643Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505652?aid=kb-online-bibliotheek&sid=23&dts=1789039386761&sig=bd4e55b7cd23b58e59a76b1b68edb1686a74d70126823fd755077abe26220d43&width=320" alt="Omslag van 'O, Caledonia'" title="Omslag van 'O, Caledonia'">
+<p>Onder aan de trap van het kasteel, gekleed in haar moeders zwart kanten avondjurk, ligt Janet, in de verwrongen houding die duidt op moord... O, Caledonia is een verbluffende roman, waarin de kettingreactie van gebeurtenissen wordt beschreven die leidt tot de bizarre dood van een zestienjarig meisje, gesitueerd in Schotland in de jaren veertig en vijftig. Opgroeiend in een geïsoleerde en eenzame wereld wendt Barkers verdoemde jonge heldin zich tot de literatuur, de natuur en tot haar tante Lila, die haar korte momenten van troost bieden in een verder grimmig bestaan. Mensen, vogels en andere dieren bevolken een verhaal dat zowel sfeervol als geestig en vlijmscherp is. Het familiemotto - moriens sed invictus (stervend maar onoverwonnen) - is een toepasselijk grafschrift voor de wilde en dappere Janet, wier vurige vastberadenheid om trouw te blijven aan zichzelf haar tot een van de onvergetelijkste heldinnen van de hedendaagse literatuur maakt. Op meesterlijke wijze roept Elspeth Barker het barre klimaat van Schotland voor de geest in deze gothic roman, die wel wordt vergeleken met het werk van de Brontës, Edgar Allen Poe en We hebben altijd in het kasteel gewoond van Shirley Jackson. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elspeth Barker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een handvol leven]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444505792/een-handvol-leven-marlen-haushofer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444505792/een-handvol-leven-marlen-haushofer"/>
+        <updated>2026-09-10T11:59:12.113Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505792?aid=kb-online-bibliotheek&sid=23&dts=1789041054099&sig=12855cddd7193926320cbf47b1d5852870f54e3771154aa30c708bf7b3848e85&width=320" alt="Omslag van 'Een handvol leven'" title="Omslag van 'Een handvol leven'">
+<p>Een jonge vrouw zet haar eigen dood in scène om aan haar familie te ontsnappen. Na jaren van sociale ketenen wil ze breken met de rol van vrouw, moeder en minnares: ze weigert nog langer een leven te leiden dat door anderen wordt gedicteerd. Jaren later keert Elisabeth terug naar het huis dat ze ooit verliet. Oude foto's brengen herinneringen terug: een zomer op het platteland, haar ervaringen op de nonnenschool, een liefdesrelatie op het werk, het huwelijksleven in de middenklasse en het tweede huwelijk van haar man met haar vriendin Käthe. Deze herinneringen onthullen haar tweestrijd: ooit verkoos ze vrijheid en onafhankelijkheid boven bescherming, toch verlangde ze haar hele leven naar genegenheid, warmte en veiligheid. In plaats van een voortkabbelend 'geluk' koos ze voor 'een handvol leven'. Een handvol leven, gepubliceerd in 1955, is een bijzonder eigentijds portret van een vrouw die weigert de haar toegewezen rol te aanvaarden en besluit haar man en kind achter te laten op zoek naar vrijheid. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marlen Haushofer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De kleur van henna]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444505741/de-kleur-van-henna-esther-freud</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444505741/de-kleur-van-henna-esther-freud"/>
+        <updated>2026-09-10T11:59:13.907Z</updated>
+        <summary type="html"><![CDATA[Verfilmd als Hideous Kinky]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505741?aid=kb-online-bibliotheek&sid=23&dts=1789041553315&sig=ad878f65ae1999c1d5d422be08e7c0f4f053431daf48d363041095b0745f4062&width=320" alt="Omslag van 'De kleur van henna'" title="Omslag van 'De kleur van henna'">
+<p>De kleur van henna, succesvol verfilmd als Hideous Kinky, met Kate Winslet in de hoofdrol, is het onweerstaanbare verhaal van een Engelse hippiemoeder die in een opwelling besluit om het grauwe Londen van 1972 te ontvluchten en met haar twee jonge dochters naar Marokko te verhuizen. Het avontuur dat volgt voert hen langs kleurrijke markten, vervallen hotels en mystieke soefi-retraites, via vriendschappen en vetes, affaires met nomadische straatartiesten, urenlang liften langs stoffige wegen en nachtenlang kamperen aan de kust - dit alles gezien door de ogen van een vijfjarig meisje. Herontdek deze meeslepende moderne klassieker over de geest van vrijheid, vol met de beelden, geuren, kleuren en smaken van het Marokko van de twintigste eeuw. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Esther Freud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mijn zus en andere liefdes]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627054/mijn-zus-en-andere-liefdes-esther-freud</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627054/mijn-zus-en-andere-liefdes-esther-freud"/>
+        <updated>2026-09-10T11:59:14.450Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627054?aid=kb-online-bibliotheek&sid=23&dts=1789041045391&sig=9123d4073a9015fae3737794a18f80b0caf8d9748c422f026248cb2dadd2423f&width=320" alt="Omslag van 'Mijn zus en andere liefdes'" title="Omslag van 'Mijn zus en andere liefdes'">
+<p>In Mijn zus en andere liefdes keert Esther Freud terug naar Bea en Lucy, de zusjes uit haar autobiografische debuutroman De kleur van henna, die in de jaren zestig met hun hippie-moeder door Marokko reisden. Zolang Lucy zich kan herinneren zit ze klem tussen haar liefde voor haar bohemien moeder en haar verknochtheid aan Bea, haar heftige, veeleisende zus. Van hun kindertijd vol omzwervingen tot hun rusteloze tienerjaren - liftend door het Ierse platteland, de verhuizing naar een soort commune - heeft ze moeten kiezen tussen twee zeer verschillende benaderingen van het leven. Wanneer de meisjes volwassen worden en zich wagen aan hun eigen experimenten - in de liefde, met drugs, werk, het moederschap - dreigt Bea steeds verder af te drijven. Kan hun trouw aan elkaar de beschadigingen overstijgen van een verleden dat bijna te gevaarlijk voelt om te onderzoeken? Met messcherp inzicht delft Esther Freud de intiemste relaties van ons leven op, ze legt de angst en het verlangen bloot, de geheimen en het wantrouwen. Mijn zus en andere liefdes is een onweerstaanbare verkenning van liefde, familie en vrijheid in al hun vormen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Esther Freud</name>
         </author>
     </entry>
 </feed>
