@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-09-11T11:57:42.969Z</updated>
+    <updated>2026-09-12T11:24:22.595Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -30,23 +30,23 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circe]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/421031387/circe-madeline-miller</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/421031387/circe-madeline-miller"/>
-        <updated>2026-09-10T11:59:00.194Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A421031387?aid=kb-online-bibliotheek&sid=23&dts=1789033446497&sig=5bb4dd1f8fb181c49f5a3a068c482ca566c17ea1c145d864829910e695baa84a&width=320" alt="Omslag van 'Circe'" title="Omslag van 'Circe'">
-<p>Heks Circe uit Homerus’ Odyssee vertelt over haar relatie met Odysseus en wat er gebeurde nadat hun zoon een grote fout maakte.</p>]]></content>
-        <author>
-            <name>Madeline Miller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Een lied voor Achilles]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/422917524/een-lied-voor-achilles-madeline-miller</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/422917524/een-lied-voor-achilles-madeline-miller"/>
         <updated>2026-09-10T11:59:00.751Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A422917524?aid=kb-online-bibliotheek&sid=23&dts=1789034936300&sig=48910b185fd04eadb828ca1ed62edc235ef630ad1fba763f06613ec84267caa2&width=320" alt="Omslag van 'Een lied voor Achilles'" title="Omslag van 'Een lied voor Achilles'">
 <p>De Griekse mythologische held Achilles vat een bijzondere vriendschap op voor een jongeling die door zijn vader op ca. 12-jarige leeftijd is opgenomen na door zijn eigen vader te zijn verbannen.</p>]]></content>
+        <author>
+            <name>Madeline Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circe]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/421031387/circe-madeline-miller</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/421031387/circe-madeline-miller"/>
+        <updated>2026-09-10T11:59:00.194Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A421031387?aid=kb-online-bibliotheek&sid=23&dts=1789033446497&sig=5bb4dd1f8fb181c49f5a3a068c482ca566c17ea1c145d864829910e695baa84a&width=320" alt="Omslag van 'Circe'" title="Omslag van 'Circe'">
+<p>Heks Circe uit Homerus’ Odyssee vertelt over haar relatie met Odysseus en wat er gebeurde nadat hun zoon een grote fout maakte.</p>]]></content>
         <author>
             <name>Madeline Miller</name>
         </author>
@@ -74,40 +74,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deze brieven eindigen in tranen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/443397627/deze-brieven-eindigen-in-tranen-musih-tedji-xaviere</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/443397627/deze-brieven-eindigen-in-tranen-musih-tedji-xaviere"/>
-        <updated>2026-09-10T11:59:06.763Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443397627?aid=kb-online-bibliotheek&sid=23&dts=1789036802462&sig=dc121e1452136b344986dedc3906b1ec077ce3f33102e4b82684060835ecb87b&width=320" alt="Omslag van 'Deze brieven eindigen in tranen'" title="Omslag van 'Deze brieven eindigen in tranen'">
-<p>Bessem ziet Fatima voor het eerst op het voetbalveld en het is liefde op het eerste gezicht. Eén speelse knipoog van Fatima en Bessem weet dat haar leven nooit meer hetzelfde zal zijn. In Kameroen, een land waar relaties tussen mensen van hetzelfde geslacht strafbaar zijn, is een gezamenlijke toekomst voor Bessem en Fatima uitgesloten. Wanneer Fatima wordt opgepakt bij een politie-inval in de enige homobar in de stad, verdwijnt ze vervolgens. Bessem blijft ontredderd achter. Dertien jaar later is Bessem hoogleraar aan de universiteit. Wanneer ze een gemeenschappelijke vriendin tegenkomt - de laatste persoon die Fatima misschien heeft gezien - begint Bessem aan een zoektocht naar haar verloren liefde. Deze brieven eindigen in tranen is het liefdesverhaal van een christelijk meisje met een rebels hart en een moslimmeisje dat een dubbelleven leidt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Musih Tedji Xaviere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De vrouw van Montparnasse]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard"/>
-        <updated>2026-09-10T11:59:07.495Z</updated>
-        <summary type="html"><![CDATA[Roman over filosofe en schrijfster Simone de Beauvoir]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44056106X?aid=kb-online-bibliotheek&sid=23&dts=1789041546878&sig=268a5047927bb44f7873439c2ed49bc5d32d8b73aaf93cadcafbe21efea3abaf&width=320" alt="Omslag van 'De vrouw van Montparnasse'" title="Omslag van 'De vrouw van Montparnasse'">
-<p>Biografische roman over het leven van de Franse filosofe en schrijver (1908-1986), met aandacht voor haar zoektocht naar vrijheid in de liefde en in haar carrière.</p>]]></content>
-        <author>
-            <name>Caroline Bernard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het Londen-meisje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440561051/het-londen-meisje-susanna-alakoski</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440561051/het-londen-meisje-susanna-alakoski"/>
-        <updated>2026-09-10T11:59:03.823Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440561051?aid=kb-online-bibliotheek&sid=23&dts=1789035921422&sig=718628b791a9eac5f4e37d2f8c11fcf38a47945c8819186a055f998f0b681bcf&width=320" alt="Omslag van 'Het Londen-meisje'" title="Omslag van 'Het Londen-meisje'">
-<p>De jaren vijftig van de twintigste eeuw. Greta heeft haar moeder Hilda en de oude katoenfabriek in het Finse Vasa verlaten voor een beter leven in Stockholm. Ze deelt een kamer met haar beste vriendin en werkt als verpleeghulp in een ziekenhuis, waarna haar dromen haar nog verder voeren: naar Londen. Daar vindt Greta werk bij de familie Conley, ze leert Engels en sluit vriendschap met andere au pairs. De katoenfabriek en de textielindustrie lijken ver weg. Thuis in Vasa is Hilda nog steeds katoenengel in een industrie die meer en meer bedreigd wordt door de automatisering en de concurrentie uit zowel Zweden als verre landen. Ze schrijft lange brieven aan Greta, en kan haar geluk niet op als haar dochter aankondigt naar huis te komen. Totdat blijkt dat Greta ongehuwd zwanger is. Na De meisjes van de katoenfabriek vervolgt Susanna Alakoski met Het Londen-meisje haar reeks romans over de levens van Finse en Zweedse vrouwen, hun werk en aspiraties tijdens de twintigste eeuw. Dit is een verhaal over vier generaties vrouwen, over nijverheid, liefde en vriendschap, waarin het leven van alledag en de wereldpolitiek draden zijn in hetzelfde weefsel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Susanna Alakoski</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hera]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/44330744X/hera-jennifer-saint</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/44330744X/hera-jennifer-saint"/>
@@ -127,6 +93,40 @@
 <p>Nachtwoud speelt zich af in Parijs, Berlijn en Wenen tijdens de decadente periode tussen de twee wereldoorlogen en ‘behoort tot die kleine groep boeken die op de een of andere manier een tijdperk weerspiegelen’, aldus de Times Literary Supplement. In Nachtwoud vertelt Djuna Barnes de verhalen van een groep Amerikaanse expats en Europeanen in het Parijs van de jaren twintig van de vorige eeuw. Barnes vertelde zelf dat Nachtwoud was geschreven met haar eigen bloed ‘terwijl het nog stroomde’. Die stromende wond was de breuk na een acht jaar lange relatie met de liefde van haar leven, de kunstenares Thelma Wood. Nachtwoud is dan ook een van de eerste romans waarin homoseksualiteit openlijk beschreven wordt. Sinds de publicatie in 1936 is Barnes’ meanderende tour de force een klassieker geworden van de modernistische literatuur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Djuna Barnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het Londen-meisje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440561051/het-londen-meisje-susanna-alakoski</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440561051/het-londen-meisje-susanna-alakoski"/>
+        <updated>2026-09-10T11:59:03.823Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440561051?aid=kb-online-bibliotheek&sid=23&dts=1789035921422&sig=718628b791a9eac5f4e37d2f8c11fcf38a47945c8819186a055f998f0b681bcf&width=320" alt="Omslag van 'Het Londen-meisje'" title="Omslag van 'Het Londen-meisje'">
+<p>De jaren vijftig van de twintigste eeuw. Greta heeft haar moeder Hilda en de oude katoenfabriek in het Finse Vasa verlaten voor een beter leven in Stockholm. Ze deelt een kamer met haar beste vriendin en werkt als verpleeghulp in een ziekenhuis, waarna haar dromen haar nog verder voeren: naar Londen. Daar vindt Greta werk bij de familie Conley, ze leert Engels en sluit vriendschap met andere au pairs. De katoenfabriek en de textielindustrie lijken ver weg. Thuis in Vasa is Hilda nog steeds katoenengel in een industrie die meer en meer bedreigd wordt door de automatisering en de concurrentie uit zowel Zweden als verre landen. Ze schrijft lange brieven aan Greta, en kan haar geluk niet op als haar dochter aankondigt naar huis te komen. Totdat blijkt dat Greta ongehuwd zwanger is. Na De meisjes van de katoenfabriek vervolgt Susanna Alakoski met Het Londen-meisje haar reeks romans over de levens van Finse en Zweedse vrouwen, hun werk en aspiraties tijdens de twintigste eeuw. Dit is een verhaal over vier generaties vrouwen, over nijverheid, liefde en vriendschap, waarin het leven van alledag en de wereldpolitiek draden zijn in hetzelfde weefsel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Susanna Alakoski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vrouw van Montparnasse]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/44056106X/de-vrouw-van-montparnasse-caroline-bernard"/>
+        <updated>2026-09-10T11:59:07.495Z</updated>
+        <summary type="html"><![CDATA[Roman over filosofe en schrijfster Simone de Beauvoir]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A44056106X?aid=kb-online-bibliotheek&sid=23&dts=1789041546878&sig=268a5047927bb44f7873439c2ed49bc5d32d8b73aaf93cadcafbe21efea3abaf&width=320" alt="Omslag van 'De vrouw van Montparnasse'" title="Omslag van 'De vrouw van Montparnasse'">
+<p>Biografische roman over het leven van de Franse filosofe en schrijver (1908-1986), met aandacht voor haar zoektocht naar vrijheid in de liefde en in haar carrière.</p>]]></content>
+        <author>
+            <name>Caroline Bernard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deze brieven eindigen in tranen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443397627/deze-brieven-eindigen-in-tranen-musih-tedji-xaviere</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443397627/deze-brieven-eindigen-in-tranen-musih-tedji-xaviere"/>
+        <updated>2026-09-10T11:59:06.763Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443397627?aid=kb-online-bibliotheek&sid=23&dts=1789036802462&sig=dc121e1452136b344986dedc3906b1ec077ce3f33102e4b82684060835ecb87b&width=320" alt="Omslag van 'Deze brieven eindigen in tranen'" title="Omslag van 'Deze brieven eindigen in tranen'">
+<p>Bessem ziet Fatima voor het eerst op het voetbalveld en het is liefde op het eerste gezicht. Eén speelse knipoog van Fatima en Bessem weet dat haar leven nooit meer hetzelfde zal zijn. In Kameroen, een land waar relaties tussen mensen van hetzelfde geslacht strafbaar zijn, is een gezamenlijke toekomst voor Bessem en Fatima uitgesloten. Wanneer Fatima wordt opgepakt bij een politie-inval in de enige homobar in de stad, verdwijnt ze vervolgens. Bessem blijft ontredderd achter. Dertien jaar later is Bessem hoogleraar aan de universiteit. Wanneer ze een gemeenschappelijke vriendin tegenkomt - de laatste persoon die Fatima misschien heeft gezien - begint Bessem aan een zoektocht naar haar verloren liefde. Deze brieven eindigen in tranen is het liefdesverhaal van een christelijk meisje met een rebels hart en een moslimmeisje dat een dubbelleven leidt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Musih Tedji Xaviere</name>
         </author>
     </entry>
     <entry>
@@ -163,26 +163,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aan de inwoners van Gaza]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/457552514/aan-de-inwoners-van-gaza-samar-yazbek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/457552514/aan-de-inwoners-van-gaza-samar-yazbek"/>
-        <updated>2026-09-10T11:59:10.341Z</updated>
-        <summary type="html"><![CDATA[Uw aanwezigheid hier brengt uw leven in gevaar]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552514?aid=kb-online-bibliotheek&sid=23&dts=1789035442250&sig=88fdb0ab2deed6b2213ac94c457e2fccbab9a123f1735ae8b6914c81cd665ed4&width=320" alt="Omslag van 'Aan de inwoners van Gaza'" title="Omslag van 'Aan de inwoners van Gaza'">
-<p>Samar Yazbek legde de aangrijpende verhalen vast van gewone burgers in Gaza, die getuige waren van wat de geschiedenis zich misschien ooit zal herinneren als een van de meest wrede oorlogen van onze tijd. Hun verhalen onthullen een nachtmerrie vol gruwelen: van drones en bommen met verarmd uranium tot exploderende vaten en hongersnood. De overlevenden beschrijven een realiteit waarin mensen als prooi worden opgejaagd en vluchten door de openluchtgevangenis die de Gazastrook is geworden. Iedere overlevende heeft een onvoorstelbaar verlies geleden - huizen verwoest, dierbaren verdwenen, ledematen weggevaagd. Velen zijn behandeld in ziekenhuizen die werden aangevallen door Israëlische raketten, en waren getuige van de vernietiging van cruciale zorginstellingen. Yazbek illustreert de verschrikkelijke gevolgen van deze verwoesting: door gebrek aan medicijnen, bedden en basisvoorzieningen zijn ze symbool geworden voor de hel die de slachtoffers doorstaan. Ondanks alles blijven de overlevenden, te midden van de tragedie, vastberaden om hun verhalen te delen. Ze klampen zich vast aan de hoop dat hun stemmen weerklank zullen vinden, dat de wereld zal luisteren en dat ze ooit naar huis kunnen terugkeren om hun leven weer op te bouwen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een mondvol zout]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/457552573/een-mondvol-zout-reem-gaafar</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/457552573/een-mondvol-zout-reem-gaafar"/>
+        <updated>2026-09-10T11:59:09.772Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552573?aid=kb-online-bibliotheek&sid=23&dts=1789033757611&sig=eef1c233a07a6121c5b45cce9102d5c135bb3eeb9a05d3623dcbbc043500f908&width=320" alt="Omslag van 'Een mondvol zout'" title="Omslag van 'Een mondvol zout'">
+<p>Een klein boerendorp in Noord-Sudan wordt op een ochtend wakker met het nieuws dat een jongetje is verdronken. Kort daarna sterven de dieren aan een mysterieuze ziekte en vliegen de dadeltuinen in brand en branden ze tot de grond toe af. De dorpelingen fluisteren over een tovenares die aan de voet van de bergen woont. Het is het droge seizoen. De mannen moeten ergens heen, de vrouwen moeten werken, de kinderen spelen op de plek waar de rivier buiten haar oevers treedt. De zestienjarige Fatima verlangt ernaar om het dorp te verlaten en naar Khartoem te gaan. In Khartoem vindt een alleenstaande moeder haar weg in een wereld die meisjes en vrouwen wil weren. Terwijl de burgeroorlog oplaait, dringt het politieke door in het persoonlijke en wordt haar positie in de hoofdstad onhoudbaar. Ze moet terug naar het dorp. Een mondvol zout laat een land zien dat op de rand van een aardverschuiving staat, terwijl de vrouwen zelf moeten beslissen welke tradities zij in ere willen houden - en welke profetieën ze moeten herschrijven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Samar Yazbek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dood in de haven]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460617435/dood-in-de-haven-pauline-rowson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460617435/dood-in-de-haven-pauline-rowson"/>
-        <updated>2026-09-10T11:59:10.895Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460617435?aid=kb-online-bibliotheek&sid=23&dts=1789034070587&sig=1873ec0b1086ae1ab2b7bb8309601dfce1ec7dd5bc87f53bfd33fe16e715c74a&width=320" alt="Omslag van 'Dood in de haven'" title="Omslag van 'Dood in de haven'">
-<p>Een innemende hoofdpersoon, een fascinerend historisch mysterie vol plottwists.</p><p>Maak kennis met inspecteur Ryga van Scotland Yard’s Murder Squad.</p><p> 1950, Newhaven, East Sussex</p><p> Op een mistige novemberavond verdwijnt politieagent George Swinley tijdens zijn gebruikelijke ronde. Vier dagen later wordt zijn levenloze lichaam gevonden bij de kades van Newhaven.</p><p>George’s dood wordt als een ongeluk gezien – men neemt aan dat de mist hem fataal werd. Zijn vrouw Myra gelooft er niets van. George kende de haven als zijn broekzak.</p><p>Myra is vastbesloten de waarheid te achterhalen en gaat een oude vriend bij Scotland Yard om hulp vragen. Maar hij denkt niet dat hij veel kan doen.</p><p>Dan raakt Myra zelf vermist. Ze komt nooit thuis uit Londen.</p><p>Inspecteur Ryga wordt naar Sussex gestuurd om onderzoek te doen. Is hij voorbereid op wat hij daar zal aantreffen?</p><p>Fans van Laura Wilson, Philip Kerr en Elly Griffiths zullen genieten van deze boeiende historische misdaadromans die zich afspelen in het Engeland van de jaren vijftig – een tijd van tekorten, armoede en tergend traag herstel van de ontberingen van de Tweede Wereldoorlog.  DE SPEURDER  In de oorlog was Ryga zeeman en krijgsgevangene. Zijn kampervaringen maken hem opmerkzaam, analytisch en beschouwend. Hij was getuige van medeleven, wreedheid, lafheid, heldendom, mentale instorting en wanhoop – het geeft hem inzicht in zijn medemensen. Na de oorlog heeft hij zichzelf beloofd dat wat er ook gebeurt, hij er voor openstaat. Hij wil zich niet laten leiden door vooroordelen.  DE SETTING  De zuidkust van Engeland heeft meer dan vierhonderd mijl aan adembenemende kusten. Van krijtwitte kliffen en zandstranden tot kiezelbaaien en nationale parken, de schoonheid is eindeloos. Maar het naoorlogse Groot-Brittannië heeft ook lelijke kanten. Alles is nog steeds op rantsoen en er is grote woningschaarste. Voor veel mensen is het armoe troef en sommigen gaan de misdaad in om te overleven.  REACTIES OP DOOD IN DE HAVEN  ‘Het verhaal is goed geplot... Rowson weet de tijd perfect te vangen.’ – Mystery People</p><p>‘Weer een briljant verhaal. Je hebt bijna het gevoel dat je bij de personages bent.’ – Mel ⭐⭐⭐⭐⭐</p><p>‘Zoals bij de eerste in de serie zijn het de tijdsperiode en de personages die je echt opslokken.’ – Jennifer ⭐⭐⭐⭐⭐</p><p>‘Geniet van de settings, personages en onvoorspelbare plots in deze serie.’ – Colleen ⭐⭐⭐⭐⭐ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Pauline Rowson</name>
+            <name>Reem Gaafar</name>
         </author>
     </entry>
     <entry>
@@ -219,26 +207,70 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een mondvol zout]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/457552573/een-mondvol-zout-reem-gaafar</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/457552573/een-mondvol-zout-reem-gaafar"/>
-        <updated>2026-09-10T11:59:09.772Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552573?aid=kb-online-bibliotheek&sid=23&dts=1789033757611&sig=eef1c233a07a6121c5b45cce9102d5c135bb3eeb9a05d3623dcbbc043500f908&width=320" alt="Omslag van 'Een mondvol zout'" title="Omslag van 'Een mondvol zout'">
-<p>Een klein boerendorp in Noord-Sudan wordt op een ochtend wakker met het nieuws dat een jongetje is verdronken. Kort daarna sterven de dieren aan een mysterieuze ziekte en vliegen de dadeltuinen in brand en branden ze tot de grond toe af. De dorpelingen fluisteren over een tovenares die aan de voet van de bergen woont. Het is het droge seizoen. De mannen moeten ergens heen, de vrouwen moeten werken, de kinderen spelen op de plek waar de rivier buiten haar oevers treedt. De zestienjarige Fatima verlangt ernaar om het dorp te verlaten en naar Khartoem te gaan. In Khartoem vindt een alleenstaande moeder haar weg in een wereld die meisjes en vrouwen wil weren. Terwijl de burgeroorlog oplaait, dringt het politieke door in het persoonlijke en wordt haar positie in de hoofdstad onhoudbaar. Ze moet terug naar het dorp. Een mondvol zout laat een land zien dat op de rand van een aardverschuiving staat, terwijl de vrouwen zelf moeten beslissen welke tradities zij in ere willen houden - en welke profetieën ze moeten herschrijven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Aan de inwoners van Gaza]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/457552514/aan-de-inwoners-van-gaza-samar-yazbek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/457552514/aan-de-inwoners-van-gaza-samar-yazbek"/>
+        <updated>2026-09-10T11:59:10.341Z</updated>
+        <summary type="html"><![CDATA[Uw aanwezigheid hier brengt uw leven in gevaar]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A457552514?aid=kb-online-bibliotheek&sid=23&dts=1789035442250&sig=88fdb0ab2deed6b2213ac94c457e2fccbab9a123f1735ae8b6914c81cd665ed4&width=320" alt="Omslag van 'Aan de inwoners van Gaza'" title="Omslag van 'Aan de inwoners van Gaza'">
+<p>Samar Yazbek legde de aangrijpende verhalen vast van gewone burgers in Gaza, die getuige waren van wat de geschiedenis zich misschien ooit zal herinneren als een van de meest wrede oorlogen van onze tijd. Hun verhalen onthullen een nachtmerrie vol gruwelen: van drones en bommen met verarmd uranium tot exploderende vaten en hongersnood. De overlevenden beschrijven een realiteit waarin mensen als prooi worden opgejaagd en vluchten door de openluchtgevangenis die de Gazastrook is geworden. Iedere overlevende heeft een onvoorstelbaar verlies geleden - huizen verwoest, dierbaren verdwenen, ledematen weggevaagd. Velen zijn behandeld in ziekenhuizen die werden aangevallen door Israëlische raketten, en waren getuige van de vernietiging van cruciale zorginstellingen. Yazbek illustreert de verschrikkelijke gevolgen van deze verwoesting: door gebrek aan medicijnen, bedden en basisvoorzieningen zijn ze symbool geworden voor de hel die de slachtoffers doorstaan. Ondanks alles blijven de overlevenden, te midden van de tragedie, vastberaden om hun verhalen te delen. Ze klampen zich vast aan de hoop dat hun stemmen weerklank zullen vinden, dat de wereld zal luisteren en dat ze ooit naar huis kunnen terugkeren om hun leven weer op te bouwen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Reem Gaafar</name>
+            <name>Samar Yazbek</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dat mag je óók al niet meer zeggen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447379429/dat-mag-je-%C3%B3%C3%B3k-al-niet-meer-zeggen-vivien-waszink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447379429/dat-mag-je-%C3%B3%C3%B3k-al-niet-meer-zeggen-vivien-waszink"/>
-        <updated>2026-09-10T11:59:13.199Z</updated>
-        <summary type="html"><![CDATA[Welke woorden kunnen? En welke juist niet?]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447379429?aid=kb-online-bibliotheek&sid=23&dts=1789033756498&sig=b2ef6b0c9ce63a6746bbe8ae6d5fafc80e5c3068e522ed7a6acd7fa354a85e37&width=320" alt="Omslag van 'Dat mag je óók al niet meer zeggen'" title="Omslag van 'Dat mag je óók al niet meer zeggen'">
-<p>Allochtoon, negerzoen, slaaf, homofiel - soms zijn er woorden waar we opeens niet zo blij meer mee zijn. Ze wringen en schuren omdat ze beledigend zijn of bepaalde groepen mensen een ongewenst etiket geven. Sommige woorden zijn zó beladen dat ze zelfs niet meer uitgesproken of geschreven worden, zoals het n-woord. Voor zulke woorden zoeken we alternatieven - en daardoor verandert de taal. Tegelijkertijd verandert ook hoe we over onszelf denken en praten. De tijd dat we de mensheid zonder meer verdeelden in mannen en vrouwen is definitief voorbij. Naast hij en zij kunnen we nu ook kiezen voor het genderneutrale die en hen. En ook de tijd dat we mannen belangrijker vonden dan vrouwen ligt achter ons - en ook dat heeft gevolgen voor ons taalgebruik. Noem je een vrouw die de baas is nou directrice of directeur? In Dat mag je óók (al niet meer) zeggen inventariseert taalkundige Vivien Waszink wat er allemaal gebeurt op hetgebied van schurende taal, genderinclusief woordgebruik en het weergeven van diversiteit. Welke gevoeligheden zijn er, en hoe gaan we daarmee om? Kun je de samenleving sturen door de taal te veranderen? Vivien Waszink werkt als taalkundige bij het Instituut voor de Nederlandse Taal, en is auteur van diverse boeken over taal. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Dood in de haven]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460617435/dood-in-de-haven-pauline-rowson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460617435/dood-in-de-haven-pauline-rowson"/>
+        <updated>2026-09-10T11:59:10.895Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460617435?aid=kb-online-bibliotheek&sid=23&dts=1789034070587&sig=1873ec0b1086ae1ab2b7bb8309601dfce1ec7dd5bc87f53bfd33fe16e715c74a&width=320" alt="Omslag van 'Dood in de haven'" title="Omslag van 'Dood in de haven'">
+<p>Een innemende hoofdpersoon, een fascinerend historisch mysterie vol plottwists.</p><p>Maak kennis met inspecteur Ryga van Scotland Yard’s Murder Squad.</p><p> 1950, Newhaven, East Sussex</p><p> Op een mistige novemberavond verdwijnt politieagent George Swinley tijdens zijn gebruikelijke ronde. Vier dagen later wordt zijn levenloze lichaam gevonden bij de kades van Newhaven.</p><p>George’s dood wordt als een ongeluk gezien – men neemt aan dat de mist hem fataal werd. Zijn vrouw Myra gelooft er niets van. George kende de haven als zijn broekzak.</p><p>Myra is vastbesloten de waarheid te achterhalen en gaat een oude vriend bij Scotland Yard om hulp vragen. Maar hij denkt niet dat hij veel kan doen.</p><p>Dan raakt Myra zelf vermist. Ze komt nooit thuis uit Londen.</p><p>Inspecteur Ryga wordt naar Sussex gestuurd om onderzoek te doen. Is hij voorbereid op wat hij daar zal aantreffen?</p><p>Fans van Laura Wilson, Philip Kerr en Elly Griffiths zullen genieten van deze boeiende historische misdaadromans die zich afspelen in het Engeland van de jaren vijftig – een tijd van tekorten, armoede en tergend traag herstel van de ontberingen van de Tweede Wereldoorlog.  DE SPEURDER  In de oorlog was Ryga zeeman en krijgsgevangene. Zijn kampervaringen maken hem opmerkzaam, analytisch en beschouwend. Hij was getuige van medeleven, wreedheid, lafheid, heldendom, mentale instorting en wanhoop – het geeft hem inzicht in zijn medemensen. Na de oorlog heeft hij zichzelf beloofd dat wat er ook gebeurt, hij er voor openstaat. Hij wil zich niet laten leiden door vooroordelen.  DE SETTING  De zuidkust van Engeland heeft meer dan vierhonderd mijl aan adembenemende kusten. Van krijtwitte kliffen en zandstranden tot kiezelbaaien en nationale parken, de schoonheid is eindeloos. Maar het naoorlogse Groot-Brittannië heeft ook lelijke kanten. Alles is nog steeds op rantsoen en er is grote woningschaarste. Voor veel mensen is het armoe troef en sommigen gaan de misdaad in om te overleven.  REACTIES OP DOOD IN DE HAVEN  ‘Het verhaal is goed geplot... Rowson weet de tijd perfect te vangen.’ – Mystery People</p><p>‘Weer een briljant verhaal. Je hebt bijna het gevoel dat je bij de personages bent.’ – Mel ⭐⭐⭐⭐⭐</p><p>‘Zoals bij de eerste in de serie zijn het de tijdsperiode en de personages die je echt opslokken.’ – Jennifer ⭐⭐⭐⭐⭐</p><p>‘Geniet van de settings, personages en onvoorspelbare plots in deze serie.’ – Colleen ⭐⭐⭐⭐⭐ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Vivien Waszink</name>
+            <name>Pauline Rowson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korstmos]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627089/korstmos-rinske-bouwman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627089/korstmos-rinske-bouwman"/>
+        <updated>2026-09-10T11:59:16.220Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627089?aid=kb-online-bibliotheek&sid=23&dts=1789033828057&sig=93b62535e81ef6120080f59fb612533d390a18e45392831dfefccf50159615b4&width=320" alt="Omslag van 'Korstmos'" title="Omslag van 'Korstmos'">
+<p>Marius is buschauffeur, beginnend vogelaar en mantelzorger van zijn vrouw Philo, die al jaren langer leeft dan verwacht. Als game developer tipt ze hem The Otherworld, een online virtuele wereld, waar mensen van over de hele wereld samenkomen en zichzelf kunnen zijn, of juist helemaal niet. In The Otherworld koopt Marius een eiland van pixels en hij begint een diervriendelijke tijgerfokkerij, waar hij elke vrijdagavond een steeds drukker bezocht online feest geeft. Door nieuwe mensen te ontmoeten en een eigen sociaal leven op te bouwen bereidt hij zich zo goed mogelijk voor op een leven na Philo’s dood. Hoewel ze al jaren samen zijn ontstaan er barstjes in de evenwichtige symbiose tussen Marius en Philo. Marius haalt inspiratie uit de natuur om hem heen. Hij krijgt tips van schapen, mieren en zijn eigen kat Ruud. Ook een zwaan probeert hem te troosten. Toch wordt de kloof tussen Marius en Philo groter, tot er een tijger in zijn huiskamer staat. Een echte, niet een van pixels. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Rinske Bouwman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rijpheid]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss"/>
+        <updated>2026-09-10T11:59:11.564Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505679?aid=kb-online-bibliotheek&sid=23&dts=1789041551028&sig=1f8f5f957e7f0f88ba291415a6e78c61a6680c59917dc0e7b252194ed7612c0a&width=320" alt="Omslag van 'Rijpheid'" title="Omslag van 'Rijpheid'">
+<p>Edith woont in haar eentje aan de Ierse kust, waar haar gedachten afdwalen naar een zomer, lang geleden, die nog steeds een grote impact op haar leven heeft. Ze onderhoudt een intense vriendschap met Meabh en een intens fysieke relatie met haar buurman. In de jaren zestig werd de zeventienjarige Edith naar een villa aan het Comomeer gestuurd om haar zwangere zus Lydia, een balletdanseres, bij te staan. In dat leven tussen de dansers en omgeven door schoonheid wordt er een delicate spanning opgebouwd die leidt tot een indringende scène waarin Lydia bevalt en vervolgens haar baby ter adoptie afstaat. Sarah Moss schrijft in Rijpheid op een bijna hypnotiserende manier over het lichaam: de ruimte die het inneemt, de cyclus van het leven, het begin en het verval ervan. Bovendien weet ze als geen ander gevoelens van erbij willen horen, vriendschap, familie, eenzaamheid en vooral liefde tot leven te wekken. Rijpheid is een roman vol schoonheid, verdriet en diepmenselijke ervaringen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sarah Moss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Babylonië]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/446627305/babyloni%C3%AB-costanza-casati</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/446627305/babyloni%C3%AB-costanza-casati"/>
+        <updated>2026-09-10T11:59:15.670Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627305?aid=kb-online-bibliotheek&sid=23&dts=1789041555111&sig=223dc7051389ab74342ff5c7fc182a3534fe2fd3d8625f1326112d0df3d2af59&width=320" alt="Omslag van 'Babylonië'" title="Omslag van 'Babylonië'">
+<p>Er wordt over haar roem gefluisterd in de Mesopotamische mythologie: Semiramis was een koningin, een ambitieuze strijder, een bevelhebber met een reputatie die de majestueuze proportie van Alexander de Grote evenaart. Maar in geschiedenisboeken over de oude beschavingen blijft het merkwaardig stil. Geboren als dochter van een vrouw die door Aphrodite werd geminacht en opgevoed als wees aan de rand van Babylonië, was het nooit de bedoeling dat Semiramis macht zou krijgen. Maar dat betekent niet dat ze er niet voor gemaakt is… Aan het hof van de nieuwe, jonge Assyrische koning raakt Semiramis verstrikt in de politieke intriges wanneer zij een liefdesverhouding begint met de beste vriend van de koning. Ze traint zichzelf in zowel oorlogsstrategie als diplomatie. En met elke stap stijgt ze in rang, verwikkeld in een spel van macht, verlangen, familie en verraad, tot ze kan stijgen naar de enige positie die haar veilig zal houden: koningin. Voor Babylonië baseerde Costanza Casati zich op de mythen en beschrijft ze het leven van Semiramis, de enige vrouwelijke heerser van het Assyrische Rijk, en de beroemde driehoeksverhouding die haar koningin maakte. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Costanza Casati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O, Caledonia]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker"/>
+        <updated>2026-09-10T11:59:12.643Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505652?aid=kb-online-bibliotheek&sid=23&dts=1789039386761&sig=bd4e55b7cd23b58e59a76b1b68edb1686a74d70126823fd755077abe26220d43&width=320" alt="Omslag van 'O, Caledonia'" title="Omslag van 'O, Caledonia'">
+<p>Onder aan de trap van het kasteel, gekleed in haar moeders zwart kanten avondjurk, ligt Janet, in de verwrongen houding die duidt op moord... O, Caledonia is een verbluffende roman, waarin de kettingreactie van gebeurtenissen wordt beschreven die leidt tot de bizarre dood van een zestienjarig meisje, gesitueerd in Schotland in de jaren veertig en vijftig. Opgroeiend in een geïsoleerde en eenzame wereld wendt Barkers verdoemde jonge heldin zich tot de literatuur, de natuur en tot haar tante Lila, die haar korte momenten van troost bieden in een verder grimmig bestaan. Mensen, vogels en andere dieren bevolken een verhaal dat zowel sfeervol als geestig en vlijmscherp is. Het familiemotto - moriens sed invictus (stervend maar onoverwonnen) - is een toepasselijk grafschrift voor de wilde en dappere Janet, wier vurige vastberadenheid om trouw te blijven aan zichzelf haar tot een van de onvergetelijkste heldinnen van de hedendaagse literatuur maakt. Op meesterlijke wijze roept Elspeth Barker het barre klimaat van Schotland voor de geest in deze gothic roman, die wel wordt vergeleken met het werk van de Brontës, Edgar Allen Poe en We hebben altijd in het kasteel gewoond van Shirley Jackson. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elspeth Barker</name>
         </author>
     </entry>
     <entry>
@@ -254,25 +286,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Babylonië]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446627305/babyloni%C3%AB-costanza-casati</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446627305/babyloni%C3%AB-costanza-casati"/>
-        <updated>2026-09-10T11:59:15.670Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627305?aid=kb-online-bibliotheek&sid=23&dts=1789041555111&sig=223dc7051389ab74342ff5c7fc182a3534fe2fd3d8625f1326112d0df3d2af59&width=320" alt="Omslag van 'Babylonië'" title="Omslag van 'Babylonië'">
-<p>Er wordt over haar roem gefluisterd in de Mesopotamische mythologie: Semiramis was een koningin, een ambitieuze strijder, een bevelhebber met een reputatie die de majestueuze proportie van Alexander de Grote evenaart. Maar in geschiedenisboeken over de oude beschavingen blijft het merkwaardig stil. Geboren als dochter van een vrouw die door Aphrodite werd geminacht en opgevoed als wees aan de rand van Babylonië, was het nooit de bedoeling dat Semiramis macht zou krijgen. Maar dat betekent niet dat ze er niet voor gemaakt is… Aan het hof van de nieuwe, jonge Assyrische koning raakt Semiramis verstrikt in de politieke intriges wanneer zij een liefdesverhouding begint met de beste vriend van de koning. Ze traint zichzelf in zowel oorlogsstrategie als diplomatie. En met elke stap stijgt ze in rang, verwikkeld in een spel van macht, verlangen, familie en verraad, tot ze kan stijgen naar de enige positie die haar veilig zal houden: koningin. Voor Babylonië baseerde Costanza Casati zich op de mythen en beschrijft ze het leven van Semiramis, de enige vrouwelijke heerser van het Assyrische Rijk, en de beroemde driehoeksverhouding die haar koningin maakte. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Dat mag je óók al niet meer zeggen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447379429/dat-mag-je-%C3%B3%C3%B3k-al-niet-meer-zeggen-vivien-waszink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447379429/dat-mag-je-%C3%B3%C3%B3k-al-niet-meer-zeggen-vivien-waszink"/>
+        <updated>2026-09-10T11:59:13.199Z</updated>
+        <summary type="html"><![CDATA[Welke woorden kunnen? En welke juist niet?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447379429?aid=kb-online-bibliotheek&sid=23&dts=1789033756498&sig=b2ef6b0c9ce63a6746bbe8ae6d5fafc80e5c3068e522ed7a6acd7fa354a85e37&width=320" alt="Omslag van 'Dat mag je óók al niet meer zeggen'" title="Omslag van 'Dat mag je óók al niet meer zeggen'">
+<p>Allochtoon, negerzoen, slaaf, homofiel - soms zijn er woorden waar we opeens niet zo blij meer mee zijn. Ze wringen en schuren omdat ze beledigend zijn of bepaalde groepen mensen een ongewenst etiket geven. Sommige woorden zijn zó beladen dat ze zelfs niet meer uitgesproken of geschreven worden, zoals het n-woord. Voor zulke woorden zoeken we alternatieven - en daardoor verandert de taal. Tegelijkertijd verandert ook hoe we over onszelf denken en praten. De tijd dat we de mensheid zonder meer verdeelden in mannen en vrouwen is definitief voorbij. Naast hij en zij kunnen we nu ook kiezen voor het genderneutrale die en hen. En ook de tijd dat we mannen belangrijker vonden dan vrouwen ligt achter ons - en ook dat heeft gevolgen voor ons taalgebruik. Noem je een vrouw die de baas is nou directrice of directeur? In Dat mag je óók (al niet meer) zeggen inventariseert taalkundige Vivien Waszink wat er allemaal gebeurt op hetgebied van schurende taal, genderinclusief woordgebruik en het weergeven van diversiteit. Welke gevoeligheden zijn er, en hoe gaan we daarmee om? Kun je de samenleving sturen door de taal te veranderen? Vivien Waszink werkt als taalkundige bij het Instituut voor de Nederlandse Taal, en is auteur van diverse boeken over taal. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Costanza Casati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korstmos]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/446627089/korstmos-rinske-bouwman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/446627089/korstmos-rinske-bouwman"/>
-        <updated>2026-09-10T11:59:16.220Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A446627089?aid=kb-online-bibliotheek&sid=23&dts=1789033828057&sig=93b62535e81ef6120080f59fb612533d390a18e45392831dfefccf50159615b4&width=320" alt="Omslag van 'Korstmos'" title="Omslag van 'Korstmos'">
-<p>Marius is buschauffeur, beginnend vogelaar en mantelzorger van zijn vrouw Philo, die al jaren langer leeft dan verwacht. Als game developer tipt ze hem The Otherworld, een online virtuele wereld, waar mensen van over de hele wereld samenkomen en zichzelf kunnen zijn, of juist helemaal niet. In The Otherworld koopt Marius een eiland van pixels en hij begint een diervriendelijke tijgerfokkerij, waar hij elke vrijdagavond een steeds drukker bezocht online feest geeft. Door nieuwe mensen te ontmoeten en een eigen sociaal leven op te bouwen bereidt hij zich zo goed mogelijk voor op een leven na Philo’s dood. Hoewel ze al jaren samen zijn ontstaan er barstjes in de evenwichtige symbiose tussen Marius en Philo. Marius haalt inspiratie uit de natuur om hem heen. Hij krijgt tips van schapen, mieren en zijn eigen kat Ruud. Ook een zwaan probeert hem te troosten. Toch wordt de kloof tussen Marius en Philo groter, tot er een tijger in zijn huiskamer staat. Een echte, niet een van pixels. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Rinske Bouwman</name>
+            <name>Vivien Waszink</name>
         </author>
     </entry>
     <entry>
@@ -285,28 +307,6 @@
 <p>Het is best gek dat we nooit écht hebben leren werken. Hoe houden we ons staande in deze tijd van voortdurende bereikbaarheid? Hoe bewaren we overzicht, met die uitpuilende mailbox, overvolle agenda en eindeloze takenlijst? En nog veel belangrijker: hoe zorgen we ervoor dat we eindelijk toekomen aan de plannen die we wel hebben maar niet uitvoeren? Sommige mensen lijken altijd grip op de zaak te hebben. Een van hen is Blendle-man Rick Pastoor. In dit boek deelt hij zijn razendslimme werkmethode GRIP, die hij door de jaren heen ontwikkelde. Zijn no-nonsenseaanpak leert je hoe je rust, ruimte en richting in je werkweek krijgt. En hoe je jezelf kunt uitdagen, ook al heb je het druk. Het resultaat? Je gaat niet alleen efficiënter aan de slag, maar vooral effectiever. En zodra je grip hebt, ontstaat er ruimte voor grotere plannen en levensdromen. GRIP toont hoe je die kunt realiseren. In dit boek geen eindeloze theorieën, maar eenvoudige, concrete stappen. En je begint gewoon vandaag. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Rick Pastoor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rijpheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444505679/rijpheid-sarah-moss"/>
-        <updated>2026-09-10T11:59:11.564Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505679?aid=kb-online-bibliotheek&sid=23&dts=1789041551028&sig=1f8f5f957e7f0f88ba291415a6e78c61a6680c59917dc0e7b252194ed7612c0a&width=320" alt="Omslag van 'Rijpheid'" title="Omslag van 'Rijpheid'">
-<p>Edith woont in haar eentje aan de Ierse kust, waar haar gedachten afdwalen naar een zomer, lang geleden, die nog steeds een grote impact op haar leven heeft. Ze onderhoudt een intense vriendschap met Meabh en een intens fysieke relatie met haar buurman. In de jaren zestig werd de zeventienjarige Edith naar een villa aan het Comomeer gestuurd om haar zwangere zus Lydia, een balletdanseres, bij te staan. In dat leven tussen de dansers en omgeven door schoonheid wordt er een delicate spanning opgebouwd die leidt tot een indringende scène waarin Lydia bevalt en vervolgens haar baby ter adoptie afstaat. Sarah Moss schrijft in Rijpheid op een bijna hypnotiserende manier over het lichaam: de ruimte die het inneemt, de cyclus van het leven, het begin en het verval ervan. Bovendien weet ze als geen ander gevoelens van erbij willen horen, vriendschap, familie, eenzaamheid en vooral liefde tot leven te wekken. Rijpheid is een roman vol schoonheid, verdriet en diepmenselijke ervaringen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sarah Moss</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O, Caledonia]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444505652/o--caledonia-elspeth-barker"/>
-        <updated>2026-09-10T11:59:12.643Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444505652?aid=kb-online-bibliotheek&sid=23&dts=1789039386761&sig=bd4e55b7cd23b58e59a76b1b68edb1686a74d70126823fd755077abe26220d43&width=320" alt="Omslag van 'O, Caledonia'" title="Omslag van 'O, Caledonia'">
-<p>Onder aan de trap van het kasteel, gekleed in haar moeders zwart kanten avondjurk, ligt Janet, in de verwrongen houding die duidt op moord... O, Caledonia is een verbluffende roman, waarin de kettingreactie van gebeurtenissen wordt beschreven die leidt tot de bizarre dood van een zestienjarig meisje, gesitueerd in Schotland in de jaren veertig en vijftig. Opgroeiend in een geïsoleerde en eenzame wereld wendt Barkers verdoemde jonge heldin zich tot de literatuur, de natuur en tot haar tante Lila, die haar korte momenten van troost bieden in een verder grimmig bestaan. Mensen, vogels en andere dieren bevolken een verhaal dat zowel sfeervol als geestig en vlijmscherp is. Het familiemotto - moriens sed invictus (stervend maar onoverwonnen) - is een toepasselijk grafschrift voor de wilde en dappere Janet, wier vurige vastberadenheid om trouw te blijven aan zichzelf haar tot een van de onvergetelijkste heldinnen van de hedendaagse literatuur maakt. Op meesterlijke wijze roept Elspeth Barker het barre klimaat van Schotland voor de geest in deze gothic roman, die wel wordt vergeleken met het werk van de Brontës, Edgar Allen Poe en We hebben altijd in het kasteel gewoond van Shirley Jackson. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elspeth Barker</name>
         </author>
     </entry>
     <entry>
