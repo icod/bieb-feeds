@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-09-24T12:27:17.681Z</updated>
+    <updated>2026-09-25T12:28:44.433Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -20,14 +20,14 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Psalmen met akkoorden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/394892895/psalmen-met-akkoorden-arend-n-c--van-der-kruk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/394892895/psalmen-met-akkoorden-arend-n-c--van-der-kruk"/>
-        <updated>2026-09-24T12:27:11.449Z</updated>
+        <id>https://www.onlinebibliotheek.nl/catalogus/394892895/psalmen-met-akkoorden-arend-van-der-kruk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/394892895/psalmen-met-akkoorden-arend-van-der-kruk"/>
+        <updated>2026-09-25T12:28:39.476Z</updated>
         <summary type="html"><![CDATA[voor keyboard, piano, orgel en gitaar]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394892895?aid=kb-online-bibliotheek&sid=23&dts=1790234138396&sig=a8566f5dc88682d20f7a27a3ffcd4a0c6f9986e1ea2eb5db768f62725dfa4b40&width=320" alt="Omslag van 'Psalmen met akkoorden'" title="Omslag van 'Psalmen met akkoorden'">
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A394892895?aid=kb-online-bibliotheek&sid=23&dts=1790339273871&sig=04898100fbe4195e2caaee97363219dff07acdec3cf5b026924a5cae4e658e15&width=320" alt="Omslag van 'Psalmen met akkoorden'" title="Omslag van 'Psalmen met akkoorden'">
 <p>Dit is een PDF. De Geneefse melodieën van de berijmde psalmen zijn al eeuwen oud en overleven alle tijden. In de dynamische wereld van nu is er echter niet alleen vraag naar muzieknotatie voor orgel. Dit muziekboek voorziet in de behoefte van deze tijd en levert ook muzieknotatie voor andere toets- en snaarinstrumenten. Het bevat een combinatie van eenstemmige melodieën met akkoorden waarmee musici op een snelle, effectieve manier de psalmen kunnen leren begeleiden. De bundel is zowel ritmisch als niet-ritmisch te gebruiken en geeft handige tips voor het gebruik van verschillende instrumenten. Dit ebook is goed bruikbaar op een tablet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Arend N.C. van der Kruk</name>
+            <name>Arend van der Kruk</name>
         </author>
     </entry>
     <entry>
@@ -52,6 +52,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gedichten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/409000744/gedichten-fran%C3%A7ois-villon</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/409000744/gedichten-fran%C3%A7ois-villon"/>
+        <updated>2026-09-24T12:27:12.323Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A409000744?aid=kb-online-bibliotheek&sid=23&dts=1790240274515&sig=2695755992030053cb9b686fbc32cd44d7fc4fe400d5efacde292a88043afa2e&width=320" alt="Omslag van 'Gedichten'" title="Omslag van 'Gedichten'">
+<p>Tweetalige weergave van gedichten, apocrieve gedichten en balladen uit de vijftiende eeuw van Francois Villon (1431-ca. 1463).</p>]]></content>
+        <author>
+            <name>François Villon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Werkboek Hooggevoeligheid & Mindfulness]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/412012251/werkboek-hooggevoeligheid---mindfulness-carolina-bont</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/412012251/werkboek-hooggevoeligheid---mindfulness-carolina-bont"/>
@@ -64,17 +75,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gedichten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/409000744/gedichten-fran%C3%A7ois-villon</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/409000744/gedichten-fran%C3%A7ois-villon"/>
-        <updated>2026-09-24T12:27:12.323Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A409000744?aid=kb-online-bibliotheek&sid=23&dts=1790240274515&sig=2695755992030053cb9b686fbc32cd44d7fc4fe400d5efacde292a88043afa2e&width=320" alt="Omslag van 'Gedichten'" title="Omslag van 'Gedichten'">
-<p>Tweetalige weergave van gedichten, apocrieve gedichten en balladen uit de vijftiende eeuw van Francois Villon (1431-ca. 1463).</p>]]></content>
-        <author>
-            <name>François Villon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vrouwenvoetbal in Nederland]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/416820883/vrouwenvoetbal-in-nederland--</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/416820883/vrouwenvoetbal-in-nederland--"/>
@@ -82,6 +82,17 @@
         <summary type="html"><![CDATA[spiegel en katalysator van maatschappelijke verandering]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A416820883?aid=kb-online-bibliotheek&sid=23&dts=1790240141682&sig=3f0c48b0a940dfc3128e35f12282b4d67ac950bd885a62d67e4bb865df19603d&width=320" alt="Omslag van 'Vrouwenvoetbal in Nederland'" title="Omslag van 'Vrouwenvoetbal in Nederland'">
 <p>Resultaten van onderzoek naar de geschiedenis, gender, seksualiteit en mediapresentatie van het vrouwenvoetbal in Nederland.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smokey goodness no worries BBQ]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438727835/smokey-goodness-no-worries-bbq-jord-althuizen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438727835/smokey-goodness-no-worries-bbq-jord-althuizen"/>
+        <updated>2026-09-24T12:27:12.914Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438727835?aid=kb-online-bibliotheek&sid=23&dts=1790239513465&sig=22e91d2cce745561c9e8cee6102abfb3c5611a5878e13a57892d49ed72a3710c&width=320" alt="Omslag van 'Smokey goodness no worries BBQ'" title="Omslag van 'Smokey goodness no worries BBQ'">
+<p>Join us Down Under met ‘Smokey Goodness No Worries BBQ’ van Jord Althuizen! Want in geen land zijn ze gekker op barbecueën dan in Australië. En met No Worries bedoelen we ook echt zorgeloos grillen. Ga mee op avontuur en ontdek in dit barbecueboek nieuwe favourites als Wood Fired Beef Ribs, Surf & Turf Burgers, maar ook all time favourites. En krijg antwoord op al je BBQ-vragen, want waar dient die roo-bar nu eigenlijk echt voor?</p><p>"Jord Althuizen is the boss als het om koken op open vuur gaat"– Telegraaf</p><p>"Elk boek van Smokey Goodness is een spannend jongensboek voor jongens die van spelen met vuur houden" – Dennis 'noskos' van Koutrik, BBQ-NL.com ‘No Worries BBQ’ is het vijfde deel in de Smokey Goodness BBQ-bestsellerserie van pyro-culinair avonturier Jord Althuizen. Dit is hét cadeau voor Vaderdag, een verjaardag, Sinterklaas, Kerstmis of gewoon zomaar. Of je nou BBQ’t op je kamado, Big Green Egg, Bastard of Weber, dit kookboek mag bij echte BBQ fanatic niet ontbreken in de boekenkast. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jord Althuizen</name>
+        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Veilig zwanger]]></title>
@@ -96,14 +107,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smokey goodness no worries BBQ]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438727835/smokey-goodness-no-worries-bbq-jord-althuizen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438727835/smokey-goodness-no-worries-bbq-jord-althuizen"/>
-        <updated>2026-09-24T12:27:12.914Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438727835?aid=kb-online-bibliotheek&sid=23&dts=1790239513465&sig=22e91d2cce745561c9e8cee6102abfb3c5611a5878e13a57892d49ed72a3710c&width=320" alt="Omslag van 'Smokey goodness no worries BBQ'" title="Omslag van 'Smokey goodness no worries BBQ'">
-<p>Join us Down Under met ‘Smokey Goodness No Worries BBQ’ van Jord Althuizen! Want in geen land zijn ze gekker op barbecueën dan in Australië. En met No Worries bedoelen we ook echt zorgeloos grillen. Ga mee op avontuur en ontdek in dit barbecueboek nieuwe favourites als Wood Fired Beef Ribs, Surf & Turf Burgers, maar ook all time favourites. En krijg antwoord op al je BBQ-vragen, want waar dient die roo-bar nu eigenlijk echt voor?</p><p>"Jord Althuizen is the boss als het om koken op open vuur gaat"– Telegraaf</p><p>"Elk boek van Smokey Goodness is een spannend jongensboek voor jongens die van spelen met vuur houden" – Dennis 'noskos' van Koutrik, BBQ-NL.com ‘No Worries BBQ’ is het vijfde deel in de Smokey Goodness BBQ-bestsellerserie van pyro-culinair avonturier Jord Althuizen. Dit is hét cadeau voor Vaderdag, een verjaardag, Sinterklaas, Kerstmis of gewoon zomaar. Of je nou BBQ’t op je kamado, Big Green Egg, Bastard of Weber, dit kookboek mag bij echte BBQ fanatic niet ontbreken in de boekenkast. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Nieuwe toelichting op de kerkorde van de Protestantse Kerk in Nederland]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/424309289/nieuwe-toelichting-op-de-kerkorde-van-de-protestantse-kerk-in-nederland-tobias-bos---leo-j--koffeman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/424309289/nieuwe-toelichting-op-de-kerkorde-van-de-protestantse-kerk-in-nederland-tobias-bos---leo-j--koffeman"/>
+        <updated>2026-09-25T12:28:39.843Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424309289?aid=kb-online-bibliotheek&sid=23&dts=1790339319604&sig=1bfedcde21326eb2d590ceb4ff90134cbbc24b8d8c2aa41b5172c34323ed7a2f&width=320" alt="Omslag van 'Nieuwe toelichting op de kerkorde van de Protestantse Kerk in Nederland'" title="Omslag van 'Nieuwe toelichting op de kerkorde van de Protestantse Kerk in Nederland'">
+<p>In 2018 zijn de kerkorde van de Protestantse Kerk in Nederland en bijbehorende regelingen volledig herzien. Deze derde kerkorde wordt net als eerder in 2004 en in 2013 aangevuld met een 'Toelichting op de kerkorde van de Protestantse Kerk in Nederland'. Deze nieuwe 'Toelichting op de kerkorde' staat onder redactie van Leo Koffeman en Tobias Bos. Beiden verleenden ook hun medewerking aan de eerdere twee edities. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jord Althuizen</name>
+            <name>Tobias Bos</name>
+        </author>
+        <author>
+            <name>Leo J. Koffeman</name>
         </author>
     </entry>
     <entry>
@@ -119,35 +133,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nieuwe toelichting op de kerkorde van de Protestantse Kerk in Nederland]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/424309289/nieuwe-toelichting-op-de-kerkorde-van-de-protestantse-kerk-in-nederland--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/424309289/nieuwe-toelichting-op-de-kerkorde-van-de-protestantse-kerk-in-nederland--"/>
-        <updated>2026-09-24T12:27:13.316Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424309289?aid=kb-online-bibliotheek&sid=23&dts=1790239839013&sig=3fbafc0adf685972085ccaa6cfdf38d8e32ca644cd6d81c526cdab84c60bcbc7&width=320" alt="Omslag van 'Nieuwe toelichting op de kerkorde van de Protestantse Kerk in Nederland'" title="Omslag van 'Nieuwe toelichting op de kerkorde van de Protestantse Kerk in Nederland'">
-<p>In 2018 zijn de kerkorde van de Protestantse Kerk in Nederland en bijbehorende regelingen volledig herzien. Deze derde kerkorde wordt net als eerder in 2004 en in 2013 aangevuld met een 'Toelichting op de kerkorde van de Protestantse Kerk in Nederland'. Deze nieuwe 'Toelichting op de kerkorde' staat onder redactie van Leo Koffeman en Tobias Bos. Beiden verleenden ook hun medewerking aan de eerdere twee edities. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smokey goodness 3]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438728041/smokey-goodness-3-jord-althuizen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438728041/smokey-goodness-3-jord-althuizen"/>
-        <updated>2026-09-24T12:27:13.677Z</updated>
-        <summary type="html"><![CDATA[het bigger, better BBQ boek]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438728041?aid=kb-online-bibliotheek&sid=23&dts=1790252833454&sig=b865876270d1953be08e70ed9bf0eee3ffd085f1b1c6f59490219e699aac26d3&width=320" alt="Omslag van 'Smokey goodness 3'" title="Omslag van 'Smokey goodness 3'">
+        <title type="html"><![CDATA[Smokey Goodness]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438728041/smokey-goodness-jord-althuizen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438728041/smokey-goodness-jord-althuizen"/>
+        <updated>2026-09-25T12:28:40.184Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438728041?aid=kb-online-bibliotheek&sid=23&dts=1790339319955&sig=4e0853b19dacb0f458d66216520b4f76729bad7f3c2b07c789f33a26e6dea336&width=320" alt="Omslag van 'Smokey Goodness'" title="Omslag van 'Smokey Goodness'">
 <p>Smokey Goodness 3: het nieuwste barbecueboek van Jord Althuizen voor alle BBQ-fanaten Smokey Goodness 3: het Bigger, Better BBQ-boek is het nieuwste kookboek van barbecue-held Jord Althuizen. Dit is het echte barbecuewerk: stoer, slow en avontuurlijk. Met nieuwe flavours voor jouw favoriete Big Five op de barbecue: beef, pork, chicken, fish en… desserts. Ontdek dit keer de Zuid-Afrikaanse braai. Voor alle achtertuin avonturiers. Burning hot! Jord Althuizen is de man achter Smokey Goodness, het BBQ-bedrijf dat Nederland verovert. Zijn boeken Smokey Goodness en Smokey Goodness 2 zijn absolute bestellers en winnaar van Kookboek van het Jaar 2016 én Kookboek van het Jaar 2017. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Jord Althuizen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preloved]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434799920/preloved-maartje-van-den-broek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434799920/preloved-maartje-van-den-broek"/>
-        <updated>2026-09-24T12:27:13.873Z</updated>
-        <summary type="html"><![CDATA[vintage hunten als een pro]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434799920?aid=kb-online-bibliotheek&sid=23&dts=1790239514701&sig=a78052cde303de6a953d42c7ac266e9c6844794d98e683119f2015b80f7d3cf7&width=320" alt="Omslag van 'Preloved'" title="Omslag van 'Preloved'">
-<p>Met 'Preloved' bewijzen topstylistes Maartje van den Broek en Maartje Bodt het eens en voor altijd: tweedehands kleding shoppen is niet alleen hot, het is de toekomst van de mode. Vintage hunten is ontzettend leuk en verslavend, maar het laat je ook vertragen en nadenken over jóuw stijl in plaats van constant de trends te (moeten) volgen. Het is een ware kunst om de echte pareltjes te spotten, zeker in het groeiende online aanbod van designerkleding, -tassen, -schoenen en -accessoires. Maartje en Maartje onthullen in dit boek al hun geheimen: koop en verkoop, curate your closet, scout dé topstukken en stel je ultieme capsule wardrobe samen. Dit prachtig geïllustreerde boek met inspirerende fotografie stop je zo in je preloved handtas. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Maartje van den Broek</name>
         </author>
     </entry>
     <entry>
@@ -162,50 +155,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smokey Goodness]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438991583/smokey-goodness-jord-althuizen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438991583/smokey-goodness-jord-althuizen"/>
-        <updated>2026-09-24T12:27:14.437Z</updated>
-        <summary type="html"><![CDATA[burgers & BBQ bites]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438991583?aid=kb-online-bibliotheek&sid=23&dts=1790252834197&sig=5a435cab79ea50a6308c360ed816c406a757281e28d534b741d71d5b0e2fe995&width=320" alt="Omslag van 'Smokey Goodness'" title="Omslag van 'Smokey Goodness'">
+        <title type="html"><![CDATA[Smokey Goodness - Burgers & BBQ Bites]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438991583/smokey-goodness---burgers---bbq-bites-jord-althuizen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438991583/smokey-goodness---burgers---bbq-bites-jord-althuizen"/>
+        <updated>2026-09-25T12:28:40.494Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438991583?aid=kb-online-bibliotheek&sid=23&dts=1790339320297&sig=ec853b1c9fd2760099f6252798d51f361b0fe3d6dd0c6d8f1cfec6d8e7c7cf00&width=320" alt="Omslag van 'Smokey Goodness - Burgers & BBQ Bites'" title="Omslag van 'Smokey Goodness - Burgers & BBQ Bites'">
 <p>Back to the USA we go! In Smokey Goodness – Burgers & BBQ Bites neemt pyro-culinair avonturier Jord Althuizen je mee naar de States. Want soms heb je simpelweg geen tijd voor het echte BBQ werk, en wil je something hot & fast. En waar kunnen ze dat nu beter dan in de USA?</p><p>In dit BBQ-avontuur neemt Jord je mee van de deli’s van New York tot aan de foodtrucks in Portland: op zoek naar a full serving of Smokey Goodness flavour maar voor half the time. Denk big-bigger-biggest BBQ sandwiches, de allerhotste BBQ taco’s of spicy BBQ snacks-on- a-stick. We want it all, and we want it now! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Jord Althuizen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOK]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439478634/gok-yvonne-lemmers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439478634/gok-yvonne-lemmers"/>
-        <updated>2026-09-24T12:27:14.675Z</updated>
-        <summary type="html"><![CDATA[grip op koolhydraten; snel & simpel, in 30 min op tafel]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439478634?aid=kb-online-bibliotheek&sid=23&dts=1790237981347&sig=692006646caf39ec1af45e92d608a144b2dd353bb25c2d326f731f767a3eb4d7&width=320" alt="Omslag van 'GOK'" title="Omslag van 'GOK'">
-<p>Grip op koolhydraten (GOK) van Yvonne Lemmers is al meer dan tien jaar een van de meest succesvolle, bewezen manieren om af te vallen én om op gewicht te blijven. Yvonne’s methode is gebaseerd op een koolhydraatbeperkte levensstijl waarin genieten voorop staat. Het populaire koolhydraatuurtje is daarbij een van de pijlers van GOK, waaronder iedereen die wil afvallen en meer energie wil, zijn leven blijvend kan veranderen.</p><p>In Grip op koolhydraten – snel & simpel, in 30 minuten op tafel’ staan:  90 nieuwe koolhydraatbeperkte recepten 28 handige weekmenu’s Vlees-, vis-, en vegetarische gerechten Voorbeelden van koolhydratenuurtjes</p><p>Snel & simpel is geschikt voor mensen die GOK al kennen en toepassen, maar ook voor mensen die voor het eerst kennismaken met de GOK-methode . Dit boek is tevens geschikt voor vegetariërs, pescotariërs en flexitariërs.</p><p>Yvonne Lemmers is diëtist en bedenker van de Grip op koolhydraten methode. Zij heeft meerdere bestsellers op haar naam staan waaronder: GOK - Snelle en makkelijke weekmenu’s, GOK – Dagmenu’s, richtlijnen en recepten en Slank en Energiek met Grip op koolhydraten. Zij hielp daarmee al ruim 300.000 mensen met afvallen en energieker leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Yvonne Lemmers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De kleine kikker]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43101292X/de-kleine-kikker-eline-snel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43101292X/de-kleine-kikker-eline-snel"/>
-        <updated>2026-09-24T12:27:14.892Z</updated>
-        <summary type="html"><![CDATA[mindfulness voor ouders en hun jonge kinderen, 1,5-4 jaar]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43101292X?aid=kb-online-bibliotheek&sid=23&dts=1790236365692&sig=ee20c1fe7555e5cc08f3c57e32da54dcd6b0bf7982291023a07bc6af0ac2b36d&width=320" alt="Omslag van 'De kleine kikker'" title="Omslag van 'De kleine kikker'">
-<p>Iedere ouder vraagt zich weleens af of hij of zij het goed doet. Mindfulness kan helpen om het vertrouwen in jezelf te herstellen, waardoor ook het kind zich beter voelt. Dit boek is voor ouders én hun allerjongste kinderen (1,5 – 4 jaar). Het biedt meditaties en activiteiten om samen te doen, zoals korte verhalen lezen. Het kind wordt gestimuleerd zijn innerlijke wereld te ontdekken en zich open te stellen voor anderen, de ouder is minder gestrest en kan het beste van zichzelf geven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Eline Snel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Van dit boek krijg je nog meer zin in het leven]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/432596852/van-dit-boek-krijg-je-nog-meer-zin-in-het-leven-catelijne-elzes</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/432596852/van-dit-boek-krijg-je-nog-meer-zin-in-het-leven-catelijne-elzes"/>
-        <updated>2026-09-24T12:27:15.105Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432596852?aid=kb-online-bibliotheek&sid=23&dts=1790236657307&sig=2ed19b5674b1c8954d640cb38d42512b0075ee91135d7f35786202fab406258a&width=320" alt="Omslag van 'Van dit boek krijg je nog meer zin in het leven'" title="Omslag van 'Van dit boek krijg je nog meer zin in het leven'">
-<p>In 'Van dit boek krijg je nog meer zin in het leven' geeft journalist Catelijne Elzes lichte tips voor een betekenisvol leven. Zingeving is een van de belangrijkste pijlers voor een lang en gelukkig leven, meer nog dan gezond eten en voldoende beweging. Er wordt vaak ingewikkeld over gedaan, maar het is eenvoudig: weet waar je hart sneller van gaat kloppen. Zoals bijvoorbeeld je buurt groener maken of koffiedrinken met een eenzame oudere. Alles kan en elke stap telt. Dit boek staat vol oefeningen, tips van deskundigen en vrolijke illustraties. Zo wordt zingeving vinden simpel en krijg je (nog meer) zin in het leven! Journalist Catelijne Elzes is schrijfdocent aan de Hogeschool van Amsterdam, schrijft samen met huisarts Tamara de Weijer de Eet beter-boeken én coacht andere schrijvers. Ook werkt ze voor Flow, Happinez, Libelle (Gezond) en PlusMagazine. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Catelijne Elzes</name>
         </author>
     </entry>
     <entry>
@@ -221,15 +178,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Niet vergeten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43439565X/niet-vergeten-eveline-helmink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43439565X/niet-vergeten-eveline-helmink"/>
-        <updated>2026-09-24T12:27:15.524Z</updated>
-        <summary type="html"><![CDATA[als iemand die je lief is dementie heeft troostende inzichten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43439565X?aid=kb-online-bibliotheek&sid=23&dts=1790234457038&sig=e2ee2609c4ced0433940e7c8de9922f1223c5ca2886f730abd78a1329814aa4e&width=320" alt="Omslag van 'Niet vergeten'" title="Omslag van 'Niet vergeten'">
-<p>Eveline Helmink biedt in 'Niet vergeten' troost en inzicht voor iedereen die een naaste heeft met dementie. Want ook op de omgeving heeft deze ziekte veel impact. Waar vind je troost als iemand in je omgeving dementie heeft? Zijn er inzichten in de schaduw? Wat doet dementie met de manier waarop je leeft en liefhebt? Eveline Helmink gaat persoonlijk en openhartig in op de impact van dementie. Een troostend boek vol betekenis. Eveline Helmink (1980) is journalist en bladenmaker. Ze werkt als hoofdredacteur bij Happinez, dat inzichten en inspiratie deelt voor persoonlijke groei en een betekenisvol leven. Eerder schreef zij Handboek voor mindere dagen. De moeder van Eveline heeft dementie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Van dit boek krijg je nog meer zin in het leven]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/432596852/van-dit-boek-krijg-je-nog-meer-zin-in-het-leven-catelijne-elzes</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/432596852/van-dit-boek-krijg-je-nog-meer-zin-in-het-leven-catelijne-elzes"/>
+        <updated>2026-09-24T12:27:15.105Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A432596852?aid=kb-online-bibliotheek&sid=23&dts=1790236657307&sig=2ed19b5674b1c8954d640cb38d42512b0075ee91135d7f35786202fab406258a&width=320" alt="Omslag van 'Van dit boek krijg je nog meer zin in het leven'" title="Omslag van 'Van dit boek krijg je nog meer zin in het leven'">
+<p>In 'Van dit boek krijg je nog meer zin in het leven' geeft journalist Catelijne Elzes lichte tips voor een betekenisvol leven. Zingeving is een van de belangrijkste pijlers voor een lang en gelukkig leven, meer nog dan gezond eten en voldoende beweging. Er wordt vaak ingewikkeld over gedaan, maar het is eenvoudig: weet waar je hart sneller van gaat kloppen. Zoals bijvoorbeeld je buurt groener maken of koffiedrinken met een eenzame oudere. Alles kan en elke stap telt. Dit boek staat vol oefeningen, tips van deskundigen en vrolijke illustraties. Zo wordt zingeving vinden simpel en krijg je (nog meer) zin in het leven! Journalist Catelijne Elzes is schrijfdocent aan de Hogeschool van Amsterdam, schrijft samen met huisarts Tamara de Weijer de Eet beter-boeken én coacht andere schrijvers. Ook werkt ze voor Flow, Happinez, Libelle (Gezond) en PlusMagazine. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Eveline Helmink</name>
+            <name>Catelijne Elzes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De kleine kikker]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43101292X/de-kleine-kikker-eline-snel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43101292X/de-kleine-kikker-eline-snel"/>
+        <updated>2026-09-24T12:27:14.892Z</updated>
+        <summary type="html"><![CDATA[mindfulness voor ouders en hun jonge kinderen, 1,5-4 jaar]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43101292X?aid=kb-online-bibliotheek&sid=23&dts=1790236365692&sig=ee20c1fe7555e5cc08f3c57e32da54dcd6b0bf7982291023a07bc6af0ac2b36d&width=320" alt="Omslag van 'De kleine kikker'" title="Omslag van 'De kleine kikker'">
+<p>Iedere ouder vraagt zich weleens af of hij of zij het goed doet. Mindfulness kan helpen om het vertrouwen in jezelf te herstellen, waardoor ook het kind zich beter voelt. Dit boek is voor ouders én hun allerjongste kinderen (1,5 – 4 jaar). Het biedt meditaties en activiteiten om samen te doen, zoals korte verhalen lezen. Het kind wordt gestimuleerd zijn innerlijke wereld te ontdekken en zich open te stellen voor anderen, de ouder is minder gestrest en kan het beste van zichzelf geven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Eline Snel</name>
         </author>
     </entry>
     <entry>
@@ -245,114 +213,157 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eerste hulp bij kinderwens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/43604319X/eerste-hulp-bij-kinderwens-paul-de-bont</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/43604319X/eerste-hulp-bij-kinderwens-paul-de-bont"/>
-        <updated>2026-09-24T12:27:15.911Z</updated>
-        <summary type="html"><![CDATA[complete gids om zwanger te worden door seks, hormonen, IVF, donors, draagmoeders en nog veel meer]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43604319X?aid=kb-online-bibliotheek&sid=23&dts=1790242948258&sig=659ba427a83e30c8128aa89d69b150a01ccc57a596ce839f236558c3a4e4eefc&width=320" alt="Omslag van 'Eerste hulp bij kinderwens'" title="Omslag van 'Eerste hulp bij kinderwens'">
-<p>'Eerste hulp bij kinderwens' van Paul de Bont is het eerste boek in Nederland over kinderwens in de breedste zin van het woord. De Bont bespreekt alle mogelijkheden en valkuilen die je tegen kunt komen op je weg naar een voor jou compleet gezin; of je nu vrouw, man, homo, hetero, single of samen bent.</p><p>De basics, het medische circuit met huisartsen, gynaecologen en IVF-klinieken, maar ook donors, draagmoeders, alternatieve ouderschappen, het ouderschapsplan en juridisch advies. Zeer informatief, prikkelend en met humor, en vooral altijd respectvol. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Grip op koolhydraten - snel & simpel, in 30 minuten op tafel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439478634/grip-op-koolhydraten---snel---simpel--in-30-minuten-op-tafel-yvonne-lemmers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439478634/grip-op-koolhydraten---snel---simpel--in-30-minuten-op-tafel-yvonne-lemmers"/>
+        <updated>2026-09-25T12:28:40.843Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439478634?aid=kb-online-bibliotheek&sid=23&dts=1790339320618&sig=079df72b30bf2c9eee5819dcd3381430a033e575f982dd130460888a8b7a3ee5&width=320" alt="Omslag van 'Grip op koolhydraten - snel & simpel, in 30 minuten op tafel'" title="Omslag van 'Grip op koolhydraten - snel & simpel, in 30 minuten op tafel'">
+<p>Grip op koolhydraten (GOK) van Yvonne Lemmers is al meer dan tien jaar een van de meest succesvolle, bewezen manieren om af te vallen én om op gewicht te blijven. Yvonne’s methode is gebaseerd op een koolhydraatbeperkte levensstijl waarin genieten voorop staat. Het populaire koolhydraatuurtje is daarbij een van de pijlers van GOK, waaronder iedereen die wil afvallen en meer energie wil, zijn leven blijvend kan veranderen.</p><p>In Grip op koolhydraten – snel & simpel, in 30 minuten op tafel’ staan:  90 nieuwe koolhydraatbeperkte recepten 28 handige weekmenu’s Vlees-, vis-, en vegetarische gerechten Voorbeelden van koolhydratenuurtjes</p><p>Snel & simpel is geschikt voor mensen die GOK al kennen en toepassen, maar ook voor mensen die voor het eerst kennismaken met de GOK-methode . Dit boek is tevens geschikt voor vegetariërs, pescotariërs en flexitariërs.</p><p>Yvonne Lemmers is diëtist en bedenker van de Grip op koolhydraten methode. Zij heeft meerdere bestsellers op haar naam staan waaronder: GOK - Snelle en makkelijke weekmenu’s, GOK – Dagmenu’s, richtlijnen en recepten en Slank en Energiek met Grip op koolhydraten. Zij hielp daarmee al ruim 300.000 mensen met afvallen en energieker leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Paul de Bont</name>
+            <name>Yvonne Lemmers</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Op de spoedeisende hulp]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437254178/op-de-spoedeisende-hulp-heleen-lameijer---marloes-berghege</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437254178/op-de-spoedeisende-hulp-heleen-lameijer---marloes-berghege"/>
-        <updated>2026-09-24T12:27:16.140Z</updated>
-        <summary type="html"><![CDATA[mijn dynamische leven als SEH-arts]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437254178?aid=kb-online-bibliotheek&sid=23&dts=1790234793328&sig=04198fba35cd72a1f2b65ea0e05e844cf8d3e9e7f1edd165091db980d0db911f&width=320" alt="Omslag van 'Op de spoedeisende hulp'" title="Omslag van 'Op de spoedeisende hulp'">
-<p>Als spoedeisende hulp arts in het Medisch Centrum Leeuwarden ontmoet Heleen Lameijer (@makesciencework op Instagram) mensen op misschien wel de slechtste dag van hun leven. Het ene moment werkt ze onder hoogspanning in teams speciaal voor ongevallen of reanimaties. Het andere moment hecht ze een wond bij een kind. Ze neemt beslissingen die levens kunnen redden, maar ziet ook mensen sterven. In Op de spoedeisende hulp deelt ze belevenissen, ontmoetingen en (levens)lessen uit deze bijzondere praktijk. De bekendste SEH-arts van Nederland geeft in dit boek een unieke kijk achter de schermen en in haar dynamische leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Niet vergeten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/43439565X/niet-vergeten-eveline-helmink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/43439565X/niet-vergeten-eveline-helmink"/>
+        <updated>2026-09-24T12:27:15.524Z</updated>
+        <summary type="html"><![CDATA[als iemand die je lief is dementie heeft troostende inzichten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A43439565X?aid=kb-online-bibliotheek&sid=23&dts=1790234457038&sig=e2ee2609c4ced0433940e7c8de9922f1223c5ca2886f730abd78a1329814aa4e&width=320" alt="Omslag van 'Niet vergeten'" title="Omslag van 'Niet vergeten'">
+<p>Eveline Helmink biedt in 'Niet vergeten' troost en inzicht voor iedereen die een naaste heeft met dementie. Want ook op de omgeving heeft deze ziekte veel impact. Waar vind je troost als iemand in je omgeving dementie heeft? Zijn er inzichten in de schaduw? Wat doet dementie met de manier waarop je leeft en liefhebt? Eveline Helmink gaat persoonlijk en openhartig in op de impact van dementie. Een troostend boek vol betekenis. Eveline Helmink (1980) is journalist en bladenmaker. Ze werkt als hoofdredacteur bij Happinez, dat inzichten en inspiratie deelt voor persoonlijke groei en een betekenisvol leven. Eerder schreef zij Handboek voor mindere dagen. De moeder van Eveline heeft dementie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Heleen Lameijer</name>
-        </author>
-        <author>
-            <name>Marloes Berghege</name>
+            <name>Eveline Helmink</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The female fix]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434913480/the-female-fix-marianne-bruijn</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434913480/the-female-fix-marianne-bruijn"/>
-        <updated>2026-09-24T12:27:16.343Z</updated>
-        <summary type="html"><![CDATA[jouw weg naar financiële vrijheid]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434913480?aid=kb-online-bibliotheek&sid=23&dts=1790234466690&sig=91fd5f6c204b76da9dfb5cbcb71a7e1106e9d66e670ff3884efda0861241d154&width=320" alt="Omslag van 'The female fix'" title="Omslag van 'The female fix'">
-<p>Informatie voor vrouwen over financiële zelfredzaamheid.</p>]]></content>
+        <title type="html"><![CDATA[Preloved]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434799920/preloved-maartje-van-den-broek---maartje-bodt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434799920/preloved-maartje-van-den-broek---maartje-bodt"/>
+        <updated>2026-09-25T12:28:41.206Z</updated>
+        <summary type="html"><![CDATA[Vintage hunten als een pro]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434799920?aid=kb-online-bibliotheek&sid=23&dts=1790339320989&sig=778c8e40c9cc8c3253191b476a54afcd90b5e8312996e7bacad7a393fdfa1453&width=320" alt="Omslag van 'Preloved'" title="Omslag van 'Preloved'">
+<p>Met 'Preloved' bewijzen topstylistes Maartje van den Broek en Maartje Bodt het eens en voor altijd: tweedehands kleding shoppen is niet alleen hot, het is de toekomst van de mode. Vintage hunten is ontzettend leuk en verslavend, maar het laat je ook vertragen en nadenken over jóuw stijl in plaats van constant de trends te (moeten) volgen. Het is een ware kunst om de echte pareltjes te spotten, zeker in het groeiende online aanbod van designerkleding, -tassen, -schoenen en -accessoires. Maartje en Maartje onthullen in dit boek al hun geheimen: koop en verkoop, curate your closet, scout dé topstukken en stel je ultieme capsule wardrobe samen. Dit prachtig geïllustreerde boek met inspirerende fotografie stop je zo in je preloved handtas. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Marianne Bruijn</name>
+            <name>Maartje van den Broek</name>
+        </author>
+        <author>
+            <name>Maartje Bodt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smokey Goodness 2]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435682156/smokey-goodness-2-jord-althuizen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435682156/smokey-goodness-2-jord-althuizen"/>
+        <updated>2026-09-25T12:28:41.555Z</updated>
+        <summary type="html"><![CDATA[Het next level BBQ boek]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435682156?aid=kb-online-bibliotheek&sid=23&dts=1790339321325&sig=1aea4f1329f3f3df9c3d72769d4b54b11166f764a47ceb1a775b5e553645f3d3&width=320" alt="Omslag van 'Smokey Goodness 2'" title="Omslag van 'Smokey Goodness 2'">
+<p>Burning hot, dat is barbecueën Smokey Goodness-style. Het echte werk: stoer, slow en dit keer ook vol fuego. Want Jord Althuizen reist af naar Zuid-Amerika, op zoek naar de BBQ-cultuur van onder andere de Argentijnse pampa’s. Van vurige salsa’s tot complete asado’s, porkbelly pita’s én latino spareribs. Natuurlijk gaan we ook next level! Gril boven open vuur, graaf je eigen fire pit of – voor de echte vuurvreters – bouw je eigen infiernillo. Met 'Smokey Goodness 2' maak je werk van je carnivoresque hobby. 'Smokey Goodness 2' won de Gouden Garde Publieksprijs voor Kookboek van het Jaar. De vakjury schreef: “Knap dat Jord Althuizen ook in zijn tweede boek het hoge niveau van zijn eerste heeft weten vast te houden en nog weet te verrassen ook. 'Smokey Goodness 2' is lekker stoer en ruig, tot aan de cocktails toe!” </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jord Althuizen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chef Toub: Vega Arabisch]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437223701/chef-toub--vega-arabisch-mounir-toub</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437223701/chef-toub--vega-arabisch-mounir-toub"/>
+        <updated>2026-09-25T12:28:41.883Z</updated>
+        <summary type="html"><![CDATA[Midden-Oosterse gerechten voor elke dag van de week]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437223701?aid=kb-online-bibliotheek&sid=23&dts=1790339321667&sig=bef764dc3bcab0c8bd909ab9c665452c061b89a33248581ad7be9b4d88a07bbc&width=320" alt="Omslag van 'Chef Toub: Vega Arabisch'" title="Omslag van 'Chef Toub: Vega Arabisch'">
+<p>Vegetarische recepten uit de Arabische keuken, met groenten in de hoofdrol.</p>]]></content>
+        <author>
+            <name>Mounir Toub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smokey Goodness Brand New BBQ]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/438813049/smokey-goodness-brand-new-bbq-jord-althuizen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/438813049/smokey-goodness-brand-new-bbq-jord-althuizen"/>
+        <updated>2026-09-25T12:28:42.300Z</updated>
+        <summary type="html"><![CDATA[Oude tradities en nieuwe smaken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438813049?aid=kb-online-bibliotheek&sid=23&dts=1790339322069&sig=aa2be93a127e3ed5a076ae16e73de9340496e804728a0440b91cd8767166c1b4&width=320" alt="Omslag van 'Smokey Goodness Brand New BBQ'" title="Omslag van 'Smokey Goodness Brand New BBQ'">
+<p>In ‘Smokey Goodness Brand New BBQ’ neemt Jord Althuizen je mee op avontuur naar dé barbecue bakermat, de USA. Want er valt nog genoeg te ontdekken voor op het vuur, zowel old school traditional als new flavors en technieken.</p><p>Door de Mexicaanse, Aziatische en Europese invloeden blijft de BBQ-scene zich daar ontwikkelen. In dit boek vind je nieuwe technieken, talloze tips en nog meer nieuwe recepten. Van briskets, klassieke en new school spare-ribs en Carolina Style pulled pork, tot burgers en Tex-Mex BBQ. Waar zet jij je tanden in?</p><p>"Klassieke Amerikaanse gerechten brengen oude tradities en nieuwe smaken samen. Bevrijd je innerlijke pyromaan en ga helemaal los met deze heerlijke recepten!" – Telegraaf</p><p>"Smokey Goodness zet mening achtertuin in vuur en vlam"– Foodies ‘Brand New BBQ’ is het negende deel in de Smokey Goodness BBQ-bestsellerserie van pyro-culinair avonturier Jord Althuizen. Dit is hét cadeau voor Vaderdag, een verjaardag, Sinterklaas, Kerstmis of gewoon zomaar. Of je nou BBQ’t op je kamado, Big Green Egg, Bastard of Weber, dit kookboek mag niet ontbreken in de collectie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jord Althuizen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burgers van Nederland]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435078364/burgers-van-nederland-mirjam-van-der-rijst---anoek-lorj%C3%A9---mel-van-vorstenbos</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435078364/burgers-van-nederland-mirjam-van-der-rijst---anoek-lorj%C3%A9---mel-van-vorstenbos"/>
+        <updated>2026-09-25T12:28:42.641Z</updated>
+        <summary type="html"><![CDATA[Voor elke burger een burger!]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435078364?aid=kb-online-bibliotheek&sid=23&dts=1790339322413&sig=9e2bafd8b059a5cef0bf31c6634de3706522de60d4ab625454d93f981dffbe6b&width=320" alt="Omslag van 'Burgers van Nederland'" title="Omslag van 'Burgers van Nederland'">
+<p>Burgers van Nederland laat het zien: voor elke burger is er een geschikte burger! Dit kookboek bevat tal van heerlijke burgers met een twist, zo gevarieerd en verrassend als de medelanders die ze eten. Van de Brave Burger, de Tokoburger en de Smarthap tot de Rainbow Burger, vlees, vis en vega; dit boek is net zo lekker om door te bladeren, als om in te bijten. Vrolijk, inclusief en positief: Burgers van Nederland bevat voor iedereen iets om van te genieten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Mirjam van der Rijst</name>
+        </author>
+        <author>
+            <name>Anoek Lorjé</name>
+        </author>
+        <author>
+            <name>Mel van Vorstenbos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kama Sutra Food]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437254119/kama-sutra-food--</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437254119/kama-sutra-food--"/>
+        <updated>2026-09-25T12:28:43.072Z</updated>
+        <summary type="html"><![CDATA[Tips en weetjes over seks en eten, met lustopwekkende recepten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437254119?aid=kb-online-bibliotheek&sid=23&dts=1790339322785&sig=56d0f0347f64b452093de23d1bcba655f011aa8e8a6e4a60c189aa3b44cf71a0&width=320" alt="Omslag van 'Kama Sutra Food'" title="Omslag van 'Kama Sutra Food'">
+<p>Met 'Kama Sutra Food' heb je het smakelijkste en spannendste cadeauboek in handen. Met zinnenstrelende tips, prikkelende weetjes, 20 lustopwekkende recepten en spannende ervaringsverhalen ontdek je (samen met je partner) de zinderende relatie tussen seks en eten. Zwoel en verleidelijk of juist lekker pikant: iedereen komt aan haar of zijn trekken met dit spannende foodboek. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Night]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436619105/good-night-julia-blohberger---roos-neeter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436619105/good-night-julia-blohberger---roos-neeter"/>
+        <updated>2026-09-25T12:28:43.381Z</updated>
+        <summary type="html"><![CDATA[Jouw holistische gids naar de zachtste nachten]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436619105?aid=kb-online-bibliotheek&sid=23&dts=1790339323195&sig=2d32df94e188a4b29671f1ebe63b2dcce2621c69d719ffc389602630dad4ca44&width=320" alt="Omslag van 'Good Night'" title="Omslag van 'Good Night'">
+<p>Een nacht lang woelen en draaien in je bed, wachtend op de slaap die maar niet wil komen terwijl het moment dat je wekker afgaat steeds dichterbij komt. Julia Blohberger en Roos Neeter bieden in hun holistische gids praktische tips om een einde te maken aan je onrustige en slapeloze nachten. Van ademhalingsoefeningen tot het herindelen van je slaapkamer; alle tips zijn luchtig en laagdrempelig, zodat je ze direct kunt toepassen. Met Good Night op je nachtkastje word je uitgerust wakker en kun je de dag weer vol nieuwe energie beginnen. Voor iedereen die beter wil slapen en slaaptekort voorgoed vaarwel wil zeggen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Julia Blohberger</name>
+        </author>
+        <author>
+            <name>Roos Neeter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smokey Goodness]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435612263/smokey-goodness-jord-althuizen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435612263/smokey-goodness-jord-althuizen"/>
+        <updated>2026-09-25T12:28:43.728Z</updated>
+        <summary type="html"><![CDATA[Het ultieme BBQ-boek]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435612263?aid=kb-online-bibliotheek&sid=23&dts=1790339323501&sig=f975d8ce1deeef6a0b8893a60279ce19d60566ea0829c10b37348146beca1d4b&width=320" alt="Omslag van 'Smokey Goodness'" title="Omslag van 'Smokey Goodness'">
+<p>Met het BBQ-kookboek 'Smokey Goodness – het ultieme BBQ-boek' onthult wereldkampioen BBQ Jord Althuizen alle tricks of the trade van het echte barbecueën. Met gouden tips over vuur en stoere recepten vol pit en smaak. Burgers, wings, gegrilde côte de boeuf, pulled pork of zelfs hele speenvarkens. Voor je het weet ben je net zo verslingerd aan de grill, het vuur en de rook als Jord. Get your grill on! De jury over 'Smokey Goodness': 'Het BBQ thema is in dit boek van voor tot achter, op alle vlakken, doorgevoerd. Je ruikt de BBQ bijna. Het is een persoonlijk verhaal en een lekker vet boek met ruige recepten. Althuizen heeft zich werkelijk verdiept in de Amerikaanse barbecuecultuur en belicht die van alle kanten.' </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jord Althuizen</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[50x meer lunchen zonder brood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437145298/50x-meer-lunchen-zonder-brood-jennifer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437145298/50x-meer-lunchen-zonder-brood-jennifer"/>
-        <updated>2026-09-24T12:27:16.599Z</updated>
-        <summary type="html"><![CDATA[snelle salades, soepen en wraps]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437145298?aid=kb-online-bibliotheek&sid=23&dts=1790235865430&sig=265713b35dc72325a0bb9d031238a9198bba6092159b4e047795b6a1c6f4dcac&width=320" alt="Omslag van '50x meer lunchen zonder brood'" title="Omslag van '50x meer lunchen zonder brood'">
+        <id>https://www.onlinebibliotheek.nl/catalogus/437145298/50x-meer-lunchen-zonder-brood-jennifer---sven</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437145298/50x-meer-lunchen-zonder-brood-jennifer---sven"/>
+        <updated>2026-09-25T12:28:44.055Z</updated>
+        <summary type="html"><![CDATA[Snelle salades, soepen en wraps]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437145298?aid=kb-online-bibliotheek&sid=23&dts=1790339323841&sig=933130c8b322194b486d328bc3e1116b57ec015d7805b4dd434a78200bee5751&width=320" alt="Omslag van '50x meer lunchen zonder brood'" title="Omslag van '50x meer lunchen zonder brood'">
 <p>50x lunchen zonder brood 2 is de opvolger van de bestseller van Voedzaam & Snel. In dit tweede lunchboek geven Sven en Jennifer je nog meer inspiratie voor de lunch zonder brood, to go of @ home. Goedgevulde soepen, lekkere wraps, tortilla’s vol groenten en andere gerechten, stevig en licht, warm en koud. Voor een gezonde, voedzame en snelle lunch die je genoeg energie geeft voor de hele middag. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jennifer</name>
+            <name>Jennifer &amp; Sven</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Denk je vrij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434913685/denk-je-vrij-fred-sterk---sjoerd-swaen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434913685/denk-je-vrij-fred-sterk---sjoerd-swaen"/>
-        <updated>2026-09-24T12:27:16.850Z</updated>
-        <summary type="html"><![CDATA[herstel je gedachtepatroon en krijg meer positieve energie, zelfacceptatie en ontspanning]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434913685?aid=kb-online-bibliotheek&sid=23&dts=1790237159341&sig=318b345664496382092dc4e0eb7216d67be293fa9bfd275cf6ed99edf0b6c687&width=320" alt="Omslag van 'Denk je vrij'" title="Omslag van 'Denk je vrij'">
-<p>Methoden om negatieve gedachten los te laten en een positief zelfbeeld te ontwikkelen.</p>]]></content>
+        <title type="html"><![CDATA[Het no-nonsense meditatieboek voor kinderen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434913669/het-no-nonsense-meditatieboek-voor-kinderen-steven-laureys---vanessa-charland</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434913669/het-no-nonsense-meditatieboek-voor-kinderen-steven-laureys---vanessa-charland"/>
+        <updated>2026-09-25T12:28:44.432Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434913669?aid=kb-online-bibliotheek&sid=23&dts=1790339324180&sig=0caa11449356b531cc8a6bf2655a3fc0c75c4778721883b4bd9d26c4da07eb4b&width=320" alt="Omslag van 'Het no-nonsense meditatieboek voor kinderen'" title="Omslag van 'Het no-nonsense meditatieboek voor kinderen'">
+<p>In 'Het no-nonsense meditatieboek voor kinderen' laten Steven Laureys en Vanessa Charland zien hoe mediteren kinderen helpt om met hun emoties om te gaan. Ze hoeven hun gevoelens als boosheid of angst niet weg te duwen, maar deze kunnen wel verzachten door meditatie. Onderzoek toont aan dat kinderen (4-10 jaar) hier baat bij hebben en dit boek laat zien hoe. Om voor (of zelf) te (laten) lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Fred Sterk</name>
+            <name>Steven Laureys</name>
         </author>
         <author>
-            <name>Sjoerd Swaen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heel Holland bakt voor jou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436297337/heel-holland-bakt-voor-jou-anouk-glaudemans-van-der-krabben</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436297337/heel-holland-bakt-voor-jou-anouk-glaudemans-van-der-krabben"/>
-        <updated>2026-09-24T12:27:17.129Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436297337?aid=kb-online-bibliotheek&sid=23&dts=1790235865727&sig=ffc82eee78f194e2c60bd08d65d6787bf95b9b5e0739dd130f9c189e4df93aa0&width=320" alt="Omslag van 'Heel Holland bakt voor jou'" title="Omslag van 'Heel Holland bakt voor jou'">
-<p>Gebakrecepten uit de televisieserie Heel Holland Bakt.</p>]]></content>
-        <author>
-            <name>Anouk Glaudemans-van der Krabben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jouw persoonlijke cyclusgids]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435089021/jouw-persoonlijke-cyclusgids-vivian-reijs---margot-lodewijk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435089021/jouw-persoonlijke-cyclusgids-vivian-reijs---margot-lodewijk"/>
-        <updated>2026-09-24T12:27:17.310Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435089021?aid=kb-online-bibliotheek&sid=23&dts=1790237875836&sig=a685af81d8334c3a4962585c5b3fa86262491f16fe77e9606d5c498124e1b1ed&width=320" alt="Omslag van 'Jouw persoonlijke cyclusgids'" title="Omslag van 'Jouw persoonlijke cyclusgids'">
-<p>Jouw persoonlijke cyclusgids van Vivian Reijs geeft je inzicht in je hormoonhuishouding. Hormonen hebben een enorme impact op het leven van vrouwen. Denk aan niet kunnen afvallen, PMS, PCOS, acne, of niet zwanger kunnen worden. In deze persoonlijke cyclusgids voorziet Vivian je van de juiste informatie en biedt ze voedingsadviezen en wekelijkse tips geeft. Met deze persoonlijke gids komen je hormonen in balans! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Vivian Reijs</name>
-        </author>
-        <author>
-            <name>Margot Lodewijk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russisch]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/426319516/russisch--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/426319516/russisch--"/>
-        <updated>2026-09-24T12:27:17.504Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A426319516?aid=kb-online-bibliotheek&sid=23&dts=1790244220605&sig=bae74718b8a9502244d52e3c3cdb4a4ec46f641aea56d31d05f8b7b7662ee3f2&width=320" alt="Omslag van 'Russisch'" title="Omslag van 'Russisch'">
-<p>Toeristische conversatiegids.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brand new BBQ]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438813049/brand-new-bbq-jord-althuizen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438813049/brand-new-bbq-jord-althuizen"/>
-        <updated>2026-09-24T12:27:17.681Z</updated>
-        <summary type="html"><![CDATA[smokey goodness]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438813049?aid=kb-online-bibliotheek&sid=23&dts=1790243246690&sig=49d71ba25a5982c01b70c4df6ef3bbbc73052b295ac0ab4bcfe3ed6a2bc76907&width=320" alt="Omslag van 'Brand new BBQ'" title="Omslag van 'Brand new BBQ'">
-<p>In ‘Smokey Goodness Brand New BBQ’ neemt Jord Althuizen je mee op avontuur naar dé barbecue bakermat, de USA. Want er valt nog genoeg te ontdekken voor op het vuur, zowel old school traditional als new flavors en technieken.</p><p>Door de Mexicaanse, Aziatische en Europese invloeden blijft de BBQ-scene zich daar ontwikkelen. In dit boek vind je nieuwe technieken, talloze tips en nog meer nieuwe recepten. Van briskets, klassieke en new school spare-ribs en Carolina Style pulled pork, tot burgers en Tex-Mex BBQ. Waar zet jij je tanden in?</p><p>"Klassieke Amerikaanse gerechten brengen oude tradities en nieuwe smaken samen. Bevrijd je innerlijke pyromaan en ga helemaal los met deze heerlijke recepten!" – Telegraaf</p><p>"Smokey Goodness zet mening achtertuin in vuur en vlam"– Foodies ‘Brand New BBQ’ is het negende deel in de Smokey Goodness BBQ-bestsellerserie van pyro-culinair avonturier Jord Althuizen. Dit is hét cadeau voor Vaderdag, een verjaardag, Sinterklaas, Kerstmis of gewoon zomaar. Of je nou BBQ’t op je kamado, Big Green Egg, Bastard of Weber, dit kookboek mag niet ontbreken in de collectie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jord Althuizen</name>
+            <name>Vanessa Charland</name>
         </author>
     </entry>
 </feed>
