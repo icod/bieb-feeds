@@ -2,11 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-09-27T12:37:12.146Z</updated>
+    <updated>2026-09-28T14:48:20.654Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[De zaak van Münster]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/385902387/de-zaak-van-m%C3%BCnster-h%C3%A5kan-nesser</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/385902387/de-zaak-van-m%C3%BCnster-h%C3%A5kan-nesser"/>
+        <updated>2026-09-28T14:48:18.783Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A385902387?aid=kb-online-bibliotheek&sid=23&dts=1790600384944&sig=98d4e166e33956223175c664316ceb1e4c2601a2938a1ba0c1717f32955068aa&width=320" alt="Omslag van 'De zaak van Münster'" title="Omslag van 'De zaak van Münster'">
+<p>Het team van inspecteur Münster tast volledig in het duister bij de moord op de oude Waldemar Leverkuhn. Hij lijkt het slachtoffer te zijn van een roofmoord, maar het gebruikte geweld duidt op extreme woede bij de dader. Hiervoor ontbreekt echter elk haatmotief. Münster besluit een beroep te doen op de befaamde intuïtie van commissaris Van Veeteren, die van een jaar verlof geniet. Van Veeteren hoeft maar even te snuiven om zeker te weten dat de zaak stinkt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Håkan Nesser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carambole]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/39464414X/carambole-h%C3%A5kan-nesser</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/39464414X/carambole-h%C3%A5kan-nesser"/>
+        <updated>2026-09-28T14:48:19.028Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A39464414X?aid=kb-online-bibliotheek&sid=23&dts=1790602185831&sig=b7d587c8addc5e6a9609a8b8ebbdfdf1f5f0148b16db79192ca66756706d316a&width=320" alt="Omslag van 'Carambole'" title="Omslag van 'Carambole'">
+<p>Wanneer een doodgewone man ongewild de spil lijkt in een serie moorden, tast de Zweedse politie lang in het duister.</p>]]></content>
+        <author>
+            <name>Håkan Nesser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Als de adelaar jaagt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/400839415/als-de-adelaar-jaagt-simon-scarrow</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/400839415/als-de-adelaar-jaagt-simon-scarrow"/>
+        <updated>2026-09-28T14:48:19.281Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A400839415?aid=kb-online-bibliotheek&sid=23&dts=1790602307541&sig=c07bf13f37ae981d79e95e0605ebc83a5a353275fab8b0d4165896d6530552bf&width=320" alt="Omslag van 'Als de adelaar jaagt'" title="Omslag van 'Als de adelaar jaagt'">
+<p>In 44 n. Chr. komen de Engelsen in opstand tegen de overheersing door de Romeinen.</p>]]></content>
+        <author>
+            <name>Simon Scarrow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inking him]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/419771298/inking-him-cora-carmack</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/419771298/inking-him-cora-carmack"/>
+        <updated>2026-09-28T14:48:19.643Z</updated>
+        <summary type="html"><![CDATA[Een Losing it-verhaal]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A419771298?aid=kb-online-bibliotheek&sid=23&dts=1790606899397&sig=1c7d08f645cb675b7c51b6c5fecdea65bd026868ca364e8c7c7492e4a384d7ed&width=320" alt="Omslag van 'Inking him'" title="Omslag van 'Inking him'">
+<p>Garrick sloot een weddenschap met een vriend die hem een inkopper leek. De inzet: een tatoeage. Tegen al zijn verwachtingen in verloor hij de weddenschap. Nu moet hij dus wel een tattoo laten zetten… Zijn vriendin Bliss is daar minder blij mee. Wat als hij nou een tattoo neemt die ze ontzettend lelijk vindt, en ze daar dan dus de rest van haar leven tegenaan moet kijken? Inking him is een kort verhaal dat Cora Carmack schreef voor een goed doel, als vervolg op haar internationale bestseller Losing it. Losing it eerst lezen wordt sterk aanbevolen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Cora Carmack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In de lift]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/419768165/in-de-lift-vi-keeland</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/419768165/in-de-lift-vi-keeland"/>
+        <updated>2026-09-28T14:48:19.922Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A419768165?aid=kb-online-bibliotheek&sid=23&dts=1790601424721&sig=aea4ccb26b51b47985acff69ba5fdc3ad3f5bb56496d01ac9f23d21b23054067&width=320" alt="Omslag van 'In de lift'" title="Omslag van 'In de lift'">
+<p>Ava staat in de lift, ze is onderweg om Evan, met wie ze aan het daten is, te verrassen voor zijn verjaardag. Ze draagt een regenjas met eronder een weinig verhullende outfit. Wanneer de lift arriveert op de tweeëntwintigste verdieping, heeft Ava geen enkel vermoeden dat de avond heel anders zal verlopen dan ze denkt… In de lift is een kort verhaal van de populaire Amerikaanse auteur Vi Keeland. In het najaar verschijnt de vertaling van haar boek De baas, een heerlijke office romance. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Vi Keeland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De rebound]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/430812027/de-rebound-elle-kennedy</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/430812027/de-rebound-elle-kennedy"/>
+        <updated>2026-09-28T14:48:20.165Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A430812027?aid=kb-online-bibliotheek&sid=23&dts=1790602110903&sig=24405ba6f9600739a4bd6882464e01ebbfb152c5d7cfb67aaffe4a2bd810febc&width=320" alt="Omslag van 'De rebound'" title="Omslag van 'De rebound'">
+<p>Allie Hayes heeft het net uitgemaakt met haar vriendje en is niet op zoek naar een rebound. Als de kans op een eenmalige wilde avond met de sexy Dean Di Laurentis zich aanbiedt, begint Allie toch te twijfelen of een rebound niet precies is wat ze nodig heeft…</p><p> De rebound is een grappig en steamy kort verhaal. Leuk voor voor lezers van bestsellerauteur Elle Kennedy's Het einde, maar ook voor wie Het einde nog niet gelezen heeft, want het is de perfecte manier om kennis te maken met de hilarische en wilde Dean & Allie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Elle Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een hart van steen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437947890/een-hart-van-steen-katee-robert</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437947890/een-hart-van-steen-katee-robert"/>
+        <updated>2026-09-28T14:48:20.416Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437947890?aid=kb-online-bibliotheek&sid=23&dts=1790602284634&sig=4a545de85e7abd3654a955a6adc5d9325c1065287baf25e8b3970527749b722c&width=320" alt="Omslag van 'Een hart van steen'" title="Omslag van 'Een hart van steen'">
+<p>Medusa speelt de hoofdrol in de nachtmerries van vele bewoners van Olympus. Ze is spijkerhard, en de probleemoplosser van Athene. Iemand moet onder druk gezet worden, of zelfs permanent verdwijnen? Medusa lost het op.  Tot ze de opdracht krijgt om Calypso, de minnares van de rijke politicus Odysseus, te vermoorden. Voor zover Medusa weet, heeft Calypso niets gedaan om dit te verdienen. Haar tegenstrijdige gevoelens worden alleen maar erger als ze Calypso voor het eerst ziet. Calypso is beeldschoon, fascinerend, charmant en sluw. Ze zal alles in het werk zetten om te overleven, inclusief het verleiden van haar potentiële moordenaar. Wat begint als manipulatie om aan haar lot te ontsnappen, verandert al snel in oprechte interesse. Medusa blijkt in het echt heel anders te zijn dan Calypso had verwacht. Maar is het wel verstandig om verliefd te worden op je huurmoordenaar? Een hart van steen is een meeslepende lesbische romance in de populaire Dark Olympus-serie van bestsellerauteur Katee Robert. Dit boek is ook gratis te lezen als je je inschrijft voor de nieuwsbrief van de uitgever Love Books, kijk daarvoor op lovebooks[punt]nl.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Katee Robert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twisted hate]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440314275/twisted-hate-ana-huang</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440314275/twisted-hate-ana-huang"/>
+        <updated>2026-09-28T14:48:20.653Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440314275?aid=kb-online-bibliotheek&sid=23&dts=1790601423689&sig=026303a12ac6e3114c958c7f73921f2a9644d06bd76765e142914402bbf6a428&width=320" alt="Omslag van 'Twisted hate'" title="Omslag van 'Twisted hate'">
+<p>Hij haat haar... bijna net zo erg als hij haar wil. Josh Chen is knap, arrogant en hard op weg een supersuccesvolle dokter te worden. Geen enkele vrouw is immuun voor zijn charmes, behalve Jules Ambrose... De twee kunnen elkaar niet uitstaan. Wanneer hun strijd eindigt in een onvergetelijke nacht stelt Josh een oplossing voor in de hoop Jules voor eens en voor altijd los te kunnen laten: ze worden vijanden met benefits. De regels zijn simpel: geen jaloezie, geen verplichtingen, en absoluut niet verliefd worden. *** De extraverte en ambitieuze Jules Ambrose richt zich op één ding: advocaat worden. Het laatste waar ze op zit te wachten, is tijd doorbrengen met een onuitstaanbare dokter... hoe goed die er dan ook uitziet. Maar hoe beter ze Josh leert kennen, hoe meer ze zich realiseert dat hij heel anders is dan ze eerst dacht. De vonken vliegen in het rond tussen de twee. Net wanneer ze denken dat ze elkaar een beetje begrijpen, komen er pijnlijke zaken uit het verleden naar boven die ze liever verborgen hadden gehouden. Durven ze eerlijk tegen elkaar te zijn, of laten ze leugens alles vernietigen? Twisted hate is het derde deel van de supersuccesvolle Twisted-serie van Ana Huang. Alle delen zijn los van elkaar te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ana Huang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Benjamins boom]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/412565064/benjamins-boom-patty-harpenau</id>
@@ -189,6 +278,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Preloved]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434799920/preloved-maartje-van-den-broek---maartje-bodt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434799920/preloved-maartje-van-den-broek---maartje-bodt"/>
+        <updated>2026-09-25T12:28:41.206Z</updated>
+        <summary type="html"><![CDATA[Vintage hunten als een pro]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434799920?aid=kb-online-bibliotheek&sid=23&dts=1790339320989&sig=778c8e40c9cc8c3253191b476a54afcd90b5e8312996e7bacad7a393fdfa1453&width=320" alt="Omslag van 'Preloved'" title="Omslag van 'Preloved'">
+<p>Met 'Preloved' bewijzen topstylistes Maartje van den Broek en Maartje Bodt het eens en voor altijd: tweedehands kleding shoppen is niet alleen hot, het is de toekomst van de mode. Vintage hunten is ontzettend leuk en verslavend, maar het laat je ook vertragen en nadenken over jóuw stijl in plaats van constant de trends te (moeten) volgen. Het is een ware kunst om de echte pareltjes te spotten, zeker in het groeiende online aanbod van designerkleding, -tassen, -schoenen en -accessoires. Maartje en Maartje onthullen in dit boek al hun geheimen: koop en verkoop, curate your closet, scout dé topstukken en stel je ultieme capsule wardrobe samen. Dit prachtig geïllustreerde boek met inspirerende fotografie stop je zo in je preloved handtas. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Maartje van den Broek</name>
+        </author>
+        <author>
+            <name>Maartje Bodt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Niet vergeten]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/43439565X/niet-vergeten-eveline-helmink</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/43439565X/niet-vergeten-eveline-helmink"/>
@@ -224,21 +328,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Preloved]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434799920/preloved-maartje-van-den-broek---maartje-bodt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434799920/preloved-maartje-van-den-broek---maartje-bodt"/>
-        <updated>2026-09-25T12:28:41.206Z</updated>
-        <summary type="html"><![CDATA[Vintage hunten als een pro]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434799920?aid=kb-online-bibliotheek&sid=23&dts=1790339320989&sig=778c8e40c9cc8c3253191b476a54afcd90b5e8312996e7bacad7a393fdfa1453&width=320" alt="Omslag van 'Preloved'" title="Omslag van 'Preloved'">
-<p>Met 'Preloved' bewijzen topstylistes Maartje van den Broek en Maartje Bodt het eens en voor altijd: tweedehands kleding shoppen is niet alleen hot, het is de toekomst van de mode. Vintage hunten is ontzettend leuk en verslavend, maar het laat je ook vertragen en nadenken over jóuw stijl in plaats van constant de trends te (moeten) volgen. Het is een ware kunst om de echte pareltjes te spotten, zeker in het groeiende online aanbod van designerkleding, -tassen, -schoenen en -accessoires. Maartje en Maartje onthullen in dit boek al hun geheimen: koop en verkoop, curate your closet, scout dé topstukken en stel je ultieme capsule wardrobe samen. Dit prachtig geïllustreerde boek met inspirerende fotografie stop je zo in je preloved handtas. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Maartje van den Broek</name>
-        </author>
-        <author>
-            <name>Maartje Bodt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uit je dip gaan!]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/434175005/uit-je-dip-gaan--liesbeth-kamerling</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/434175005/uit-je-dip-gaan--liesbeth-kamerling"/>
@@ -261,108 +350,5 @@
         <author>
             <name>Jord Althuizen</name>
         </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smokey Goodness Brand New BBQ]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/438813049/smokey-goodness-brand-new-bbq-jord-althuizen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/438813049/smokey-goodness-brand-new-bbq-jord-althuizen"/>
-        <updated>2026-09-25T12:28:42.300Z</updated>
-        <summary type="html"><![CDATA[Oude tradities en nieuwe smaken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A438813049?aid=kb-online-bibliotheek&sid=23&dts=1790339322069&sig=aa2be93a127e3ed5a076ae16e73de9340496e804728a0440b91cd8767166c1b4&width=320" alt="Omslag van 'Smokey Goodness Brand New BBQ'" title="Omslag van 'Smokey Goodness Brand New BBQ'">
-<p>In ‘Smokey Goodness Brand New BBQ’ neemt Jord Althuizen je mee op avontuur naar dé barbecue bakermat, de USA. Want er valt nog genoeg te ontdekken voor op het vuur, zowel old school traditional als new flavors en technieken.</p><p>Door de Mexicaanse, Aziatische en Europese invloeden blijft de BBQ-scene zich daar ontwikkelen. In dit boek vind je nieuwe technieken, talloze tips en nog meer nieuwe recepten. Van briskets, klassieke en new school spare-ribs en Carolina Style pulled pork, tot burgers en Tex-Mex BBQ. Waar zet jij je tanden in?</p><p>"Klassieke Amerikaanse gerechten brengen oude tradities en nieuwe smaken samen. Bevrijd je innerlijke pyromaan en ga helemaal los met deze heerlijke recepten!" – Telegraaf</p><p>"Smokey Goodness zet mening achtertuin in vuur en vlam"– Foodies ‘Brand New BBQ’ is het negende deel in de Smokey Goodness BBQ-bestsellerserie van pyro-culinair avonturier Jord Althuizen. Dit is hét cadeau voor Vaderdag, een verjaardag, Sinterklaas, Kerstmis of gewoon zomaar. Of je nou BBQ’t op je kamado, Big Green Egg, Bastard of Weber, dit kookboek mag niet ontbreken in de collectie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jord Althuizen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chef Toub: Vega Arabisch]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437223701/chef-toub--vega-arabisch-mounir-toub</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437223701/chef-toub--vega-arabisch-mounir-toub"/>
-        <updated>2026-09-25T12:28:41.883Z</updated>
-        <summary type="html"><![CDATA[Midden-Oosterse gerechten voor elke dag van de week]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437223701?aid=kb-online-bibliotheek&sid=23&dts=1790339321667&sig=bef764dc3bcab0c8bd909ab9c665452c061b89a33248581ad7be9b4d88a07bbc&width=320" alt="Omslag van 'Chef Toub: Vega Arabisch'" title="Omslag van 'Chef Toub: Vega Arabisch'">
-<p>Vegetarische recepten uit de Arabische keuken, met groenten in de hoofdrol.</p>]]></content>
-        <author>
-            <name>Mounir Toub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Van kop tot staart: varken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437232689/van-kop-tot-staart--varken-gertjan-kiers---inge-van-der-helm</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437232689/van-kop-tot-staart--varken-gertjan-kiers---inge-van-der-helm"/>
-        <updated>2026-09-27T12:37:10.619Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437232689?aid=kb-online-bibliotheek&sid=23&dts=1790512629858&sig=8d45aae8b51a5c059631ef06434dac4e9fc7f751eb37edec06b87f56574b7b7e&width=320" alt="Omslag van 'Van kop tot staart: varken'" title="Omslag van 'Van kop tot staart: varken'">
-<p>Topslager en bestseller-auteur Gertjan Kiers laat je in Van kop tot staart: varken zien hoe je duurzaam kunt blijven genieten van vlees, in dit geval varken, het meest favoriete stuk vlees in Nederland. Want wie van kop tot staart eet, gooit niet alleen minder weg, maar eet ook nog eens heerlijk. Ontdek hoe, met deze nieuwe bijbel op het gebied van varkensvlees, die bij geen foodie, worstenmaker of barbecuefan mag missen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Gertjan Kiers</name>
-        </author>
-        <author>
-            <name>Inge van der Helm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50x meer lunchen zonder brood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437145298/50x-meer-lunchen-zonder-brood-jennifer---sven</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437145298/50x-meer-lunchen-zonder-brood-jennifer---sven"/>
-        <updated>2026-09-25T12:28:44.055Z</updated>
-        <summary type="html"><![CDATA[Snelle salades, soepen en wraps]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437145298?aid=kb-online-bibliotheek&sid=23&dts=1790339323841&sig=933130c8b322194b486d328bc3e1116b57ec015d7805b4dd434a78200bee5751&width=320" alt="Omslag van '50x meer lunchen zonder brood'" title="Omslag van '50x meer lunchen zonder brood'">
-<p>50x lunchen zonder brood 2 is de opvolger van de bestseller van Voedzaam & Snel. In dit tweede lunchboek geven Sven en Jennifer je nog meer inspiratie voor de lunch zonder brood, to go of @ home. Goedgevulde soepen, lekkere wraps, tortilla’s vol groenten en andere gerechten, stevig en licht, warm en koud. Voor een gezonde, voedzame en snelle lunch die je genoeg energie geeft voor de hele middag. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jennifer &amp; Sven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het no-nonsense meditatieboek voor kinderen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434913669/het-no-nonsense-meditatieboek-voor-kinderen-steven-laureys---vanessa-charland</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434913669/het-no-nonsense-meditatieboek-voor-kinderen-steven-laureys---vanessa-charland"/>
-        <updated>2026-09-25T12:28:44.432Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434913669?aid=kb-online-bibliotheek&sid=23&dts=1790339324180&sig=0caa11449356b531cc8a6bf2655a3fc0c75c4778721883b4bd9d26c4da07eb4b&width=320" alt="Omslag van 'Het no-nonsense meditatieboek voor kinderen'" title="Omslag van 'Het no-nonsense meditatieboek voor kinderen'">
-<p>In 'Het no-nonsense meditatieboek voor kinderen' laten Steven Laureys en Vanessa Charland zien hoe mediteren kinderen helpt om met hun emoties om te gaan. Ze hoeven hun gevoelens als boosheid of angst niet weg te duwen, maar deze kunnen wel verzachten door meditatie. Onderzoek toont aan dat kinderen (4-10 jaar) hier baat bij hebben en dit boek laat zien hoe. Om voor (of zelf) te (laten) lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Steven Laureys</name>
-        </author>
-        <author>
-            <name>Vanessa Charland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doodmoe en dolgelukkig]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437267040/doodmoe-en-dolgelukkig-jan-versteegh---ouders-van-nu</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437267040/doodmoe-en-dolgelukkig-jan-versteegh---ouders-van-nu"/>
-        <updated>2026-09-27T12:37:11.341Z</updated>
-        <summary type="html"><![CDATA[Een vermakelijke verkenning van het ouderschap]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437267040?aid=kb-online-bibliotheek&sid=23&dts=1790512630781&sig=3f4794309ceae66e730dfee25b23486723b196e17b34b5624f26d90364023e81&width=320" alt="Omslag van 'Doodmoe en dolgelukkig'" title="Omslag van 'Doodmoe en dolgelukkig'">
-<p>Anekdotes en adviezen voor aanstaande vaders.</p>]]></content>
-        <author>
-            <name>Jan Versteegh</name>
-        </author>
-        <author>
-            <name>Ouders van Nu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denk je vrij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434913685/denk-je-vrij-fred-sterk---sjoerd-swaen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434913685/denk-je-vrij-fred-sterk---sjoerd-swaen"/>
-        <updated>2026-09-24T12:27:16.850Z</updated>
-        <summary type="html"><![CDATA[herstel je gedachtepatroon en krijg meer positieve energie, zelfacceptatie en ontspanning]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434913685?aid=kb-online-bibliotheek&sid=23&dts=1790237159341&sig=318b345664496382092dc4e0eb7216d67be293fa9bfd275cf6ed99edf0b6c687&width=320" alt="Omslag van 'Denk je vrij'" title="Omslag van 'Denk je vrij'">
-<p>Methoden om negatieve gedachten los te laten en een positief zelfbeeld te ontwikkelen.</p>]]></content>
-        <author>
-            <name>Fred Sterk</name>
-        </author>
-        <author>
-            <name>Sjoerd Swaen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heel Holland Bakt voor jou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436297337/heel-holland-bakt-voor-jou--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436297337/heel-holland-bakt-voor-jou--"/>
-        <updated>2026-09-27T12:37:12.145Z</updated>
-        <summary type="html"><![CDATA[Het nieuwe seizoensboek 2022]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436297337?aid=kb-online-bibliotheek&sid=23&dts=1790512631598&sig=bc94853a43df21074828eaa8333acf207e5f19d336b96457976d1b3e98f8ecd2&width=320" alt="Omslag van 'Heel Holland Bakt voor jou'" title="Omslag van 'Heel Holland Bakt voor jou'">
-<p>Gebakrecepten uit de televisieserie Heel Holland Bakt.</p>]]></content>
     </entry>
 </feed>
