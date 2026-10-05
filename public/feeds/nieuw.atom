@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-10-04T12:59:01.239Z</updated>
+    <updated>2026-10-05T15:27:11.085Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -30,17 +30,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het geheim van de boekbinder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629089/het-geheim-van-de-boekbinder-a-d--bell</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629089/het-geheim-van-de-boekbinder-a-d--bell"/>
-        <updated>2026-10-02T13:24:36.894Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629089?aid=kb-online-bibliotheek&sid=23&dts=1790947476646&sig=8282bb370265ed6f05154b79c5be4309fbdb29f8675f7369e915630dd6ea89e0&width=320" alt="Omslag van 'Het geheim van de boekbinder'" title="Omslag van 'Het geheim van de boekbinder'">
-<p>Het geheim van de boekbinder van A.D. Bell is het perfecte boek voor fans van Evie Woods en Sarah Penner. Oxford, 1901. Lilian Delaney droomt van een toekomst als boekbinder, maar zit vast tussen de muren van haar vaders boekwinkel en een vak dat gedomineerd wordt door mannen. Wanneer ze een verbrand boek in handen krijgt – en een vijftig jaar oude brief ontdekt die spreekt van passie, verraad en moord – kan Lilian het mysterie niet loslaten. Er blijken meer boeken te zijn met meer verborgen pagina's, en iemand wil koste wat kost voorkomen dat de waarheid aan het licht komt… Haar zoektocht voert haar van de boekhandels van Londen tot de geheime bibliotheken van duistere verzamelaars. Maar terwijl de dreiging toeneemt, moet Lilian beslissen: hoever is ze bereid te gaan voor een verhaal dat haar alles kan kosten? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>A.D. Bell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Next Conversation]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461629607/the-next-conversation-jefferson-fisher</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461629607/the-next-conversation-jefferson-fisher"/>
@@ -53,14 +42,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Could Be Love]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629364/this-could-be-love-lilly-lucas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629364/this-could-be-love-lilly-lucas"/>
-        <updated>2026-10-02T13:24:37.633Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629364?aid=kb-online-bibliotheek&sid=23&dts=1790947477339&sig=9ec6c7712351d6861b7aa27768159e67ed813840cb772fd0c5a8ea1e75c35483&width=320" alt="Omslag van 'This Could Be Love'" title="Omslag van 'This Could Be Love'">
-<p>This could be love is het eerste deel van de trilogie Hawaii Love van bestsellerauteur Lilly Lucas.  Na een blessure staat Louisa's sportcarrière op losse schroeven. Om op adem te komen én aan haar comeback te werken, reist ze naar Hawaï, waar haar tante een kleine tennisschool runt aan de ruige kust. Wat bedoeld is als een rustige reset, verandert al snel wanneer ze Vince ontmoet – een knappe, mysterieuze surfer die het hostel naast haar verblijf renoveert. Vince is precies het soort afleiding dat Louisa niet kan gebruiken. Hij is charmant, eigenzinnig… en in conflict met haar tante. Toch groeit er iets tussen hen wat ze niet kan negeren. Terwijl de zon over de branding zakt en de spanning tussen hen oplaait, moet Louisa zich afvragen: hoe combineer je dromen met je hart? Een zomerse romance over grote dromen, nieuwe liefde en het vinden van je weg – tegen het decor van het betoverende Hawaï. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het geheim van de boekbinder]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629089/het-geheim-van-de-boekbinder-a-d--bell</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629089/het-geheim-van-de-boekbinder-a-d--bell"/>
+        <updated>2026-10-02T13:24:36.894Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629089?aid=kb-online-bibliotheek&sid=23&dts=1790947476646&sig=8282bb370265ed6f05154b79c5be4309fbdb29f8675f7369e915630dd6ea89e0&width=320" alt="Omslag van 'Het geheim van de boekbinder'" title="Omslag van 'Het geheim van de boekbinder'">
+<p>Het geheim van de boekbinder van A.D. Bell is het perfecte boek voor fans van Evie Woods en Sarah Penner. Oxford, 1901. Lilian Delaney droomt van een toekomst als boekbinder, maar zit vast tussen de muren van haar vaders boekwinkel en een vak dat gedomineerd wordt door mannen. Wanneer ze een verbrand boek in handen krijgt – en een vijftig jaar oude brief ontdekt die spreekt van passie, verraad en moord – kan Lilian het mysterie niet loslaten. Er blijken meer boeken te zijn met meer verborgen pagina's, en iemand wil koste wat kost voorkomen dat de waarheid aan het licht komt… Haar zoektocht voert haar van de boekhandels van Londen tot de geheime bibliotheken van duistere verzamelaars. Maar terwijl de dreiging toeneemt, moet Lilian beslissen: hoever is ze bereid te gaan voor een verhaal dat haar alles kan kosten? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lilly Lucas</name>
+            <name>A.D. Bell</name>
         </author>
     </entry>
     <entry>
@@ -75,6 +64,28 @@
         </author>
         <author>
             <name>Andrew Child</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Could Be Love]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629364/this-could-be-love-lilly-lucas</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629364/this-could-be-love-lilly-lucas"/>
+        <updated>2026-10-02T13:24:37.633Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629364?aid=kb-online-bibliotheek&sid=23&dts=1790947477339&sig=9ec6c7712351d6861b7aa27768159e67ed813840cb772fd0c5a8ea1e75c35483&width=320" alt="Omslag van 'This Could Be Love'" title="Omslag van 'This Could Be Love'">
+<p>This could be love is het eerste deel van de trilogie Hawaii Love van bestsellerauteur Lilly Lucas.  Na een blessure staat Louisa's sportcarrière op losse schroeven. Om op adem te komen én aan haar comeback te werken, reist ze naar Hawaï, waar haar tante een kleine tennisschool runt aan de ruige kust. Wat bedoeld is als een rustige reset, verandert al snel wanneer ze Vince ontmoet – een knappe, mysterieuze surfer die het hostel naast haar verblijf renoveert. Vince is precies het soort afleiding dat Louisa niet kan gebruiken. Hij is charmant, eigenzinnig… en in conflict met haar tante. Toch groeit er iets tussen hen wat ze niet kan negeren. Terwijl de zon over de branding zakt en de spanning tussen hen oplaait, moet Louisa zich afvragen: hoe combineer je dromen met je hart? Een zomerse romance over grote dromen, nieuwe liefde en het vinden van je weg – tegen het decor van het betoverende Hawaï. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lilly Lucas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zilverling - Het mysterie van Morrigan Crow]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/439096340/zilverling---het-mysterie-van-morrigan-crow-jessica-townsend</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/439096340/zilverling---het-mysterie-van-morrigan-crow-jessica-townsend"/>
+        <updated>2026-09-30T13:13:58.105Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439096340?aid=kb-online-bibliotheek&sid=23&dts=1790770062605&sig=a24bb8662cf152e1f912588d926142815e9b7a4e2d5262eec5b99ffddca69cb0&width=320" alt="Omslag van 'Zilverling - Het mysterie van Morrigan Crow'" title="Omslag van 'Zilverling - Het mysterie van Morrigan Crow'">
+<p>De magische avonturen van Morrigan Crow gaan verder in Zilverling, het vierde Nevermoor-boek van Jessica Townsend. In deze serie, die over de hele wereld geliefd is, verschenen eerder Nevermoor, Wondersmid en Spookpokken. Ontdekt Morrigan nu eindelijk wie ze is? Na de turbulente avonturen in Spookpokken staat Morrigan Crow voor nieuwe uitdagingen. Om het mysterie van haar identiteit te ontrafelen, moet ze een heel gevaarlijk iemand vertrouwen. Begaat ze een grote vergissing, of ontdekt ze eindelijk wie ze werkelijk is? Intussen is ze vastbesloten om meer over de Wonderse Kunsten te leren. Ze belandt in een duister avontuur dat haar naar mensen en plaatsen uit haar verleden leidt... De Nevermoor-serie van de Australische auteur Jessica Townsend is een groot internationaal succes en is in meer dan veertig talen vertaald. Ook is de serie bekroond met belangrijke prijzen over de hele wereld. Een grote bioscoopfilm is in de maak. 'Door de gedetailleerd uitgewerkte, zorgvuldig opgebouwde tovenaarswereld en door de fantastische karakters heeft Jessica Townsend in Nevermoor een geheel eigen en origineel universum geschapen.' De Griffeljury over Nevermoor 1, bekroond met een Vlag en Wimpel </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jessica Townsend</name>
         </author>
     </entry>
     <entry>
@@ -101,17 +112,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zilverling - Het mysterie van Morrigan Crow]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/439096340/zilverling---het-mysterie-van-morrigan-crow-jessica-townsend</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/439096340/zilverling---het-mysterie-van-morrigan-crow-jessica-townsend"/>
-        <updated>2026-09-30T13:13:58.105Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A439096340?aid=kb-online-bibliotheek&sid=23&dts=1790770062605&sig=a24bb8662cf152e1f912588d926142815e9b7a4e2d5262eec5b99ffddca69cb0&width=320" alt="Omslag van 'Zilverling - Het mysterie van Morrigan Crow'" title="Omslag van 'Zilverling - Het mysterie van Morrigan Crow'">
-<p>De magische avonturen van Morrigan Crow gaan verder in Zilverling, het vierde Nevermoor-boek van Jessica Townsend. In deze serie, die over de hele wereld geliefd is, verschenen eerder Nevermoor, Wondersmid en Spookpokken. Ontdekt Morrigan nu eindelijk wie ze is? Na de turbulente avonturen in Spookpokken staat Morrigan Crow voor nieuwe uitdagingen. Om het mysterie van haar identiteit te ontrafelen, moet ze een heel gevaarlijk iemand vertrouwen. Begaat ze een grote vergissing, of ontdekt ze eindelijk wie ze werkelijk is? Intussen is ze vastbesloten om meer over de Wonderse Kunsten te leren. Ze belandt in een duister avontuur dat haar naar mensen en plaatsen uit haar verleden leidt... De Nevermoor-serie van de Australische auteur Jessica Townsend is een groot internationaal succes en is in meer dan veertig talen vertaald. Ook is de serie bekroond met belangrijke prijzen over de hele wereld. Een grote bioscoopfilm is in de maak. 'Door de gedetailleerd uitgewerkte, zorgvuldig opgebouwde tovenaarswereld en door de fantastische karakters heeft Jessica Townsend in Nevermoor een geheel eigen en origineel universum geschapen.' De Griffeljury over Nevermoor 1, bekroond met een Vlag en Wimpel </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jessica Townsend</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Storm Breaker]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461628775/storm-breaker-nisha-j--tuli</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461628775/storm-breaker-nisha-j--tuli"/>
@@ -120,58 +120,6 @@
 <p>For nineteen-year-old Poet Graves, New Manhattan has always promised safety—if she obeys. Raised within the ruling Houses and betrothed to a powerful heir, she enters Amery Academy knowing her future has already been decided. But Amery is nothing like she imagined. Its trials are brutal, its loyalties conditional, and its rules designed to expose weakness. As Poet struggles to survive, she must hide the truth that could get her executed: the storms don't fear her—they answer back. When a dangerous outsider from beyond the city walls enters the academy, Poet is drawn to him despite everything she's been taught to believe. He threatens the life she's been promised. And choosing him could cost her not just her future, but her freedom. A gripping dystopian romance filled with forbidden power, ruthless challenges, and a heroine who refuses to burn quietly—perfect for fans of Divergent and The Hunger Games. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Nisha J. Tuli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alleen wie moedig is]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46162964X/alleen-wie-moedig-is-danielle-steel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46162964X/alleen-wie-moedig-is-danielle-steel"/>
-        <updated>2026-10-02T13:24:38.599Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46162964X?aid=kb-online-bibliotheek&sid=23&dts=1790947478350&sig=c5914a7fa502f8824c127674a9479b4a091cc38de4df1045b266c547a5ea106f&width=320" alt="Omslag van 'Alleen wie moedig is'" title="Omslag van 'Alleen wie moedig is'">
-<p>In Alleen wie moedig is schetst Danielle Steel een aangrijpend beeld van moed, opoffering en hoop te midden van oorlog en onrecht. Tijdens de Tweede Wereldoorlog groeit de jonge Sophia Alexander in Berlijn op onder een dreigend regime. Als haar moeder ziek wordt, moet ze snel volwassen worden. Ze neemt de zorg voor haar jongere zusje en haar vader op zich, terwijl ze zich ook steeds drukker maakt over de opkomst van Hitler en het groeiende geweld.  Nadat haar moeder overlijdt en haar vader wordt opgepakt wegens verzet, zet Sophia haar leven op het spel om Joodse kinderen in veiligheid te brengen. Ze doet dit als verpleegster bij de Sisters of Mercy, maar haar inzet zorgt ervoor dat ook zij wordt opgepakt en naar een concentratiekamp wordt gebracht, waar ze moet vechten om te overleven. Haar lot lijkt bezegeld, maar hoop en doorzettingsvermogen brengen haar verder dan ze ooit had durven dromen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Danielle Steel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De rol van mijn leven]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461628961/de-rol-van-mijn-leven-courtney-walsh</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461628961/de-rol-van-mijn-leven-courtney-walsh"/>
-        <updated>2026-10-02T13:24:38.843Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461628961?aid=kb-online-bibliotheek&sid=23&dts=1790947202885&sig=dab963273a226ebd69a35f476af4e0cdd5fbbbe4a51dcd81ff73ea49e63d8163&width=320" alt="Omslag van 'De rol van mijn leven'" title="Omslag van 'De rol van mijn leven'">
-<p>In 'De rol van mijn leven', de nieuwste feelgoodroman van Courtney Walsh, zit het Rosie Waterman tegen. Ze doet er alles aan om een succesvolle actrice te worden maar als ze op één dag haar appartement en haar baan kwijtraakt trekt ze weer bij haar ouders in, en daar wordt ze met haar neus op de feiten gedrukt. Terwijl zij, tevergeefs, aan het waarmaken van haar dromen werkte, zijn haar vrienden volwassen geworden, met carrières, relaties en baby's tot gevolg. En Rosie? Die is geen stap verder dan de dag van haar diploma-uitreiking.  Wanneer ze de kans krijgt om een productie van Assepoester te regisseren grijpt ze die dan ook met beide handen aan. Al heeft ze nauwelijks ervaring als regisseur. Eenmaal aangekomen in Door County, Wisconsin, komt ze er tot haar grote schrik achter dat ze in een bejaardengemeenschap terecht is gekomen – en dat haar cast óók uit bejaarden bestaat.  Langzaam maar zeker krijgt de theaterproductie vorm, en begint Rosie de charme van een rustiger leven in te zien. Is de realiteit misschien wel beter dan ze ooit had kunnen dromen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Courtney Walsh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zusters in Iran]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629313/zusters-in-iran-fatemeh-jamalpour---nilo-tabrizy</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629313/zusters-in-iran-fatemeh-jamalpour---nilo-tabrizy"/>
-        <updated>2026-10-02T13:24:39.184Z</updated>
-        <summary type="html"><![CDATA[Verslag van een revolutie]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629313?aid=kb-online-bibliotheek&sid=23&dts=1790947478961&sig=63970a4a761625bc79037c5953ed405c82b62ae9a7edf4469a90f83e1821ccd2&width=320" alt="Omslag van 'Zusters in Iran'" title="Omslag van 'Zusters in Iran'">
-<p>Iran staat in brand. Twee journalisten zijn getuige.  In Zusters in Iran documenteren Fatemeh Jamalpour en Nilo Tabrizy met gevaar voor eigen leven wat een regime probeert te verhullen: de moed, de poëzie en de onverzettelijkheid van Iraanse vrouwen Ze brengen stemmen tot leven die te lang zijn onderdrukt. Dit boek is het verhaal van Iran zoals het zelden wordt verteld: van binnenuit. Een onmisbaar boek op een cruciaal moment. 'Een verhaal vol verbluffende daden van moed door Iraanse vrouwen, doordrenkt van poëzie. Voortreffelijk en onverschrokken verteld.' The Guardian </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Fatemeh Jamalpour</name>
-        </author>
-        <author>
-            <name>Nilo Tabrizy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ook leuke meisjes worden vijftig]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629305/ook-leuke-meisjes-worden-vijftig-maaike-de-vries---manon-kerkhof</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629305/ook-leuke-meisjes-worden-vijftig-maaike-de-vries---manon-kerkhof"/>
-        <updated>2026-10-02T13:24:39.528Z</updated>
-        <summary type="html"><![CDATA[Antwoorden op al je vragen over de overgang volgens de laatste wetenschappelijke inzichten]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629305?aid=kb-online-bibliotheek&sid=23&dts=1790947479287&sig=efc01e06673731d0414f1db9df84ba6eaee7e932cc789269986a789e9160eeb6&width=320" alt="Omslag van 'Ook leuke meisjes worden vijftig'" title="Omslag van 'Ook leuke meisjes worden vijftig'">
-<p>Hét standaardwerk over de overgang  Nu volledig herzien en anno 2026</p><p>Ook leuke meisjes worden vijftig van dr. Maaike de Vries & dr. Manon Kerkhof is een volledig geactualiseerd, praktisch en toegankelijk boek over de overgang voor alle vrouwen die deze fase meemaken. Opvliegers, slapeloze nachten, kilo's aankomen, geen zin in seks of het gevoel jezelf niet te zijn: de auteurs leggen uit wat er met je lichaam en hormonen gebeurt, hoe je hiermee omgaat en welke hulp er mogelijk is.</p><p>In dit boek komen onder andere de volgende onderwerpen aan bod:</p><p>Opvliegers en stemmingswisselingen Veranderingen in libido en seksualiteit Slaap, energie en mentale gezondheid Brainfog en geheugenproblemen Gewichtstoename en hormonen zoals testosteron Afvalmedicatie (GLP1) Perimenopauze: de fase voorafgaand aan de definitieve overgang Praktische tips voor voeding, beweging en zelfzorg</p><p>Dr. Maaike de Vries en dr. Manon Kerkhof vertalen de laatste wetenschappelijke inzichten naar concrete adviezen, zodat je de overgang begrijpt, kunt beïnvloeden en deze periode als een brug naar de volgende fase in je leven ziet. Het boek is eerlijk, nuchter en zeer goed onderbouwd, met duidelijke uitleg en direct toepasbare tips.  </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Maaike de Vries</name>
-        </author>
-        <author>
-            <name>Manon Kerkhof</name>
         </author>
     </entry>
     <entry>
@@ -186,70 +134,69 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De wraak van Vico]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46162916X/de-wraak-van-vico-carla-van-kollenburg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46162916X/de-wraak-van-vico-carla-van-kollenburg"/>
-        <updated>2026-10-02T13:24:40.240Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46162916X?aid=kb-online-bibliotheek&sid=23&dts=1790947480015&sig=6a2f7c26a5689b628cc7fd072ef41b7529069d53da070b19b048c771cf279d23&width=320" alt="Omslag van 'De wraak van Vico'" title="Omslag van 'De wraak van Vico'">
-<p>Yoes zit alleen in de auto en wacht op zijn zussen. Plotseling rukt een man de deur open, stapt in en scheurt weg. Yoes vraagt zich af waarom hij ontvoerd wordt. Maar al snel heeft hij meer vragen. Wie is het meisje dat ook instapt? Hoe vals is haar hond? Waarom worden ze achtervolgd door een man op een scooter? En voor wie moet Yoes echt bang zijn?  In De wraak van Vico bouwt Carla van Kollenburg de spanning steeds verder op. Met vaart, humor en onverwachte wendingen sleurt ze lezers mee in een avontuur vol mysterie, achtervolgingen en spannende keuzes. Dit AVI E5-verhala is een echte pageturner.</p><p>De boeken van de Zoeklicht-serie zijn op een laag AVI-niveau geschreven, maar wel met een superspannend verhaal dat geschikt is voor kinderen van 10 jaar en ouder. Zo maakt Zoeklicht lezen weer leuk! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Baas boven baas]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461628783/baas-boven-baas-nicole-snow</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461628783/baas-boven-baas-nicole-snow"/>
+        <updated>2026-10-03T12:10:10.867Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461628783?aid=kb-online-bibliotheek&sid=23&dts=1790956023583&sig=deb99dcec23023c763c38d5babb8c5fc48684ba9eb460514ce564574ab7ce2bf&width=320" alt="Omslag van 'Baas boven baas'" title="Omslag van 'Baas boven baas'">
+<p>Onze meet-cute was een en al lelijkheid. Hij drukte op al mijn knopjes met zijn onverwoestbare grijns. Ik beledigde zijn verwrongen moraal voor de ogen van zijn naïeve volgelingen. En toen kreeg ik een beloning, omdat ik het juiste deed. Ik ontdekte dat ik Roland Osprey mijn ‘baas’ mocht gaan noemen. Een puissant rijke roddelkoning. Met Een knappe schurk die zijn ziel heeft verkocht aan de duivel – als hij er ooit al eentje had. Een tiran die mijn tijdschrift voor muziekliefhebbers heeft gejat. Blijkbaar komt slecht nieuws in drieën. Zijn perfecte gilets die me helemaal gek maken. De manier waarop hij naar mijn lippen staart – gestift met een arsenaal aan kleuren om hem te kwellen. Onze gedeelde liefde voor droevige nummers die me aan het huilen maken. Net als de geheime opdracht die hij op mijn bordje gooit. Ik haat het dat hij een goed doel voor ogen heeft. Ik zou willen dat ik de vreemde manieren waarop hij me een goddelijk gevoel geeft kan haten. Als mijn muurtjes omlaagzakken, sta ik op het punt om een vrije val te maken. Eén allesverslindende kus in een steegje verzegelt onze epische vergissing. Hoe vaak kan één man me de blues laten zingen? En hoe zorg je ervoor dat je niet langer verliefd bent op de slechterik? Baas boven baas is het vierde en laatste deel in de serie Chicago CEO's van Nicole Snow: verslavende office romance vol spanning en humor. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Carla van Kollenburg</name>
+            <name>Nicole Snow</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Op slot]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629011/op-slot-dirk-nielandt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629011/op-slot-dirk-nielandt"/>
-        <updated>2026-10-02T13:24:40.570Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629011?aid=kb-online-bibliotheek&sid=23&dts=1790947480359&sig=793ff600be46ff75c20b089ac3425546d33e03ebb643cdc631419cbdadc3a03a&width=320" alt="Omslag van 'Op slot'" title="Omslag van 'Op slot'">
-<p>Kiran en Flo gaan met hun ouders een weekje naar een huis aan zee. Het huis ligt in de duinen, ver weg van andere huizen. Als ze op een ochtend wakker worden, zijn hun ouders er niet. Ook zitten de deuren op slot, gaan de ramen niet open en heeft hun mobiel geen bereik. Waar zijn hun ouders? Waarom zitten ze vast in dit huis? En hoe kunnen ze ontsnappen?  In Op slot laat de populaire schrijver Dirk Nielandt zien hoe een gewone vakantie kan veranderen in een zenuwslopend avontuur vol geheimen, spanning en onverwachte ontdekkingen. Een spannend AVI M4-verhaal dat je blijft lezen tot de laatste bladzijde.  De boeken van de Zoeklicht-serie zijn op een laag AVI-niveau geschreven, maar wel met een superspannend verhaal dat geschikt is voor kinderen van 10 jaar en ouder. Zo maakt Zoeklicht lezen weer leuk! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Alleen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461628821/alleen-megan-e--freeman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461628821/alleen-megan-e--freeman"/>
+        <updated>2026-10-03T12:10:11.920Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461628821?aid=kb-online-bibliotheek&sid=23&dts=1790956944326&sig=4ad7bda756d17bc9d7d2857c65e553b783f41475511a6f11fa495e37e9e9968a&width=320" alt="Omslag van 'Alleen'" title="Omslag van 'Alleen'">
+<p>Megan E. Freeman schreef met Alleen een meeslepend overlevingsverhaal over een twaalfjarig meisje dat in haar eentje moet zien te overleven. Het boek bestormde in de VS allerlei bestsellerlijsten. Alleen is een ware pageturner, waarin de auteur de lezer laat nadenken over de kracht van verbeelding en hoe verhalen in moeilijke tijden houvast kunnen bieden. Door de versvorm is dit boek ook geschikt voor moeilijke lezers. De twaalfjarige Maddie verheugt zich op een slaapfeestje met haar vriendinnen. Maar het slaapfeestje verandert in een nachtmerrie wanneer ze de volgende ochtend ontdekt dat ze helemaal alleen is. Het dorp lijkt compleet geëvacueerd te zijn, en telefoons en internet werken niet meer. Haar enige gezelschap is een rottweiler van de buren, George, en een stapel boeken. Ze moet in haar eentje zien te overleven en leren vertrouwen op haar eigen vindingrijkheid. In de maanden die volgen, overleeft ze wilde dieren en natuurrampen. Maar haar grootste vijand is de eenzaamheid. Kan Maddies koppige overlevingsdrang haar ook daaruit redden? Met achterin een uitgebreid nawoord van de auteur en tips om zelf aan de slag te gaan met het schrijven van verhalen in versvorm. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Dirk Nielandt</name>
+            <name>Megan E. Freeman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rivers of London]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461628864/rivers-of-london-ben-aaronovitch</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461628864/rivers-of-london-ben-aaronovitch"/>
-        <updated>2026-10-02T13:24:40.900Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461628864?aid=kb-online-bibliotheek&sid=23&dts=1790947480681&sig=b73cbf3449458d9ebf186dbd7ce8281a03014dcca637f52e8d8281f701858eaa&width=320" alt="Omslag van 'Rivers of London'" title="Omslag van 'Rivers of London'">
-<p>Rivers of London is het eerste deel in de gelijknamige serie van bestsellerauteur Ben Aaronovitch. Een unieke mix van nuchter politiedrama met grootscheepse fantasyelementen. De serie wordt nu verfilmd. Mijn naam is Peter Grant. Ik zat ooit in mijn proeftijd als agent in het machtige justitieleger dat alle weldenkende mensen de Metropolitan Police Service noemen. En alle andere mensen De smeris… Mijn verhaal begint wanneer ik een ooggetuigenverklaring probeerde af te nemen van een man die al dood was… Agent in opleiding Peter Grant droomde er altijd van om rechercheur te worden bij de Metropolitan Police in Londen. Maar als hij een ooggetuigenverklaring afneemt van iemand die een geest blijkt te zijn, trekt Peter de aandacht van een heel andere politieafdeling. Hoofdinspecteur Thomas Nightingale onderzoekt misdaden waarin magie en andere manifestaties van het bovennatuurlijke een rol spelen. Wanneer plots een golf van brute en bizarre moorden de stad overspoelt, wordt Peter ondergedompeld in een wereld waar goden en godinnen tussen de stervelingen lopen en een kwaad dat lang geleden gestorven had moeten zijn terugkeert op een stijgende vloed van magie… 'Ben Aaronovitch heeft een wonderlijke wereld vol mysterie, magie en fantastische personages gecreëerd. Ik ben hier liever dan in het echte Londen.' Nick Frost </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Tussen stad en land]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461628791/tussen-stad-en-land-mirjam-aarts</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461628791/tussen-stad-en-land-mirjam-aarts"/>
+        <updated>2026-10-03T12:10:14.094Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461628791?aid=kb-online-bibliotheek&sid=23&dts=1790951154981&sig=ba27e1b1a24bae6f87e7c5e89f9375f77875fda3be6e83ad317918398f0be7bc&width=320" alt="Omslag van 'Tussen stad en land'" title="Omslag van 'Tussen stad en land'">
+<p>Max runt een succesvol bedrijf en stort zich helemaal op zijn werk. Zoveel, dat hij eigenlijk niets anders meer doet dan dat. Hij ziet overal kansen, probeert elke dag beter te presteren dan de dag ervoor en alles wat in de weg zou kunnen staan van zijn succes, schuift hij aan de kant. Behalve het familiebedrijf. Hoewel het leven in de stad ongeveer het tegenovergestelde is van het leven op de boerderij, is er één ding hetzelfde: het is keihard werken. Sinds zijn zus Lara het familiebedrijf heeft overgenomen, lukt het hem niet om het helemaal los te laten. En dat brengt de nodige spanningen met zich mee. Als hij op een dag nieuws krijgt dat zijn hele leven overhoop zal gooien, staat Max voor het eerst in jaren stil bij de dromen die hij ooit had. Maar hoe maak je ruimte voor je hart, als je hele identiteit is gebouwd op succes? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Ben Aaronovitch</name>
+            <name>Mirjam Aarts</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haar laatste adem]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629038/haar-laatste-adem-taylor-adams</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629038/haar-laatste-adem-taylor-adams"/>
-        <updated>2026-10-02T13:24:41.250Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629038?aid=kb-online-bibliotheek&sid=23&dts=1790947481019&sig=166288bf73ef2035d8e96c0ff191cf552adb6f5835b9274523073a81100dcf42&width=320" alt="Omslag van 'Haar laatste adem'" title="Omslag van 'Haar laatste adem'">
-<p>Haar laatste adem is de zenuwslopende doorbraak thriller van prijswinnende scenarioschrijver en thrillerauteur Taylor Adams. Na jaren van excuses stemt Tess eindelijk in om met haar beste vriendin Allie een grottocht te maken. Hun levens zijn sinds de middelbare school flink uit elkaar gegroeid – Allie is een reisinfluencer, terwijl Tess een verlegen (en claustrofobische) juridisch assistente is die worstelt om haar rechtenstudie te betalen. Misschien is ze wel een beetje jaloers op Allies wereldreis. Wie zou dat niet zijn? Terwijl ze de diepte in afdalen, merken ze echter dat ze niet alleen zijn. Ze worden achtervolgd… en dan gaat het mis. Tess zit vast in een nauwe kruipruimte, honderden meters onder de grond, vechtend om in leven te blijven.  24 uur later komt Tess bij in het ziekenhuis, en deelt een rechercheur schokkende geheimen met haar over Allies verleden. Waarom had iemand het op hen gemunt? En liet Tess het gevaar echt achter zich toen ze uit de grot ontsnapte?  'Een zenuwslopende thriller… De actie leidt naar een climactisch en emotioneel geladen einde.' Publishers Weekly 'Taylor Adams' thriller beweegt zich met een snelheid van ongeveer 240 kilometer per uur voort tot de slotscène, die kalm en teder is... Een thriller die deels een actiefilm is en deels een ontroerende overpeinzing over morele verantwoordelijkheid binnen het gezin.' The Washington Post </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een moment van genade]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629135/een-moment-van-genade-peter-grainger</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629135/een-moment-van-genade-peter-grainger"/>
+        <updated>2026-10-05T15:27:07.048Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629135?aid=kb-online-bibliotheek&sid=23&dts=1791214026526&sig=968601aaa42838fdfc2c9b8fd5c39a6d410a1217c38987c214b2440cd9514153&width=320" alt="Omslag van 'Een moment van genade'" title="Omslag van 'Een moment van genade'">
+<p>Boek 2 in de Rechercheur Smith-serie van Peter Grainger. Een schijnbaar natuurlijke dood. Een ontdekking die alles verandert. Verzorgingshuis Rosemary House, wordt bewoond door mensen in de herfst van hun leven. Dus wanneer een bewoner op een winterse avond levenloos in haar stoel wordt gevonden, is niemand verrast—tot de autopsie iets opmerkelijks onthult. Rechercheur Smith en zijn team worden ingeschakeld, maar dit onderzoek vraagt om uiterste voorzichtigheid. Terwijl Smith de waarheid probeert te achterhalen, wordt hij geconfronteerd met herinneringen die hij liever zou vergeten. En alsof dat nog niet genoeg is, lijken er krachten aan het werk die hem liever zien vertrekken bij de politie. Terwijl Kings Lake wacht op de eerste sneeuw van een eindeloze winter, komt Smith steeds dichter bij een waarheid die sommigen liever verborgen houden. Maar wat speelt er nou precies achter de vriendelijke facade van het tehuis? En hoe ver is men bereid te gaan om geheimen te bewaren? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Taylor Adams</name>
+            <name>Peter Grainger</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dertigers, dromen en dilemma's]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629526/dertigers--dromen-en-dilemma-s-wieke-veenboer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629526/dertigers--dromen-en-dilemma-s-wieke-veenboer"/>
-        <updated>2026-10-02T13:24:41.572Z</updated>
-        <summary type="html"><![CDATA[Over liefde, carrière, een huis (niet kunnen) kopen, een kinderwens hebben (of niet) en andere vragen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629526?aid=kb-online-bibliotheek&sid=23&dts=1790947481361&sig=6906af759e9f92d46e98ace63aebb8f6a069786914a0245f775951f1a8a44c71&width=320" alt="Omslag van 'Dertigers, dromen en dilemma's'" title="Omslag van 'Dertigers, dromen en dilemma's'">
-<p>'Met dit boek wil ik lezers geruststellen, laten lachen, en tegelijkertijd de inzichten van professionals bieden die ik zelf graag had gehad toen ik dertig werd.' – Wieke Veenboer Dertigers, dromen en dilemma's van Wieke Veenboer is een herkenbaar, luchtig én onderbouwd boek voor alle dertigers voor wie het lijkt alsof het volwassen leven niet van een leien dakje gaat. Veel dertigers worstelen met prestatiedruk, onzekerheid en het gevoel dat anderen het wél op orde hebben. Wieke Veenboer laat zien waar dit gevoel vandaan komt: sociale media, economische druk, veranderende vriendschappen en de mythe van het perfecte leven. Met humor en praktische inzichten biedt ze troost, herkenning en realistische verwachtingen. In bespreekt Wieke vragen als:  &middot; Wil ik dit carrièrepad wel bewandelen?  &middot; Waarom ben ik nog single?  &middot; Moet ik mijn eitjes invriezen? &middot; Zal ik ooit een huis kunnen kopen?  &middot; Waarom zie ik sommige vrienden nooit meer? &middot; En meer! Voor iedereen die soms denkt: moet ik niet verder zijn? Dit boek laat zien: je bent absoluut niet de enige. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De Cock en het lijk in de kerstnacht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629291/de-cock-en-het-lijk-in-de-kerstnacht-a-c--baantjer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629291/de-cock-en-het-lijk-in-de-kerstnacht-a-c--baantjer"/>
+        <updated>2026-10-05T15:27:07.744Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629291?aid=kb-online-bibliotheek&sid=23&dts=1791214027154&sig=39eb24007702005c0ab430fc41ab5cfd9260f7770d8301f197657512e10de34b&width=320" alt="Omslag van 'De Cock en het lijk in de kerstnacht'" title="Omslag van 'De Cock en het lijk in de kerstnacht'">
+<p>Het is Kerstnacht als een surveillerende agent een lijk in de Amsterdamse Herengracht ziet drijven. Bij de sectie blijkt ze niet alleen gewurgd, maar ook zwanger te zijn. 'Stille getuigen' uit het gevonden tasje van de vermoorde wijzen in de richting van twee mannen die een rol in haar leven gespeeld hebben. De verloofde kan de moord niet gepleegd hebben, maar wie is de tweede man? Om nog iets aan zijn vrije Kerstdagen te hebben wil De Cock de zaak snel afhandelen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Wieke Veenboer</name>
+            <name>A.C. Baantjer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mijn laatste radiojaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629704/mijn-laatste-radiojaar-frits-spits</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629704/mijn-laatste-radiojaar-frits-spits"/>
-        <updated>2026-10-02T13:24:41.892Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629704?aid=kb-online-bibliotheek&sid=23&dts=1790947481674&sig=8ace74b75dbf775daee74098a0723bae680afc5e3fd813bd5e268e8ffacdfa7d&width=320" alt="Omslag van 'Mijn laatste radiojaar'" title="Omslag van 'Mijn laatste radiojaar'">
-<p>Frits Spits, de auteur van Mijn laatste radiojaar, is een van de bekendste radiomakers van Nederland – verkozen tot radiomaker van de eeuw – en gerenommeerd biograaf van het Nederlandse lied.  Toen hij besloot dat hij zou gaan stoppen met De Taalstaat en 2025 zijn laatste radiojaar zou worden, begon hij dagelijks een dagboek bij te houden, waarin hij reflecteert op zijn carrière, zijn familie, de wereld om hem heen en hoe hij al zijn hele leven rust, vrolijkheid en troost vindt in taal en muziek.  Radio maken was het werk dat Spits liefhad, en daarmee werd dit dagboek een liefdesverklaring aan de radio, aan de taal, aan de muziek én aan het leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Opstandig hart]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629151/opstandig-hart-jagger-cole</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629151/opstandig-hart-jagger-cole"/>
+        <updated>2026-10-05T15:27:08.372Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629151?aid=kb-online-bibliotheek&sid=23&dts=1791214027862&sig=68d7b1155e6f4a67fc980ca0f20e0c8a6a420f0a9febba5036f4058dcd27cc5d&width=320" alt="Omslag van 'Opstandig hart'" title="Omslag van 'Opstandig hart'">
+<p>Om een maffiaoorlog te stoppen, moet de Ierse Neve trouwen met haar aartsvijand. Een brute, dominante en dodelijk mooie kerel met een lichaam dat gemaakt is voor geweld. Ares Drakos, de nieuwe baas van de Drakos-maffiafamilie, is in alles de god van de oorlog waar hij naar vernoemd is. En nu is ze van hem. Hun onheilige verbintenis is bedoeld om een einde te maken aan het bloedvergieten tussen de Ieren en de Grieken. Een huwelijk waar de duivel tussen slaapt. En als ze het niet kunnen laten om elkaar te vermoorden, zou 'tot de dood ons scheidt' weleens kunnen gebeuren voordat ze 'ja' kunnen zeggen. Maar dan, langzaamaan, verandert hun relatie in iets anders. Iets duisters, gevaarlijks en heerlijk afwijkends. De god van de oorlog dringt haar bed, haar dromen en al haar zondige verlangens binnen. Maar er is één ding dat hij nooit zal veroveren. Haar hart. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Frits Spits</name>
+            <name>Jagger Cole</name>
         </author>
     </entry>
     <entry>
@@ -264,15 +211,48 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hoop]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629143/hoop-niall-harbison</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629143/hoop-niall-harbison"/>
-        <updated>2026-10-02T13:24:43.184Z</updated>
-        <summary type="html"><![CDATA[Wat zwerfhonden mij leerden over de betekenis van het leven]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629143?aid=kb-online-bibliotheek&sid=23&dts=1790947482754&sig=74fed1802c4f1bfc33e525d941071d187108ed87694a3c613160918e7e513277&width=320" alt="Omslag van 'Hoop'" title="Omslag van 'Hoop'">
-<p>Niall Harbison neemt je in Hoop mee in zijn wonderbaarlijke tocht. Na jaren van zelfdestructie en verslaving belandt hij op een dieptepunt in zijn leven. Maar in Thailand vindt hij onverwachts een nieuw doel: het redden van zwerfhonden. Wat volgt is een indrukwekkende transformatie van persoonlijke ondergang naar hoop en betekenis. Dit inspirerende en ontroerende boek laat je niet onberoerd. Hoop is een krachtig verhaal over herstel, mededogen en de moed om opnieuw te beginnen.</p><p>&middot; Een verhaal over het vinden van betekenis in het leven  &middot; Zacht, persoonlijk en ontroerend  &middot; Fan van A Street Cat Named Bob? Dan moet je dit boek zéker lezen  &middot; Het verhaal achter Happy Doggo youtube kanaal (@wearehappydoggo) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Geen grip]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461628708/geen-grip-carin-vijfhuizen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461628708/geen-grip-carin-vijfhuizen"/>
+        <updated>2026-10-05T15:27:09.674Z</updated>
+        <summary type="html"><![CDATA[Een tragedie over de duistere werking van een koeiengriepvaccin]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461628708?aid=kb-online-bibliotheek&sid=23&dts=1791214028726&sig=e69c110df27705bf9633a8bccc273787ae9ef058c80bd1dbc8aa4e1960f692ec&width=320" alt="Omslag van 'Geen grip'" title="Omslag van 'Geen grip'">
+<p>Eind jaren negentig moest Nederland koeiengriepvrij worden. Een verplichte, grootschalige vaccinatiecampagne tegen IBR zou de sector redden. Wat een triomf had moeten worden, ontaardde in een nachtmerrie. Tienduizenden dieren werden ziek na de enting - sommigen zo ernstig dat veehouders gedwongen hun complete stal lieten ruimen. Duizenden bedrijven meldden problemen, nog veel meer zwegen uit angst of wanhoop. Slechts een handvol boeren kreeg iets vergoed. De rest bleef met lege handen en gebroken levens achter. Jarenlang vochten een paar doorzetters, hun advocaten en een bevlogen onderzoeker voor gerechtigheid. Tot in 2020 een geheim rapport boven water kwam dat alles op zijn kop zette en nieuw licht wierp op wat er werkelijk misging. Dit boek reconstrueert de dramatische IBR-ramp van 1998 tot 2025: de traumatische verhalen van de gedupeerden, de slopende rechtszaken, de zoektocht naar de waarheid - én het geeft de inzichten die deze lange reis heeft opgeleverd. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Niall Harbison</name>
+            <name>Carin Vijfhuizen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop de film!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461628996/stop-de-film--esther-van-lieshout</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461628996/stop-de-film--esther-van-lieshout"/>
+        <updated>2026-10-02T13:24:44.238Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461628996?aid=kb-online-bibliotheek&sid=23&dts=1790947483982&sig=a4e3aba172ac0e5aa403266408da42eb3cb501c0890045fca8088faa0bb278ee&width=320" alt="Omslag van 'Stop de film!'" title="Omslag van 'Stop de film!'">
+<p>Evelien en Rajan lopen langs een oude bios. Op een scherm naast de ingang staat dat er een gratis film draait. Als ze een kijkje in de lege filmzaal nemen, vraagt een stem vanuit het donker: 'Wat voor avontuur wil je?' Evelien en Rajan denken dat het een soort Virtual Reality is en verzinnen een spannend avontuur. Maar als ze in een tweede avontuur vast komen te zitten en de film niet meer stopt, vinden Evelien en Rajan het niet meer leuk. Ze willen eruit. Maar hoe?  In Stop de film! voelt het alsof je zelf midden in een spannende film bent beland. Esther van Lieshout wisselt actie, mysterie en spanning in hoog tempo af, waardoor je dit AVI E4-verhaal blijft doorlezen.  De boeken van de Zoeklicht-serie zijn op een laag AVI-niveau geschreven, maar wel met een superspannend verhaal dat geschikt is voor kinderen van 10 jaar en ouder. Zo maakt Zoeklicht lezen weer leuk! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Esther van Lieshout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haar laatste adem]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629038/haar-laatste-adem-taylor-adams</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629038/haar-laatste-adem-taylor-adams"/>
+        <updated>2026-10-02T13:24:41.250Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629038?aid=kb-online-bibliotheek&sid=23&dts=1790947481019&sig=166288bf73ef2035d8e96c0ff191cf552adb6f5835b9274523073a81100dcf42&width=320" alt="Omslag van 'Haar laatste adem'" title="Omslag van 'Haar laatste adem'">
+<p>Haar laatste adem is de zenuwslopende doorbraak thriller van prijswinnende scenarioschrijver en thrillerauteur Taylor Adams. Na jaren van excuses stemt Tess eindelijk in om met haar beste vriendin Allie een grottocht te maken. Hun levens zijn sinds de middelbare school flink uit elkaar gegroeid – Allie is een reisinfluencer, terwijl Tess een verlegen (en claustrofobische) juridisch assistente is die worstelt om haar rechtenstudie te betalen. Misschien is ze wel een beetje jaloers op Allies wereldreis. Wie zou dat niet zijn? Terwijl ze de diepte in afdalen, merken ze echter dat ze niet alleen zijn. Ze worden achtervolgd… en dan gaat het mis. Tess zit vast in een nauwe kruipruimte, honderden meters onder de grond, vechtend om in leven te blijven.  24 uur later komt Tess bij in het ziekenhuis, en deelt een rechercheur schokkende geheimen met haar over Allies verleden. Waarom had iemand het op hen gemunt? En liet Tess het gevaar echt achter zich toen ze uit de grot ontsnapte?  'Een zenuwslopende thriller… De actie leidt naar een climactisch en emotioneel geladen einde.' Publishers Weekly 'Taylor Adams' thriller beweegt zich met een snelheid van ongeveer 240 kilometer per uur voort tot de slotscène, die kalm en teder is... Een thriller die deels een actiefilm is en deels een ontroerende overpeinzing over morele verantwoordelijkheid binnen het gezin.' The Washington Post </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Taylor Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De stilte voor de storm]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46162883X/de-stilte-voor-de-storm-clare-leslie-hall</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46162883X/de-stilte-voor-de-storm-clare-leslie-hall"/>
+        <updated>2026-10-03T12:10:14.650Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46162883X?aid=kb-online-bibliotheek&sid=23&dts=1790951206683&sig=01e5f959f4b8e8fed6f9a172cd4cc845b29016863e666ff27af0e54235637fa2&width=320" alt="Omslag van 'De stilte voor de storm'" title="Omslag van 'De stilte voor de storm'">
+<p>Haar stilte heeft hem gebroken. Alleen de waarheid kan hen bevrijden. Catherine heeft iets zo traumatisch meegemaakt dat ze niet kan – of niet wil – spreken. De artsen zeggen dat de enige weg vooruit is om haar verleden onder ogen te zien. Vijftien jaar geleden ontmoette Catherine de liefde van haar leven op de universiteit. Lucian was charmant, aanbad haar, en ze werd meegezogen in de hedonistische, zorgeloze levensstijl van zijn rijke vrienden. Ze waren onafscheidelijk – tot Catherine op een ochtend zonder een woord vertrok. Ze trouwde, kreeg twee kinderen, en was ervan overtuigd dat ze hem achter zich had gelaten. Maar wanneer ze onverwachts weer met Lucian in contact komt, komen de herinneringen aan hun betoverende liefdesaffaire in alle hevigheid terug. Ze zouden opnieuw dat meisje en die jongen kunnen zijn – en het dit keer goed doen. Maar daarvoor moet Catherine hem vertellen waarom ze hem al die jaren geleden verliet. Zij heeft met de waarheid geleefd. Maar kan hij dat ook? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Clare Leslie Hall</name>
         </author>
     </entry>
     <entry>
@@ -288,39 +268,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kleine verslavingen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629208/kleine-verslavingen-catherine-gray</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629208/kleine-verslavingen-catherine-gray"/>
-        <updated>2026-10-02T13:24:43.877Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629208?aid=kb-online-bibliotheek&sid=23&dts=1790947483624&sig=45002fd111fce77adaeeaf15631fde0d77eb18ba88dadd0515340549231ae91b&width=320" alt="Omslag van 'Kleine verslavingen'" title="Omslag van 'Kleine verslavingen'">
-<p>In Kleine verslavingen bespreekt Catherine Gray verslavingen die zo klein zijn dat je geen nee hoeft te zeggen. Schermtijd, suiker, nicotine, porno, onlineshopping: allemaal goedkoop, zonder al te veel invloed op je gezondheid, portemonnee of relaties. Dus wat maakt het uit? Maar opgeteld hebben al deze kleine verslavingen een gigantische impact. Op basis van recent wetenschappelijke onderzoek geeft Catherine Gray in dit urgente boek talloze tips en tricks om inzicht te krijgen in je kleine verslavingen en dwangmatigheden en deze écht onder controle te krijgen. Zodat je meer gemoedsrust, geld, tijd, geluk en gezondheid terugkrijgt. In Grays unieke en meeslepende stijl garandeert dit boek dat je zult stilstaan, nadenken, zelfs lachen, en dat je alles zult herzien waarvan je dacht dat je het wist. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Monsters in het archief]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46162902X/monsters-in-het-archief-caroline-bicks</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46162902X/monsters-in-het-archief-caroline-bicks"/>
+        <updated>2026-10-03T12:10:11.373Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46162902X?aid=kb-online-bibliotheek&sid=23&dts=1790962265662&sig=5f596edfadb0db1bb8ee6320b729773f7c79552eeee6ace3172c758905deb355&width=320" alt="Omslag van 'Monsters in het archief'" title="Omslag van 'Monsters in het archief'">
+<p>Monsters in het archief biedt unieke inzichten in het schrijfproces van de verhalende grootmeester Stephen King, en de oorsprong van enkele van zijn meest memorabele personages en boeken, zoals Carrie, De shining, Pet Sematary en Salem's Lot. Caroline Bicks bekleedt de Stephen E. King-leerstoel in Literatuur en is de eerste wetenschapper die volledige toegang heeft tot alle vroege versies van Kings meest iconische werken. Tegelijkertijd vertelt Bicks over haar 'jaar vol angst' met King, over een literatuurprofessor die haar jeugdangsten onder ogen komt en de openhartige, zachtaardige schrijver leert kennen die voor die angsten verantwoordelijk is. Monsters in het archief – geautoriseerd door Stephen King zelf – is anders dan alles wat ooit is gepubliceerd over de meester van de horror. Het is een literaire masterclass, een biografie, een memoir en een onderzoek naar onze diepste angsten. Het beschrijft wat Bicks ontdekte toen ze op zoek ging naar de manier waarop King enkele van zijn engste, meest iconische momenten creëerde.  'Een feest voor Stephen King-fans.' Paul Tremblay 'Een masterclass in vakmanschap - en een kijkje achter de schermen.' Stephen Graham Jones </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Catherine Gray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop de film!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461628996/stop-de-film--esther-van-lieshout</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461628996/stop-de-film--esther-van-lieshout"/>
-        <updated>2026-10-02T13:24:44.238Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461628996?aid=kb-online-bibliotheek&sid=23&dts=1790947483982&sig=a4e3aba172ac0e5aa403266408da42eb3cb501c0890045fca8088faa0bb278ee&width=320" alt="Omslag van 'Stop de film!'" title="Omslag van 'Stop de film!'">
-<p>Evelien en Rajan lopen langs een oude bios. Op een scherm naast de ingang staat dat er een gratis film draait. Als ze een kijkje in de lege filmzaal nemen, vraagt een stem vanuit het donker: 'Wat voor avontuur wil je?' Evelien en Rajan denken dat het een soort Virtual Reality is en verzinnen een spannend avontuur. Maar als ze in een tweede avontuur vast komen te zitten en de film niet meer stopt, vinden Evelien en Rajan het niet meer leuk. Ze willen eruit. Maar hoe?  In Stop de film! voelt het alsof je zelf midden in een spannende film bent beland. Esther van Lieshout wisselt actie, mysterie en spanning in hoog tempo af, waardoor je dit AVI E4-verhaal blijft doorlezen.  De boeken van de Zoeklicht-serie zijn op een laag AVI-niveau geschreven, maar wel met een superspannend verhaal dat geschikt is voor kinderen van 10 jaar en ouder. Zo maakt Zoeklicht lezen weer leuk! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Esther van Lieshout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opgesloten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629127/opgesloten-eva-amores---matt-cosgrove</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629127/opgesloten-eva-amores---matt-cosgrove"/>
-        <updated>2026-10-02T13:24:44.593Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629127?aid=kb-online-bibliotheek&sid=23&dts=1790947484362&sig=3874c1d2e0ad3d7506a71ab62c5c18b5b45a2230f3b79c659d3943f96a80743e&width=320" alt="Omslag van 'Opgesloten'" title="Omslag van 'Opgesloten'">
-<p>Na Stomste week ooit!, de internationale bestsellerserie van Eva Amores en Matt Cosgrove, is er nu Stomste huisdieren ooit!. In Opgesloten, het eerste deel van deze serie voor 6+, krijgt kat Kapitein Pluizenbol het zwaar te verduren. Deze serie is uitermate geschikt voor kinderen die nog niet zo lang lezen of moeite hebben met lezen en bevat vrolijke illustraties met een steunkleur. Kapitein Pluizenbol (de ellendigste kat op de planeet), Diever (de kwijlende hond die van stelen houdt) en Brutus (het piepkleine, verwende keffertje) zijn opgesloten in een streng beveiligde academie voor stoute huisdieren. En ze vinden het de stomste plek ooit! Er zijn te veel regels, het dagelijkse rooster is een nachtmerrie en de leraren zijn verschrikkelijk - om over het eten nog maar te zwijgen. De drie dieren zien maar één uitweg: de krachten bundelen en ontsnappen uit deze stomste gevangenis ooit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Eva Amores</name>
-        </author>
-        <author>
-            <name>Matt Cosgrove</name>
+            <name>Caroline Bicks</name>
         </author>
     </entry>
     <entry>
@@ -335,25 +290,59 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In het donker]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461628872/in-het-donker-lina-areklew</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461628872/in-het-donker-lina-areklew"/>
-        <updated>2026-10-02T13:24:45.290Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461628872?aid=kb-online-bibliotheek&sid=23&dts=1790947485077&sig=5194bf9d463574603342e64d71fda1a4ba7031d87b8d0748a70067b07a652ef4&width=320" alt="Omslag van 'In het donker'" title="Omslag van 'In het donker'">
-<p>In het donker is het bloedstollende vervolg op De hoge kust, en het tweede deel in de gelijknamige serie van de Zweedse bestsellerauteur Lina Areklew. Op een ijskoude winternacht verdwijnt een vierjarig meisje uit het vakantiehuis van haar familie buiten Örnsköldsvik. Heeft ze het huis vrijwillig verlaten? Of is ze meegenomen? De vragen stapelen op naarmate er steeds meer mensen zich met de zaak gaan bemoeien.  Dan blijkt al snel dat er wéér een familielid is verdwenen. Sofia Hjortén en haar collega's worden ingeschakeld om de zoektocht naar de verdwenen familieleden door te zetten.  Ondertussen strijdt Fredrik tegen PTSS, het verlangen om zijn politiecarrière te hervatten en de nooit verdwijnende gedachte dat zijn broer Niklas de Estonische ramp misschien wel heeft overleefd.  'Zowel de plotopbouw als de ontwikkeling van de personages zijn minstens van hetzelfde hoge niveau als in het eerste boek; van de vaak genoemde 'tweede boek-rillingen' voel je er geen enkele.' Kapprakt </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De bizarre bankroof]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629429/de-bizarre-bankroof-ferry-piekart</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629429/de-bizarre-bankroof-ferry-piekart"/>
+        <updated>2026-10-05T15:27:10.386Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629429?aid=kb-online-bibliotheek&sid=23&dts=1791214029789&sig=6e1ea8762d1d39fc7a8d3eee4110fc7a39d673226733ce0ad0f74999a2e0939b&width=320" alt="Omslag van 'De bizarre bankroof'" title="Omslag van 'De bizarre bankroof'">
+<p>Als er bankrovers gespot worden, is de honderdjarige Ted bang dat ze zijn oude zitbank zullen stelen. Met hulp van Nisa en Flim bewaart hij de bank in een kluis, maar juist daardoor worden de bankrovers nieuwsgierig. Met zwart-witafbeeldingen. AVI M5. Makkelijk te lezen. Vanaf ca. 9 jaar.</p>]]></content>
         <author>
-            <name>Lina Areklew</name>
+            <name>Ferry Piekart</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De Hellepoort]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461629054/de-hellepoort-anthony-ryan</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461629054/de-hellepoort-anthony-ryan"/>
-        <updated>2026-10-04T12:59:01.238Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629054?aid=kb-online-bibliotheek&sid=23&dts=1791101741290&sig=c79edb26bd5df7c8228c3d688315ad734a6699681c42c489a00019f8524aef5a&width=320" alt="Omslag van 'De Hellepoort'" title="Omslag van 'De Hellepoort'">
-<p>Met De Hellepoort komt Anthony Ryans epische Zeven Zwaarden-saga tot een magnifiek einde. Valkeris – De eeuwenoude zetel van het gevallen rijk dat ooit over de uitgestrekte vijf zeeën regeerde. Hier zal de Hellepoort opkomen en vernietiging over de wereld ontketenen, tenzij de dragers van de vervloekte demonzwaarden het kunnen stoppen.  Guyime, de onsterfelijke drager van het Naamloze Zwaard, leidt zijn groep buitenbeentjes naar de duistere, spookachtige ruïnes onder het oude Valkeris. Daar moeten ze de dodelijke vallen overleven die de aartsdemon Kalthraxis voor hen heeft uitgezet terwijl hij zich haast om de Hellepoort te openen en monsterlijke legioenen los te laten. Liefde, loyaliteit en moed zullen op de proef worden gesteld en er zal een verschrikkelijke prijs worden geëist voor de redding van de wereld. Is Guyime bereid die te betalen? 'Ryan houdt zich niet in in deze volkomen bevredigende conclusie van De Zeven Zwaarden-serie.' Publisher's Weekly </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De wraak van Vico]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46162916X/de-wraak-van-vico-carla-van-kollenburg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46162916X/de-wraak-van-vico-carla-van-kollenburg"/>
+        <updated>2026-10-02T13:24:40.240Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46162916X?aid=kb-online-bibliotheek&sid=23&dts=1790947480015&sig=6a2f7c26a5689b628cc7fd072ef41b7529069d53da070b19b048c771cf279d23&width=320" alt="Omslag van 'De wraak van Vico'" title="Omslag van 'De wraak van Vico'">
+<p>Yoes zit alleen in de auto en wacht op zijn zussen. Plotseling rukt een man de deur open, stapt in en scheurt weg. Yoes vraagt zich af waarom hij ontvoerd wordt. Maar al snel heeft hij meer vragen. Wie is het meisje dat ook instapt? Hoe vals is haar hond? Waarom worden ze achtervolgd door een man op een scooter? En voor wie moet Yoes echt bang zijn?  In De wraak van Vico bouwt Carla van Kollenburg de spanning steeds verder op. Met vaart, humor en onverwachte wendingen sleurt ze lezers mee in een avontuur vol mysterie, achtervolgingen en spannende keuzes. Dit AVI E5-verhala is een echte pageturner.</p><p>De boeken van de Zoeklicht-serie zijn op een laag AVI-niveau geschreven, maar wel met een superspannend verhaal dat geschikt is voor kinderen van 10 jaar en ouder. Zo maakt Zoeklicht lezen weer leuk! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Anthony Ryan</name>
+            <name>Carla van Kollenburg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dertigers, dromen en dilemma's]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629526/dertigers--dromen-en-dilemma-s-wieke-veenboer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629526/dertigers--dromen-en-dilemma-s-wieke-veenboer"/>
+        <updated>2026-10-02T13:24:41.572Z</updated>
+        <summary type="html"><![CDATA[Over liefde, carrière, een huis (niet kunnen) kopen, een kinderwens hebben (of niet) en andere vragen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629526?aid=kb-online-bibliotheek&sid=23&dts=1790947481361&sig=6906af759e9f92d46e98ace63aebb8f6a069786914a0245f775951f1a8a44c71&width=320" alt="Omslag van 'Dertigers, dromen en dilemma's'" title="Omslag van 'Dertigers, dromen en dilemma's'">
+<p>'Met dit boek wil ik lezers geruststellen, laten lachen, en tegelijkertijd de inzichten van professionals bieden die ik zelf graag had gehad toen ik dertig werd.' – Wieke Veenboer Dertigers, dromen en dilemma's van Wieke Veenboer is een herkenbaar, luchtig én onderbouwd boek voor alle dertigers voor wie het lijkt alsof het volwassen leven niet van een leien dakje gaat. Veel dertigers worstelen met prestatiedruk, onzekerheid en het gevoel dat anderen het wél op orde hebben. Wieke Veenboer laat zien waar dit gevoel vandaan komt: sociale media, economische druk, veranderende vriendschappen en de mythe van het perfecte leven. Met humor en praktische inzichten biedt ze troost, herkenning en realistische verwachtingen. In bespreekt Wieke vragen als:  &middot; Wil ik dit carrièrepad wel bewandelen?  &middot; Waarom ben ik nog single?  &middot; Moet ik mijn eitjes invriezen? &middot; Zal ik ooit een huis kunnen kopen?  &middot; Waarom zie ik sommige vrienden nooit meer? &middot; En meer! Voor iedereen die soms denkt: moet ik niet verder zijn? Dit boek laat zien: je bent absoluut niet de enige. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Wieke Veenboer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metty Jones en het schaduwkompas]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629496/metty-jones-en-het-schaduwkompas-philippa-leathley</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629496/metty-jones-en-het-schaduwkompas-philippa-leathley"/>
+        <updated>2026-10-01T14:04:34.986Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629496?aid=kb-online-bibliotheek&sid=23&dts=1790859715064&sig=ab14bb657708f1ba4358d56a73252be2bab119cc7f5f2d40d28738cfb0ab3591&width=320" alt="Omslag van 'Metty Jones en het schaduwkompas'" title="Omslag van 'Metty Jones en het schaduwkompas'">
+<p>Metty Jones en het schaduwkompas is het magische tweede deel van de verslavende Vloek van inkt-serie van Philippa Leathley. Eerder verscheen Vloek van inkt - Metty Jones en de schedeltattoo.  Metty wordt uitgenodigd om zich aan te sluiten bij een genootschap voor mensen met bijzondere gaven. Maar waarom zou ze vertrouwen op een groep die haar magie wil gebruiken? Als een afperser het duistere geheim van haar tante Fiek driegt te onthullen, beseft Metty dat ze het machtige genootschap nodig heeft om haar familie te beschermen. In ruil voor hun hulp moet ze eerst een aantal gevaarlijke opdrachten uitvoeren - en daarbij alle regels van tante Fiek overtreden. Terwijl de tijd dringt, moet Metty de grenzen van haar eigen krachten onder ogen zien. Maar hoever is ze bereid te gaan om haar familie te beschermen? In deze avontuurlijke serie neemt Philippa Leathley je mee naar een wereld met zwevende steden, kronkelende straatjes vol geheimen, een gevaarlijke bibliotheek en een ondergronds genootschap. In deze serie wil ieder kind wel wonen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Philippa Leathley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamer 706]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461629178/kamer-706-ellie-levenson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461629178/kamer-706-ellie-levenson"/>
+        <updated>2026-10-05T15:27:11.084Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461629178?aid=kb-online-bibliotheek&sid=23&dts=1791214030508&sig=3ead8240137925fe703d736caa88bd46bc6f46990052ccaef61e6bbb1341d6eb&width=320" alt="Omslag van 'Kamer 706'" title="Omslag van 'Kamer 706'">
+<p>Een vrouw staat altijd klaar voor haar gezin, maar zoekt af en toe in het geheim ontspanning bij een ander in een hotel. Tijdens zo’n afspraak wordt het hotel overvallen door gijzelnemers. Terwijl het nieuws zich landelijk verspreidt, dreigt haar verborgen leven openbaar te worden.</p>]]></content>
+        <author>
+            <name>Ellie Levenson</name>
         </author>
     </entry>
 </feed>
