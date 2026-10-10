@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-10-09T14:02:21.120Z</updated>
+    <updated>2026-10-10T13:10:51.678Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[En dan nog iets]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447118110/en-dan-nog-iets-paulien-cornelisse</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447118110/en-dan-nog-iets-paulien-cornelisse"/>
+        <updated>2026-10-10T13:10:44.103Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447118110?aid=kb-online-bibliotheek&sid=23&dts=1791637826863&sig=48c0f8b2cb9e56d9b5b6fc9d75d19c8136576a1be34a5af8854d6ccb12f8de54&width=320" alt="Omslag van 'En dan nog iets'" title="Omslag van 'En dan nog iets'">
+<p>Wat is het verschil tussen leuk en leuk-leuk? Wat zijn de fijnere nuances van nazi-Duits en porno-Duits? Wat is nouveau kak? En dan nog iets is de opvolger van Taal is zeg maar echt mijn ding. Ook dit boek staat weer vol met even onnuttige als amusante analyses van ons taalgebruik. Niet over hoe mensen met elkaar zouden moeten praten, maar over hoe ze dat per ongeluk doen.</p><p> Op ongeëvenaarde wijze laat Paulien Cornelisse ons van het Nederlands houden </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Paulien Cornelisse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taal is zeg maar echt mijn ding]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444538267/taal-is-zeg-maar-echt-mijn-ding-paulien-cornelisse</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444538267/taal-is-zeg-maar-echt-mijn-ding-paulien-cornelisse"/>
+        <updated>2026-10-10T13:10:44.716Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444538267?aid=kb-online-bibliotheek&sid=23&dts=1791591750505&sig=714c3de7b5357dfa41ac48a5622da400d68b3e2b6780ed694b6cf69833950ef6&width=320" alt="Omslag van 'Taal is zeg maar echt mijn ding'" title="Omslag van 'Taal is zeg maar echt mijn ding'">
+<p>Taal is zeg maar echt mijn ding gaat over taal. Niet over hoe mensen met elkaar zouden moeten praten, maar over hoe ze dat per ongeluk doen. Waarom mensen die zeggen als ik even heel eerlijk ben eng zijn. Waarom focking niet hetzelfde is als fucking en seks niet hetzelfde als sex. Waarom oké het nieuwe ja is en ieuw het nieuwe urlg. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Paulien Cornelisse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De verwarde cavia]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/401940616/de-verwarde-cavia-paulien-cornelisse</id>
@@ -93,6 +115,85 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De onzichtbare drempel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461734028/de-onzichtbare-drempel-henk-jan-kamsteeg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461734028/de-onzichtbare-drempel-henk-jan-kamsteeg"/>
+        <updated>2026-10-09T14:02:06.506Z</updated>
+        <summary type="html"><![CDATA[De cruciale stap naar dienend leiderschap]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461734028?aid=kb-online-bibliotheek&sid=23&dts=1791554525925&sig=e39c561b0351cb5e237e23af571f1f2f1e79644f779631edeae1354a36494b40&width=320" alt="Omslag van 'De onzichtbare drempel'" title="Omslag van 'De onzichtbare drempel'">
+<p>Lucas heeft een goedlopend bedrijf, een directieteam dat weet hoe het werkt en een groeiend gevoel dat er iets ontbreekt. Als hij zijn team meeneemt naar een abdij in Zuid-Limburg, verwacht niemand wat er komen gaat: geen agenda, geen PowerPoints en een kloosterbroeder die hen met één vraag de motregen instuurt: Waarom wil je in vredesnaam leidinggevende zijn? Wat volgt is een eerlijk, soms ongemakkelijk, portret van vijf mensen die ontdekken hoe ver ze van zichzelf zijn afgedwaald. Want ergens tussen de targets, de vergaderingen en de dagelijkse drukte zijn ze vergeten waarom ze ooit 'ja' hebben gezegd tegen die rol. In De onzichtbare drempel laat Henk Jan Kamsteeg zien dat leiderschap geen kwestie is van de juiste antwoorden geven, maar van de moed hebben de juiste vragen te stellen. Een boek voor leidinggevenden die voelen dat er meer in zit – in hun team, in hun organisatie, en in henzelf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Henk Jan Kamsteeg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De strafstoel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461734001/de-strafstoel-annemarie-van-niekerk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461734001/de-strafstoel-annemarie-van-niekerk"/>
+        <updated>2026-10-09T14:02:10.507Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461734001?aid=kb-online-bibliotheek&sid=23&dts=1791554529965&sig=5e6bfd4702b7df3d70c83e8c9398a0f8ac8c7de910126f72fbb30de0bb8d9d6a&width=320" alt="Omslag van 'De strafstoel'" title="Omslag van 'De strafstoel'">
+<p>Ada's leven is vastgelopen. Op uitnodiging van haar vriendin Mel keert ze terug naar de plek van haar jeugd, de boerderij Bloukoeniekraal aan een rivier in Zuid-Afrika. Daar moet ze haar verleden tot een draaglijk verhaal maken. Mel is milieuonderzoeker die met hulp van de nazaten van de Khoisan het rijke maar kwetsbare ecosysteem van de streek in kaart brengt. De natuur is er adembenemend mooi. Maar Ada hoort er ook de stem van haar tirannieke vader, die zijn vrouw en zoon mishandelde, en zijn gejaagde adem wanneer hij 's nachts zijn dochtertje bezocht. Tussen Ada en Mel, ieder op hun eigen manier beschadigd, lopen de spanningen op. Hoe kom je los van een verleden dat nog altijd rondspookt? En hoe geef je een oude vriendschap een nieuwe vorm, nu de scheidslijnen van de apartheid verdwenen zijn, maar de breuklijnen nog voelbaar blijven? In huiveringwekkende scènes wordt het verleden laag voor laag blootgelegd. Is de band van Ada met de rivier en haar geboortegrond sterk genoeg om een nieuwe richting te vinden? 'Het drama op Bloukoeniekraal heeft me dagenlang in de greep gehad. Wat een aangrijpend verhaal, wat een knappe psychologie en wat een sensitieve beschrijvingen van de wilde en weidse natuur van Zuid-Afrika. De strafstoel en het meisje Ada vergeet je niet meer.' – Oek de Jong </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Annemarie van Niekerk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De magnoliakatten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46173401X/de-magnoliakatten-noriko-morishita</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46173401X/de-magnoliakatten-noriko-morishita"/>
+        <updated>2026-10-09T14:02:09.824Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46173401X?aid=kb-online-bibliotheek&sid=23&dts=1791554529153&sig=fee32628f72005c2e272297e089a61ee6dad5a500d68ef0802dcf23eae0eab5f&width=320" alt="Omslag van 'De magnoliakatten'" title="Omslag van 'De magnoliakatten'">
+<p>Schrijfster Noriko Morishita woont op haar vijftigste weer bij haar moeder in huis en kampt met een writer's block. Op zoek naar inspiratie bezoekt ze een shintoïstisch heiligdom en fluistert: 'Geef me geluk.' De volgende dag wacht haar een verrassing. Op de plek waar haar overleden vader ooit een magnoliaboom plantte, ontdekt ze een nest kittens met hun moederpoes. Voor ze het weet haalt ze het nest binnen. Zo begint haar tijd samen met Mimi, kleine Taro en zijn broertje en drie zusjes, die Noriko's leven compleet veranderen. En dat terwijl ze niet eens van katten hield. De donzige kittens blijken buren en vrienden te verbinden en Noriko's verdriet te verzachten. Dankzij hen komt Noriko tot verrassende inzichten over zichzelf, het leven en liefde. 'Daar gaat dit boek uiteindelijk ook over: genieten van het moment, een beetje bewuster zijn, liefde en geluk toelaten – in welke vorm dan ook.' – The Japan Times </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Noriko Morishita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaderdagen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461734036/vaderdagen-michiel-cox</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461734036/vaderdagen-michiel-cox"/>
+        <updated>2026-10-09T14:02:08.043Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461734036?aid=kb-online-bibliotheek&sid=23&dts=1791554527344&sig=2ed954b9db4aba197c1ee911782a3d867c2a49098851c381d4b3fe34df008a57&width=320" alt="Omslag van 'Vaderdagen'" title="Omslag van 'Vaderdagen'">
+<p>In Vaderdagen onderzoekt Michiel Cox, schrijver van twee romans, wat het betekent om vader te zijn. Bewonderenswaardig openhartig verhaalt hij over zijn eigen twijfel, angst en de dagelijkse beslommeringen die het gezinsleven kleuren. De taalontwikkeling, erfelijkheid en hoe het is om in deze tijd en wereld vader te zijn van twee jonge dochters – Cox wekt het allemaal tot leven. En de daarmee gepaarde emoties ook. Vaderdagen is geen zelfhulpboek met tips en grappig bedoelde anekdotes, maar een kwetsbaar zelfonderzoek dat de meest ingrijpende verandering in een mannenleven raakt: vader zijn. In een tijd waarin mannen opgeroepen worden weer te vermannen, is Vaderdagen een prachtige lofzang op zachtheid, geborgenheid en ouderschap. Een mustread voor iedereen die een (aanstaande) vader kent, of is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Michiel Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het schild van de Machtige]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461733978/het-schild-van-de-machtige-connilyn-cossette</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461733978/het-schild-van-de-machtige-connilyn-cossette"/>
+        <updated>2026-10-09T14:02:07.229Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461733978?aid=kb-online-bibliotheek&sid=23&dts=1791554526620&sig=299241b77c782c8804cc64f98d102839c1b3f20855590ef0b07d27aa8930cf5d&width=320" alt="Omslag van 'Het schild van de Machtige'" title="Omslag van 'Het schild van de Machtige'">
+<p>Zevi werd als jonge jongen gevangengenomen door de Filistijnen en is uitgegroeid tot een geduchte krijger. Als kapitein in het leger van koning Saul krijgt hij een cruciale missie: soldaten rekruteren, belasting innen voor de koninklijke schatkist en getalenteerde ambachtslieden vinden voor het hof van de koning. Maar wanneer hij naar Maresa wordt gestuurd, de stad die hij als kind moest verlaten, is hij ontsteld wanneer de raad van oudsten koning Saul en zijn veldtocht afwijst, waardoor de stad kwetsbaar wordt voor vergelding en dreiging van vijanden van buitenaf. Jochana, een weduwe en een bekwaam zakenvrouw, raakt gefascineerd door een vreemdeling die haar parfumerie binnenkomt. Wanneer ze ontdekt dat hij niet alleen een soldaat is, maar ook een kapitein die verantwoordelijk is voor het rekruteren van jonge mannen om te sterven in de strijd, komen de woede en de pijn van haar verlies uit het verleden weer naar boven. Terwijl Zevi's acties in Maresa en zijn radicale plan Jochana verwarren, worden ze geconfronteerd met de gevaren van het heden en de littekens uit het verleden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Connilyn Cossette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mijn onwaarschijnlijke vriendschap met Emma Watson]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461734060/mijn-onwaarschijnlijke-vriendschap-met-emma-watson-caro-derkx</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461734060/mijn-onwaarschijnlijke-vriendschap-met-emma-watson-caro-derkx"/>
+        <updated>2026-10-09T14:02:09.033Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461734060?aid=kb-online-bibliotheek&sid=23&dts=1791554528268&sig=ac3b3ad5606c3d4a850e3f61654006fe63fdc3eb5f2f851bee4faa68970a8767&width=320" alt="Omslag van 'Mijn onwaarschijnlijke vriendschap met Emma Watson'" title="Omslag van 'Mijn onwaarschijnlijke vriendschap met Emma Watson'">
+<p>De zevenentwintigjarige Caro lijkt het leven op orde te hebben, maar niks is minder waar. Haar dagen kleuren donker en ze komt haar bed nauwelijks uit. Onverwachts vindt ze steun in dagelijkse mails aan Emma Watson. Er is alleen één probleem: deze Emma blijft op afstand. Impulsief vertrekt Caro naar Oxford, waar Emma volgens social media studeert. Wat volgt is een reis langs imponerende bibliotheken, colleges en gesloten toegangspoorten, in de hoop Emma 'toevallig' tegen het lijf te lopen. 'Wat een romantische daad: het verlangen naar vriendschapsverliefdheid, de reis, dit boek. De dapperste ode aan hunkering die ik las.' – JADE OLIEBERG 'Caro Derkx stelt de vraag waar feminisme in essentie over gaat (voor vrouwen én voor mannen): wie ben je in een wereld die niet voor jou gemaakt lijkt?' – MAARTJE LATERVEER 'In haar zoektocht naar Emma Watson kijkt Caro met steeds meer lef naar zichzelf. Een confronterend, filosofisch en razendknap boek.' – WILFRIED DE JONG </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Caro Derkx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queer geschiedenis van Nederland]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461733994/queer-geschiedenis-van-nederland-marijke-huisman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461733994/queer-geschiedenis-van-nederland-marijke-huisman"/>
+        <updated>2026-10-09T14:02:11.157Z</updated>
+        <summary type="html"><![CDATA[De strijd om een eigen verleden]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461733994?aid=kb-online-bibliotheek&sid=23&dts=1791554530624&sig=876d56d06160ef78cdb5e7f090afb1bd67a09bacfc9c3e8727e8ebfe09ff8fd9&width=320" alt="Omslag van 'Queer geschiedenis van Nederland'" title="Omslag van 'Queer geschiedenis van Nederland'">
+<p>In Queer geschiedenis van Nederland onderzoekt Marijke Huisman de rijke geschiedenis van de regenbooggemeenschap. Toen Nederland in 2001 als eerste land het (burgerlijk) huwelijk openstelde voor paren van hetzelfde geslacht, was de gedachte dat hiermee hun emancipatie voltooid was. Maar niets bleek minder waar. Terwijl seksuele vrijheid endiversiteit uitgroeiden tot speerpunten in discussies over onze nationale identiteit, bleef de rijke lhbtiqa+-geschiedenis opvallend afwezig in de Canon van Nederland. Over wie of wat gaat die queer geschiedenis eigenlijk, of zou die moeten gaan? Aan de hand van talrijke voorbeelden belicht Huisman het werk dat activisten de afgelopen eeuw verzetten om hun 'eigen' geschiedenis zichtbaar te maken en te verankeren in het collectieve geheugen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Marijke Huisman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Een stralende dag]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461734044/een-stralende-dag-mollie-panter-downes</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461734044/een-stralende-dag-mollie-panter-downes"/>
@@ -115,82 +216,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De onzichtbare drempel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461734028/de-onzichtbare-drempel-henk-jan-kamsteeg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461734028/de-onzichtbare-drempel-henk-jan-kamsteeg"/>
-        <updated>2026-10-09T14:02:06.506Z</updated>
-        <summary type="html"><![CDATA[De cruciale stap naar dienend leiderschap]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461734028?aid=kb-online-bibliotheek&sid=23&dts=1791554525925&sig=e39c561b0351cb5e237e23af571f1f2f1e79644f779631edeae1354a36494b40&width=320" alt="Omslag van 'De onzichtbare drempel'" title="Omslag van 'De onzichtbare drempel'">
-<p>Lucas heeft een goedlopend bedrijf, een directieteam dat weet hoe het werkt en een groeiend gevoel dat er iets ontbreekt. Als hij zijn team meeneemt naar een abdij in Zuid-Limburg, verwacht niemand wat er komen gaat: geen agenda, geen PowerPoints en een kloosterbroeder die hen met één vraag de motregen instuurt: Waarom wil je in vredesnaam leidinggevende zijn? Wat volgt is een eerlijk, soms ongemakkelijk, portret van vijf mensen die ontdekken hoe ver ze van zichzelf zijn afgedwaald. Want ergens tussen de targets, de vergaderingen en de dagelijkse drukte zijn ze vergeten waarom ze ooit 'ja' hebben gezegd tegen die rol. In De onzichtbare drempel laat Henk Jan Kamsteeg zien dat leiderschap geen kwestie is van de juiste antwoorden geven, maar van de moed hebben de juiste vragen te stellen. Een boek voor leidinggevenden die voelen dat er meer in zit – in hun team, in hun organisatie, en in henzelf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De reiziger]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461733986/de-reiziger-andrea-wulf</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461733986/de-reiziger-andrea-wulf"/>
+        <updated>2026-10-09T14:02:12.504Z</updated>
+        <summary type="html"><![CDATA[Het uitzonderlijke leven van George Forster en zijn zoektocht naar de mens]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461733986?aid=kb-online-bibliotheek&sid=23&dts=1791554519900&sig=99e2ed8a759554c6114af5baaacb1b06cd592a61ee1df9eb49074683d4ef8594&width=320" alt="Omslag van 'De reiziger'" title="Omslag van 'De reiziger'">
+<p>Hij was een wonderkind, een wereldreiziger en een van de meest vooruitstrevende denkers van zijn tijd. Op zijn zeventiende zeilde hij met kapitein Cook naar de uithoeken van de bekende wereld, om daarna in Europa furore te maken als wetenschapper, schrijver en revolutionair.  George Forster (1754-1794) was een man die zijn tijd ver vooruit was: hij reisde naar de uithoeken van de bekende wereld en daagde het wereldbeeld van achttiende-eeuws Europa uit met radicale ideeën over gelijkheid en vrijheid. Hij werd tijdens zijn leven geprezen en kende Goethe, Benjamin Franklin, Mary Wollstonecraft en Alexander von Humboldt, maar is sindsdien grotendeels in de vergetelheid geraakt. Met De reiziger zet Andrea Wulf Forster weer op de kaart als een van de grote visionairs van zijn tijd. Op zeventienjarige leeftijd sloot hij zich aan bij de ontdekkingsreis van kapitein Cook, een reis die hem zowel naar het ijzige Antarctica als de tropische eilanden van de Stille Zuidzee voerde. Hij bestudeerde de mensen en culturen die hij tegenkwam en keerde terug met een diep geloof in de gelijkheid van volken. Bij zijn terugkeer werd hij in heel Europa gevierd en gebruikte hij zijn roem om op te komen voor mensenrechten en te strijden tegen imperialisme, racisme en slavernij. Hij bewonderde sterke en ontwikkelde vrouwen en was trots op zijn dochters. Tegelijkertijd leidden zijn ideeën ook tot grote controverse, zeker toen hij ook de principes van de Franse Revolutie uit begon te dragen. De reiziger is een briljant portret van een buitengewone man die niet gebonden was aan plaats, nationaliteit of traditie – een man die zich niet richtte op wat ons onderscheidt, maar op wat ons verbindt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Henk Jan Kamsteeg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het schild van de Machtige]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461733978/het-schild-van-de-machtige-connilyn-cossette</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461733978/het-schild-van-de-machtige-connilyn-cossette"/>
-        <updated>2026-10-09T14:02:07.229Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461733978?aid=kb-online-bibliotheek&sid=23&dts=1791554526620&sig=299241b77c782c8804cc64f98d102839c1b3f20855590ef0b07d27aa8930cf5d&width=320" alt="Omslag van 'Het schild van de Machtige'" title="Omslag van 'Het schild van de Machtige'">
-<p>Zevi werd als jonge jongen gevangengenomen door de Filistijnen en is uitgegroeid tot een geduchte krijger. Als kapitein in het leger van koning Saul krijgt hij een cruciale missie: soldaten rekruteren, belasting innen voor de koninklijke schatkist en getalenteerde ambachtslieden vinden voor het hof van de koning. Maar wanneer hij naar Maresa wordt gestuurd, de stad die hij als kind moest verlaten, is hij ontsteld wanneer de raad van oudsten koning Saul en zijn veldtocht afwijst, waardoor de stad kwetsbaar wordt voor vergelding en dreiging van vijanden van buitenaf. Jochana, een weduwe en een bekwaam zakenvrouw, raakt gefascineerd door een vreemdeling die haar parfumerie binnenkomt. Wanneer ze ontdekt dat hij niet alleen een soldaat is, maar ook een kapitein die verantwoordelijk is voor het rekruteren van jonge mannen om te sterven in de strijd, komen de woede en de pijn van haar verlies uit het verleden weer naar boven. Terwijl Zevi's acties in Maresa en zijn radicale plan Jochana verwarren, worden ze geconfronteerd met de gevaren van het heden en de littekens uit het verleden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Connilyn Cossette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaderdagen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461734036/vaderdagen-michiel-cox</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461734036/vaderdagen-michiel-cox"/>
-        <updated>2026-10-09T14:02:08.043Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461734036?aid=kb-online-bibliotheek&sid=23&dts=1791554527344&sig=2ed954b9db4aba197c1ee911782a3d867c2a49098851c381d4b3fe34df008a57&width=320" alt="Omslag van 'Vaderdagen'" title="Omslag van 'Vaderdagen'">
-<p>In Vaderdagen onderzoekt Michiel Cox, schrijver van twee romans, wat het betekent om vader te zijn. Bewonderenswaardig openhartig verhaalt hij over zijn eigen twijfel, angst en de dagelijkse beslommeringen die het gezinsleven kleuren. De taalontwikkeling, erfelijkheid en hoe het is om in deze tijd en wereld vader te zijn van twee jonge dochters – Cox wekt het allemaal tot leven. En de daarmee gepaarde emoties ook. Vaderdagen is geen zelfhulpboek met tips en grappig bedoelde anekdotes, maar een kwetsbaar zelfonderzoek dat de meest ingrijpende verandering in een mannenleven raakt: vader zijn. In een tijd waarin mannen opgeroepen worden weer te vermannen, is Vaderdagen een prachtige lofzang op zachtheid, geborgenheid en ouderschap. Een mustread voor iedereen die een (aanstaande) vader kent, of is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Michiel Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mijn onwaarschijnlijke vriendschap met Emma Watson]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461734060/mijn-onwaarschijnlijke-vriendschap-met-emma-watson-caro-derkx</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461734060/mijn-onwaarschijnlijke-vriendschap-met-emma-watson-caro-derkx"/>
-        <updated>2026-10-09T14:02:09.033Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461734060?aid=kb-online-bibliotheek&sid=23&dts=1791554528268&sig=ac3b3ad5606c3d4a850e3f61654006fe63fdc3eb5f2f851bee4faa68970a8767&width=320" alt="Omslag van 'Mijn onwaarschijnlijke vriendschap met Emma Watson'" title="Omslag van 'Mijn onwaarschijnlijke vriendschap met Emma Watson'">
-<p>De zevenentwintigjarige Caro lijkt het leven op orde te hebben, maar niks is minder waar. Haar dagen kleuren donker en ze komt haar bed nauwelijks uit. Onverwachts vindt ze steun in dagelijkse mails aan Emma Watson. Er is alleen één probleem: deze Emma blijft op afstand. Impulsief vertrekt Caro naar Oxford, waar Emma volgens social media studeert. Wat volgt is een reis langs imponerende bibliotheken, colleges en gesloten toegangspoorten, in de hoop Emma 'toevallig' tegen het lijf te lopen. 'Wat een romantische daad: het verlangen naar vriendschapsverliefdheid, de reis, dit boek. De dapperste ode aan hunkering die ik las.' – JADE OLIEBERG 'Caro Derkx stelt de vraag waar feminisme in essentie over gaat (voor vrouwen én voor mannen): wie ben je in een wereld die niet voor jou gemaakt lijkt?' – MAARTJE LATERVEER 'In haar zoektocht naar Emma Watson kijkt Caro met steeds meer lef naar zichzelf. Een confronterend, filosofisch en razendknap boek.' – WILFRIED DE JONG </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Caro Derkx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De magnoliakatten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46173401X/de-magnoliakatten-noriko-morishita</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46173401X/de-magnoliakatten-noriko-morishita"/>
-        <updated>2026-10-09T14:02:09.824Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46173401X?aid=kb-online-bibliotheek&sid=23&dts=1791554529153&sig=fee32628f72005c2e272297e089a61ee6dad5a500d68ef0802dcf23eae0eab5f&width=320" alt="Omslag van 'De magnoliakatten'" title="Omslag van 'De magnoliakatten'">
-<p>Schrijfster Noriko Morishita woont op haar vijftigste weer bij haar moeder in huis en kampt met een writer's block. Op zoek naar inspiratie bezoekt ze een shintoïstisch heiligdom en fluistert: 'Geef me geluk.' De volgende dag wacht haar een verrassing. Op de plek waar haar overleden vader ooit een magnoliaboom plantte, ontdekt ze een nest kittens met hun moederpoes. Voor ze het weet haalt ze het nest binnen. Zo begint haar tijd samen met Mimi, kleine Taro en zijn broertje en drie zusjes, die Noriko's leven compleet veranderen. En dat terwijl ze niet eens van katten hield. De donzige kittens blijken buren en vrienden te verbinden en Noriko's verdriet te verzachten. Dankzij hen komt Noriko tot verrassende inzichten over zichzelf, het leven en liefde. 'Daar gaat dit boek uiteindelijk ook over: genieten van het moment, een beetje bewuster zijn, liefde en geluk toelaten – in welke vorm dan ook.' – The Japan Times </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Noriko Morishita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De strafstoel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461734001/de-strafstoel-annemarie-van-niekerk</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461734001/de-strafstoel-annemarie-van-niekerk"/>
-        <updated>2026-10-09T14:02:10.507Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461734001?aid=kb-online-bibliotheek&sid=23&dts=1791554529965&sig=5e6bfd4702b7df3d70c83e8c9398a0f8ac8c7de910126f72fbb30de0bb8d9d6a&width=320" alt="Omslag van 'De strafstoel'" title="Omslag van 'De strafstoel'">
-<p>Ada's leven is vastgelopen. Op uitnodiging van haar vriendin Mel keert ze terug naar de plek van haar jeugd, de boerderij Bloukoeniekraal aan een rivier in Zuid-Afrika. Daar moet ze haar verleden tot een draaglijk verhaal maken. Mel is milieuonderzoeker die met hulp van de nazaten van de Khoisan het rijke maar kwetsbare ecosysteem van de streek in kaart brengt. De natuur is er adembenemend mooi. Maar Ada hoort er ook de stem van haar tirannieke vader, die zijn vrouw en zoon mishandelde, en zijn gejaagde adem wanneer hij 's nachts zijn dochtertje bezocht. Tussen Ada en Mel, ieder op hun eigen manier beschadigd, lopen de spanningen op. Hoe kom je los van een verleden dat nog altijd rondspookt? En hoe geef je een oude vriendschap een nieuwe vorm, nu de scheidslijnen van de apartheid verdwenen zijn, maar de breuklijnen nog voelbaar blijven? In huiveringwekkende scènes wordt het verleden laag voor laag blootgelegd. Is de band van Ada met de rivier en haar geboortegrond sterk genoeg om een nieuwe richting te vinden? 'Het drama op Bloukoeniekraal heeft me dagenlang in de greep gehad. Wat een aangrijpend verhaal, wat een knappe psychologie en wat een sensitieve beschrijvingen van de wilde en weidse natuur van Zuid-Afrika. De strafstoel en het meisje Ada vergeet je niet meer.' – Oek de Jong </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Annemarie van Niekerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Queer geschiedenis van Nederland]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461733994/queer-geschiedenis-van-nederland-marijke-huisman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461733994/queer-geschiedenis-van-nederland-marijke-huisman"/>
-        <updated>2026-10-09T14:02:11.157Z</updated>
-        <summary type="html"><![CDATA[De strijd om een eigen verleden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461733994?aid=kb-online-bibliotheek&sid=23&dts=1791554530624&sig=876d56d06160ef78cdb5e7f090afb1bd67a09bacfc9c3e8727e8ebfe09ff8fd9&width=320" alt="Omslag van 'Queer geschiedenis van Nederland'" title="Omslag van 'Queer geschiedenis van Nederland'">
-<p>In Queer geschiedenis van Nederland onderzoekt Marijke Huisman de rijke geschiedenis van de regenbooggemeenschap. Toen Nederland in 2001 als eerste land het (burgerlijk) huwelijk openstelde voor paren van hetzelfde geslacht, was de gedachte dat hiermee hun emancipatie voltooid was. Maar niets bleek minder waar. Terwijl seksuele vrijheid endiversiteit uitgroeiden tot speerpunten in discussies over onze nationale identiteit, bleef de rijke lhbtiqa+-geschiedenis opvallend afwezig in de Canon van Nederland. Over wie of wat gaat die queer geschiedenis eigenlijk, of zou die moeten gaan? Aan de hand van talrijke voorbeelden belicht Huisman het werk dat activisten de afgelopen eeuw verzetten om hun 'eigen' geschiedenis zichtbaar te maken en te verankeren in het collectieve geheugen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Marijke Huisman</name>
+            <name>Andrea Wulf</name>
         </author>
     </entry>
     <entry>
@@ -202,18 +236,6 @@
 <p>Parijs, 1940. Sinds de nazi's boeken verbrandden, vestigden Duitse schrijvers die vanwege hun opvattingen verbannen waren zich in Parijs. Daar openden ze een bibliotheek en verzamelden ze elk boek dat op de verboden lijst stond ... en zelfs smokkelden ze versies van verboden boeken weer Duitsland binnen. De afgelopen zes jaar heeft Corinne Bastien die boeken gelezen en van de bibliotheek haar tweede thuis gemaakt. Maar wanneer het Duitse leger Parijs inneemt, verliest ze de toegang tot de bibliotheek en alle geheimen die ze daar had verborgen. Geheimen die de geallieerden nodig zullen hebben als ze enige hoop wil houden op de bevrijding van de stad die ze haar thuis noemt. Christian Bauer is dan wel Duits, maar hij wilde nooit iets met de nazi-partij te maken hebben. Hij is professor en heeft er alles aan gedaan om zijn familie te beschermen, evenals de boeken die een bedreiging vormden voor de nazi-idealen. Maar wanneer Goebbels hem naar Parijs roept om de 'verplaatsing' van de Franse bibliotheken te regelen, wordt hij gedwongen een legeruniform te dragen en krijgt hij een rang die hij niet wil. In Parijs probeert hij iedereen en alles wat hij kan te beschermen tegen de gevaren van de partij en de ideeën te bewaren die de Duitsers na de oorlog weer nodig zullen hebben, en misschien vindt hij wel een verloren stukje van zijn hart terug... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Roseanna M. White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De reiziger]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461733986/de-reiziger-andrea-wulf</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461733986/de-reiziger-andrea-wulf"/>
-        <updated>2026-10-09T14:02:12.504Z</updated>
-        <summary type="html"><![CDATA[Het uitzonderlijke leven van George Forster en zijn zoektocht naar de mens]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461733986?aid=kb-online-bibliotheek&sid=23&dts=1791554519900&sig=99e2ed8a759554c6114af5baaacb1b06cd592a61ee1df9eb49074683d4ef8594&width=320" alt="Omslag van 'De reiziger'" title="Omslag van 'De reiziger'">
-<p>Hij was een wonderkind, een wereldreiziger en een van de meest vooruitstrevende denkers van zijn tijd. Op zijn zeventiende zeilde hij met kapitein Cook naar de uithoeken van de bekende wereld, om daarna in Europa furore te maken als wetenschapper, schrijver en revolutionair.  George Forster (1754-1794) was een man die zijn tijd ver vooruit was: hij reisde naar de uithoeken van de bekende wereld en daagde het wereldbeeld van achttiende-eeuws Europa uit met radicale ideeën over gelijkheid en vrijheid. Hij werd tijdens zijn leven geprezen en kende Goethe, Benjamin Franklin, Mary Wollstonecraft en Alexander von Humboldt, maar is sindsdien grotendeels in de vergetelheid geraakt. Met De reiziger zet Andrea Wulf Forster weer op de kaart als een van de grote visionairs van zijn tijd. Op zeventienjarige leeftijd sloot hij zich aan bij de ontdekkingsreis van kapitein Cook, een reis die hem zowel naar het ijzige Antarctica als de tropische eilanden van de Stille Zuidzee voerde. Hij bestudeerde de mensen en culturen die hij tegenkwam en keerde terug met een diep geloof in de gelijkheid van volken. Bij zijn terugkeer werd hij in heel Europa gevierd en gebruikte hij zijn roem om op te komen voor mensenrechten en te strijden tegen imperialisme, racisme en slavernij. Hij bewonderde sterke en ontwikkelde vrouwen en was trots op zijn dochters. Tegelijkertijd leidden zijn ideeën ook tot grote controverse, zeker toen hij ook de principes van de Franse Revolutie uit begon te dragen. De reiziger is een briljant portret van een buitengewone man die niet gebonden was aan plaats, nationaliteit of traditie – een man die zich niet richtte op wat ons onderscheidt, maar op wat ons verbindt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andrea Wulf</name>
         </author>
     </entry>
     <entry>
@@ -240,114 +262,91 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eiland vol beloften]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461730022/eiland-vol-beloften-sophie-pembroke</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461730022/eiland-vol-beloften-sophie-pembroke"/>
-        <updated>2026-10-09T14:02:14.831Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730022?aid=kb-online-bibliotheek&sid=23&dts=1791554534161&sig=7ea38e1e2a7f3dfde82154cd7a2a67d67f99dfbac1b6c9aa9498e90b0c6d0eec&width=320" alt="Omslag van 'Eiland vol beloften'" title="Omslag van 'Eiland vol beloften'">
-<p>Ze had niet gedacht dat ze hem ooit nog zou zien…Rosa dacht dat ze elk plekje en verborgen baaitje van haar geliefde La Isla Marina kende. Toch heeft het romantische eiland een verrassing voor haar in petto - in de vorm van een tijdelijke bewoner, de beroemde rockster Jude Alexander. Uitgerekend de man van met wie ze ooit een korte affaire had! Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Haar hartendief]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46173012X/haar-hartendief-maureen-child</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46173012X/haar-hartendief-maureen-child"/>
+        <updated>2026-10-10T13:10:45.604Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46173012X?aid=kb-online-bibliotheek&sid=23&dts=1791637844817&sig=e430f5f41daf3e9ce5f536e36de550472c7be929265be9cb9e73f615b6b1cd8d&width=320" alt="Omslag van 'Haar hartendief'" title="Omslag van 'Haar hartendief'">
+<p>Hij heeft zijn leven gebeterd, maar nu steelt hij toch haar hart!Ex-politieagent en beveiligingsexpert Marie heeft voor een klus een dief nodig, en Gianni - voormalig juwelendief annex appetijtelijke Italiaanse playboy - is hier de aangewezen persoon voor. Dat hij als voorwaarde stelt dat ze een tijdje zijn verloofde speelt, neemt ze op de koop toe. Want zo'n straf is dat niet! Alleen mag ze absoluut niet voor hem vallen…Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Sophie Pembroke</name>
+            <name>Maureen Child</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gestolen nacht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461730162/gestolen-nacht-catherine-spencer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461730162/gestolen-nacht-catherine-spencer"/>
-        <updated>2026-10-09T14:02:15.555Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730162?aid=kb-online-bibliotheek&sid=23&dts=1791554534941&sig=4cd7e6fb326038857df938a3ce4a351ee0831b9f62a032de89313aad4ea5d632&width=320" alt="Omslag van 'Gestolen nacht'" title="Omslag van 'Gestolen nacht'">
-<p>Liz weet niet wat ze moet doen......wanneer ze in Italië tycoon Paulo Rainero weer ziet, de man met wie ze ooit een zinderende nacht beleefde maar die haar toen verliet. En nu is hij samen met haar als voogd aangesteld van haar neefje en nichtje...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Hart vol vuur]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46173026X/hart-vol-vuur-amalie-berlin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46173026X/hart-vol-vuur-amalie-berlin"/>
+        <updated>2026-10-10T13:10:46.290Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46173026X?aid=kb-online-bibliotheek&sid=23&dts=1791637845696&sig=078abfd5e1d2b1c8ea23c670d8c763175df187f06262fb548238ad85c6d582a4&width=320" alt="Omslag van 'Hart vol vuur'" title="Omslag van 'Hart vol vuur'">
+<p>Brandweervrouw en verpleegkundige Lauren was wanhopig toen de baan die ze dolgraag wilde naar Beck Ellison ging. Twee jaar later solliciteert ze weer, en dit keer met succes. Ze is dolblij, tot blijkt dat ze moet samenwerken met haar onuitstaanbaar knappe rivaal!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Catherine Spencer</name>
+            <name>Amalie Berlin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bloeiende kersenbloesem]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461730340/bloeiende-kersenbloesem-lucy-gordon</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461730340/bloeiende-kersenbloesem-lucy-gordon"/>
-        <updated>2026-10-09T14:02:16.344Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730340?aid=kb-online-bibliotheek&sid=23&dts=1791554535676&sig=362c202e8efc28c69ad8c7d58067da1c5f96c02afc54b259b74b746e78e2b79d&width=320" alt="Omslag van 'Bloeiende kersenbloesem'" title="Omslag van 'Bloeiende kersenbloesem'">
-<p>Hiervoor ging ze niet naar China!Een gebroken hart geneest het best in een totaal nieuwe omgeving, denkt Olivia. Dus neemt ze een baan aan op een school in China. Wanneer ze met een van haar leerlingen op de Spoedeisende Hulp belandt, ontmoet ze daar de zeer aantrekkelijke dokter Lang Mitchell. Maar ze wil niet voor hem vallen, want had ze niet een gebroken hart?Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Lessen in liefde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461730480/lessen-in-liefde-maisey-yates</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461730480/lessen-in-liefde-maisey-yates"/>
+        <updated>2026-10-10T13:10:47.217Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730480?aid=kb-online-bibliotheek&sid=23&dts=1791637846390&sig=619516ff67cbb774308baaeda305d3c6a3dd26c97177dc0242a7326e51c9f726&width=320" alt="Omslag van 'Lessen in liefde'" title="Omslag van 'Lessen in liefde'">
+<p>Copper Ridge... dé plek om een knappe cowboy tegen het lijf te lopen!Kate Garrett houdt van een simpel leven: ze werkt hard, rijdt graag paard, speelt zo nu en dan een potje poker met haar broers... De laatste tijd voelt ze zich echter rusteloos, helemaal wanneer jeugdvriend Jack Monaghan in de buurt is. Toch schakelt ze uitgerekend hem in om haar te leren hoe ze een leuke man met haar lasso kan vangen. En dat terwijl iedereen haar waarschuwt dat ze zich niet te veel in moet laten met de schaamteloze Jack...Jack weet niet meer precies wanneer het kleine Garrett-zusje ineens niet meer zo... klein leek. En nu moet hij Kate datingadvies geven - terwijl hij helemaal niet wil dat ze afspreekt met een andere man! Maar hoezeer ze zijn hoofd ook op hol brengt, hij moet de verleiding weerstaan. Hij kan haar immers nooit de liefde bieden die ze verdient...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lucy Gordon</name>
+            <name>Maisey Yates</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Huwelijk met de vijand]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461730286/huwelijk-met-de-vijand-jackie-ashenden</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461730286/huwelijk-met-de-vijand-jackie-ashenden"/>
-        <updated>2026-10-09T14:02:17.030Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730286?aid=kb-online-bibliotheek&sid=23&dts=1791554536465&sig=de46b00acfafe2a3b263581ff65e76e1aabd0b3bcbb1220b406f8abb2597b2e1&width=320" alt="Omslag van 'Huwelijk met de vijand'" title="Omslag van 'Huwelijk met de vijand'">
-<p>Getrouwd met haar grootste vijand...Flora wil niets liever dan wraak op de Constantinides-familie, die haar vader te gronde richtte. Jarenlang heeft ze zich opgewerkt in hun bedrijf, wachtend op het perfecte moment: zoals het aankomend huwelijk van haar baas, knappe miljardair Apollo Constantinides...Apollo heeft keihard gewerkt om de reputatie van zijn corrupte familie op te schonen, en zijn aanstaande huwelijk is de kers op de taart. Dus als er opeens schandalige foto’s van hem verschijnen met hem en zijn trouwe PA, is hij woedend! En ziet hij maar één optie om zijn reputatie te redden... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Argentijnse nachten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461729946/argentijnse-nachten-carole-mortimer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461729946/argentijnse-nachten-carole-mortimer"/>
+        <updated>2026-10-10T13:10:48.032Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461729946?aid=kb-online-bibliotheek&sid=23&dts=1791637847316&sig=0429fc250239fbc96692ebec2e2c3c433f081d3676fa022f0a32ad14229508cb&width=320" alt="Omslag van 'Argentijnse nachten'" title="Omslag van 'Argentijnse nachten'">
+<p>Op het ritme van de Argentijnse tango...Beths doodgewone leventje staat volledig op zijn kop! De media stortten zich op haar vanwege een plotseling aan het licht gekomen geheim uit haar verleden. En nu is ze opeens in Buenos Aires, mét een bodyguard! Deze Raphael is zowel onvoorstelbaar bazig als ongelooflijk aantrekkelijk, en hij maakt haar duidelijk dat hij haar geen seconde uit het oog zal verliezen...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jackie Ashenden</name>
+            <name>Carole Mortimer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overweldigende ontvangst]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461730367/overweldigende-ontvangst-lori-foster</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461730367/overweldigende-ontvangst-lori-foster"/>
-        <updated>2026-10-09T14:02:17.738Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730367?aid=kb-online-bibliotheek&sid=23&dts=1791554537149&sig=e61699e7064d47410f11ef891ac18cfa889b02a85dc86028621d2ebed22dd3a0&width=320" alt="Omslag van 'Overweldigende ontvangst'" title="Omslag van 'Overweldigende ontvangst'">
-<p>Honey is op de vlucht......als ze een auto-ongeluk krijg op het land van Sawyer Buckhorn. Ze is meteen betoverd door de sterke, tedere dokter – en hij door haar – maar ze kan niet bij hem blijven zonder hem in gevaar te brengen...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Bedrog of liefde]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46172989X/bedrog-of-liefde-lee-wilkinson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46172989X/bedrog-of-liefde-lee-wilkinson"/>
+        <updated>2026-10-10T13:10:48.917Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46172989X?aid=kb-online-bibliotheek&sid=23&dts=1791637848130&sig=ccc053971bf7a3a461b5197a1e64b4abce4a0b83829ab2733b18a5fbc945ec20&width=320" alt="Omslag van 'Bedrog of liefde'" title="Omslag van 'Bedrog of liefde'">
+<p>Jess was volkomen gelukkig met Luke......tot hij haar op een verschrikkelijke manier verraadde. Ze verbreekt alle contact met hem, maar drie jaar later ziet ze hem weer. Al snel blijkt dat hij erachter is gekomen dat hun tijd samen niet zonder gevolgen is gebleven...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Lori Foster</name>
+            <name>Lee Wilkinson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Party voor twee]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461730448/party-voor-twee-nicola-marsh</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461730448/party-voor-twee-nicola-marsh"/>
-        <updated>2026-10-09T14:02:18.433Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730448?aid=kb-online-bibliotheek&sid=23&dts=1791554537852&sig=95e8cb3439d6f1d0a07ab2abe30fc03f61a3dad951d9e9a63f06e8aa8906832b&width=320" alt="Omslag van 'Party voor twee'" title="Omslag van 'Party voor twee'">
-<p>Haar leven draait echt niet alleen maar om blingbling…Socialite Lisa heeft zo haar redenen om steeds de spotlights op te zoeken, en die hebben alles te maken met haar gehandicapte zusje. Nu heeft ze genoeg geld verdiend om de rode loper achter zich te laten – en dat viert ze met een heerlijke nacht met een sexy man. Maar dan blijkt hij een uitgever te zijn, die een onthullende biografie over haar wil publiceren!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Minnaars met geheimen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461730057/minnaars-met-geheimen-elizabeth-bevarly</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461730057/minnaars-met-geheimen-elizabeth-bevarly"/>
+        <updated>2026-10-10T13:10:49.827Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730057?aid=kb-online-bibliotheek&sid=23&dts=1791637849013&sig=c1049345cd16ce41b01954261de03e6d01efdf84017b769620d1282a5b0f598a&width=320" alt="Omslag van 'Minnaars met geheimen'" title="Omslag van 'Minnaars met geheimen'">
+<p>Is de betovering van korte duur?Miljonair Marcus valt als een blok voor Della, de mysterieuze schoonheid die op een avond tweemaal zijn pad kruist. Wat hem betreft is hun hartstochtelijke vrijpartij voorbestemd! Zijn verbazing is dan ook groot als ze van plan is het bij één nachtje te laten. Want híj wil juist graag iets met haar beginnen. Dan ontdekt hij stukje bij beetje wie Della werkelijk is...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Nicola Marsh</name>
+            <name>Elizabeth Bevarly</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aanzoek van de playboy]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461730375/aanzoek-van-de-playboy-millie-adams</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461730375/aanzoek-van-de-playboy-millie-adams"/>
-        <updated>2026-10-09T14:02:19.112Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730375?aid=kb-online-bibliotheek&sid=23&dts=1791554538549&sig=7f9a0299f7bf55cdb253fd0e23629cbf54d0657162a7a274d31390092b763767&width=320" alt="Omslag van 'Aanzoek van de playboy'" title="Omslag van 'Aanzoek van de playboy'">
-<p>Een vurige nacht... met een prins! Jarenlang heeft prins Adonis genoten van zijn vrijheid – en een reputatie opgebouwd als losbandige playboy. Maar als de plicht roept, moet je voor het altaar verschijnen. Tenzij het lot ingrijpt, in de vorm van een vliegtuigcrash en een zeer aantrekkelijke piloot...‘Gestrand in de bergen met een sexy vreemdeling’ was niet hoe piloot Stevie zich haar weekend had voorgesteld. Toch heeft ze geen spijt van de overweldigende begeerte die tussen hen ontspringt. Enige tijd later staat Adonis onverwacht voor haar deur. En hij doet haar een schokkend voorstel… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Met loeiende sirene]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461730219/met-loeiende-sirene-kate-hardy</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461730219/met-loeiende-sirene-kate-hardy"/>
+        <updated>2026-10-10T13:10:50.686Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730219?aid=kb-online-bibliotheek&sid=23&dts=1791637849927&sig=e5570cc59e3721cdacab9b598c7978c2e3757c68998d8e30437f5cdd86a5d3b3&width=320" alt="Omslag van 'Met loeiende sirene'" title="Omslag van 'Met loeiende sirene'">
+<p>Kelsey Watson is heel tevreden met haar leventje. Ze houdt van haar werk als brandweervrouw en heeft veel goede vrienden. Haar beste vriend is paramedicus Matt Fraser, met wie ze een huis deelt. Niet haar bed of haar hart, dat zeker niet! Tot ze na een hevige brand troost zoekt in zijn armen...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Millie Adams</name>
+            <name>Kate Hardy</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haar redder in de nood]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461730014/haar-redder-in-de-nood-cara-colter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461730014/haar-redder-in-de-nood-cara-colter"/>
-        <updated>2026-10-09T14:02:19.805Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730014?aid=kb-online-bibliotheek&sid=23&dts=1791554539220&sig=326b55592ab0fa7bd4e8459baf1a5d9ad8e16f8e2d9cafaeb6164d307c4764c5&width=320" alt="Omslag van 'Haar redder in de nood'" title="Omslag van 'Haar redder in de nood'">
-<p>Alleen hij kan haar redden...Daar zit Trixie dan, door haar duivelse vierjarige nichtjes vastgebonden aan een stoel, met niemand anders dan haar nieuwe buurman Daniel om haar uit haar benarde positie te helpen... Eén ding is zeker: ze had liever op een andere manier kennis gemaakt met deze sexy man!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Wild en tomeloos]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461729881/wild-en-tomeloos-natalie-anderson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461729881/wild-en-tomeloos-natalie-anderson"/>
+        <updated>2026-10-10T13:10:51.677Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461729881?aid=kb-online-bibliotheek&sid=23&dts=1791637850798&sig=b50bb2c5b1984c1235b3f91aefb61cbba59a0e27cb7d5e7d832a88e0b8be73b9&width=320" alt="Omslag van 'Wild en tomeloos'" title="Omslag van 'Wild en tomeloos'">
+<p>Op safari in Afrika zoekt Ana wilde beesten...En ze vindt... Sebastian Rentoul! Bij hem voelde ze zich ooit de meest begeerlijke vrouw, dus gaf ze hem haar jawoord. Hun huwelijk bleek echter een farce – behalve tussen de lakens. Maar als ze niet oppast, verdrinkt ze opnieuw in die fraaie, donkere ogen...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Cara Colter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verloofd met de miljardair]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461730243/verloofd-met-de-miljardair-jadesola-james</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461730243/verloofd-met-de-miljardair-jadesola-james"/>
-        <updated>2026-10-09T14:02:20.482Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730243?aid=kb-online-bibliotheek&sid=23&dts=1791554539926&sig=0ade0e775a16e660f56c04a961d8ae45a708d84ce19f9fc647026e4da2c96094&width=320" alt="Omslag van 'Verloofd met de miljardair'" title="Omslag van 'Verloofd met de miljardair'">
-<p>Een voorstel dat ze niet kan weigeren…Om een deal te sluiten moet Desmond Tesfay toestaan dat de dochter van een zakenpartner op snuffelstage komt. Daar heeft hij geen tijd voor, hij moet zijn imperium leiden! En het is ronduit rampzalig dat die relatie zijn PA meestuurt als chaperonne. Want deze Valentina is zo mooi dat hij op slag de beurskoersen vergeet…  Valentina vindt het maar niks dat ze opeens oppas is in plaats van PA. En dan is haar tijdelijke baas ook nog eens véél te sexy. Ze moet alles op alles zetten om niet voor hem te vallen, want de succesvolle miljardair wil duidelijk niets met haar te maken hebben. Maar dan doet Desmond haar een verbijsterend voorstel… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jadesola James</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De eeuwige twijfelaar]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46172992X/de-eeuwige-twijfelaar-jade-vening</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46172992X/de-eeuwige-twijfelaar-jade-vening"/>
-        <updated>2026-10-09T14:02:21.119Z</updated>
-        <summary type="html"><![CDATA[Hij weet nooit goed wat hij wil. Totdat hij hém weer ziet...]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46172992X?aid=kb-online-bibliotheek&sid=23&dts=1791554531790&sig=e1f27c1ed3851e5395dac3ce00e87942cba5b1a77ec513f4a92fb1d15cb590c5&width=320" alt="Omslag van 'De eeuwige twijfelaar'" title="Omslag van 'De eeuwige twijfelaar'">
-<p>De eeuwige twijfelaar is het heerlijke en hilarische nieuwe boek van feelgoodtalent Jade Vening.  Boaz’ leven staat door zijn eeuwige besluiteloosheid al lange tijd stil. Tijdens een soloreis door Europa hoopt hij eindelijk belangrijke knopen door te hakken. Hoewel zijn vakantie maanden had moeten duren, keert Boaz al na acht dagen gedesillusioneerd terug. Thuis is er in die korte tijd veel veranderd. Zijn werkgever verkeert in financiële nood en in zijn huis bivakkeert ineens Levi met zijn twee kinderen. Levi, die Boaz tien jaar niet heeft gezien, is de vroegere beste vriend van zijn broer én de man op wie hij ooit hopeloos verliefd was. Terwijl oude gevoelens en onzekerheden bovenkomen moet Boaz – of hij nu wil of niet – in actie komen. En soms is voor jezelf kiezen het moeilijkst van allemaal. Lessen in de liefde is een hilarische en hartverwarmende feelgoodserie over vier vrienden, Fiona, Iris, Roos en Boaz, die allemaal iets te leren hebben over het leven én over de liefde. De eeuwige twijfelaar is het laatste deel in de serie, maar alle delen zijn ook afzonderlijk te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jade Vening</name>
+            <name>Natalie Anderson</name>
         </author>
     </entry>
 </feed>
