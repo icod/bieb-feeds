@@ -2,33 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-10-10T13:10:51.678Z</updated>
+    <updated>2026-10-11T13:41:47.961Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
-    <entry>
-        <title type="html"><![CDATA[En dan nog iets]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447118110/en-dan-nog-iets-paulien-cornelisse</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447118110/en-dan-nog-iets-paulien-cornelisse"/>
-        <updated>2026-10-10T13:10:44.103Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447118110?aid=kb-online-bibliotheek&sid=23&dts=1791637826863&sig=48c0f8b2cb9e56d9b5b6fc9d75d19c8136576a1be34a5af8854d6ccb12f8de54&width=320" alt="Omslag van 'En dan nog iets'" title="Omslag van 'En dan nog iets'">
-<p>Wat is het verschil tussen leuk en leuk-leuk? Wat zijn de fijnere nuances van nazi-Duits en porno-Duits? Wat is nouveau kak? En dan nog iets is de opvolger van Taal is zeg maar echt mijn ding. Ook dit boek staat weer vol met even onnuttige als amusante analyses van ons taalgebruik. Niet over hoe mensen met elkaar zouden moeten praten, maar over hoe ze dat per ongeluk doen.</p><p> Op ongeëvenaarde wijze laat Paulien Cornelisse ons van het Nederlands houden </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Paulien Cornelisse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taal is zeg maar echt mijn ding]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/444538267/taal-is-zeg-maar-echt-mijn-ding-paulien-cornelisse</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/444538267/taal-is-zeg-maar-echt-mijn-ding-paulien-cornelisse"/>
-        <updated>2026-10-10T13:10:44.716Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444538267?aid=kb-online-bibliotheek&sid=23&dts=1791591750505&sig=714c3de7b5357dfa41ac48a5622da400d68b3e2b6780ed694b6cf69833950ef6&width=320" alt="Omslag van 'Taal is zeg maar echt mijn ding'" title="Omslag van 'Taal is zeg maar echt mijn ding'">
-<p>Taal is zeg maar echt mijn ding gaat over taal. Niet over hoe mensen met elkaar zouden moeten praten, maar over hoe ze dat per ongeluk doen. Waarom mensen die zeggen als ik even heel eerlijk ben eng zijn. Waarom focking niet hetzelfde is als fucking en seks niet hetzelfde als sex. Waarom oké het nieuwe ja is en ieuw het nieuwe urlg. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Paulien Cornelisse</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[De verwarde cavia]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/401940616/de-verwarde-cavia-paulien-cornelisse</id>
@@ -347,6 +325,28 @@
 <p>Op safari in Afrika zoekt Ana wilde beesten...En ze vindt... Sebastian Rentoul! Bij hem voelde ze zich ooit de meest begeerlijke vrouw, dus gaf ze hem haar jawoord. Hun huwelijk bleek echter een farce – behalve tussen de lakens. Maar als ze niet oppast, verdrinkt ze opnieuw in die fraaie, donkere ogen...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Natalie Anderson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Party voor twee]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461730448/party-voor-twee-nicola-marsh</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461730448/party-voor-twee-nicola-marsh"/>
+        <updated>2026-10-09T14:02:18.433Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730448?aid=kb-online-bibliotheek&sid=23&dts=1791554537852&sig=95e8cb3439d6f1d0a07ab2abe30fc03f61a3dad951d9e9a63f06e8aa8906832b&width=320" alt="Omslag van 'Party voor twee'" title="Omslag van 'Party voor twee'">
+<p>Haar leven draait echt niet alleen maar om blingbling…Socialite Lisa heeft zo haar redenen om steeds de spotlights op te zoeken, en die hebben alles te maken met haar gehandicapte zusje. Nu heeft ze genoeg geld verdiend om de rode loper achter zich te laten – en dat viert ze met een heerlijke nacht met een sexy man. Maar dan blijkt hij een uitgever te zijn, die een onthullende biografie over haar wil publiceren!Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nicola Marsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aanzoek van de playboy]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461730375/aanzoek-van-de-playboy-millie-adams</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461730375/aanzoek-van-de-playboy-millie-adams"/>
+        <updated>2026-10-09T14:02:19.112Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461730375?aid=kb-online-bibliotheek&sid=23&dts=1791554538549&sig=7f9a0299f7bf55cdb253fd0e23629cbf54d0657162a7a274d31390092b763767&width=320" alt="Omslag van 'Aanzoek van de playboy'" title="Omslag van 'Aanzoek van de playboy'">
+<p>Een vurige nacht... met een prins! Jarenlang heeft prins Adonis genoten van zijn vrijheid – en een reputatie opgebouwd als losbandige playboy. Maar als de plicht roept, moet je voor het altaar verschijnen. Tenzij het lot ingrijpt, in de vorm van een vliegtuigcrash en een zeer aantrekkelijke piloot...‘Gestrand in de bergen met een sexy vreemdeling’ was niet hoe piloot Stevie zich haar weekend had voorgesteld. Toch heeft ze geen spijt van de overweldigende begeerte die tussen hen ontspringt. Enige tijd later staat Adonis onverwacht voor haar deur. En hij doet haar een schokkend voorstel… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Millie Adams</name>
         </author>
     </entry>
 </feed>
