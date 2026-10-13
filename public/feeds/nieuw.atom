@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-10-12T16:22:27.781Z</updated>
+    <updated>2026-10-13T14:43:13.146Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -16,23 +16,23 @@
 <p>Nog geen eeuw geleden leerde men op Nederlandse scholen de gedichten van De Schoolmeester van buiten. Bijna iedereen kende wel een paar regels van hem: Een leeuw is eigenlijk iemand, die bang is voor niemand Zijn woordgrappen, humoristische overdrijvingen en verwisselingen van dieren en mensen waren een opluchting voor de lezers, die gewend waren aan nogal deftige en serieuze poëzie. De Schoolmeester werd gelezen om bij zoveel gekheid hartelijk te kunnen lachen. Deze hardcover-editie van De gedichten van De Schoolmeester is geïllustreerd met de prachtige illustraties van Anthony de Vries uit de zesde druk (1872). Marita Mathijsen verzorgde de redactie door de spelling te moderniseren en de editie te voorzien van een nawoord en toelichting. Marita Mathijsen is emeritus hoogleraar moderne Nederlandse letterkunde aan de Universiteit van Amsterdam en gespecialiseerd in negentiende-eeuwse literatuur. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[En dan nog iets]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/447118110/en-dan-nog-iets-paulien-cornelisse</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/447118110/en-dan-nog-iets-paulien-cornelisse"/>
-        <updated>2026-10-10T13:10:44.103Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447118110?aid=kb-online-bibliotheek&sid=23&dts=1791637826863&sig=48c0f8b2cb9e56d9b5b6fc9d75d19c8136576a1be34a5af8854d6ccb12f8de54&width=320" alt="Omslag van 'En dan nog iets'" title="Omslag van 'En dan nog iets'">
-<p>Wat is het verschil tussen leuk en leuk-leuk? Wat zijn de fijnere nuances van nazi-Duits en porno-Duits? Wat is nouveau kak? En dan nog iets is de opvolger van Taal is zeg maar echt mijn ding. Ook dit boek staat weer vol met even onnuttige als amusante analyses van ons taalgebruik. Niet over hoe mensen met elkaar zouden moeten praten, maar over hoe ze dat per ongeluk doen.</p><p> Op ongeëvenaarde wijze laat Paulien Cornelisse ons van het Nederlands houden </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Paulien Cornelisse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Taal is zeg maar echt mijn ding]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/444538267/taal-is-zeg-maar-echt-mijn-ding-paulien-cornelisse</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/444538267/taal-is-zeg-maar-echt-mijn-ding-paulien-cornelisse"/>
         <updated>2026-10-10T13:10:44.716Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444538267?aid=kb-online-bibliotheek&sid=23&dts=1791591750505&sig=714c3de7b5357dfa41ac48a5622da400d68b3e2b6780ed694b6cf69833950ef6&width=320" alt="Omslag van 'Taal is zeg maar echt mijn ding'" title="Omslag van 'Taal is zeg maar echt mijn ding'">
 <p>Taal is zeg maar echt mijn ding gaat over taal. Niet over hoe mensen met elkaar zouden moeten praten, maar over hoe ze dat per ongeluk doen. Waarom mensen die zeggen als ik even heel eerlijk ben eng zijn. Waarom focking niet hetzelfde is als fucking en seks niet hetzelfde als sex. Waarom oké het nieuwe ja is en ieuw het nieuwe urlg. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Paulien Cornelisse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En dan nog iets]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/447118110/en-dan-nog-iets-paulien-cornelisse</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/447118110/en-dan-nog-iets-paulien-cornelisse"/>
+        <updated>2026-10-10T13:10:44.103Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A447118110?aid=kb-online-bibliotheek&sid=23&dts=1791637826863&sig=48c0f8b2cb9e56d9b5b6fc9d75d19c8136576a1be34a5af8854d6ccb12f8de54&width=320" alt="Omslag van 'En dan nog iets'" title="Omslag van 'En dan nog iets'">
+<p>Wat is het verschil tussen leuk en leuk-leuk? Wat zijn de fijnere nuances van nazi-Duits en porno-Duits? Wat is nouveau kak? En dan nog iets is de opvolger van Taal is zeg maar echt mijn ding. Ook dit boek staat weer vol met even onnuttige als amusante analyses van ons taalgebruik. Niet over hoe mensen met elkaar zouden moeten praten, maar over hoe ze dat per ongeluk doen.</p><p> Op ongeëvenaarde wijze laat Paulien Cornelisse ons van het Nederlands houden </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Paulien Cornelisse</name>
         </author>
@@ -117,40 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fopfeminisme]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748681/fopfeminisme-lisa-loeb</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748681/fopfeminisme-lisa-loeb"/>
-        <updated>2026-10-12T16:22:19.312Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748681?aid=kb-online-bibliotheek&sid=23&dts=1791822138730&sig=eac43a01e60909bebf2d11f877ac62d2dda5f303284de4c5d420c217a5ab68c2&width=320" alt="Omslag van 'Fopfeminisme'" title="Omslag van 'Fopfeminisme'">
-<p>Analyse van gendergelijkheid in Nederland, waarin de historische wortels van ongelijkheid worden blootgelegd en het Nederlandse zelfbeeld als geëmancipeerd gidsland wordt ontkracht.</p>]]></content>
-        <author>
-            <name>Lisa Loeb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lieve Heleen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46174855X/lieve-heleen-heleen-van-royen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46174855X/lieve-heleen-heleen-van-royen"/>
-        <updated>2026-10-12T16:22:19.964Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46174855X?aid=kb-online-bibliotheek&sid=23&dts=1791822139419&sig=1e0dd7c74cd3768d1981ce450369272d4fabc8f2722903963646b9b3fa80c4c3&width=320" alt="Omslag van 'Lieve Heleen'" title="Omslag van 'Lieve Heleen'">
-<p>Bundeling van honderd stukken uit de tijdschriftenrubriek ‘Lieve Heleen’ waarin de schrijfster antwoord geeft op lezersvragen over seks, intieme dilemma's en relationele ongemakken.</p>]]></content>
-        <author>
-            <name>Heleen van Royen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het fortuin van Neptunus]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748495/het-fortuin-van-neptunus-julian-sancton</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748495/het-fortuin-van-neptunus-julian-sancton"/>
-        <updated>2026-10-12T16:22:20.628Z</updated>
-        <summary type="html"><![CDATA[Het scheepswrak van miljarden dollars en de geesten van het Spaanse Rijk]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748495?aid=kb-online-bibliotheek&sid=23&dts=1791822140079&sig=1dc94bae5ff2dd38557660a659058eaead327148aa38b8e798f684dfd1ceef25&width=320" alt="Omslag van 'Het fortuin van Neptunus'" title="Omslag van 'Het fortuin van Neptunus'">
-<p>Verhandeling over de zoektocht van een Cubaans-Amerikaanse filmmaker naar een Spaans galjoen, vol met rijkdommen uit de Nieuwe Wereld, dat zonk voor de Colombiaanse kust. Met kaarten in zwart-wit.</p>]]></content>
-        <author>
-            <name>Julian Sancton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[250 dingen doen in Nederland voor pensionado's]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461748339/250-dingen-doen-in-nederland-voor-pensionado-s-jeroen-van-der-spek</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461748339/250-dingen-doen-in-nederland-voor-pensionado-s-jeroen-van-der-spek"/>
@@ -159,39 +125,6 @@
 <p>Gids voor pensionado's met 250 tips voor dagjes uit in Nederland, inclusief wandelroutes, cultuurlocaties, natuurgebieden en culinaire adresjes. Met kleurenfoto’s.</p>]]></content>
         <author>
             <name>Jeroen van der Spek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toscanini: antipasti]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748614/toscanini--antipasti-maud-moody</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748614/toscanini--antipasti-maud-moody"/>
-        <updated>2026-10-12T16:22:21.902Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748614?aid=kb-online-bibliotheek&sid=23&dts=1791822141343&sig=1d1bbe8d80d8ba8a7aa0395040897cc203cc6dfc70afda8564e93277c1bc0c07&width=320" alt="Omslag van 'Toscanini: antipasti'" title="Omslag van 'Toscanini: antipasti'">
-<p>Verzameling recepten voor Italiaanse voorgerechten van de eigenaren van het Italiaanse restaurant Toscanini in Amsterdam. Met kleurenfoto’s.</p>]]></content>
-        <author>
-            <name>Maud Moody</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De schaduwchef]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748436/de-schaduwchef-anne-holt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748436/de-schaduwchef-anne-holt"/>
-        <updated>2026-10-12T16:22:22.545Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748436?aid=kb-online-bibliotheek&sid=23&dts=1791822142022&sig=e703d249581ef7e7e44cd0a732d8d3be9f4c495c1a8f7dcd756d3e008630062b&width=320" alt="Omslag van 'De schaduwchef'" title="Omslag van 'De schaduwchef'">
-<p>Wanneer celebritychef Brede Ziegler dood wordt aangetroffen op de trappen van het politiebureau van Oslo, gaat er een schokgolf door de stad. Hij blijkt te zijn neergestoken, en rechercheur Billy T. krijgt de zaak toegewezen. Maar al snel wordt duidelijk dat niemand de beroemde chef werkelijk leek te kennen.  Terwijl Billy T. worstelt om de zaak op te lossen, keert Hanne Wilhelmsen terug naar Oslo na een afwezigheid van zes maanden, veroorzaakt door het verlies van haar partner. Al snel ontdekt ze dat Ziegler niet alleen is neergestoken, maar ook een dodelijke hoeveelheid pijnstillers heeft ingenomen. Naarmate het onderzoek vordert, raken Hanne en Billy T. steeds dieper verstrikt in de duistere wereld waarin Ziegler zich begaf. Was hij wel wie hij beweerde te zijn? En kunnen de mensen die zeggen hem het beste te hebben gekend eigenlijk wel worden vertrouwd? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Anne Holt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zo was het niet bedoeld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748487/zo-was-het-niet-bedoeld-emily-henry</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748487/zo-was-het-niet-bedoeld-emily-henry"/>
-        <updated>2026-10-12T16:22:23.242Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748487?aid=kb-online-bibliotheek&sid=23&dts=1791822142674&sig=7e9b3d6e5fb056c15ccdcd382716c84438e8db70fc1bf5785eba5bced3974c2f&width=320" alt="Omslag van 'Zo was het niet bedoeld'" title="Omslag van 'Zo was het niet bedoeld'">
-<p>In Waning Bay, Michigan, worden een man en vrouw onverwacht kamergenoten nadat hun beide verloofdes er met elkaar vandoor gaan.</p>]]></content>
-        <author>
-            <name>Emily Henry</name>
         </author>
     </entry>
     <entry>
@@ -230,6 +163,73 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Toscanini: antipasti]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748614/toscanini--antipasti-maud-moody</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748614/toscanini--antipasti-maud-moody"/>
+        <updated>2026-10-12T16:22:21.902Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748614?aid=kb-online-bibliotheek&sid=23&dts=1791822141343&sig=1d1bbe8d80d8ba8a7aa0395040897cc203cc6dfc70afda8564e93277c1bc0c07&width=320" alt="Omslag van 'Toscanini: antipasti'" title="Omslag van 'Toscanini: antipasti'">
+<p>Verzameling recepten voor Italiaanse voorgerechten van de eigenaren van het Italiaanse restaurant Toscanini in Amsterdam. Met kleurenfoto’s.</p>]]></content>
+        <author>
+            <name>Maud Moody</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De schaduwchef]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748436/de-schaduwchef-anne-holt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748436/de-schaduwchef-anne-holt"/>
+        <updated>2026-10-12T16:22:22.545Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748436?aid=kb-online-bibliotheek&sid=23&dts=1791822142022&sig=e703d249581ef7e7e44cd0a732d8d3be9f4c495c1a8f7dcd756d3e008630062b&width=320" alt="Omslag van 'De schaduwchef'" title="Omslag van 'De schaduwchef'">
+<p>Wanneer celebritychef Brede Ziegler dood wordt aangetroffen op de trappen van het politiebureau van Oslo, gaat er een schokgolf door de stad. Hij blijkt te zijn neergestoken, en rechercheur Billy T. krijgt de zaak toegewezen. Maar al snel wordt duidelijk dat niemand de beroemde chef werkelijk leek te kennen.  Terwijl Billy T. worstelt om de zaak op te lossen, keert Hanne Wilhelmsen terug naar Oslo na een afwezigheid van zes maanden, veroorzaakt door het verlies van haar partner. Al snel ontdekt ze dat Ziegler niet alleen is neergestoken, maar ook een dodelijke hoeveelheid pijnstillers heeft ingenomen. Naarmate het onderzoek vordert, raken Hanne en Billy T. steeds dieper verstrikt in de duistere wereld waarin Ziegler zich begaf. Was hij wel wie hij beweerde te zijn? En kunnen de mensen die zeggen hem het beste te hebben gekend eigenlijk wel worden vertrouwd? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Anne Holt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het fortuin van Neptunus]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748495/het-fortuin-van-neptunus-julian-sancton</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748495/het-fortuin-van-neptunus-julian-sancton"/>
+        <updated>2026-10-12T16:22:20.628Z</updated>
+        <summary type="html"><![CDATA[Het scheepswrak van miljarden dollars en de geesten van het Spaanse Rijk]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748495?aid=kb-online-bibliotheek&sid=23&dts=1791822140079&sig=1dc94bae5ff2dd38557660a659058eaead327148aa38b8e798f684dfd1ceef25&width=320" alt="Omslag van 'Het fortuin van Neptunus'" title="Omslag van 'Het fortuin van Neptunus'">
+<p>Verhandeling over de zoektocht van een Cubaans-Amerikaanse filmmaker naar een Spaans galjoen, vol met rijkdommen uit de Nieuwe Wereld, dat zonk voor de Colombiaanse kust. Met kaarten in zwart-wit.</p>]]></content>
+        <author>
+            <name>Julian Sancton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zo was het niet bedoeld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748487/zo-was-het-niet-bedoeld-emily-henry</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748487/zo-was-het-niet-bedoeld-emily-henry"/>
+        <updated>2026-10-12T16:22:23.242Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748487?aid=kb-online-bibliotheek&sid=23&dts=1791822142674&sig=7e9b3d6e5fb056c15ccdcd382716c84438e8db70fc1bf5785eba5bced3974c2f&width=320" alt="Omslag van 'Zo was het niet bedoeld'" title="Omslag van 'Zo was het niet bedoeld'">
+<p>In Waning Bay, Michigan, worden een man en vrouw onverwacht kamergenoten nadat hun beide verloofdes er met elkaar vandoor gaan.</p>]]></content>
+        <author>
+            <name>Emily Henry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lieve Heleen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46174855X/lieve-heleen-heleen-van-royen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46174855X/lieve-heleen-heleen-van-royen"/>
+        <updated>2026-10-12T16:22:19.964Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46174855X?aid=kb-online-bibliotheek&sid=23&dts=1791822139419&sig=1e0dd7c74cd3768d1981ce450369272d4fabc8f2722903963646b9b3fa80c4c3&width=320" alt="Omslag van 'Lieve Heleen'" title="Omslag van 'Lieve Heleen'">
+<p>Bundeling van honderd stukken uit de tijdschriftenrubriek ‘Lieve Heleen’ waarin de schrijfster antwoord geeft op lezersvragen over seks, intieme dilemma's en relationele ongemakken.</p>]]></content>
+        <author>
+            <name>Heleen van Royen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fopfeminisme]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748681/fopfeminisme-lisa-loeb</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748681/fopfeminisme-lisa-loeb"/>
+        <updated>2026-10-12T16:22:19.312Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748681?aid=kb-online-bibliotheek&sid=23&dts=1791822138730&sig=eac43a01e60909bebf2d11f877ac62d2dda5f303284de4c5d420c217a5ab68c2&width=320" alt="Omslag van 'Fopfeminisme'" title="Omslag van 'Fopfeminisme'">
+<p>Analyse van gendergelijkheid in Nederland, waarin de historische wortels van ongelijkheid worden blootgelegd en het Nederlandse zelfbeeld als geëmancipeerd gidsland wordt ontkracht.</p>]]></content>
+        <author>
+            <name>Lisa Loeb</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De shortlist]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461747995/de-shortlist-andrew-raymond</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461747995/de-shortlist-andrew-raymond"/>
@@ -238,72 +238,6 @@
 <p>Wanneer de legendarische misdaadschrijver William MacRae dood wordt gevonden in zijn huis in Glasgow, wordt tophoofdinspecteur van de Schotse politie, John Lomond, op de zaak gezet. Nadat hij een shortlist van verdachten heeft opgesteld, allemaal oude vrienden van MacRae, vertrekken Lomond en zijn team naar een misdaadschrijversfestival in de Schotse Hooglanden, waar de verdachten bijeenkomen om hun overleden vriend te herdenken.  Maar er komt een hevige storm aan. En niet iedereen lijkt goede herinneringen te hebben aan MacRae. Of aan elkaar. Afgesneden van de buitenwereld in een afgelegen landhuis duurt het niet lang voordat de whisky rijkelijk vloeit, oude wrok weer oplaait en er nog een lichaam opduikt... Een van hen is de moordenaar. Maar kan Lomond alle geheimen en leugens ontrafelen om de dader te ontmaskeren voordat het te laat is?</p><p>De shortlist</p><p>zit vol met de typische Glasweegse humor van Andrew Raymond en spannende plotwendingen. Hij neemt je mee van zijn geliefde geboortestad naar de noordwestkust van Schotland. Voor de lezers van J.D. Kirk, Ian Rankin en Stuart MacBride. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Andrew Raymond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sneeuwvlokken in Starr's Fall]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748266/sneeuwvlokken-in-starr-s-fall-kate-hewitt</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748266/sneeuwvlokken-in-starr-s-fall-kate-hewitt"/>
-        <updated>2026-10-12T16:22:25.782Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748266?aid=kb-online-bibliotheek&sid=23&dts=1791813744430&sig=c56aba69afc1ea066f21d0f5256c7b60f3eda8b84da8d5e4b67d82d2d7e0fccc&width=320" alt="Omslag van 'Sneeuwvlokken in Starr's Fall'" title="Omslag van 'Sneeuwvlokken in Starr's Fall'">
-<p>Soms heb je liefde nodig om je warm te houden.  Terwijl de sterren twinkelen en de sneeuw over het stadje dwarrelt staat Jenna op het punt de magie te vinden waarvan ze niet eens wist dat ze die miste...  Jenna woont al bijna haar hele leven in Starr's Fall en runt de dorpswinkel al meer dan tien jaar. In het geheim droomt ze misschien van liefde en romantiek, maar ze is gelukkig zoals ze is. Tenminste, tot de nieuwste inwoner van Starr's Fall - de voormalige New Yorker en miljonair Jack Wexler - Jenna's winkel binnenkomt, ogenschijnlijk woedend dat ze geen gerookte zalm verkopen. Wie is die belachelijke kerel, en beseft hij dan niet dat hij niet meer in Manhattan is?  Jack is niet meer zichzelf nadat hij gedwongen werd zijn succesvolle carrière op te geven om zich op zijn gezondheid te richten. Daarnaast had hij het ook totaal niet verwacht zich aangetrokken te voelen tot een winkelierster die hij net was tegengekomen, die hij in een vlaag van woede een feeks had genoemd...  Hun vurige woordenwisselingen passen misschien niet in hun ideaalbeeld van romantiek, maar wanneer ze allebei betrokken raken bij de organisatie van de Winter Wonderland-parade, worden ze gedwongen samen te werken. Kunnen deze twee tegenpolen in het magische Starr's Fall de liefde vinden?  Een perfecte, kerstachtige enemies-to-lovers-roman, ideaal voor fans van Debbie Macomber en Virgin River. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kate Hewitt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De vrouwen van de familie Flores]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461747928/de-vrouwen-van-de-familie-flores-ang%C3%A9lica-lopes</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461747928/de-vrouwen-van-de-familie-flores-ang%C3%A9lica-lopes"/>
-        <updated>2026-10-12T16:22:25.967Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461747928?aid=kb-online-bibliotheek&sid=23&dts=1791814908051&sig=ff12895f7f1dd2dd2f31cec9f7e5f8b6dfa1861122ec042c1774b376d631ceb1&width=320" alt="Omslag van 'De vrouwen van de familie Flores'" title="Omslag van 'De vrouwen van de familie Flores'">
-<p>In 1918 verzinnen borduursters op het Braziliaanse platteland een geheime code om boodschappen te borduren die ze niet uit mogen spreken, uit angst voor hun echtgenoten. Honderd jaar later ontdekt een achttienjarige via een geërfde sluier deze geschiedenis en vindt ze moed voor haar eigen strijd.</p>]]></content>
-        <author>
-            <name>Angélica Lopes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gebroken vleugels]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748002/gebroken-vleugels-virginia-andrews</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748002/gebroken-vleugels-virginia-andrews"/>
-        <updated>2026-10-12T16:22:26.150Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748002?aid=kb-online-bibliotheek&sid=23&dts=1791810960885&sig=38e417d911464fd47ecc98664ebca6d74e85a3096803dee98d26a791420398e7&width=320" alt="Omslag van 'Gebroken vleugels'" title="Omslag van 'Gebroken vleugels'">
-<p>Drie meisjes uit verschillende werelden hebben één ding gemeen: ze zijn born to be wild! Robins moeder heeft meer aandacht voor haar zangcarrière dan voor haar eigen dochter, dus wanneer de twee naar Nashville verhuizen wordt Robin aan haar lot overgelaten. Teal doet er alles aan om de aandacht van haar ouders te trekken, maar nadat ze de wet overtreedt voor de man op wie ze verliefd is, verliest Teal hun vertrouwen volledig. Ze wordt behandeld als een gevangene in haar eigen huis. Phoebe heeft geen makkelijke start in het leven gehad, en ze is bij haar tante ingetrokken om opnieuw te beginnen. Maar dan maakt ze de fout een charmante rijke jongen te vertrouwen en opeens staat alles op het spel… Drie jonge vrouwen staan voor heel verschillende uitdagingen. Kunnen ze die samen overwinnen? 'Gebroken vleugels' is het eerste boek in de Gebroken vleugels-serie. Het verhaal van Robin, Teal en Phoebe gaat verder in het tweede en laatste deel van de serie, 'Vlucht in de nacht'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Virginia Andrews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We zijn hier niet om vrienden te maken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748169/we-zijn-hier-niet-om-vrienden-te-maken-emma-van-den-berg</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748169/we-zijn-hier-niet-om-vrienden-te-maken-emma-van-den-berg"/>
-        <updated>2026-10-12T16:22:26.367Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748169?aid=kb-online-bibliotheek&sid=23&dts=1791808466988&sig=3d5a12996fe07f1e34e00bcaf6a7c9be90fd38dcb3883356da85835f1b11a1aa&width=320" alt="Omslag van 'We zijn hier niet om vrienden te maken'" title="Omslag van 'We zijn hier niet om vrienden te maken'">
-<p>Een 30-jarige vrouw is van plan een jeugdvriendin in te lichten over wat er met hun gedeelde vriendin is gebeurd, nadat ze elkaar tien jaar amper hebben gesproken. Terwijl ze terugblikt op hun vriendschap uit het verleden, beseft ze dat haar aandeel in de breuk groter was dan ze had durven toegeven.</p>]]></content>
-        <author>
-            <name>Emma van den Berg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fien in de hoofdrol]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748312/fien-in-de-hoofdrol-harmen-van-straaten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748312/fien-in-de-hoofdrol-harmen-van-straaten"/>
-        <updated>2026-10-12T16:22:26.672Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748312?aid=kb-online-bibliotheek&sid=23&dts=1791822146464&sig=d587564760a654cc763fd404f9f4b9b5c74215e004b22d1f2721be5c2b927882&width=320" alt="Omslag van 'Fien in de hoofdrol'" title="Omslag van 'Fien in de hoofdrol'">
-<p>Fien is het leukste en ondeugendste meisje van Nederland. Lees over wat ze allemaal meemaakt op haar avonturen!  Hoi, ik ben Fien! Mijn twee beste vrienden zijn Sjoerd en Juliano. Juliano is nieuw bij ons in de straat. Zijn moeder geeft flamingoles. Ik wil later flamingodanseres worden, en anders autocoureur. O ja, Sjoerd is een beetje jaloers op Juliano. Hij vindt het niet zo leuk dat Juliano bij ons piratenclubje komt, maar van mij mag hij erbij en piraten laten elkaar nooit in de steek. Echt niet! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Harmen van Straaten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerstmis in het kleine Parijse hotel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748576/kerstmis-in-het-kleine-parijse-hotel-rebecca-raisin</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748576/kerstmis-in-het-kleine-parijse-hotel-rebecca-raisin"/>
-        <updated>2026-10-12T16:22:26.970Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748576?aid=kb-online-bibliotheek&sid=23&dts=1791822146777&sig=ee0a5fe09cdecc427141c892edd0aed7d6462c0d3ced1e41532fdeaeedcec95c&width=320" alt="Omslag van 'Kerstmis in het kleine Parijse hotel'" title="Omslag van 'Kerstmis in het kleine Parijse hotel'">
-<p>Van een vervallen hotel in Parijs een perfect boutiquehotel vol boekencharme maken, en open gaan voor kerst. Wat kan er nou misgaan?  Wanneer Anais bij haar scheiding eigenaar wordt van een bijna bouwvallig hotel in Parijs, wil ze het liefst alles snel opknappen en meteen verkopen. Het enige wat ze wil, is haar rampzalige huwelijk achter zich laten en verdergaan met haar leven.  Maar verkopen blijkt onmogelijk. Dus rest haar nog maar één optie: het hotel omtoveren tot een prachtige plek en het voor kerst openen... want tegen die tijd zal haar geld waarschijnlijk op zijn.  Waar ze niet op gerekend had is Noah, de mopperige Amerikaanse eigenaar van de bar naast haar hotel, die zich voortdurend overal mee bemoeit. En al helemaal niet op de ontdekking van een mysterieuze kamer, die de sleutel blijkt te zijn tot een honderd jaar oud geheim... over een vrouw die de liefde boven alles verkoos.  Eén ding is zeker: terwijl overal in de Lichtstad de kerstlampjes fonkelen en de eerste sneeuwvlokken naar beneden dwarrelen, wordt dit een kerst in Parijs om nooit te vergeten.  Een heerlijke, romantische feelgood vol escapisme, humor en een onvergetelijk mysterie. Het perfecte kerstboek voor fans van Emily Henry en Sarah Morgan om deze winter lekker mee weg te kruipen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Rebecca Raisin</name>
         </author>
     </entry>
     <entry>
@@ -318,17 +252,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vaders]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461748134/vaders-esther-goedegebuure</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461748134/vaders-esther-goedegebuure"/>
-        <updated>2026-10-12T16:22:27.494Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748134?aid=kb-online-bibliotheek&sid=23&dts=1791811442985&sig=539c9a8d94188d6cb3944b0560b9d837afec1fe3cf3b1b3a19f0b3bc7d8e3b18&width=320" alt="Omslag van 'Vaders'" title="Omslag van 'Vaders'">
-<p>Gesprekken met bekende vaders en deskundigen over de ontwikkeling van het moderne vaderschap, waarin de focus is verschoven van traditionele rolpatronen naar meer betrokkenheid bij het welzijn van kinderen.</p>]]></content>
-        <author>
-            <name>Esther Goedegebuure</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Een dodelijke erfenis]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/46174807X/een-dodelijke-erfenis-e-v--hunter</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/46174807X/een-dodelijke-erfenis-e-v--hunter"/>
@@ -337,6 +260,84 @@
 <p>Een tragisch incident of een vroegtijdige dood?  Wanneer Drew Hopgoods broer, Frank, om het leven komt tijdens een klimtocht, wordt er in eerste instantie gedacht dat zijn dood een tragisch ongeluk is. Maar wanneer Franks veel jongere vrouw, Stella, op Hopgood Hall verschijnt en de helft van Franks erfenis opeist, beginnen de Hopgoods en Alexi Ellis te vermoeden dat er meer aan de hand is.  Stella heeft geen recht op Franks erfenis, maar ze geeft niet zomaar op. En aangezien de reputatie van Hopgood Hall nog steeds kwetsbaar is, kan Alexi het zich niet veroorloven om door Stella's hebzucht nog meer geld te verliezen.  Daarom besluiten Alexi, haar partner Jack en Cosmo om dieper in Stella's verleden te graven. Hoe heeft zij Frank eigenlijk ontmoet en waren ze echt zo verliefd op elkaar als ze beweert?  Tijdens hun onderzoek ontdekt het trio dat Stella zo haar redenen had om terug te keren naar Hopgood Hall. En in plaats van de rouwende weduwe te troosten, beginnen Alexi en Jack zich af te vragen of ze Franks tragische dood opnieuw moeten onderzoeken - want misschien was het geen ongeluk, maar een dodelijke val, gepland door zijn eigen vrouw. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>E.V. Hunter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Meadows]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748150/de-meadows-cynthia-keyes</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748150/de-meadows-cynthia-keyes"/>
+        <updated>2026-10-13T14:43:09.818Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748150?aid=kb-online-bibliotheek&sid=23&dts=1791902589226&sig=ee76aaa891901dd3700a1051855c918874da77cc12eee69e1ecb5e9113a8f4c8&width=320" alt="Omslag van 'De Meadows'" title="Omslag van 'De Meadows'">
+<p>In het 19e-eeuwse Londen betekent het geheim van Lady Kate misschien wel haar ondergang.  Franse modeontwerpen smokkelen is al niet niets, maar wanneer Lady Kate per ongeluk Napoleons codeboek in handen krijgt, raakt ze verstrikt in een web van gevaar, verlangen en bedrog.  Wanneer bij haar wordt ingebroken en haar leven gevaar loopt, verschijnt de galante Ambrose St. Claire ten tonele - een marineofficier die door het Home Office is aangesteld om het boek terug te halen en elke stap die Kate zet in de gaten te houden. Maar al snel merkt Ambrose dat hij wordt aangetrokken tot de onverschrokken dame. Terwijl ze om elkaar heen cirkelen in een opwindende dans van aantrekkingskracht en wantrouwen, kunnen ze de elektrische vonk tussen hen niet meer ontkennen.  Wanneer de bedreigingen tegen Kate angstaanjagende proporties aannemen, moet ze haar weg vinden door een verraderlijk landschap van modieuze rivalen, familiestrategieën en dodelijke geheimen. Door een onthutsende onthulling beseft Kate dat het gevaar misschien dichter bij huis is dan ze dacht. Kan ze Ambrose vertrouwen?  De Meadows is het eerste boek in de nieuwste regency-romanceserie van Cynthia Keyes. Gesitueerd in het Engelse Regency-tijdperk tijdens de Napoleontische Oorlogen, zal dit verhaal vol liefde en intrige je volledig meeslepen. Gedurfde avonturen, geheime ontmoetingen en een romance die alles op het spel zet. Voor fans van Bridgerton. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Cynthia Keyes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuinportretjes tekenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748274/tuinportretjes-tekenen-carla-kamphuis</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748274/tuinportretjes-tekenen-carla-kamphuis"/>
+        <updated>2026-10-13T14:43:10.577Z</updated>
+        <summary type="html"><![CDATA[Van potten en planten tot kasjes en kruiwagen. Teken het stap voor stap]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748274?aid=kb-online-bibliotheek&sid=23&dts=1791902590004&sig=66e9ce3f87cde5171c1c6da17df0de3596fb5ffe18b09374e26710fb6eea1e19&width=320" alt="Omslag van 'Tuinportretjes tekenen'" title="Omslag van 'Tuinportretjes tekenen'">
+<p>In ‘Tuinportretjes tekenen’ neemt illustratrice Carla Kamphuis je mee naar buiten voor een nieuwe kijk op je tuin, balkon of moestuin. Van potten en planten tot kasjes en kruiwagens: Carla laat je stap voor stap zien hoe je met verschillende kleurmaterialen de leukste buitentafereeltjes vastlegt. Ook geeft ze veel fleurige voorbeelden zodat jij lekker aan de slag kunt. Ontdek nog meer plezier in tekenen en vul je schetsboek, journal of kaarten met vrolijke scènes, grappige details en vooral heel veel groen! </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Carla Kamphuis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moord in Marmorera]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461747987/moord-in-marmorera-onno-wesseling</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461747987/moord-in-marmorera-onno-wesseling"/>
+        <updated>2026-10-13T14:43:11.246Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461747987?aid=kb-online-bibliotheek&sid=23&dts=1791902590684&sig=6746aea8eb4b6c8bb18003f57a791461fe303d9bdcfe25261e93dedce12b4a6c&width=320" alt="Omslag van 'Moord in Marmorera'" title="Omslag van 'Moord in Marmorera'">
+<p>Wanneer Nora in 2002 hoort dat haar vader dood is gevonden aan de voet van een gletsjer in Marmorera, reist ze naar het Zwitserse bergdorp dat hij ooit ontvluchtte. De politie tast in het duister. Maar al snel blijkt dat iemand koste wat kost wil voorkomen dat oude geheimen boven water komen. Terwijl Nora graaft in het verleden vallen er opnieuw doden. Haar zoektocht voert naar 1943, naar twee jonge mannen die in het dal van Bergell begonnen als smokkelaars en eindigden in een levensgevaarlijk spel van goud, verraad en verboden liefde. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Onno Wesseling</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duivelsberg]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748029/duivelsberg-n-gray</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748029/duivelsberg-n-gray"/>
+        <updated>2026-10-13T14:43:11.866Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748029?aid=kb-online-bibliotheek&sid=23&dts=1791902591356&sig=374a7f1c1fbdcf5318a86ab069fa0323af39aeb2369ad560a018d087b734f4b8&width=320" alt="Omslag van 'Duivelsberg'" title="Omslag van 'Duivelsberg'">
+<p>Een verdwenen gezin. Een moordenaar die steeds dichterbij komt.  Wanneer Dana meehelpt bij de zoektocht naar een vermiste moeder en haar twee dochters op Duivelsberg, stuit ze op een gruwelijke vondst: de moeder is dood en de dochters zijn spoorloos verdwenen. Terwijl de zoekactie in volle gang is, ontdekt Dana een schokkende connectie met de man die haar al geruime tijd achtervolgt.  De tijd dringt. Dana moet de moord oplossen en achterhalen wat er met de meisjes is gebeurd voordat de dader opnieuw toeslaat. Maar met iedere stap die haar dichter bij de waarheid brengt, groeit ook het gevaar, en komt het roofdier dat haar achtervolgt steeds dichterbij.  Duivelsberg is een bloedstollende thriller vol onvergetelijke personages en meedogenloze plotwendingen. Dit tweede deel in de meeslepende Detective Dana Mulder-serie houdt je in zijn greep tot de allerlaatste pagina. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>N Gray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hemelhoge verslaving]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748479/hemelhoge-verslaving-zara-cox</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748479/hemelhoge-verslaving-zara-cox"/>
+        <updated>2026-10-13T14:43:12.480Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748479?aid=kb-online-bibliotheek&sid=23&dts=1791902591974&sig=7fea27c3b072d924d1e94314d14c1275fc6f01adfa80b4cb54084d86577bb9ba&width=320" alt="Omslag van 'Hemelhoge verslaving'" title="Omslag van 'Hemelhoge verslaving'">
+<p>Welkom bij de Indigo Lounge: stap aan boord en laat je remmingen los  Miljardair Zachary Savage is een man die gewend is altijd zijn zin te krijgen. Hij heeft zijn demonen begraven en is uit de as herrezen als playboy-eigenaar van de internationaal geprezen Indigo Lounge, een vloot van ultraluxe, exclusieve lustpaleizen hoog in de lucht. Hij heeft alles wat zijn hartje begeert - totdat hij Bethany Green ontmoet. Eén blik vertelt hem genoeg: hij moet haar hebben.  Bethany Green heeft het zwaarste jaar van haar leven achter de rug; tegenslagen en liefdesverdriet volgden elkaar onafgebroken op. Maar het lot gunt haar een onbetaalbaar gouden ticket: een uitnodiging om zelf de schandalig sexy Indigo Lounge te ervaren. Haar naam is niet alleen groen, ze is ook een groentje qua ervaring. Is ze moedig genoeg om de meest gewilde uitnodiging ooit te accepteren?  Eén blik op Zachary Savage is genoeg om haar ervan te overtuigen dat ze niet wereldwijs genoeg is voor zijn glamoureuze, sensuele wereld. Maar ze zijn al in de lucht, en de werkelijkheid ligt ver achter hen. Ze kunnen alleen nog maar omhoog.  Flirterig, ondeugend en onweerstaanbaar: Mile High Addiction is perfect voor fans van Liz Tomforde en Ana Huang. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Zara Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een kerstwonder in Roseford Reloved]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46174838X/een-kerstwonder-in-roseford-reloved-fay-keenan</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46174838X/een-kerstwonder-in-roseford-reloved-fay-keenan"/>
+        <updated>2026-10-13T14:43:13.145Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46174838X?aid=kb-online-bibliotheek&sid=23&dts=1791902592599&sig=dd77c93a320eef323d70f3e6bb492f7b476d29a661e063ad9c238544eb72ed49&width=320" alt="Omslag van 'Een kerstwonder in Roseford Reloved'" title="Omslag van 'Een kerstwonder in Roseford Reloved'">
+<p>Een warm en escapistisch kerstverhaal dat zich afspeelt in het knusse Roseford  Wanneer het plafond van de tweedehands kledingwinkel Roseford Reloved midden in de kerstperiode instort, is eigenaresse Polly Parrott de wanhoop nabij. Ze ziet haar droom net zo snel in duigen vallen als dat het water door haar dak naar binnen stroomt. Wat het nog erger maakt, is dat Will Sutherland, voetbalheld en nieuwe eigenaar van Parson's Grange, het nieuwe moderne landhuis in Roseford, precies onder de stortvloed staat.  Polly en Wills eerste ontmoeting is allesbehalve succesvol, maar kunnen ze tijdens een feestelijke periode vol kerstmarkten, een kerstgala en onverwachte sneeuwbuien toch een vriendschap beginnen - of zelfs meer? Of zullen de gebeurtenissen in hun levens hun romance beëindigen nog voor die goed en wel begonnen is?  Kruip lekker weg met Fay Keenans nieuwste winterse romance, perfect voor fans van Holly Martin, Cathy Bramley en Jo Bartlett. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Fay Keenan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sneeuwvlokken in Starr's Fall]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461748266/sneeuwvlokken-in-starr-s-fall-kate-hewitt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461748266/sneeuwvlokken-in-starr-s-fall-kate-hewitt"/>
+        <updated>2026-10-12T16:22:25.782Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461748266?aid=kb-online-bibliotheek&sid=23&dts=1791813744430&sig=c56aba69afc1ea066f21d0f5256c7b60f3eda8b84da8d5e4b67d82d2d7e0fccc&width=320" alt="Omslag van 'Sneeuwvlokken in Starr's Fall'" title="Omslag van 'Sneeuwvlokken in Starr's Fall'">
+<p>Soms heb je liefde nodig om je warm te houden.  Terwijl de sterren twinkelen en de sneeuw over het stadje dwarrelt staat Jenna op het punt de magie te vinden waarvan ze niet eens wist dat ze die miste...  Jenna woont al bijna haar hele leven in Starr's Fall en runt de dorpswinkel al meer dan tien jaar. In het geheim droomt ze misschien van liefde en romantiek, maar ze is gelukkig zoals ze is. Tenminste, tot de nieuwste inwoner van Starr's Fall - de voormalige New Yorker en miljonair Jack Wexler - Jenna's winkel binnenkomt, ogenschijnlijk woedend dat ze geen gerookte zalm verkopen. Wie is die belachelijke kerel, en beseft hij dan niet dat hij niet meer in Manhattan is?  Jack is niet meer zichzelf nadat hij gedwongen werd zijn succesvolle carrière op te geven om zich op zijn gezondheid te richten. Daarnaast had hij het ook totaal niet verwacht zich aangetrokken te voelen tot een winkelierster die hij net was tegengekomen, die hij in een vlaag van woede een feeks had genoemd...  Hun vurige woordenwisselingen passen misschien niet in hun ideaalbeeld van romantiek, maar wanneer ze allebei betrokken raken bij de organisatie van de Winter Wonderland-parade, worden ze gedwongen samen te werken. Kunnen deze twee tegenpolen in het magische Starr's Fall de liefde vinden?  Een perfecte, kerstachtige enemies-to-lovers-roman, ideaal voor fans van Debbie Macomber en Virgin River. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Kate Hewitt</name>
         </author>
     </entry>
 </feed>
