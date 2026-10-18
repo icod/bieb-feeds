@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-10-17T11:17:13.456Z</updated>
+    <updated>2026-10-18T11:53:20.992Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Swart mar leaflik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/37530066X/swart-mar-leaflik-watse-cuperus</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/37530066X/swart-mar-leaflik-watse-cuperus"/>
+        <updated>2026-10-16T12:01:24.752Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A37530066X?aid=kb-online-bibliotheek&sid=23&dts=1792136757158&sig=41279796f022b2693c4b940b4e041427626f8ab47e315f9186febbc4730eb1e3&width=320" alt="Omslag van 'Swart mar leaflik'" title="Omslag van 'Swart mar leaflik'">
+<p>Een eigenzinnige jonge vrouw probeert in het calvinistische en arme noorden van Friesland aan het eind van de 19e eeuw een bestaan op te bouwen.</p>]]></content>
+        <author>
+            <name>Watse Cuperus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sunder garansje]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/375300651/sunder-garansje-froukje-annema</id>
@@ -16,6 +27,17 @@
 <p>Als bij een vrouw borstkanker geconstateerd wordt, gaat zij een moeilijke periode tegemoet.</p>]]></content>
         <author>
             <name>Froukje Annema</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eilan fan de silligen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/37134087X/eilan-fan-de-silligen-ypk-fan-der-fear</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/37134087X/eilan-fan-de-silligen-ypk-fan-der-fear"/>
+        <updated>2026-10-16T12:01:25.941Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A37134087X?aid=kb-online-bibliotheek&sid=23&dts=1792138409241&sig=53a9860c922e9c05e49a93a8d85226585a368cb19debe6b9a725905730fec6ed&width=320" alt="Omslag van 'Eilan fan de silligen'" title="Omslag van 'Eilan fan de silligen'">
+<p>Het levensverhaal van de 17e eeuwse godsdienstige leidster Antoinnette Bourignon.</p>]]></content>
+        <author>
+            <name>Ypk fan der Fear</name>
         </author>
     </entry>
     <entry>
@@ -30,14 +52,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foar de lins]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/385981260/foar-de-lins-paulus-akkerman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/385981260/foar-de-lins-paulus-akkerman"/>
-        <updated>2026-10-16T12:01:38.080Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A385981260?aid=kb-online-bibliotheek&sid=23&dts=1792135127524&sig=b535b8c51a21ae32e36683e4f457ff4cbf4287a1f45f26dffa6a23586849f7ec&width=320" alt="Omslag van 'Foar de lins'" title="Omslag van 'Foar de lins'">
-<p>De ferhalen `Foar de lins fan Paulus Akkerman yn de `Sneon en Snein-bylage fan de Ljouwerter Krante ha fan 'e miet ôf oan - dat wie 9 oktober 1965 - in grut en tankber lêzerspublyk fûn. Net allinne de âlderein, dy't harsels faken werom fynt yn dizze ferhalen, is der sljocht nei, mar ek de jongerein, want Akkerman is in smoute forteller en in skerpe opmerker, ek fan de moderne tiid. Paulus Akkerman nimt yn syn ferhalen de minske foar de lins. Benammen de lytse man, de ferhûddûke minske, dy't tamtearre en gnjirde wurdt troch de maatskippij, dy't te lider slein wurdt troch libben en lot, dy't net mear past yn `it systeem, dy't der oer rekket. It binne boer en arbeider, winkelman en skipper dy't it paad romje moatte foar sanearing, ruilferkaveling, krotopromming, yndustrialisaasje en útwreidingsplannen. Hy tekent dy minske op 'e drompel fan de âlde nei de nije tiid mei in skerp each foar it detail, mei in tûk ear foar it praat fan `gewoane minsken en mei in mylde, faken wat mankelike humor. De skilder P.H. van Asperen út Ljouwert hat sfear en toan fan Akkerman syn ferhalen tige goed oanfield en treflik fêstlein yn syn tekeningen. Hy is sels 73 jier en kin dus de tastannen en figueren, dy't Akkerman beskriuwt, út 'e pinne. Syn `Evert winkelman op it omslach is wol symboalysk foar de minsken, dy't yn dit boekje foar de lins lâns komme. Mei dizze kar hopet de Ljouwerter Krante de tûzenen lêzers fan `Foar de lins in deugd te dwaan en tagelyk in lyts minsklik dokumint to jaan fan in Fryslân, dat sa hurd oan it feroarjen is. Paulus Akkerman (1908 - 1982) groeide op yn in ienfâldich, grifformeard middenstânsmiljeu en wie bakker yn Marrum en kassier fan in bank op Skiermûntseach. Hy wie in tige populêre folksskriuwer en publisearre san tweintich romans en hûnderten sketsen, kursyfkes en koarte ferhalen. Yn 1971 krige er de Gysbert Japicxpriis foar syn roman It roer út hannen en de beide bondels kursyfkes Foar de lins en Dat sadwaende. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[In brulloft yn 'e Walden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/371340942/in-brulloft-yn--e-walden-tjibbe-gearts-van-der-meulen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/371340942/in-brulloft-yn--e-walden-tjibbe-gearts-van-der-meulen"/>
+        <updated>2026-10-16T12:01:27.101Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340942?aid=kb-online-bibliotheek&sid=23&dts=1792150770866&sig=bfb93d61878b052da9775ea1bf8c45f3a8da02baab842adc9d541a7233b67109&width=320" alt="Omslag van 'In brulloft yn 'e Walden'" title="Omslag van 'In brulloft yn 'e Walden'">
+<p>Keuze uit het werk van de 19e-eeuwse Friese volksschrijver.</p>]]></content>
         <author>
-            <name>Paulus Akkerman</name>
+            <name>Tjibbe Gearts van der Meulen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De hoara's fan hastings]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/375300716/de-hoara-s-fan-hastings-simke-kloosterman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/375300716/de-hoara-s-fan-hastings-simke-kloosterman"/>
+        <updated>2026-10-16T12:01:27.947Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300716?aid=kb-online-bibliotheek&sid=23&dts=1792152087425&sig=233ccd8aa27a47de81a2aa705ddecdde19f97a258e70178c044483a26732dcaa&width=320" alt="Omslag van 'De hoara's fan hastings'" title="Omslag van 'De hoara's fan hastings'">
+<p>Een rijke boerenfamilie voelt zich bedreigd door het opkomend socialisme onder de boerenarbeiders.</p>]]></content>
+        <author>
+            <name>Simke Kloosterman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frijende kikkerts]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/371340896/frijende-kikkerts-hylkje-goinga</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/371340896/frijende-kikkerts-hylkje-goinga"/>
+        <updated>2026-10-16T12:01:28.638Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340896?aid=kb-online-bibliotheek&sid=23&dts=1792152088063&sig=d8338d5529fb3e5a3e0e9469d9f0dfb4b811c8512db9c0b149f9a605aa9cc6cc&width=320" alt="Omslag van 'Frijende kikkerts'" title="Omslag van 'Frijende kikkerts'">
+<p>Een vrouw tracht na ongelukkige huwelijkservaringen tot rust te komen in een psychiatrische inrichting.</p>]]></content>
+        <author>
+            <name>Hylkje Goinga</name>
         </author>
     </entry>
     <entry>
@@ -63,62 +107,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skiednis fan de Fryske biweging]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300767/skiednis-fan-de-fryske-biweging-sjoerd-van-der-schaaf</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300767/skiednis-fan-de-fryske-biweging-sjoerd-van-der-schaaf"/>
-        <updated>2026-10-16T12:01:43.509Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300767?aid=kb-online-bibliotheek&sid=23&dts=1792152102807&sig=c8aa9e18f9b218878a992198b01899a7a8137472303ba4616c63ca579ecae3e4&width=320" alt="Omslag van 'Skiednis fan de Fryske biweging'" title="Omslag van 'Skiednis fan de Fryske biweging'">
-<p>Geschiedenis van de Friese beweging.</p>]]></content>
-        <author>
-            <name>Sjoerd van der Schaaf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De oare helte]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300791/de-oare-helte-tineke-j--steenmeijer-wielenga</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300791/de-oare-helte-tineke-j--steenmeijer-wielenga"/>
-        <updated>2026-10-17T11:17:12.201Z</updated>
-        <summary type="html"><![CDATA[nynke fan Hichtum, de frou fan Piter Jelles]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300791?aid=kb-online-bibliotheek&sid=23&dts=1792235831646&sig=1a2034d467740e4f3917c20c49c04de887f80786430c8564d2dc134e83bc78b0&width=320" alt="Omslag van 'De oare helte'" title="Omslag van 'De oare helte'">
-<p>Terugblik van Sjoukje Troelstra-Bokma de Boer (1860-1939) op haar leven, vooral op haar relatie met Pieter Jelles Troelstra, de revolutionaire politicus, met wie ze in 1888 trouwde en van wie ze in 1907 scheidde.</p>]]></content>
-        <author>
-            <name>Tineke J. Steenmeijer-Wielenga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imitaasjelear]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/371340853/imitaasjelear-jitske-bilker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/371340853/imitaasjelear-jitske-bilker"/>
-        <updated>2026-10-16T12:01:35.544Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340853?aid=kb-online-bibliotheek&sid=23&dts=1792152094987&sig=b18e2fb853129c6bd025a826653aac7e13f1a39565582ec03c36223ade5deb88&width=320" alt="Omslag van 'Imitaasjelear'" title="Omslag van 'Imitaasjelear'">
-<p>Een jonge onderwijzeres breekt radicaal met haar ouders en richt haar leven naar eigen wens in.</p>]]></content>
-        <author>
-            <name>Jitske Bilker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It libben sels]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/371340861/it-libben-sels-piter-boersma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/371340861/it-libben-sels-piter-boersma"/>
-        <updated>2026-10-16T12:01:40.236Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340861?aid=kb-online-bibliotheek&sid=23&dts=1792152099532&sig=60c979945afcced21f492bb92884062f78df8e5e1aff7fcb8da6ea5402b2975d&width=320" alt="Omslag van 'It libben sels'" title="Omslag van 'It libben sels'">
-<p>Grotesk-experimenteel relaas van een 45-jarige man die terugkijkt op vijf huwelijken.</p>]]></content>
-        <author>
-            <name>Piter Boersma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In bolle yn 'e reak]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/371340985/in-bolle-yn--e-reak-anne-wadman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/371340985/in-bolle-yn--e-reak-anne-wadman"/>
-        <updated>2026-10-16T12:01:36.734Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340985?aid=kb-online-bibliotheek&sid=23&dts=1792137019839&sig=7f07e0f08730c0dcd8cd71639aa24ff3557b63dd3a18270f847d51adaad03d62&width=320" alt="Omslag van 'In bolle yn 'e reak'" title="Omslag van 'In bolle yn 'e reak'">
-<p>In de eerste jaren na de Tweede Wereldoorlog blijft het oorlogsverleden de gemoederen in een Fries dorpje beheersen.</p>]]></content>
-        <author>
-            <name>Anne Wadman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De smearlappen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/371341019/de-smearlappen-anne-wadman</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/371341019/de-smearlappen-anne-wadman"/>
@@ -138,106 +126,6 @@
 <p>"Minskrotten-Rotminsken is it meast aparte en fernijende boek dat Riemersma oan de Fryske literatuer bydroegen hat. Hy hat syn nocht fan de roman, hy wol net langer de slaaf fan it ferhaal weze en dêrom siket er it yn spontane ynfallen en oprispingen. Mar de rotten meitsje har baas en soargje derfoar dat der dochs in ferhaal yn it boek komt."</p>]]></content>
         <author>
             <name>Trinus Riemersma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De hoara's fan hastings]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300716/de-hoara-s-fan-hastings-simke-kloosterman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300716/de-hoara-s-fan-hastings-simke-kloosterman"/>
-        <updated>2026-10-16T12:01:27.947Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300716?aid=kb-online-bibliotheek&sid=23&dts=1792152087425&sig=233ccd8aa27a47de81a2aa705ddecdde19f97a258e70178c044483a26732dcaa&width=320" alt="Omslag van 'De hoara's fan hastings'" title="Omslag van 'De hoara's fan hastings'">
-<p>Een rijke boerenfamilie voelt zich bedreigd door het opkomend socialisme onder de boerenarbeiders.</p>]]></content>
-        <author>
-            <name>Simke Kloosterman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simmer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300694/simmer-nyckle-j--haisma</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300694/simmer-nyckle-j--haisma"/>
-        <updated>2026-10-16T12:01:33.734Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300694?aid=kb-online-bibliotheek&sid=23&dts=1792152093254&sig=b75c5ff5f133bf39388781836c1f6cbbbda862e651f81722dfb72a9b00dc2e40&width=320" alt="Omslag van 'Simmer'" title="Omslag van 'Simmer'">
-<p>Als een man na een kwart eeuw uit het buitenland terugkeert naar zijn geboorteplaats op het Friese platteland, beleeft hij een intense zomer.</p>]]></content>
-        <author>
-            <name>Nyckle J. Haisma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In fatsoenlik famke]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/371340888/in-fatsoenlik-famke-ypk-fan-der-fear</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/371340888/in-fatsoenlik-famke-ypk-fan-der-fear"/>
-        <updated>2026-10-16T12:01:38.628Z</updated>
-        <summary type="html"><![CDATA[autobiografi]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340888?aid=kb-online-bibliotheek&sid=23&dts=1792145008524&sig=2ec7aa04a1bf05a11b85b79ee9c6e6503e97d0e4581063d01d30d215e3db56f7&width=320" alt="Omslag van 'In fatsoenlik famke'" title="Omslag van 'In fatsoenlik famke'">
-<p>Autobiografisch relaas van de Friese schrijfster (1908-1983) over haar eerste twintig levensjaren.</p>]]></content>
-        <author>
-            <name>Ypk fan der Fear</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Kaartlizzer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300848/de-kaartlizzer-hjerre-gjerrits-van-der-veen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300848/de-kaartlizzer-hjerre-gjerrits-van-der-veen"/>
-        <updated>2026-10-17T11:17:12.879Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300848?aid=kb-online-bibliotheek&sid=23&dts=1792235832317&sig=2971550e13bce7c6f40c1b4d3d0a57c6e0978ff860272eefbc22ee27f52da787&width=320" alt="Omslag van 'De Kaartlizzer'" title="Omslag van 'De Kaartlizzer'">
-<p>"De Kaartlizzer (1856) fertelt in skiednis fan begearte en bedroch dy't him ôfspilet yn in broeiske sfear fan rabberij, byleauwe en erotyk. It is it ferhaal fan in groeiende spjalt tusken man en wiif. Hy in bolderbast dy't it leauwe ôfsward hat, sy fynynlein, from foar de hân, bang en byleauwich. In kaartlizzer hat har foarsein dat har man stjerre en sy boerinne wurde sil, en dan begjint se út te sjen nei de dea fan har man. Troch it tapassen fan flashbacks en toanieldialogen en troch it efterhâlden fan ynformaasje liket it ferhaal ynearsten in puzzel dy't de lezer oplosse moat. Oan 'e ein falle de stikken teplak yn in flymskerp portret."</p>]]></content>
-        <author>
-            <name>Hjerre Gjerrits van der Veen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De boumaster fan de aldehou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300805/de-boumaster-fan-de-aldehou-d-a--tamminga</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300805/de-boumaster-fan-de-aldehou-d-a--tamminga"/>
-        <updated>2026-10-16T12:01:37.564Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300805?aid=kb-online-bibliotheek&sid=23&dts=1792152097057&sig=a795817c2c0e1d1695781118cbb46bfe172a8519ab3d0bdcc3d64c3f14f87f58&width=320" alt="Omslag van 'De boumaster fan de aldehou'" title="Omslag van 'De boumaster fan de aldehou'">
-<p>Rond de bouw van de Oldehove in Leeuwarden, in 1529 begonnen, spelen zich velerlei verwikkelingen af.</p>]]></content>
-        <author>
-            <name>D.A. Tamminga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It freark jabiks folk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/371340845/it-freark-jabiks-folk-paulus-akkerman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/371340845/it-freark-jabiks-folk-paulus-akkerman"/>
-        <updated>2026-10-16T12:01:34.245Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340845?aid=kb-online-bibliotheek&sid=23&dts=1792145009652&sig=8a39eae94526bc379a40420f3b6ecf4ce62c9ec80de7fdf8f64fc70db1db2d19&width=320" alt="Omslag van 'It freark jabiks folk'" title="Omslag van 'It freark jabiks folk'">
-<p>De levensloop van de kinderen van een schipper.</p>]]></content>
-        <author>
-            <name>Paulus Akkerman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De froulju fan de fetweider]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300708/de-froulju-fan-de-fetweider-douwe-hermans-kiestra</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300708/de-froulju-fan-de-fetweider-douwe-hermans-kiestra"/>
-        <updated>2026-10-16T12:01:34.886Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300708?aid=kb-online-bibliotheek&sid=23&dts=1792152094353&sig=f568d3c4e0e38899f3782cef3eb777f20feec43f9b52da5b055743663f61a3e4&width=320" alt="Omslag van 'De froulju fan de fetweider'" title="Omslag van 'De froulju fan de fetweider'">
-<p>De dochters van een Friese boer komen heel verschillend terecht.</p>]]></content>
-        <author>
-            <name>Douwe Hermans Kiestra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ta him dyn begearte]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300678/ta-him-dyn-begearte-ypk-fan-der-fear</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300678/ta-him-dyn-begearte-ypk-fan-der-fear"/>
-        <updated>2026-10-16T12:01:36.152Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300678?aid=kb-online-bibliotheek&sid=23&dts=1792152095650&sig=6912cb31b6adef872e6917b60ddd3ace9e009bc4f79f3e7d298de177f70be2c5&width=320" alt="Omslag van 'Ta him dyn begearte'" title="Omslag van 'Ta him dyn begearte'">
-<p>Een arm boerenmeisje in Gaasterland aan het begin van de twintigste eeuw vat een liefde voor een boerenzoon op, die gezien de sociale verhoudingen uitzichtloos is.</p>]]></content>
-        <author>
-            <name>Ypk fan der Fear</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swart op wyt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300856/swart-op-wyt-akky-van-der-veer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300856/swart-op-wyt-akky-van-der-veer"/>
-        <updated>2026-10-16T12:01:41.153Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300856?aid=kb-online-bibliotheek&sid=23&dts=1792152100378&sig=a64021d4cd1b717129c7bb93f11ea1ee49940176163476fb6cece6a4f3b74b54&width=320" alt="Omslag van 'Swart op wyt'" title="Omslag van 'Swart op wyt'">
-<p>Femke (16, ik-figuur) schrijft in haar dagboek hoe het haar is gelukt iets over haar verdwenen vader te weten te komen. Vanaf ca. 14 jaar.</p>]]></content>
-        <author>
-            <name>Akky van der Veer</name>
         </author>
     </entry>
     <entry>
@@ -264,17 +152,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frijende kikkerts]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/371340896/frijende-kikkerts-hylkje-goinga</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/371340896/frijende-kikkerts-hylkje-goinga"/>
-        <updated>2026-10-16T12:01:28.638Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340896?aid=kb-online-bibliotheek&sid=23&dts=1792152088063&sig=d8338d5529fb3e5a3e0e9469d9f0dfb4b811c8512db9c0b149f9a605aa9cc6cc&width=320" alt="Omslag van 'Frijende kikkerts'" title="Omslag van 'Frijende kikkerts'">
-<p>Een vrouw tracht na ongelukkige huwelijkservaringen tot rust te komen in een psychiatrische inrichting.</p>]]></content>
-        <author>
-            <name>Hylkje Goinga</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Komme dy kepers? / Boef fan Rys]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/371340934/komme-dy-kepers----boef-fan-rys-r-r--van-der-leest</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/371340934/komme-dy-kepers----boef-fan-rys-r-r--van-der-leest"/>
@@ -286,14 +163,103 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Op 'e literaire toer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300732/op--e-literaire-toer-hessel-miedema</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300732/op--e-literaire-toer-hessel-miedema"/>
-        <updated>2026-10-17T11:17:13.455Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300732?aid=kb-online-bibliotheek&sid=23&dts=1792162077170&sig=f45bb71d384d547e5cb257aba9ff9e261f555a2ad235d230f9fa86c71028a50a&width=320" alt="Omslag van 'Op 'e literaire toer'" title="Omslag van 'Op 'e literaire toer'">
-<p>Bundeling van in het Fries geschreven proza, poëzie en essays van de Nederlandse kunsthistoricus (1929-</p><p> ).</p>]]></content>
+        <title type="html"><![CDATA[Simmer]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/375300694/simmer-nyckle-j--haisma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/375300694/simmer-nyckle-j--haisma"/>
+        <updated>2026-10-16T12:01:33.734Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300694?aid=kb-online-bibliotheek&sid=23&dts=1792152093254&sig=b75c5ff5f133bf39388781836c1f6cbbbda862e651f81722dfb72a9b00dc2e40&width=320" alt="Omslag van 'Simmer'" title="Omslag van 'Simmer'">
+<p>Als een man na een kwart eeuw uit het buitenland terugkeert naar zijn geboorteplaats op het Friese platteland, beleeft hij een intense zomer.</p>]]></content>
         <author>
-            <name>Hessel Miedema</name>
+            <name>Nyckle J. Haisma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It freark jabiks folk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/371340845/it-freark-jabiks-folk-paulus-akkerman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/371340845/it-freark-jabiks-folk-paulus-akkerman"/>
+        <updated>2026-10-16T12:01:34.245Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340845?aid=kb-online-bibliotheek&sid=23&dts=1792145009652&sig=8a39eae94526bc379a40420f3b6ecf4ce62c9ec80de7fdf8f64fc70db1db2d19&width=320" alt="Omslag van 'It freark jabiks folk'" title="Omslag van 'It freark jabiks folk'">
+<p>De levensloop van de kinderen van een schipper.</p>]]></content>
+        <author>
+            <name>Paulus Akkerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De froulju fan de fetweider]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/375300708/de-froulju-fan-de-fetweider-douwe-hermans-kiestra</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/375300708/de-froulju-fan-de-fetweider-douwe-hermans-kiestra"/>
+        <updated>2026-10-16T12:01:34.886Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300708?aid=kb-online-bibliotheek&sid=23&dts=1792152094353&sig=f568d3c4e0e38899f3782cef3eb777f20feec43f9b52da5b055743663f61a3e4&width=320" alt="Omslag van 'De froulju fan de fetweider'" title="Omslag van 'De froulju fan de fetweider'">
+<p>De dochters van een Friese boer komen heel verschillend terecht.</p>]]></content>
+        <author>
+            <name>Douwe Hermans Kiestra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imitaasjelear]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/371340853/imitaasjelear-jitske-bilker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/371340853/imitaasjelear-jitske-bilker"/>
+        <updated>2026-10-16T12:01:35.544Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340853?aid=kb-online-bibliotheek&sid=23&dts=1792152094987&sig=b18e2fb853129c6bd025a826653aac7e13f1a39565582ec03c36223ade5deb88&width=320" alt="Omslag van 'Imitaasjelear'" title="Omslag van 'Imitaasjelear'">
+<p>Een jonge onderwijzeres breekt radicaal met haar ouders en richt haar leven naar eigen wens in.</p>]]></content>
+        <author>
+            <name>Jitske Bilker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ta him dyn begearte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/375300678/ta-him-dyn-begearte-ypk-fan-der-fear</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/375300678/ta-him-dyn-begearte-ypk-fan-der-fear"/>
+        <updated>2026-10-16T12:01:36.152Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300678?aid=kb-online-bibliotheek&sid=23&dts=1792152095650&sig=6912cb31b6adef872e6917b60ddd3ace9e009bc4f79f3e7d298de177f70be2c5&width=320" alt="Omslag van 'Ta him dyn begearte'" title="Omslag van 'Ta him dyn begearte'">
+<p>Een arm boerenmeisje in Gaasterland aan het begin van de twintigste eeuw vat een liefde voor een boerenzoon op, die gezien de sociale verhoudingen uitzichtloos is.</p>]]></content>
+        <author>
+            <name>Ypk fan der Fear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In bolle yn 'e reak]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/371340985/in-bolle-yn--e-reak-anne-wadman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/371340985/in-bolle-yn--e-reak-anne-wadman"/>
+        <updated>2026-10-16T12:01:36.734Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340985?aid=kb-online-bibliotheek&sid=23&dts=1792137019839&sig=7f07e0f08730c0dcd8cd71639aa24ff3557b63dd3a18270f847d51adaad03d62&width=320" alt="Omslag van 'In bolle yn 'e reak'" title="Omslag van 'In bolle yn 'e reak'">
+<p>In de eerste jaren na de Tweede Wereldoorlog blijft het oorlogsverleden de gemoederen in een Fries dorpje beheersen.</p>]]></content>
+        <author>
+            <name>Anne Wadman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De boumaster fan de aldehou]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/375300805/de-boumaster-fan-de-aldehou-d-a--tamminga</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/375300805/de-boumaster-fan-de-aldehou-d-a--tamminga"/>
+        <updated>2026-10-16T12:01:37.564Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300805?aid=kb-online-bibliotheek&sid=23&dts=1792152097057&sig=a795817c2c0e1d1695781118cbb46bfe172a8519ab3d0bdcc3d64c3f14f87f58&width=320" alt="Omslag van 'De boumaster fan de aldehou'" title="Omslag van 'De boumaster fan de aldehou'">
+<p>Rond de bouw van de Oldehove in Leeuwarden, in 1529 begonnen, spelen zich velerlei verwikkelingen af.</p>]]></content>
+        <author>
+            <name>D.A. Tamminga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foar de lins]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/385981260/foar-de-lins-paulus-akkerman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/385981260/foar-de-lins-paulus-akkerman"/>
+        <updated>2026-10-16T12:01:38.080Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A385981260?aid=kb-online-bibliotheek&sid=23&dts=1792135127524&sig=b535b8c51a21ae32e36683e4f457ff4cbf4287a1f45f26dffa6a23586849f7ec&width=320" alt="Omslag van 'Foar de lins'" title="Omslag van 'Foar de lins'">
+<p>De ferhalen `Foar de lins fan Paulus Akkerman yn de `Sneon en Snein-bylage fan de Ljouwerter Krante ha fan 'e miet ôf oan - dat wie 9 oktober 1965 - in grut en tankber lêzerspublyk fûn. Net allinne de âlderein, dy't harsels faken werom fynt yn dizze ferhalen, is der sljocht nei, mar ek de jongerein, want Akkerman is in smoute forteller en in skerpe opmerker, ek fan de moderne tiid. Paulus Akkerman nimt yn syn ferhalen de minske foar de lins. Benammen de lytse man, de ferhûddûke minske, dy't tamtearre en gnjirde wurdt troch de maatskippij, dy't te lider slein wurdt troch libben en lot, dy't net mear past yn `it systeem, dy't der oer rekket. It binne boer en arbeider, winkelman en skipper dy't it paad romje moatte foar sanearing, ruilferkaveling, krotopromming, yndustrialisaasje en útwreidingsplannen. Hy tekent dy minske op 'e drompel fan de âlde nei de nije tiid mei in skerp each foar it detail, mei in tûk ear foar it praat fan `gewoane minsken en mei in mylde, faken wat mankelike humor. De skilder P.H. van Asperen út Ljouwert hat sfear en toan fan Akkerman syn ferhalen tige goed oanfield en treflik fêstlein yn syn tekeningen. Hy is sels 73 jier en kin dus de tastannen en figueren, dy't Akkerman beskriuwt, út 'e pinne. Syn `Evert winkelman op it omslach is wol symboalysk foar de minsken, dy't yn dit boekje foar de lins lâns komme. Mei dizze kar hopet de Ljouwerter Krante de tûzenen lêzers fan `Foar de lins in deugd te dwaan en tagelyk in lyts minsklik dokumint to jaan fan in Fryslân, dat sa hurd oan it feroarjen is. Paulus Akkerman (1908 - 1982) groeide op yn in ienfâldich, grifformeard middenstânsmiljeu en wie bakker yn Marrum en kassier fan in bank op Skiermûntseach. Hy wie in tige populêre folksskriuwer en publisearre san tweintich romans en hûnderten sketsen, kursyfkes en koarte ferhalen. Yn 1971 krige er de Gysbert Japicxpriis foar syn roman It roer út hannen en de beide bondels kursyfkes Foar de lins en Dat sadwaende. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Paulus Akkerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In fatsoenlik famke]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/371340888/in-fatsoenlik-famke-ypk-fan-der-fear</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/371340888/in-fatsoenlik-famke-ypk-fan-der-fear"/>
+        <updated>2026-10-16T12:01:38.628Z</updated>
+        <summary type="html"><![CDATA[autobiografi]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340888?aid=kb-online-bibliotheek&sid=23&dts=1792145008524&sig=2ec7aa04a1bf05a11b85b79ee9c6e6503e97d0e4581063d01d30d215e3db56f7&width=320" alt="Omslag van 'In fatsoenlik famke'" title="Omslag van 'In fatsoenlik famke'">
+<p>Autobiografisch relaas van de Friese schrijfster (1908-1983) over haar eerste twintig levensjaren.</p>]]></content>
+        <author>
+            <name>Ypk fan der Fear</name>
         </author>
     </entry>
     <entry>
@@ -308,6 +274,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[It libben sels]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/371340861/it-libben-sels-piter-boersma</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/371340861/it-libben-sels-piter-boersma"/>
+        <updated>2026-10-16T12:01:40.236Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340861?aid=kb-online-bibliotheek&sid=23&dts=1792152099532&sig=60c979945afcced21f492bb92884062f78df8e5e1aff7fcb8da6ea5402b2975d&width=320" alt="Omslag van 'It libben sels'" title="Omslag van 'It libben sels'">
+<p>Grotesk-experimenteel relaas van een 45-jarige man die terugkijkt op vijf huwelijken.</p>]]></content>
+        <author>
+            <name>Piter Boersma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swart op wyt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/375300856/swart-op-wyt-akky-van-der-veer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/375300856/swart-op-wyt-akky-van-der-veer"/>
+        <updated>2026-10-16T12:01:41.153Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300856?aid=kb-online-bibliotheek&sid=23&dts=1792152100378&sig=a64021d4cd1b717129c7bb93f11ea1ee49940176163476fb6cece6a4f3b74b54&width=320" alt="Omslag van 'Swart op wyt'" title="Omslag van 'Swart op wyt'">
+<p>Femke (16, ik-figuur) schrijft in haar dagboek hoe het haar is gelukt iets over haar verdwenen vader te weten te komen. Vanaf ca. 14 jaar.</p>]]></content>
+        <author>
+            <name>Akky van der Veer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ut 'e underste lagen]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/375300686/ut--e-underste-lagen-s-k--feitsma</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/375300686/ut--e-underste-lagen-s-k--feitsma"/>
@@ -319,25 +307,37 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Swart mar leaflik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/37530066X/swart-mar-leaflik-watse-cuperus</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/37530066X/swart-mar-leaflik-watse-cuperus"/>
-        <updated>2026-10-16T12:01:24.752Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A37530066X?aid=kb-online-bibliotheek&sid=23&dts=1792136757158&sig=41279796f022b2693c4b940b4e041427626f8ab47e315f9186febbc4730eb1e3&width=320" alt="Omslag van 'Swart mar leaflik'" title="Omslag van 'Swart mar leaflik'">
-<p>Een eigenzinnige jonge vrouw probeert in het calvinistische en arme noorden van Friesland aan het eind van de 19e eeuw een bestaan op te bouwen.</p>]]></content>
+        <title type="html"><![CDATA[Skiednis fan de Fryske biweging]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/375300767/skiednis-fan-de-fryske-biweging-sjoerd-van-der-schaaf</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/375300767/skiednis-fan-de-fryske-biweging-sjoerd-van-der-schaaf"/>
+        <updated>2026-10-16T12:01:43.509Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300767?aid=kb-online-bibliotheek&sid=23&dts=1792152102807&sig=c8aa9e18f9b218878a992198b01899a7a8137472303ba4616c63ca579ecae3e4&width=320" alt="Omslag van 'Skiednis fan de Fryske biweging'" title="Omslag van 'Skiednis fan de Fryske biweging'">
+<p>Geschiedenis van de Friese beweging.</p>]]></content>
         <author>
-            <name>Watse Cuperus</name>
+            <name>Sjoerd van der Schaaf</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In brulloft yn 'e Walden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/371340942/in-brulloft-yn--e-walden-tjibbe-gearts-van-der-meulen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/371340942/in-brulloft-yn--e-walden-tjibbe-gearts-van-der-meulen"/>
-        <updated>2026-10-16T12:01:27.101Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340942?aid=kb-online-bibliotheek&sid=23&dts=1792150770866&sig=bfb93d61878b052da9775ea1bf8c45f3a8da02baab842adc9d541a7233b67109&width=320" alt="Omslag van 'In brulloft yn 'e Walden'" title="Omslag van 'In brulloft yn 'e Walden'">
-<p>Keuze uit het werk van de 19e-eeuwse Friese volksschrijver.</p>]]></content>
+        <title type="html"><![CDATA[Op 'e literaire toer]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/375300732/op--e-literaire-toer-hessel-miedema</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/375300732/op--e-literaire-toer-hessel-miedema"/>
+        <updated>2026-10-17T11:17:13.455Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300732?aid=kb-online-bibliotheek&sid=23&dts=1792162077170&sig=f45bb71d384d547e5cb257aba9ff9e261f555a2ad235d230f9fa86c71028a50a&width=320" alt="Omslag van 'Op 'e literaire toer'" title="Omslag van 'Op 'e literaire toer'">
+<p>Bundeling van in het Fries geschreven proza, poëzie en essays van de Nederlandse kunsthistoricus (1929-</p><p> ).</p>]]></content>
         <author>
-            <name>Tjibbe Gearts van der Meulen</name>
+            <name>Hessel Miedema</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De oare helte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/375300791/de-oare-helte-tineke-j--steenmeijer-wielenga</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/375300791/de-oare-helte-tineke-j--steenmeijer-wielenga"/>
+        <updated>2026-10-17T11:17:12.201Z</updated>
+        <summary type="html"><![CDATA[nynke fan Hichtum, de frou fan Piter Jelles]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300791?aid=kb-online-bibliotheek&sid=23&dts=1792235831646&sig=1a2034d467740e4f3917c20c49c04de887f80786430c8564d2dc134e83bc78b0&width=320" alt="Omslag van 'De oare helte'" title="Omslag van 'De oare helte'">
+<p>Terugblik van Sjoukje Troelstra-Bokma de Boer (1860-1939) op haar leven, vooral op haar relatie met Pieter Jelles Troelstra, de revolutionaire politicus, met wie ze in 1888 trouwde en van wie ze in 1907 scheidde.</p>]]></content>
+        <author>
+            <name>Tineke J. Steenmeijer-Wielenga</name>
         </author>
     </entry>
 </feed>
