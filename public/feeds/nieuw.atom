@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-10-25T12:14:50.073Z</updated>
+    <updated>2026-10-26T13:46:30.892Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Valse waarheden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461944677/valse-waarheden-josje-weusten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461944677/valse-waarheden-josje-weusten"/>
+        <updated>2026-10-26T13:46:19.853Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461944677?aid=kb-online-bibliotheek&sid=24&dts=1793022379288&sig=6c32c35a433d1cb3c9883bf255b5cba54a47577911d756fc629f684dfc3fbdcb&width=320" alt="Omslag van 'Valse waarheden'" title="Omslag van 'Valse waarheden'">
+<p>Wanneer een nepvideo de reputatie van een filmproducer vernietigt, raakt een filmstudent verstrikt in een web van schuld en zwijgen. Twintig jaar later heeft de samenleving desinformatie uitgebannen en fictie verboden, maar het verlangen naar verbeelding laat zich niet onderdrukken.</p>]]></content>
+        <author>
+            <name>Josje Weusten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reinaert de vos]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/382890183/reinaert-de-vos--</id>
@@ -70,6 +81,203 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Het is misschien wennen (maar je kunt me niet ontkennen)]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932024/het-is-misschien-wennen--maar-je-kunt-me-niet-ontkennen--luca-matt%C3%ADa-duyvendak</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932024/het-is-misschien-wennen--maar-je-kunt-me-niet-ontkennen--luca-matt%C3%ADa-duyvendak"/>
+        <updated>2026-10-26T13:46:20.564Z</updated>
+        <summary type="html"><![CDATA[Over emancipatie, weerstand en hoe we samen verder kunnen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932024?aid=kb-online-bibliotheek&sid=24&dts=1793022379948&sig=61b3189d387d86dfeee721238ba0ec1a48f2bd8cad8d25914d083fd9ef10e61b&width=320" alt="Omslag van 'Het is misschien wennen (maar je kunt me niet ontkennen)'" title="Omslag van 'Het is misschien wennen (maar je kunt me niet ontkennen)'">
+<p>Wat gebeurt er als je jezelf wordt – in een wereld die daar niet op zit te wachten? In dit persoonlijke en scherpe boek vertelt Luca Mattía Duyvendak hoe het is om non-binair te zijn in een samenleving die liever in hokjes denkt. Tussen vragen en verlangen onderzoekt Luca niet alleen diens eigen identiteit, maar ook de felle reacties die deze emancipatie oproept. Waarom worden mensen zó boos? En wat zegt dat over ons allemaal? Met ontwapenende eerlijkheid en intellectuele diepgang gaat Luca het gesprek aan over identiteit, angst en verandering. Een urgent boek dat confronteert, maar vooral pleit voor begrip. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Luca Mattía Duyvendak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waarom ging je niet weg?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932083/waarom-ging-je-niet-weg--lotte-kok</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932083/waarom-ging-je-niet-weg--lotte-kok"/>
+        <updated>2026-10-26T13:46:21.202Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932083?aid=kb-online-bibliotheek&sid=24&dts=1793021763004&sig=1c64d13e7b4adb90f6734bd8b72a2b870cdcd135c3b4389a95f22176a52aaff3&width=320" alt="Omslag van 'Waarom ging je niet weg?'" title="Omslag van 'Waarom ging je niet weg?'">
+<p>Het begint met een doodnormale ruzie. Dan volgt een woede-uitbarsting. En nog een. En nog een. Er komen steeds meer ongeschreven regels. Plotseling wordt je familie tegen je opgezet. En begin jij steeds meer aan jezelf te twijfelen. Totdat je alleen nog maar bezig bent met overleven. In elke straat woont gemiddeld één slachtoffer van dwingende controle: een ernstige vorm van huiselijk geweld die draait om angst en intimidatie. Lotte Kok was een van hen. Haar openhartige boek toont hoe je dan in een gevangenis belandt waarvan de buitenwereld de muren niet eens ziet. Haarscherp beschrijft ze waarom dwingende controle niet wordt gezien, er geen adequate bescherming tegen is én het niet eens strafbaar is. En hoe wij, de maatschappij, die ene vraag maar blijven stellen: waarom ging je niet weg? Dit boek is het ontluisterende antwoord, in de hoop op positieve verandering. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lotte Kok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zonderhond]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461931931/zonderhond-bert-natter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461931931/zonderhond-bert-natter"/>
+        <updated>2026-10-26T13:46:21.943Z</updated>
+        <summary type="html"><![CDATA[Requiem voor een huisdier]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461931931?aid=kb-online-bibliotheek&sid=24&dts=1793022381322&sig=c4946ea9f55820994fd479792317ac6c2121f335139c6ea8c1707c1380b1522d&width=320" alt="Omslag van 'Zonderhond'" title="Omslag van 'Zonderhond'">
+<p>Voor Bert Natter waren alle honden dieren met weliswaar verschillende verschijningsvormen, maar gemeenschappelijke kenmerken: vier poten, een staart, geblaf en hondenpoep. Dat veranderde toen zijn jongste dochter een hulphond kreeg, de zwarte labrador Hutsh. Als kort na de dood van zijn ouders ook Hutsh overlijdt, besluit Bert dit boek te schrijven, dat gaat over liefde en rouw, vol herinneringen aan de hond die jarenlang een levensgezel was. Een hond kan niet praten, maar is in staat ons meer te vertellen dan we denken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Bert Natter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Witte rivier]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461931990/witte-rivier-ian-mcguire</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461931990/witte-rivier-ian-mcguire"/>
+        <updated>2026-10-26T13:46:22.466Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461931990?aid=kb-online-bibliotheek&sid=24&dts=1793021512122&sig=1e7d63136e5ca4fc05acb86684109ba2db45cf6c431b618e11c739d77590e759&width=320" alt="Omslag van 'Witte rivier'" title="Omslag van 'Witte rivier'">
+<p>Een haveloze handelaar arriveert in de winter van 1766 bij een afgelegen buitenpost van de Hudson’s Bay Company met een zak gouderts in zijn handen. Hij beweert dat er hoog in het Noorden nog veel meer goud te vinden is. De leider van de buitenpost, Magnus Norton, droomt van onmiddellijke rijkdom en organiseert een geheime en gevaarlijke expeditie om de schat te vinden en mee terug te brengen.Gidsen worden ingehuurd om de expeditie te begeleiden. Norton stuurt zijn tirannieke adjunct John Shaw mee, samen met Thomas Hearn, de enige in het kamp die de taal van de Inuit in het Hoge Noorden spreekt. Tijdens hun lange en gevaarlijke tocht hebben Shaws botheid en arrogantie desastreuze gevolgen die pas volledig duidelijk worden als ze hun eindbestemming bereiken. Daar, te midden van de sombere schoonheid van de barre poolwinter die begint in te vallen, wordt Hearn gedwongen een keuze te maken die zijn toekomst voor altijd zal bepalen.</p><p>De spectaculaire opvolger van de wereldwijde bestseller Het Noordwater. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ian McGuire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blaudzun]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461931958/blaudzun-ronald-giphart</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461931958/blaudzun-ronald-giphart"/>
+        <updated>2026-10-26T13:46:23.115Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461931958?aid=kb-online-bibliotheek&sid=24&dts=1793022382565&sig=fe18e70ad2f1f77fa702e2853066dc7a8b4a415187698ca99de2946f17dc22d1&width=320" alt="Omslag van 'Blaudzun'" title="Omslag van 'Blaudzun'">
+<p>Blaudzun (pseudoniem van Johannes Sigmond) is qua uiterlijk en oeuvre een eerste opvallende verschijning in het Nederlandse muzieklandschap. Op uitnodiging van schrijver Ronald Giphart liet hij zich een jaar lang volgen tijdens optredens, festivals, theatervoorstellingen, studio-opnames en buitenlandse tournees.Tussendoor voerden Blaudzun en Giphart vele gesprekken over Blaudzuns opvoeding in de Pinkstergemeenschap, over zijn transformatie van christenrocker tot internationaal gerenommeerde indie-artiest, over het toegewijde leven van een compromisloos muzikant. Hoe balanceert hij tussen zijn ambities en de verlangens van zijn publiek, tussen de lokroep van de podia en de noodzaak zich terug te trekken om met muziek zijn leven zin te geven?Blaudzun. In het spoor van een popicoon is een fascinerend en diepgravend boek dat leest als een kruising tussen een roadmovie en een popbiografie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ronald Giphart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fallen and the Kiss of Dusk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932059/the-fallen-and-the-kiss-of-dusk-carissa-broadbent</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932059/the-fallen-and-the-kiss-of-dusk-carissa-broadbent"/>
+        <updated>2026-10-26T13:46:23.770Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932059?aid=kb-online-bibliotheek&sid=24&dts=1793022383208&sig=8400fba5dd1721a785fca759f89fc85cf371f2f8ff49f6dce1465df3ec85a8e7&width=320" alt="Omslag van 'The Fallen and the Kiss of Dusk'" title="Omslag van 'The Fallen and the Kiss of Dusk'">
+<p>Het onmisbare vierde boek in de zeer populaire Kronen van Nyaxia-serie van Carissa Broadbent, een van de meest geliefde Romantasy-auteurs ter wereld</p><p>Mische bracht het ultieme offer om degenen van wie ze houdt te redden – maar stortte daarmee de wereld in een eeuwige nacht. Nu, gevangen door de goden en op zoek naar wraak, is Asar wanhopig naar haar op zoek. Wanneer een godin hun een laatste kans op verlossing biedt, beginnen Asar en Mische aan een buitengewone missie. Samen zullen ze de God van de Dood moeten overmeesteren, zodat Asar het onmogelijke kan doen: opstijgen naar ware goddelijkheid.Hun reis voert hen door sterfelijke en onsterfelijke rijken, samen met zowel oude vrienden als meedogenloze vijanden. Maar terwijl de onderwereld op instorten staat en de goden zich voorbereiden op een oorlog, realiseren Asar en Mische zich dat er in een spel van wraakzuchtige goden en eeuwenoud verraad schulden zijn die zelfs de liefde wellicht niet kan terugbetalen.</p><p>Het vervolg op het eerste deel van Het schaduwwezen-duet </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Carissa Broadbent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De pijnparadox]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46193194X/de-pijnparadox-monique-steegers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46193194X/de-pijnparadox-monique-steegers"/>
+        <updated>2026-10-26T13:46:24.406Z</updated>
+        <summary type="html"><![CDATA[Waarom vrouwen méér pijn voelen, maar minder worden gehoord]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46193194X?aid=kb-online-bibliotheek&sid=24&dts=1793021512781&sig=7a7a2bbe71867c7561ba237d1605b0266e9ea022a0fcb3065b075bd7c3b73d1d&width=320" alt="Omslag van 'De pijnparadox'" title="Omslag van 'De pijnparadox'">
+<p>Waarom blijft vrouwelijke pijn zo vaak onbegrepen, zowel in de spreekkamer en in onderzoek als in de maatschappij? Arts en hoogleraar pijngeneeskunde Monique Steegers laat zien hoe hardnekkige aannames, medische blinde vlekken en culturele verwachtingen ertoe leiden dat pijn bij vrouwen nog altijd wordt gebagatelliseerd of verkeerd geïnterpreteerd. Met wetenschappelijke inzichten en persoonlijke verhalen toont ze hoe onze kijk op pijn is gevormd door ideeën over vrouwelijkheid, controle en schuld. Eeuwenlang gold het mannelijke lichaam als medische norm, een perspectief dat vrouwen tot op de dag van vandaag raakt. De pijnparadox is een confronterend, verhelderend en noodzakelijk boek dat uitnodigt om anders te luisteren - naar vrouwen, naar pijn en naar wat die pijn werkelijk vertelt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Monique Steegers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leda in de regen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932032/leda-in-de-regen-martijn-couwenhoven</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932032/leda-in-de-regen-martijn-couwenhoven"/>
+        <updated>2026-10-26T13:46:25.049Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932032?aid=kb-online-bibliotheek&sid=24&dts=1793022384535&sig=aec15b8cfb2549caa1138adf9a142dc5007a6f1444c6bca4348f3a68f9e5d83b&width=320" alt="Omslag van 'Leda in de regen'" title="Omslag van 'Leda in de regen'">
+<p>Nadat haar ouders zijn verongelukt groeit Leda Miller op bij haar oom en tante. Nu ze de veertig nadert, heeft ze haar draai in het leven nog niet gevonden. Als ze op een dag haar jas afstaat aan een vrouw die onwel is geworden en naast haar fiets op de koude straatstenen ligt, ziet ze dat de vrouw sprekend op haar moeder lijkt – als die de leeftijd van zeventig had bereikt. Nadat de vrouw is meegenomen door de ambulance, vindt Leda een sleutel in haar fietstas. Ze achterhaalt het adres en besluit naar het huis te gaan, dat op een afgelegen plek in het bos ligt. Ze maakt wandelingen, ontmoet boswachter Mats, verwondert zich over het feit dat alles in drievoud lijkt te gebeuren en probeert de continue dreiging van onheil van zich af te schudden. Ondertussen vraagt ze zich af hoe het is met de vrouw die op haar moeder lijkt. Totdat ook zij in het huis in het bos verschijnt. Leda in de regen is een tedere roman over het belang van saamhorigheid en de zoektocht naar een thuis. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Martijn Couwenhoven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[de stormen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932040/de-stormen-maaike-neuville</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932040/de-stormen-maaike-neuville"/>
+        <updated>2026-10-26T13:46:25.832Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932040?aid=kb-online-bibliotheek&sid=24&dts=1793022385144&sig=a22d1e39396e45f8109cd230bb99d020300c83d596c605f82b50796c3f2fb2cc&width=320" alt="Omslag van 'de stormen'" title="Omslag van 'de stormen'">
+<p>Bestaat er een ruimte waarin het verleden het heden raakt, een zachte plek die de tijd oprekt tussen de levenden en de doden?</p><p>Actrice Abbie de Lange bereidt zich voor om een rol te spelen in een historische film over Therese Mae Smith, een Ierse schrijver uit de vroege twintigste eeuw die zich van het leven heeft benomen. De rol confronteert Abbie met demonen uit haar verleden die ze liever niet meer in de ogen kijkt.Tijdens de draaiperiode verweven de levens van Abbie en Therese zich op mysterieuze wijze met elkaar.</p><p>In de stormen klinken moederschap, rouw en seksualiteit zich aan elkaar vast. Deze roman, een wervelende bespiegeling over psychische gezondheid, de plaats van de vrouwelijke kunstenaar in de maatschappij en de wilde, ontembare natuur, kruipt onder de huid als een ademloze lichamelijke ervaring. Dagdagelijkse observaties worden afgewisseld met diepe duiken in de innerlijke leefwereld van twee vrouwen die voorbestemd lijken om over de eeuwen heen met elkaar verenigd te worden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Maaike Neuville</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Son]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932091/son-thomas-enger---johana-gustawsson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932091/son-thomas-enger---johana-gustawsson"/>
+        <updated>2026-10-26T13:46:26.444Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932091?aid=kb-online-bibliotheek&sid=24&dts=1793022035701&sig=0f3fa3c40102e2187e477def92c4012cf95ccf4b8dbdd0c712eaf0975586c9d4&width=320" alt="Omslag van 'Son'" title="Omslag van 'Son'">
+<p>'Een retespannende puzzel, het is lang geleden dat we zo'n spannende thriller hebben gelezen.' - MEZZA Boek van de maand  Een nieuwe samenwerking tussen twee Scandinavische bestsellerauteurs</p><p>Psychologe Kari Voss is expert op het gebied van lichaamstaal en geheugen, en adviseur van de politie van Oslo. Met moeite probeert ze haar leven weer op te pakken na het overlijden van haar man, en ze is nog altijd op zoek naar haar zoon, die zeven jaar eerder op zijn verjaardag verdween.Dan wordt Voss betrokken bij het onderzoek naar twee bruut vermoorde tienermeisjes in een zomerhuis bij het nabijgelegen dorp Son. Met de hulp van hoofdcommissaris Ramona Norum ontdekt ze dat niemand – inclusief de slachtoffers – de waarheid lijkt te vertellen. En dat er een duister geheim schuilt in het hart van het dorp, dat bovendien te maken lijkt te hebben met het raadsel rond Voss’ verdwenen zoon. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Thomas Enger</name>
+        </author>
+        <author>
+            <name>Johana Gustawsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sta bij]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932016/sta-bij-leo-pleysier</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932016/sta-bij-leo-pleysier"/>
+        <updated>2026-10-26T13:46:27.038Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932016?aid=kb-online-bibliotheek&sid=24&dts=1793022386536&sig=2a194d5fd65daaaed0d92af8f10ea5bb53092bc778ef558c2bfdddbf39edc1c0&width=320" alt="Omslag van 'Sta bij'" title="Omslag van 'Sta bij'">
+<p>Voor het eerst na decennia ziet Anna Brems haar broer terug. Sprakeloos zitten ze tegenover elkaar aan tafel tijdens het jaarlijkse familiediner. Steeds was Dirk degene die daar dan ontbrak, maar nu maakt hij de familie weer voltallig met zijn onverwachte aanwezigheid.Dirks wederopstanding roept bij Anna diepe emoties en zowel warme als pijnlijke herinneringen op. Herinneringen aan wie haar broer was, wat hij voor haar betekende en wat er met hem gebeurde.</p><p>Sta bij is een nieuwe parel in het oeuvre van Leo Pleysier, dat grote indruk maakt door het vanzelfsprekend lucide en invoelende taalgebruik dat hij hanteert, waarmee hij in zijn romans de personages tot leven wekt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Leo Pleysier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gewone mensen dragen geen machinegeweren]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932075/gewone-mensen-dragen-geen-machinegeweren-artem-chapeye</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932075/gewone-mensen-dragen-geen-machinegeweren-artem-chapeye"/>
+        <updated>2026-10-26T13:46:27.668Z</updated>
+        <summary type="html"><![CDATA[Gedachten over oorlog]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932075?aid=kb-online-bibliotheek&sid=24&dts=1793022387148&sig=9aacc760e46f80fa420488c7e2cb381cd79ea27ff15ee0a823ef910a9749dbb6&width=320" alt="Omslag van 'Gewone mensen dragen geen machinegeweren'" title="Omslag van 'Gewone mensen dragen geen machinegeweren'">
+<p>In Gewone mensen dragen geen machinegeweren schrijft Artem Chapeye over zijn oorlog, zonder iets achter te houden over zijn motivaties, zijn nachtmerries en zijn nieuwe verhouding met de wereld. Hij, een pacifist die strijder werd, onderzoekt zijn rol in de verdediging van het Oekraïense volk tegen het Russische leger en zijn verantwoordelijkheden als vader, schrijver en soldaat. Hij probeert inzicht te krijgen in de grootschalige besluitvorming die een bepalende invloed heeft op zowel individuele burgers als de samenleving als geheel: veel van zijn medesoldaten hadden nooit overwogen om in dienst te treden voordat ze in oorlog raakten; anderen zijn het land ontvlucht. Ook vraagt hij zich af wat zijn jonge kinderen thuis doen en hoe ze zich voelen. Gewone mensen dragen geen machinegeweren stemt tot nadenken en is intelligent en hartverscheurend. Een onmisbaar boek voor iedereen die wil begrijpen hoe oorlog alles kan veranderen. Met een voorwoord van Tommy Wieringa. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Artem Chapeye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s not you, it’s the world]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461931966/it-s-not-you--it-s-the-world-joanna-cheek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461931966/it-s-not-you--it-s-the-world-joanna-cheek"/>
+        <updated>2026-10-26T13:46:28.277Z</updated>
+        <summary type="html"><![CDATA[Een mentale gids voor een wereld die in brand staat]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461931966?aid=kb-online-bibliotheek&sid=24&dts=1793022387776&sig=c50229eb0a3224e185442e54bada51748914eb188ee2c1bd2a1592ffe014ff87&width=320" alt="Omslag van 'It’s not you, it’s the world'" title="Omslag van 'It’s not you, it’s the world'">
+<p>Eén op de twee mensen krijgt voor zijn/haar veertigste te maken met mentale gezondheidsproblemen als depressie, gevoelens van angst en woede, maar ook gevoelloosheid. Dit boek laat zien dat dit niet per sé persoonlijke problemen zijn, maar juist vaak een gezonde en logische reactie op de precaire toestand van onze planeet.Dit boek staat vol met praktische tips en werkplannen om om te gaan met emotionele triggers waarmee we dagelijks worden geconfronteerd. Ook besteedt Cheek aandacht aan sociale interactie en geeft ze de lezers tools om te werken aan betere, sterkere relaties met de mensen om ons heen om zo in balans te blijven terwijl de wereld in brand staat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Joanna Cheek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klasse]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932067/klasse-hanno-sauer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932067/klasse-hanno-sauer"/>
+        <updated>2026-10-26T13:46:28.899Z</updated>
+        <summary type="html"><![CDATA[Het ontstaan van onder en boven]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932067?aid=kb-online-bibliotheek&sid=24&dts=1793022388371&sig=4c5d60f0b0f477b9623d17f13d272f02733d1eae8d362b5545117b123b4024a3&width=320" alt="Omslag van 'Klasse'" title="Omslag van 'Klasse'">
+<p>Waarom rijden rijkaards in protserige Lamborghini's en dragen ze merkkleding, maar prefereren écht rijke mensen juist bescheiden auto's en onopvallende outfits? Waarom is kunst elitair, en geldt Marcel Proust als hoge literatuur en Dan Brown als cultureel wegwerpproduct? Zijn de hogere klassen progressief en ethisch verheven, of juist gewetenloze sociopaten? In Klasse ontrafelt filosoof Hanno Sauer de diepgewortelde mechanismen achter status, prestige en hiërarchie. Hij laat zien hoe sociale signalen ons leven beïnvloeden - van onze overtuigingen tot onze smaak en koopgedrag. Klassenverschillen zijn geen oppervlakkige kenmerken, maar krachtige structuren die onze cultuur, waarden en keuzes vormen. Met scherpe inzichten en in een prikkelende stijl toont Sauer waarom het begrijpen van deze verborgen krachten essentieel is voor wie onze samenleving wil veranderen. Klasse is een urgent en briljant betoog over wie we zijn, waarom we doen wat we doen - en hoe we het anders kunnen doen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Hanno Sauer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sneeuwjacht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932105/sneeuwjacht-james-patterson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932105/sneeuwjacht-james-patterson"/>
+        <updated>2026-10-26T13:46:29.392Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932105?aid=kb-online-bibliotheek&sid=24&dts=1793021913048&sig=b56c20430db776c3c7ed8b05eea6efbd82656edc275d4f7cf4675a0d98eb6d0a&width=320" alt="Omslag van 'Sneeuwjacht'" title="Omslag van 'Sneeuwjacht'">
+<p>Alex Cross moet op jacht naar een seriemoordenaar die de rechterlijke macht probeert te ontwrichten</p><p>In Washington D.C. bereidt de nieuw gekozen president haar inauguratie voor.Daarbij is in het grootste geheim een nieuwe lijst met kandidaten voor het Hooggerechtshof opgesteld. De lijst is uiterst vertrouwelijk – totdat het bewijsmateriaal wordt in het onderzoek van rechercheur Alex Cross. Een van de kandidaten op de lijst wordt neergeschoten, een tweede wordt neergestoken. Vervolgens wordt een derde rond middernacht op straat vermoord. Cross is de grootste expert van de FBI op het gebied van crimineel gedrag. In zijn strijd om rechtvaardigheid voor zijn land moet hij zich verplaatsen: in het hoofd van een duivelse moordenaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>James Patterson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het boek van de verdwijning]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461932008/het-boek-van-de-verdwijning-ibtisam-azem</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461932008/het-boek-van-de-verdwijning-ibtisam-azem"/>
+        <updated>2026-10-26T13:46:30.158Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461932008?aid=kb-online-bibliotheek&sid=24&dts=1793022389516&sig=003b1b9828f6319e20abd2cfe5c107c0832eb7b679e351ce9f1ff7df507f018e&width=320" alt="Omslag van 'Het boek van de verdwijning'" title="Omslag van 'Het boek van de verdwijning'">
+<p>Het boek van de verdwijning speelt zich af in het hedendaagse Tel Aviv. Alaa is een jonge Palestijnse man die wordt achtervolgd door de herinneringen vanzijn grootmoeder aan haar verdrijving uit Jaffa en haar vlucht naar haar vaderland. Zijn joodse buurman en vriend Ariel is een journalist die gelooft in denationale mythe van Israël, maar die kritisch staat tegenover de militaire bezetting van de Westelijke Jordaanoever en Gaza. Wanneer hij op een dag wakkerwordt, blijken alle Palestijnen – waaronder zijn buurman Alaa – te zijn verdwenen.</p><p>Hun verhalen, en de verhalen van de gewone mensen in Jaffa en Tel Aviv, onthullen de scheuren in het hart van de Palestijnse kwestie. De sobere en suggestieve roman van Ibtisam Azem biedt een onvergetelijke blik op het hedendaagse Palestina, dat worstelt met zowel de herinnering aan verlies als het verlies van herinneringen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ibtisam Azem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help je oerbrein]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461931974/help-je-oerbrein-paul-goldsmith</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461931974/help-je-oerbrein-paul-goldsmith"/>
+        <updated>2026-10-26T13:46:30.890Z</updated>
+        <summary type="html"><![CDATA[Houd je hersenen gezond en gelukkig in een wereld vol prikkels]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461931974?aid=kb-online-bibliotheek&sid=24&dts=1793022390262&sig=ea51d4f0eb9b3362299a922d6942dfee7cf41da2b01b65f9c8e73efaa4bbe0e3&width=320" alt="Omslag van 'Help je oerbrein'" title="Omslag van 'Help je oerbrein'">
+<p>De moderne tijd vraagt veel van ons: relaties, carrières, sociale media. Soms kan het voelen alsof dit meer is dan onze hersenen aankunnen. In dit boek vertelt neurowetenschapper Paul Goldsmith waarom dat zo is: onze hersenen verschillen niet fundamenteel van die van de allereerste mensen, maar de wereld om ons heen is sneller veranderd dan onze hersenen kunnen bijbenen. Veel van de problemen uit ons dagelijks leven komen voort uit deze mismatch: we gebruiken een oud instrument om door ons complexe moderne leven te navigeren.- Gebaseerd op de nieuwste wetenschappelijke inzichten en case studies - Toegankelijk, praktisch en direct toepasbaar- Voor lezers van Charlotte Labee en James Clear </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Paul Goldsmith</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[De val]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461926334/de-val-david-baldacci</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461926334/de-val-david-baldacci"/>
@@ -116,17 +324,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De kansen van Joris Pannemans]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461926342/de-kansen-van-joris-pannemans-david-vlietstra</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461926342/de-kansen-van-joris-pannemans-david-vlietstra"/>
-        <updated>2026-10-22T12:41:37.831Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461926342?aid=kb-online-bibliotheek&sid=23&dts=1792666194676&sig=6d5582193b728e6646bb715a10976234cded0176a381b743be185ad36edcf75b&width=320" alt="Omslag van 'De kansen van Joris Pannemans'" title="Omslag van 'De kansen van Joris Pannemans'">
-<p>In 'De kansen van Joris Pannemans' probeert een jongen die alles kan uitrekenen grip te krijgen op iets wat veel ingewikkelder blijkt dan cijfers: vriendschap. Dit kinderboek is geschreven door David Vlietstra, bekend van 'De lijst van Violet Sopjes'.</p><p>Joris Pannemans is geweldig goed in rekenen. Kansberekening, breuken en meetkunde zijn voor hem net puzzels die vanzelf oplossen. Hij is zelfs zó goed dat volwassenen hem om hulp vragen bij ingewikkelde kansen en statistieken. Maar waar Joris veel minder goed in is, is contact maken met andere kinderen. Eigenlijk heeft hij maar één vriend: de opvallende en eigenzinnige Riemer. Wanneer er een nieuw meisje in de klas komt dat net zo van rekenen houdt als Joris, lijkt die eindelijk kans te maken op nóg een vriend. Tot Riemer plotseling verdwijnt en alles verandert.  'De kansen van Joris Pannemans' is een ontroerend en origineel kinderboek voor kinderen vanaf 10 jaar over vriendschap, eenzaamheid, hoogbegaafdheid en jezelf leren begrijpen. Met veel humor, warmte en scherpe observaties laat het verhaal zien hoe ingewikkeld sociale situaties soms kunnen zijn, zeker voor kinderen die anders denken dan hun omgeving. Daardoor is dit een bijzonder leesboek voor groep 7 en 8 dat zowel ontroert als aan het denken zet.  Auteur David Vlietstra schrijft met veel gevoel voor detail over buitenbeentjes en vriendschap. De sfeervolle illustraties van Yoko Heiligers geven het verhaal extra karakter. Eerder maakte David Vlietstra indruk met 'De lijst van Violet Sopjes', dat bekroond werd met een Zilveren Griffel en genomineerd was voor de Woutertje Pieterse Prijs.  Zoek je een bijzonder kinderboek vanaf 10 jaar, een verhaal over rekenen en vriendschap of een boek voor kinderen die houden van slimme hoofdpersonen en gevoelige verhalen? Dan is 'De kansen van Joris Pannemans' een prachtige keuze. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>David Vlietstra</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De opvolging]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461926369/de-opvolging-jens-henrik-jensen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461926369/de-opvolging-jens-henrik-jensen"/>
@@ -149,196 +346,6 @@
         </author>
         <author>
             <name>Jan-Erik Fjell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awake]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461926326/awake-jen-hatmaker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461926326/awake-jen-hatmaker"/>
-        <updated>2026-10-22T12:41:38.316Z</updated>
-        <summary type="html"><![CDATA[Durf te worden wie je echt bent]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461926326?aid=kb-online-bibliotheek&sid=23&dts=1792669350989&sig=c9ef4185509ff06fbfce87f789871f8ffc97f473700e0794831a01ea95ecaf6a&width=320" alt="Omslag van 'Awake'" title="Omslag van 'Awake'">
-<p>Jen Hatmaker dacht alles op de rails te hebben tot haar huwelijk na 26 jaar opeens voorbij was. Van populaire podcasthost en bestsellerauteur veranderde ze in een gescheiden vrouw met vijf kinderen, zonder houvast en vol vragen. In Awake vertelt ze openhartig en met humor hoe ze vanuit totale ontwrichting een nieuw begin vond. Awake is meer dan een persoonlijk verhaal. Het is een taboedoorbrekende zoektocht naar vrijheid, verlangen en vrouw-zijn in de huidige maatschappij. Hatmaker laat zien hoe je te midden van verlies een tweede leven kunt ontdekken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jen Hatmaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De oppas]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461926377/de-oppas-sophie-stava</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461926377/de-oppas-sophie-stava"/>
-        <updated>2026-10-22T12:41:38.530Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461926377?aid=kb-online-bibliotheek&sid=23&dts=1792661213388&sig=98ee7fdc218f41b33fdf4180ff1363e1aacec320029308a155de502e705f2f34&width=320" alt="Omslag van 'De oppas'" title="Omslag van 'De oppas'">
-<p>Sloane Caraway is een pathologische leugenaar. Kleine leugentjes, onschuldig bedoeld, om haar saaie leven wat op te leuken. Als ze op een middag in het park een kind in tranen ziet door een bijensteek, kan ze het niet laten. Ze vertelt de aantrekkelijke vader van het meisje dat ze verpleegkundige is en haalt de angel uit de voet van het kind.</p><p>Met deze leugen en de toevallige ontmoeting weet Sloane het voor elkaar te krijgen de oppas te worden van het meisje. Haar ouders, het rijke echtpaar Jay en Violet Lockhart, zijn een ogenschijnlijk volmaakt New Yorks glamourkoppel. Maar achter dat perfecte plaatje schuilt een waarheid die veel gevaarlijker is dan iemand ooit voor mogelijk had gehouden.</p><p>   </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sophie Stava</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Als je toch ooit doodgaat, kun je het maar beter leuk hebben]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461926350/als-je-toch-ooit-doodgaat--kun-je-het-maar-beter-leuk-hebben-rhee-kun-hoo</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461926350/als-je-toch-ooit-doodgaat--kun-je-het-maar-beter-leuk-hebben-rhee-kun-hoo"/>
-        <updated>2026-10-22T12:41:38.691Z</updated>
-        <summary type="html"><![CDATA[De kunst van gelukkig en vrolijk oud worden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461926350?aid=kb-online-bibliotheek&sid=23&dts=1792665008263&sig=0b4bac7bb775fd6e6a22dc12e05635dac0dee3973c8441c9d0749b98f9c9af68&width=320" alt="Omslag van 'Als je toch ooit doodgaat, kun je het maar beter leuk hebben'" title="Omslag van 'Als je toch ooit doodgaat, kun je het maar beter leuk hebben'">
-<p>Iedereen wil oud worden, maar niemand wil het zijn. Maar waarom niet? Er valt nog genoeg te lachen, te leren en te genieten onderweg. Ouderdom kan wijsheid, veerkracht, vrijheid en levenslust brengen. Je hoeft niet te blijven hangen in wat voorbij is of je voortdurend zorgen te maken over wat nog komt, zelfs wanneer je lichaam hapert. Omarm het leven in het nu.</p><p>De Koreaanse Rhee Kun Hoo laat op basis van vijftig jaar ervaring als psychiater en gebeurtenissen uit zijn eigen veelbewogen leven zien hoe je ouder kunt worden met lichtheid, nieuwsgierigheid en plezier. Een warm en inspirerend boek voor iedereen die het leven, tot aan het eind, wil omarmen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Rhee Kun Hoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drenthe]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461910640/drenthe-jessica-de-jong</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461910640/drenthe-jessica-de-jong"/>
-        <updated>2026-10-22T12:41:38.856Z</updated>
-        <summary type="html"><![CDATA[Tijdloze gedichten - fluisteringen uit het oude land]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461910640?aid=kb-online-bibliotheek&sid=23&dts=1792662655490&sig=6adcd0dc31d4978064f50d3f6926a0715f5809f16de6127e4731b7b1c8375c06&width=320" alt="Omslag van 'Drenthe'" title="Omslag van 'Drenthe'">
-<p>Deze dichtbundel neemt de lezer mee naar het magische landschap van Drenthe, waar natuur, geschiedenis, volksverhalen en poëzie samenkomen. Een sfeervol boek voor iedereen die een bijzondere band heeft met Drenthe en zijn landschap. Tussen heidevelden, bossen, hunebedden en oude boerderijen leven verhalen die al eeuwen worden doorverteld. Met gedichten en sfeervolle zwart-witfoto's brengt Jessica de Jong deze verhalen opnieuw tot leven. De lezer wordt meegenomen langs mysterieuze landschappen, sagen, dieren en historische plekken, naar een Drenthe waar werkelijkheid en fantasie in elkaar overvloeien. Drenthe: Tijdloze gedichten is daarmee niet alleen een bundel om te lezen, maar ook een uitnodiging om opnieuw naar het Drentse landschap te kijken. Achter iedere boom, grafheuvel en ieder pad wacht een nieuw verhaal. Een mooi en toegankelijk boek voor liefhebbers van poëzie, natuur, geschiedenis én voor iedereen die Drenthe een warm hart toedraagt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jessica De Jong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Regentes]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461905434/de-regentes-jacob-vis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461905434/de-regentes-jacob-vis"/>
-        <updated>2026-10-22T12:41:39.495Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461905434?aid=kb-online-bibliotheek&sid=23&dts=1792663628459&sig=867c17df6e20bf812769c8b61853b6816ba983d955b481d216ee706f49d572e9&width=320" alt="Omslag van 'De Regentes'" title="Omslag van 'De Regentes'">
-<p>Prinses Anna Katharina van Henegouwen wordt regentes der Nederlanden als haar broer, koning Frederik door een zware depressie is uitgeschakeld. Binnen de speelruimte van het constitutioneel koningschap houdt Anna zich staande in een roerig politiek speelveld dat steeds meer autocratische trekjes vertoont. Haar taak is extra zwaar door de dreiging van ontvoering van haarzelf en de zestienjarige kroonprinses Emma Amalia. Een speciale veiligheidsdienst onder leiding van toprechercheur Dick Tacona moet de prinsessen beschermen: een bijna onmogelijke taak omdat niemand weet waar de dreiging vandaan komt. En wat is de rol van het voormalige Filipijnse kindhoertje Kim, een briljant kind met een wiskundeknobbel dat op even onverwachte als indringende wijze in het leven van beide prinsessen verschijnt? Jacob Vis (Haarlem 1940) debuteerde in 1987 met de spijkerharde thriller Prins Desi over het Suriname van Desi Bouterse. Sindsdien is hij niet meer weg te denken uit de Nederlandse thrillerscène. Hij kreeg tien nominaties voor toonaangevende Nederlandse en Belgische prijzen voor misdaadliteratuur en won in 2015 de Diamanten Kogel met De Zwarte Duivel en in 2020 de Gouden Vleermuis voor zijn gehele oeuvre. Hij staat bekend om zijn grondige research, onbegrensde verbeeldingskracht, vooruitziende blik en fijnzinnige literaire stijl. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jacob Vis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oliver - Het Eindeloze Woud]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46190540X/oliver---het-eindeloze-woud-shanta-schaap</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46190540X/oliver---het-eindeloze-woud-shanta-schaap"/>
-        <updated>2026-10-22T12:41:39.049Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46190540X?aid=kb-online-bibliotheek&sid=23&dts=1792666372847&sig=2a62fc3ceee9323d115193c9198a3812d83521dd0eb8dcc9f382671738129be1&width=320" alt="Omslag van 'Oliver - Het Eindeloze Woud'" title="Omslag van 'Oliver - Het Eindeloze Woud'">
-<p>Stel je voor dat er in de diepste schaduwen een fantastische wereld verborgen ligt, waar mensen de krachten van aarde, lucht, water en vuur beheersen. Een rijk dat wordt bedreigd door iets allesverwoestends... Oliver groeit op in het bos bij zijn hoogbejaarde grootouders. Hun oude botten en geheugen laten hen steeds vaker in de steek, dus probeert Oliver zo goed mogelijk voor ze te zorgen. Gelukkig helpt zijn beste vriendin Nola hem. Op een dag verschijnt er een mysterieuze dame die Oliver vertelt over een eeuwenoude voorspelling die rechtstreeks naar hem wijst. Het leidt naar een buitengewoon avontuur dwars door het Eindeloze Woud... Shanta Schaap (1978) groeide op in Noord-Holland en bracht van jongs af aan tijd door in de bossen van Drenthe, waar haar liefde voor verhalen en fantasie ontstond. Ze studeerde aan de pabo (Hogeschool van Amsterdam) en werkte als leerkracht in het (speciaal) basisonderwijs. Haar gezin en haar ervaring in het onderwijs vormen haar grootste inspiratiebron. Oliver - Het Eindeloze Woud is haar debuut als kinderboekenschrijfster. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Shanta Schaap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over vrouwen, boeken en andere ongemakken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461905418/over-vrouwen--boeken-en-andere-ongemakken-linda-beukeboom</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461905418/over-vrouwen--boeken-en-andere-ongemakken-linda-beukeboom"/>
-        <updated>2026-10-22T12:41:39.275Z</updated>
-        <content type="html"><![CDATA[<img src="undefined" alt="Omslag van 'Over vrouwen, boeken en andere ongemakken'" title="Omslag van 'Over vrouwen, boeken en andere ongemakken'">
-<p>Een hilarische humor-novelle. Vince was professor, schrijver en een man die je met woorden wist te raken. Maar als zijn uitgever de samenwerking beëindigt, verliest hij zijn inkomen en zijn doel in zijn leven. Dan krijgt hij een onverwachte kans: in een nieuwe televisieserie wordt hij mentor van Carlijn, Cora en Trees, drie vrouwen die dromen van hun eerste boek. Vince helpt hen hun verhalen te verbeteren. Zijn humor en betrokkenheid maken hem razend populair bij de dames, maar blijft dat wel goed gaan? Over vrouwen, boeken en andere ongemakken is sinds 2021 het tiende boek van Linda Beukeboom. Ze woont in Drenthe en schrijft boeken waarin menselijke emoties, herkenbare situaties en bijzondere personages centraal staan. Met haar toegankelijke en vlotte schrijfstijl voert ze haar lezers mee. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Linda Beukeboom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoe overleef ik alles wat anders gaat dan gedacht?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461903032/hoe-overleef-ik-alles-wat-anders-gaat-dan-gedacht--francine-oomen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461903032/hoe-overleef-ik-alles-wat-anders-gaat-dan-gedacht--francine-oomen"/>
-        <updated>2026-10-20T12:27:03.775Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461903032?aid=kb-online-bibliotheek&sid=23&dts=1792499223543&sig=51fd09a45fb2e68df4eb1d1d15d022b69b8e1303c0c6b356d58c3555836d5b80&width=320" alt="Omslag van 'Hoe overleef ik alles wat anders gaat dan gedacht?'" title="Omslag van 'Hoe overleef ik alles wat anders gaat dan gedacht?'">
-<p>Het tweede deel van de trilogie die begon met de bestseller Hoe overleef ik alles wat ik niemand vertel?, waarvan meer dan 150.000 exemplaren zijn verkocht en die genomineerd werd voor de NS Publieksprijs 2024. Lees nu hoe het verder gaat met Rosa en haar vrienden. Voor Hoe overleef ik-fans van toen en nu.  Je hoopt iets, je verwacht iets, je droomt ergens van,  maar wat doe je als alles anders gaat dan gedacht?  Beschouw je een crisis als een ramp of als een kans? Geef je op of ga je door? En als je doorgaat, hoe dan?  In Rosa’s leven gaat natuurlijk niks zoals gepland. Samen met haar vrienden is ze heel gelukkig in hun zelfgecreëerde paradijs in Portugal: de Geheime Tuin. Maar ze zitten er wél illegaal... En dan is er de liefde. Oude liefde, nieuwe liefde. Oude-nieuwe liefde. Wat doe je ermee? Dit boek gaat over jezelf en elkaar (echt) leren kennen. Over risico’s nemen, vriendschap, liefde en het doorzien en doorbreken van patronen.</p><p></p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Francine Oomen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vrouw van Zand]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461903067/vrouw-van-zand-kobe-abe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461903067/vrouw-van-zand-kobe-abe"/>
-        <updated>2026-10-20T12:27:04.855Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461903067?aid=kb-online-bibliotheek&sid=23&dts=1792499224605&sig=7ccf93f72c9e7c3cb37e7a6bb1d6ef19ff48defe6adc4ed664a521d8d67f1820&width=320" alt="Omslag van 'Vrouw van Zand'" title="Omslag van 'Vrouw van Zand'">
-<p>Alleen een schipbreukeling die ternauwernood aan de verdrinkingsdood was ontsnapt kon psychologisch voldoende inzien dat je gewoon door de mogelijkheid om adem te halen zin kreeg om te lachen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kobe Abe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koninklijke Koude Oorlog]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461903040/koninklijke-koude-oorlog-s-j--bennett</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461903040/koninklijke-koude-oorlog-s-j--bennett"/>
-        <updated>2026-10-20T12:27:04.493Z</updated>
-        <content type="html"><![CDATA[<img src="undefined" alt="Omslag van 'Koninklijke Koude Oorlog'" title="Omslag van 'Koninklijke Koude Oorlog'">
-<p>Het volstrekt briljante vijfde moordmysterie in de internationale bestsellerserie</p><p> Het is 1961 en koningin Elizabeth II is bezig met de voorbereidingen van haar staatsbezoek aan Italië aan boord van het koninklijk jacht Britannia. Maar voor haar vertrek beweert een onbetrouwbare getuige dat ze vanuit de koninklijke trein een moord gezien heeft. Is het echt gebeurd, en kan het slachtoffer een vermiste vriend zijn van Tony Armstrong Jones, de nieuwe echtgenoot van prinses Margaret?</p><p>De koningin en haar assistent-privésecretaris, Joan McGraw, beginnen hun tweede gezamenlijke onderzoek, zonder te vermoeden dat het deze keer helemaal naar Venetië zal leiden, in een verhaal vol spionnen, leugens en intriges uit de Koude Oorlog.</p><p> Fans van Agatha Christie, Richard Osman, John Le Carré en Anthony Horowitz zullen genieten van KONINKLIJKE KOUDE OORLOG .</p><p>DE SPEURDER  Van jongs af aan heeft Queen Elizabeth al een gave om mysteries op te lossen. Haar positie verbiedt echter elke directe bemoeienis. Ze moet dus omzichtig te werk gaan en ze vertrouwt op haar assistent-privésecretaris om te doen wat zij moet laten, en te voorkomen dat iemand achter de koninklijke betrokkenheid komt.  DE SETTING  Naast koninklijke paleizen speelt dit boek ook in de koninklijke trein en aan boord van de HMS Britannia, het koninklijke jacht waarmee Queen Elizabeth meermalen de wereld is rondgevaren en talloze staatsbezoeken aflegde.  REACTIES OP KONINKLIJKE KOUDE OORLOG</p><p> 'Miss Marple met een kroon' - Daily Mirror</p><p> 'Nog geloofwaardiger en boeiender dan de voorgaande delen - en die waren al ontzettend goed.' - FIRST CLUE</p><p>'S.J. Bennett heeft weer een meeslepende thriller geschreven met een geweldige heldin, een schat aan inside-informatie en een plot vol verrassende wendingen.' - Jane Thynne</p><p>'James Bond in parels en een twinset. Ik was DOL op deze spionagethriller met een vleugje citroen in de gin-tonic van Hare Majesteit. Een spetterend verhaal, met veel plezier geresearcht en majestueus tot leven gebracht.' - Angela Clarke</p><p>'De echte ster is de koningin. De auteur geeft zowel de stoïcijnse, formele kant van Elizabeth als vorstin als haar warmere, persoonlijke momenten perfect weer.' - Historical Novel Society</p><p>'Het duo van de koningin en Joan is magisch... fans van de serie zullen hiervan genieten.' - RED CARPET CRASH</p><p>'De nieuwste, buitengewoon vermakelijke thriller van S.J. Bennett geeft een frisse draai aan de uitdrukking "On Her Majesty's Secret Service".' - Martin Edwards</p><p>'Origineel, vakkundig geschreven en van begin tot eind een plezier om te lezen.' - MIDWEST BOOK REVIEW </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>S.J. Bennett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swart mar leaflik]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/37530066X/swart-mar-leaflik-watse-cuperus</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/37530066X/swart-mar-leaflik-watse-cuperus"/>
-        <updated>2026-10-16T12:01:24.752Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A37530066X?aid=kb-online-bibliotheek&sid=23&dts=1792136757158&sig=41279796f022b2693c4b940b4e041427626f8ab47e315f9186febbc4730eb1e3&width=320" alt="Omslag van 'Swart mar leaflik'" title="Omslag van 'Swart mar leaflik'">
-<p>Een eigenzinnige jonge vrouw probeert in het calvinistische en arme noorden van Friesland aan het eind van de 19e eeuw een bestaan op te bouwen.</p>]]></content>
-        <author>
-            <name>Watse Cuperus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunder garansje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300651/sunder-garansje-froukje-annema</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300651/sunder-garansje-froukje-annema"/>
-        <updated>2026-10-16T12:01:25.377Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300651?aid=kb-online-bibliotheek&sid=23&dts=1792152084862&sig=3aaa8a070d775e62a875b60e1d87b04dbefdcb51283bce6a507100a82bae39f9&width=320" alt="Omslag van 'Sunder garansje'" title="Omslag van 'Sunder garansje'">
-<p>Als bij een vrouw borstkanker geconstateerd wordt, gaat zij een moeilijke periode tegemoet.</p>]]></content>
-        <author>
-            <name>Froukje Annema</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eilan fan de silligen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/37134087X/eilan-fan-de-silligen-ypk-fan-der-fear</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/37134087X/eilan-fan-de-silligen-ypk-fan-der-fear"/>
-        <updated>2026-10-16T12:01:25.941Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A37134087X?aid=kb-online-bibliotheek&sid=23&dts=1792138409241&sig=53a9860c922e9c05e49a93a8d85226585a368cb19debe6b9a725905730fec6ed&width=320" alt="Omslag van 'Eilan fan de silligen'" title="Omslag van 'Eilan fan de silligen'">
-<p>Het levensverhaal van de 17e eeuwse godsdienstige leidster Antoinnette Bourignon.</p>]]></content>
-        <author>
-            <name>Ypk fan der Fear</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De frou yn 'e flesse]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300864/de-frou-yn--e-flesse-anne-wadman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300864/de-frou-yn--e-flesse-anne-wadman"/>
-        <updated>2026-10-16T12:01:26.568Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300864?aid=kb-online-bibliotheek&sid=23&dts=1792140668269&sig=e65706ab27aed2a81f086747053fd961fe74792aa3a8d68f67accca537bb4977&width=320" alt="Omslag van 'De frou yn 'e flesse'" title="Omslag van 'De frou yn 'e flesse'">
-<p>Een lerares van een middelbare school en een leerling vertellen over elkaar en hun wederzijdse kennissen.</p>]]></content>
-        <author>
-            <name>Anne Wadman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In brulloft yn 'e Walden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/371340942/in-brulloft-yn--e-walden-tjibbe-gearts-van-der-meulen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/371340942/in-brulloft-yn--e-walden-tjibbe-gearts-van-der-meulen"/>
-        <updated>2026-10-16T12:01:27.101Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340942?aid=kb-online-bibliotheek&sid=23&dts=1792150770866&sig=bfb93d61878b052da9775ea1bf8c45f3a8da02baab842adc9d541a7233b67109&width=320" alt="Omslag van 'In brulloft yn 'e Walden'" title="Omslag van 'In brulloft yn 'e Walden'">
-<p>Keuze uit het werk van de 19e-eeuwse Friese volksschrijver.</p>]]></content>
-        <author>
-            <name>Tjibbe Gearts van der Meulen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De hoara's fan hastings]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/375300716/de-hoara-s-fan-hastings-simke-kloosterman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/375300716/de-hoara-s-fan-hastings-simke-kloosterman"/>
-        <updated>2026-10-16T12:01:27.947Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A375300716?aid=kb-online-bibliotheek&sid=23&dts=1792152087425&sig=233ccd8aa27a47de81a2aa705ddecdde19f97a258e70178c044483a26732dcaa&width=320" alt="Omslag van 'De hoara's fan hastings'" title="Omslag van 'De hoara's fan hastings'">
-<p>Een rijke boerenfamilie voelt zich bedreigd door het opkomend socialisme onder de boerenarbeiders.</p>]]></content>
-        <author>
-            <name>Simke Kloosterman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frijende kikkerts]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/371340896/frijende-kikkerts-hylkje-goinga</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/371340896/frijende-kikkerts-hylkje-goinga"/>
-        <updated>2026-10-16T12:01:28.638Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A371340896?aid=kb-online-bibliotheek&sid=23&dts=1792152088063&sig=d8338d5529fb3e5a3e0e9469d9f0dfb4b811c8512db9c0b149f9a605aa9cc6cc&width=320" alt="Omslag van 'Frijende kikkerts'" title="Omslag van 'Frijende kikkerts'">
-<p>Een vrouw tracht na ongelukkige huwelijkservaringen tot rust te komen in een psychiatrische inrichting.</p>]]></content>
-        <author>
-            <name>Hylkje Goinga</name>
         </author>
     </entry>
 </feed>
