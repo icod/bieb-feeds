@@ -2,42 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-10-28T13:41:44.531Z</updated>
+    <updated>2026-10-29T13:51:54.502Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
-        <title type="html"><![CDATA[Jarno]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot"/>
-        <updated>2026-10-28T13:41:37.699Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209734?aid=kb-online-bibliotheek&sid=24&dts=1793194897512&sig=3bbda0f7816eb7b0f301d03360086102de86561de499e9e1a4f5df7c7ae4c887&width=320" alt="Omslag van 'Jarno'" title="Omslag van 'Jarno'">
-<p>Jarno Errens was de eerste nieuwe Nederlandse UFC-vechter in jaren. De UFC is de grootste organisatie in de snelst groeiende sport van de Verenigde Staten. Het was zijn grote droom. Toen hij dit jaar een wedstrijd verloor, spatte die droom uiteen. Maar vechtsporter Jarno uit Heerlen is vastbesloten zichzelf terug te knokken. Letterlijk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[De blauwe fabel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435088750/de-blauwe-fabel-ties-joosten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435088750/de-blauwe-fabel-ties-joosten"/>
+        <updated>2026-10-29T13:51:53.920Z</updated>
+        <summary type="html"><![CDATA[waarom we de KLM al een eeuw lang tegen elke prijs in de lucht houden]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435088750?aid=kb-online-bibliotheek&sid=24&dts=1793268751540&sig=9c0647a0c55e120426c542acb489067df73fe361fa70b7c42b18f55715b5ea38&width=320" alt="Omslag van 'De blauwe fabel'" title="Omslag van 'De blauwe fabel'">
+<p>Geen bedrijf maakt Nederlanders trotser dan de KLM. Onze koninklijke luchtvaartmaatschappij zou zelfs aan de basis staan van het succes van de BV Nederland. Maar op welke feiten is dat gebaseerd? In De blauwe fabel vertelt Ties Joosten aan de hand van minutieus historisch onderzoek en op basis van tientallen interviews met insiders hoe de KLM keer op keer profiteert van de Nederlandse liefde voor de zwaan. Of de KLM nu geraakt wordt door economische crises, een pandemie of door opkomend nationalisme: de overheid staat altijd klaar om haar met een grote zak geld te redden. Nu de klimaatcrisis de toekomstperspectieven van het luchtvaartbedrijf langzaam maar zeker doet vervagen, is het tijd om de oude zwaan recht in de ogen te kijken. Zijn we na honderd jaar nog altijd verblind door de liefde voor onze nationale trots? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Leon Verdonschot</name>
+            <name>Ties Joosten</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De laatste avond]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono"/>
-        <updated>2026-10-28T13:41:37.869Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45320970X?aid=kb-online-bibliotheek&sid=24&dts=1793192747671&sig=58d6f0cb1c3c711bc9bb3632d855412545a140c30fab1a6843b9ee9b8ae94461&width=320" alt="Omslag van 'De laatste avond'" title="Omslag van 'De laatste avond'">
-<p>Het is de laatste avond van een vakantie in Napels. Onverwacht nieuws doet tijdens het diner de verhoudingen tussen een jong stel en hun beste vriendin dramatisch verschuiven. Wie is loyaal aan wie? Hoe ga je om met jaloezie in een vriendschap? En wie is nou werkelijk de buitenstaander in deze driehoeksverhouding? De wijn wordt nog een laatste keer ingeschonken, de zon zakt de zee in en alle kaarten komen op tafel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Sywerts miljoenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435618784/sywerts-miljoenen-jan-hein-strop---stefan-vermeulen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435618784/sywerts-miljoenen-jan-hein-strop---stefan-vermeulen"/>
+        <updated>2026-10-29T13:51:54.119Z</updated>
+        <summary type="html"><![CDATA[de jacht op het mondkapjesgoud]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435618784?aid=kb-online-bibliotheek&sid=24&dts=1793268751543&sig=34d455ba512efac1b9325689993d341a839a4ceb2427da7325f549e1cd2f5cf0&width=320" alt="Omslag van 'Sywerts miljoenen'" title="Omslag van 'Sywerts miljoenen'">
+<p>Journalistieke reconstructie van de ‘mondkapjes-affaire’, waarbij tijdens de coronacrisis door misleiding commercieel werd verdiend aan een deal die als non-profit was voorgesteld.</p>]]></content>
         <author>
-            <name>Simone Atangana Bekono</name>
+            <name>Jan-Hein Strop</name>
+        </author>
+        <author>
+            <name>Stefan Vermeulen</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Witte Nachten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski"/>
-        <updated>2026-10-28T13:41:38.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209742?aid=kb-online-bibliotheek&sid=24&dts=1793194897959&sig=36988f6870cb76655ff67b081dc54e8578b0f3b4c4b0c265c5954e031455a1d2&width=320" alt="Omslag van 'Witte Nachten'" title="Omslag van 'Witte Nachten'">
-<p>Een jonge man loopt door Sint-Petersburg. Een stad waar de zon nooit helemaal ondergaat in de zomer. De man is eenzaam, verdwaald in zijn gedachten. Tot hij op een avond een meisje ontmoet, Nastenka. Zij voelt zich ook alleen. Net als hij zoekt ze naar geluk. Samen ze lopen vier nachten door de schemerende stad. Ze vertellen elkaar over hun leven. Hij wordt verliefd op haar. Maar Nastenka denkt aan een ander. Toch blijft de man bij haar, uit liefde. Tot de witte nachten voorbij zijn ... Witte Nachten is geschreven in 1848 door Fjodor Dostojevski, één van de bekendste Russische auteurs ooit. Frans van Duijn hertaalde het boek naar gewone taal. Zodat iedereen deze bijzondere klassieker kan lezen. Het is een verhaal over liefde en verdriet. Over alleen zijn, maar toch iemand vinden. Voor iedereen die zich ooit alleen voelde in een drukke wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Gokkers en graaiers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437434079/gokkers-en-graaiers-roel-janssen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437434079/gokkers-en-graaiers-roel-janssen"/>
+        <updated>2026-10-29T13:51:54.315Z</updated>
+        <summary type="html"><![CDATA[Financiële schandalen van de VOC tot de Zuidas]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437434079?aid=kb-online-bibliotheek&sid=24&dts=1793273703726&sig=1128ec1423fd264931ec58ab929d66445b53c382ba07430670e89b7db77a133a&width=320" alt="Omslag van 'Gokkers en graaiers'" title="Omslag van 'Gokkers en graaiers'">
+<p>Achttien verslagen over financiële schandalen van 1609 tot 2022.</p>]]></content>
         <author>
-            <name>Fjodor Dostojevski</name>
+            <name>Roel Janssen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het Heineken-losgeld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/440370515/het-heineken-losgeld-harry-lensink---wim-van-de-pol</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/440370515/het-heineken-losgeld-harry-lensink---wim-van-de-pol"/>
+        <updated>2026-10-29T13:51:54.500Z</updated>
+        <summary type="html"><![CDATA[Hoe de verdwenen miljoenen nog altijd rondspoken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440370515?aid=kb-online-bibliotheek&sid=24&dts=1793269203845&sig=33376eb9aa244b685e4e12970372cc7bf8e243fda8d96df4bf6ab82636c48f8b&width=320" alt="Omslag van 'Het Heineken-losgeld'" title="Omslag van 'Het Heineken-losgeld'">
+<p>Waar is het nooit teruggevonden deel van het Heineken-losgeld gebleven? Veertig jaar na de ontvoering van Freddy Heineken houdt die vraag nog tal van mensen bezig. Zelfs de rechter komt er nu weer aan te pas. In 1983 werd 35 miljoen gulden losgeld betaald. Daarvan is 8 miljoen spoorloos: ontvoerders Willem Holleeder en Cor van Hout wisten dat veilig te stellen. Daarna dook dat geld in de wildste verhalen op. Het zou zijn begraven in de buurt van Parijs, gebruikt als financiering voor drugstransporten in Zuid-Amerika, belegd in prostitutiepanden in Alkmaar, besteed bij de aankoop van gokhallen en een sekstheater op de Wallen. Harry Lensink en Wim van de Pol proberen de route van die verloren 8 miljoen in kaart te brengen. Ze spraken Heineken-ontvoerder Jan Boellaard en Gerard Holleeder, de broer van Willem. Ze interviewden opsporingsambtenaren, stadsbestuurders en Wallen-ondernemers. Ook verdiepten ze zich in oude en nieuwe strafdossiers, waarbij ze op dubieuze internationale geldstromen en hulpvaardige facilitators stuitten. Ondertussen jaagt de overheid nog onvermoeibaar op de miljoenen en heeft dat geld geleid tot moorden, verbroken vriendschappen en familievetes. Met als grote vraag: waar is het nu? En waarom staat de eigenaar van twee Amsterdamse bedrijven opnieuw terecht voor het witwassen van dat verdomde Heineken-geld? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Harry Lensink</name>
+        </author>
+        <author>
+            <name>Wim van de Pol</name>
         </author>
     </entry>
     <entry>
@@ -52,14 +73,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valse waarheden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461944677/valse-waarheden-josje-weusten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461944677/valse-waarheden-josje-weusten"/>
-        <updated>2026-10-26T13:46:19.853Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461944677?aid=kb-online-bibliotheek&sid=24&dts=1793022379288&sig=6c32c35a433d1cb3c9883bf255b5cba54a47577911d756fc629f684dfc3fbdcb&width=320" alt="Omslag van 'Valse waarheden'" title="Omslag van 'Valse waarheden'">
-<p>Wanneer een nepvideo de reputatie van een filmproducer vernietigt, raakt een filmstudent verstrikt in een web van schuld en zwijgen. Twintig jaar later heeft de samenleving desinformatie uitgebannen en fictie verboden, maar het verlangen naar verbeelding laat zich niet onderdrukken.</p>]]></content>
+        <title type="html"><![CDATA[Witte Nachten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski"/>
+        <updated>2026-10-28T13:41:38.191Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209742?aid=kb-online-bibliotheek&sid=24&dts=1793194897959&sig=36988f6870cb76655ff67b081dc54e8578b0f3b4c4b0c265c5954e031455a1d2&width=320" alt="Omslag van 'Witte Nachten'" title="Omslag van 'Witte Nachten'">
+<p>Een jonge man loopt door Sint-Petersburg. Een stad waar de zon nooit helemaal ondergaat in de zomer. De man is eenzaam, verdwaald in zijn gedachten. Tot hij op een avond een meisje ontmoet, Nastenka. Zij voelt zich ook alleen. Net als hij zoekt ze naar geluk. Samen ze lopen vier nachten door de schemerende stad. Ze vertellen elkaar over hun leven. Hij wordt verliefd op haar. Maar Nastenka denkt aan een ander. Toch blijft de man bij haar, uit liefde. Tot de witte nachten voorbij zijn ... Witte Nachten is geschreven in 1848 door Fjodor Dostojevski, één van de bekendste Russische auteurs ooit. Frans van Duijn hertaalde het boek naar gewone taal. Zodat iedereen deze bijzondere klassieker kan lezen. Het is een verhaal over liefde en verdriet. Over alleen zijn, maar toch iemand vinden. Voor iedereen die zich ooit alleen voelde in een drukke wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Josje Weusten</name>
+            <name>Fjodor Dostojevski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De laatste avond]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono"/>
+        <updated>2026-10-28T13:41:37.869Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45320970X?aid=kb-online-bibliotheek&sid=24&dts=1793192747671&sig=58d6f0cb1c3c711bc9bb3632d855412545a140c30fab1a6843b9ee9b8ae94461&width=320" alt="Omslag van 'De laatste avond'" title="Omslag van 'De laatste avond'">
+<p>Het is de laatste avond van een vakantie in Napels. Onverwacht nieuws doet tijdens het diner de verhoudingen tussen een jong stel en hun beste vriendin dramatisch verschuiven. Wie is loyaal aan wie? Hoe ga je om met jaloezie in een vriendschap? En wie is nou werkelijk de buitenstaander in deze driehoeksverhouding? De wijn wordt nog een laatste keer ingeschonken, de zon zakt de zee in en alle kaarten komen op tafel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Simone Atangana Bekono</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jarno]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot"/>
+        <updated>2026-10-28T13:41:37.699Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209734?aid=kb-online-bibliotheek&sid=24&dts=1793194897512&sig=3bbda0f7816eb7b0f301d03360086102de86561de499e9e1a4f5df7c7ae4c887&width=320" alt="Omslag van 'Jarno'" title="Omslag van 'Jarno'">
+<p>Jarno Errens was de eerste nieuwe Nederlandse UFC-vechter in jaren. De UFC is de grootste organisatie in de snelst groeiende sport van de Verenigde Staten. Het was zijn grote droom. Toen hij dit jaar een wedstrijd verloor, spatte die droom uiteen. Maar vechtsporter Jarno uit Heerlen is vastbesloten zichzelf terug te knokken. Letterlijk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Leon Verdonschot</name>
         </author>
     </entry>
     <entry>
@@ -72,86 +115,6 @@
 <p>In Hooggevoelig helpt orthopedagoog Mirjam Bogerd hooggevoelige mensen om zichzelf beter te begrijpen, voor zichzelf te zorgen en met mildheid naar zichzelf te kijken als. Als je sterk reageert op sfeer en emotie, dingen opmerkt die anderen ontgaan en sneller overprikkeld raakt, ben je misschien hooggevoelig. Hooggevoeligheid is een eigenschap die zowel uitdagingen als kwaliteiten met zich meebrengt. Vanuit wetenschappelijke inzichten, persoonlijke ervaring en humor reikt Mirjam je in dit boek essentiële sleutels aan voor levenslust en ontspanning. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Mirjam Bogerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connectiviteit]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46195642X/connectiviteit-anna-runkle</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46195642X/connectiviteit-anna-runkle"/>
-        <updated>2026-10-28T13:41:38.967Z</updated>
-        <summary type="html"><![CDATA[Het vermogen tot verbinden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46195642X?aid=kb-online-bibliotheek&sid=24&dts=1793194835445&sig=0a2662161d08792544ebc15605bad5bda50758bd5dd030e54193fb361a26293a&width=320" alt="Omslag van 'Connectiviteit'" title="Omslag van 'Connectiviteit'">
-<p>In 'Connectiviteit' onderzoekt Anna Runkle hoe emotionele verwaarlozing in je jeugd en/of jeugdtrauma doorwerkt in het aangaan van relaties later in je leven. Ze richt zich op wat zij beschrijft als 'de verborgen impact van chronische stress in je jeugd': een verstoring in je vermogen om nabijheid toe te laten, grenzen te voelen en jezelf veilig te ervaren in relatie tot anderen. Hoe hard je ook probeert om mee te doen, je voelt je meestal buitengesloten en onbegrepen. Sociale situaties kosten energie en vriendschappen en nabijheid blijven uit.  Met persoonlijke verhalen en heldere uitleg biedt Anna Runkle concrete handvatten om verborgen vermijding te doorbreken, sociale vaardigheden te versterken en stap voor stap veilige, warme relaties op te bouwen. Ook de concrete oefeningen en inzichten om je zenuwstelsel tot rust te brengen en patronen te herkennen, dragen hier aan bij. Haar benadering is direct en praktisch, zonder de complexiteit van trauma te versimpelen. En het uitgangspunt is helder: verbinding is geen luxe, maar een basisbehoefte.  'Connectiviteit' is een toegankelijk, praktisch en hoopgevend boek voor iedereen die verlangt naar wat wezenlijk is: het vermogen om aanwezig te zijn bij jezelf én bij de ander. Alleen zo kan heling plaatsvinden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Anna Runkle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bakkerij Funk - Your Plantbased Baking Guide]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956276/bakkerij-funk---your-plantbased-baking-guide-dennis-van-peel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956276/bakkerij-funk---your-plantbased-baking-guide-dennis-van-peel"/>
-        <updated>2026-10-28T13:41:39.127Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956276?aid=kb-online-bibliotheek&sid=24&dts=1793192439573&sig=f30c00d87155e8832e4add06147eaf1118a38c31805d61c79f0d1cd585d319ed&width=320" alt="Omslag van 'Bakkerij Funk - Your Plantbased Baking Guide'" title="Omslag van 'Bakkerij Funk - Your Plantbased Baking Guide'">
-<p>FUNK - Your plantbased baking guide is inspirerend bakboek voor iedereen die aan de slag wil met eigentijds, plantaardig bakken. Bakkerij Funk is dé trendy, 100% plantaardige bakkerij in Antwerpen, geïnspireerd op de hygge bakkerscultuur van Kopenhagen. Met dit bakboek ga je zelf aan de slag met FUNK's signature viennoiserie, broden, cakes en koekjes, en leer je dankzij een heldere basis over technieken, bladerdeeg en zuurdesem hoe je de lekkerste creaties uit je oven tovert. Bakkerij FUNK biedt wekelijks wisselende seizoensviennoiserie, zuurdesem, specialty coffee en natuurwijn, en er staat altijd een rij, van Antwerpse locals en Nederlandse bezoekers tot internationale fans. FUNK - Your plantbased baking guide is een inspirerend bakboek én een eerbetoon aan deze bakkerij. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dennis van Peel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In jouw voetsporen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46195639X/in-jouw-voetsporen-cathy-bramley</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46195639X/in-jouw-voetsporen-cathy-bramley"/>
-        <updated>2026-10-28T13:41:39.317Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46195639X?aid=kb-online-bibliotheek&sid=24&dts=1793193090052&sig=dcaa5df40efb8ae95513c24006965327ef65ef79f213ed82cb80bcaf875ddce7&width=320" alt="Omslag van 'In jouw voetsporen'" title="Omslag van 'In jouw voetsporen'">
-<p>'In jouw voetsporen' is een meeslepende roman over liefde, moederschap en opnieuw beginnen, perfect voor fans van Jojo Moyes en Jenny Colgan.  Wanneer Magnolia Jones het reisdagboek van haar overleden dochter vindt, kan ze zich geen betere manier voorstellen om haar leven te eren dan de reis te maken waarvan de drieëntwintigjarige Brontë altijd had gedroomd. Het had Brontë's avontuur moeten zijn, maar misschien is het volgen van de voetsporen van haar dochter over de hele wereld precies wat Magnolia nodig heeft om haar gebroken hart bijeen te rapen en te beginnen met helen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Cathy Bramley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dwars door Afrika]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter"/>
-        <updated>2026-10-28T13:41:39.489Z</updated>
-        <summary type="html"><![CDATA[3 vrienden, 3 jaar, 1 rammelend busje]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956268?aid=kb-online-bibliotheek&sid=24&dts=1793194189750&sig=a77160f46f39f0ec4cc318c44813755f67f543ad4ecbd73f77c2b800d9ca3e65&width=320" alt="Omslag van 'Dwars door Afrika'" title="Omslag van 'Dwars door Afrika'">
-<p>Dwars door Afrika is een meeslepend en waargebeurd reisverhaal over drie vrienden die in een gammel busje een onvergetelijke roadtrip maken van Europa naar Zuid-Afrika. Wat begint als een reis van drie maanden, groeit uit tot een episch avontuur van maar liefst drie jaar. Wanneer Henk Rigter een baan aangeboden krijgt in Zuid-Afrika, besluit hij samen met twee vrienden de uitdaging aan te gaan en erheen te rijden. Tijdens hun reis door Afrika worden ze geconfronteerd met extreme situaties, onverwachte tegenslagen en bijzondere ontmoetingen. Ze adopteren een hond, raken betrokken bij goede doelen, belanden meerdere keren in de gevangenis en overleven zelfs een confrontatie met een krokodil. Dit boek neemt je mee op een unieke reis door het Afrikaanse continent, vol cultuur, natuur en avontuur. Dwars door Afrika is een inspirerend verhaal over vriendschap, zelfontdekking, doorzettingsvermogen en de ultieme drang naar vrijheid en avontuur. Voor lezers van o.a. Into the Wild, One Year on a Bike, Een onmogelijk avontuur en On the Road. Waarom dit boek lezen?</p><p>Waargebeurd en meeslepend reisverhaal  Perfect voor liefhebbers van avontuur en roadtrips  Inspirerend verhaal over persoonlijke groei en vriendschap  Unieke kijk op reizen door Afrika </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Henk Rigter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visie, ruzie, compromis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms"/>
-        <updated>2026-10-28T13:41:39.739Z</updated>
-        <summary type="html"><![CDATA[Een kleine biografie van de Nederlandse spelling]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956411?aid=kb-online-bibliotheek&sid=24&dts=1793194899566&sig=fdad153f3219976074481b1adb98e5e089232a8e8411e0ab7f6a7ca49ae91725&width=320" alt="Omslag van 'Visie, ruzie, compromis'" title="Omslag van 'Visie, ruzie, compromis'">
-<p>Sinds 1804 heeft het Nederlands een officiële spelling. In de eeuwen daarna is er veel en vaak over spelling nagedacht, gediscussieerd én geruzied. Waarom leidt de vraag hoe we onze woorden opschrijven tot zulke hevige emoties? En hoe belangrijk zijn spellingregels nog, nu de communicatie vluchtiger is dan ooit? Dat onderzoekt Miet Ooms in Visie, ruzie, compromis. Een kleine biografie van de Nederlandse spelling. Ze neemt je mee in de woelige levensloop van de Nederlandse spelling - van de regelloze middeleeuwen tot de eerste officiële spelling, naar onrust over menschen of mensen, c's en k's en de tussen-n, en uiteindelijk, eindelijk, rust in spellingland. Of toch niet? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Miet Ooms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het land van de dageraad]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark"/>
-        <updated>2026-10-28T13:41:39.903Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956314?aid=kb-online-bibliotheek&sid=24&dts=1793192833484&sig=b75ecdbb0485d4aecd34efe44120851eeafef6aef362f28932887534305e6856&width=320" alt="Omslag van 'Het land van de dageraad'" title="Omslag van 'Het land van de dageraad'">
-<p>Nieuw-Zeeland, nu. De jonge archeologe Sophie reist naar de Chathameilanden, voor de kust van Nieuw-Zeeland. Op een door de tijd getekend beeldhouwwerk tussen de historische boomtekeningen van de Moriori vindt ze een mysterieuze inscriptie, en een verhaal dat bijna 200 jaar geleden begon...  De Chathameilanden, 1835. De jonge Moriori Kimi maakt de invasie van haar land mee: ze wordt ontvoerd en tot slaaf gemaakt – totdat ze beseft dat de wetten van haar goden haar niet kunnen beschermen. Tegelijkertijd reist de Duitse Ruth naar het einde van de wereld voor haar man, die haar vervolgens in de steek laat. Beide vrouwen moeten vechten voor hun eigen geluk in een wereld die hen niet vriendelijk gezind is… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sarah Lark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een vrouw in bed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux"/>
-        <updated>2026-10-28T13:41:40.157Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956373?aid=kb-online-bibliotheek&sid=24&dts=1793194899979&sig=3cb43a3eaa967edb7af0106cb70c533fb347f57eb0bcea753309f10e5440b1bc&width=320" alt="Omslag van 'Een vrouw in bed'" title="Omslag van 'Een vrouw in bed'">
-<p>Ze is gelukkig getrouwd, alles is op orde. Er is genoeg geld, de kinderen zijn gezond, de man liefdevol en betrouwbaar. Maar toch is er een verlangen dat niet meer te onderdrukken is: het verlangen om naar bed te gaan met een vrouw. Het moet en het zal, liever gisteren dan vandaag. Wanneer ze het deelt met haar man, besluit hij haar vrij te laten om dit verlangen te vervullen. Maar wanneer hij op zijn beurt ook avontuur wil, worden de kaarten opnieuw geschud. Kunnen ze nog terug? Willen ze terug?  Een vrouw in bed is een realistische, pikante roman over open relaties en de nieuwe regels in het seksuele speelveld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lin Le Roux</name>
         </author>
     </entry>
     <entry>
@@ -178,82 +141,37 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ik heb het druk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956489/ik-heb-het-druk-oliver-jeffers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956489/ik-heb-het-druk-oliver-jeffers"/>
-        <updated>2026-10-28T13:41:40.931Z</updated>
-        <summary type="html"><![CDATA[Een boek over een (bijna vergeten) verjaardag]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956489?aid=kb-online-bibliotheek&sid=24&dts=1793194900688&sig=1e9e80b649957513acaf3857f2594344aac846bfdb6d5da3a24b5d405f6c55d2&width=320" alt="Omslag van 'Ik heb het druk'" title="Omslag van 'Ik heb het druk'">
-<p>Britt is jarig, en ze wil niets liever dan die dag doorbrengen met haar vrienden.  Maar Roy heeft andere plannen, Wammes moet nog iets regelen, Rein moet z'n haar wassen en Marit heeft een to-dolijst die koste wat kost afgewerkt moet worden. Britts vrienden hebben het allemaal véél te druk! Moet Britt haar verjaardag dan helemaal alleen vieren? Een krachtig verhaal van Oliver Jeffers, die je als geen ander met een knipoog kan laten nadenken over wat er echt toe doet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Het land van de dageraad]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark"/>
+        <updated>2026-10-28T13:41:39.903Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956314?aid=kb-online-bibliotheek&sid=24&dts=1793192833484&sig=b75ecdbb0485d4aecd34efe44120851eeafef6aef362f28932887534305e6856&width=320" alt="Omslag van 'Het land van de dageraad'" title="Omslag van 'Het land van de dageraad'">
+<p>Nieuw-Zeeland, nu. De jonge archeologe Sophie reist naar de Chathameilanden, voor de kust van Nieuw-Zeeland. Op een door de tijd getekend beeldhouwwerk tussen de historische boomtekeningen van de Moriori vindt ze een mysterieuze inscriptie, en een verhaal dat bijna 200 jaar geleden begon...  De Chathameilanden, 1835. De jonge Moriori Kimi maakt de invasie van haar land mee: ze wordt ontvoerd en tot slaaf gemaakt – totdat ze beseft dat de wetten van haar goden haar niet kunnen beschermen. Tegelijkertijd reist de Duitse Ruth naar het einde van de wereld voor haar man, die haar vervolgens in de steek laat. Beide vrouwen moeten vechten voor hun eigen geluk in een wereld die hen niet vriendelijk gezind is… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Oliver Jeffers</name>
+            <name>Sarah Lark</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Een nieuw begin aan zee]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale"/>
-        <updated>2026-10-28T13:41:41.111Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956241?aid=kb-online-bibliotheek&sid=24&dts=1793193601227&sig=280a5582e1fb6c980ba4a2e1b5559832005af18d67dc190e91bd08a98859d78d&width=320" alt="Omslag van 'Een nieuw begin aan zee'" title="Omslag van 'Een nieuw begin aan zee'">
-<p>'Een nieuw begin aan zee' heeft alle ingrediënten voor een heerlijke feelgood: een sfeervolle setting, romantiek, geweldige vriendschappen en warme familiebanden.  Na het verlies van haar verloofde snakt eventplanner Lauren ernaar een nieuwe draai aan haar leven te geven. Ze besluit de zomer door te brengen tussen de zandduinen en wisselende getijden van de Outer Banks, North Carolina, waar ze aan de slag gaat bij een knusse oude herberg. De zilte bries van de Atlantische Oceaan en de warmte van de zomerzon op haar gezicht helpen haar om weer richting te vinden. Al is het misschien niet de richting die ze verwacht… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een vrouw in bed]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux"/>
+        <updated>2026-10-28T13:41:40.157Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956373?aid=kb-online-bibliotheek&sid=24&dts=1793194899979&sig=3cb43a3eaa967edb7af0106cb70c533fb347f57eb0bcea753309f10e5440b1bc&width=320" alt="Omslag van 'Een vrouw in bed'" title="Omslag van 'Een vrouw in bed'">
+<p>Ze is gelukkig getrouwd, alles is op orde. Er is genoeg geld, de kinderen zijn gezond, de man liefdevol en betrouwbaar. Maar toch is er een verlangen dat niet meer te onderdrukken is: het verlangen om naar bed te gaan met een vrouw. Het moet en het zal, liever gisteren dan vandaag. Wanneer ze het deelt met haar man, besluit hij haar vrij te laten om dit verlangen te vervullen. Maar wanneer hij op zijn beurt ook avontuur wil, worden de kaarten opnieuw geschud. Kunnen ze nog terug? Willen ze terug?  Een vrouw in bed is een realistische, pikante roman over open relaties en de nieuwe regels in het seksuele speelveld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jenny Hale</name>
+            <name>Lin Le Roux</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De overbodigen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956403/de-overbodigen-herman-koch</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956403/de-overbodigen-herman-koch"/>
-        <updated>2026-10-28T13:41:41.279Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956403?aid=kb-online-bibliotheek&sid=24&dts=1793192142021&sig=98d7682491e8005399476fd4fcd2e696b2b4b929b981f16ef075ca3816d68463&width=320" alt="Omslag van 'De overbodigen'" title="Omslag van 'De overbodigen'">
-<p>Stem nu op 'De overbodigen' voor boek van het jaar: nspublieksprijs.nl/genomineerden/de-overbodigen</p><p>Bioloog Herbert en zijn vrouw Yvonne waren al langer van plan om de Cotswold Way te lopen, de iconische langeafstandswandeling in Engeland, die door prachtige weiden, bossen en pittoreske dorpen voert. In een opwelling nodigden ze de ouders van de vriend van hun dochter uit. Een opwelling met grote gevolgen. 'De overbodigen' is een beklemmende roman over het recht van de sterkste, tegen de achtergrond van een van de mooiste landelijke gebieden van Engeland.  'De overbodigen leest even lekker als een goed geconstrueerde detectiveroman. Er zijn cliffhangers en kochiaanse bochten waarbij alles toch nét anders in elkaar zit dan je in eerste instantie denkt.' - De Volkskrant</p><p> ' De blijvende charme van Herman Koch zit in zijn onvoorspelbaarheid.' - EW, Jeroen Vullings</p><p> ' Zijn spannendste roman tot nu toe.' - De Limburger ****</p><p>  '  Het diner 2.0. Meedogenloos machtsvertoon tegen een idyllisch decor.' - Zin Magazine</p><p></p><p>'</p><p>Weer een verslavend boek van Koch waarin de spanningen hoog oplopen. Je leest 'm het liefst in één zit uit.' - LINDA.</p><p> ' Een grandioze pastiche op de misdaadroman.' - Knack (4 ballen) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Visie, ruzie, compromis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms"/>
+        <updated>2026-10-28T13:41:39.739Z</updated>
+        <summary type="html"><![CDATA[Een kleine biografie van de Nederlandse spelling]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956411?aid=kb-online-bibliotheek&sid=24&dts=1793194899566&sig=fdad153f3219976074481b1adb98e5e089232a8e8411e0ab7f6a7ca49ae91725&width=320" alt="Omslag van 'Visie, ruzie, compromis'" title="Omslag van 'Visie, ruzie, compromis'">
+<p>Sinds 1804 heeft het Nederlands een officiële spelling. In de eeuwen daarna is er veel en vaak over spelling nagedacht, gediscussieerd én geruzied. Waarom leidt de vraag hoe we onze woorden opschrijven tot zulke hevige emoties? En hoe belangrijk zijn spellingregels nog, nu de communicatie vluchtiger is dan ooit? Dat onderzoekt Miet Ooms in Visie, ruzie, compromis. Een kleine biografie van de Nederlandse spelling. Ze neemt je mee in de woelige levensloop van de Nederlandse spelling - van de regelloze middeleeuwen tot de eerste officiële spelling, naar onrust over menschen of mensen, c's en k's en de tussen-n, en uiteindelijk, eindelijk, rust in spellingland. Of toch niet? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Herman Koch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drop dead famous]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson"/>
-        <updated>2026-10-28T13:41:41.581Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956535?aid=kb-online-bibliotheek&sid=24&dts=1793194901366&sig=f5304f7e6a78a650997cd5bf57a89d21959e273d4dfaa67caa43bbf71ef8dfef&width=320" alt="Omslag van 'Drop dead famous'" title="Omslag van 'Drop dead famous'">
-<p>Wanneer wereldster Blair Baker optreedt in haar geboortestad, verandert een avond vol glitter en applaus in pure chaos. Voor de ogen van duizenden fans sterft ze op het podium.  Voor Stevie is de moord op haar oudere zus Blair geen sensatieverhaal, maar de verwoestende realiteit. Terwijl de media het nieuws uitmelken, weigert zij zich neer te leggen bij wat er is gebeurd. Vastbesloten om de waarheid te achterhalen, duikt ze in een wereld van roem, leugens en verborgen motieven.  In een stad waar iedereen iets te verbergen heeft, wordt al snel duidelijk: sommige geheimen zijn het waard om voor te doden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jennifer Pearson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moord op het Oxford kanaal]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956365/moord-op-het-oxford-kanaal-faith-martin</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956365/moord-op-het-oxford-kanaal-faith-martin"/>
-        <updated>2026-10-28T13:41:41.961Z</updated>
-        <summary type="html"><![CDATA[Een spannend moordmysterie vol plottwists]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956365?aid=kb-online-bibliotheek&sid=24&dts=1793194901669&sig=d54776e599bef1de076ad558e0f744c0bcd5de3007d016c69a62b74cd3380660&width=320" alt="Omslag van 'Moord op het Oxford kanaal'" title="Omslag van 'Moord op het Oxford kanaal'">
-<p>Zoek je een fantastisch moordmysterie met een strijdbare vrouwelijke detective?</p><p>  DUIK IN EEN VAN DE GELIEFDSTE BRITSE CRIMESERIES</p><p>  Van bestsellerauteur Faith Martin. Wereldwijd al ruim 2 miljoen boeken verkocht.</p><p> Na de dood van haar echtgenoot vecht inspecteur Hillary Greene voor haar baan. Door wat hij heeft uitgevreten, wordt zij nu verdacht van corruptie.</p><p>Dan duikt er een gehavend lichaam op in het Oxford kanaal. Het lijkt een bootongeluk, maar Hillary vertrouwt het niet. Haar onderzoek wijst uit dat er veel meer speelt.</p><p>Kan Hillary haar naam zuiveren en een samenzwering op het water onthullen?</p><p> Moord op het Oxford kanaal is een moordmysterie vol goed geobserveerde personages, het eerste deel van een serie pageturners die zich afspelen in en om Oxford.</p><p>  LEZERS OVER MOORD OP HET OXFORD KANAAL</p><p> 'Een  echte pageturner ... kan niet wachten op de volgende.' - Barbara ⭐⭐⭐⭐⭐</p><p>'Ging er vanaf de eerste pagina's in op...  uitstekend .' - Rhonda ⭐⭐⭐⭐⭐</p><p>'Een  eersteklas crimethriller ... perfecte achtergronden voor een langlopende serie.' - Ted ⭐⭐⭐⭐⭐</p><p>' Geweldig plot ... meer dan genoeg twists en dwaalsporen.' - Amanda ⭐⭐⭐⭐⭐</p><p>'Meeslepend en  fascinerend ... Martin snapt dat slimme vrouwen hot zijn.' - Jeanne ⭐⭐⭐⭐⭐</p><p>DE LOCATIE  Het Oxford kanaal slingert door het prachtige graafschap Oxfordshire, komt soms samen met de rivieren Cherwell en Theems, en stroomt door de wereldberoemde universiteitsstad. In tegenstelling tot veel kanalen, die rechtlijnige commerciële waterwegen zijn, gebouwd om goederen en zwaar verkeer te vervoeren vóór de komst van de spoorwegen, is het meer kronkelend en natuurlijk ogend en een toevluchtsoord voor wilde flora en fauna.  DE DETECTIVE  Hillary Greene is een aantrekkelijke vrouw van in de veertig, die is opgeklommen door de politierangen tot ze nu inspecteur is. Ze weet hoe het systeem werkt en ze is loyaal aan het korps zonder oogkleppen voor de fouten. Vanwege haar no-nonsense houding en bekwaamheid is ze populair, maar ze wordt momenteel onderzocht vanwege haar onlangs overleden en absoluut corrupte echtgenoot, met wie ze in een vechtscheiding lag. Toch heeft tegenspoed haar er nooit van weerhouden haar werk te doen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Faith Martin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deining op de Britannia]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett"/>
-        <updated>2026-10-28T13:41:42.121Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956438?aid=kb-online-bibliotheek&sid=24&dts=1793192290051&sig=73b155d98021a9790a66d4f7623b4a224575bf45bbec8871f38884bfbf6602de&width=320" alt="Omslag van 'Deining op de Britannia'" title="Omslag van 'Deining op de Britannia'">
-<p>Terug in de tropen, een nieuwe zaak in de briljante internationale bestsellerserie</p><p> In 1966 maakt koningin Elizabeth II een rondreis door het Caribisch gebied aan boord van het koninklijk jacht Britannia. Vijf weken lang zijn elke tien minuten van haar schema nauwkeurig vastgelegd, en er mag absoluut niets misgaan.</p><p>Maar er gaat wel wat mis. Al aan het begin van de reis wordt de nieuwe agenda-secretaresse, Pamela Sinclair, dood aangetroffen in haar hut. Er gaan talloze geruchten over hoe ze is omgekomen, maar de waarheid is dat niemand het echt weet. De verdenking valt echter op de vertrouwelinge van de koningin, Joan McGraw.</p><p>HMY Britannia is een schip in vol bedrijf en iedereen is druk, van de admiraal op de brug tot de koks in de kombuizen en de machinisten die de turbines onderhouden. Er is een bemanning van honderden mensen aan boord. Is een van hen een moordenaar?</p><p>De koningin en Joan moeten al hun vaardigheden en trucs inzetten om het mysterie op te lossen, terwijl ze ogenschijnlijk onverstoorbaar van het ene naar het andere evenement gaan en het bezoek aan de verschillende eilanden zich ontvouwt onder het toeziend oog van de hele wereld.</p><p> Fans van THE CROWN, Agatha Christie, Richard Osman en Anthony Horowitz zullen genieten van Deining op de Britannia .</p><p>DE SPEURDER  Van jongs af aan heeft Queen Elizabeth al een gave om mysteries op te lossen. Haar positie verbiedt echter elke directe bemoeienis. Ze moet dus omzichtig te werk gaan en ze vertrouwt op haar assistent-privésecretaris om te doen wat zij moet laten en te voorkomen dat iemand achter de koninklijke betrokkenheid komt.  DE SETTING  De Britannia was het enige koninklijke bouwproject van Elizabeth en Philip. Het koninklijk jacht was een wereld op zich, met een speciaal geselecteerde bemanning die de koningin de hele wereld rondvoer. In de jaren zestig - de tijd van Swinging London en de Beatles - ondernam de Queen een tropische tournee langs de West-Indische eilanden van het Britse Gemenebest.  REACTIES OP DE SERIE</p><p>'Een perfect moordmysterie.' - Ruth Ware  'Een sprankelend historisch mysterie.' - Malcolm Edwards</p><p>'Hilarisch, hartveroverend en goed geobserveerd. Fantastisch.' - Joanne Harris</p><p>Als speurneus kan de koningin nog jaren mee.' - DE VOLKSKRANT</p><p>'Een geestig moordmysterie.' - VRIJ NEDERLAND</p><p>'Elizabeth II is geknipt voor de rol van Miss Marple.' - TROUW</p><p>'Spanning en ontspanning met onweerstaanbare Engelse flair.' - DE LIMBURGER</p><p>'De Queen is een briljant personage.' - BOEKENKRANT </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>S.J. Bennett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Al mijn leugens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956330/al-mijn-leugens-nelle-lamarr</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956330/al-mijn-leugens-nelle-lamarr"/>
-        <updated>2026-10-28T13:41:42.288Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956330?aid=kb-online-bibliotheek&sid=24&dts=1793192989433&sig=94bbde4d6c30c4775db50cd1c3103c720023f8d6dcec8266209f5f6df9864e63&width=320" alt="Omslag van 'Al mijn leugens'" title="Omslag van 'Al mijn leugens'">
-<p>De jonge, gefrustreerde schrijver Sloan White werkt zich kapot als assistente van de beroemde thrillerauteur Barbara Van Wyck. Wanneer Sloan haar tirannieke werkgever dood aantreft achter haar schrijfmachine – haar nog ongepubliceerde manuscript af op haar bureau – grijpt ze haar kans. Sloan steelt het, herschrijft het subtiel, en publiceert het onder een pseudoniem. Het boek, Duistere leugens, wordt een internationale bestseller. Sloan lijkt nu alles te hebben waar ze altijd van droomde, maar iemand kent haar geheim en wil haar daarvoor laten boeten... Voor fans van Freida McFadden, Jeneva Rose en Willow Rose </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nelle Lamarr</name>
+            <name>Miet Ooms</name>
         </author>
     </entry>
     <entry>
@@ -269,15 +187,139 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best of Belgium]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461952076/best-of-belgium-angela-dansby</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461952076/best-of-belgium-angela-dansby"/>
-        <updated>2026-10-28T13:41:42.925Z</updated>
-        <summary type="html"><![CDATA[The Complete Travel Guide Through Expat Eyes]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461952076?aid=kb-online-bibliotheek&sid=24&dts=1793194902739&sig=c9ede65f3508792236b21d78966e176c6433e7fc833d6972eec4249aa5527986&width=320" alt="Omslag van 'Best of Belgium'" title="Omslag van 'Best of Belgium'">
-<p>Best of Belgium: The Complete Travel Guide Through Expat Eyes opens the eyes of residents and visitors alike with its rare coverage of all Belgian regions and provinces. A small country with big heritage and culture, Belgium has the most castles per square kilometre in the world and a wealth of UNESCO-recognised sites and traditions. It is also rich in medieval charm, avant-garde creativity and culinary excellence, including more than 150 Michelin-starred restaurants. Linguistically divided by region, Belgium offers three unique experiences in one country. From Brussels' world-class museums and cosmopolitan flair to Flanders' medieval architecture and sandy beaches to Wallonia's fairytale castles and forested hills, this comprehensive insider's guide reveals why Belgium deserves a place on every explorer's European itinerary. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Drop dead famous]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson"/>
+        <updated>2026-10-28T13:41:41.581Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956535?aid=kb-online-bibliotheek&sid=24&dts=1793194901366&sig=f5304f7e6a78a650997cd5bf57a89d21959e273d4dfaa67caa43bbf71ef8dfef&width=320" alt="Omslag van 'Drop dead famous'" title="Omslag van 'Drop dead famous'">
+<p>Wanneer wereldster Blair Baker optreedt in haar geboortestad, verandert een avond vol glitter en applaus in pure chaos. Voor de ogen van duizenden fans sterft ze op het podium.  Voor Stevie is de moord op haar oudere zus Blair geen sensatieverhaal, maar de verwoestende realiteit. Terwijl de media het nieuws uitmelken, weigert zij zich neer te leggen bij wat er is gebeurd. Vastbesloten om de waarheid te achterhalen, duikt ze in een wereld van roem, leugens en verborgen motieven.  In een stad waar iedereen iets te verbergen heeft, wordt al snel duidelijk: sommige geheimen zijn het waard om voor te doden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Angela Dansby</name>
+            <name>Jennifer Pearson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ik heb het druk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956489/ik-heb-het-druk-oliver-jeffers</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956489/ik-heb-het-druk-oliver-jeffers"/>
+        <updated>2026-10-28T13:41:40.931Z</updated>
+        <summary type="html"><![CDATA[Een boek over een (bijna vergeten) verjaardag]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956489?aid=kb-online-bibliotheek&sid=24&dts=1793194900688&sig=1e9e80b649957513acaf3857f2594344aac846bfdb6d5da3a24b5d405f6c55d2&width=320" alt="Omslag van 'Ik heb het druk'" title="Omslag van 'Ik heb het druk'">
+<p>Britt is jarig, en ze wil niets liever dan die dag doorbrengen met haar vrienden.  Maar Roy heeft andere plannen, Wammes moet nog iets regelen, Rein moet z'n haar wassen en Marit heeft een to-dolijst die koste wat kost afgewerkt moet worden. Britts vrienden hebben het allemaal véél te druk! Moet Britt haar verjaardag dan helemaal alleen vieren? Een krachtig verhaal van Oliver Jeffers, die je als geen ander met een knipoog kan laten nadenken over wat er echt toe doet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Oliver Jeffers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deining op de Britannia]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett"/>
+        <updated>2026-10-28T13:41:42.121Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956438?aid=kb-online-bibliotheek&sid=24&dts=1793192290051&sig=73b155d98021a9790a66d4f7623b4a224575bf45bbec8871f38884bfbf6602de&width=320" alt="Omslag van 'Deining op de Britannia'" title="Omslag van 'Deining op de Britannia'">
+<p>Terug in de tropen, een nieuwe zaak in de briljante internationale bestsellerserie</p><p> In 1966 maakt koningin Elizabeth II een rondreis door het Caribisch gebied aan boord van het koninklijk jacht Britannia. Vijf weken lang zijn elke tien minuten van haar schema nauwkeurig vastgelegd, en er mag absoluut niets misgaan.</p><p>Maar er gaat wel wat mis. Al aan het begin van de reis wordt de nieuwe agenda-secretaresse, Pamela Sinclair, dood aangetroffen in haar hut. Er gaan talloze geruchten over hoe ze is omgekomen, maar de waarheid is dat niemand het echt weet. De verdenking valt echter op de vertrouwelinge van de koningin, Joan McGraw.</p><p>HMY Britannia is een schip in vol bedrijf en iedereen is druk, van de admiraal op de brug tot de koks in de kombuizen en de machinisten die de turbines onderhouden. Er is een bemanning van honderden mensen aan boord. Is een van hen een moordenaar?</p><p>De koningin en Joan moeten al hun vaardigheden en trucs inzetten om het mysterie op te lossen, terwijl ze ogenschijnlijk onverstoorbaar van het ene naar het andere evenement gaan en het bezoek aan de verschillende eilanden zich ontvouwt onder het toeziend oog van de hele wereld.</p><p> Fans van THE CROWN, Agatha Christie, Richard Osman en Anthony Horowitz zullen genieten van Deining op de Britannia .</p><p>DE SPEURDER  Van jongs af aan heeft Queen Elizabeth al een gave om mysteries op te lossen. Haar positie verbiedt echter elke directe bemoeienis. Ze moet dus omzichtig te werk gaan en ze vertrouwt op haar assistent-privésecretaris om te doen wat zij moet laten en te voorkomen dat iemand achter de koninklijke betrokkenheid komt.  DE SETTING  De Britannia was het enige koninklijke bouwproject van Elizabeth en Philip. Het koninklijk jacht was een wereld op zich, met een speciaal geselecteerde bemanning die de koningin de hele wereld rondvoer. In de jaren zestig - de tijd van Swinging London en de Beatles - ondernam de Queen een tropische tournee langs de West-Indische eilanden van het Britse Gemenebest.  REACTIES OP DE SERIE</p><p>'Een perfect moordmysterie.' - Ruth Ware  'Een sprankelend historisch mysterie.' - Malcolm Edwards</p><p>'Hilarisch, hartveroverend en goed geobserveerd. Fantastisch.' - Joanne Harris</p><p>Als speurneus kan de koningin nog jaren mee.' - DE VOLKSKRANT</p><p>'Een geestig moordmysterie.' - VRIJ NEDERLAND</p><p>'Elizabeth II is geknipt voor de rol van Miss Marple.' - TROUW</p><p>'Spanning en ontspanning met onweerstaanbare Engelse flair.' - DE LIMBURGER</p><p>'De Queen is een briljant personage.' - BOEKENKRANT </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>S.J. Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moord op het Oxford kanaal]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956365/moord-op-het-oxford-kanaal-faith-martin</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956365/moord-op-het-oxford-kanaal-faith-martin"/>
+        <updated>2026-10-28T13:41:41.961Z</updated>
+        <summary type="html"><![CDATA[Een spannend moordmysterie vol plottwists]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956365?aid=kb-online-bibliotheek&sid=24&dts=1793194901669&sig=d54776e599bef1de076ad558e0f744c0bcd5de3007d016c69a62b74cd3380660&width=320" alt="Omslag van 'Moord op het Oxford kanaal'" title="Omslag van 'Moord op het Oxford kanaal'">
+<p>Zoek je een fantastisch moordmysterie met een strijdbare vrouwelijke detective?</p><p>  DUIK IN EEN VAN DE GELIEFDSTE BRITSE CRIMESERIES</p><p>  Van bestsellerauteur Faith Martin. Wereldwijd al ruim 2 miljoen boeken verkocht.</p><p> Na de dood van haar echtgenoot vecht inspecteur Hillary Greene voor haar baan. Door wat hij heeft uitgevreten, wordt zij nu verdacht van corruptie.</p><p>Dan duikt er een gehavend lichaam op in het Oxford kanaal. Het lijkt een bootongeluk, maar Hillary vertrouwt het niet. Haar onderzoek wijst uit dat er veel meer speelt.</p><p>Kan Hillary haar naam zuiveren en een samenzwering op het water onthullen?</p><p> Moord op het Oxford kanaal is een moordmysterie vol goed geobserveerde personages, het eerste deel van een serie pageturners die zich afspelen in en om Oxford.</p><p>  LEZERS OVER MOORD OP HET OXFORD KANAAL</p><p> 'Een  echte pageturner ... kan niet wachten op de volgende.' - Barbara ⭐⭐⭐⭐⭐</p><p>'Ging er vanaf de eerste pagina's in op...  uitstekend .' - Rhonda ⭐⭐⭐⭐⭐</p><p>'Een  eersteklas crimethriller ... perfecte achtergronden voor een langlopende serie.' - Ted ⭐⭐⭐⭐⭐</p><p>' Geweldig plot ... meer dan genoeg twists en dwaalsporen.' - Amanda ⭐⭐⭐⭐⭐</p><p>'Meeslepend en  fascinerend ... Martin snapt dat slimme vrouwen hot zijn.' - Jeanne ⭐⭐⭐⭐⭐</p><p>DE LOCATIE  Het Oxford kanaal slingert door het prachtige graafschap Oxfordshire, komt soms samen met de rivieren Cherwell en Theems, en stroomt door de wereldberoemde universiteitsstad. In tegenstelling tot veel kanalen, die rechtlijnige commerciële waterwegen zijn, gebouwd om goederen en zwaar verkeer te vervoeren vóór de komst van de spoorwegen, is het meer kronkelend en natuurlijk ogend en een toevluchtsoord voor wilde flora en fauna.  DE DETECTIVE  Hillary Greene is een aantrekkelijke vrouw van in de veertig, die is opgeklommen door de politierangen tot ze nu inspecteur is. Ze weet hoe het systeem werkt en ze is loyaal aan het korps zonder oogkleppen voor de fouten. Vanwege haar no-nonsense houding en bekwaamheid is ze populair, maar ze wordt momenteel onderzocht vanwege haar onlangs overleden en absoluut corrupte echtgenoot, met wie ze in een vechtscheiding lag. Toch heeft tegenspoed haar er nooit van weerhouden haar werk te doen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Faith Martin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dwars door Afrika]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter"/>
+        <updated>2026-10-28T13:41:39.489Z</updated>
+        <summary type="html"><![CDATA[3 vrienden, 3 jaar, 1 rammelend busje]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956268?aid=kb-online-bibliotheek&sid=24&dts=1793194189750&sig=a77160f46f39f0ec4cc318c44813755f67f543ad4ecbd73f77c2b800d9ca3e65&width=320" alt="Omslag van 'Dwars door Afrika'" title="Omslag van 'Dwars door Afrika'">
+<p>Dwars door Afrika is een meeslepend en waargebeurd reisverhaal over drie vrienden die in een gammel busje een onvergetelijke roadtrip maken van Europa naar Zuid-Afrika. Wat begint als een reis van drie maanden, groeit uit tot een episch avontuur van maar liefst drie jaar. Wanneer Henk Rigter een baan aangeboden krijgt in Zuid-Afrika, besluit hij samen met twee vrienden de uitdaging aan te gaan en erheen te rijden. Tijdens hun reis door Afrika worden ze geconfronteerd met extreme situaties, onverwachte tegenslagen en bijzondere ontmoetingen. Ze adopteren een hond, raken betrokken bij goede doelen, belanden meerdere keren in de gevangenis en overleven zelfs een confrontatie met een krokodil. Dit boek neemt je mee op een unieke reis door het Afrikaanse continent, vol cultuur, natuur en avontuur. Dwars door Afrika is een inspirerend verhaal over vriendschap, zelfontdekking, doorzettingsvermogen en de ultieme drang naar vrijheid en avontuur. Voor lezers van o.a. Into the Wild, One Year on a Bike, Een onmogelijk avontuur en On the Road. Waarom dit boek lezen?</p><p>Waargebeurd en meeslepend reisverhaal  Perfect voor liefhebbers van avontuur en roadtrips  Inspirerend verhaal over persoonlijke groei en vriendschap  Unieke kijk op reizen door Afrika </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Henk Rigter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een nieuw begin aan zee]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale"/>
+        <updated>2026-10-28T13:41:41.111Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956241?aid=kb-online-bibliotheek&sid=24&dts=1793193601227&sig=280a5582e1fb6c980ba4a2e1b5559832005af18d67dc190e91bd08a98859d78d&width=320" alt="Omslag van 'Een nieuw begin aan zee'" title="Omslag van 'Een nieuw begin aan zee'">
+<p>'Een nieuw begin aan zee' heeft alle ingrediënten voor een heerlijke feelgood: een sfeervolle setting, romantiek, geweldige vriendschappen en warme familiebanden.  Na het verlies van haar verloofde snakt eventplanner Lauren ernaar een nieuwe draai aan haar leven te geven. Ze besluit de zomer door te brengen tussen de zandduinen en wisselende getijden van de Outer Banks, North Carolina, waar ze aan de slag gaat bij een knusse oude herberg. De zilte bries van de Atlantische Oceaan en de warmte van de zomerzon op haar gezicht helpen haar om weer richting te vinden. Al is het misschien niet de richting die ze verwacht… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jenny Hale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Al mijn leugens]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956330/al-mijn-leugens-nelle-lamarr</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956330/al-mijn-leugens-nelle-lamarr"/>
+        <updated>2026-10-28T13:41:42.288Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956330?aid=kb-online-bibliotheek&sid=24&dts=1793192989433&sig=94bbde4d6c30c4775db50cd1c3103c720023f8d6dcec8266209f5f6df9864e63&width=320" alt="Omslag van 'Al mijn leugens'" title="Omslag van 'Al mijn leugens'">
+<p>De jonge, gefrustreerde schrijver Sloan White werkt zich kapot als assistente van de beroemde thrillerauteur Barbara Van Wyck. Wanneer Sloan haar tirannieke werkgever dood aantreft achter haar schrijfmachine – haar nog ongepubliceerde manuscript af op haar bureau – grijpt ze haar kans. Sloan steelt het, herschrijft het subtiel, en publiceert het onder een pseudoniem. Het boek, Duistere leugens, wordt een internationale bestseller. Sloan lijkt nu alles te hebben waar ze altijd van droomde, maar iemand kent haar geheim en wil haar daarvoor laten boeten... Voor fans van Freida McFadden, Jeneva Rose en Willow Rose </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nelle Lamarr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connectiviteit]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46195642X/connectiviteit-anna-runkle</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46195642X/connectiviteit-anna-runkle"/>
+        <updated>2026-10-28T13:41:38.967Z</updated>
+        <summary type="html"><![CDATA[Het vermogen tot verbinden]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46195642X?aid=kb-online-bibliotheek&sid=24&dts=1793194835445&sig=0a2662161d08792544ebc15605bad5bda50758bd5dd030e54193fb361a26293a&width=320" alt="Omslag van 'Connectiviteit'" title="Omslag van 'Connectiviteit'">
+<p>In 'Connectiviteit' onderzoekt Anna Runkle hoe emotionele verwaarlozing in je jeugd en/of jeugdtrauma doorwerkt in het aangaan van relaties later in je leven. Ze richt zich op wat zij beschrijft als 'de verborgen impact van chronische stress in je jeugd': een verstoring in je vermogen om nabijheid toe te laten, grenzen te voelen en jezelf veilig te ervaren in relatie tot anderen. Hoe hard je ook probeert om mee te doen, je voelt je meestal buitengesloten en onbegrepen. Sociale situaties kosten energie en vriendschappen en nabijheid blijven uit.  Met persoonlijke verhalen en heldere uitleg biedt Anna Runkle concrete handvatten om verborgen vermijding te doorbreken, sociale vaardigheden te versterken en stap voor stap veilige, warme relaties op te bouwen. Ook de concrete oefeningen en inzichten om je zenuwstelsel tot rust te brengen en patronen te herkennen, dragen hier aan bij. Haar benadering is direct en praktisch, zonder de complexiteit van trauma te versimpelen. En het uitgangspunt is helder: verbinding is geen luxe, maar een basisbehoefte.  'Connectiviteit' is een toegankelijk, praktisch en hoopgevend boek voor iedereen die verlangt naar wat wezenlijk is: het vermogen om aanwezig te zijn bij jezelf én bij de ander. Alleen zo kan heling plaatsvinden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Anna Runkle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In jouw voetsporen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46195639X/in-jouw-voetsporen-cathy-bramley</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46195639X/in-jouw-voetsporen-cathy-bramley"/>
+        <updated>2026-10-28T13:41:39.317Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46195639X?aid=kb-online-bibliotheek&sid=24&dts=1793193090052&sig=dcaa5df40efb8ae95513c24006965327ef65ef79f213ed82cb80bcaf875ddce7&width=320" alt="Omslag van 'In jouw voetsporen'" title="Omslag van 'In jouw voetsporen'">
+<p>'In jouw voetsporen' is een meeslepende roman over liefde, moederschap en opnieuw beginnen, perfect voor fans van Jojo Moyes en Jenny Colgan.  Wanneer Magnolia Jones het reisdagboek van haar overleden dochter vindt, kan ze zich geen betere manier voorstellen om haar leven te eren dan de reis te maken waarvan de drieëntwintigjarige Brontë altijd had gedroomd. Het had Brontë's avontuur moeten zijn, maar misschien is het volgen van de voetsporen van haar dochter over de hele wereld precies wat Magnolia nodig heeft om haar gebroken hart bijeen te rapen en te beginnen met helen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Cathy Bramley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valse waarheden]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461944677/valse-waarheden-josje-weusten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461944677/valse-waarheden-josje-weusten"/>
+        <updated>2026-10-26T13:46:19.853Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461944677?aid=kb-online-bibliotheek&sid=24&dts=1793022379288&sig=6c32c35a433d1cb3c9883bf255b5cba54a47577911d756fc629f684dfc3fbdcb&width=320" alt="Omslag van 'Valse waarheden'" title="Omslag van 'Valse waarheden'">
+<p>Wanneer een nepvideo de reputatie van een filmproducer vernietigt, raakt een filmstudent verstrikt in een web van schuld en zwijgen. Twintig jaar later heeft de samenleving desinformatie uitgebannen en fictie verboden, maar het verlangen naar verbeelding laat zich niet onderdrukken.</p>]]></content>
+        <author>
+            <name>Josje Weusten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bakkerij Funk - Your Plantbased Baking Guide]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956276/bakkerij-funk---your-plantbased-baking-guide-dennis-van-peel</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956276/bakkerij-funk---your-plantbased-baking-guide-dennis-van-peel"/>
+        <updated>2026-10-28T13:41:39.127Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956276?aid=kb-online-bibliotheek&sid=24&dts=1793192439573&sig=f30c00d87155e8832e4add06147eaf1118a38c31805d61c79f0d1cd585d319ed&width=320" alt="Omslag van 'Bakkerij Funk - Your Plantbased Baking Guide'" title="Omslag van 'Bakkerij Funk - Your Plantbased Baking Guide'">
+<p>FUNK - Your plantbased baking guide is inspirerend bakboek voor iedereen die aan de slag wil met eigentijds, plantaardig bakken. Bakkerij Funk is dé trendy, 100% plantaardige bakkerij in Antwerpen, geïnspireerd op de hygge bakkerscultuur van Kopenhagen. Met dit bakboek ga je zelf aan de slag met FUNK's signature viennoiserie, broden, cakes en koekjes, en leer je dankzij een heldere basis over technieken, bladerdeeg en zuurdesem hoe je de lekkerste creaties uit je oven tovert. Bakkerij FUNK biedt wekelijks wisselende seizoensviennoiserie, zuurdesem, specialty coffee en natuurwijn, en er staat altijd een rij, van Antwerpse locals en Nederlandse bezoekers tot internationale fans. FUNK - Your plantbased baking guide is een inspirerend bakboek én een eerbetoon aan deze bakkerij. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dennis van Peel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De overbodigen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956403/de-overbodigen-herman-koch</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956403/de-overbodigen-herman-koch"/>
+        <updated>2026-10-28T13:41:41.279Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956403?aid=kb-online-bibliotheek&sid=24&dts=1793192142021&sig=98d7682491e8005399476fd4fcd2e696b2b4b929b981f16ef075ca3816d68463&width=320" alt="Omslag van 'De overbodigen'" title="Omslag van 'De overbodigen'">
+<p>Stem nu op 'De overbodigen' voor boek van het jaar: nspublieksprijs.nl/genomineerden/de-overbodigen</p><p>Bioloog Herbert en zijn vrouw Yvonne waren al langer van plan om de Cotswold Way te lopen, de iconische langeafstandswandeling in Engeland, die door prachtige weiden, bossen en pittoreske dorpen voert. In een opwelling nodigden ze de ouders van de vriend van hun dochter uit. Een opwelling met grote gevolgen. 'De overbodigen' is een beklemmende roman over het recht van de sterkste, tegen de achtergrond van een van de mooiste landelijke gebieden van Engeland.  'De overbodigen leest even lekker als een goed geconstrueerde detectiveroman. Er zijn cliffhangers en kochiaanse bochten waarbij alles toch nét anders in elkaar zit dan je in eerste instantie denkt.' - De Volkskrant</p><p> ' De blijvende charme van Herman Koch zit in zijn onvoorspelbaarheid.' - EW, Jeroen Vullings</p><p> ' Zijn spannendste roman tot nu toe.' - De Limburger ****</p><p>  '  Het diner 2.0. Meedogenloos machtsvertoon tegen een idyllisch decor.' - Zin Magazine</p><p></p><p>'</p><p>Weer een verslavend boek van Koch waarin de spanningen hoog oplopen. Je leest 'm het liefst in één zit uit.' - LINDA.</p><p> ' Een grandioze pastiche op de misdaadroman.' - Knack (4 ballen) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Herman Koch</name>
         </author>
     </entry>
     <entry>
@@ -293,6 +335,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Best of Belgium]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461952076/best-of-belgium-angela-dansby</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461952076/best-of-belgium-angela-dansby"/>
+        <updated>2026-10-28T13:41:42.925Z</updated>
+        <summary type="html"><![CDATA[The Complete Travel Guide Through Expat Eyes]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461952076?aid=kb-online-bibliotheek&sid=24&dts=1793194902739&sig=c9ede65f3508792236b21d78966e176c6433e7fc833d6972eec4249aa5527986&width=320" alt="Omslag van 'Best of Belgium'" title="Omslag van 'Best of Belgium'">
+<p>Best of Belgium: The Complete Travel Guide Through Expat Eyes opens the eyes of residents and visitors alike with its rare coverage of all Belgian regions and provinces. A small country with big heritage and culture, Belgium has the most castles per square kilometre in the world and a wealth of UNESCO-recognised sites and traditions. It is also rich in medieval charm, avant-garde creativity and culinary excellence, including more than 150 Michelin-starred restaurants. Linguistically divided by region, Belgium offers three unique experiences in one country. From Brussels' world-class museums and cosmopolitan flair to Flanders' medieval architecture and sandy beaches to Wallonia's fairytale castles and forested hills, this comprehensive insider's guide reveals why Belgium deserves a place on every explorer's European itinerary. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Angela Dansby</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Schijnwereld]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461952025/schijnwereld-joseph-roth</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461952025/schijnwereld-joseph-roth"/>
@@ -302,53 +356,6 @@
 <p>'Ik heb helemaal geen affiniteit met de film,' schrijft Joseph Roth in een brief uit 1936 aan Stefan Zweig. In zijn schotschrift De Antichrist (1934) veroordeelt Roth de film zelfs als een bedrieglijke 'schijnwereld' waarbij Hollywood wordt gepresenteerd als een "Höllewood", een plek waar de hel woedt. Niettemin spreekt uit tientallen scènes in zijn romans een bijna onstuitbare fascinatie voor de schimmen op het filmscherm en de roes van de bioscoopervaring. Bovendien werkte Roth mee aan een drietal filmscenario's en was hij auteur van meer dan honderd filmkritieken, die hij in de jaren 1920 en 30 publiceerde in Duitstalige kranten en vakbladen. Naast besprekingen van beroemde meesterwerken van onder meer Charlie Chaplin, René Clair, Sergei Eisenstein, Robert Flaherty, Fritz Lang en F.W. Murnau, omvatten Roths filmkritieken ook intrigerende overpeinzingen over de aard van het medium, over de voorliefde voor clichés en kleine gestes, over censuur en propaganda, over het bioscooppubliek, over de spanning tussen kunst en vermaak en over diva's en dieren op het grote doek. Schijnwereld bevat een ruime selectie van Joseph Roths artikels en essays over film. Vertaald door Els Snick, oprichter van het Joseph Roth Genootschap, en van een nawoord voorzien door Steven Jacobs, kunsthistoricus gespecialiseerd in film. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Joseph Roth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achter de statige deuren van de notaris]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461952114/achter-de-statige-deuren-van-de-notaris-joyce-mesdag</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461952114/achter-de-statige-deuren-van-de-notaris-joyce-mesdag"/>
-        <updated>2026-10-28T13:41:43.736Z</updated>
-        <summary type="html"><![CDATA[Ontroerende en verbijsterende verhalen over liefde, geld en afgunst]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461952114?aid=kb-online-bibliotheek&sid=24&dts=1793194903510&sig=d6c63a9f7182b21820f1d95ac1af6e5045b5044f4449af986ecfd671f3ebc6aa&width=320" alt="Omslag van 'Achter de statige deuren van de notaris'" title="Omslag van 'Achter de statige deuren van de notaris'">
-<p>Maar weinig mensen krijgen zo'n gedetailleerde blik in het privéleven van anderen als notarissen. Bij een echtscheiding weten ze tot op de euro hoeveel geld iemand op zijn rekening heeft staan, ze zijn de eerste die het horen als een zoon of dochter wordt onterfd, en ze weten precies hoe een familie haar rijkdom probeert af te schermen bij een nakend huwelijk. Bij de grootste gelukzaligheden en de meest huiveringwekkende frustraties zitten ze op de eerste rij. Vijftien notarissen grasduinden door hun carrière op zoek naar de verhalen die hen het meest zijn bijgebleven. Van de zwangere vrouw die op straat werd gezet door de nabestaanden van haar partner, tot de erfenisverdeling waarbij broer en zus te horen kregen dat ze nog een halfbroer hadden. Of de feestzaal die werd afgehuurd om er in één namiddag de nalatenschap voor een honderdtal erfgenamen te kunnen regelen. Notarissen zijn harde werkers, met een groot hart voor mensen. Ze doen hun job elk op hun eigen manier, maar wél telkens met hetzelfde streven: evenwichtige en eerlijke overeenkomsten, waarbij ook de zwakke partij aan tafel zich heel goed bewust is van wat hij tekent. Daarom bevat dit boek ook hun beste adviezen, zodat je precies weet wat je niet mag en juist wél moet doen om je zaakjes goed te regelen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Joyce Mesdag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verhalen uit een ver verleden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461952033/verhalen-uit-een-ver-verleden-arthur-conan-doyle</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461952033/verhalen-uit-een-ver-verleden-arthur-conan-doyle"/>
-        <updated>2026-10-28T13:41:43.931Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461952033?aid=kb-online-bibliotheek&sid=24&dts=1793192510298&sig=91ba7e17c4ce99d3f325f26d47c1dfb81d7f2e93154c52c92db8f8d22198e91d&width=320" alt="Omslag van 'Verhalen uit een ver verleden'" title="Omslag van 'Verhalen uit een ver verleden'">
-<p>Arthur Conan Doyle werd wereldberoemd met zijn detectiveverhalen over Sherlock Holmes, maar hij waagde zich ook met verve aan andere literaire genres. Verhalen uit een ver verleden verzamelt dertien historische verhalen waarin Doyle zijn liefde voor geschiedenis boven zijn beroemde speurwerk plaatst. Hij voert de lezer mee van de laat-antieke tijd tot de vroegchristelijke periode en brengt helden, keizers en gewone mensen tot leven te midden van chaos, oorlog en machtsspel. Met een combinatie van historische nauwkeurigheid en meesterlijke vertelkunst laat hij legioenen, verloren steden en vergeten beschavingen herleven. Van de dramatiek van Carthago tot de aftocht uit Britannia, van Constantinopel tot Jeruzalem, Doyle weeft geschiedenis en verbeelding moeiteloos samen - een tour de force van historische fictie. Deze uitgave toont Doyle als de veelzijdige denker en kunstenaar die hij werkelijk was, ver voorbij zijn beroemde detective. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Arthur Conan Doyle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het no-nonsense yogaboek]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461952084/het-no-nonsense-yogaboek-joachim-meire</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461952084/het-no-nonsense-yogaboek-joachim-meire"/>
-        <updated>2026-10-28T13:41:44.248Z</updated>
-        <summary type="html"><![CDATA[Over hoe yoga je mentaal en fysiek kan versterken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461952084?aid=kb-online-bibliotheek&sid=24&dts=1793194904050&sig=aeae6ddd2d71c956e890524c16652b16c991c5757214e82834cf646541c5051e&width=320" alt="Omslag van 'Het no-nonsense yogaboek'" title="Omslag van 'Het no-nonsense yogaboek'">
-<p>Yoga veroverde in een handvol decennia de Westerse wereld. Vandaag zweren miljoenen mensen vanop hun matje bij de heilzame werking ervan. Niet te verwonderen, yoga is zonder twijfel een waardevolle oefening voor lichaam en geest. Helaas hangt rond yoga soms een mistig sfeertje. Bovendien vertakt het zich in een kluwen van scholen, stijlen en bewegingen. Soms erg fysiek, een andere keer heel spiritueel of meditatief. Op Instagram worden we dan weer overspoeld met spectaculaire poses. Dit kan verwarring scheppen bij de ervaren beoefenaar en werkt ronduit intimiderend als je overweegt om met yoga te starten. Tijd voor een nuchtere blik. Onze gids is internationaal erkende yogadocent Joachim Meire. Hij put uit zijn rijke ervaring om yoga grondig door te lichten, praat met uiteenlopende beoefenaars en laat zijn licht schijnen over het wetenschappelijk onderzoek. De lezer ontdekt dat yoga een rekbaar begrip is en in de eerste plaats dient om jezelf te leren kennen. Zo kan yoga, ook naast de mat, uitgroeien tot een waardevolle houvast voor het leven </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Joachim Meire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uit mijn hoofd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461952041/uit-mijn-hoofd-kristien-wollants</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461952041/uit-mijn-hoofd-kristien-wollants"/>
-        <updated>2026-10-28T13:41:44.530Z</updated>
-        <summary type="html"><![CDATA[Van overdenken naar rust in hoofd en lichaam]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461952041?aid=kb-online-bibliotheek&sid=24&dts=1793194904328&sig=a79f0aeba64169489eee64edd440b79c2308972829292dacbcedec96da20e86d&width=320" alt="Omslag van 'Uit mijn hoofd'" title="Omslag van 'Uit mijn hoofd'">
-<p>In een wereld die almaar sneller doordraait, raken we vaak verstrikt in ons hoofd. We analyseren eindeloos wat geweest is, piekeren over wat nu speelt en maken ons zorgen over wat nog moet komen. Zo zoeken we houvast in situaties waarin we ons machteloos voelen. We bedenken talloze scenario's, herkauwen gesprekken en gebeurtenissen, alles om maar voorbereid te zijn. Maar dat voortdurende denken heeft een prijs. Het verbreekt de verbinding met ons lichaam. We missen de signalen die het ons geeft, waardoor ons zenuwstelsel uit balans raakt en het evenwicht tussen lichaam en geest verdwijnt. Dit boek is er voor iedereen die zich soms gevangen voelt in zijn gedachten. Kristien Wollants biedt herkenbare verhalen, heldere uitleg en concrete oefeningen die helpen om opnieuw contact te maken met je lichaam. Ze toont hoe je je zenuwstelsel kunt begrijpen en ondersteunen, waarom overdenken vaak een vorm van zelfbescherming is, en hoe je je grenzen leert herkennen - zeker als je de neiging hebt om steeds voor anderen te zorgen. Herontdek rust, evenwicht en de kracht van verbinding tussen hoofd en lichaam. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kristien Wollants</name>
         </author>
     </entry>
 </feed>
