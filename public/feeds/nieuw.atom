@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-10-29T13:51:54.502Z</updated>
+    <updated>2026-10-30T13:44:20.393Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Who's Watching Brussels?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442883293/who-s-watching-brussels--lise-witteman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442883293/who-s-watching-brussels--lise-witteman"/>
+        <updated>2026-10-30T13:44:19.540Z</updated>
+        <summary type="html"><![CDATA[Why the EU Deserves Better Watchdogs]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442883293?aid=kb-online-bibliotheek&sid=24&dts=1793355996298&sig=f7c06c3be6c9803ad740b74f8590507ebac1bba3c504aebe58e61a97dc09b4f3&width=320" alt="Omslag van 'Who's Watching Brussels?'" title="Omslag van 'Who's Watching Brussels?'">
+<p>Hundreds of thousands of euros from alleged bribes stashed in a suitcase. Deleted text messages setting out deals worth billions of euros. There's no shortage of drama in the EU's unofficial capital. How is this possible? And how do we keep 'Brussels' under control? These are crucial questions for the fledgling democracy that is the European Union - especially now that leaders with little interest in democratic values are coming to power in a growing number of member states. And the gap between the average European citizens and Brussels' bureaucracy is enormous. Who are the watchdogs controlling the EU? And how can they counterbalance the hermetic power of Brussels? In this book, investigative platform Follow the Money reveals how the watchdogs watched helplessly from their cage at crucial moments. Who's watching Brussels? is an impassioned plea for European supervision with sharp teeth. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lise Witteman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gokkers en graaiers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/437434079/gokkers-en-graaiers-roel-janssen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/437434079/gokkers-en-graaiers-roel-janssen"/>
+        <updated>2026-10-29T13:51:54.315Z</updated>
+        <summary type="html"><![CDATA[Financiële schandalen van de VOC tot de Zuidas]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437434079?aid=kb-online-bibliotheek&sid=24&dts=1793273703726&sig=1128ec1423fd264931ec58ab929d66445b53c382ba07430670e89b7db77a133a&width=320" alt="Omslag van 'Gokkers en graaiers'" title="Omslag van 'Gokkers en graaiers'">
+<p>Achttien verslagen over financiële schandalen van 1609 tot 2022.</p>]]></content>
+        <author>
+            <name>Roel Janssen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De blauwe fabel]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/435088750/de-blauwe-fabel-ties-joosten</id>
@@ -35,18 +59,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gokkers en graaiers]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/437434079/gokkers-en-graaiers-roel-janssen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/437434079/gokkers-en-graaiers-roel-janssen"/>
-        <updated>2026-10-29T13:51:54.315Z</updated>
-        <summary type="html"><![CDATA[Financiële schandalen van de VOC tot de Zuidas]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A437434079?aid=kb-online-bibliotheek&sid=24&dts=1793273703726&sig=1128ec1423fd264931ec58ab929d66445b53c382ba07430670e89b7db77a133a&width=320" alt="Omslag van 'Gokkers en graaiers'" title="Omslag van 'Gokkers en graaiers'">
-<p>Achttien verslagen over financiële schandalen van 1609 tot 2022.</p>]]></content>
-        <author>
-            <name>Roel Janssen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Het Heineken-losgeld]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/440370515/het-heineken-losgeld-harry-lensink---wim-van-de-pol</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/440370515/het-heineken-losgeld-harry-lensink---wim-van-de-pol"/>
@@ -62,25 +74,53 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het eerlijkste boek over leugens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten"/>
-        <updated>2026-10-28T13:41:38.557Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209718?aid=kb-online-bibliotheek&sid=24&dts=1793194898315&sig=8d20959fe477ffdae302ab16cbcc0cab79bc66e3ac32b0eeb322d77faf1b83f7&width=320" alt="Omslag van 'Het eerlijkste boek over leugens'" title="Omslag van 'Het eerlijkste boek over leugens'">
-<p>Stel je voor: je herkent élke leugen. Of die nou van een verkoper komt, een influencer, een klasgenoot of iemand die stiekem iets van je gedaan wil krijgen. Je zou nooit meer worden opgelicht. Je zou meteen weten wie je kon vertrouwen. Je zou beter begrijpen wat er echt speelt en dus sneller de juiste keuzes maken. Leugens doorzien klinkt als een superpower, toch? Jan Paul Schutten legt je in Het eerlijkste boek over leugens uit hoe je leugens sneller herkent. Je krijgt tips en technieken om te ontdekken wat waar is en wat niet. Je hoort fabels en feiten over lichaamstaal. En je ontdekt welke online filmpjes onbetrouwbaar zijn. Niet alleen handig, maar ook belangrijk in een wereld vol nep. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Wie let er op Brussel?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442756119/wie-let-er-op-brussel--lise-witteman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442756119/wie-let-er-op-brussel--lise-witteman"/>
+        <updated>2026-10-30T13:44:19.768Z</updated>
+        <summary type="html"><![CDATA[Waarom de EU betere waakhonden verdient]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442756119?aid=kb-online-bibliotheek&sid=24&dts=1793356671686&sig=766779e93ebc219e590289a18e9a4b0cd67d5c4895067c3aa4e932c4b3d942d9&width=320" alt="Omslag van 'Wie let er op Brussel?'" title="Omslag van 'Wie let er op Brussel?'">
+<p>Europese politici en ambtenaren komen met verbijsterend gemak weg met blunders, machtsmisbruik en zelfs corruptie. Hoe kan dat? En hoe houden we 'Brussel' in toom? Deze vragen zijn cruciaal voor de prille democratie die de Europese Unie is. Vooral nu in steeds meer lidstaten leiders aan de macht komen die weinig ophebben met democratische waarden. En de kloof tussen Europese burgers en de Brusselse bureaucratie is enorm. Wie zijn de waakhonden die de EU controleren? En hoe bieden zij tegenkracht aan die gesloten Brusselse macht? In dit boek onthult onderzoeksteam 'Bureau Brussel' van Follow the Money hoe de waakhonden op cruciale momenten machteloos vanuit hun hok toekeken. Wie let er op Brussel? is een hartstochtelijk pleidooi voor Europees toezicht met scherpe tanden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Jan Paul Schutten</name>
+            <name>Lise Witteman</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Witte Nachten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski"/>
-        <updated>2026-10-28T13:41:38.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209742?aid=kb-online-bibliotheek&sid=24&dts=1793194897959&sig=36988f6870cb76655ff67b081dc54e8578b0f3b4c4b0c265c5954e031455a1d2&width=320" alt="Omslag van 'Witte Nachten'" title="Omslag van 'Witte Nachten'">
-<p>Een jonge man loopt door Sint-Petersburg. Een stad waar de zon nooit helemaal ondergaat in de zomer. De man is eenzaam, verdwaald in zijn gedachten. Tot hij op een avond een meisje ontmoet, Nastenka. Zij voelt zich ook alleen. Net als hij zoekt ze naar geluk. Samen ze lopen vier nachten door de schemerende stad. Ze vertellen elkaar over hun leven. Hij wordt verliefd op haar. Maar Nastenka denkt aan een ander. Toch blijft de man bij haar, uit liefde. Tot de witte nachten voorbij zijn ... Witte Nachten is geschreven in 1848 door Fjodor Dostojevski, één van de bekendste Russische auteurs ooit. Frans van Duijn hertaalde het boek naar gewone taal. Zodat iedereen deze bijzondere klassieker kan lezen. Het is een verhaal over liefde en verdriet. Over alleen zijn, maar toch iemand vinden. Voor iedereen die zich ooit alleen voelde in een drukke wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Twents Abecedarium]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442236557/twents-abecedarium-johan-buursink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442236557/twents-abecedarium-johan-buursink"/>
+        <updated>2026-10-30T13:44:19.975Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442236557?aid=kb-online-bibliotheek&sid=24&dts=1793361867270&sig=61e656f1930b628a944461a822b8168984e9630eea74a23e951e96a487a31c18&width=320" alt="Omslag van 'Twents Abecedarium'" title="Omslag van 'Twents Abecedarium'">
+<p>Johan Buursink (1908 - 1993) was een Twentse schrijver en voorvechter van de Twentse taal. Als onafhankelijke tekstschrijver moest Buursink rond zien te komen van zijn publicaties. Er is dan ook een flinke hoeveelheid werk van zijn hand beschikbaar. Om de Twentse taal als cultuurtaal vast te leggen en te behouden, schreef hij over allerlei mogelijke onderwerpen: gedichten, verhalen, toneelstukken en verhalen over mode en linnengoed. Volgens Collega-schrijver Gerard Vloedbeld was Buursink "van alle Twentse auteurs het meest literair en de beste prozaschrijver."</p><p>Voor de Twentse Courant schreef Buursink tussen 1963 en 1966 een vaste rubriek getiteld "Twents Abecedarium", waarin hij in alfabetische volgorde de Twentse taal behandelde, gelardeerd met voorbeelden, spreekwoorden en zegswijzen. Tesamen vormen deze artikelen een uniek naslagwerk van de Twentse taal.</p><p>De eerste serie van deze artikelen verschijnt met dit boek nu voor de eerste keer gebundeld in druk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Fjodor Dostojevski</name>
+            <name>Johan Buursink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptomanie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/442222270/cryptomanie-zeke-faux</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/442222270/cryptomanie-zeke-faux"/>
+        <updated>2026-10-30T13:44:20.181Z</updated>
+        <summary type="html"><![CDATA[De wilde wereld van de cryptomiljonairs]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442222270?aid=kb-online-bibliotheek&sid=24&dts=1793355721024&sig=f290fc0e02ffa7d3ce1ef235809c5bd334986d499594c730e9062dda4e3b8174&width=320" alt="Omslag van 'Cryptomanie'" title="Omslag van 'Cryptomanie'">
+<p>In 2021 piekten de koersen van crypto's. Grote investeringsfondsen kochten ze en Paris Hilton maakte er reclame voor. Wie niet meedeed, was een loser. Onderzoeksjournalist Zeke Faux brengt de hype levendig in beeld: van de overmoedige beloftes over de rol die crypto 'binnenkort' in de financiële wereld zou spelen, tot mensen die in die droom geloofden en oplichters die misbruik maakten van die goedgelovigheid. Zijn grote vraag: voor wie zijn cryptomunten eigenlijk nuttig? Het antwoord is ontnuchterend: afpersers en bedriegers kunnen tegenwoordig niet meer zonder. Faux beschrijft dat criminele netwerk. In Cambodja verkent hij hoe de lokale maffia mensen vastzet in kampen, en hen dwingt mee te werken aan online oplichterij. Faux bezocht feesten, conferenties en jachten. Hij sprak de oprichters van succesvolle cryptobedrijven, gewone mensen die al hun geld verloren, en cryptomiljonairs die inmiddels failliet zijn, of in de gevangenis zijn beland. En vooral: hij trok geldsporen na - en was soms een beetje jaloers. Reacties: - 'Dit onstuimige, meesterlijk geschreven boek is zeer de moeite waard [..] De cast van buitenbeentjes en oplichters is enorm vermakelijk.' - The Washington Post - 'Combineert scherpe analyses en onverschrokken journalistiek met een vlotte pen.' - The Wall Street Journal - 'Een definitief verslag van het cryptofenomeen is er nog niet, maar Bloomberg-journalist Faux schetst een vermakelijke en ontnuchterende momentopname.' - Financial Times - '...een scherpzinnige, sceptische kijk op crypto.' - The New York Times - '...uitstekende beschrijving van de hoofdrolspelers en de hype rond crypto.' - The Verge - 'Het beste boek voor wie wil begrijpen waarom crypto instortte.' - Wired - 'Een van de meest toegankelijke - en grappigste - onderzoeken tot nu toe naar het falen van de crypto-economie [..]. Mis vooral de scène niet waarin Faux zijn vrouw overtuigt dat hij een NFT van 20.000 dollar moet kopen.' - The Globe and mail - 'Grappig, gekmakend, scherp en diepzinnig. Het wachten was op een echt goed cryptoboek en Faux heeft dat geschreven.' - Oliver Bullough, auteur van Moneyland </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Zeke Faux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onder ons]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448220644/onder-ons-birte-schohaus---bas-van-beek</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448220644/onder-ons-birte-schohaus---bas-van-beek"/>
+        <updated>2026-10-30T13:44:20.388Z</updated>
+        <summary type="html"><![CDATA[Achter de schermen bij de genootschappen van de Nederlandse elite]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448220644?aid=kb-online-bibliotheek&sid=24&dts=1793360095882&sig=bca8ae3e46a5a458d05ed7c3659ad7d0d43cab9abdf06a907884df3a358d49cd&width=320" alt="Omslag van 'Onder ons'" title="Omslag van 'Onder ons'">
+<p>Wat hebben prins Bernhard, de ceo van Heineken en de minister van Financiën met elkaar gemeen? Ze ontmoeten elkaar in informele genootschappen met namen als De Pijp en De Tafelronde. Daar komt de economische, politieke en culturele elite van Nederland bijeen om te netwerken en om 'onder gelijken' te zijn. Alleen op uitnodiging mogen leden aanschuiven bij de etentjes. 'Onschuldig,' zeggen ze zelf, maar hoever reikt de invloed van deze maandelijkse onderonsjes? 'Onder ons' vertelt het verhaal van een verborgen wereld waarin politieke agenda's, industriële belangen en persoonlijke vriendschappen door elkaar lopen. Bas van Beek en Birte Schohaus bezochten privé-archieven, dineerden in kastelen en ploegden duizenden pagina's niet eerder geopenbaard archiefmateriaal door. Ze spraken met tientallen leden die voor het eerst openheid gaven over hun 'eetclubjes'. Hun jarenlange zoektocht voerde hen langs de opkomst van de arbeidersbeweging, de wederopbouw van Rotterdam en de oprichting van een nieuwe krant. Elke ontdekking voegt een puzzelstukje toe aan het fascinerende verhaal over vijf prominente Nederlandse genootschappen, maar roept ook steeds weer de vraag op: in hoeverre trekken deze 'herenclubs' nog aan de touwtjes in het Nederland van de eenentwintigste eeuw? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Birte Schohaus</name>
+        </author>
+        <author>
+            <name>Bas van Beek</name>
         </author>
     </entry>
     <entry>
@@ -95,6 +135,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Witte Nachten]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski"/>
+        <updated>2026-10-28T13:41:38.191Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209742?aid=kb-online-bibliotheek&sid=24&dts=1793194897959&sig=36988f6870cb76655ff67b081dc54e8578b0f3b4c4b0c265c5954e031455a1d2&width=320" alt="Omslag van 'Witte Nachten'" title="Omslag van 'Witte Nachten'">
+<p>Een jonge man loopt door Sint-Petersburg. Een stad waar de zon nooit helemaal ondergaat in de zomer. De man is eenzaam, verdwaald in zijn gedachten. Tot hij op een avond een meisje ontmoet, Nastenka. Zij voelt zich ook alleen. Net als hij zoekt ze naar geluk. Samen ze lopen vier nachten door de schemerende stad. Ze vertellen elkaar over hun leven. Hij wordt verliefd op haar. Maar Nastenka denkt aan een ander. Toch blijft de man bij haar, uit liefde. Tot de witte nachten voorbij zijn ... Witte Nachten is geschreven in 1848 door Fjodor Dostojevski, één van de bekendste Russische auteurs ooit. Frans van Duijn hertaalde het boek naar gewone taal. Zodat iedereen deze bijzondere klassieker kan lezen. Het is een verhaal over liefde en verdriet. Over alleen zijn, maar toch iemand vinden. Voor iedereen die zich ooit alleen voelde in een drukke wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Fjodor Dostojevski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het eerlijkste boek over leugens]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten"/>
+        <updated>2026-10-28T13:41:38.557Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209718?aid=kb-online-bibliotheek&sid=24&dts=1793194898315&sig=8d20959fe477ffdae302ab16cbcc0cab79bc66e3ac32b0eeb322d77faf1b83f7&width=320" alt="Omslag van 'Het eerlijkste boek over leugens'" title="Omslag van 'Het eerlijkste boek over leugens'">
+<p>Stel je voor: je herkent élke leugen. Of die nou van een verkoper komt, een influencer, een klasgenoot of iemand die stiekem iets van je gedaan wil krijgen. Je zou nooit meer worden opgelicht. Je zou meteen weten wie je kon vertrouwen. Je zou beter begrijpen wat er echt speelt en dus sneller de juiste keuzes maken. Leugens doorzien klinkt als een superpower, toch? Jan Paul Schutten legt je in Het eerlijkste boek over leugens uit hoe je leugens sneller herkent. Je krijgt tips en technieken om te ontdekken wat waar is en wat niet. Je hoort fabels en feiten over lichaamstaal. En je ontdekt welke online filmpjes onbetrouwbaar zijn. Niet alleen handig, maar ook belangrijk in een wereld vol nep. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jan Paul Schutten</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jarno]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot"/>
@@ -106,15 +168,49 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hooggevoelig]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956306/hooggevoelig-mirjam-bogerd</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956306/hooggevoelig-mirjam-bogerd"/>
-        <updated>2026-10-28T13:41:38.758Z</updated>
-        <summary type="html"><![CDATA[Sleutels voor levenslust, ontspanning en een lichaam in balans]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956306?aid=kb-online-bibliotheek&sid=24&dts=1793193677375&sig=17c71864671071a7fef9270c93bbe8e7f570ad04f481bd753f8f1c426d21f6f0&width=320" alt="Omslag van 'Hooggevoelig'" title="Omslag van 'Hooggevoelig'">
-<p>In Hooggevoelig helpt orthopedagoog Mirjam Bogerd hooggevoelige mensen om zichzelf beter te begrijpen, voor zichzelf te zorgen en met mildheid naar zichzelf te kijken als. Als je sterk reageert op sfeer en emotie, dingen opmerkt die anderen ontgaan en sneller overprikkeld raakt, ben je misschien hooggevoelig. Hooggevoeligheid is een eigenschap die zowel uitdagingen als kwaliteiten met zich meebrengt. Vanuit wetenschappelijke inzichten, persoonlijke ervaring en humor reikt Mirjam je in dit boek essentiële sleutels aan voor levenslust en ontspanning. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Dwars door Afrika]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter"/>
+        <updated>2026-10-28T13:41:39.489Z</updated>
+        <summary type="html"><![CDATA[3 vrienden, 3 jaar, 1 rammelend busje]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956268?aid=kb-online-bibliotheek&sid=24&dts=1793194189750&sig=a77160f46f39f0ec4cc318c44813755f67f543ad4ecbd73f77c2b800d9ca3e65&width=320" alt="Omslag van 'Dwars door Afrika'" title="Omslag van 'Dwars door Afrika'">
+<p>Dwars door Afrika is een meeslepend en waargebeurd reisverhaal over drie vrienden die in een gammel busje een onvergetelijke roadtrip maken van Europa naar Zuid-Afrika. Wat begint als een reis van drie maanden, groeit uit tot een episch avontuur van maar liefst drie jaar. Wanneer Henk Rigter een baan aangeboden krijgt in Zuid-Afrika, besluit hij samen met twee vrienden de uitdaging aan te gaan en erheen te rijden. Tijdens hun reis door Afrika worden ze geconfronteerd met extreme situaties, onverwachte tegenslagen en bijzondere ontmoetingen. Ze adopteren een hond, raken betrokken bij goede doelen, belanden meerdere keren in de gevangenis en overleven zelfs een confrontatie met een krokodil. Dit boek neemt je mee op een unieke reis door het Afrikaanse continent, vol cultuur, natuur en avontuur. Dwars door Afrika is een inspirerend verhaal over vriendschap, zelfontdekking, doorzettingsvermogen en de ultieme drang naar vrijheid en avontuur. Voor lezers van o.a. Into the Wild, One Year on a Bike, Een onmogelijk avontuur en On the Road. Waarom dit boek lezen?</p><p>Waargebeurd en meeslepend reisverhaal  Perfect voor liefhebbers van avontuur en roadtrips  Inspirerend verhaal over persoonlijke groei en vriendschap  Unieke kijk op reizen door Afrika </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Mirjam Bogerd</name>
+            <name>Henk Rigter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visie, ruzie, compromis]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms"/>
+        <updated>2026-10-28T13:41:39.739Z</updated>
+        <summary type="html"><![CDATA[Een kleine biografie van de Nederlandse spelling]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956411?aid=kb-online-bibliotheek&sid=24&dts=1793194899566&sig=fdad153f3219976074481b1adb98e5e089232a8e8411e0ab7f6a7ca49ae91725&width=320" alt="Omslag van 'Visie, ruzie, compromis'" title="Omslag van 'Visie, ruzie, compromis'">
+<p>Sinds 1804 heeft het Nederlands een officiële spelling. In de eeuwen daarna is er veel en vaak over spelling nagedacht, gediscussieerd én geruzied. Waarom leidt de vraag hoe we onze woorden opschrijven tot zulke hevige emoties? En hoe belangrijk zijn spellingregels nog, nu de communicatie vluchtiger is dan ooit? Dat onderzoekt Miet Ooms in Visie, ruzie, compromis. Een kleine biografie van de Nederlandse spelling. Ze neemt je mee in de woelige levensloop van de Nederlandse spelling - van de regelloze middeleeuwen tot de eerste officiële spelling, naar onrust over menschen of mensen, c's en k's en de tussen-n, en uiteindelijk, eindelijk, rust in spellingland. Of toch niet? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Miet Ooms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het land van de dageraad]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark"/>
+        <updated>2026-10-28T13:41:39.903Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956314?aid=kb-online-bibliotheek&sid=24&dts=1793192833484&sig=b75ecdbb0485d4aecd34efe44120851eeafef6aef362f28932887534305e6856&width=320" alt="Omslag van 'Het land van de dageraad'" title="Omslag van 'Het land van de dageraad'">
+<p>Nieuw-Zeeland, nu. De jonge archeologe Sophie reist naar de Chathameilanden, voor de kust van Nieuw-Zeeland. Op een door de tijd getekend beeldhouwwerk tussen de historische boomtekeningen van de Moriori vindt ze een mysterieuze inscriptie, en een verhaal dat bijna 200 jaar geleden begon...  De Chathameilanden, 1835. De jonge Moriori Kimi maakt de invasie van haar land mee: ze wordt ontvoerd en tot slaaf gemaakt – totdat ze beseft dat de wetten van haar goden haar niet kunnen beschermen. Tegelijkertijd reist de Duitse Ruth naar het einde van de wereld voor haar man, die haar vervolgens in de steek laat. Beide vrouwen moeten vechten voor hun eigen geluk in een wereld die hen niet vriendelijk gezind is… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Sarah Lark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een vrouw in bed]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux"/>
+        <updated>2026-10-28T13:41:40.157Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956373?aid=kb-online-bibliotheek&sid=24&dts=1793194899979&sig=3cb43a3eaa967edb7af0106cb70c533fb347f57eb0bcea753309f10e5440b1bc&width=320" alt="Omslag van 'Een vrouw in bed'" title="Omslag van 'Een vrouw in bed'">
+<p>Ze is gelukkig getrouwd, alles is op orde. Er is genoeg geld, de kinderen zijn gezond, de man liefdevol en betrouwbaar. Maar toch is er een verlangen dat niet meer te onderdrukken is: het verlangen om naar bed te gaan met een vrouw. Het moet en het zal, liever gisteren dan vandaag. Wanneer ze het deelt met haar man, besluit hij haar vrij te laten om dit verlangen te vervullen. Maar wanneer hij op zijn beurt ook avontuur wil, worden de kaarten opnieuw geschud. Kunnen ze nog terug? Willen ze terug?  Een vrouw in bed is een realistische, pikante roman over open relaties en de nieuwe regels in het seksuele speelveld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lin Le Roux</name>
         </author>
     </entry>
     <entry>
@@ -141,63 +237,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het land van de dageraad]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark"/>
-        <updated>2026-10-28T13:41:39.903Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956314?aid=kb-online-bibliotheek&sid=24&dts=1793192833484&sig=b75ecdbb0485d4aecd34efe44120851eeafef6aef362f28932887534305e6856&width=320" alt="Omslag van 'Het land van de dageraad'" title="Omslag van 'Het land van de dageraad'">
-<p>Nieuw-Zeeland, nu. De jonge archeologe Sophie reist naar de Chathameilanden, voor de kust van Nieuw-Zeeland. Op een door de tijd getekend beeldhouwwerk tussen de historische boomtekeningen van de Moriori vindt ze een mysterieuze inscriptie, en een verhaal dat bijna 200 jaar geleden begon...  De Chathameilanden, 1835. De jonge Moriori Kimi maakt de invasie van haar land mee: ze wordt ontvoerd en tot slaaf gemaakt – totdat ze beseft dat de wetten van haar goden haar niet kunnen beschermen. Tegelijkertijd reist de Duitse Ruth naar het einde van de wereld voor haar man, die haar vervolgens in de steek laat. Beide vrouwen moeten vechten voor hun eigen geluk in een wereld die hen niet vriendelijk gezind is… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sarah Lark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een vrouw in bed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux"/>
-        <updated>2026-10-28T13:41:40.157Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956373?aid=kb-online-bibliotheek&sid=24&dts=1793194899979&sig=3cb43a3eaa967edb7af0106cb70c533fb347f57eb0bcea753309f10e5440b1bc&width=320" alt="Omslag van 'Een vrouw in bed'" title="Omslag van 'Een vrouw in bed'">
-<p>Ze is gelukkig getrouwd, alles is op orde. Er is genoeg geld, de kinderen zijn gezond, de man liefdevol en betrouwbaar. Maar toch is er een verlangen dat niet meer te onderdrukken is: het verlangen om naar bed te gaan met een vrouw. Het moet en het zal, liever gisteren dan vandaag. Wanneer ze het deelt met haar man, besluit hij haar vrij te laten om dit verlangen te vervullen. Maar wanneer hij op zijn beurt ook avontuur wil, worden de kaarten opnieuw geschud. Kunnen ze nog terug? Willen ze terug?  Een vrouw in bed is een realistische, pikante roman over open relaties en de nieuwe regels in het seksuele speelveld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lin Le Roux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visie, ruzie, compromis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms"/>
-        <updated>2026-10-28T13:41:39.739Z</updated>
-        <summary type="html"><![CDATA[Een kleine biografie van de Nederlandse spelling]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956411?aid=kb-online-bibliotheek&sid=24&dts=1793194899566&sig=fdad153f3219976074481b1adb98e5e089232a8e8411e0ab7f6a7ca49ae91725&width=320" alt="Omslag van 'Visie, ruzie, compromis'" title="Omslag van 'Visie, ruzie, compromis'">
-<p>Sinds 1804 heeft het Nederlands een officiële spelling. In de eeuwen daarna is er veel en vaak over spelling nagedacht, gediscussieerd én geruzied. Waarom leidt de vraag hoe we onze woorden opschrijven tot zulke hevige emoties? En hoe belangrijk zijn spellingregels nog, nu de communicatie vluchtiger is dan ooit? Dat onderzoekt Miet Ooms in Visie, ruzie, compromis. Een kleine biografie van de Nederlandse spelling. Ze neemt je mee in de woelige levensloop van de Nederlandse spelling - van de regelloze middeleeuwen tot de eerste officiële spelling, naar onrust over menschen of mensen, c's en k's en de tussen-n, en uiteindelijk, eindelijk, rust in spellingland. Of toch niet? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Miet Ooms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Kruisvaarders]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956519/de-kruisvaarders-dan-jones</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956519/de-kruisvaarders-dan-jones"/>
-        <updated>2026-10-28T13:41:42.626Z</updated>
-        <summary type="html"><![CDATA[De strijd om het Heilige Land]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956519?aid=kb-online-bibliotheek&sid=24&dts=1793194902400&sig=af37f7135857da9b4b4df9aa1730c8d7144c117e23ba8b3a6f02621b9a207335&width=320" alt="Omslag van 'De Kruisvaarders'" title="Omslag van 'De Kruisvaarders'">
-<p>‘Gaat op weg voor de vergeving van uw zonden, en wees daarbij verzekerd van de onvergankelijke glorie van het koninkrijk der hemelen.’ In 1095 sprak paus Urbanus II deze woorden tot de christenen, om ze aan te wakkeren de stad Jeruzalem te bevrijden van de islamitische overheersing. Zijn vurige oproep vormde het begin van honderden jaren religieuze strijd: de kruistochten. In ‘De Kruisvaarders’ brengt bestsellerauteur Dan Jones deze gewelddadige en fascinerende geschiedenis tot leven. Aan de hand van markante personen – van koningen tot vergeten strijders – vertelt hij een meeslepend verhaal vol macht, geloof en bloedvergieten, waarvan de echo’s vandaag de dag nog steeds hoorbaar zijn.  ‘Schitterend overzichtswerk. (…) Voor goed vertelde verhalen zoals over Amalrik moet je het boek van de journalist en historicus Dan Jones hebben.’ •••• – NRC Handelsblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Jones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drop dead famous]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson"/>
-        <updated>2026-10-28T13:41:41.581Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956535?aid=kb-online-bibliotheek&sid=24&dts=1793194901366&sig=f5304f7e6a78a650997cd5bf57a89d21959e273d4dfaa67caa43bbf71ef8dfef&width=320" alt="Omslag van 'Drop dead famous'" title="Omslag van 'Drop dead famous'">
-<p>Wanneer wereldster Blair Baker optreedt in haar geboortestad, verandert een avond vol glitter en applaus in pure chaos. Voor de ogen van duizenden fans sterft ze op het podium.  Voor Stevie is de moord op haar oudere zus Blair geen sensatieverhaal, maar de verwoestende realiteit. Terwijl de media het nieuws uitmelken, weigert zij zich neer te leggen bij wat er is gebeurd. Vastbesloten om de waarheid te achterhalen, duikt ze in een wereld van roem, leugens en verborgen motieven.  In een stad waar iedereen iets te verbergen heeft, wordt al snel duidelijk: sommige geheimen zijn het waard om voor te doden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jennifer Pearson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ik heb het druk]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461956489/ik-heb-het-druk-oliver-jeffers</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461956489/ik-heb-het-druk-oliver-jeffers"/>
@@ -210,14 +249,25 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deining op de Britannia]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett"/>
-        <updated>2026-10-28T13:41:42.121Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956438?aid=kb-online-bibliotheek&sid=24&dts=1793192290051&sig=73b155d98021a9790a66d4f7623b4a224575bf45bbec8871f38884bfbf6602de&width=320" alt="Omslag van 'Deining op de Britannia'" title="Omslag van 'Deining op de Britannia'">
-<p>Terug in de tropen, een nieuwe zaak in de briljante internationale bestsellerserie</p><p> In 1966 maakt koningin Elizabeth II een rondreis door het Caribisch gebied aan boord van het koninklijk jacht Britannia. Vijf weken lang zijn elke tien minuten van haar schema nauwkeurig vastgelegd, en er mag absoluut niets misgaan.</p><p>Maar er gaat wel wat mis. Al aan het begin van de reis wordt de nieuwe agenda-secretaresse, Pamela Sinclair, dood aangetroffen in haar hut. Er gaan talloze geruchten over hoe ze is omgekomen, maar de waarheid is dat niemand het echt weet. De verdenking valt echter op de vertrouwelinge van de koningin, Joan McGraw.</p><p>HMY Britannia is een schip in vol bedrijf en iedereen is druk, van de admiraal op de brug tot de koks in de kombuizen en de machinisten die de turbines onderhouden. Er is een bemanning van honderden mensen aan boord. Is een van hen een moordenaar?</p><p>De koningin en Joan moeten al hun vaardigheden en trucs inzetten om het mysterie op te lossen, terwijl ze ogenschijnlijk onverstoorbaar van het ene naar het andere evenement gaan en het bezoek aan de verschillende eilanden zich ontvouwt onder het toeziend oog van de hele wereld.</p><p> Fans van THE CROWN, Agatha Christie, Richard Osman en Anthony Horowitz zullen genieten van Deining op de Britannia .</p><p>DE SPEURDER  Van jongs af aan heeft Queen Elizabeth al een gave om mysteries op te lossen. Haar positie verbiedt echter elke directe bemoeienis. Ze moet dus omzichtig te werk gaan en ze vertrouwt op haar assistent-privésecretaris om te doen wat zij moet laten en te voorkomen dat iemand achter de koninklijke betrokkenheid komt.  DE SETTING  De Britannia was het enige koninklijke bouwproject van Elizabeth en Philip. Het koninklijk jacht was een wereld op zich, met een speciaal geselecteerde bemanning die de koningin de hele wereld rondvoer. In de jaren zestig - de tijd van Swinging London en de Beatles - ondernam de Queen een tropische tournee langs de West-Indische eilanden van het Britse Gemenebest.  REACTIES OP DE SERIE</p><p>'Een perfect moordmysterie.' - Ruth Ware  'Een sprankelend historisch mysterie.' - Malcolm Edwards</p><p>'Hilarisch, hartveroverend en goed geobserveerd. Fantastisch.' - Joanne Harris</p><p>Als speurneus kan de koningin nog jaren mee.' - DE VOLKSKRANT</p><p>'Een geestig moordmysterie.' - VRIJ NEDERLAND</p><p>'Elizabeth II is geknipt voor de rol van Miss Marple.' - TROUW</p><p>'Spanning en ontspanning met onweerstaanbare Engelse flair.' - DE LIMBURGER</p><p>'De Queen is een briljant personage.' - BOEKENKRANT </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Een nieuw begin aan zee]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale"/>
+        <updated>2026-10-28T13:41:41.111Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956241?aid=kb-online-bibliotheek&sid=24&dts=1793193601227&sig=280a5582e1fb6c980ba4a2e1b5559832005af18d67dc190e91bd08a98859d78d&width=320" alt="Omslag van 'Een nieuw begin aan zee'" title="Omslag van 'Een nieuw begin aan zee'">
+<p>'Een nieuw begin aan zee' heeft alle ingrediënten voor een heerlijke feelgood: een sfeervolle setting, romantiek, geweldige vriendschappen en warme familiebanden.  Na het verlies van haar verloofde snakt eventplanner Lauren ernaar een nieuwe draai aan haar leven te geven. Ze besluit de zomer door te brengen tussen de zandduinen en wisselende getijden van de Outer Banks, North Carolina, waar ze aan de slag gaat bij een knusse oude herberg. De zilte bries van de Atlantische Oceaan en de warmte van de zomerzon op haar gezicht helpen haar om weer richting te vinden. Al is het misschien niet de richting die ze verwacht… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>S.J. Bennett</name>
+            <name>Jenny Hale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drop dead famous]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson"/>
+        <updated>2026-10-28T13:41:41.581Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956535?aid=kb-online-bibliotheek&sid=24&dts=1793194901366&sig=f5304f7e6a78a650997cd5bf57a89d21959e273d4dfaa67caa43bbf71ef8dfef&width=320" alt="Omslag van 'Drop dead famous'" title="Omslag van 'Drop dead famous'">
+<p>Wanneer wereldster Blair Baker optreedt in haar geboortestad, verandert een avond vol glitter en applaus in pure chaos. Voor de ogen van duizenden fans sterft ze op het podium.  Voor Stevie is de moord op haar oudere zus Blair geen sensatieverhaal, maar de verwoestende realiteit. Terwijl de media het nieuws uitmelken, weigert zij zich neer te leggen bij wat er is gebeurd. Vastbesloten om de waarheid te achterhalen, duikt ze in een wereld van roem, leugens en verborgen motieven.  In een stad waar iedereen iets te verbergen heeft, wordt al snel duidelijk: sommige geheimen zijn het waard om voor te doden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jennifer Pearson</name>
         </author>
     </entry>
     <entry>
@@ -233,26 +283,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dwars door Afrika]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter"/>
-        <updated>2026-10-28T13:41:39.489Z</updated>
-        <summary type="html"><![CDATA[3 vrienden, 3 jaar, 1 rammelend busje]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956268?aid=kb-online-bibliotheek&sid=24&dts=1793194189750&sig=a77160f46f39f0ec4cc318c44813755f67f543ad4ecbd73f77c2b800d9ca3e65&width=320" alt="Omslag van 'Dwars door Afrika'" title="Omslag van 'Dwars door Afrika'">
-<p>Dwars door Afrika is een meeslepend en waargebeurd reisverhaal over drie vrienden die in een gammel busje een onvergetelijke roadtrip maken van Europa naar Zuid-Afrika. Wat begint als een reis van drie maanden, groeit uit tot een episch avontuur van maar liefst drie jaar. Wanneer Henk Rigter een baan aangeboden krijgt in Zuid-Afrika, besluit hij samen met twee vrienden de uitdaging aan te gaan en erheen te rijden. Tijdens hun reis door Afrika worden ze geconfronteerd met extreme situaties, onverwachte tegenslagen en bijzondere ontmoetingen. Ze adopteren een hond, raken betrokken bij goede doelen, belanden meerdere keren in de gevangenis en overleven zelfs een confrontatie met een krokodil. Dit boek neemt je mee op een unieke reis door het Afrikaanse continent, vol cultuur, natuur en avontuur. Dwars door Afrika is een inspirerend verhaal over vriendschap, zelfontdekking, doorzettingsvermogen en de ultieme drang naar vrijheid en avontuur. Voor lezers van o.a. Into the Wild, One Year on a Bike, Een onmogelijk avontuur en On the Road. Waarom dit boek lezen?</p><p>Waargebeurd en meeslepend reisverhaal  Perfect voor liefhebbers van avontuur en roadtrips  Inspirerend verhaal over persoonlijke groei en vriendschap  Unieke kijk op reizen door Afrika </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <title type="html"><![CDATA[Deining op de Britannia]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett"/>
+        <updated>2026-10-28T13:41:42.121Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956438?aid=kb-online-bibliotheek&sid=24&dts=1793192290051&sig=73b155d98021a9790a66d4f7623b4a224575bf45bbec8871f38884bfbf6602de&width=320" alt="Omslag van 'Deining op de Britannia'" title="Omslag van 'Deining op de Britannia'">
+<p>Terug in de tropen, een nieuwe zaak in de briljante internationale bestsellerserie</p><p> In 1966 maakt koningin Elizabeth II een rondreis door het Caribisch gebied aan boord van het koninklijk jacht Britannia. Vijf weken lang zijn elke tien minuten van haar schema nauwkeurig vastgelegd, en er mag absoluut niets misgaan.</p><p>Maar er gaat wel wat mis. Al aan het begin van de reis wordt de nieuwe agenda-secretaresse, Pamela Sinclair, dood aangetroffen in haar hut. Er gaan talloze geruchten over hoe ze is omgekomen, maar de waarheid is dat niemand het echt weet. De verdenking valt echter op de vertrouwelinge van de koningin, Joan McGraw.</p><p>HMY Britannia is een schip in vol bedrijf en iedereen is druk, van de admiraal op de brug tot de koks in de kombuizen en de machinisten die de turbines onderhouden. Er is een bemanning van honderden mensen aan boord. Is een van hen een moordenaar?</p><p>De koningin en Joan moeten al hun vaardigheden en trucs inzetten om het mysterie op te lossen, terwijl ze ogenschijnlijk onverstoorbaar van het ene naar het andere evenement gaan en het bezoek aan de verschillende eilanden zich ontvouwt onder het toeziend oog van de hele wereld.</p><p> Fans van THE CROWN, Agatha Christie, Richard Osman en Anthony Horowitz zullen genieten van Deining op de Britannia .</p><p>DE SPEURDER  Van jongs af aan heeft Queen Elizabeth al een gave om mysteries op te lossen. Haar positie verbiedt echter elke directe bemoeienis. Ze moet dus omzichtig te werk gaan en ze vertrouwt op haar assistent-privésecretaris om te doen wat zij moet laten en te voorkomen dat iemand achter de koninklijke betrokkenheid komt.  DE SETTING  De Britannia was het enige koninklijke bouwproject van Elizabeth en Philip. Het koninklijk jacht was een wereld op zich, met een speciaal geselecteerde bemanning die de koningin de hele wereld rondvoer. In de jaren zestig - de tijd van Swinging London en de Beatles - ondernam de Queen een tropische tournee langs de West-Indische eilanden van het Britse Gemenebest.  REACTIES OP DE SERIE</p><p>'Een perfect moordmysterie.' - Ruth Ware  'Een sprankelend historisch mysterie.' - Malcolm Edwards</p><p>'Hilarisch, hartveroverend en goed geobserveerd. Fantastisch.' - Joanne Harris</p><p>Als speurneus kan de koningin nog jaren mee.' - DE VOLKSKRANT</p><p>'Een geestig moordmysterie.' - VRIJ NEDERLAND</p><p>'Elizabeth II is geknipt voor de rol van Miss Marple.' - TROUW</p><p>'Spanning en ontspanning met onweerstaanbare Engelse flair.' - DE LIMBURGER</p><p>'De Queen is een briljant personage.' - BOEKENKRANT </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
-            <name>Henk Rigter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een nieuw begin aan zee]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale"/>
-        <updated>2026-10-28T13:41:41.111Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956241?aid=kb-online-bibliotheek&sid=24&dts=1793193601227&sig=280a5582e1fb6c980ba4a2e1b5559832005af18d67dc190e91bd08a98859d78d&width=320" alt="Omslag van 'Een nieuw begin aan zee'" title="Omslag van 'Een nieuw begin aan zee'">
-<p>'Een nieuw begin aan zee' heeft alle ingrediënten voor een heerlijke feelgood: een sfeervolle setting, romantiek, geweldige vriendschappen en warme familiebanden.  Na het verlies van haar verloofde snakt eventplanner Lauren ernaar een nieuwe draai aan haar leven te geven. Ze besluit de zomer door te brengen tussen de zandduinen en wisselende getijden van de Outer Banks, North Carolina, waar ze aan de slag gaat bij een knusse oude herberg. De zilte bries van de Atlantische Oceaan en de warmte van de zomerzon op haar gezicht helpen haar om weer richting te vinden. Al is het misschien niet de richting die ze verwacht… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jenny Hale</name>
+            <name>S.J. Bennett</name>
         </author>
     </entry>
     <entry>
@@ -264,6 +302,30 @@
 <p>De jonge, gefrustreerde schrijver Sloan White werkt zich kapot als assistente van de beroemde thrillerauteur Barbara Van Wyck. Wanneer Sloan haar tirannieke werkgever dood aantreft achter haar schrijfmachine – haar nog ongepubliceerde manuscript af op haar bureau – grijpt ze haar kans. Sloan steelt het, herschrijft het subtiel, en publiceert het onder een pseudoniem. Het boek, Duistere leugens, wordt een internationale bestseller. Sloan lijkt nu alles te hebben waar ze altijd van droomde, maar iemand kent haar geheim en wil haar daarvoor laten boeten... Voor fans van Freida McFadden, Jeneva Rose en Willow Rose </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Nelle Lamarr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Kruisvaarders]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956519/de-kruisvaarders-dan-jones</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956519/de-kruisvaarders-dan-jones"/>
+        <updated>2026-10-28T13:41:42.626Z</updated>
+        <summary type="html"><![CDATA[De strijd om het Heilige Land]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956519?aid=kb-online-bibliotheek&sid=24&dts=1793194902400&sig=af37f7135857da9b4b4df9aa1730c8d7144c117e23ba8b3a6f02621b9a207335&width=320" alt="Omslag van 'De Kruisvaarders'" title="Omslag van 'De Kruisvaarders'">
+<p>‘Gaat op weg voor de vergeving van uw zonden, en wees daarbij verzekerd van de onvergankelijke glorie van het koninkrijk der hemelen.’ In 1095 sprak paus Urbanus II deze woorden tot de christenen, om ze aan te wakkeren de stad Jeruzalem te bevrijden van de islamitische overheersing. Zijn vurige oproep vormde het begin van honderden jaren religieuze strijd: de kruistochten. In ‘De Kruisvaarders’ brengt bestsellerauteur Dan Jones deze gewelddadige en fascinerende geschiedenis tot leven. Aan de hand van markante personen – van koningen tot vergeten strijders – vertelt hij een meeslepend verhaal vol macht, geloof en bloedvergieten, waarvan de echo’s vandaag de dag nog steeds hoorbaar zijn.  ‘Schitterend overzichtswerk. (…) Voor goed vertelde verhalen zoals over Amalrik moet je het boek van de journalist en historicus Dan Jones hebben.’ •••• – NRC Handelsblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dan Jones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hooggevoelig]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/461956306/hooggevoelig-mirjam-bogerd</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/461956306/hooggevoelig-mirjam-bogerd"/>
+        <updated>2026-10-28T13:41:38.758Z</updated>
+        <summary type="html"><![CDATA[Sleutels voor levenslust, ontspanning en een lichaam in balans]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956306?aid=kb-online-bibliotheek&sid=24&dts=1793193677375&sig=17c71864671071a7fef9270c93bbe8e7f570ad04f481bd753f8f1c426d21f6f0&width=320" alt="Omslag van 'Hooggevoelig'" title="Omslag van 'Hooggevoelig'">
+<p>In Hooggevoelig helpt orthopedagoog Mirjam Bogerd hooggevoelige mensen om zichzelf beter te begrijpen, voor zichzelf te zorgen en met mildheid naar zichzelf te kijken als. Als je sterk reageert op sfeer en emotie, dingen opmerkt die anderen ontgaan en sneller overprikkeld raakt, ben je misschien hooggevoelig. Hooggevoeligheid is een eigenschap die zowel uitdagingen als kwaliteiten met zich meebrengt. Vanuit wetenschappelijke inzichten, persoonlijke ervaring en humor reikt Mirjam je in dit boek essentiële sleutels aan voor levenslust en ontspanning. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Mirjam Bogerd</name>
         </author>
     </entry>
     <entry>
@@ -298,64 +360,6 @@
 <p>Wanneer een nepvideo de reputatie van een filmproducer vernietigt, raakt een filmstudent verstrikt in een web van schuld en zwijgen. Twintig jaar later heeft de samenleving desinformatie uitgebannen en fictie verboden, maar het verlangen naar verbeelding laat zich niet onderdrukken.</p>]]></content>
         <author>
             <name>Josje Weusten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bakkerij Funk - Your Plantbased Baking Guide]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956276/bakkerij-funk---your-plantbased-baking-guide-dennis-van-peel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956276/bakkerij-funk---your-plantbased-baking-guide-dennis-van-peel"/>
-        <updated>2026-10-28T13:41:39.127Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956276?aid=kb-online-bibliotheek&sid=24&dts=1793192439573&sig=f30c00d87155e8832e4add06147eaf1118a38c31805d61c79f0d1cd585d319ed&width=320" alt="Omslag van 'Bakkerij Funk - Your Plantbased Baking Guide'" title="Omslag van 'Bakkerij Funk - Your Plantbased Baking Guide'">
-<p>FUNK - Your plantbased baking guide is inspirerend bakboek voor iedereen die aan de slag wil met eigentijds, plantaardig bakken. Bakkerij Funk is dé trendy, 100% plantaardige bakkerij in Antwerpen, geïnspireerd op de hygge bakkerscultuur van Kopenhagen. Met dit bakboek ga je zelf aan de slag met FUNK's signature viennoiserie, broden, cakes en koekjes, en leer je dankzij een heldere basis over technieken, bladerdeeg en zuurdesem hoe je de lekkerste creaties uit je oven tovert. Bakkerij FUNK biedt wekelijks wisselende seizoensviennoiserie, zuurdesem, specialty coffee en natuurwijn, en er staat altijd een rij, van Antwerpse locals en Nederlandse bezoekers tot internationale fans. FUNK - Your plantbased baking guide is een inspirerend bakboek én een eerbetoon aan deze bakkerij. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dennis van Peel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De overbodigen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956403/de-overbodigen-herman-koch</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956403/de-overbodigen-herman-koch"/>
-        <updated>2026-10-28T13:41:41.279Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956403?aid=kb-online-bibliotheek&sid=24&dts=1793192142021&sig=98d7682491e8005399476fd4fcd2e696b2b4b929b981f16ef075ca3816d68463&width=320" alt="Omslag van 'De overbodigen'" title="Omslag van 'De overbodigen'">
-<p>Stem nu op 'De overbodigen' voor boek van het jaar: nspublieksprijs.nl/genomineerden/de-overbodigen</p><p>Bioloog Herbert en zijn vrouw Yvonne waren al langer van plan om de Cotswold Way te lopen, de iconische langeafstandswandeling in Engeland, die door prachtige weiden, bossen en pittoreske dorpen voert. In een opwelling nodigden ze de ouders van de vriend van hun dochter uit. Een opwelling met grote gevolgen. 'De overbodigen' is een beklemmende roman over het recht van de sterkste, tegen de achtergrond van een van de mooiste landelijke gebieden van Engeland.  'De overbodigen leest even lekker als een goed geconstrueerde detectiveroman. Er zijn cliffhangers en kochiaanse bochten waarbij alles toch nét anders in elkaar zit dan je in eerste instantie denkt.' - De Volkskrant</p><p> ' De blijvende charme van Herman Koch zit in zijn onvoorspelbaarheid.' - EW, Jeroen Vullings</p><p> ' Zijn spannendste roman tot nu toe.' - De Limburger ****</p><p>  '  Het diner 2.0. Meedogenloos machtsvertoon tegen een idyllisch decor.' - Zin Magazine</p><p></p><p>'</p><p>Weer een verslavend boek van Koch waarin de spanningen hoog oplopen. Je leest 'm het liefst in één zit uit.' - LINDA.</p><p> ' Een grandioze pastiche op de misdaadroman.' - Knack (4 ballen) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Herman Koch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Buyer's Balance]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461952092/the-buyer-s-balance-bert-paesbrugghe</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461952092/the-buyer-s-balance-bert-paesbrugghe"/>
-        <updated>2026-10-28T13:41:43.145Z</updated>
-        <summary type="html"><![CDATA[What your customers want to share with you]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461952092?aid=kb-online-bibliotheek&sid=24&dts=1793194704339&sig=d8d103917acfd5215e5ef1bfc7a2d1440b449a8c9747e796e5b355be482b8daf&width=320" alt="Omslag van 'The Buyer's Balance'" title="Omslag van 'The Buyer's Balance'">
-<p>Have you ever wondered why satisfied customers don't always stay loyal customers? Why do so many companies adopt new sales or enabling technologies, but still fail to see the expected increases in turnover or customer satisfaction? And why do buyers always expect more from your company, despite your yearly innovations? The answer is both complicated and simple. It's complicated because it requires changing outdated thinking and processes. However, understanding your customer becomes simple when you start thinking like a buyer. As you read this book, you will put on your buyer's goggles and learn how to provide greater value to your customers. Create a smarter, more balanced customer experience based on customer insights </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bert Paesbrugghe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best of Belgium]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461952076/best-of-belgium-angela-dansby</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461952076/best-of-belgium-angela-dansby"/>
-        <updated>2026-10-28T13:41:42.925Z</updated>
-        <summary type="html"><![CDATA[The Complete Travel Guide Through Expat Eyes]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461952076?aid=kb-online-bibliotheek&sid=24&dts=1793194902739&sig=c9ede65f3508792236b21d78966e176c6433e7fc833d6972eec4249aa5527986&width=320" alt="Omslag van 'Best of Belgium'" title="Omslag van 'Best of Belgium'">
-<p>Best of Belgium: The Complete Travel Guide Through Expat Eyes opens the eyes of residents and visitors alike with its rare coverage of all Belgian regions and provinces. A small country with big heritage and culture, Belgium has the most castles per square kilometre in the world and a wealth of UNESCO-recognised sites and traditions. It is also rich in medieval charm, avant-garde creativity and culinary excellence, including more than 150 Michelin-starred restaurants. Linguistically divided by region, Belgium offers three unique experiences in one country. From Brussels' world-class museums and cosmopolitan flair to Flanders' medieval architecture and sandy beaches to Wallonia's fairytale castles and forested hills, this comprehensive insider's guide reveals why Belgium deserves a place on every explorer's European itinerary. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Angela Dansby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schijnwereld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461952025/schijnwereld-joseph-roth</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461952025/schijnwereld-joseph-roth"/>
-        <updated>2026-10-28T13:41:43.420Z</updated>
-        <summary type="html"><![CDATA[Filmkritieken 1919-1935]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461952025?aid=kb-online-bibliotheek&sid=24&dts=1793194903228&sig=d57b38fde78f4f63961479552853b467cf1daa38d60579a018c9b020ebb96b3d&width=320" alt="Omslag van 'Schijnwereld'" title="Omslag van 'Schijnwereld'">
-<p>'Ik heb helemaal geen affiniteit met de film,' schrijft Joseph Roth in een brief uit 1936 aan Stefan Zweig. In zijn schotschrift De Antichrist (1934) veroordeelt Roth de film zelfs als een bedrieglijke 'schijnwereld' waarbij Hollywood wordt gepresenteerd als een "Höllewood", een plek waar de hel woedt. Niettemin spreekt uit tientallen scènes in zijn romans een bijna onstuitbare fascinatie voor de schimmen op het filmscherm en de roes van de bioscoopervaring. Bovendien werkte Roth mee aan een drietal filmscenario's en was hij auteur van meer dan honderd filmkritieken, die hij in de jaren 1920 en 30 publiceerde in Duitstalige kranten en vakbladen. Naast besprekingen van beroemde meesterwerken van onder meer Charlie Chaplin, René Clair, Sergei Eisenstein, Robert Flaherty, Fritz Lang en F.W. Murnau, omvatten Roths filmkritieken ook intrigerende overpeinzingen over de aard van het medium, over de voorliefde voor clichés en kleine gestes, over censuur en propaganda, over het bioscooppubliek, over de spanning tussen kunst en vermaak en over diva's en dieren op het grote doek. Schijnwereld bevat een ruime selectie van Joseph Roths artikels en essays over film. Vertaald door Els Snick, oprichter van het Joseph Roth Genootschap, en van een nawoord voorzien door Steven Jacobs, kunsthistoricus gespecialiseerd in film. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Joseph Roth</name>
         </author>
     </entry>
 </feed>
