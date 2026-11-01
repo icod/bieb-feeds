@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-10-31T13:13:19.588Z</updated>
+    <updated>2026-11-01T13:57:12.249Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -109,6 +109,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Geld genoeg, maar niet voor jou]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46205540X/geld-genoeg--maar-niet-voor-jou-thomas-bollen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46205540X/geld-genoeg--maar-niet-voor-jou-thomas-bollen"/>
+        <updated>2026-11-01T13:57:03.076Z</updated>
+        <summary type="html"><![CDATA[Hoe heroveren we de macht over ons geld?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46205540X?aid=kb-online-bibliotheek&sid=24&dts=1793536157875&sig=ea057cb9fb71a52c6b5291f17217bd828dae6b6829d633035256312aa25dcb2b&width=320" alt="Omslag van 'Geld genoeg, maar niet voor jou'" title="Omslag van 'Geld genoeg, maar niet voor jou'">
+<p>Dit boek laat je anders naar de euro's op je bankrekening kijken. Waarom kan de een ondanks hard werken en sparen geen woning betalen, terwijl de ander slapend rijk wordt van stijgende huizenprijzen? Waarom is er wel geld voor investeerders om zorginstellingen op te kopen en uit te kleden, en niet om de economie snel te verduurzamen? Om de grote problemen van nu op te lossen, moeten we het hebben over hoe ons geld écht werkt - en hoe het anders kan. Onderzoeksjournalist Thomas Bollen neemt je mee naar het internationale strijdtoneel van ons geld. Hier nemen burgerbewegingen, wetenschappers en oud-bankiers het op tegen de machtigste bedrijven ter wereld. Samen reizen we langs de goudkluizen en banktorens van de gevestigde financiële orde. We volgen hoe geld door de samenleving stroomt en ontrafelen hoe tech-miljardairs en cryptobedrijven met hun digitale munten stilletjes de macht overnemen. Als we niet ingrijpen, groeit de kloof tussen de superrijken en de rest. Geld genoeg, maar niet voor jou laat zien wat er nodig is om het tij te keren. Hoe heroveren we de macht over ons geld? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Thomas Bollen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wie betaalt, mag vervuilen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462055485/wie-betaalt--mag-vervuilen-ties-gijzel---mira-sys</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462055485/wie-betaalt--mag-vervuilen-ties-gijzel---mira-sys"/>
+        <updated>2026-11-01T13:57:03.927Z</updated>
+        <summary type="html"><![CDATA[Kunnen we ons uit de klimaatcrisis kopen?]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462055485?aid=kb-online-bibliotheek&sid=24&dts=1793541423198&sig=1da9646ec382eee9121e2b7bd91975ce271c182106ed96aff1a81cd159c77ad1&width=320" alt="Omslag van 'Wie betaalt, mag vervuilen'" title="Omslag van 'Wie betaalt, mag vervuilen'">
+<p>Ga je vliegen? Compenseer je schuldgevoel voor een paar euro! Stoot je fabriek veel broeikasgassen uit? Plant een bos! Heeft je bouwproject het leefgebied van koala's vernietigd? Creëer elders een fijne, nieuwe leefplek voor flamingo's! Welkom in de wereld van klimaatcompensatie. Door geld te steken in natuurprojecten, kunnen overheden, bedrijven en consumenten hun uitstoot 'wegstrepen', alsof die nooit heeft bestaan. Zo is er een lucratieve markt ontstaan waarop bomen en dieren worden verhandeld als financiële producten. Via de Zuidas en Wall Street gaan er honderden miljoenen euro's om in deze handel. Maar wie wordt hier nu echt beter van? Onderzoeksjournalisten Ties Gijzel en Mira Sys geven een onthullende inkijk in de compensatie-industrie. Ze spraken met financiële handelaren, ondernemers, milieu-onderzoekers en Inheemse gemeenschappen in wier leefgebied controversiële natuurprojecten plaatsvinden. Nu de Europese Unie en de Verenigde Naties het compensatie-idee steeds steviger omarmen en techbedrijven er de oplossing in zien voor hun energieslurpende AI, dringt de vraag zich op: kunnen we ons werkelijk uit de klimaatcrisis kopen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ties Gijzel</name>
+        </author>
+        <author>
+            <name>Mira Sys</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Onder ons]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/448220644/onder-ons-birte-schohaus---bas-van-beek</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/448220644/onder-ons-birte-schohaus---bas-van-beek"/>
@@ -121,6 +148,52 @@
         </author>
         <author>
             <name>Bas van Beek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het scharlaken paleis en De wolk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462055361/het-scharlaken-paleis-en-de-wolk-tanith-lee</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462055361/het-scharlaken-paleis-en-de-wolk-tanith-lee"/>
+        <updated>2026-11-01T13:57:04.595Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462055361?aid=kb-online-bibliotheek&sid=24&dts=1793440854149&sig=3797a09b056613435a5dd2e2d171562273ed2a4999ec172817e3642182f28d62&width=320" alt="Omslag van 'Het scharlaken paleis en De wolk'" title="Omslag van 'Het scharlaken paleis en De wolk'">
+<p>Niets is wat het lijkt in deze betoverde wereld. Het scharlaken paleis, De wolk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Tanith Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sint blijft uitpakken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46205537X/sint-blijft-uitpakken-diverse-auteurs</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46205537X/sint-blijft-uitpakken-diverse-auteurs"/>
+        <updated>2026-11-01T13:57:05.209Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46205537X?aid=kb-online-bibliotheek&sid=24&dts=1793517112702&sig=850878af91a29958cbc0fb76d8462a2e975c1e8fa8362202678bcca3d4215f00&width=320" alt="Omslag van 'Sint blijft uitpakken'" title="Omslag van 'Sint blijft uitpakken'">
+<p>Sinterklaas krijgt elk jaar wel duizend brieven, maar is die van Helena dan echt de leukste? En waar is de bril van Sinterklaas toch? Ook lijkt het Grote Boek gestolen te zijn. En wat is dat spiegeltje waar Pietje zo geheimzinnig over doet? Ontdek deze en vele andere verrassende, grappige en ontroerende verhalen in 'Sint blijft uitpakken'- de derde verzamelbundel in deze serie vol met fantasie, humor en hartverwarmende momenten. De royalty's gaan naar Villa Pardoes, waar ernstig zieke kinderen en hun families een onvergetelijke week beleven. Met dank aan: Op alfabetische volgorde: Abra Voets. Amanda Velt, Annelies Visser, Carla van Vliet en Emma Veringa, Charlotte Desmet, Hanneke Kanis-Rommelaar, Hermien Stok, Ina van der Beek, Inge Hulsker, Isabelle Paz Soldan, Jenneke Ingelse, Jessica Berkvens, Laura Weterings, Mehmet Küçükaycan, Nikee Fuchs, Nina Wassenaar-Ziemba, Sandra C. Hessels, Sanne Miltenburg, Susanne Miller, Tessa te Loo, Tjade Witmaar, Vera Oor, Wilma Hollander, Wim Slierendregt en Winette de Graaf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Diverse Auteurs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De vroege strijd voor het vrije internet]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462055388/de-vroege-strijd-voor-het-vrije-internet-karin-spaink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462055388/de-vroege-strijd-voor-het-vrije-internet-karin-spaink"/>
+        <updated>2026-11-01T13:57:05.811Z</updated>
+        <summary type="html"><![CDATA[Hoe Karin Spaink en anderen onze digitale rechten bevochten]]></summary>
+        <content type="html"><![CDATA[<img src="https://v2.leibniz.zbkb.nl/assets/id/PPN%3A457621419?sig=d65b6b37831cbd509b0451aa122d2811095e498eb6c262ef2d970a110d7e87e3&dts=1793540525734&width=132&aid=kb-online-bibliotheek-tdp&sid=24" alt="Omslag van 'De vroege strijd voor het vrije internet'" title="Omslag van 'De vroege strijd voor het vrije internet'">
+<p>'De vroege strijd voor het vrije internet' is een bundeling van artikelen en columns waarin Karin Spaink, voormalig chef-eindredactie van Follow the Money, je meeneemt naar de begintijd van het internet. Dat bestaat al sinds de jaren zestig, maar was decennialang alleen toegankelijk voor universitaire wetenschappers en defensiemedewerkers. In de jaren tachtig streden hackers en anderen voor toegang tot dit ‘onontdekte werelddeel’ zoals Karin Spaink het omschrijft. Spaink was in de jaren negentig een van die internetpioniers. Aanvankelijk beschreef ze de stormachtige ontwikkelingen in haar wekelijkse Parool-column. Vanaf 1995 bond ze de strijd aan met de Scientology-sekte en groeide ze uit tot een belangrijke voorvechter van het vrije internet. Dat taaie juridische gevecht eindigde in 2006 met een overwinning bij de Hoge Raad. In 2000 was Spaink mede-oprichter van de organisatie Bits of Freedom. Aan de hand van verhalen van Spaink zelf en haar medestanders van toen laat dit boek je zien hoe het internet in Nederland vorm kreeg en waarom onze digitale rechten ook nu nog verdedigd moeten worden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Karin Spaink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Je geld of je gegevens]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462055477/je-geld-of-je-gegevens-anja-shortland</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462055477/je-geld-of-je-gegevens-anja-shortland"/>
+        <updated>2026-11-01T13:57:06.451Z</updated>
+        <summary type="html"><![CDATA[De duistere industrie van hackers en ransomware]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462055477?aid=kb-online-bibliotheek&sid=24&dts=1793531872413&sig=28538886819ff58cab875ed0db176c03813bbd0c3ab154f341b1aca4ae76124d&width=320" alt="Omslag van 'Je geld of je gegevens'" title="Omslag van 'Je geld of je gegevens'">
+<p>Stel je voor dat je je computer opent en ontdekt dat al je documenten en programma's vergrendeld zijn. Je ziet alleen een rood scherm met een aftelklok en de tekst 'betaal het losgeld binnen 72 uur of je raakt alles kwijt'. Hackers verdienen miljarden dollars door bedrijven, overheden en burgers op deze manier af te persen. Hun strategieën worden geavanceerder, met steeds grotere gevolgen. Hoogleraar Anja Shortland, gespecialiseerd in digitale afpersing, geeft een onthullende inkijk in de beruchtste ransomware-aanvallen van de 21e eeuw. Ze neemt je mee naar de wereldwijde cyberoorlogvoering, waar landen als Rusland en Noord-Korea ransomware steeds vaker als wapen inzetten. Shortland laat zien hoe kwetsbaar we zijn, en hoe we ons kunnen verdedigen. 'Je geld of je gegevens' duikt in de schaduweconomie van ransomware, waar de activiteiten van sluwe hackers en fraudeurs catastrofale gevolgen kunnen hebben voor ons allemaal. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Anja Shortland</name>
         </author>
     </entry>
     <entry>
@@ -168,6 +241,106 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Louter lust]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462045781/louter-lust-lydia-rood</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462045781/louter-lust-lydia-rood"/>
+        <updated>2026-11-01T13:57:07.289Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045781?aid=kb-online-bibliotheek&sid=24&dts=1793541426558&sig=55ac7d58f6a2fe0c2560af5c05cdbcbf797dc48849e86ff53a082986a2286f08&width=320" alt="Omslag van 'Louter lust'" title="Omslag van 'Louter lust'">
+<p>Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Deze titel is ook verkrijgbaar als luisterboek.</p><p>Gedeelde genoegens (ebook en luisterboek)  Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere stud, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde. Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.</p><p>De recensent heeft gedeelten van dit boek met één hand gelezen.  Ronald Giphart / Het Parool</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lydia Rood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mannen, ze willen wel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46204579X/mannen--ze-willen-wel-lydia-rood</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46204579X/mannen--ze-willen-wel-lydia-rood"/>
+        <updated>2026-11-01T13:57:07.956Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46204579X?aid=kb-online-bibliotheek&sid=24&dts=1793529235198&sig=588cccc3a36de8dae97ee01be06edc3c58d6450d7ff4828538f36e67e17094dc&width=320" alt="Omslag van 'Mannen, ze willen wel'" title="Omslag van 'Mannen, ze willen wel'">
+<p>Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant.</p><p>De erotische titels van Lydia Rood:</p><p>Louter lust (ebook en luisterboek)  Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Gedeelde genoegens (ebook en luisterboek)  Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere stud, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde. Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.</p><p>De recensent heeft gedeelten van dit boek met één hand gelezen.  Ronald Giphart / Het Parool</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lydia Rood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zij haar zin]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462045757/zij-haar-zin-lydia-rood</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462045757/zij-haar-zin-lydia-rood"/>
+        <updated>2026-11-01T13:57:08.729Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045757?aid=kb-online-bibliotheek&sid=24&dts=1793541428059&sig=2f984b236bd7f7bece65fdaf493e84099eab93aa12be889d5d9873fe625a456a&width=320" alt="Omslag van 'Zij haar zin'" title="Omslag van 'Zij haar zin'">
+<p>Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>De erotische titels van Lydia Rood:</p><p>Louter lust (ebook en luisterboek)  Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Gedeelde genoegens (ebook en luisterboek)  Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere stud, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde. Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.</p><p>De recensent heeft gedeelten van dit boek met één hand gelezen.  Ronald Giphart / Het Parool</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lydia Rood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het lavendelmeisje]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462045870/het-lavendelmeisje-paul-van-der-mark</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462045870/het-lavendelmeisje-paul-van-der-mark"/>
+        <updated>2026-11-01T13:57:09.281Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045870?aid=kb-online-bibliotheek&sid=24&dts=1793538110246&sig=9eaf95f9bb57bfd25155bc5c4220b8f01e8dfc276ceebfa1e81b6cfe3875c894&width=320" alt="Omslag van 'Het lavendelmeisje'" title="Omslag van 'Het lavendelmeisje'">
+<p>Het had een romantische vakantie moeten worden voor Marinde, maar een raadselachtige ontdekking op een foto in een museum in Frankrijk en het onverwachte overlijden van een oudere vrouw in Lourdes zetten een kettingreactie van gebeurtenissen in werking die niemand voorzien had. Als dan ook nog mensen zich bedreigd gaan voelen en nergens voor terugdeinzen, komen levens in gevaar. Verdriet, verliefdheid, angst en uiteindelijk moord. Een heftige zomer om nooit meer te vergeten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Paul van der Mark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gedeelde genoegens]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462045765/gedeelde-genoegens-lydia-rood</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462045765/gedeelde-genoegens-lydia-rood"/>
+        <updated>2026-11-01T13:57:09.970Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045765?aid=kb-online-bibliotheek&sid=24&dts=1793541429387&sig=6fc12d5f614e5b869c0ccaef17d6c51dfdaf63bb107aa1abeca6e3577fe6b618&width=320" alt="Omslag van 'Gedeelde genoegens'" title="Omslag van 'Gedeelde genoegens'">
+<p>Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere verlokking, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde.</p><p>Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Het is een spannende leerschool, want haar Arabier doet het anders dan haar Antilliaan, en de kwaliteiten van haar Zweed zijn onvergelijkbaar met die van haar Zimbabwaan. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.  Deze titel is ook als luisterboek beschikbaar.</p><p>De erotische collectie van Lydia Rood:</p><p>Louter lust (ebook en luisterboek)  Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lydia Rood</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pianomethode in drie delen voor onderwijs en zelfstudie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46204582X/pianomethode-in-drie-delen-voor-onderwijs-en-zelfstudie-abel---hommes</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46204582X/pianomethode-in-drie-delen-voor-onderwijs-en-zelfstudie-abel---hommes"/>
+        <updated>2026-11-01T13:57:10.523Z</updated>
+        <summary type="html"><![CDATA[Musiceren met leadsheets en bladmuziek. Muzieklessen voor piano en keyboard]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46204582X?aid=kb-online-bibliotheek&sid=24&dts=1793492263689&sig=bb0dd2cf9a91edc36b0207f5943b68b19aa9afae062ef33561b040f2aa96d9ba&width=320" alt="Omslag van 'Pianomethode in drie delen voor onderwijs en zelfstudie'" title="Omslag van 'Pianomethode in drie delen voor onderwijs en zelfstudie'">
+<p>Pianomethode in drie delen voor onderwijs en zelfstudie</p><p>  Musiceren met leadsheets en bladmuziek. Muzieklessen voor piano en keyboard</p><p> Deze e-book uitgave is een gebundelde versie van drie lesboeken uit de serie Spelen met akkoorden in theorie en praktijk:  Deel 1: Basisvaardigheden Deel 2: Akkoordenschema's, toonsoorten en ritme Deel 3: Harmonische variaties en gevorderde technieken</p><p></p><p>Spelen met akkoorden in theorie en praktijk is een moderne pianomethode in drie delen, geschikt voor zelfstudie en muziekonderwijs. De methode biedt zorgvuldig opgebouwd studiemateriaal waarin je geen enkele stap overslaat. Aan de hand van ruim 240 oefeningen en praktische aanwijzingen leer je alles wat je nodig hebt voor een solide muzikale basis.</p><p> In drie delen leer je essentiële muzikale basisvaardigheden zoals notennamen, het gebruik van de linker- en rechterhand, vingerzetting en de opbouw van akkoorden. Je leert hoe akkoorden op verschillende manieren worden weergegeven in leadsheets en notenschrift.</p><p> Spelen met akkoorden in theorie en praktijk is ontwikkeld vanuit de praktijk van het muziekonderwijs. Op een effectieve en verantwoorde manier kun je na het doorlopen van alle drie delen moeiteloos variëren met verschillende manieren van akkoorden spelen, bij welke muziek dan ook. Je begrijpt de taal van muziek, zodat je met musici in allerlei stijlen kunt meespelen.</p><p> De oefeningen zijn geschikt voor piano en keyboards met 61 of meer toetsen.</p><p> Door Iebele Abel en Hanna Hommes. Redactie Nederlandstalige uitgave Jannet Fink. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Abel &amp; Hommes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De perfecte engel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462045838/de-perfecte-engel-eva-nagelkerke</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462045838/de-perfecte-engel-eva-nagelkerke"/>
+        <updated>2026-11-01T13:57:11.022Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045838?aid=kb-online-bibliotheek&sid=24&dts=1793534130673&sig=aaae2546416771214734883df140e3d7dca9f1193449957b0acc179c3eb019d1&width=320" alt="Omslag van 'De perfecte engel'" title="Omslag van 'De perfecte engel'">
+<p>Na een heftige relatiebreuk staan Lisa en haar dochtertje op straat. Noodgedwongen accepteert ze een baan als inwonende nanny. Gelukkig is Bo, het meisje voor wie ze moet zorgen, een schatje. Maar in huis klopt iets niet. Bo's moeder is extreem bezorgd en elke nacht wordt het meisje gillend wakker.</p><p>Dan merkt Lisa dat iemand aan haar spullen zit en ontvangt ze dreigende appjes. Het wordt duidelijk dat iemand haar weg wil hebben. Maar kan Lisa vertrekken en de weerloze Bo achterlaten? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Eva Nagelkerke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koud zeer]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462045889/koud-zeer-robert-de-graaff</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462045889/koud-zeer-robert-de-graaff"/>
+        <updated>2026-11-01T13:57:11.641Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045889?aid=kb-online-bibliotheek&sid=24&dts=1793494039775&sig=2e0dd185ebd81717e4dc1d3feaf0bba56e69afdb2fc3ee057a1b0f49b5efeb81&width=320" alt="Omslag van 'Koud zeer'" title="Omslag van 'Koud zeer'">
+<p>Het is mei 1961, het zijn de hoogtijdagen van de Koude Oorlog. Terwijl Rusland en de geallieerde strijdmachten vechten om de status van Berlijn, strijdt rechercheur Joe Mulder om zίjn status in het politiekorps van Londen. Zijn Duitse roots maken dat niet gemakkelijk. Na een handgemeen met een collega, komt hij in contact met osteopaat Stephen Ward. Mulder ontdekt dat dokter Ward een bijzonder kleurrijk leven leidt en zich gelukkig prijst met een breed scala aan kennissen uit de boven- en onderkant van de Londense samenleving. Onder Wards vriendenkring nemen de Russische ambassadeattaché Yevgeni Ivanov en de losbandige Christine Keeler een bijzondere plaats in. Niet veel later krijgt Mulder het verzoek zijn korps in Marylebone tijdelijk te verruilen voor de inlichtingendienst (MI5). Een bijzondere opdracht brengt hem een enerverend avontuur waarin invloedrijke mannen als William Astor, Winston Churchill en minister John Profumo zijn pad kruisen. Als de perikelen over Berlijn zijn gevolgd door de Cubacrisis, ontdekt Mulder welke politiek gekonkel zich achter zijn rug afspeelt en wat de Britse geheime dienst daadwerkelijk van plan was. Koud Zeer gaat over het grootste politieke schandaal uit de Britse geschiedenis: de Profumo-affaire. Een zaak waarin spionage, seksschandalen en politieke intriges de hoofdrol spelen en die ook in de Verenigde Staten haar sporen heeft nagelaten. Een historische thriller, verademing voor het genre. Henk Vlaming in de Boekenkrant Robert de Graaff is een goede verteller die heel knap het Londen van de jaren zestig weet te beschrijven. Piet Windhorst (LeesKost) Zelden las ik zo'n spannend en intrigerend boek. Dit is zo'n boek dat iedereen moet lezen en je zult het verslinden. Ingrid Lemmens (Hebban) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Robert de Graaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zo veel zinnen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462045773/zo-veel-zinnen-lydia-rood</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462045773/zo-veel-zinnen-lydia-rood"/>
+        <updated>2026-11-01T13:57:12.248Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045773?aid=kb-online-bibliotheek&sid=24&dts=1793530768450&sig=fa346faafa8db1705b2c35ccbc9822f5ad46f0f703bcd55b697613e558629abe&width=320" alt="Omslag van 'Zo veel zinnen'" title="Omslag van 'Zo veel zinnen'">
+<p>Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>De erotische titels van Lydia Rood:</p><p>Louter lust (ebook en luisterboek)  Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Gedeelde genoegens (ebook en luisterboek)  Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere stud, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde. Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.</p><p>De recensent heeft gedeelten van dit boek met één hand gelezen.  Ronald Giphart / Het Parool</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Lydia Rood</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dwars door Afrika]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter"/>
@@ -189,177 +362,6 @@
 <p>Sinds 1804 heeft het Nederlands een officiële spelling. In de eeuwen daarna is er veel en vaak over spelling nagedacht, gediscussieerd én geruzied. Waarom leidt de vraag hoe we onze woorden opschrijven tot zulke hevige emoties? En hoe belangrijk zijn spellingregels nog, nu de communicatie vluchtiger is dan ooit? Dat onderzoekt Miet Ooms in Visie, ruzie, compromis. Een kleine biografie van de Nederlandse spelling. Ze neemt je mee in de woelige levensloop van de Nederlandse spelling - van de regelloze middeleeuwen tot de eerste officiële spelling, naar onrust over menschen of mensen, c's en k's en de tussen-n, en uiteindelijk, eindelijk, rust in spellingland. Of toch niet? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Miet Ooms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het land van de dageraad]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956314/het-land-van-de-dageraad-sarah-lark"/>
-        <updated>2026-10-28T13:41:39.903Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956314?aid=kb-online-bibliotheek&sid=24&dts=1793192833484&sig=b75ecdbb0485d4aecd34efe44120851eeafef6aef362f28932887534305e6856&width=320" alt="Omslag van 'Het land van de dageraad'" title="Omslag van 'Het land van de dageraad'">
-<p>Nieuw-Zeeland, nu. De jonge archeologe Sophie reist naar de Chathameilanden, voor de kust van Nieuw-Zeeland. Op een door de tijd getekend beeldhouwwerk tussen de historische boomtekeningen van de Moriori vindt ze een mysterieuze inscriptie, en een verhaal dat bijna 200 jaar geleden begon...  De Chathameilanden, 1835. De jonge Moriori Kimi maakt de invasie van haar land mee: ze wordt ontvoerd en tot slaaf gemaakt – totdat ze beseft dat de wetten van haar goden haar niet kunnen beschermen. Tegelijkertijd reist de Duitse Ruth naar het einde van de wereld voor haar man, die haar vervolgens in de steek laat. Beide vrouwen moeten vechten voor hun eigen geluk in een wereld die hen niet vriendelijk gezind is… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Sarah Lark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een vrouw in bed]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956373/een-vrouw-in-bed-lin-le-roux"/>
-        <updated>2026-10-28T13:41:40.157Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956373?aid=kb-online-bibliotheek&sid=24&dts=1793194899979&sig=3cb43a3eaa967edb7af0106cb70c533fb347f57eb0bcea753309f10e5440b1bc&width=320" alt="Omslag van 'Een vrouw in bed'" title="Omslag van 'Een vrouw in bed'">
-<p>Ze is gelukkig getrouwd, alles is op orde. Er is genoeg geld, de kinderen zijn gezond, de man liefdevol en betrouwbaar. Maar toch is er een verlangen dat niet meer te onderdrukken is: het verlangen om naar bed te gaan met een vrouw. Het moet en het zal, liever gisteren dan vandaag. Wanneer ze het deelt met haar man, besluit hij haar vrij te laten om dit verlangen te vervullen. Maar wanneer hij op zijn beurt ook avontuur wil, worden de kaarten opnieuw geschud. Kunnen ze nog terug? Willen ze terug?  Een vrouw in bed is een realistische, pikante roman over open relaties en de nieuwe regels in het seksuele speelveld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lin Le Roux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drie-eenheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46195625X/drie-eenheid-bram-van-de-beek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46195625X/drie-eenheid-bram-van-de-beek"/>
-        <updated>2026-10-28T13:41:40.437Z</updated>
-        <summary type="html"><![CDATA[God zet alles in om ons te redden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46195625X?aid=kb-online-bibliotheek&sid=24&dts=1793194900239&sig=5b18762bc6e4b70af9183af5c53c6ccf0f2080fdc9cbfbccd6cce88c2bc08d34&width=320" alt="Omslag van 'Drie-eenheid'" title="Omslag van 'Drie-eenheid'">
-<p>Drie-eenheid van theoloog Bram van de Beek is een verhelderend boek over een van de meest omstreden en moeilijkste onderdelen van het christelijk geloof: de Drie-eenheid. De auteur neemt de lezer mee van de vroegste belijdenissen tot de moderne interpretaties en laat zien hoe het denken over Vader, Zoon en Geest zich door de eeuwen heen heeft ontwikkeld. Gaandeweg wordt duidelijk hoe rijk, complex en vaak misbegrepen de triniteitsleer is. Drie-eenheid is geen abstracte verhandeling, maar een toegankelijke gids die laat zien wat de Drie-eenheid betekent voor geloof, geschiedenis en het dagelijks leven. Een helder en verrassend nieuw begin voor wie dit oude mysterie wil doorgronden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bram van de Beek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Op goed geluk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956233/op-goed-geluk-ellie-dean</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956233/op-goed-geluk-ellie-dean"/>
-        <updated>2026-10-28T13:41:40.593Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956233?aid=kb-online-bibliotheek&sid=24&dts=1793192725201&sig=1bbdef7fdc07e042a9e88440de3a38c40953bbb41d261917acab8d0aabc0a9c8&width=320" alt="Omslag van 'Op goed geluk'" title="Omslag van 'Op goed geluk'">
-<p>Engeland, 1944. Het lijkt alsof er geen einde komt aan de oorlog, die het leven van Peggy's familie voorgoed heeft veranderd en het conflict tot aan de voordeur van haar pension Beach View in Cliffehaven heeft gebracht. Terwijl de vliegtuigen onophoudelijk over het stadje scheren en de spanning stijgt, blijft nieuws over de langverwachte invasie van de geallieerden in Frankrijk uit. Peggy kan geen wonderen verrichten, en de last van de oorlog begint zwaar op haar te drukken.  Maar met de belofte van een geallieerde invasie gloort er hoop: misschien keren haar geliefde echtgenoot en familie eindelijk naar huis terug. Het zal een enorme dosis veerkracht vergen om die hoop levend te houden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ellie Dean</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ik heb het druk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956489/ik-heb-het-druk-oliver-jeffers</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956489/ik-heb-het-druk-oliver-jeffers"/>
-        <updated>2026-10-28T13:41:40.931Z</updated>
-        <summary type="html"><![CDATA[Een boek over een (bijna vergeten) verjaardag]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956489?aid=kb-online-bibliotheek&sid=24&dts=1793194900688&sig=1e9e80b649957513acaf3857f2594344aac846bfdb6d5da3a24b5d405f6c55d2&width=320" alt="Omslag van 'Ik heb het druk'" title="Omslag van 'Ik heb het druk'">
-<p>Britt is jarig, en ze wil niets liever dan die dag doorbrengen met haar vrienden.  Maar Roy heeft andere plannen, Wammes moet nog iets regelen, Rein moet z'n haar wassen en Marit heeft een to-dolijst die koste wat kost afgewerkt moet worden. Britts vrienden hebben het allemaal véél te druk! Moet Britt haar verjaardag dan helemaal alleen vieren? Een krachtig verhaal van Oliver Jeffers, die je als geen ander met een knipoog kan laten nadenken over wat er echt toe doet. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Oliver Jeffers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een nieuw begin aan zee]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956241/een-nieuw-begin-aan-zee-jenny-hale"/>
-        <updated>2026-10-28T13:41:41.111Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956241?aid=kb-online-bibliotheek&sid=24&dts=1793193601227&sig=280a5582e1fb6c980ba4a2e1b5559832005af18d67dc190e91bd08a98859d78d&width=320" alt="Omslag van 'Een nieuw begin aan zee'" title="Omslag van 'Een nieuw begin aan zee'">
-<p>'Een nieuw begin aan zee' heeft alle ingrediënten voor een heerlijke feelgood: een sfeervolle setting, romantiek, geweldige vriendschappen en warme familiebanden.  Na het verlies van haar verloofde snakt eventplanner Lauren ernaar een nieuwe draai aan haar leven te geven. Ze besluit de zomer door te brengen tussen de zandduinen en wisselende getijden van de Outer Banks, North Carolina, waar ze aan de slag gaat bij een knusse oude herberg. De zilte bries van de Atlantische Oceaan en de warmte van de zomerzon op haar gezicht helpen haar om weer richting te vinden. Al is het misschien niet de richting die ze verwacht… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jenny Hale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drop dead famous]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956535/drop-dead-famous-jennifer-pearson"/>
-        <updated>2026-10-28T13:41:41.581Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956535?aid=kb-online-bibliotheek&sid=24&dts=1793194901366&sig=f5304f7e6a78a650997cd5bf57a89d21959e273d4dfaa67caa43bbf71ef8dfef&width=320" alt="Omslag van 'Drop dead famous'" title="Omslag van 'Drop dead famous'">
-<p>Wanneer wereldster Blair Baker optreedt in haar geboortestad, verandert een avond vol glitter en applaus in pure chaos. Voor de ogen van duizenden fans sterft ze op het podium.  Voor Stevie is de moord op haar oudere zus Blair geen sensatieverhaal, maar de verwoestende realiteit. Terwijl de media het nieuws uitmelken, weigert zij zich neer te leggen bij wat er is gebeurd. Vastbesloten om de waarheid te achterhalen, duikt ze in een wereld van roem, leugens en verborgen motieven.  In een stad waar iedereen iets te verbergen heeft, wordt al snel duidelijk: sommige geheimen zijn het waard om voor te doden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jennifer Pearson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moord op het Oxford kanaal]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956365/moord-op-het-oxford-kanaal-faith-martin</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956365/moord-op-het-oxford-kanaal-faith-martin"/>
-        <updated>2026-10-28T13:41:41.961Z</updated>
-        <summary type="html"><![CDATA[Een spannend moordmysterie vol plottwists]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956365?aid=kb-online-bibliotheek&sid=24&dts=1793194901669&sig=d54776e599bef1de076ad558e0f744c0bcd5de3007d016c69a62b74cd3380660&width=320" alt="Omslag van 'Moord op het Oxford kanaal'" title="Omslag van 'Moord op het Oxford kanaal'">
-<p>Zoek je een fantastisch moordmysterie met een strijdbare vrouwelijke detective?</p><p>  DUIK IN EEN VAN DE GELIEFDSTE BRITSE CRIMESERIES</p><p>  Van bestsellerauteur Faith Martin. Wereldwijd al ruim 2 miljoen boeken verkocht.</p><p> Na de dood van haar echtgenoot vecht inspecteur Hillary Greene voor haar baan. Door wat hij heeft uitgevreten, wordt zij nu verdacht van corruptie.</p><p>Dan duikt er een gehavend lichaam op in het Oxford kanaal. Het lijkt een bootongeluk, maar Hillary vertrouwt het niet. Haar onderzoek wijst uit dat er veel meer speelt.</p><p>Kan Hillary haar naam zuiveren en een samenzwering op het water onthullen?</p><p> Moord op het Oxford kanaal is een moordmysterie vol goed geobserveerde personages, het eerste deel van een serie pageturners die zich afspelen in en om Oxford.</p><p>  LEZERS OVER MOORD OP HET OXFORD KANAAL</p><p> 'Een  echte pageturner ... kan niet wachten op de volgende.' - Barbara ⭐⭐⭐⭐⭐</p><p>'Ging er vanaf de eerste pagina's in op...  uitstekend .' - Rhonda ⭐⭐⭐⭐⭐</p><p>'Een  eersteklas crimethriller ... perfecte achtergronden voor een langlopende serie.' - Ted ⭐⭐⭐⭐⭐</p><p>' Geweldig plot ... meer dan genoeg twists en dwaalsporen.' - Amanda ⭐⭐⭐⭐⭐</p><p>'Meeslepend en  fascinerend ... Martin snapt dat slimme vrouwen hot zijn.' - Jeanne ⭐⭐⭐⭐⭐</p><p>DE LOCATIE  Het Oxford kanaal slingert door het prachtige graafschap Oxfordshire, komt soms samen met de rivieren Cherwell en Theems, en stroomt door de wereldberoemde universiteitsstad. In tegenstelling tot veel kanalen, die rechtlijnige commerciële waterwegen zijn, gebouwd om goederen en zwaar verkeer te vervoeren vóór de komst van de spoorwegen, is het meer kronkelend en natuurlijk ogend en een toevluchtsoord voor wilde flora en fauna.  DE DETECTIVE  Hillary Greene is een aantrekkelijke vrouw van in de veertig, die is opgeklommen door de politierangen tot ze nu inspecteur is. Ze weet hoe het systeem werkt en ze is loyaal aan het korps zonder oogkleppen voor de fouten. Vanwege haar no-nonsense houding en bekwaamheid is ze populair, maar ze wordt momenteel onderzocht vanwege haar onlangs overleden en absoluut corrupte echtgenoot, met wie ze in een vechtscheiding lag. Toch heeft tegenspoed haar er nooit van weerhouden haar werk te doen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Faith Martin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deining op de Britannia]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956438/deining-op-de-britannia-s-j--bennett"/>
-        <updated>2026-10-28T13:41:42.121Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956438?aid=kb-online-bibliotheek&sid=24&dts=1793192290051&sig=73b155d98021a9790a66d4f7623b4a224575bf45bbec8871f38884bfbf6602de&width=320" alt="Omslag van 'Deining op de Britannia'" title="Omslag van 'Deining op de Britannia'">
-<p>Terug in de tropen, een nieuwe zaak in de briljante internationale bestsellerserie</p><p> In 1966 maakt koningin Elizabeth II een rondreis door het Caribisch gebied aan boord van het koninklijk jacht Britannia. Vijf weken lang zijn elke tien minuten van haar schema nauwkeurig vastgelegd, en er mag absoluut niets misgaan.</p><p>Maar er gaat wel wat mis. Al aan het begin van de reis wordt de nieuwe agenda-secretaresse, Pamela Sinclair, dood aangetroffen in haar hut. Er gaan talloze geruchten over hoe ze is omgekomen, maar de waarheid is dat niemand het echt weet. De verdenking valt echter op de vertrouwelinge van de koningin, Joan McGraw.</p><p>HMY Britannia is een schip in vol bedrijf en iedereen is druk, van de admiraal op de brug tot de koks in de kombuizen en de machinisten die de turbines onderhouden. Er is een bemanning van honderden mensen aan boord. Is een van hen een moordenaar?</p><p>De koningin en Joan moeten al hun vaardigheden en trucs inzetten om het mysterie op te lossen, terwijl ze ogenschijnlijk onverstoorbaar van het ene naar het andere evenement gaan en het bezoek aan de verschillende eilanden zich ontvouwt onder het toeziend oog van de hele wereld.</p><p> Fans van THE CROWN, Agatha Christie, Richard Osman en Anthony Horowitz zullen genieten van Deining op de Britannia .</p><p>DE SPEURDER  Van jongs af aan heeft Queen Elizabeth al een gave om mysteries op te lossen. Haar positie verbiedt echter elke directe bemoeienis. Ze moet dus omzichtig te werk gaan en ze vertrouwt op haar assistent-privésecretaris om te doen wat zij moet laten en te voorkomen dat iemand achter de koninklijke betrokkenheid komt.  DE SETTING  De Britannia was het enige koninklijke bouwproject van Elizabeth en Philip. Het koninklijk jacht was een wereld op zich, met een speciaal geselecteerde bemanning die de koningin de hele wereld rondvoer. In de jaren zestig - de tijd van Swinging London en de Beatles - ondernam de Queen een tropische tournee langs de West-Indische eilanden van het Britse Gemenebest.  REACTIES OP DE SERIE</p><p>'Een perfect moordmysterie.' - Ruth Ware  'Een sprankelend historisch mysterie.' - Malcolm Edwards</p><p>'Hilarisch, hartveroverend en goed geobserveerd. Fantastisch.' - Joanne Harris</p><p>Als speurneus kan de koningin nog jaren mee.' - DE VOLKSKRANT</p><p>'Een geestig moordmysterie.' - VRIJ NEDERLAND</p><p>'Elizabeth II is geknipt voor de rol van Miss Marple.' - TROUW</p><p>'Spanning en ontspanning met onweerstaanbare Engelse flair.' - DE LIMBURGER</p><p>'De Queen is een briljant personage.' - BOEKENKRANT </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>S.J. Bennett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Al mijn leugens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956330/al-mijn-leugens-nelle-lamarr</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956330/al-mijn-leugens-nelle-lamarr"/>
-        <updated>2026-10-28T13:41:42.288Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956330?aid=kb-online-bibliotheek&sid=24&dts=1793192989433&sig=94bbde4d6c30c4775db50cd1c3103c720023f8d6dcec8266209f5f6df9864e63&width=320" alt="Omslag van 'Al mijn leugens'" title="Omslag van 'Al mijn leugens'">
-<p>De jonge, gefrustreerde schrijver Sloan White werkt zich kapot als assistente van de beroemde thrillerauteur Barbara Van Wyck. Wanneer Sloan haar tirannieke werkgever dood aantreft achter haar schrijfmachine – haar nog ongepubliceerde manuscript af op haar bureau – grijpt ze haar kans. Sloan steelt het, herschrijft het subtiel, en publiceert het onder een pseudoniem. Het boek, Duistere leugens, wordt een internationale bestseller. Sloan lijkt nu alles te hebben waar ze altijd van droomde, maar iemand kent haar geheim en wil haar daarvoor laten boeten... Voor fans van Freida McFadden, Jeneva Rose en Willow Rose </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nelle Lamarr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Kruisvaarders]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956519/de-kruisvaarders-dan-jones</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956519/de-kruisvaarders-dan-jones"/>
-        <updated>2026-10-28T13:41:42.626Z</updated>
-        <summary type="html"><![CDATA[De strijd om het Heilige Land]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956519?aid=kb-online-bibliotheek&sid=24&dts=1793194902400&sig=af37f7135857da9b4b4df9aa1730c8d7144c117e23ba8b3a6f02621b9a207335&width=320" alt="Omslag van 'De Kruisvaarders'" title="Omslag van 'De Kruisvaarders'">
-<p>‘Gaat op weg voor de vergeving van uw zonden, en wees daarbij verzekerd van de onvergankelijke glorie van het koninkrijk der hemelen.’ In 1095 sprak paus Urbanus II deze woorden tot de christenen, om ze aan te wakkeren de stad Jeruzalem te bevrijden van de islamitische overheersing. Zijn vurige oproep vormde het begin van honderden jaren religieuze strijd: de kruistochten. In ‘De Kruisvaarders’ brengt bestsellerauteur Dan Jones deze gewelddadige en fascinerende geschiedenis tot leven. Aan de hand van markante personen – van koningen tot vergeten strijders – vertelt hij een meeslepend verhaal vol macht, geloof en bloedvergieten, waarvan de echo’s vandaag de dag nog steeds hoorbaar zijn.  ‘Schitterend overzichtswerk. (…) Voor goed vertelde verhalen zoals over Amalrik moet je het boek van de journalist en historicus Dan Jones hebben.’ •••• – NRC Handelsblad </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dan Jones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hooggevoelig]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956306/hooggevoelig-mirjam-bogerd</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956306/hooggevoelig-mirjam-bogerd"/>
-        <updated>2026-10-28T13:41:38.758Z</updated>
-        <summary type="html"><![CDATA[Sleutels voor levenslust, ontspanning en een lichaam in balans]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956306?aid=kb-online-bibliotheek&sid=24&dts=1793193677375&sig=17c71864671071a7fef9270c93bbe8e7f570ad04f481bd753f8f1c426d21f6f0&width=320" alt="Omslag van 'Hooggevoelig'" title="Omslag van 'Hooggevoelig'">
-<p>In Hooggevoelig helpt orthopedagoog Mirjam Bogerd hooggevoelige mensen om zichzelf beter te begrijpen, voor zichzelf te zorgen en met mildheid naar zichzelf te kijken als. Als je sterk reageert op sfeer en emotie, dingen opmerkt die anderen ontgaan en sneller overprikkeld raakt, ben je misschien hooggevoelig. Hooggevoeligheid is een eigenschap die zowel uitdagingen als kwaliteiten met zich meebrengt. Vanuit wetenschappelijke inzichten, persoonlijke ervaring en humor reikt Mirjam je in dit boek essentiële sleutels aan voor levenslust en ontspanning. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Mirjam Bogerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Connectiviteit]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46195642X/connectiviteit-anna-runkle</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46195642X/connectiviteit-anna-runkle"/>
-        <updated>2026-10-28T13:41:38.967Z</updated>
-        <summary type="html"><![CDATA[Het vermogen tot verbinden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46195642X?aid=kb-online-bibliotheek&sid=24&dts=1793194835445&sig=0a2662161d08792544ebc15605bad5bda50758bd5dd030e54193fb361a26293a&width=320" alt="Omslag van 'Connectiviteit'" title="Omslag van 'Connectiviteit'">
-<p>In 'Connectiviteit' onderzoekt Anna Runkle hoe emotionele verwaarlozing in je jeugd en/of jeugdtrauma doorwerkt in het aangaan van relaties later in je leven. Ze richt zich op wat zij beschrijft als 'de verborgen impact van chronische stress in je jeugd': een verstoring in je vermogen om nabijheid toe te laten, grenzen te voelen en jezelf veilig te ervaren in relatie tot anderen. Hoe hard je ook probeert om mee te doen, je voelt je meestal buitengesloten en onbegrepen. Sociale situaties kosten energie en vriendschappen en nabijheid blijven uit.  Met persoonlijke verhalen en heldere uitleg biedt Anna Runkle concrete handvatten om verborgen vermijding te doorbreken, sociale vaardigheden te versterken en stap voor stap veilige, warme relaties op te bouwen. Ook de concrete oefeningen en inzichten om je zenuwstelsel tot rust te brengen en patronen te herkennen, dragen hier aan bij. Haar benadering is direct en praktisch, zonder de complexiteit van trauma te versimpelen. En het uitgangspunt is helder: verbinding is geen luxe, maar een basisbehoefte.  'Connectiviteit' is een toegankelijk, praktisch en hoopgevend boek voor iedereen die verlangt naar wat wezenlijk is: het vermogen om aanwezig te zijn bij jezelf én bij de ander. Alleen zo kan heling plaatsvinden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Anna Runkle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In jouw voetsporen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46195639X/in-jouw-voetsporen-cathy-bramley</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46195639X/in-jouw-voetsporen-cathy-bramley"/>
-        <updated>2026-10-28T13:41:39.317Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46195639X?aid=kb-online-bibliotheek&sid=24&dts=1793193090052&sig=dcaa5df40efb8ae95513c24006965327ef65ef79f213ed82cb80bcaf875ddce7&width=320" alt="Omslag van 'In jouw voetsporen'" title="Omslag van 'In jouw voetsporen'">
-<p>'In jouw voetsporen' is een meeslepende roman over liefde, moederschap en opnieuw beginnen, perfect voor fans van Jojo Moyes en Jenny Colgan.  Wanneer Magnolia Jones het reisdagboek van haar overleden dochter vindt, kan ze zich geen betere manier voorstellen om haar leven te eren dan de reis te maken waarvan de drieëntwintigjarige Brontë altijd had gedroomd. Het had Brontë's avontuur moeten zijn, maar misschien is het volgen van de voetsporen van haar dochter over de hele wereld precies wat Magnolia nodig heeft om haar gebroken hart bijeen te rapen en te beginnen met helen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Cathy Bramley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valse waarheden]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461944677/valse-waarheden-josje-weusten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461944677/valse-waarheden-josje-weusten"/>
-        <updated>2026-10-26T13:46:19.853Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461944677?aid=kb-online-bibliotheek&sid=24&dts=1793022379288&sig=6c32c35a433d1cb3c9883bf255b5cba54a47577911d756fc629f684dfc3fbdcb&width=320" alt="Omslag van 'Valse waarheden'" title="Omslag van 'Valse waarheden'">
-<p>Wanneer een nepvideo de reputatie van een filmproducer vernietigt, raakt een filmstudent verstrikt in een web van schuld en zwijgen. Twintig jaar later heeft de samenleving desinformatie uitgebannen en fictie verboden, maar het verlangen naar verbeelding laat zich niet onderdrukken.</p>]]></content>
-        <author>
-            <name>Josje Weusten</name>
         </author>
     </entry>
 </feed>
