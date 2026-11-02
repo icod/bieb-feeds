@@ -2,11 +2,331 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-11-01T13:57:12.249Z</updated>
+    <updated>2026-11-02T16:43:15.420Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Iron Flame]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166481/iron-flame-rebecca-yarros</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166481/iron-flame-rebecca-yarros"/>
+        <updated>2026-11-02T16:43:09.990Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166481?aid=kb-online-bibliotheek&sid=24&dts=1793637298592&sig=99cb36b67be1e1030d7a295c097336b05f62d049bcfd517ca6c6e1b1f359b503&width=320" alt="Omslag van 'Iron Flame'" title="Omslag van 'Iron Flame'">
+<p>Everyone expected Violet Sorrengail to die during her first year at Basgiath War College—Violet included. But Threshing was only the first impossible test meant to weed out the weak-willed, the unworthy, and the unlucky. Now the real training begins, and Violet's wondering how she'll get through it. It's not just that it's grueling and maliciously brutal, or even that it's designed to stretch the riders' capacity for pain beyond endurance. It's the new vice commandant, who's made it his personal mission to teach Violet exactly how powerless she is—unless she betrays the man she loves.Although Violet's body is weaker and frailer than everyone else's, she has her wits—and a will of iron. Leadership forgets the most important lesson Basgiath taught her: Dragon riders make their own rules. But determination to survive won't be enough this year, because Violet knows the secret hidden for centuries at Basgiath War College—and nothing, not even dragon fire, may be enough to save them in the end. 'Iron Flame' is het second book in the bestselling Empyrean series by Rebecca Yarros. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Rebecca Yarros</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourth Wing]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166511/fourth-wing-rebecca-yarros</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166511/fourth-wing-rebecca-yarros"/>
+        <updated>2026-11-02T16:43:10.156Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166511?aid=kb-online-bibliotheek&sid=24&dts=1793636046602&sig=c348388b7fcf6c991ab1c848d51ef66d39abfe1b47cd4713f2167136f6ad4382&width=320" alt="Omslag van 'Fourth Wing'" title="Omslag van 'Fourth Wing'">
+<p>Enter the brutal and elite world of a war college for dragon riders from #1 New York Times bestselling author Rebecca Yarros. 'Fourth Wing' is the first book in the bestselling Empyrean series. Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general―also known as her tough-as-talons mother―has ordered Violet to join the hundreds of candidates striving to become the elite of Navarre: dragon riders. But when you're smaller than everyone else and your body is brittle, death is only a heartbeat away...because dragons don't bond to “fragile” humans. They incinerate them. With fewer dragons willing to bond than cadets, most would kill Violet to better their own chances of success. The rest would kill her just for being her mother's daughter―like Xaden Riorson, the most powerful and ruthless wingleader in the Riders Quadrant. She'll need every edge her wits can give her just to see the next sunrise. Yet, with every day that passes, the war outside grows more deadly, the kingdom's protective wards are failing, and the death toll continues to rise. Even worse, Violet begins to suspect leadership is hiding a terrible secret. Friends, enemies, lovers. Everyone at Basgiath War College has an agenda―because once you enter, there are only two ways out: graduate or die. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Rebecca Yarros</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onyx Storm]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166554/onyx-storm-rebecca-yarros</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166554/onyx-storm-rebecca-yarros"/>
+        <updated>2026-11-02T16:43:10.315Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166554?aid=kb-online-bibliotheek&sid=24&dts=1793633588594&sig=bc557baebd336669f02737f958900cd2335bbee00366fec1b6570fb2733bf443&width=320" alt="Omslag van 'Onyx Storm'" title="Omslag van 'Onyx Storm'">
+<p>After nearly eighteen months at Basgiath War College, Violet Sorrengail knows there's no more time for lessons. No more time for uncertainty. Because the battle has truly begun, and with enemies closing in from outside their walls and within their ranks, it's impossible to know who to trust. Now Violet must journey beyond the failing Aretian wards to seek allies from unfamiliar lands to stand with Navarre. The trip will test every bit of her wit, luck, and strength, but she will do anything to save what she loves—her dragons, her family, her home, and him. Even if it means keeping a secret so big, it could destroy everything. They need an army. They need power. They need magic. And they need the one thing only Violet can find—the truth. But a storm is coming...and not everyone can survive its wrath. 'Onyx Storm' is the third book in the popular Empyrean series by bestselling author Rebecca Yarros. It continues the story of 'Fourth Wing' and 'Iron Flame'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Rebecca Yarros</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miss Merkel en de moord onder de kerstboom]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166627/miss-merkel-en-de-moord-onder-de-kerstboom-david-safier</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166627/miss-merkel-en-de-moord-onder-de-kerstboom-david-safier"/>
+        <updated>2026-11-02T16:43:10.511Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166627?aid=kb-online-bibliotheek&sid=24&dts=1793634538958&sig=b9ef4b5cd8fd216e5e4d5388675ead5841e846c70a54753fa093db3551c763f0&width=320" alt="Omslag van 'Miss Merkel en de moord onder de kerstboom'" title="Omslag van 'Miss Merkel en de moord onder de kerstboom'">
+<p>Deel 5 in de Miss Merkel-serie. Een dode kerstman in de schoorsteen is wel het laatste wat je op kerstavond wilt aantreffen. Maar precies dat overkomt Miss Merkel wanneer ze na een vakantie met haar man thuiskomt in hun knusse vakwerkhuis in de Uckermark. De man blijkt een professioneel ingehuurde Santa, en al snel richt de verdenking zich op vier concurrerende kerstmannen en -vrouwen die in het dorp actief zijn. Eén van hen is er zelfs heilig van overtuigd dat hij de échte Kerstman is. Terwijl het idyllische stadje in rep en roer raakt, probeert Miss Merkel met haar kenmerkende nuchterheid en scherpzinnigheid te ontrafelen wie er achter de moord zit. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>David Safier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het eiland tussen jou en mij]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166570/het-eiland-tussen-jou-en-mij-beth-moran</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166570/het-eiland-tussen-jou-en-mij-beth-moran"/>
+        <updated>2026-11-02T16:43:10.784Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166570?aid=kb-online-bibliotheek&sid=24&dts=1793637790591&sig=e8ab4d4734dfc707b8aa17b2d2342081e2a430c9c35dfa2a5c41aaf4373ce423&width=320" alt="Omslag van 'Het eiland tussen jou en mij'" title="Omslag van 'Het eiland tussen jou en mij'">
+<p>Een geadopteerde vrouw ontdekt mysterieuze brieven die haar moeder voor haar achterhield. De brieven leiden haar naar Ierland, waar ze vriendschap sluit met een lokale familie. Wanneer ze ontdekt wie de afzender is, komt haar wereld op zijn kop te staan.</p>]]></content>
+        <author>
+            <name>Beth Moran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloedserieus]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166309/bloedserieus-ruud-van-der-meer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166309/bloedserieus-ruud-van-der-meer"/>
+        <updated>2026-11-02T16:43:10.942Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166309?aid=kb-online-bibliotheek&sid=24&dts=1793633368761&sig=349aa867a69fa6aa484efb5f3d2071be4c564aebd90d8f7a09b1c07fe213724d&width=320" alt="Omslag van 'Bloedserieus'" title="Omslag van 'Bloedserieus'">
+<p>Het vuurwerk was compleet. Luna dook weer onder water en maakte dat ze zo snel mogelijk weg van het brandende schip kwam. Terwijl ze nog onder water zwom, hoorde en voelde ze het rommelende geluid dat ze een paar uur eerder ook al gehoord had. Er vond een explosie plaats op de Swan. Dit was het tweede bruikbare zeiljacht dat binnen enkele uren tot wrakhout werd gedegradeerd. Het witte zandstrand is absoluut ansichtkaartwaardig. Precies de plek waar je als Noors meisje van droomt, lekker chillen met twee jongens, alle dagen zon en blauwe zee. Maar naar huis gaan zit er niet in, ongewild wordt het een enkele reis. Hoe houd je jezelf in leven? Wat eet je, waar slaap je? Hoe zijn de verhoudingen? Een tropisch paradijs? Of een gevangenis? Hoe komen ze ooit weer in de bewoonde wereld? Luna, Mike en Pieter gaan zwaar buiten hun comfortzone. In razend tempo komen de gebeurtenissen op hen af. Bloedserieus is een verhaal over overleven, maar ook over leven. Hoe drie jonge mensen het er het beste van proberen te maken op een afgelegen, onbewoond eiland in de Stille Oceaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ruud van der Meer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luisteren]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166546/luisteren-ben-de-la-mar</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166546/luisteren-ben-de-la-mar"/>
+        <updated>2026-11-02T16:43:11.219Z</updated>
+        <summary type="html"><![CDATA[Klein kompas voor meer verbinding]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166546?aid=kb-online-bibliotheek&sid=24&dts=1793637791022&sig=2bf64594b8c1d8540645b135d9c3f4fb5b26d01df22d9d5de24a3e2d1096dfc9&width=320" alt="Omslag van 'Luisteren'" title="Omslag van 'Luisteren'">
+<p>Gids over het belang van luisteren voor open en betekenisvolle communicatie. Met zwart-witillustraties.</p>]]></content>
+        <author>
+            <name>Ben de la Mar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let it Snow]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166376/let-it-snow-beth-moran</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166376/let-it-snow-beth-moran"/>
+        <updated>2026-11-02T16:43:11.382Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166376?aid=kb-online-bibliotheek&sid=24&dts=1793634686005&sig=78b6d55f7e14a63a0f4280ee98c3136372384e677b12f264eeb121f8bb06a308&width=320" alt="Omslag van 'Let it Snow'" title="Omslag van 'Let it Snow'">
+<p>Na het verbreken van haar relatie vlak voor de feestdagen moet een vrouw ze noodgedwongen bij familie doorbrengen. Wanneer ze uitgenodigd wordt voor een sollicitatiegesprek voor haar droombaan, moet ze het winterweer trotseren in een autorit met de man aan wie haar ouders haar willen koppelen.</p>]]></content>
+        <author>
+            <name>Beth Moran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shiko]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166457/shiko-shigehiko-toyama</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166457/shiko-shigehiko-toyama"/>
+        <updated>2026-11-02T16:43:11.540Z</updated>
+        <summary type="html"><![CDATA[De Japanse kunst van helder denken]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166457?aid=kb-online-bibliotheek&sid=24&dts=1793635328534&sig=38f789408d9a1f479dacc30e4b7ee694557111f4ad038c32de915d56a94523b0&width=320" alt="Omslag van 'Shiko'" title="Omslag van 'Shiko'">
+<p>Filosofische gids over de kunst van helder denken, waarbij afstand, selectief vergeten en het laten rijpen van ideeën centraal staan als tegenwicht voor de dagelijkse informatieovervloed.</p>]]></content>
+        <author>
+            <name>Shigehiko Toyama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De geur van kerst]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166473/de-geur-van-kerst-dineke-epping</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166473/de-geur-van-kerst-dineke-epping"/>
+        <updated>2026-11-02T16:43:11.693Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166473?aid=kb-online-bibliotheek&sid=24&dts=1793634739053&sig=fd7282109bc0b5a1bc0cafac958da4f3112bbda7b8b26ae3c6fd83d985d98705&width=320" alt="Omslag van 'De geur van kerst'" title="Omslag van 'De geur van kerst'">
+<p>'Hopen op een wonder' van Dineke Epping en Carrie Turansky is een sfeervolle kerstbundel met twee romantische verhalen vol winterse charme en hoop. Met een warme, beeldende en toegankelijke stijl nemen de auteurs je mee naar het victoriaanse Engeland. Hier vormen elegante diners bij kaarslicht, betoverende baljurken en besneeuwde straten het decor voor liefde en een nieuw begin. In beide verhalen staat een moedige vrouw centraal die haar eigen weg zoekt, ondanks sociale verwachtingen, standsverschillen en lichamelijke beperkingen. Terwijl ze leert vasthouden aan haar dromen, maakt het wonder van kerst de weg vrij voor verandering. Een hartverwarmende leeservaring voor wie houdt van romantische victoriaanse verhalen met kastelen, kamermeisjes en een hoopvolle kerstsfeer. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Dineke Epping</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nooit te laat voor kerst]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166597/nooit-te-laat-voor-kerst-saskia-m-n--oudshoorn</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166597/nooit-te-laat-voor-kerst-saskia-m-n--oudshoorn"/>
+        <updated>2026-11-02T16:43:11.835Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166597?aid=kb-online-bibliotheek&sid=24&dts=1793633981099&sig=e0b2123976b93e40b527411642c4c0a88bd1670eb015c15820d8476e4fc3974b&width=320" alt="Omslag van 'Nooit te laat voor kerst'" title="Omslag van 'Nooit te laat voor kerst'">
+<p>Een vrouw reist voor haar werk naar een Brits dorpje, waar ze even afstand kan nemen van haar moeizame relatie. Daar slaat de vonk over met een charmante hoteleigenaar. Terwijl Fenwick Hollow wordt bedekt met een dikke laag sneeuw, groeien de warme gevoelens. Durven ze hun hart te volgen?</p>]]></content>
+        <author>
+            <name>Saskia M.N. Oudshoorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De grondleggers]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166368/de-grondleggers-daniel-paarlberg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166368/de-grondleggers-daniel-paarlberg"/>
+        <updated>2026-11-02T16:43:12.035Z</updated>
+        <summary type="html"><![CDATA[Het onwaarschijnlijke verhaal van Nederland]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166368?aid=kb-online-bibliotheek&sid=24&dts=1793635236301&sig=48ba7314730dd2498167e8a864a232b290f73d5227ea7fd27f4a6841ae9e1c6e&width=320" alt="Omslag van 'De grondleggers'" title="Omslag van 'De grondleggers'">
+<p>Sociaaleconomische geschiedenis van de wording van de Nederlandse samenleving tussen het jaar 1000 en 1600, met parallellen naar hedendaagse maatschappelijke vraagstukken en de toekomst. Met kaarten in zwart-wit.</p>]]></content>
+        <author>
+            <name>Daniel Paarlberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dromen van morgen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46216666X/dromen-van-morgen-linda-winterberg</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46216666X/dromen-van-morgen-linda-winterberg"/>
+        <updated>2026-11-02T16:43:12.198Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46216666X?aid=kb-online-bibliotheek&sid=24&dts=1793635033383&sig=fd334abb70a8708706c4f93fbf07631495ed67d86db0248deb85aab549035a4b&width=320" alt="Omslag van 'Dromen van morgen'" title="Omslag van 'Dromen van morgen'">
+<p>Berlijn, 1917. Drie jonge vrouwen ontmoeten elkaar op een vroedvrouwenopleiding en raken bevriend door hun gemeenschappelijk verlangen naar vrijheid. Terwijl de oorlog voortduurt, staan ze vrouwen bij op belangrijke momenten in hun leven.</p>]]></content>
+        <author>
+            <name>Linda Winterberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onder de sterren van Silverlake]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166643/onder-de-sterren-van-silverlake-ellen-rink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166643/onder-de-sterren-van-silverlake-ellen-rink"/>
+        <updated>2026-11-02T16:43:12.391Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166643?aid=kb-online-bibliotheek&sid=24&dts=1793636170775&sig=db85ed17fd361a1379dfd52c42e32a32153be7daa9d2f76ed689b810044a32b0&width=320" alt="Omslag van 'Onder de sterren van Silverlake'" title="Omslag van 'Onder de sterren van Silverlake'">
+<p>Boek 3 in de serie Blossom Valley.  De herfst doet zijn intrede en brengt een seizoen vol nieuwe plannen, onverwachte wendingen en dierbare momenten voor Isabelle, Vince, Quinn en de rest van de bewoners van Silverlake. Terwijl de dagen korter worden en iedereen op de Blossom Valley Ranch langzaam toeleeft naar de kerstperiode, wordt opnieuw duidelijk dat het leven en werken in de ruige Canadese natuur soms om moed en veerkracht vraagt. Wanneer de hechte gemeenschap ook nog een groot verlies moet verwerken, blijkt eens te meer hoe sterk de kracht van liefde, familie en vriendschap is. En terwijl Silverlake zich hult in winterse sferen en kerst steeds dichterbij komt, maken de inwoners zich op voor een feestelijke dag waarop de liefde meer dan ooit centraal staat. Heerlijke feelgood / cowboy romance voor fans van Virgin River. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ellen Rink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strandfeestbundel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166651/strandfeestbundel-anne-west---anja-janssen---paula-heeger</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166651/strandfeestbundel-anne-west---anja-janssen---paula-heeger"/>
+        <updated>2026-11-02T16:43:12.566Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166651?aid=kb-online-bibliotheek&sid=24&dts=1793633290249&sig=ec6b09c838eaf3176261330ee50111dc18c22f05b0f320ad2be1b6c8d3260fa0&width=320" alt="Omslag van 'Strandfeestbundel'" title="Omslag van 'Strandfeestbundel'">
+<p>'Strandfeest' van Anne West, Anja Janssen en Paula Heeger is een zomerse bundel met drie heerlijke verhalen. Vertrek in 'De kleine theetuin in de duinen' met nichtjes Rosa en Fleur naar de Texelse duinen, run in 'Bikini's & kites' met Bo haar bikinishop op het Zeeuwse strand en logeer in 'Volgeboekt' met Felicia in een B&B vol boeken op Terschelling. Familiebanden groeien in de duinen en liefde bloeit langs de zee. Drie ultieme feelgoodromans om op het strand te verslinden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Anne West</name>
+        </author>
+        <author>
+            <name>Anja Janssen</name>
+        </author>
+        <author>
+            <name>Paula Heeger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europa: code rood]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166414/europa--code-rood-james-ponti</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166414/europa--code-rood-james-ponti"/>
+        <updated>2026-11-02T16:43:12.818Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166414?aid=kb-online-bibliotheek&sid=24&dts=1793637792646&sig=9c28cef68d96ddaa77088433dcd5ac235320752c2e53379b5e08120c703a737e&width=320" alt="Omslag van 'Europa: code rood'" title="Omslag van 'Europa: code rood'">
+<p>Sydney en haar spionnenteam moeten bomaanslagen in Europa voorkomen. Maar terwijl ze hun missie uitvoeren, groeit Sydney's twijfel over wie ze nog kan vertrouwen. Met zwart-witillustraties. Vanaf ca. 10 jaar.</p>]]></content>
+        <author>
+            <name>James Ponti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De tipgever]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166325/de-tipgever-martin-jagt</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166325/de-tipgever-martin-jagt"/>
+        <updated>2026-11-02T16:43:12.983Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166325?aid=kb-online-bibliotheek&sid=24&dts=1793633358195&sig=3b61f8979a70e070756097385624a75bf13f63ca87716d737cec10af3d29b83c&width=320" alt="Omslag van 'De tipgever'" title="Omslag van 'De tipgever'">
+<p>Het is 1980. Rudie Traube wordt tijdens zijn bezoek aan een café geconfronteerd met het overlijden van mevrouw Brennholz. Opmerkelijk daaraan is, dat ze de moeder was van Susanne, de jonge vrouw die ruim vijfentwintig jaar daarvoor is vermoord in Wiesbaden, in datzelfde café. Traube krijgt opdracht, die oude moordzaak te onderzoeken, maar ziet steeds ook een verband met het overlijden van de moeder. Mevrouw Brennholz had kort daarvoor te kennen gegeven dat ze wist wie haar dochter had vermoord. Traube merkt tijdens zijn onderzoek, dat diverse mensen uit de directe kring van de vrouwen zenuwachtig zijn geworden. Op wie doelde mevrouw Brennholz? En wat is de link met de Tweede Wereldoorlog? Wie stonden er op de foto die Traube in handen had gekregen? Samen met zijn geliefde Anna komt Traube voor een ingewikkelde puzzel te staan. De uitkomst had hij in de verste verte niet kunnen bedenken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Martin Jagt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herfstwolk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166600/herfstwolk-wendy-louise</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166600/herfstwolk-wendy-louise"/>
+        <updated>2026-11-02T16:43:13.259Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166600?aid=kb-online-bibliotheek&sid=24&dts=1793637793070&sig=c07b53862d55284718dfc962e92cea8c189c0586d6ba368ed53d3c8fdab370d7&width=320" alt="Omslag van 'Herfstwolk'" title="Omslag van 'Herfstwolk'">
+<p>Op veler verzoek: een vierde deel van Wendy Louise's Seizoenenserie. Te beluisteren als stand alone of als vervolg op de eerdere drie delen. Soms moet de toekomst verdwijnen om te ontdekken wat je écht wilt Nadat haar toekomstbeeld op Mallorca faliekant is ingestort, vertrekt Loe Hennes naar Fuerteventura. Samen met haar collega-animadores redt ze hotel Ocho Islas van een herfst zonder vertier. Zal het mysterieuze Canarische eiland op haar beurt Loe belonen met nieuwe inzichten en geluk? Of blijft haar hart zo zwart als de lava die het eiland bedekt? Na een lang weekend in Modena, op uitnodiging van Chef Massimo en zijn vrouw Lara, bereiken Loe, Tess, Joe en Mel het eiland. Hun enthousiasme bekoelt flink als blijkt dat de gasten van Ocho Islas voornamelijk bejaard zijn. Geen kinderen, geen actieve sporten: sla de bingokaarten maar in! Deze club bejaarden blijkt echter allesbehalve suf. Door hun middelbareschool-praktijken lijkt Ocho Islas meer op de set van een soapserie dan een bejaardenhotel. Temidden van alle chaos en liefdesperikelen bouwt Loe een mooie vriendschap op met de tachtigjarige Bernd. Maar waarom voelt hij toch zo vertrouwd? Laat de Geriatrie Gang de donkere Herfstwolk boven haar hoofd verdwijnen? Vindt Joe eindelijk de weg naar Loe's hart, slaagt die oude bekende erin haar terug te winnen of wordt het toch Enrique Iglesias? Laat je nog een keer meevoeren door het Canarische briesje, samen met jouw favoriete Happymoon animadores, naar een onvergetelijk slotakkoord op kerstavond. Een warm verhaal over verdriet, hoop en vriendschap tussen alle leeftijden. "Wegdromen met een lach op je gezicht. Wat een mooie mix van humor, romantiek en emoties" - Gillian King (auteur) over de Seizoenenserie "De humor spat van de pagina's" - NBD Biblion over de Seizoenenserie "Eén van de weinige boekenseries die ik echt top vond" - Aranka op Storytel Over Wendy Louise: Wendy Louise groeide op in Amsterdam en Spanje. Deze achtergrond vormt de ingrediënten van haar smeuïge schrijfstijl. Hollandse nuchterheid wordt op smaak gebracht met Spaanse passie, een goede scheut humor en een vleugje Mediterraan sentiment. Op dit moment woont Wendy Louise op het Canarische eiland Lanzarote, waar ze haar boeken schrijft en Spaanse themareizen organiseert. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Wendy Louise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De name game]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166384/de-name-game-beth-o-leary</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166384/de-name-game-beth-o-leary"/>
+        <updated>2026-11-02T16:43:13.416Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166384?aid=kb-online-bibliotheek&sid=24&dts=1793635080805&sig=8b6843850748815f904ba42ce9c3f37be1c4f22e9fe23e087b9aff8f8758b500&width=320" alt="Omslag van 'De name game'" title="Omslag van 'De name game'">
+<p>Een 500 inwoners tellende eiland verwacht een nieuwe bewoner, maar het blijkt dat er twee mensen met dezelfde naam op het eiland aankomen om aan hun nieuwe leven te beginnen. Twee Charlies zijn op zoek naar een frisse start en zien de boerderijwinkel als de perfecte kans.</p>]]></content>
+        <author>
+            <name>Beth O'Leary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een verloren meisje in Parijs]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166678/een-verloren-meisje-in-parijs-diney-costeloe</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166678/een-verloren-meisje-in-parijs-diney-costeloe"/>
+        <updated>2026-11-02T16:43:13.575Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166678?aid=kb-online-bibliotheek&sid=24&dts=1793634518273&sig=34023b21b1680da470574f468ec45e95109b5054294510b2ceb402a5ee177f14&width=320" alt="Omslag van 'Een verloren meisje in Parijs'" title="Omslag van 'Een verloren meisje in Parijs'">
+<p>In de chaos van het Parijs van 1871 door de gruwelen van oorlog en van de Commune raakt een meisje gescheiden van de rest van haar familie en moet ze zelf zien te overleven.</p>]]></content>
+        <author>
+            <name>Diney Costeloe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boeket haken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166465/boeket-haken-sascha-blase-van-wagtendonk</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166465/boeket-haken-sascha-blase-van-wagtendonk"/>
+        <updated>2026-11-02T16:43:13.772Z</updated>
+        <summary type="html"><![CDATA[Van basissteek tot vaas vol bloemen]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166465?aid=kb-online-bibliotheek&sid=24&dts=1793635939286&sig=7f615937c39967bdc61091b5d3d9b7ac8c9e4ee1cf562536ec7e0fb3788a6b79&width=320" alt="Omslag van 'Boeket haken'" title="Omslag van 'Boeket haken'">
+<p>Fleurig haakboek met patronen voor prachtige bloemen van haakkoningin Sascha Blase-Van Wagtendonk. Haak een kleurrijk boeket à la Sascha!</p>]]></content>
+        <author>
+            <name>Sascha Blase-Van Wagtendonk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De laatste zomer vol kikkervisjes]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166430/de-laatste-zomer-vol-kikkervisjes-catherine-bruton</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166430/de-laatste-zomer-vol-kikkervisjes-catherine-bruton"/>
+        <updated>2026-11-02T16:43:13.971Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166430?aid=kb-online-bibliotheek&sid=24&dts=1793634060248&sig=2e87386a5b947631850970c57c546624641113d19fb1090c3d2e0a468b9493bc&width=320" alt="Omslag van 'De laatste zomer vol kikkervisjes'" title="Omslag van 'De laatste zomer vol kikkervisjes'">
+<p>Als het broertje van Kristel naar het ziekenhuis moet, veranderen er veel dingen. Zullen ze ooit nog samen het kikkerdril kunnen zien uitgroeien tot kikkervisjes? Vanaf ca. 10 jaar.</p>]]></content>
+        <author>
+            <name>Catherine Bruton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter vol belofte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166503/winter-vol-belofte-janice-bakker</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166503/winter-vol-belofte-janice-bakker"/>
+        <updated>2026-11-02T16:43:14.168Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166503?aid=kb-online-bibliotheek&sid=24&dts=1793633510279&sig=4ed246843b7bbbb4d77aa9618f6c178886a3985fb0abd464c936969ed209a2e4&width=320" alt="Omslag van 'Winter vol belofte'" title="Omslag van 'Winter vol belofte'">
+<p>Na het succes van Kerst Inn 1 kon een vervolg niet uitblijven...  De succesvolle missie van Charlie in het bergdorp Lichterwald werpt zijn vruchten af: het toerisme bloeit op en Vivid Voyages, de travelagency die ze samen met vriendin Milou runt, heeft meer opdrachten dan ooit. Voor Milou komt die drukte als geroepen. Na een pijnlijke breuk met Daan neemt ze een opdracht in het Duitse Frosttal aan en reist daarna door naar Lichterwald. Daar treft ze een heel andere sfeer aan dan verwacht. De verbouwing van Steins restaurant loopt uit, de spanningen nemen toe en Charlie lijkt zichzelf steeds verder weg te cijferen. Milou besluit te blijven en te helpen. Ze vindt haar draai in de B&B én raakt geïntrigeerd door Archie, een mysterieuze gast die haar aandacht trekt op een moment dat ze daar totaal niet op zit te wachten. Terwijl de kerstdagen dichterbij komen, worden relaties op de proef gesteld en komen geheimen aan het licht. Lukt het Charlie en Milou om alles wat hun lief is bij elkaar te houden?  Kerst Inn - Winter vol beloftes  is een warme, romantische kerstroman over vriendschap, nieuwe kansen en liefde die zich niet laat plannen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Janice Bakker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een Victoriaans kerstdiner]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166619/een-victoriaans-kerstdiner-carrie-turansky</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166619/een-victoriaans-kerstdiner-carrie-turansky"/>
+        <updated>2026-11-02T16:43:14.330Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166619?aid=kb-online-bibliotheek&sid=24&dts=1793636135726&sig=bd872aeff18a6696ce9bdd9c24b94fb74dd0a8c51b00cd985efa09b5e944181c&width=320" alt="Omslag van 'Een Victoriaans kerstdiner'" title="Omslag van 'Een Victoriaans kerstdiner'">
+<p>'Hopen op een wonder' van Dineke Epping en Carrie Turansky is een sfeervolle kerstbundel met twee romantische verhalen vol winterse charme en hoop. Met een warme, beeldende en toegankelijke stijl nemen de auteurs je mee naar het victoriaanse Engeland. Hier vormen elegante diners bij kaarslicht, betoverende baljurken en besneeuwde straten het decor voor liefde en een nieuw begin. In beide verhalen staat een moedige vrouw centraal die haar eigen weg zoekt, ondanks sociale verwachtingen, standsverschillen en lichamelijke beperkingen. Terwijl ze leert vasthouden aan haar dromen, maakt het wonder van kerst de weg vrij voor verandering. Een hartverwarmende leeservaring voor wie houdt van romantische victoriaanse verhalen met kastelen, kamermeisjes en een hoopvolle kerstsfeer. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Carrie Turansky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloedgevaarlijk]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166317/bloedgevaarlijk-ruud-van-der-meer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166317/bloedgevaarlijk-ruud-van-der-meer"/>
+        <updated>2026-11-02T16:43:14.489Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166317?aid=kb-online-bibliotheek&sid=24&dts=1793636928305&sig=00e0b0cadd734f54a7223617ad987d6eaa4f447cb852b4f8cba9e6ae41d24d2c&width=320" alt="Omslag van 'Bloedgevaarlijk'" title="Omslag van 'Bloedgevaarlijk'">
+<p>Luna Wicklund lijkt de ellende aan te trekken. Zesentwintig jaar oud, journalist en moeder. Ze heeft een groot schuldgevoel over wat er twee jaar geleden is gebeurd, tijdens haar avonturen in de Stille Zuidzee. Haar psychiater gelooft in reïncarnatie en denkt dat het iets te maken heeft met wat er in een vorig leven heeft plaatsgevonden. In haar DNA zitten sporen van een hard en gewelddadig leven in een ander tijdperk. Luna wordt op sleeptouw genomen door twee ex-leden van de SAS en een Hollander die een beroep doet op haar geweten. Ze wordt met steeds meer dingen geconfronteerd die de theorie van haar psychiater lijken te bevestigen. Simultaan aan haar avonturen staan de belevenissen van haar zus Kajsa. Luna is het softe type. Kajsa is de rauwdouwer van de twee: eerst slaan, dan pas praten. Kajsa gaat werken voor een bedrijf dat bizarre en gevaarlijke klussen opknapt. In Nieuw-Zeeland komen alle losse draden bij elkaar. Luna wordt in een storm van gebeurtenissen meegesleept. Gaat ze nog een keer de trekker overhalen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ruud van der Meer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klik]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/46216649X/klik-reinier-sonneveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/46216649X/klik-reinier-sonneveld"/>
+        <updated>2026-11-02T16:43:15.083Z</updated>
+        <summary type="html"><![CDATA[Betere gesprekken, dieper contact]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46216649X?aid=kb-online-bibliotheek&sid=24&dts=1793637794650&sig=6f1a0995247d22730a4c9ab86b68765489656e8450f6838aaa1dd0f3432e43b5&width=320" alt="Omslag van 'Klik'" title="Omslag van 'Klik'">
+<p>Gids met gesprekstechnieken voor het versterken van menselijke verbinding, met concrete adviezen voor het verdiepen van contact, omgaan met meningsverschillen en het bijstaan van anderen in moeilijke situaties. Met zwart-witillustraties.</p>]]></content>
+        <author>
+            <name>Reinier Sonneveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een bijzonder ongepast verlangen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166392/een-bijzonder-ongepast-verlangen-mimi-matthews</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166392/een-bijzonder-ongepast-verlangen-mimi-matthews"/>
+        <updated>2026-11-02T16:43:15.239Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166392?aid=kb-online-bibliotheek&sid=24&dts=1793633932326&sig=f458b6eaf233462a97e018421c82b2da211b398a43cb60a7227f2e67dff8e481&width=320" alt="Omslag van 'Een bijzonder ongepast verlangen'" title="Omslag van 'Een bijzonder ongepast verlangen'">
+<p>Historische man over een gezelschapsdame die met een bescheiden toelage naar India reist om een verdwijning te onderzoeken. Haar advocaat besluit om haar gezelschap te houden. Niet in de laatste plaats omdat hij gevoelens voor haar koestert ...</p>]]></content>
+        <author>
+            <name>Mimi Matthews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wat als we niet alleen zijn?]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462166538/wat-als-we-niet-alleen-zijn--ruben-van-wingerden</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462166538/wat-als-we-niet-alleen-zijn--ruben-van-wingerden"/>
+        <updated>2026-11-02T16:43:15.418Z</updated>
+        <summary type="html"><![CDATA[Twintig verhalen over geloof en kosmos]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166538?aid=kb-online-bibliotheek&sid=24&dts=1793635943739&sig=4e079f4032ee624fba2ee808e0aaa8cbba07f389576e5feb4aa77e7a1ab98d48&width=320" alt="Omslag van 'Wat als we niet alleen zijn?'" title="Omslag van 'Wat als we niet alleen zijn?'">
+<p>Twintig korte verhalen als theologisch denkexperiment op het snijvlak van geloof en wetenschap, met als centrale vraag of buitenaards leven bestaat en of het verlossingswerk van Christus zich ook tot zulke wezens uitstrekt, gebaseerd op een vergeten christelijke kosmologische traditie.</p>]]></content>
+        <author>
+            <name>Ruben van Wingerden</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who's Watching Brussels?]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/442883293/who-s-watching-brussels--lise-witteman</id>
@@ -29,339 +349,6 @@
 <p>Achttien verslagen over financiële schandalen van 1609 tot 2022.</p>]]></content>
         <author>
             <name>Roel Janssen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De blauwe fabel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435088750/de-blauwe-fabel-ties-joosten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435088750/de-blauwe-fabel-ties-joosten"/>
-        <updated>2026-10-29T13:51:53.920Z</updated>
-        <summary type="html"><![CDATA[waarom we de KLM al een eeuw lang tegen elke prijs in de lucht houden]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435088750?aid=kb-online-bibliotheek&sid=24&dts=1793268751540&sig=9c0647a0c55e120426c542acb489067df73fe361fa70b7c42b18f55715b5ea38&width=320" alt="Omslag van 'De blauwe fabel'" title="Omslag van 'De blauwe fabel'">
-<p>Geen bedrijf maakt Nederlanders trotser dan de KLM. Onze koninklijke luchtvaartmaatschappij zou zelfs aan de basis staan van het succes van de BV Nederland. Maar op welke feiten is dat gebaseerd? In De blauwe fabel vertelt Ties Joosten aan de hand van minutieus historisch onderzoek en op basis van tientallen interviews met insiders hoe de KLM keer op keer profiteert van de Nederlandse liefde voor de zwaan. Of de KLM nu geraakt wordt door economische crises, een pandemie of door opkomend nationalisme: de overheid staat altijd klaar om haar met een grote zak geld te redden. Nu de klimaatcrisis de toekomstperspectieven van het luchtvaartbedrijf langzaam maar zeker doet vervagen, is het tijd om de oude zwaan recht in de ogen te kijken. Zijn we na honderd jaar nog altijd verblind door de liefde voor onze nationale trots? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ties Joosten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sywerts miljoenen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/435618784/sywerts-miljoenen-jan-hein-strop---stefan-vermeulen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/435618784/sywerts-miljoenen-jan-hein-strop---stefan-vermeulen"/>
-        <updated>2026-10-29T13:51:54.119Z</updated>
-        <summary type="html"><![CDATA[de jacht op het mondkapjesgoud]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435618784?aid=kb-online-bibliotheek&sid=24&dts=1793268751543&sig=34d455ba512efac1b9325689993d341a839a4ceb2427da7325f549e1cd2f5cf0&width=320" alt="Omslag van 'Sywerts miljoenen'" title="Omslag van 'Sywerts miljoenen'">
-<p>Journalistieke reconstructie van de ‘mondkapjes-affaire’, waarbij tijdens de coronacrisis door misleiding commercieel werd verdiend aan een deal die als non-profit was voorgesteld.</p>]]></content>
-        <author>
-            <name>Jan-Hein Strop</name>
-        </author>
-        <author>
-            <name>Stefan Vermeulen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het Heineken-losgeld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/440370515/het-heineken-losgeld-harry-lensink---wim-van-de-pol</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/440370515/het-heineken-losgeld-harry-lensink---wim-van-de-pol"/>
-        <updated>2026-10-29T13:51:54.500Z</updated>
-        <summary type="html"><![CDATA[Hoe de verdwenen miljoenen nog altijd rondspoken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A440370515?aid=kb-online-bibliotheek&sid=24&dts=1793269203845&sig=33376eb9aa244b685e4e12970372cc7bf8e243fda8d96df4bf6ab82636c48f8b&width=320" alt="Omslag van 'Het Heineken-losgeld'" title="Omslag van 'Het Heineken-losgeld'">
-<p>Waar is het nooit teruggevonden deel van het Heineken-losgeld gebleven? Veertig jaar na de ontvoering van Freddy Heineken houdt die vraag nog tal van mensen bezig. Zelfs de rechter komt er nu weer aan te pas. In 1983 werd 35 miljoen gulden losgeld betaald. Daarvan is 8 miljoen spoorloos: ontvoerders Willem Holleeder en Cor van Hout wisten dat veilig te stellen. Daarna dook dat geld in de wildste verhalen op. Het zou zijn begraven in de buurt van Parijs, gebruikt als financiering voor drugstransporten in Zuid-Amerika, belegd in prostitutiepanden in Alkmaar, besteed bij de aankoop van gokhallen en een sekstheater op de Wallen. Harry Lensink en Wim van de Pol proberen de route van die verloren 8 miljoen in kaart te brengen. Ze spraken Heineken-ontvoerder Jan Boellaard en Gerard Holleeder, de broer van Willem. Ze interviewden opsporingsambtenaren, stadsbestuurders en Wallen-ondernemers. Ook verdiepten ze zich in oude en nieuwe strafdossiers, waarbij ze op dubieuze internationale geldstromen en hulpvaardige facilitators stuitten. Ondertussen jaagt de overheid nog onvermoeibaar op de miljoenen en heeft dat geld geleid tot moorden, verbroken vriendschappen en familievetes. Met als grote vraag: waar is het nu? En waarom staat de eigenaar van twee Amsterdamse bedrijven opnieuw terecht voor het witwassen van dat verdomde Heineken-geld? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Harry Lensink</name>
-        </author>
-        <author>
-            <name>Wim van de Pol</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wie let er op Brussel?]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442756119/wie-let-er-op-brussel--lise-witteman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442756119/wie-let-er-op-brussel--lise-witteman"/>
-        <updated>2026-10-30T13:44:19.768Z</updated>
-        <summary type="html"><![CDATA[Waarom de EU betere waakhonden verdient]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442756119?aid=kb-online-bibliotheek&sid=24&dts=1793356671686&sig=766779e93ebc219e590289a18e9a4b0cd67d5c4895067c3aa4e932c4b3d942d9&width=320" alt="Omslag van 'Wie let er op Brussel?'" title="Omslag van 'Wie let er op Brussel?'">
-<p>Europese politici en ambtenaren komen met verbijsterend gemak weg met blunders, machtsmisbruik en zelfs corruptie. Hoe kan dat? En hoe houden we 'Brussel' in toom? Deze vragen zijn cruciaal voor de prille democratie die de Europese Unie is. Vooral nu in steeds meer lidstaten leiders aan de macht komen die weinig ophebben met democratische waarden. En de kloof tussen Europese burgers en de Brusselse bureaucratie is enorm. Wie zijn de waakhonden die de EU controleren? En hoe bieden zij tegenkracht aan die gesloten Brusselse macht? In dit boek onthult onderzoeksteam 'Bureau Brussel' van Follow the Money hoe de waakhonden op cruciale momenten machteloos vanuit hun hok toekeken. Wie let er op Brussel? is een hartstochtelijk pleidooi voor Europees toezicht met scherpe tanden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lise Witteman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twents Abecedarium]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442236557/twents-abecedarium-johan-buursink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442236557/twents-abecedarium-johan-buursink"/>
-        <updated>2026-10-30T13:44:19.975Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442236557?aid=kb-online-bibliotheek&sid=24&dts=1793361867270&sig=61e656f1930b628a944461a822b8168984e9630eea74a23e951e96a487a31c18&width=320" alt="Omslag van 'Twents Abecedarium'" title="Omslag van 'Twents Abecedarium'">
-<p>Johan Buursink (1908 - 1993) was een Twentse schrijver en voorvechter van de Twentse taal. Als onafhankelijke tekstschrijver moest Buursink rond zien te komen van zijn publicaties. Er is dan ook een flinke hoeveelheid werk van zijn hand beschikbaar. Om de Twentse taal als cultuurtaal vast te leggen en te behouden, schreef hij over allerlei mogelijke onderwerpen: gedichten, verhalen, toneelstukken en verhalen over mode en linnengoed. Volgens Collega-schrijver Gerard Vloedbeld was Buursink "van alle Twentse auteurs het meest literair en de beste prozaschrijver."</p><p>Voor de Twentse Courant schreef Buursink tussen 1963 en 1966 een vaste rubriek getiteld "Twents Abecedarium", waarin hij in alfabetische volgorde de Twentse taal behandelde, gelardeerd met voorbeelden, spreekwoorden en zegswijzen. Tesamen vormen deze artikelen een uniek naslagwerk van de Twentse taal.</p><p>De eerste serie van deze artikelen verschijnt met dit boek nu voor de eerste keer gebundeld in druk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Johan Buursink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptomanie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/442222270/cryptomanie-zeke-faux</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/442222270/cryptomanie-zeke-faux"/>
-        <updated>2026-10-30T13:44:20.181Z</updated>
-        <summary type="html"><![CDATA[De wilde wereld van de cryptomiljonairs]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A442222270?aid=kb-online-bibliotheek&sid=24&dts=1793355721024&sig=f290fc0e02ffa7d3ce1ef235809c5bd334986d499594c730e9062dda4e3b8174&width=320" alt="Omslag van 'Cryptomanie'" title="Omslag van 'Cryptomanie'">
-<p>In 2021 piekten de koersen van crypto's. Grote investeringsfondsen kochten ze en Paris Hilton maakte er reclame voor. Wie niet meedeed, was een loser. Onderzoeksjournalist Zeke Faux brengt de hype levendig in beeld: van de overmoedige beloftes over de rol die crypto 'binnenkort' in de financiële wereld zou spelen, tot mensen die in die droom geloofden en oplichters die misbruik maakten van die goedgelovigheid. Zijn grote vraag: voor wie zijn cryptomunten eigenlijk nuttig? Het antwoord is ontnuchterend: afpersers en bedriegers kunnen tegenwoordig niet meer zonder. Faux beschrijft dat criminele netwerk. In Cambodja verkent hij hoe de lokale maffia mensen vastzet in kampen, en hen dwingt mee te werken aan online oplichterij. Faux bezocht feesten, conferenties en jachten. Hij sprak de oprichters van succesvolle cryptobedrijven, gewone mensen die al hun geld verloren, en cryptomiljonairs die inmiddels failliet zijn, of in de gevangenis zijn beland. En vooral: hij trok geldsporen na - en was soms een beetje jaloers. Reacties: - 'Dit onstuimige, meesterlijk geschreven boek is zeer de moeite waard [..] De cast van buitenbeentjes en oplichters is enorm vermakelijk.' - The Washington Post - 'Combineert scherpe analyses en onverschrokken journalistiek met een vlotte pen.' - The Wall Street Journal - 'Een definitief verslag van het cryptofenomeen is er nog niet, maar Bloomberg-journalist Faux schetst een vermakelijke en ontnuchterende momentopname.' - Financial Times - '...een scherpzinnige, sceptische kijk op crypto.' - The New York Times - '...uitstekende beschrijving van de hoofdrolspelers en de hype rond crypto.' - The Verge - 'Het beste boek voor wie wil begrijpen waarom crypto instortte.' - Wired - 'Een van de meest toegankelijke - en grappigste - onderzoeken tot nu toe naar het falen van de crypto-economie [..]. Mis vooral de scène niet waarin Faux zijn vrouw overtuigt dat hij een NFT van 20.000 dollar moet kopen.' - The Globe and mail - 'Grappig, gekmakend, scherp en diepzinnig. Het wachten was op een echt goed cryptoboek en Faux heeft dat geschreven.' - Oliver Bullough, auteur van Moneyland </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Zeke Faux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geld genoeg, maar niet voor jou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46205540X/geld-genoeg--maar-niet-voor-jou-thomas-bollen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46205540X/geld-genoeg--maar-niet-voor-jou-thomas-bollen"/>
-        <updated>2026-11-01T13:57:03.076Z</updated>
-        <summary type="html"><![CDATA[Hoe heroveren we de macht over ons geld?]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46205540X?aid=kb-online-bibliotheek&sid=24&dts=1793536157875&sig=ea057cb9fb71a52c6b5291f17217bd828dae6b6829d633035256312aa25dcb2b&width=320" alt="Omslag van 'Geld genoeg, maar niet voor jou'" title="Omslag van 'Geld genoeg, maar niet voor jou'">
-<p>Dit boek laat je anders naar de euro's op je bankrekening kijken. Waarom kan de een ondanks hard werken en sparen geen woning betalen, terwijl de ander slapend rijk wordt van stijgende huizenprijzen? Waarom is er wel geld voor investeerders om zorginstellingen op te kopen en uit te kleden, en niet om de economie snel te verduurzamen? Om de grote problemen van nu op te lossen, moeten we het hebben over hoe ons geld écht werkt - en hoe het anders kan. Onderzoeksjournalist Thomas Bollen neemt je mee naar het internationale strijdtoneel van ons geld. Hier nemen burgerbewegingen, wetenschappers en oud-bankiers het op tegen de machtigste bedrijven ter wereld. Samen reizen we langs de goudkluizen en banktorens van de gevestigde financiële orde. We volgen hoe geld door de samenleving stroomt en ontrafelen hoe tech-miljardairs en cryptobedrijven met hun digitale munten stilletjes de macht overnemen. Als we niet ingrijpen, groeit de kloof tussen de superrijken en de rest. Geld genoeg, maar niet voor jou laat zien wat er nodig is om het tij te keren. Hoe heroveren we de macht over ons geld? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Thomas Bollen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wie betaalt, mag vervuilen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462055485/wie-betaalt--mag-vervuilen-ties-gijzel---mira-sys</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462055485/wie-betaalt--mag-vervuilen-ties-gijzel---mira-sys"/>
-        <updated>2026-11-01T13:57:03.927Z</updated>
-        <summary type="html"><![CDATA[Kunnen we ons uit de klimaatcrisis kopen?]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462055485?aid=kb-online-bibliotheek&sid=24&dts=1793541423198&sig=1da9646ec382eee9121e2b7bd91975ce271c182106ed96aff1a81cd159c77ad1&width=320" alt="Omslag van 'Wie betaalt, mag vervuilen'" title="Omslag van 'Wie betaalt, mag vervuilen'">
-<p>Ga je vliegen? Compenseer je schuldgevoel voor een paar euro! Stoot je fabriek veel broeikasgassen uit? Plant een bos! Heeft je bouwproject het leefgebied van koala's vernietigd? Creëer elders een fijne, nieuwe leefplek voor flamingo's! Welkom in de wereld van klimaatcompensatie. Door geld te steken in natuurprojecten, kunnen overheden, bedrijven en consumenten hun uitstoot 'wegstrepen', alsof die nooit heeft bestaan. Zo is er een lucratieve markt ontstaan waarop bomen en dieren worden verhandeld als financiële producten. Via de Zuidas en Wall Street gaan er honderden miljoenen euro's om in deze handel. Maar wie wordt hier nu echt beter van? Onderzoeksjournalisten Ties Gijzel en Mira Sys geven een onthullende inkijk in de compensatie-industrie. Ze spraken met financiële handelaren, ondernemers, milieu-onderzoekers en Inheemse gemeenschappen in wier leefgebied controversiële natuurprojecten plaatsvinden. Nu de Europese Unie en de Verenigde Naties het compensatie-idee steeds steviger omarmen en techbedrijven er de oplossing in zien voor hun energieslurpende AI, dringt de vraag zich op: kunnen we ons werkelijk uit de klimaatcrisis kopen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ties Gijzel</name>
-        </author>
-        <author>
-            <name>Mira Sys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onder ons]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/448220644/onder-ons-birte-schohaus---bas-van-beek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/448220644/onder-ons-birte-schohaus---bas-van-beek"/>
-        <updated>2026-10-30T13:44:20.388Z</updated>
-        <summary type="html"><![CDATA[Achter de schermen bij de genootschappen van de Nederlandse elite]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448220644?aid=kb-online-bibliotheek&sid=24&dts=1793360095882&sig=bca8ae3e46a5a458d05ed7c3659ad7d0d43cab9abdf06a907884df3a358d49cd&width=320" alt="Omslag van 'Onder ons'" title="Omslag van 'Onder ons'">
-<p>Wat hebben prins Bernhard, de ceo van Heineken en de minister van Financiën met elkaar gemeen? Ze ontmoeten elkaar in informele genootschappen met namen als De Pijp en De Tafelronde. Daar komt de economische, politieke en culturele elite van Nederland bijeen om te netwerken en om 'onder gelijken' te zijn. Alleen op uitnodiging mogen leden aanschuiven bij de etentjes. 'Onschuldig,' zeggen ze zelf, maar hoever reikt de invloed van deze maandelijkse onderonsjes? 'Onder ons' vertelt het verhaal van een verborgen wereld waarin politieke agenda's, industriële belangen en persoonlijke vriendschappen door elkaar lopen. Bas van Beek en Birte Schohaus bezochten privé-archieven, dineerden in kastelen en ploegden duizenden pagina's niet eerder geopenbaard archiefmateriaal door. Ze spraken met tientallen leden die voor het eerst openheid gaven over hun 'eetclubjes'. Hun jarenlange zoektocht voerde hen langs de opkomst van de arbeidersbeweging, de wederopbouw van Rotterdam en de oprichting van een nieuwe krant. Elke ontdekking voegt een puzzelstukje toe aan het fascinerende verhaal over vijf prominente Nederlandse genootschappen, maar roept ook steeds weer de vraag op: in hoeverre trekken deze 'herenclubs' nog aan de touwtjes in het Nederland van de eenentwintigste eeuw? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Birte Schohaus</name>
-        </author>
-        <author>
-            <name>Bas van Beek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het scharlaken paleis en De wolk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462055361/het-scharlaken-paleis-en-de-wolk-tanith-lee</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462055361/het-scharlaken-paleis-en-de-wolk-tanith-lee"/>
-        <updated>2026-11-01T13:57:04.595Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462055361?aid=kb-online-bibliotheek&sid=24&dts=1793440854149&sig=3797a09b056613435a5dd2e2d171562273ed2a4999ec172817e3642182f28d62&width=320" alt="Omslag van 'Het scharlaken paleis en De wolk'" title="Omslag van 'Het scharlaken paleis en De wolk'">
-<p>Niets is wat het lijkt in deze betoverde wereld. Het scharlaken paleis, De wolk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Tanith Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sint blijft uitpakken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46205537X/sint-blijft-uitpakken-diverse-auteurs</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46205537X/sint-blijft-uitpakken-diverse-auteurs"/>
-        <updated>2026-11-01T13:57:05.209Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46205537X?aid=kb-online-bibliotheek&sid=24&dts=1793517112702&sig=850878af91a29958cbc0fb76d8462a2e975c1e8fa8362202678bcca3d4215f00&width=320" alt="Omslag van 'Sint blijft uitpakken'" title="Omslag van 'Sint blijft uitpakken'">
-<p>Sinterklaas krijgt elk jaar wel duizend brieven, maar is die van Helena dan echt de leukste? En waar is de bril van Sinterklaas toch? Ook lijkt het Grote Boek gestolen te zijn. En wat is dat spiegeltje waar Pietje zo geheimzinnig over doet? Ontdek deze en vele andere verrassende, grappige en ontroerende verhalen in 'Sint blijft uitpakken'- de derde verzamelbundel in deze serie vol met fantasie, humor en hartverwarmende momenten. De royalty's gaan naar Villa Pardoes, waar ernstig zieke kinderen en hun families een onvergetelijke week beleven. Met dank aan: Op alfabetische volgorde: Abra Voets. Amanda Velt, Annelies Visser, Carla van Vliet en Emma Veringa, Charlotte Desmet, Hanneke Kanis-Rommelaar, Hermien Stok, Ina van der Beek, Inge Hulsker, Isabelle Paz Soldan, Jenneke Ingelse, Jessica Berkvens, Laura Weterings, Mehmet Küçükaycan, Nikee Fuchs, Nina Wassenaar-Ziemba, Sandra C. Hessels, Sanne Miltenburg, Susanne Miller, Tessa te Loo, Tjade Witmaar, Vera Oor, Wilma Hollander, Wim Slierendregt en Winette de Graaf. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Diverse Auteurs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De vroege strijd voor het vrije internet]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462055388/de-vroege-strijd-voor-het-vrije-internet-karin-spaink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462055388/de-vroege-strijd-voor-het-vrije-internet-karin-spaink"/>
-        <updated>2026-11-01T13:57:05.811Z</updated>
-        <summary type="html"><![CDATA[Hoe Karin Spaink en anderen onze digitale rechten bevochten]]></summary>
-        <content type="html"><![CDATA[<img src="https://v2.leibniz.zbkb.nl/assets/id/PPN%3A457621419?sig=d65b6b37831cbd509b0451aa122d2811095e498eb6c262ef2d970a110d7e87e3&dts=1793540525734&width=132&aid=kb-online-bibliotheek-tdp&sid=24" alt="Omslag van 'De vroege strijd voor het vrije internet'" title="Omslag van 'De vroege strijd voor het vrije internet'">
-<p>'De vroege strijd voor het vrije internet' is een bundeling van artikelen en columns waarin Karin Spaink, voormalig chef-eindredactie van Follow the Money, je meeneemt naar de begintijd van het internet. Dat bestaat al sinds de jaren zestig, maar was decennialang alleen toegankelijk voor universitaire wetenschappers en defensiemedewerkers. In de jaren tachtig streden hackers en anderen voor toegang tot dit ‘onontdekte werelddeel’ zoals Karin Spaink het omschrijft. Spaink was in de jaren negentig een van die internetpioniers. Aanvankelijk beschreef ze de stormachtige ontwikkelingen in haar wekelijkse Parool-column. Vanaf 1995 bond ze de strijd aan met de Scientology-sekte en groeide ze uit tot een belangrijke voorvechter van het vrije internet. Dat taaie juridische gevecht eindigde in 2006 met een overwinning bij de Hoge Raad. In 2000 was Spaink mede-oprichter van de organisatie Bits of Freedom. Aan de hand van verhalen van Spaink zelf en haar medestanders van toen laat dit boek je zien hoe het internet in Nederland vorm kreeg en waarom onze digitale rechten ook nu nog verdedigd moeten worden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Karin Spaink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Je geld of je gegevens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462055477/je-geld-of-je-gegevens-anja-shortland</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462055477/je-geld-of-je-gegevens-anja-shortland"/>
-        <updated>2026-11-01T13:57:06.451Z</updated>
-        <summary type="html"><![CDATA[De duistere industrie van hackers en ransomware]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462055477?aid=kb-online-bibliotheek&sid=24&dts=1793531872413&sig=28538886819ff58cab875ed0db176c03813bbd0c3ab154f341b1aca4ae76124d&width=320" alt="Omslag van 'Je geld of je gegevens'" title="Omslag van 'Je geld of je gegevens'">
-<p>Stel je voor dat je je computer opent en ontdekt dat al je documenten en programma's vergrendeld zijn. Je ziet alleen een rood scherm met een aftelklok en de tekst 'betaal het losgeld binnen 72 uur of je raakt alles kwijt'. Hackers verdienen miljarden dollars door bedrijven, overheden en burgers op deze manier af te persen. Hun strategieën worden geavanceerder, met steeds grotere gevolgen. Hoogleraar Anja Shortland, gespecialiseerd in digitale afpersing, geeft een onthullende inkijk in de beruchtste ransomware-aanvallen van de 21e eeuw. Ze neemt je mee naar de wereldwijde cyberoorlogvoering, waar landen als Rusland en Noord-Korea ransomware steeds vaker als wapen inzetten. Shortland laat zien hoe kwetsbaar we zijn, en hoe we ons kunnen verdedigen. 'Je geld of je gegevens' duikt in de schaduweconomie van ransomware, waar de activiteiten van sluwe hackers en fraudeurs catastrofale gevolgen kunnen hebben voor ons allemaal. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Anja Shortland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De laatste avond]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/45320970X/de-laatste-avond-simone-atangana-bekono"/>
-        <updated>2026-10-28T13:41:37.869Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A45320970X?aid=kb-online-bibliotheek&sid=24&dts=1793192747671&sig=58d6f0cb1c3c711bc9bb3632d855412545a140c30fab1a6843b9ee9b8ae94461&width=320" alt="Omslag van 'De laatste avond'" title="Omslag van 'De laatste avond'">
-<p>Het is de laatste avond van een vakantie in Napels. Onverwacht nieuws doet tijdens het diner de verhoudingen tussen een jong stel en hun beste vriendin dramatisch verschuiven. Wie is loyaal aan wie? Hoe ga je om met jaloezie in een vriendschap? En wie is nou werkelijk de buitenstaander in deze driehoeksverhouding? De wijn wordt nog een laatste keer ingeschonken, de zon zakt de zee in en alle kaarten komen op tafel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Simone Atangana Bekono</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Witte Nachten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209742/witte-nachten-fjodor-dostojevski"/>
-        <updated>2026-10-28T13:41:38.191Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209742?aid=kb-online-bibliotheek&sid=24&dts=1793194897959&sig=36988f6870cb76655ff67b081dc54e8578b0f3b4c4b0c265c5954e031455a1d2&width=320" alt="Omslag van 'Witte Nachten'" title="Omslag van 'Witte Nachten'">
-<p>Een jonge man loopt door Sint-Petersburg. Een stad waar de zon nooit helemaal ondergaat in de zomer. De man is eenzaam, verdwaald in zijn gedachten. Tot hij op een avond een meisje ontmoet, Nastenka. Zij voelt zich ook alleen. Net als hij zoekt ze naar geluk. Samen ze lopen vier nachten door de schemerende stad. Ze vertellen elkaar over hun leven. Hij wordt verliefd op haar. Maar Nastenka denkt aan een ander. Toch blijft de man bij haar, uit liefde. Tot de witte nachten voorbij zijn ... Witte Nachten is geschreven in 1848 door Fjodor Dostojevski, één van de bekendste Russische auteurs ooit. Frans van Duijn hertaalde het boek naar gewone taal. Zodat iedereen deze bijzondere klassieker kan lezen. Het is een verhaal over liefde en verdriet. Over alleen zijn, maar toch iemand vinden. Voor iedereen die zich ooit alleen voelde in een drukke wereld. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Fjodor Dostojevski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het eerlijkste boek over leugens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209718/het-eerlijkste-boek-over-leugens-jan-paul-schutten"/>
-        <updated>2026-10-28T13:41:38.557Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209718?aid=kb-online-bibliotheek&sid=24&dts=1793194898315&sig=8d20959fe477ffdae302ab16cbcc0cab79bc66e3ac32b0eeb322d77faf1b83f7&width=320" alt="Omslag van 'Het eerlijkste boek over leugens'" title="Omslag van 'Het eerlijkste boek over leugens'">
-<p>Stel je voor: je herkent élke leugen. Of die nou van een verkoper komt, een influencer, een klasgenoot of iemand die stiekem iets van je gedaan wil krijgen. Je zou nooit meer worden opgelicht. Je zou meteen weten wie je kon vertrouwen. Je zou beter begrijpen wat er echt speelt en dus sneller de juiste keuzes maken. Leugens doorzien klinkt als een superpower, toch? Jan Paul Schutten legt je in Het eerlijkste boek over leugens uit hoe je leugens sneller herkent. Je krijgt tips en technieken om te ontdekken wat waar is en wat niet. Je hoort fabels en feiten over lichaamstaal. En je ontdekt welke online filmpjes onbetrouwbaar zijn. Niet alleen handig, maar ook belangrijk in een wereld vol nep. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jan Paul Schutten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jarno]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/453209734/jarno-leon-verdonschot"/>
-        <updated>2026-10-28T13:41:37.699Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A453209734?aid=kb-online-bibliotheek&sid=24&dts=1793194897512&sig=3bbda0f7816eb7b0f301d03360086102de86561de499e9e1a4f5df7c7ae4c887&width=320" alt="Omslag van 'Jarno'" title="Omslag van 'Jarno'">
-<p>Jarno Errens was de eerste nieuwe Nederlandse UFC-vechter in jaren. De UFC is de grootste organisatie in de snelst groeiende sport van de Verenigde Staten. Het was zijn grote droom. Toen hij dit jaar een wedstrijd verloor, spatte die droom uiteen. Maar vechtsporter Jarno uit Heerlen is vastbesloten zichzelf terug te knokken. Letterlijk. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Leon Verdonschot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Louter lust]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462045781/louter-lust-lydia-rood</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462045781/louter-lust-lydia-rood"/>
-        <updated>2026-11-01T13:57:07.289Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045781?aid=kb-online-bibliotheek&sid=24&dts=1793541426558&sig=55ac7d58f6a2fe0c2560af5c05cdbcbf797dc48849e86ff53a082986a2286f08&width=320" alt="Omslag van 'Louter lust'" title="Omslag van 'Louter lust'">
-<p>Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Deze titel is ook verkrijgbaar als luisterboek.</p><p>Gedeelde genoegens (ebook en luisterboek)  Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere stud, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde. Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.</p><p>De recensent heeft gedeelten van dit boek met één hand gelezen.  Ronald Giphart / Het Parool</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lydia Rood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mannen, ze willen wel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46204579X/mannen--ze-willen-wel-lydia-rood</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46204579X/mannen--ze-willen-wel-lydia-rood"/>
-        <updated>2026-11-01T13:57:07.956Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46204579X?aid=kb-online-bibliotheek&sid=24&dts=1793529235198&sig=588cccc3a36de8dae97ee01be06edc3c58d6450d7ff4828538f36e67e17094dc&width=320" alt="Omslag van 'Mannen, ze willen wel'" title="Omslag van 'Mannen, ze willen wel'">
-<p>Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant.</p><p>De erotische titels van Lydia Rood:</p><p>Louter lust (ebook en luisterboek)  Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Gedeelde genoegens (ebook en luisterboek)  Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere stud, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde. Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.</p><p>De recensent heeft gedeelten van dit boek met één hand gelezen.  Ronald Giphart / Het Parool</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lydia Rood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zij haar zin]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462045757/zij-haar-zin-lydia-rood</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462045757/zij-haar-zin-lydia-rood"/>
-        <updated>2026-11-01T13:57:08.729Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045757?aid=kb-online-bibliotheek&sid=24&dts=1793541428059&sig=2f984b236bd7f7bece65fdaf493e84099eab93aa12be889d5d9873fe625a456a&width=320" alt="Omslag van 'Zij haar zin'" title="Omslag van 'Zij haar zin'">
-<p>Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>De erotische titels van Lydia Rood:</p><p>Louter lust (ebook en luisterboek)  Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Gedeelde genoegens (ebook en luisterboek)  Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere stud, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde. Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.</p><p>De recensent heeft gedeelten van dit boek met één hand gelezen.  Ronald Giphart / Het Parool</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lydia Rood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het lavendelmeisje]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462045870/het-lavendelmeisje-paul-van-der-mark</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462045870/het-lavendelmeisje-paul-van-der-mark"/>
-        <updated>2026-11-01T13:57:09.281Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045870?aid=kb-online-bibliotheek&sid=24&dts=1793538110246&sig=9eaf95f9bb57bfd25155bc5c4220b8f01e8dfc276ceebfa1e81b6cfe3875c894&width=320" alt="Omslag van 'Het lavendelmeisje'" title="Omslag van 'Het lavendelmeisje'">
-<p>Het had een romantische vakantie moeten worden voor Marinde, maar een raadselachtige ontdekking op een foto in een museum in Frankrijk en het onverwachte overlijden van een oudere vrouw in Lourdes zetten een kettingreactie van gebeurtenissen in werking die niemand voorzien had. Als dan ook nog mensen zich bedreigd gaan voelen en nergens voor terugdeinzen, komen levens in gevaar. Verdriet, verliefdheid, angst en uiteindelijk moord. Een heftige zomer om nooit meer te vergeten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Paul van der Mark</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gedeelde genoegens]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462045765/gedeelde-genoegens-lydia-rood</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462045765/gedeelde-genoegens-lydia-rood"/>
-        <updated>2026-11-01T13:57:09.970Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045765?aid=kb-online-bibliotheek&sid=24&dts=1793541429387&sig=6fc12d5f614e5b869c0ccaef17d6c51dfdaf63bb107aa1abeca6e3577fe6b618&width=320" alt="Omslag van 'Gedeelde genoegens'" title="Omslag van 'Gedeelde genoegens'">
-<p>Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere verlokking, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde.</p><p>Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Het is een spannende leerschool, want haar Arabier doet het anders dan haar Antilliaan, en de kwaliteiten van haar Zweed zijn onvergelijkbaar met die van haar Zimbabwaan. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.  Deze titel is ook als luisterboek beschikbaar.</p><p>De erotische collectie van Lydia Rood:</p><p>Louter lust (ebook en luisterboek)  Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lydia Rood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pianomethode in drie delen voor onderwijs en zelfstudie]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46204582X/pianomethode-in-drie-delen-voor-onderwijs-en-zelfstudie-abel---hommes</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46204582X/pianomethode-in-drie-delen-voor-onderwijs-en-zelfstudie-abel---hommes"/>
-        <updated>2026-11-01T13:57:10.523Z</updated>
-        <summary type="html"><![CDATA[Musiceren met leadsheets en bladmuziek. Muzieklessen voor piano en keyboard]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46204582X?aid=kb-online-bibliotheek&sid=24&dts=1793492263689&sig=bb0dd2cf9a91edc36b0207f5943b68b19aa9afae062ef33561b040f2aa96d9ba&width=320" alt="Omslag van 'Pianomethode in drie delen voor onderwijs en zelfstudie'" title="Omslag van 'Pianomethode in drie delen voor onderwijs en zelfstudie'">
-<p>Pianomethode in drie delen voor onderwijs en zelfstudie</p><p>  Musiceren met leadsheets en bladmuziek. Muzieklessen voor piano en keyboard</p><p> Deze e-book uitgave is een gebundelde versie van drie lesboeken uit de serie Spelen met akkoorden in theorie en praktijk:  Deel 1: Basisvaardigheden Deel 2: Akkoordenschema's, toonsoorten en ritme Deel 3: Harmonische variaties en gevorderde technieken</p><p></p><p>Spelen met akkoorden in theorie en praktijk is een moderne pianomethode in drie delen, geschikt voor zelfstudie en muziekonderwijs. De methode biedt zorgvuldig opgebouwd studiemateriaal waarin je geen enkele stap overslaat. Aan de hand van ruim 240 oefeningen en praktische aanwijzingen leer je alles wat je nodig hebt voor een solide muzikale basis.</p><p> In drie delen leer je essentiële muzikale basisvaardigheden zoals notennamen, het gebruik van de linker- en rechterhand, vingerzetting en de opbouw van akkoorden. Je leert hoe akkoorden op verschillende manieren worden weergegeven in leadsheets en notenschrift.</p><p> Spelen met akkoorden in theorie en praktijk is ontwikkeld vanuit de praktijk van het muziekonderwijs. Op een effectieve en verantwoorde manier kun je na het doorlopen van alle drie delen moeiteloos variëren met verschillende manieren van akkoorden spelen, bij welke muziek dan ook. Je begrijpt de taal van muziek, zodat je met musici in allerlei stijlen kunt meespelen.</p><p> De oefeningen zijn geschikt voor piano en keyboards met 61 of meer toetsen.</p><p> Door Iebele Abel en Hanna Hommes. Redactie Nederlandstalige uitgave Jannet Fink. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Abel &amp; Hommes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De perfecte engel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462045838/de-perfecte-engel-eva-nagelkerke</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462045838/de-perfecte-engel-eva-nagelkerke"/>
-        <updated>2026-11-01T13:57:11.022Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045838?aid=kb-online-bibliotheek&sid=24&dts=1793534130673&sig=aaae2546416771214734883df140e3d7dca9f1193449957b0acc179c3eb019d1&width=320" alt="Omslag van 'De perfecte engel'" title="Omslag van 'De perfecte engel'">
-<p>Na een heftige relatiebreuk staan Lisa en haar dochtertje op straat. Noodgedwongen accepteert ze een baan als inwonende nanny. Gelukkig is Bo, het meisje voor wie ze moet zorgen, een schatje. Maar in huis klopt iets niet. Bo's moeder is extreem bezorgd en elke nacht wordt het meisje gillend wakker.</p><p>Dan merkt Lisa dat iemand aan haar spullen zit en ontvangt ze dreigende appjes. Het wordt duidelijk dat iemand haar weg wil hebben. Maar kan Lisa vertrekken en de weerloze Bo achterlaten? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Eva Nagelkerke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koud zeer]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462045889/koud-zeer-robert-de-graaff</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462045889/koud-zeer-robert-de-graaff"/>
-        <updated>2026-11-01T13:57:11.641Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045889?aid=kb-online-bibliotheek&sid=24&dts=1793494039775&sig=2e0dd185ebd81717e4dc1d3feaf0bba56e69afdb2fc3ee057a1b0f49b5efeb81&width=320" alt="Omslag van 'Koud zeer'" title="Omslag van 'Koud zeer'">
-<p>Het is mei 1961, het zijn de hoogtijdagen van de Koude Oorlog. Terwijl Rusland en de geallieerde strijdmachten vechten om de status van Berlijn, strijdt rechercheur Joe Mulder om zίjn status in het politiekorps van Londen. Zijn Duitse roots maken dat niet gemakkelijk. Na een handgemeen met een collega, komt hij in contact met osteopaat Stephen Ward. Mulder ontdekt dat dokter Ward een bijzonder kleurrijk leven leidt en zich gelukkig prijst met een breed scala aan kennissen uit de boven- en onderkant van de Londense samenleving. Onder Wards vriendenkring nemen de Russische ambassadeattaché Yevgeni Ivanov en de losbandige Christine Keeler een bijzondere plaats in. Niet veel later krijgt Mulder het verzoek zijn korps in Marylebone tijdelijk te verruilen voor de inlichtingendienst (MI5). Een bijzondere opdracht brengt hem een enerverend avontuur waarin invloedrijke mannen als William Astor, Winston Churchill en minister John Profumo zijn pad kruisen. Als de perikelen over Berlijn zijn gevolgd door de Cubacrisis, ontdekt Mulder welke politiek gekonkel zich achter zijn rug afspeelt en wat de Britse geheime dienst daadwerkelijk van plan was. Koud Zeer gaat over het grootste politieke schandaal uit de Britse geschiedenis: de Profumo-affaire. Een zaak waarin spionage, seksschandalen en politieke intriges de hoofdrol spelen en die ook in de Verenigde Staten haar sporen heeft nagelaten. Een historische thriller, verademing voor het genre. Henk Vlaming in de Boekenkrant Robert de Graaff is een goede verteller die heel knap het Londen van de jaren zestig weet te beschrijven. Piet Windhorst (LeesKost) Zelden las ik zo'n spannend en intrigerend boek. Dit is zo'n boek dat iedereen moet lezen en je zult het verslinden. Ingrid Lemmens (Hebban) </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Robert de Graaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zo veel zinnen]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462045773/zo-veel-zinnen-lydia-rood</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462045773/zo-veel-zinnen-lydia-rood"/>
-        <updated>2026-11-01T13:57:12.248Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045773?aid=kb-online-bibliotheek&sid=24&dts=1793530768450&sig=fa346faafa8db1705b2c35ccbc9822f5ad46f0f703bcd55b697613e558629abe&width=320" alt="Omslag van 'Zo veel zinnen'" title="Omslag van 'Zo veel zinnen'">
-<p>Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>De erotische titels van Lydia Rood:</p><p>Louter lust (ebook en luisterboek)  Er blijkt een schreeuwend tekort te zijn aan prikkelende lectuur voor vrouwen. Mannenporno is vaak te direct: voor veel vrouwen bevat dit te weinig stippeltjes waarop ze hun eigen fantasie kunnen loslaten. Hoewel, als vrouwen van nu fantaseren, geven ze hun droomprins behalve een krachtige kaak een minstens even krachtige erectie mee, zoveel maken de vijftien erotische verhalen in deze bundel duidelijk.</p><p>Louter lust bevat veertien fantastische verhalen zonder literaire pretentie: het is een doe-boek.</p><p>Dat een boek van Rood zonder 'literaire pretenties' aanslaat bij een groot publiek, mag blijken uit het feit dat 'Louter lust' binnen een jaar de vierde druk beleefde.  Drentse Courant</p><p>Gedeelde genoegens (ebook en luisterboek)  Een jonge, getrouwde vrouw die voor haar werk verre landen bereist, is slecht bestand tegen de onthouding die haar lange reizen met zich meebrengen. In elke stad ontmoet ze een andere stud, en met haar licht ontvlambare natuur is ze bereid in bed heel ver te gaan - maar niet tot het einde. Zo ontdekt ze tal van opwindende manieren waarop ze haar man trouw kan blijven. Haar trouwe echtvriend geniet intussen - zonder het te weten - met volle teugen van haar erotische avonturen mee.</p><p>De recensent heeft gedeelten van dit boek met één hand gelezen.  Ronald Giphart / Het Parool</p><p>Zij haar zin (ebook)  Mannen denken iedere drie minuten aan seks, is de conclusie van wetenschappelijke onderzoekers. Rond het vrouwelijke gedachtegoed blijft het stil. Zijn vrouwen dan zoveel onschuldiger? Zij haar zin gaat kortom over de ins in outs van de vrouwelijke erotiek. Het is een pikante bundel, geselecteerd uit de spraakmakende columns die eerder in Viva verschenen: een feest van herkenning voor vrouwen en een opwindende leerschool voor mannen.</p><p>Zo veel zinnen (ebook)  Een freelance journaliste, die door haar lijfblad wordt gevraagd een aantal interviews met gewone mensen over hun seksleven te maken, neemt de opdracht aan met een geheim motief: de verhalen van een ander zijn altijd spannender dan je eigen fantasieën. Het is opwindend als je iemand hoort praten over bijvoorbeeld avonturen onder water, in aardedonkere grotten, in de meterkast of op het San Marcoplein - zolang je er maar in kunt geloven.</p><p>Originele wendingen, grappige invalshoeken zorgen ervoor dat niet alleen die ene zin prikkelend wordt.  Zwolse Courant</p><p>Mannen, ze willen wel (ebook)  Nergens komt het menselijk tekort beter aan het licht dan in het donker. Wij hopen in bed louter hoogtepunten te beleven, maar dan ligt er een drankorgel in de weg of iemand neemt je in je slaap. Mannen zijn tot alles bereid, en vrouwen ook. Dus waar gaat het dan mis? Een serie erotische verhalen die Lydia Rood schreef voor Playboy, Penthouse, Viva en Sekstant. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lydia Rood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dwars door Afrika]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956268/dwars-door-afrika-henk-rigter"/>
-        <updated>2026-10-28T13:41:39.489Z</updated>
-        <summary type="html"><![CDATA[3 vrienden, 3 jaar, 1 rammelend busje]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956268?aid=kb-online-bibliotheek&sid=24&dts=1793194189750&sig=a77160f46f39f0ec4cc318c44813755f67f543ad4ecbd73f77c2b800d9ca3e65&width=320" alt="Omslag van 'Dwars door Afrika'" title="Omslag van 'Dwars door Afrika'">
-<p>Dwars door Afrika is een meeslepend en waargebeurd reisverhaal over drie vrienden die in een gammel busje een onvergetelijke roadtrip maken van Europa naar Zuid-Afrika. Wat begint als een reis van drie maanden, groeit uit tot een episch avontuur van maar liefst drie jaar. Wanneer Henk Rigter een baan aangeboden krijgt in Zuid-Afrika, besluit hij samen met twee vrienden de uitdaging aan te gaan en erheen te rijden. Tijdens hun reis door Afrika worden ze geconfronteerd met extreme situaties, onverwachte tegenslagen en bijzondere ontmoetingen. Ze adopteren een hond, raken betrokken bij goede doelen, belanden meerdere keren in de gevangenis en overleven zelfs een confrontatie met een krokodil. Dit boek neemt je mee op een unieke reis door het Afrikaanse continent, vol cultuur, natuur en avontuur. Dwars door Afrika is een inspirerend verhaal over vriendschap, zelfontdekking, doorzettingsvermogen en de ultieme drang naar vrijheid en avontuur. Voor lezers van o.a. Into the Wild, One Year on a Bike, Een onmogelijk avontuur en On the Road. Waarom dit boek lezen?</p><p>Waargebeurd en meeslepend reisverhaal  Perfect voor liefhebbers van avontuur en roadtrips  Inspirerend verhaal over persoonlijke groei en vriendschap  Unieke kijk op reizen door Afrika </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Henk Rigter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visie, ruzie, compromis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461956411/visie--ruzie--compromis-miet-ooms"/>
-        <updated>2026-10-28T13:41:39.739Z</updated>
-        <summary type="html"><![CDATA[Een kleine biografie van de Nederlandse spelling]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461956411?aid=kb-online-bibliotheek&sid=24&dts=1793194899566&sig=fdad153f3219976074481b1adb98e5e089232a8e8411e0ab7f6a7ca49ae91725&width=320" alt="Omslag van 'Visie, ruzie, compromis'" title="Omslag van 'Visie, ruzie, compromis'">
-<p>Sinds 1804 heeft het Nederlands een officiële spelling. In de eeuwen daarna is er veel en vaak over spelling nagedacht, gediscussieerd én geruzied. Waarom leidt de vraag hoe we onze woorden opschrijven tot zulke hevige emoties? En hoe belangrijk zijn spellingregels nog, nu de communicatie vluchtiger is dan ooit? Dat onderzoekt Miet Ooms in Visie, ruzie, compromis. Een kleine biografie van de Nederlandse spelling. Ze neemt je mee in de woelige levensloop van de Nederlandse spelling - van de regelloze middeleeuwen tot de eerste officiële spelling, naar onrust over menschen of mensen, c's en k's en de tussen-n, en uiteindelijk, eindelijk, rust in spellingland. Of toch niet? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Miet Ooms</name>
         </author>
     </entry>
 </feed>
