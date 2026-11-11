@@ -2,11 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-11-10T15:20:00.749Z</updated>
+    <updated>2026-11-11T14:50:58.496Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Het duizend eilanden experiment]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436755637/het-duizend-eilanden-experiment-frank-van-dongen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436755637/het-duizend-eilanden-experiment-frank-van-dongen"/>
+        <updated>2026-11-11T14:50:57.952Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436755637?aid=kb-online-bibliotheek&sid=24&dts=1794408137849&sig=73818c6f4b43309fcaebdd6795dcc8e6371e1bba5813ad7978ddb744e79fb7e8&width=320" alt="Omslag van 'Het duizend eilanden experiment'" title="Omslag van 'Het duizend eilanden experiment'">
+<p>Halverwege de 21e eeuw probeert een man de bedreiging van een buitenaardse invasie af te wenden.</p>]]></content>
+        <author>
+            <name>Frank van Dongen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De machineplaag]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436755645/de-machineplaag-frank-van-dongen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436755645/de-machineplaag-frank-van-dongen"/>
+        <updated>2026-11-11T14:50:58.131Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436755645?aid=kb-online-bibliotheek&sid=24&dts=1794408621445&sig=a7bdde81c66c87c13525de233e2c412f87e14889bf4dd6f54084c6979024d9e1&width=320" alt="Omslag van 'De machineplaag'" title="Omslag van 'De machineplaag'">
+<p>Een genetisch gemanipuleerde man probeert met hulp van zijn broer en AI de mensheid van de ondergang te redden.</p>]]></content>
+        <author>
+            <name>Frank van Dongen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Feind invasie]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436755653/de-feind-invasie-frank-van-dongen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436755653/de-feind-invasie-frank-van-dongen"/>
+        <updated>2026-11-11T14:50:58.495Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436755653?aid=kb-online-bibliotheek&sid=24&dts=1794408658274&sig=47fefd51715c12d9d3d92815f71a06be0c64d638b5fb850c3f0daff3fc0c7f0c&width=320" alt="Omslag van 'De Feind invasie'" title="Omslag van 'De Feind invasie'">
+<p>In de chaos van revoluties en burgeroorlogen, veroorzaakt door een onsterfelijkheidsprogramma, probeert een man zijn broer terug te vinden.</p>]]></content>
+        <author>
+            <name>Frank van Dongen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het Oppenheimer alternatief]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462187357/het-oppenheimer-alternatief-robert-j--sawyer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462187357/het-oppenheimer-alternatief-robert-j--sawyer"/>
+        <updated>2026-11-06T14:43:10.707Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462187357?aid=kb-online-bibliotheek&sid=24&dts=1793976190140&sig=ac49c0ac13ad06a72544705a4c7d0d88a589578bac94e9aa73c07f6b18749338&width=320" alt="Omslag van 'Het Oppenheimer alternatief'" title="Omslag van 'Het Oppenheimer alternatief'">
+<p>Op de 80e verjaardag van de atoombom neemt Robert J. Sawyer ons mee terug in de tijd om de geschiedenis te herbeleven... met een twist. Terwijl J. Robert Oppenheimer en zijn Manhattan Project-team worstelen met de ontwikkeling van de atoombom, wil Edward Teller iets nog verwoestenders: een bom gebaseerd op kernfusie - het mechanisme dat de zon aandrijft. Tellers onderzoek leidt tot een angstaanjagende ontdekking: tegen het jaar 2030 zal de zon zijn buitenste laag afstoten en het binnenste deel van het zonnestelsel vernietigen, inclusief de Aarde. Terwijl de oorlog eindigt met het gebruik van splijtingsbommen tegen Japan, blijven Oppenheimers team plus Albert Einstein en Wernher von Braun bij elkaar - de grootste wetenschappelijke genieën van de vorige eeuw in een race tegen de klok om onze toekomst te redden. Het Oppenheimer alternatief is een adembenemend avontuur door zowel de echte als de alternatieve geschiedenis. Het boek is qua achtergrond zorgvuldig onderzocht en staat vol met personages, gebeurtenissen en zelfs conversaties uit het echte leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Robert J. Sawyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Shippers]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/462209466/the-shippers-katherine-center</id>
@@ -230,17 +274,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Het Oppenheimer alternatief]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462187357/het-oppenheimer-alternatief-robert-j--sawyer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462187357/het-oppenheimer-alternatief-robert-j--sawyer"/>
-        <updated>2026-11-06T14:43:10.707Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462187357?aid=kb-online-bibliotheek&sid=24&dts=1793976190140&sig=ac49c0ac13ad06a72544705a4c7d0d88a589578bac94e9aa73c07f6b18749338&width=320" alt="Omslag van 'Het Oppenheimer alternatief'" title="Omslag van 'Het Oppenheimer alternatief'">
-<p>Op de 80e verjaardag van de atoombom neemt Robert J. Sawyer ons mee terug in de tijd om de geschiedenis te herbeleven... met een twist. Terwijl J. Robert Oppenheimer en zijn Manhattan Project-team worstelen met de ontwikkeling van de atoombom, wil Edward Teller iets nog verwoestenders: een bom gebaseerd op kernfusie - het mechanisme dat de zon aandrijft. Tellers onderzoek leidt tot een angstaanjagende ontdekking: tegen het jaar 2030 zal de zon zijn buitenste laag afstoten en het binnenste deel van het zonnestelsel vernietigen, inclusief de Aarde. Terwijl de oorlog eindigt met het gebruik van splijtingsbommen tegen Japan, blijven Oppenheimers team plus Albert Einstein en Wernher von Braun bij elkaar - de grootste wetenschappelijke genieën van de vorige eeuw in een race tegen de klok om onze toekomst te redden. Het Oppenheimer alternatief is een adembenemend avontuur door zowel de echte als de alternatieve geschiedenis. Het boek is qua achtergrond zorgvuldig onderzocht en staat vol met personages, gebeurtenissen en zelfs conversaties uit het echte leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Robert J. Sawyer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shadow Child]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/462170888/shadow-child-beck-palmas</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/462170888/shadow-child-beck-palmas"/>
@@ -326,55 +359,6 @@
 <p>Hoe ver ben jij bereid te gaan voor je vrijheid? Mijn naam is Alise Aalmers en ik ben een magiër. Waar ik ziektes genees die burgerartsen ongeneeslijk noemen, ziet de staat een gevaar dat de kop ingedrukt moet worden. In Nederland is mijn gave mijn vonnis, met levenslange opsluiting in de Toren tot gevolg. Terwijl ik alles op alles zet om te overleven, wordt de buitenwereld grimmiger. De Jagers Partij voert deze Tweede Kamerverkiezingen de druk op: ze willen de doodstraf versoepelen en nageslacht onmogelijk maken, in een laatste poging om ons soort volledig uit te wissen. Wanneer de gewelddadige dood van watermagiër Sika Trevane aan het licht komt, stijgen de jarenlange protesten tot het kookpunt bij het verzet. Vreedzaam protesteren voor onze vrijheid is niet langer het motto. Om mezelf en mijn soortgenoten te redden uit de klauwen van de jagers, moet ik het ondenkbare doen: vertrouwen op de man die ik zou moeten haten en die straks moet zweren mijn soort uit te roeien. Ik groei uit tot het gezicht van een verzet dat steeds gevaarlijker wordt. Maar naarmate de grens tussen vijand en bondgenoot vervaagt, ontwaakt er een verborgen kracht in mij. Een kracht die de wereld kan bevrijden, maar waarmee ik alles waar ik voor vecht, en mezelf, voorgoed kan verliezen. Levenslang in Verzet is het langverwachte vervolg op Levenslang in de Toren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Roxanne Borgman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gebroken beeld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462166341/gebroken-beeld-elly-wassenaar---alex-mulder---petra-van-sinderen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462166341/gebroken-beeld-elly-wassenaar---alex-mulder---petra-van-sinderen"/>
-        <updated>2026-11-04T14:58:57.179Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462166341?aid=kb-online-bibliotheek&sid=24&dts=1793804336467&sig=ee2e7b36375913666ed4d063c5a975a8c2559eb2baf1c5c6d1185f45f3f02ecf&width=320" alt="Omslag van 'Gebroken beeld'" title="Omslag van 'Gebroken beeld'">
-<p>Je ziet wat je wilt zien. Tot iemand je dwingt beter te kijken. Een verleden dat zich niet laat begraven. Een gedachte die langzaam ontspoort. Wraak die jarenlang heeft gewacht op het juiste moment. In Gebroken beeld is niets wat het op het eerste gezicht lijkt. Schuld en onschuld wisselen van plaats, herinneringen blijken onbetrouwbaar en achter een vertrouwd gezicht kan een heel andere werkelijkheid schuilgaan. Van psychologische spanning tot misdaad, van duistere geheimen tot onverwachte ontknopingen: ieder verhaal legt een nieuw stukje bloot. Pas wanneer het beeld breekt, wordt zichtbaar wat er al die tijd onder verborgen lag. Naast hun afzonderlijke verhalen schreven de drie auteurs samen Midlifecrisis, een vervolgverhaal waarin niemand vooraf wist welke kant het verhaal op zou gaan. Iedere schrijver kreeg slechts één opdracht: ga verder waar de ander ophield. Durf jij te blijven kijken wanneer de eerste barst verschijnt? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elly Wassenaar</name>
-        </author>
-        <author>
-            <name>Alex Mulder</name>
-        </author>
-        <author>
-            <name>Petra van Sinderen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het verlangen van 2026]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461926296/het-verlangen-van-2026-elly-wassenaar---ilona-poot---mark-sars---jolanda-esselink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461926296/het-verlangen-van-2026-elly-wassenaar---ilona-poot---mark-sars---jolanda-esselink"/>
-        <updated>2026-11-04T14:58:58.045Z</updated>
-        <summary type="html"><![CDATA[Verhalen van Vlieland]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461926296?aid=kb-online-bibliotheek&sid=24&dts=1793784677114&sig=daad827f3f1391da4c1689abd5bbe8b5a12c137231ecb6bb69871804092e5d68&width=320" alt="Omslag van 'Het verlangen van 2026'" title="Omslag van 'Het verlangen van 2026'">
-<p>Het verlangen van 2026 Verhalen van Vlieland Als de zee haar golven terugtrekt van het strand en de pieren, de maan zich van haar mooiste kant laat zien, het vuurtorenlicht met haar flirt tot de zon opkomt, het eiland ontwaakt en de bossen de rust teruggeven die ze ’s nachts hebben afgewend … dan komen verlangens tot leven. Diep weggestopt of zichtbaar aan de oppervlakte weten zij hun plek op te eisen. Goedschiks of kwaadschiks … AUTEURS Elly Wassenaar, Ilona Poot, Dennis Olyerhoek, Laura Weterings, Mark Sars, Josefina Hermans, Moth Wevers, Marjolein Kleian, Wendy Koot, Jolanda Esselink, Esther Roos </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Elly Wassenaar</name>
-        </author>
-        <author>
-            <name>Ilona Poot</name>
-        </author>
-        <author>
-            <name>Mark Sars</name>
-        </author>
-        <author>
-            <name>Jolanda Esselink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schimmenkind]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46217087X/schimmenkind-beck-palmas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46217087X/schimmenkind-beck-palmas"/>
-        <updated>2026-11-06T14:43:12.147Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46217087X?aid=kb-online-bibliotheek&sid=24&dts=1793976191473&sig=59dec64e00ca98c1e530b8efad6cc0512c6505892c834eb243b564daabe6ce37&width=320" alt="Omslag van 'Schimmenkind'" title="Omslag van 'Schimmenkind'">
-<p>Ik hoop dat ik het langer volhoud dan een paar dagen. Mijn vorige versies hadden maximaal zes dagen, voordat ze overleden aan de verwonding die ook mijn oorspronkelijke zelf het leven kostte. Ik moet het patroon doorbreken. Ik moet terug. Een onbekende vijand bedreigt het Concilium, een gebied met honderden bewoonde planeten, miljarden levende wezens. Al mijn vrienden zijn daar. Iedereen waar ik om geef. De enige manier waarop ik ze kan helpen, is om te doen wat nog niemand is gelukt: met de vijand communiceren, voordat ze alles vernietigen. Alleen heb ik geen idee hoe … </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Beck Palmas</name>
         </author>
     </entry>
 </feed>
