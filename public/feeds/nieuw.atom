@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-11-11T14:50:58.496Z</updated>
+    <updated>2026-11-12T15:41:57.139Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Tease]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462045854/tease-melanie-harlow</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462045854/tease-melanie-harlow"/>
+        <updated>2026-11-12T15:41:57.137Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045854?aid=kb-online-bibliotheek&sid=24&dts=1794480335755&sig=d4061185d2ed585bc02dee0f8f50318d381a5b143ae5f76e3fbb618ab87cb159&width=320" alt="Omslag van 'Tease'" title="Omslag van 'Tease'">
+<p>Ik wilde helemaal niet zeggen dat ik verloofd was met een sexy miljardair - het floepte er gewoon uit. Ik kon het eigenlijk niet helpen: mijn haar zat vreselijk, ik had te veel gedronken, en probeerde tijdens een reünie indruk te maken op de heks van de middelbare school. Gelukkig ken ik wel een sexy miljardair. Hutton French en ik zijn al eeuwen bevriend. En ook al is hij niet dol op dit soort bijeenkomsten, ik belde hem vanuit de garderobe en smeekte hem om die avond mijn nepverloofde te komen spelen.</p><p>Alleen verspreidt het nieuws over onze verloving zich als een lopend vuurtje. Onze families zijn door het dolle heen. Het staat online. En mijn bescheiden foodblog wordt ineens razend populair. Natuurlijk bied ik meteen aan om de waarheid te vertellen, maar Hutton wil het nog even laten sudderen. Dankzij onze nepverloving houdt hij zowel zijn moeder, die niets liever wil dan dat hij trouwt, als alle bemoeizuchtige koppelaarsters van de stad op afstand. Hij stelt zelfs voor dat ik bij hem intrek om het verhaal geloofwaardiger te maken. En daar blijft het niet bij.</p><p>We oefenen met zoenen. Met elkaars kleren uittrekken. Met dingen zeggen - en doen - die we nooit zouden durven als we niet deden alsof. Want het is allemaal maar voor de show, toch? We spelen gewoon een rol. Hutton wil geen echte relatie en ik wil niet gekwetst worden. Maar hoe meer tijd we besteden aan het veinzen van een relatie, hoe meer ik me begin af te vragen... Zouden Hutton French en ik echt voor elkaar bestemd kunnen zijn of is dit allemaal één grote flirt?</p><p>'Hutton is de meest verrassende, sexy man die ik in lange tijd in een boek ben tegengekomen!' - Read between the Wines</p><p>'De perfecte mix van lief, sexy en emotioneel, ik vond het gewoon een heel lekker verhaal, dat ik in één keer heb uitgelezen.' - When Vane Reads </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Melanie Harlow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Het duizend eilanden experiment]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/436755637/het-duizend-eilanden-experiment-frank-van-dongen</id>
@@ -106,17 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vasthouden!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462209636/vasthouden--ellen-rink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462209636/vasthouden--ellen-rink"/>
-        <updated>2026-11-10T15:20:00.748Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462209636?aid=kb-online-bibliotheek&sid=24&dts=1794298711465&sig=b0190c52098e7fe3e041477eeab3b06b61f034ba767ab02aeec8e058628fd546&width=320" alt="Omslag van 'Vasthouden!'" title="Omslag van 'Vasthouden!'">
-<p>Het leven is niet altijd makkelijk. Zelfs niet in Los Angeles waar Emma over een verkeerd afgestelde foute-mannen-radar beschikt. Ze valt van de ene verkeerde relatie in de andere en haar exen hebben één ding gemeen: ze waarderen haar niet. Zal ze eindelijk haar ware man vinden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ellen Rink</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stop Letting Everything Affect You]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/462209660/stop-letting-everything-affect-you-daniel-chidiac</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/462209660/stop-letting-everything-affect-you-daniel-chidiac"/>
@@ -189,6 +189,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vasthouden!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462209636/vasthouden--ellen-rink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462209636/vasthouden--ellen-rink"/>
+        <updated>2026-11-10T15:20:00.748Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462209636?aid=kb-online-bibliotheek&sid=24&dts=1794298711465&sig=b0190c52098e7fe3e041477eeab3b06b61f034ba767ab02aeec8e058628fd546&width=320" alt="Omslag van 'Vasthouden!'" title="Omslag van 'Vasthouden!'">
+<p>Het leven is niet altijd makkelijk. Zelfs niet in Los Angeles waar Emma over een verkeerd afgestelde foute-mannen-radar beschikt. Ze valt van de ene verkeerde relatie in de andere en haar exen hebben één ding gemeen: ze waarderen haar niet. Zal ze eindelijk haar ware man vinden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Ellen Rink</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ons pensioen ons geld]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/462202763/ons-pensioen-ons-geld-hans-van-meerten</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/462202763/ons-pensioen-ons-geld-hans-van-meerten"/>
@@ -198,18 +209,6 @@
 <p>Hoe we het eerlijker, eenvoudiger en betaalbaar kunnen maken De hervorming van het pensioenstelsel raakt 10 miljoen Nederlanders en dreigt uit te lopen op een enorm fiasco. In dit boek legt Hans van Meerten uit hoe dit allemaal zover heeft kunnen komen, wat er mis is met de pensioensector en belangrijker hoe we wel een eerlijker, eenvoudiger en betaalbaar pensioen realiseren. Een leesbaar boek voor iedereen, over het pensioen, dat is gekkenwerk. Te ingewikkeld en wie interesseert dat nou? Wellicht. Maar het zou ons wel móéten interesseren. Grote kans namelijk dat het ook jou of je naasten treft, terwijl je dat niet eens weet. De nieuwe Pensioenwet zorgt voor een ernstige verslechtering voor de pensioendeelnemers in plaats van dat het de problemen uit het oude stelsel oplost. * De kosten zijn niet transparant, torenhoog en worden betaald door de pensioendeelnemers; * De rechtsbescherming van de deelnemers is verder afgebroken; * Onafhankelijk toezicht is beperkt, terwijl de deelnemer het risico draagt; * En dit alles onder een verplichte deelname. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Hans van Meerten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoe AI ons menselijker maakt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460760262/hoe-ai-ons-menselijker-maakt-minke-tromp</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460760262/hoe-ai-ons-menselijker-maakt-minke-tromp"/>
-        <updated>2026-11-06T14:43:10.036Z</updated>
-        <summary type="html"><![CDATA[11 morele vragen voor helderheid, kracht en betekenis]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460760262?aid=kb-online-bibliotheek&sid=24&dts=1793976189515&sig=b64464db76c7849367b82fe361e741880be167b20f6409afece0e2e4f359ab74&width=320" alt="Omslag van 'Hoe AI ons menselijker maakt'" title="Omslag van 'Hoe AI ons menselijker maakt'">
-<p>AI verandert alles Onze banen, onze privacy, de wereldpolitiek, de toekomst van onze kinderen: alles staat onder invloed van razendsnelle technologische ontwikkelingen. Maar wie stuurt dit eigenlijk? Het voelt vaak ongrijpbaar en anoniem. We lezen de koppen, zitten in vergaderingen, proberen bij te blijven. Ondertussen worden er beslissingen genomen. Door anderen. Zonder ons. Over ons. Dit boek geeft je meer invloed. Niet door pasklare antwoorden, die verouderen immers snel, maar door het stellen van de juiste vragen. Hoe AI ons menselijker maakt bundelt elf morele vragen die het gesprek over AI verdiepen en richting geven. Ze helpen je te herkennen waar het écht om draait: in nieuwsberichten, beleidsdiscussies, boardrooms en persoonlijke gesprekken. Ze brengen orde in de complexiteit, maken zichtbaar welke waarden op het spel staan en geven je de kracht om positie te kiezen. Want juist door mee te doen aan het gesprek wordt AI een democratisch vraagstuk, in plaats van iets dat buiten ons om gebeurt. Je hoeft geen politicus, CEO, filosoof of AI-expert te zijn. Integendeel: dit boek nodigt iedereen uit om mee te denken. Minke Tromp is filosoof, corporate antropoloog en spreker. Al meer dan twintig jaar maakt zij complexe vraagstukken toegankelijk voor organisaties in uiteenlopende sectoren. Haar kracht ligt in het vertalen van diepgaande filosofische inzichten naar heldere, toepasbare taal. Wie aandachtig leest, herkent klassieke wijsheid; wie snel leest, vindt direct houvast. Dit boek is ontstaan uit haar keynotes over AI en moreel leiderschap en pleit voor een herwaardering van het Griekse ideaal: samen nadenken als fundament voor gemeenschap en democratie. Juist bij een onderwerp dat zo snel verandert als AI, blijken de juiste vragen tijdloos en waardevoller dan welk antwoord ook. 'Minke Tromp dwingt ons na te denken over wat menselijk moet blijven. Ze nodigt de lezer uit tot dat essentiële gesprek en ze formuleert precies de vragen die dat gesprek ordenen, verdiepen en toegankelijk maken. Eindelijk een boek dat gaat over de morele vragen die we met z'n allen zouden moeten stellen, en die Minke Tromp helder en moedig op tafel legt'. - Elke Wiss, auteur van Socrates op Sneakers 'Wat een leuk boek! Veel filosofen vinden AI maar niks en wijzen het als vanzelfsprekend af. Terwijl techno-optimisten de filosofen maar zeurkousen vinden. Maar Minke Tromp zit er heel mooi tussenin. Ze stelt belangrijke vragen over AI zonder te oordelen en met een open vizier. De vragen zijn groot, over wat AI voor ons als mens betekent, maar blijven wel prettig concreet. Een mooie combinatie van zwaar en lichtvoetig en van blijvend en actueel.' - prof. dr. Bas Haring, Universiteit Leiden </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Minke Tromp</name>
         </author>
     </entry>
     <entry>
@@ -271,6 +270,18 @@
 <p>Het liefdesleven van Irma glijdt door de jaren heen langzaam maar zeker van de roze wolk af. Ze trouwde en kreeg kinderen met een jeugdvriend, een van een tweeling, maar kwam erachter dat hij tijdens hun huwelijk er meerdere geheime relaties op na hield. Zelf had ze door een persoonsverwisseling eens een fijne ervaring met zijn tweelingbroer, maar toch koos ze voor de jongen die later de vader van haar kinderen zou worden. De andere broer verloor ze uit het oog. Ze zet haar man uiteindelijk de deur uit en kiest voor zichzelf en de kinderen. Maar haar liefdesleven blijft er door haar drukke baan en gezinsleven de eerste jaren net zo bij inschieten als tijdens haar huwelijk. Jaren na de scheiding reist Irma in een warme zomer samen met haar kinderen af naar het vakantiehuis van de ex-schoonfamilie, in Frankrijk. Daar kwam het tot een nieuwe ontmoeting met de andere helft van de tweeling, die daar niet geheel toevallig verscheen. Maar al op een van de eerste ochtenden daar ontmoette Irma, in het dichtstbijzijnde dorp, een jonge vrouw die haar leven op z'n kop zet... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Janna Beekman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoe AI ons menselijker maakt]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/460760262/hoe-ai-ons-menselijker-maakt-minke-tromp</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/460760262/hoe-ai-ons-menselijker-maakt-minke-tromp"/>
+        <updated>2026-11-06T14:43:10.036Z</updated>
+        <summary type="html"><![CDATA[11 morele vragen voor helderheid, kracht en betekenis]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460760262?aid=kb-online-bibliotheek&sid=24&dts=1793976189515&sig=b64464db76c7849367b82fe361e741880be167b20f6409afece0e2e4f359ab74&width=320" alt="Omslag van 'Hoe AI ons menselijker maakt'" title="Omslag van 'Hoe AI ons menselijker maakt'">
+<p>AI verandert alles Onze banen, onze privacy, de wereldpolitiek, de toekomst van onze kinderen: alles staat onder invloed van razendsnelle technologische ontwikkelingen. Maar wie stuurt dit eigenlijk? Het voelt vaak ongrijpbaar en anoniem. We lezen de koppen, zitten in vergaderingen, proberen bij te blijven. Ondertussen worden er beslissingen genomen. Door anderen. Zonder ons. Over ons. Dit boek geeft je meer invloed. Niet door pasklare antwoorden, die verouderen immers snel, maar door het stellen van de juiste vragen. Hoe AI ons menselijker maakt bundelt elf morele vragen die het gesprek over AI verdiepen en richting geven. Ze helpen je te herkennen waar het écht om draait: in nieuwsberichten, beleidsdiscussies, boardrooms en persoonlijke gesprekken. Ze brengen orde in de complexiteit, maken zichtbaar welke waarden op het spel staan en geven je de kracht om positie te kiezen. Want juist door mee te doen aan het gesprek wordt AI een democratisch vraagstuk, in plaats van iets dat buiten ons om gebeurt. Je hoeft geen politicus, CEO, filosoof of AI-expert te zijn. Integendeel: dit boek nodigt iedereen uit om mee te denken. Minke Tromp is filosoof, corporate antropoloog en spreker. Al meer dan twintig jaar maakt zij complexe vraagstukken toegankelijk voor organisaties in uiteenlopende sectoren. Haar kracht ligt in het vertalen van diepgaande filosofische inzichten naar heldere, toepasbare taal. Wie aandachtig leest, herkent klassieke wijsheid; wie snel leest, vindt direct houvast. Dit boek is ontstaan uit haar keynotes over AI en moreel leiderschap en pleit voor een herwaardering van het Griekse ideaal: samen nadenken als fundament voor gemeenschap en democratie. Juist bij een onderwerp dat zo snel verandert als AI, blijken de juiste vragen tijdloos en waardevoller dan welk antwoord ook. 'Minke Tromp dwingt ons na te denken over wat menselijk moet blijven. Ze nodigt de lezer uit tot dat essentiële gesprek en ze formuleert precies de vragen die dat gesprek ordenen, verdiepen en toegankelijk maken. Eindelijk een boek dat gaat over de morele vragen die we met z'n allen zouden moeten stellen, en die Minke Tromp helder en moedig op tafel legt'. - Elke Wiss, auteur van Socrates op Sneakers 'Wat een leuk boek! Veel filosofen vinden AI maar niks en wijzen het als vanzelfsprekend af. Terwijl techno-optimisten de filosofen maar zeurkousen vinden. Maar Minke Tromp zit er heel mooi tussenin. Ze stelt belangrijke vragen over AI zonder te oordelen en met een open vizier. De vragen zijn groot, over wat AI voor ons als mens betekent, maar blijven wel prettig concreet. Een mooie combinatie van zwaar en lichtvoetig en van blijvend en actueel.' - prof. dr. Bas Haring, Universiteit Leiden </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Minke Tromp</name>
         </author>
     </entry>
     <entry>
@@ -348,17 +359,6 @@
 <p>Gebrul, geschreeuw, gehuil, gelach en bekken trekkend, ik raak er niet op uitgekeken. Het is bijna lachwekkend, hoeveel een mensenmassa inspireert. Was ik een draakherder of een kwaadmol geweest, had ik me tot een mens bekeerd. --- Had ik maar drie harten is een poëtische wervelwind van strijd, familie en avontuur. In een zwemmende, gevaarlijke wereld zet Tuller alles op alles om zijn moeder te redden. Als zoon van de sterkste Held die de wereld ooit droeg, baant hij zich met slimmigheid steen voor steen een weg vooruit. Verblind door de succesverhalen van zijn vader, ziet hij echter niet altijd het gevaar van de roekeloze situaties waarin hij zich stort. Gelukkig staat Tuller er niet alleen voor. Maak kennis met Waldemar en zijn Heldgenoten. Drie versleten strijders die de jongen ieder op hun eigen manier bijstaan op een pad dat wordt versperd door monsters, corrupte leiders en twijfelende gedachten. Een adembenemend avontuur, geïnspireerd door Nederlandse strijdverhalen, vol kameraadschap en moed… in een wereld die slechts pauze neemt in de verzen tussen de hoofdstukken door. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Dennis van den Munckhof</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Levenslang in verzet]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461905388/levenslang-in-verzet-roxanne-borgman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461905388/levenslang-in-verzet-roxanne-borgman"/>
-        <updated>2026-11-04T14:58:56.371Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461905388?aid=kb-online-bibliotheek&sid=24&dts=1793786859902&sig=172c760664bb7c0c5ec7aea60725881ede8e5afc3a222d8a0dce43dde0c807a0&width=320" alt="Omslag van 'Levenslang in verzet'" title="Omslag van 'Levenslang in verzet'">
-<p>Hoe ver ben jij bereid te gaan voor je vrijheid? Mijn naam is Alise Aalmers en ik ben een magiër. Waar ik ziektes genees die burgerartsen ongeneeslijk noemen, ziet de staat een gevaar dat de kop ingedrukt moet worden. In Nederland is mijn gave mijn vonnis, met levenslange opsluiting in de Toren tot gevolg. Terwijl ik alles op alles zet om te overleven, wordt de buitenwereld grimmiger. De Jagers Partij voert deze Tweede Kamerverkiezingen de druk op: ze willen de doodstraf versoepelen en nageslacht onmogelijk maken, in een laatste poging om ons soort volledig uit te wissen. Wanneer de gewelddadige dood van watermagiër Sika Trevane aan het licht komt, stijgen de jarenlange protesten tot het kookpunt bij het verzet. Vreedzaam protesteren voor onze vrijheid is niet langer het motto. Om mezelf en mijn soortgenoten te redden uit de klauwen van de jagers, moet ik het ondenkbare doen: vertrouwen op de man die ik zou moeten haten en die straks moet zweren mijn soort uit te roeien. Ik groei uit tot het gezicht van een verzet dat steeds gevaarlijker wordt. Maar naarmate de grens tussen vijand en bondgenoot vervaagt, ontwaakt er een verborgen kracht in mij. Een kracht die de wereld kan bevrijden, maar waarmee ik alles waar ik voor vecht, en mezelf, voorgoed kan verliezen. Levenslang in Verzet is het langverwachte vervolg op Levenslang in de Toren. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Roxanne Borgman</name>
         </author>
     </entry>
 </feed>
