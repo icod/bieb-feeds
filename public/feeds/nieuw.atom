@@ -2,11 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-11-12T15:41:57.139Z</updated>
+    <updated>2026-11-13T15:00:36.264Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[48 uur]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/424124912/48-uur-james-patterson---brendan-dubois</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/424124912/48-uur-james-patterson---brendan-dubois"/>
+        <updated>2026-11-13T15:00:31.806Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424124912?aid=kb-online-bibliotheek&sid=24&dts=1794575459689&sig=a67cfc5f9e1ec878855b9d8be694a0a863edf61c6b6b998b873663ed8c958f3b&width=320" alt="Omslag van '48 uur'" title="Omslag van '48 uur'">
+<p>Een onmogelijke missie, een dodelijk ultimatum, een gevecht tegen de tijd.</p><p>Als Amerikaans inlichtingenofficier heeft Amy Cornwall al het nodige meegemaakt. Maar wat ze op een dag aantreft bij thuiskomst doet zelfs haar verstijven. Het huis is leeg, geen stemmen van dochter of man, geen geuren van een wachtende maaltijd. Slechts een onbekende telefoon op de eettafel, via welke ze een vreselijk ultimatum doorkrijgt. Binnen 48 uur moet ze een naamloze gevangene vinden en bevrijden. Lukt dit haar niet, dan zal haar gezin het niet overleven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>James Patterson</name>
+        </author>
+        <author>
+            <name>Brendan Dubois</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De villa]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/429385609/de-villa-james-patterson---bredan-dubois</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/429385609/de-villa-james-patterson---bredan-dubois"/>
+        <updated>2026-11-13T15:00:31.997Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385609?aid=kb-online-bibliotheek&sid=24&dts=1794575221362&sig=f0b51a58091a51855e0f9adea4b775be4371bf54b5a89eaedb6bdeaa5f8bb99a&width=320" alt="Omslag van 'De villa'" title="Omslag van 'De villa'">
+<p>Zeven slachtoffers van moord, vier verdachten.  Twee waarheden, één overlevingskans.</p><p>Sullivan County, Georgia, behoort tot het district van sherrif Emma Williams. Maar wanneer enkele rangers in haar gebied worden beschuldigd van moord, probeert het leger haar werk over te nemen.  Het eliteonderzoeksteam van majoor Jeremiah Cook komt samen in De Villa, een groot oud huis aan de rand van het meer dat nu verboden terrein is vanwege het forensisch onderzoek. Het bewijs dat Williams vindt, zet Cook op het spoor van een oplossing die hij niet wil of kan geloven. En tenzij hij de lokale politie kan overtuigen dat deze moorden onderdeel zijn van een veel groter mysterie, zal hij nooit de geheimen kunnen ontrafelen die zich verbergen in De Villa. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>James Patterson</name>
+        </author>
+        <author>
+            <name>Bredan Dubois</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hinderlaag]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/427519489/hinderlaag-james-patterson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/427519489/hinderlaag-james-patterson"/>
+        <updated>2026-11-13T15:00:32.187Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A427519489?aid=kb-online-bibliotheek&sid=24&dts=1794575316025&sig=9619ae43a20db48d3b415f8c93a4981ddc0a32c56fd1b4afba7540fd6d5c07b5&width=320" alt="Omslag van 'Hinderlaag'" title="Omslag van 'Hinderlaag'">
+<p>Slechts enkele uren nadat Alex Cross en zijn partner getuige zijn geweest van de dood van een moordenaar die ze zelf hadden opgepakt, wordt Cross opgeroepen bij de plaats delict van een copycatmoordenaar. Op het lichaam is een briefje bevestigd: ‘Je hebt het weer vreselijk verprutst, dr. Cross. M.’  De geheimzinnige ‘M’ lokt Cross weg uit Washington naar plekken waar eerder moorden zijn gepleegd; cold cases waarvan de gelijkenissen langzaamaan zichtbaar worden, en die bovendien refereren aan geheimen uit de familie van Alex Cross zelf.  Het wordt duidelijk dat ‘M’ maar op één ding uit is. En als de moordenaar dat zou lukken, zou Cross’ leven niets meer waard zijn. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>James Patterson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De perfecte moord]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434214981/de-perfecte-moord-james-patterson---david-ellis</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434214981/de-perfecte-moord-james-patterson---david-ellis"/>
+        <updated>2026-11-13T15:00:32.373Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434214981?aid=kb-online-bibliotheek&sid=24&dts=1794575019836&sig=dd09f7089072b024065fd281bcd24732a5587519857bd72b352fe05a21e013d1&width=320" alt="Omslag van 'De perfecte moord'" title="Omslag van 'De perfecte moord'">
+<p>Elke perfecte moord lijkt op een ongeluk, of is elk ongeluk een perfecte moord?</p><p>FBI-agent Emmy Dockery is niet te stoppen. Ze is jong en ambitieus en haar talent om verbanden te zien die voor anderen verborgen blijven, heeft haar een indrukwekkende staat van dienst opgeleverd.  Wanneer echter door het hele land verschillende moorden worden gepleegd, staat ze machteloos. De slachtoffers lijken allemaal te zijn verongelukt, en hebben niets met elkaar gemeen. Maar zo veel ongelukken tegelijkertijd, dat kan geen toeval zijn.  Ondertussen houdt iemand Dockery in de gaten. Observerend, bestuderend, wachtend – tot het de juiste tijd is om toe te slaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>James Patterson</name>
+        </author>
+        <author>
+            <name>David Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dubbelspel]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/431718105/dubbelspel-james-patterson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/431718105/dubbelspel-james-patterson"/>
+        <updated>2026-11-13T15:00:32.568Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A431718105?aid=kb-online-bibliotheek&sid=24&dts=1794575718022&sig=826d4f62f297a4fa722be6fbaf330465e7ad230a4f3dd23e15c285bbf6190a8b&width=320" alt="Omslag van 'Dubbelspel'" title="Omslag van 'Dubbelspel'">
+<p>Wanneer in een auto de half ontblote lichamen van een socialite en een highschooldirecteur worden gevonden, wordt deze brute daad direct breed uitgemeten in de media. Kay Willingham was rijk en beroemd, en de ex-vrouw van de Amerikaanse vicepresident. Randall Christopher was een gewaardeerd directeur vol politieke ambities, met een vrouw en kinderen. Alex Cross kende beide slachtoffers goed, vooral Kay, die ooit zijn patiënt was. En misschien wel meer.  Terwijl voormalig collega John Sampson het spoor van Randall Christopher volgt, worden Alex Cross en fbi-agent Ned Mahoney in het onderzoek naar Kay naar Alabama geleid. In een wereld vol corruptie en geheimen zal Cross een keuze moeten maken tussen het vertrouwen dat in hem gesteld wordt of het vertrouwen in zijn eigen gezonde verstand. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>James Patterson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klopjacht]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/435150006/klopjacht-james-patterson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/435150006/klopjacht-james-patterson"/>
+        <updated>2026-11-13T15:00:32.746Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A435150006?aid=kb-online-bibliotheek&sid=24&dts=1794576366330&sig=5a8a28b5277fe050f43aff7abd699f4e843c6719bc6e1980f849681ae807e565&width=320" alt="Omslag van 'Klopjacht'" title="Omslag van 'Klopjacht'">
+<p>De vrienden Alex Cross en John Sampson staan op het punt om samen de ruige wildernis van Montana in te trekken als ze worden opgeroepen bij een moordzaak in Washington. Samen met Ned Mahoney storten ze zich op het onderzoek, zich niet bewust van het veel grotere kwaad dat dreigt.  M, de mysterieuze moordenaar die Cross al jaren achtervolgt, is weer opgedoken en lijkt ongrijpbaarder dan ooit. Het spoor leidt ze dieper de wildernis in, waar Cross en Sampson als opgejaagd wild hun krachten moeten bundelen, en hun overlevingsdrang moeten inzetten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>James Patterson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tease]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/462045854/tease-melanie-harlow</id>
@@ -30,17 +105,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De machineplaag]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/436755645/de-machineplaag-frank-van-dongen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/436755645/de-machineplaag-frank-van-dongen"/>
-        <updated>2026-11-11T14:50:58.131Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436755645?aid=kb-online-bibliotheek&sid=24&dts=1794408621445&sig=a7bdde81c66c87c13525de233e2c412f87e14889bf4dd6f54084c6979024d9e1&width=320" alt="Omslag van 'De machineplaag'" title="Omslag van 'De machineplaag'">
-<p>Een genetisch gemanipuleerde man probeert met hulp van zijn broer en AI de mensheid van de ondergang te redden.</p>]]></content>
-        <author>
-            <name>Frank van Dongen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De Feind invasie]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/436755653/de-feind-invasie-frank-van-dongen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/436755653/de-feind-invasie-frank-van-dongen"/>
@@ -52,6 +116,72 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De machineplaag]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/436755645/de-machineplaag-frank-van-dongen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/436755645/de-machineplaag-frank-van-dongen"/>
+        <updated>2026-11-11T14:50:58.131Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A436755645?aid=kb-online-bibliotheek&sid=24&dts=1794408621445&sig=a7bdde81c66c87c13525de233e2c412f87e14889bf4dd6f54084c6979024d9e1&width=320" alt="Omslag van 'De machineplaag'" title="Omslag van 'De machineplaag'">
+<p>Een genetisch gemanipuleerde man probeert met hulp van zijn broer en AI de mensheid van de ondergang te redden.</p>]]></content>
+        <author>
+            <name>Frank van Dongen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herhaling]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444127240/herhaling-angelieke-uittenbogaard-janssen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444127240/herhaling-angelieke-uittenbogaard-janssen"/>
+        <updated>2026-11-13T15:00:33.042Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444127240?aid=kb-online-bibliotheek&sid=24&dts=1794582032842&sig=d4763c25809e5198188d78b1bbe4bfb23b2b8081e34c8f8ad04cbc1c6ff66f53&width=320" alt="Omslag van 'Herhaling'" title="Omslag van 'Herhaling'">
+<p>In een nabije toekomst waarin de vervuiling van de aarde door een nucleaire ramp onomkeerbaar is geworden, treden er mysterieuze verplaatsingen op van personen in tijd en ruimte. Telkens duikt hierbij een eeuwenoud boek op, dat bij de lezer een kettingreactie van hersenactiviteit in gang zet. Tycho, betrokken bij de ontdekking van de ramp, ondergaat zo'n verplaatsing en belandt op een andere planeet die onlangs aan de hemel verscheen. Een kleine groep mensen weet eveneens naar de planeet te ontsnappen. Om te voorkomen dat de geschiedenis zich herhaalt en de schone, mooie planeet hetzelfde lot als de Aarde ondergaat, neemt zijn gedrevenheid extreme vormen aan. Welke menselijke offers is hij bereid te overwegen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Angelieke Uittenbogaard-Janssen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gestrand op Helga's Doem]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444397809/gestrand-op-helga-s-doem-jan-d--westerman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444397809/gestrand-op-helga-s-doem-jan-d--westerman"/>
+        <updated>2026-11-13T15:00:33.423Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444397809?aid=kb-online-bibliotheek&sid=24&dts=1794582033138&sig=813a0221e27a624ed6f967d5e620cf29fe77f0b43f454ab669688f6eba530232&width=320" alt="Omslag van 'Gestrand op Helga's Doem'" title="Omslag van 'Gestrand op Helga's Doem'">
+<p>Na het uitbreken van de duizendjarige oorlog tussen de Westelijke Federatie en het Groot Aziatisch Keizerrijk in het jaar 2700 ging het snel bergafwaarts op Aarde; aan beide zijden werden biologische en chemische wapens ingezet en werd er geëxperimenteerd met genetisch gemanipuleerde soldaten. In 3715 zijn de vele eeuwen van genetische manipulatie inmiddels een niet meer te beteugelen monster geworden. Mutanten hebben de Aarde veroverd en het laatste bastion, waar het sterrenschip Pinta gereed staat voor vertrek naar de verre wereld Axtarte, dreigt te worden overlopen. Als het schip dan eindelijk vertrekt is luitenant Lev Teggert de enige overlevende van de enclave. Maar is hij wel alleen aan boord en waar is het schip eigenlijk naartoe onderweg? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jan D. Westerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De val van de muta]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/444397817/de-val-van-de-muta-jan-d--westerman</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/444397817/de-val-van-de-muta-jan-d--westerman"/>
+        <updated>2026-11-13T15:00:33.708Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A444397817?aid=kb-online-bibliotheek&sid=24&dts=1794582033509&sig=d31523dbb6ad73735c1eddb179b7c78bbefd8a237a1d946cc768a731d399e0ee&width=320" alt="Omslag van 'De val van de muta'" title="Omslag van 'De val van de muta'">
+<p>Onbereikbaar voor de mensen op het oppervlak draait het sterrenschip Pinta voor eeuwig rondjes om de planeet Zanterre, een ex-gevangenisplaneet waar het technologisch niveau ernstig ingezakt is en zich op laat 19e-eeuws niveau bevindt. De laatste overlevende van de Pinta, luitenant Lev Teggert, zal zich moeten aanpassen op deze onbekende planeet om de ontsnapte muta Armanda op te sporen en onschadelijk te maken. Maar zij heeft haar eigen plannen... En wat zijn de intenties van de ondoorgrondelijke Kla, de inheemse alien soort, die zich zelden laat zien? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jan D. Westerman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sporen voorbij de eindtijd]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/443397570/sporen-voorbij-de-eindtijd-frank-van-dongen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/443397570/sporen-voorbij-de-eindtijd-frank-van-dongen"/>
+        <updated>2026-11-13T15:00:34.042Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A443397570?aid=kb-online-bibliotheek&sid=24&dts=1794582033820&sig=f6e8223e317e90677f55557b0b6018fe65694418885b0c8fb45fce4c7950e349&width=320" alt="Omslag van 'Sporen voorbij de eindtijd'" title="Omslag van 'Sporen voorbij de eindtijd'">
+<p>Jack Newman heeft uiteindelijk zijn identieke tweelingbroer Redmond vlak voor diens sterven gevonden op een verre planeet uit het duizend eilanden experiment. Terwijl de Alfabeschaving de Feind bevecht, geeft Redmond de a-sterfelijke Jack de veelomvattende taak om ervoor te zorgen dat zijn stam van IGD-klonen het einde der tijden overleeft door naar een volgend universum over te steken. Om uit te vinden of dit überhaupt mogelijk is moet Jack in contact zien te komen met de technologisch veel verder gevorderde Alfabeschaving. Waarom hielpen zij de mensheid en wat zijn hun lange termijn doelen en plannen? En welk gevaar vormt de herboren beschaving die ooit de machineplaag veroorzaakte, ternauwernood overwonnen door een monsterverbond tussen de Alfabeschaving en de Feind? Eindelijk komt Jack erachter door wie en met welk doel hij als IGD-kloon op de wereld is gezet. Hij leeft inmiddels al eeuwen en probeert zijn laatste nog levende soortgenoten te verenigen om het schijnbaar onmogelijke te bewerkstelligen. Wie overleeft de Eindtijd? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Frank van Dongen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juster wie alles oars]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462235580/juster-wie-alles-oars-anneke-sieperda</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462235580/juster-wie-alles-oars-anneke-sieperda"/>
+        <updated>2026-11-13T15:00:34.332Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462235580?aid=kb-online-bibliotheek&sid=24&dts=1794582034141&sig=20ffcc8090c73a955834f6f0d2a2ceede0ca3dd4479388b9d60e73d706294e3e&width=320" alt="Omslag van 'Juster wie alles oars'" title="Omslag van 'Juster wie alles oars'">
+<p>Yn dit boek bondelt Anneke Sieperda ferhalen oer har eigen libben. Se nimt de lėzer mei op in reis troch de jierren en lit sjen hoe't de tiid feroaret. It binne ferhalen dy't jin glimkje litte om't se sa werkenber binne, mar ek ferhalen dy't de lėzer oangripe, omdat se fertelle oer leafde, gemis en ferlies. Anneke hat in flotte pinne fan skriuwen en wit de karakters yn har ferhalen goed del te setten. Sa wurdt in moai byld sketst fan it libben yn in Fryske mienskip mei grutte en lytse mominten dy't it libben kleur jouwe. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Anneke Sieperda</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Het Oppenheimer alternatief]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/462187357/het-oppenheimer-alternatief-robert-j--sawyer</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/462187357/het-oppenheimer-alternatief-robert-j--sawyer"/>
@@ -60,6 +190,84 @@
 <p>Op de 80e verjaardag van de atoombom neemt Robert J. Sawyer ons mee terug in de tijd om de geschiedenis te herbeleven... met een twist. Terwijl J. Robert Oppenheimer en zijn Manhattan Project-team worstelen met de ontwikkeling van de atoombom, wil Edward Teller iets nog verwoestenders: een bom gebaseerd op kernfusie - het mechanisme dat de zon aandrijft. Tellers onderzoek leidt tot een angstaanjagende ontdekking: tegen het jaar 2030 zal de zon zijn buitenste laag afstoten en het binnenste deel van het zonnestelsel vernietigen, inclusief de Aarde. Terwijl de oorlog eindigt met het gebruik van splijtingsbommen tegen Japan, blijven Oppenheimers team plus Albert Einstein en Wernher von Braun bij elkaar - de grootste wetenschappelijke genieën van de vorige eeuw in een race tegen de klok om onze toekomst te redden. Het Oppenheimer alternatief is een adembenemend avontuur door zowel de echte als de alternatieve geschiedenis. Het boek is qua achtergrond zorgvuldig onderzocht en staat vol met personages, gebeurtenissen en zelfs conversaties uit het echte leven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Robert J. Sawyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het bouwplan]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/448337258/het-bouwplan-frank-van-dongen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/448337258/het-bouwplan-frank-van-dongen"/>
+        <updated>2026-11-13T15:00:34.684Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A448337258?aid=kb-online-bibliotheek&sid=24&dts=1794582034426&sig=08394decc200f1873c2aef980247e324d1d2a14e36499907e8f5d06010553b45&width=320" alt="Omslag van 'Het bouwplan'" title="Omslag van 'Het bouwplan'">
+<p>Het Bouwplan is een rauwe, filosofische SF-thriller over een donkere, verre toekomst. De mens is gestrand op een lang vergeten wereld van het duizend eilanden experiment, verstrikt in een meedogenloze oorlog tegen zijn eigen natuur en tegen een buitenaardse kracht, worstelend op de rand van uitsterven. Protagonist Ralen wordt meegesleurd in de levensgevaarlijke zoektocht naar een gefossiliseerde vijand die zijn vernietigende krachten nog niet heeft verloren. Niemand weet waar het Bouwplan vandaan komt, waarom het ooit op de wereld strandde en waardoor het in zes zones en duizenden fragmenten uiteen is gevallen. Iedereen die ooit in contact komt met het Bouwplan verandert in een Reiziger die tot het einde van zijn leven gebukt gaat onder een ondraaglijk verlangen om de fragmenten van het Bouwplan te herenigen. Zo ook de a-sterfelijke Ralen, die ouder is dan hij zich kan herinneren en kampt met gaten in zijn geheugen. Tijdens zijn dwangmatige zoektochten door de intercontinentale tunnelstelsels, ervaart hij af en toe flashbacks van de bitter eenzame reis door de verboden leegte die hem eraan herinnert dat een onbekende vijand van ver onderweg is naar de wereld van het Bouwplan. Dit zijn zeldzame momenten waarop Ralen ook rationeel beseft dat hij moet doorgronden wat de ware aard, oorsprong en betekenis is van het Bouwplan. Het is de laatste strohalm van hoop, het enige middel dat misschien nog kan voorkomen dat de mensheid uitsterft. Deze tweede druk van Het Bouwplan is volledig herzien. Er is een overzicht toegevoegd van de belangrijkste thema's en hoofdpersonen van het boek. De auteur heeft dit boek tevens gekoppeld aan zijn reeks De Ontdekking van de mens. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Frank van Dongen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geen weg terug]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462235602/geen-weg-terug-shanna-de-jong</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462235602/geen-weg-terug-shanna-de-jong"/>
+        <updated>2026-11-13T15:00:34.870Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462235602?aid=kb-online-bibliotheek&sid=24&dts=1794575207575&sig=84197e962ce4548c9e1937ecb722f950238a3568e541527a3fdb249768d27a05&width=320" alt="Omslag van 'Geen weg terug'" title="Omslag van 'Geen weg terug'">
+<p>Na een fatale inschattingsfout wordt officier van justitie Julia Leeuwestein op non-actief gesteld. Om zich te beraden op de toekomst neemt ze haar toevlucht tot een camping in de Ardennen. De rust wordt ruw verstoord wanneer een zware overstroming een gruwelijk geheim onthult: het lichaam van een meisje dat twintig jaar geleden van de aardbodem verdween. De macabere vondst legt een spoor van leugens en geheimen bloot en sleurt Julia mee in een gevaarlijk spel. Wanneer het noodlot opnieuw toeslaat, is Julia er persoonlijk bij betrokken… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Shanna de Jong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skorpio]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462235610/skorpio-deon-meyer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462235610/skorpio-deon-meyer"/>
+        <updated>2026-11-13T15:00:35.065Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462235610?aid=kb-online-bibliotheek&sid=24&dts=1794575515501&sig=0756b6009d9039a36a9bdd2b38cdf86058f705d19e845b46ce75c29454d28471&width=320" alt="Omslag van 'Skorpio'" title="Omslag van 'Skorpio'">
+<p>Bennie Griessel en Vaughn Cupido ontvangen het goede nieuws dat ze weer zijn gepromoveerd tot de rang van kapitein. Maar hun vreugde is van korte duur. Het verminkte lichaam van een van Cupido’s beste vrienden wordt gevonden onder de auto waaraan hij werkte in zijn garage.</p><p>Dan ontploft op een boerderij buiten Stellenbosch een woonwagen. Onverklaarbaar. Nadat het vuur is geblust, wordt er een lichaam in het wrak gevonden. De identiteit van het slachtoffer zorgt voor een ongekende mediastorm, slechts een week voordat de staatslieden van de BRICS-top naar de stad komen. Wanneer er raketonderdelen opduiken met daarop de naam Skorpio leiden de sporen naar Moskou en Afrika. De klok tikt… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Deon Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Een hoop stenen]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462235645/een-hoop-stenen-nancy-wiltink</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462235645/een-hoop-stenen-nancy-wiltink"/>
+        <updated>2026-11-13T15:00:35.450Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462235645?aid=kb-online-bibliotheek&sid=24&dts=1794582035153&sig=e974d602d27e9593149fd061979a747c6351c810d42a50eb72247399bc508964&width=320" alt="Omslag van 'Een hoop stenen'" title="Omslag van 'Een hoop stenen'">
+<p>Na de dood van haar man Max vertrekt Joanne naar hun zomerhuis in het Franse Mezvelle. Ze hoopt zichzelf daar weer te vinden, maar overweegt ook het huis te verkopen. Joanne besluit het huis een maand de tijd te geven. Die maand vliegt voorbij, mede door een nieuw moestuinproject dat ze begint. Daarnaast wordt ze voor het eerst in haar leven nieuwsgierig naar de rijke geschiedenis van de streek. Samen met haar raadselachtige buurman Philippe smeedt ze plannen om een middeleeuws kasteel te herbouwen op de oorspronkelijke locatie in het dorp. Al snel ontdekt ze echter dat Philippe zijn eigen motieven heeft. Ondertussen duikt ook Joannes dochter Kik in de geschiedenis van Mezvelle. Onafhankelijk van elkaar stuiten ze op een bijzondere ontdekking. Een meeslepende roman, verweven met historische verhalen die verrassend genoeg nauw verbonden zijn met het heden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nancy Wiltink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De kracht van verandering]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462235599/de-kracht-van-verandering-maya-shankar</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462235599/de-kracht-van-verandering-maya-shankar"/>
+        <updated>2026-11-13T15:00:35.857Z</updated>
+        <summary type="html"><![CDATA[Vind veerkracht, groei en geluk als het leven anders loopt]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462235599?aid=kb-online-bibliotheek&sid=24&dts=1794582035594&sig=5b91acbcef196fc57ed7be99c53b07309b2e2c94e866a27bc74b6e45c5871f80&width=320" alt="Omslag van 'De kracht van verandering'" title="Omslag van 'De kracht van verandering'">
+<p>Een ernstige ziekte. Een verbroken relatie. Een sterfgeval. Een onvervulde kinderwens. Ontslag. Wanneer er iets ingrijpends gebeurt in ons leven, kan het voelen alsof de grond onder onze voeten wegzakt. Maar wat als we verandering niet alleen als bedreiging zouden zien, maar ook als kans om te groeien? Als gerenommeerd cognitiewetenschapper onderzoekt Maya Shankar al jarenlang hoe mensen omgaan met verandering. Toen ze zelf met een grote wending in haar leven werd geconfronteerd, ging ze op zoek naar mensen die soortgelijke keerpunten hadden meegemaakt. In De kracht van verandering verweeft ze hun aangrijpende verhalen met verrassende wetenschappelijke inzichten. Dit inspirerende boek laat zien hoe tegenslag kan leiden tot nieuwe vaardigheden, andere perspectieven en een rijker leven. Het is voor iedereen die worstelt met een verandering of weet dat er iets groots te gebeuren staat. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Maya Shankar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Droog land]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462235637/droog-land-j%C3%B8rn-lier-horst</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462235637/droog-land-j%C3%B8rn-lier-horst"/>
+        <updated>2026-11-13T15:00:36.043Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462235637?aid=kb-online-bibliotheek&sid=24&dts=1794578018686&sig=775311bd1c53a173b791bff34c679c4b6f2eab4d3ebd06c84b26c35231b38ff3&width=320" alt="Omslag van 'Droog land'" title="Omslag van 'Droog land'">
+<p>Een strenge winter heeft ernstige schade veroorzaakt aan de sluisdeuren van het Farrisvann-meer. Vóór de zomer werd het waterpeil verlaagd om herstelwerkzaamheden mogelijk te maken. In de zinderende zomerhitte daalt het resterende water snel verder, en het idyllische meer verandert in een dor en desolaat landschap. Aan de oever wordt het lichaam gevonden van een jongeman die al acht jaar vermist was — zijn hand vastgetapet aan het stuur van een motorfiets. Aan de andere kant van het meer speurt de gepensioneerde Evert Harting met een metaaldetector over de opgedroogde bodem. Daar stuit hij op bezittingen van een meisje dat vier jaar geleden spoorloos verdween van een camping in Zweden. Wisting krijgt beide zaken op zijn bord, en terwijl het landschap langzaam terugkeert naar zijn natuurlijke staat, komen steeds meer geheimen aan het licht. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Jørn Lier Horst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rechercheur De Klerck en moord als toonbeeld]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462228487/rechercheur-de-klerck-en-moord-als-toonbeeld-p--dieudonn%C3%A9</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462228487/rechercheur-de-klerck-en-moord-als-toonbeeld-p--dieudonn%C3%A9"/>
+        <updated>2026-11-13T15:00:36.263Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462228487?aid=kb-online-bibliotheek&sid=24&dts=1794575274601&sig=8d26587df0322dba625f773a14f9b9e3fc4dd03095a2bc07484025704da9c884&width=320" alt="Omslag van 'Rechercheur De Klerck en moord als toonbeeld'" title="Omslag van 'Rechercheur De Klerck en moord als toonbeeld'">
+<p>Een Rotterdamse zakenman in ruste wendt zich tot De Klerck met een uitzonderlijke aangifte: hij verdenkt zijn schoonmaakster van een voorgenomen diefstal van een borstbeeld. De zakenman kocht het kunstwerk vijf jaar geleden van Jorik Scherff. Vier dagen na de aangifte belt een anonieme vrouw het alarmnummer met de melding dat Scherff dood in zijn woning ligt. Is er een verband met de voorgenomen diefstal? Of moet met de beschuldigende vinger worden gewezen naar het buitenland? Scherff was een uitvinder die ingenieuze drones voor het Oekraïense leger ontwikkelde. Dieudonné presenteert weer een spannend politieverhaal waarmee hij de lezer moeiteloos in de ban houdt.</p><p>Rechercheur De Klerck en moord als toonbeeld is het vijftiende deel in een detectiveserie over Lucien de Klerck en zijn assistent Ruben Klaver van de Rotterdamse recherche. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>P. Dieudonné</name>
         </author>
     </entry>
     <entry>
@@ -148,217 +356,6 @@
 <p>Een schrijfster die worstelt met writer’s block ontmoet een charmante acteur; wanneer paparazzi haar aanzien voor zijn vriendin, raken hun levens verstrengeld.</p>]]></content>
         <author>
             <name>Kate Dramis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462209547/improve-bart-heuvingh---tim-koning</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462209547/improve-bart-heuvingh---tim-koning"/>
-        <updated>2026-11-09T17:00:31.346Z</updated>
-        <summary type="html"><![CDATA[9 tools van topsporters om jezelf elke dag te verbeteren]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462209547?aid=kb-online-bibliotheek&sid=24&dts=1794241489522&sig=f273949f76064e872ccde2b30ea69988fabad3fb0d0e7f69e687eea6ff722d55&width=320" alt="Omslag van 'Improve'" title="Omslag van 'Improve'">
-<p>Gids voor persoonlijke ontwikkeling op het gebied van mentale kracht en mindset, gebaseerd op kennis uit de topsport. Met kleurenillustraties.</p>]]></content>
-        <author>
-            <name>Bart Heuvingh</name>
-        </author>
-        <author>
-            <name>Tim Koning</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In de bajes]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462209563/in-de-bajes-gerlan-den-braber</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462209563/in-de-bajes-gerlan-den-braber"/>
-        <updated>2026-11-09T17:00:31.837Z</updated>
-        <summary type="html"><![CDATA[Indringende verhalen van een gevangenisbewaarder]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462209563?aid=kb-online-bibliotheek&sid=24&dts=1794239920331&sig=3483d9b1eb4a8647c99ed0e3e25983fad244bfa905fa3b427eb8c206fa954feb&width=320" alt="Omslag van 'In de bajes'" title="Omslag van 'In de bajes'">
-<p>Persoonlijk relaas van een voormalig gevangenisbewaarder over het dagelijks leven van de gedetineerden, bedreigingen, de mores etc., aangevuld met een beschouwing van het actuele debat over strenger straffen en recidive.</p>]]></content>
-        <author>
-            <name>Gerlan den Braber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Cock en moord in de praktijk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462209717/de-cock-en-moord-in-de-praktijk-baantjer</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462209717/de-cock-en-moord-in-de-praktijk-baantjer"/>
-        <updated>2026-11-09T17:00:32.327Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462209717?aid=kb-online-bibliotheek&sid=24&dts=1794238863121&sig=22640f298a6448316e9de99e370e5062e1ce2a755b7b1365966aa5fd63757dda&width=320" alt="Omslag van 'De Cock en moord in de praktijk'" title="Omslag van 'De Cock en moord in de praktijk'">
-<p>Een populaire huisarts wordt dood aangetroffen in zijn Amsterdamse praktijk. Rechercheur De Cock duikt in het verleden van de dokter en stuit op zaken die het daglicht nauwelijks kunnen verdragen.</p>]]></content>
-        <author>
-            <name>Baantjer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vasthouden!]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462209636/vasthouden--ellen-rink</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462209636/vasthouden--ellen-rink"/>
-        <updated>2026-11-10T15:20:00.748Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462209636?aid=kb-online-bibliotheek&sid=24&dts=1794298711465&sig=b0190c52098e7fe3e041477eeab3b06b61f034ba767ab02aeec8e058628fd546&width=320" alt="Omslag van 'Vasthouden!'" title="Omslag van 'Vasthouden!'">
-<p>Het leven is niet altijd makkelijk. Zelfs niet in Los Angeles waar Emma over een verkeerd afgestelde foute-mannen-radar beschikt. Ze valt van de ene verkeerde relatie in de andere en haar exen hebben één ding gemeen: ze waarderen haar niet. Zal ze eindelijk haar ware man vinden? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ellen Rink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ons pensioen ons geld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462202763/ons-pensioen-ons-geld-hans-van-meerten</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462202763/ons-pensioen-ons-geld-hans-van-meerten"/>
-        <updated>2026-11-09T17:00:32.908Z</updated>
-        <summary type="html"><![CDATA[Hoe we het eerlijker, eenvoudiger en betaalbaar kunnen maken]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462202763?aid=kb-online-bibliotheek&sid=24&dts=1794243632423&sig=5c70d11996d87f846a4f8dd7f0a54aacf58b95d4e1e92be0f125c7a3008a64f5&width=320" alt="Omslag van 'Ons pensioen ons geld'" title="Omslag van 'Ons pensioen ons geld'">
-<p>Hoe we het eerlijker, eenvoudiger en betaalbaar kunnen maken De hervorming van het pensioenstelsel raakt 10 miljoen Nederlanders en dreigt uit te lopen op een enorm fiasco. In dit boek legt Hans van Meerten uit hoe dit allemaal zover heeft kunnen komen, wat er mis is met de pensioensector en belangrijker hoe we wel een eerlijker, eenvoudiger en betaalbaar pensioen realiseren. Een leesbaar boek voor iedereen, over het pensioen, dat is gekkenwerk. Te ingewikkeld en wie interesseert dat nou? Wellicht. Maar het zou ons wel móéten interesseren. Grote kans namelijk dat het ook jou of je naasten treft, terwijl je dat niet eens weet. De nieuwe Pensioenwet zorgt voor een ernstige verslechtering voor de pensioendeelnemers in plaats van dat het de problemen uit het oude stelsel oplost. * De kosten zijn niet transparant, torenhoog en worden betaald door de pensioendeelnemers; * De rechtsbescherming van de deelnemers is verder afgebroken; * Onafhankelijk toezicht is beperkt, terwijl de deelnemer het risico draagt; * En dit alles onder een verplichte deelname. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Hans van Meerten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mysterie in Middelburg]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46220264X/mysterie-in-middelburg-maaike-bosch</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46220264X/mysterie-in-middelburg-maaike-bosch"/>
-        <updated>2026-11-09T17:00:33.441Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46220264X?aid=kb-online-bibliotheek&sid=24&dts=1794240097565&sig=6f51f906be4e2727808530e5b09794a8ce91ba7156f824734e3723c08f3c8cdd&width=320" alt="Omslag van 'Mysterie in Middelburg'" title="Omslag van 'Mysterie in Middelburg'">
-<p>Fenna runt café De Linde, midden in het historische Middelburg. Wanneer tijdens een verhitte bewonersavond de ruzie over de kap van de eeuwenoude bomen in hun straat escaleert, kan niemand vermoeden wat er daarna gebeurt. Kort na de bijeenkomst wordt een politicus en felle tegenstander van de bomenkap dood gevonden in een steegje. Al snel blijkt dat hij zich bezighield met mysterieuze documenten over een bodemonderzoek. Wat ligt er verborgen onder de straten van Middelburg? Fenna kan het niet loslaten. Samen met haar oude liefde Daan gaat ze op onderzoek uit. Hun zoektocht brengt hen steeds dichter bij een geheim dat sommige mensen koste wat kost verborgen willen houden. Terwijl Fenna de puzzelstukjes bij elkaar probeert te leggen, ontdekt ze dat de waarheid soms gevaarlijk dichtbij komt. Wie graaft in het verleden, kan zomaar iets vinden wat beter verborgen was gebleven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Maaike Bosch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twijfeltaal]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462202623/twijfeltaal-neil-webers---gwen-engelen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462202623/twijfeltaal-neil-webers---gwen-engelen"/>
-        <updated>2026-11-09T17:00:34.019Z</updated>
-        <summary type="html"><![CDATA[Waarom niemand luistert als jij praat]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462202623?aid=kb-online-bibliotheek&sid=24&dts=1794243633528&sig=753f6eb9ff1475c42a05424a0ad01379f2bed6ae8f1a3cb36eafd8537dcf20cc&width=320" alt="Omslag van 'Twijfeltaal'" title="Omslag van 'Twijfeltaal'">
-<p>Zeg jij ook weleens misschien, een beetje of sorry dat ik het zeg... terwijl je eigenlijk precies weet wat je wilt zeggen? Dan is dit boek voor jou. Twijfeltaal gaat over kleine woorden met grote gevolgen. Woorden die vriendelijk lijken en nuance toevoegen, maar die ongemerkt je impact verlagen en je boodschap verzwakken. Wil iemand straks misschien nog even de hond uitlaten? Eén zin. En toch voelt niemand in het gezin de urgentie om op te staan. We gebruiken dit soort taal dagelijks. Thuis. Op het werk. In relaties. Met je kinderen, op school of op het sportveld. Bij een gemeenteloket of in het ziekenhuis. Het zorgt er niet alleen voor dat je minder zeker overkomt, maar ook dat je minder serieus wordt genomen. In dit boek ontdek je waarom je brein twijfeltaal gebruikt en waarom het je soms juist tegenwerkt. Je leert hoe taal direct invloed heeft op vertrouwen, besluitvorming en gedrag. Gelukkig kun je dit veranderen met kleine aanpassingen in je taal. Geen cursus. Geen trucjes of ingewikkelde theorie. Door bewust krachttaal te gebruiken wordt je boodschap sterker en krijg je het resultaat dat je verdient: gehoord en begrepen worden. Waar wacht je nog op? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Neil Webers</name>
-        </author>
-        <author>
-            <name>Gwen Engelen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De Soldaat van Oranje ontmaskerd]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462202690/de-soldaat-van-oranje-ontmaskerd-petra-alkema</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462202690/de-soldaat-van-oranje-ontmaskerd-petra-alkema"/>
-        <updated>2026-11-09T17:00:34.658Z</updated>
-        <summary type="html"><![CDATA[Leugens, slachtoffers en geheimen]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462202690?aid=kb-online-bibliotheek&sid=24&dts=1794243634106&sig=ba61189b310396650d6dacc316e3bc033eb93aefde05ab7171f6adfa2a903d13&width=320" alt="Omslag van 'De Soldaat van Oranje ontmaskerd'" title="Omslag van 'De Soldaat van Oranje ontmaskerd'">
-<p>Kritische analyse dat het heldenbeeld van Erik Hazelhoff Roelfzema ter discussie stelt.</p>]]></content>
-        <author>
-            <name>Petra Alkema</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spoorzoeken]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462202615/spoorzoeken-andro-vos</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462202615/spoorzoeken-andro-vos"/>
-        <updated>2026-11-09T17:00:35.412Z</updated>
-        <summary type="html"><![CDATA[Van droom tot wereldwijd wapen tegen wildlife crime]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462202615?aid=kb-online-bibliotheek&sid=24&dts=1794243634762&sig=d716deee0fb9c47ef7e4ed74dcf460c867d9d9fd9fb63b2a2090eadfd277625b&width=320" alt="Omslag van 'Spoorzoeken'" title="Omslag van 'Spoorzoeken'">
-<p>In Spoorzoeken - Van droom tot wereldwijd wapen tegen wildlife crime vertelt Andro Vos hoe één ervaring in het Krugerpark zijn leven radicaal verandert. De voormalig programmadirecteur van het Nederlands Forensisch Instituut besluit zijn loopbaan in Nederland los te laten en richt de Wildlife Forensic Academy op: een internationaal samenwerkingsverband waarin wetenschap, opsporing en natuurbescherming samenkomen. Wildlife crime wordt vaak gezien als een natuurprobleem, maar volgens Vos is het veel groter. De illegale handel in wilde dieren en dierlijke producten is een miljardenindustrie die nauw verweven is met mensenhandel, drugshandel, wapensmokkel, terrorisme en corruptie. Daarnaast vormt zij een risico voor de wereldgezondheid door zoönosen - ziektes die van dier op mens overspringen. In Spoorzoeken beschrijft Vos zijn persoonlijke weg: van zijn jeugd na zijn komst uit Suriname en zijn werk in de Nederlandse strafrechtketen tot zijn internationale activiteiten als wildlife forensics-expert. Hij laat zien hoe forensisch denken - het volgen van sporen, letterlijk én strategisch - kan leiden tot structurele verandering. De door hem opgerichte Wildlife Forensic Academy traint inmiddels rangers, opsporingsdiensten, studenten en onderzoekers wereldwijd in forensisch onderzoek, met als doel betere opsporing en succesvolle vervolging van wildlife crime. De Academy werkt samen met tientallen universiteiten en instituten en groeit uit tot een internationaal kenniscentrum. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Andro Vos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het meisje van de bakkerij]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462202658/het-meisje-van-de-bakkerij-janna-beekman</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462202658/het-meisje-van-de-bakkerij-janna-beekman"/>
-        <updated>2026-11-09T17:00:36.009Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462202658?aid=kb-online-bibliotheek&sid=24&dts=1794239809055&sig=fb112f52db44bb0c0c7900bc4849f8692bf9302b049781af30776387ffbf26d7&width=320" alt="Omslag van 'Het meisje van de bakkerij'" title="Omslag van 'Het meisje van de bakkerij'">
-<p>Het liefdesleven van Irma glijdt door de jaren heen langzaam maar zeker van de roze wolk af. Ze trouwde en kreeg kinderen met een jeugdvriend, een van een tweeling, maar kwam erachter dat hij tijdens hun huwelijk er meerdere geheime relaties op na hield. Zelf had ze door een persoonsverwisseling eens een fijne ervaring met zijn tweelingbroer, maar toch koos ze voor de jongen die later de vader van haar kinderen zou worden. De andere broer verloor ze uit het oog. Ze zet haar man uiteindelijk de deur uit en kiest voor zichzelf en de kinderen. Maar haar liefdesleven blijft er door haar drukke baan en gezinsleven de eerste jaren net zo bij inschieten als tijdens haar huwelijk. Jaren na de scheiding reist Irma in een warme zomer samen met haar kinderen af naar het vakantiehuis van de ex-schoonfamilie, in Frankrijk. Daar kwam het tot een nieuwe ontmoeting met de andere helft van de tweeling, die daar niet geheel toevallig verscheen. Maar al op een van de eerste ochtenden daar ontmoette Irma, in het dichtstbijzijnde dorp, een jonge vrouw die haar leven op z'n kop zet... </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Janna Beekman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoe AI ons menselijker maakt]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/460760262/hoe-ai-ons-menselijker-maakt-minke-tromp</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/460760262/hoe-ai-ons-menselijker-maakt-minke-tromp"/>
-        <updated>2026-11-06T14:43:10.036Z</updated>
-        <summary type="html"><![CDATA[11 morele vragen voor helderheid, kracht en betekenis]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A460760262?aid=kb-online-bibliotheek&sid=24&dts=1793976189515&sig=b64464db76c7849367b82fe361e741880be167b20f6409afece0e2e4f359ab74&width=320" alt="Omslag van 'Hoe AI ons menselijker maakt'" title="Omslag van 'Hoe AI ons menselijker maakt'">
-<p>AI verandert alles Onze banen, onze privacy, de wereldpolitiek, de toekomst van onze kinderen: alles staat onder invloed van razendsnelle technologische ontwikkelingen. Maar wie stuurt dit eigenlijk? Het voelt vaak ongrijpbaar en anoniem. We lezen de koppen, zitten in vergaderingen, proberen bij te blijven. Ondertussen worden er beslissingen genomen. Door anderen. Zonder ons. Over ons. Dit boek geeft je meer invloed. Niet door pasklare antwoorden, die verouderen immers snel, maar door het stellen van de juiste vragen. Hoe AI ons menselijker maakt bundelt elf morele vragen die het gesprek over AI verdiepen en richting geven. Ze helpen je te herkennen waar het écht om draait: in nieuwsberichten, beleidsdiscussies, boardrooms en persoonlijke gesprekken. Ze brengen orde in de complexiteit, maken zichtbaar welke waarden op het spel staan en geven je de kracht om positie te kiezen. Want juist door mee te doen aan het gesprek wordt AI een democratisch vraagstuk, in plaats van iets dat buiten ons om gebeurt. Je hoeft geen politicus, CEO, filosoof of AI-expert te zijn. Integendeel: dit boek nodigt iedereen uit om mee te denken. Minke Tromp is filosoof, corporate antropoloog en spreker. Al meer dan twintig jaar maakt zij complexe vraagstukken toegankelijk voor organisaties in uiteenlopende sectoren. Haar kracht ligt in het vertalen van diepgaande filosofische inzichten naar heldere, toepasbare taal. Wie aandachtig leest, herkent klassieke wijsheid; wie snel leest, vindt direct houvast. Dit boek is ontstaan uit haar keynotes over AI en moreel leiderschap en pleit voor een herwaardering van het Griekse ideaal: samen nadenken als fundament voor gemeenschap en democratie. Juist bij een onderwerp dat zo snel verandert als AI, blijken de juiste vragen tijdloos en waardevoller dan welk antwoord ook. 'Minke Tromp dwingt ons na te denken over wat menselijk moet blijven. Ze nodigt de lezer uit tot dat essentiële gesprek en ze formuleert precies de vragen die dat gesprek ordenen, verdiepen en toegankelijk maken. Eindelijk een boek dat gaat over de morele vragen die we met z'n allen zouden moeten stellen, en die Minke Tromp helder en moedig op tafel legt'. - Elke Wiss, auteur van Socrates op Sneakers 'Wat een leuk boek! Veel filosofen vinden AI maar niks en wijzen het als vanzelfsprekend af. Terwijl techno-optimisten de filosofen maar zeurkousen vinden. Maar Minke Tromp zit er heel mooi tussenin. Ze stelt belangrijke vragen over AI zonder te oordelen en met een open vizier. De vragen zijn groot, over wat AI voor ons als mens betekent, maar blijven wel prettig concreet. Een mooie combinatie van zwaar en lichtvoetig en van blijvend en actueel.' - prof. dr. Bas Haring, Universiteit Leiden </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Minke Tromp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadow Child]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462170888/shadow-child-beck-palmas</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462170888/shadow-child-beck-palmas"/>
-        <updated>2026-11-06T14:43:11.362Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462170888?aid=kb-online-bibliotheek&sid=24&dts=1793976190804&sig=ac74a8e21fd674167836a8ae1ba131fce079616c4aa8a510cc771a1f4d058c23&width=320" alt="Omslag van 'Shadow Child'" title="Omslag van 'Shadow Child'">
-<p>I hope I will last longer than a few days. My previous versions had at most six days before succumbing to the injuries which also killed my original self. I must break the pattern. I need to return. An unknown enemy threatens the Concilium, an area of space with hundreds of inhabited worlds, billions of living beings. All my friends are there. Everyone I care about. The only way I can help them is by doing what nobody, thus far, has achieved: to communicate with the enemy, before they destroy everything. If only I knew how … </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Beck Palmas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onthecht]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462055353/onthecht-nicole-van-der-spek</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462055353/onthecht-nicole-van-der-spek"/>
-        <updated>2026-11-04T14:58:52.266Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462055353?aid=kb-online-bibliotheek&sid=24&dts=1793718711085&sig=0f51ddfab07a2779c684b2f2fe952de3a538ea5d1bfe4079340091beab04c1d7&width=320" alt="Omslag van 'Onthecht'" title="Omslag van 'Onthecht'">
-<p>Onderzoeksjournalist Maaike de Ridder probeert haar leven opnieuw vorm te geven. Tot er in een afgelegen dorp in Portugal een lichaam wordt gevonden. De dode man blijkt een link te hebben met het Zilvermeer en met Caroline Sonnemans, de moeder van haar halfbroer Lars. Dertig jaar geleden verdronk Caroline. Een ongeluk, werd er altijd gezegd. Maaike twijfelt. Ze reist af naar Portugal, vastbesloten om het familieverhaal compleet te maken. Waarom wordt ze gewaarschuwd om te vertrekken? Wie volgt haar? Sommige waarheden willen niet worden gevonden. Onthecht is een zinderende thriller over familiebanden die niet breken, hoe ver je ook reist. Nicole van der Spek (1974) heeft als cultureel antropoloog een rijke kennis en ervaring in menselijk gedrag. Ze schrijft over gevoelige thema’s en schuwt daarbij maatschappelijke onderwerpen niet. Van haar hand verschenen eerder de psychologische thrillers Ontaard, Ongezien en de novelle Ontspoord. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Nicole van der Spek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noorderduister]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462055345/noorderduister-ronald-van-assen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462055345/noorderduister-ronald-van-assen"/>
-        <updated>2026-11-04T14:58:53.015Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462055345?aid=kb-online-bibliotheek&sid=24&dts=1793804332367&sig=5c58fb932ed898ed093710ded2e7215b7c46a3a49b93cbfae036649c6e20cd45&width=320" alt="Omslag van 'Noorderduister'" title="Omslag van 'Noorderduister'">
-<p>Een oud-rechercheur die gefascineerd is door een reeks onopgeloste moorden. Het gruwelijke einde van een rondreis door Noorwegen. De fatale zoektocht van een journalist naar de waarheid. Een geheim bunkercomplex waar een gestoorde dokter samenwerkt met een sadistische tweeling. De geheimzinnige vrouw in de spiegel. Een wezen wat dood en verderf zaait. Allemaal ingrediënten van de bloedstollende suspenseroman Noorderduister. De twintigjarige Annet van der Velde woont inmiddels vier jaar bij Willem en Anneke van Velzen. De oud-rechercheur heeft haar, na de gruwelijke dood van haar gezinsleden, in huis genomen. Wanneer Annet met drie vriendinnen een rondreis door Noorwegen maakt, biedt dat Willem de gelegenheid om zich, samen met journalist Jeroen Monninga, op een reeks onopgeloste moorden te storten. Als blijkt dat er een connectie is tussen de moorden uit het verleden en de reis van Annet, vertrekt Willem halsoverkop naar het Hoge Noorden. Hoe dichter hij bij de waarheid komt, hoe gevaarlijker het wordt voor alle betrokkenen. Noorderduister is de ijzingwekkende opvolger van Tweevoudige Duisternis waarin de nog ontbrekende stukjes van de puzzel worden gevonden en nieuwe gevaren dreigen. Is het duistere kwaad verslagen of woekert het ondergronds voort? Alleen waanzin kan je nog redden. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Ronald van Assen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tot het einde van de wereld]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46192627X/tot-het-einde-van-de-wereld-kristel-stassen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46192627X/tot-het-einde-van-de-wereld-kristel-stassen"/>
-        <updated>2026-11-04T14:58:53.659Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46192627X?aid=kb-online-bibliotheek&sid=24&dts=1793804286775&sig=52584e96254e39d55a0a6aea1d782bb22bf8c9c58774218d932138163bba7744&width=320" alt="Omslag van 'Tot het einde van de wereld'" title="Omslag van 'Tot het einde van de wereld'">
-<p>‘Houd je mond! Haar broer heeft veel te veel invloed. Ben je nou echt zo blind? Als jij niet ziet wat er gaande is, dan moet ik ingrijpen.’ Portugal, 1340 Als enige overlevende zoon heeft Pedro een moeizame relatie met zijn vader, die hem niet geschikt vindt als troonopvolger. Onder dwang trouwt hij met een Castiliaanse prinses, maar zijn hart ligt bij haar hofdame Inês, afkomstig uit een verbannen familie. Pedro’s verhouding met haar is zijn vader een doorn in het oog. Inês’ broer Alessandro wil de verloren macht en invloed van zijn familie heroveren. Daarvoor maakt hij slim gebruik van de positie van zijn zus nabij de Portugese kroonprins. Door de invloed die hij uitoefent, loopt de spanning verder op. Lukt het Pedro om tijdig zijn verstandhouding met zijn vader te herstellen en daarmee Inês en zijn dynastie te redden? Deze op ware historische gebeurtenissen gebaseerde roman sleept je mee in een web van intriges, waarin familiebanden op de proef worden gesteld, passie en rouw om voorrang strijden en ieders toekomst onzeker is. --- Kristel Stassen groeide op in Zuid-Limburg, bracht een paar jaar in het buitenland door en woont nu met haar man en twee zonen in de omgeving van Leiden. Ze is zelfstandig adviseur en docent omgevingswetgeving en schreef een boek over haar vakgebied. Daarnaast schrijft ze historische verhalen. Tot het einde van de wereld is haar debuutroman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Kristel Stassen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een tragisch geluk]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462045811/een-tragisch-geluk-bert-van-halderen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462045811/een-tragisch-geluk-bert-van-halderen"/>
-        <updated>2026-11-04T14:58:54.331Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462045811?aid=kb-online-bibliotheek&sid=24&dts=1793790628908&sig=2d3dfda1427d398866f4b4d6fcd732b1050af3544517f5ca029594d08a7e9bfd&width=320" alt="Omslag van 'Een tragisch geluk'" title="Omslag van 'Een tragisch geluk'">
-<p>Over zinloos geweld en een zoektocht naar nieuw geluk Zomercarnaval in Rotterdam: teruglopend naar de auto, wordt Marco van zeventien uit Zeeland vanuit het niets neergeschoten. De politie doet verwoede pogingen om de dader te achterhalen. Bij de recherche zorgen persoonlijke omstandigheden voor extra motivatie om deze zaak op te lossen. Ondertussen vecht Marco in het ziekenhuis voor zijn leven. Zijn familie is radeloos, maar zijn ouders laten zich niet uit het veld slaan en knokken voor zijn toekomst. Dader Ray komt uit een goed nest, maar kiest – deels uit frustratie over de armoede thuis, deels uit pure ambitie - voor het criminele pad. Gaandeweg wordt hij belangrijker in zijn groep, zijn doel is de absolute top. Maar zo makkelijk gaat dat niet. Met hulp van zijn familie komt Marco er uiteindelijk redelijk bovenop. Eén ding laat hem echter niet los: wie is die schoft die hem heeft neergeschoten? Waarom? Bert van Halderen (1955) is na een opleiding aan de Pedagogische Academie en een studie geschiedenis lange tijd werkzaam geweest in het bank- en verzekeringswezen als tekstschrijver, opleider en manager. Daarnaast heeft hij diverse rollen vervuld in de Zeeuwse lokale politiek. Op dit moment is Bert actief in bestuurlijk vrijwilligerswerk en als schrijver. Een tragisch geluk is zijn tweede roman. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Bert van Halderen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niet altijd geweest]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/46190537X/niet-altijd-geweest-milly-lanser</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/46190537X/niet-altijd-geweest-milly-lanser"/>
-        <updated>2026-11-04T14:58:54.945Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A46190537X?aid=kb-online-bibliotheek&sid=24&dts=1793790301347&sig=db551380951275329d96658af06d22ca10a16f0500fd50044946c4950a8c8fdb&width=320" alt="Omslag van 'Niet altijd geweest'" title="Omslag van 'Niet altijd geweest'">
-<p>Aan de tafel naast me hoor ik twee mannen praten over hun diensttijd en meng me in het gesprek. 'Ik zat bij de huzaren en moest in een soort koekblik zitten met een radio.' Ze kijken me met absoluut onbegrip aan. 'Ik snap het niet, ik dacht dat alleen mannen in dienst moesten.' Daar, op een terras in Krakau, spreek ik voor het eerst de woorden uit waar ik al een tijd naar zoek en die alles samenvatten. 'Ik ben niet altijd vrouw geweest.' ------ Dit is het verhaal van een lange tocht. Als jongen van elf ontdek ik dat ik vrouwenkleding meer dan interessant vind. Jarenlang blijft dat verborgen, maar als ik bijna vijftig ben, komt mijn geheim uit. In de jaren daarna ga ik op zoek naar de vrouw in mij en vind ik mezelf opnieuw uit. Ik ben niet altijd vrouw geweest ... maar nu wel. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Milly Lanser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Had ik maar drie harten]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/461926288/had-ik-maar-drie-harten-dennis-van-den-munckhof</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/461926288/had-ik-maar-drie-harten-dennis-van-den-munckhof"/>
-        <updated>2026-11-04T14:58:55.728Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A461926288?aid=kb-online-bibliotheek&sid=24&dts=1793804335052&sig=a758889f15f0ee6664d38d20d17d31f8881b56c8d44466ce456df734842991a9&width=320" alt="Omslag van 'Had ik maar drie harten'" title="Omslag van 'Had ik maar drie harten'">
-<p>Gebrul, geschreeuw, gehuil, gelach en bekken trekkend, ik raak er niet op uitgekeken. Het is bijna lachwekkend, hoeveel een mensenmassa inspireert. Was ik een draakherder of een kwaadmol geweest, had ik me tot een mens bekeerd. --- Had ik maar drie harten is een poëtische wervelwind van strijd, familie en avontuur. In een zwemmende, gevaarlijke wereld zet Tuller alles op alles om zijn moeder te redden. Als zoon van de sterkste Held die de wereld ooit droeg, baant hij zich met slimmigheid steen voor steen een weg vooruit. Verblind door de succesverhalen van zijn vader, ziet hij echter niet altijd het gevaar van de roekeloze situaties waarin hij zich stort. Gelukkig staat Tuller er niet alleen voor. Maak kennis met Waldemar en zijn Heldgenoten. Drie versleten strijders die de jongen ieder op hun eigen manier bijstaan op een pad dat wordt versperd door monsters, corrupte leiders en twijfelende gedachten. Een adembenemend avontuur, geïnspireerd door Nederlandse strijdverhalen, vol kameraadschap en moed… in een wereld die slechts pauze neemt in de verzen tussen de hoofdstukken door. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dennis van den Munckhof</name>
         </author>
     </entry>
 </feed>
