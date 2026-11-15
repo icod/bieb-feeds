@@ -2,37 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-11-14T13:53:07.829Z</updated>
+    <updated>2026-11-15T14:26:43.952Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
     <entry>
         <title type="html"><![CDATA[48 uur]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/424124912/48-uur-james-patterson---brendan-dubois</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/424124912/48-uur-james-patterson---brendan-dubois"/>
-        <updated>2026-11-13T15:00:31.806Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424124912?aid=kb-online-bibliotheek&sid=24&dts=1794575459689&sig=a67cfc5f9e1ec878855b9d8be694a0a863edf61c6b6b998b873663ed8c958f3b&width=320" alt="Omslag van '48 uur'" title="Omslag van '48 uur'">
+        <id>https://www.onlinebibliotheek.nl/catalogus/424124912/48-uur-james-patterson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/424124912/48-uur-james-patterson"/>
+        <updated>2026-11-15T14:26:42.398Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A424124912?aid=kb-online-bibliotheek&sid=24&dts=1794692776851&sig=56fba9002ecf046fba958925321ae5730847f1019c01025dfa0ca5dd42b784b1&width=320" alt="Omslag van '48 uur'" title="Omslag van '48 uur'">
 <p>Een onmogelijke missie, een dodelijk ultimatum, een gevecht tegen de tijd.</p><p>Als Amerikaans inlichtingenofficier heeft Amy Cornwall al het nodige meegemaakt. Maar wat ze op een dag aantreft bij thuiskomst doet zelfs haar verstijven. Het huis is leeg, geen stemmen van dochter of man, geen geuren van een wachtende maaltijd. Slechts een onbekende telefoon op de eettafel, via welke ze een vreselijk ultimatum doorkrijgt. Binnen 48 uur moet ze een naamloze gevangene vinden en bevrijden. Lukt dit haar niet, dan zal haar gezin het niet overleven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>James Patterson</name>
         </author>
-        <author>
-            <name>Brendan Dubois</name>
-        </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[De villa]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/429385609/de-villa-james-patterson---bredan-dubois</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/429385609/de-villa-james-patterson---bredan-dubois"/>
-        <updated>2026-11-13T15:00:31.997Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385609?aid=kb-online-bibliotheek&sid=24&dts=1794575221362&sig=f0b51a58091a51855e0f9adea4b775be4371bf54b5a89eaedb6bdeaa5f8bb99a&width=320" alt="Omslag van 'De villa'" title="Omslag van 'De villa'">
+        <id>https://www.onlinebibliotheek.nl/catalogus/429385609/de-villa-james-patterson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/429385609/de-villa-james-patterson"/>
+        <updated>2026-11-15T14:26:42.890Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A429385609?aid=kb-online-bibliotheek&sid=24&dts=1794663633108&sig=7d94a705c6d1188b513d20c0a7572441e44cf65990f47ac330e72449d55da19c&width=320" alt="Omslag van 'De villa'" title="Omslag van 'De villa'">
 <p>Zeven slachtoffers van moord, vier verdachten.  Twee waarheden, één overlevingskans.</p><p>Sullivan County, Georgia, behoort tot het district van sherrif Emma Williams. Maar wanneer enkele rangers in haar gebied worden beschuldigd van moord, probeert het leger haar werk over te nemen.  Het eliteonderzoeksteam van majoor Jeremiah Cook komt samen in De Villa, een groot oud huis aan de rand van het meer dat nu verboden terrein is vanwege het forensisch onderzoek. Het bewijs dat Williams vindt, zet Cook op het spoor van een oplossing die hij niet wil of kan geloven. En tenzij hij de lokale politie kan overtuigen dat deze moorden onderdeel zijn van een veel groter mysterie, zal hij nooit de geheimen kunnen ontrafelen die zich verbergen in De Villa. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>James Patterson</name>
-        </author>
-        <author>
-            <name>Bredan Dubois</name>
         </author>
     </entry>
     <entry>
@@ -47,26 +41,23 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De perfecte moord]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/434214981/de-perfecte-moord-james-patterson---david-ellis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/434214981/de-perfecte-moord-james-patterson---david-ellis"/>
-        <updated>2026-11-13T15:00:32.373Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434214981?aid=kb-online-bibliotheek&sid=24&dts=1794575019836&sig=dd09f7089072b024065fd281bcd24732a5587519857bd72b352fe05a21e013d1&width=320" alt="Omslag van 'De perfecte moord'" title="Omslag van 'De perfecte moord'">
-<p>Elke perfecte moord lijkt op een ongeluk, of is elk ongeluk een perfecte moord?</p><p>FBI-agent Emmy Dockery is niet te stoppen. Ze is jong en ambitieus en haar talent om verbanden te zien die voor anderen verborgen blijven, heeft haar een indrukwekkende staat van dienst opgeleverd.  Wanneer echter door het hele land verschillende moorden worden gepleegd, staat ze machteloos. De slachtoffers lijken allemaal te zijn verongelukt, en hebben niets met elkaar gemeen. Maar zo veel ongelukken tegelijkertijd, dat kan geen toeval zijn.  Ondertussen houdt iemand Dockery in de gaten. Observerend, bestuderend, wachtend – tot het de juiste tijd is om toe te slaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>James Patterson</name>
-        </author>
-        <author>
-            <name>David Ellis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dubbelspel]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/431718105/dubbelspel-james-patterson</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/431718105/dubbelspel-james-patterson"/>
         <updated>2026-11-13T15:00:32.568Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A431718105?aid=kb-online-bibliotheek&sid=24&dts=1794575718022&sig=826d4f62f297a4fa722be6fbaf330465e7ad230a4f3dd23e15c285bbf6190a8b&width=320" alt="Omslag van 'Dubbelspel'" title="Omslag van 'Dubbelspel'">
 <p>Wanneer in een auto de half ontblote lichamen van een socialite en een highschooldirecteur worden gevonden, wordt deze brute daad direct breed uitgemeten in de media. Kay Willingham was rijk en beroemd, en de ex-vrouw van de Amerikaanse vicepresident. Randall Christopher was een gewaardeerd directeur vol politieke ambities, met een vrouw en kinderen. Alex Cross kende beide slachtoffers goed, vooral Kay, die ooit zijn patiënt was. En misschien wel meer.  Terwijl voormalig collega John Sampson het spoor van Randall Christopher volgt, worden Alex Cross en fbi-agent Ned Mahoney in het onderzoek naar Kay naar Alabama geleid. In een wereld vol corruptie en geheimen zal Cross een keuze moeten maken tussen het vertrouwen dat in hem gesteld wordt of het vertrouwen in zijn eigen gezonde verstand. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>James Patterson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De perfecte moord]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/434214981/de-perfecte-moord-james-patterson</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/434214981/de-perfecte-moord-james-patterson"/>
+        <updated>2026-11-15T14:26:43.376Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A434214981?aid=kb-online-bibliotheek&sid=24&dts=1794654715939&sig=d8cc349d0b2471ce4732a7d686feb2cfd0f5dfd0a70cadfc69d37cc516383bc6&width=320" alt="Omslag van 'De perfecte moord'" title="Omslag van 'De perfecte moord'">
+<p>Elke perfecte moord lijkt op een ongeluk, of is elk ongeluk een perfecte moord?</p><p>FBI-agent Emmy Dockery is niet te stoppen. Ze is jong en ambitieus en haar talent om verbanden te zien die voor anderen verborgen blijven, heeft haar een indrukwekkende staat van dienst opgeleverd.  Wanneer echter door het hele land verschillende moorden worden gepleegd, staat ze machteloos. De slachtoffers lijken allemaal te zijn verongelukt, en hebben niets met elkaar gemeen. Maar zo veel ongelukken tegelijkertijd, dat kan geen toeval zijn.  Ondertussen houdt iemand Dockery in de gaten. Observerend, bestuderend, wachtend – tot het de juiste tijd is om toe te slaan. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>James Patterson</name>
         </author>
@@ -80,6 +71,17 @@
 <p>De vrienden Alex Cross en John Sampson staan op het punt om samen de ruige wildernis van Montana in te trekken als ze worden opgeroepen bij een moordzaak in Washington. Samen met Ned Mahoney storten ze zich op het onderzoek, zich niet bewust van het veel grotere kwaad dat dreigt.  M, de mysterieuze moordenaar die Cross al jaren achtervolgt, is weer opgedoken en lijkt ongrijpbaarder dan ooit. Het spoor leidt ze dieper de wildernis in, waar Cross en Sampson als opgejaagd wild hun krachten moeten bundelen, en hun overlevingsdrang moeten inzetten. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>James Patterson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De mooiste tijd van het jaar]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/462243826/de-mooiste-tijd-van-het-jaar-alison-packard</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/462243826/de-mooiste-tijd-van-het-jaar-alison-packard"/>
+        <updated>2026-11-15T14:26:43.951Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462243826?aid=kb-online-bibliotheek&sid=24&dts=1794752803462&sig=c66a66152c3e2dfdd5c1f7dce1549ef403d1894f1465afc68797148d24008113&width=320" alt="Omslag van 'De mooiste tijd van het jaar'" title="Omslag van 'De mooiste tijd van het jaar'">
+<p>Alleen al de gedachte aan kerst brengt Carrie uit haar humeur. Dus wanneer de knappe Nick, op wie ze als tiener al stiekem verliefd was, probeert haar tóch in kerststemming te brengen, weet ze zeker dat hem dat nooit gaat lukken. Maar dan heeft ze buiten zijn vasthoudendheid gerekend...Dit verhaal is eerder verschenen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Alison Packard</name>
         </author>
     </entry>
     <entry>
@@ -345,17 +347,6 @@
 <p>Een jonge vrouw belandt in een magische trein die alleen verschijnt aan mensen die de weg in het leven kwijt zijn. Samen met een charmante schilder begint ze aan een wonderlijke reis om haar levensdoel te vinden.</p>]]></content>
         <author>
             <name>Samantha Sotto Yambao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De kans op jou]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/462209431/de-kans-op-jou-kate-dramis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/462209431/de-kans-op-jou-kate-dramis"/>
-        <updated>2026-11-09T17:00:30.832Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/PPN%3A462209431?aid=kb-online-bibliotheek&sid=24&dts=1794241520655&sig=6d744f6aa58271f23910f21f79cad21da73c9973d65d0bf780c14bce390b031d&width=320" alt="Omslag van 'De kans op jou'" title="Omslag van 'De kans op jou'">
-<p>Een schrijfster die worstelt met writer’s block ontmoet een charmante acteur; wanneer paparazzi haar aanzien voor zijn vriendin, raken hun levens verstrengeld.</p>]]></content>
-        <author>
-            <name>Kate Dramis</name>
         </author>
     </entry>
 </feed>
