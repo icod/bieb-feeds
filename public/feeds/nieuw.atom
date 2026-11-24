@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-11-23T18:53:49.084Z</updated>
+    <updated>2026-11-24T18:30:53.993Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[Vreemdeling op Terschelling]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789465171616/vreemdeling-op-terschelling-carmen-prins</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789465171616/vreemdeling-op-terschelling-carmen-prins"/>
+        <updated>2026-11-24T18:30:53.798Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789465171616?aid=kb-online-bibliotheek&sid=24&dts=1795545053564&sig=2120b6512bafce4219123cacc8cf35ea1540b8201910c03597de1e6f48a91fcb&width=320" alt="Omslag van 'Vreemdeling op Terschelling'" title="Omslag van 'Vreemdeling op Terschelling'">
+<p>Tijdens de koudste winter in jaren raakt Carmen gefascineerd door haar nieuwe buurman: een mysterieuze schrijver die viool speelt en zijn huis zwaar beveiligt. Terwijl ze in contact komt met Oekraïense vluchtelingen die op Terschelling worden opgevangen, ontdekt ze dat haar zwijgzame buurman donkere geheimen heeft. Waarom rijdt hij in de nacht naar het strand? Wat doet hij in de ijskou in een bootje op zee? Er gebeuren vreemde dingen op het eiland en hoe dichter Carmen bij de waarheid komt, hoe gevaarlijker haar nieuwsgierigheid wordt. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Carmen Prins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het verdronken land]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789028269347/het-verdronken-land-detlev-van-heest</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789028269347/het-verdronken-land-detlev-van-heest"/>
+        <updated>2026-11-18T16:05:13.142Z</updated>
+        <summary type="html"><![CDATA[Terug naar Japan]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789028269347?aid=kb-online-bibliotheek&sid=24&dts=1795001720053&sig=dd104fcc7e19f55301065ff61b5e84f668da42d63d44a87e15950dcb73bfdece&width=320" alt="Omslag van 'Het verdronken land'" title="Omslag van 'Het verdronken land'">
+<p>In Het verdronken land doet Detlev van Heest droogkomisch verslag van drie recente bezoeken aan Japan, het land waar hij twaalf jaar woonde. Het sluit naadloos aan op de alom geprezen roman De verzopen katten en de Hollander, waarin hij zijn buurtgenoten portretteerde. Het verdronken land begint met zijn melancholische notities uit 2009. Twee reizen in 2011, de ene kort na de tsunami van 11 maart, de andere een half jaar nadien, vormen het tweede en derde deel van dit drieluik. De schrijver bezoekt oude bekenden uit De verzopen katten en de Hollander, maar trekt ook door de rampgebieden. Het verdronken land biedt een even ontroerend als hilarisch inzicht in het moderne Japan en het zonderlinge gevoelsleven van Van Heest. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Detlev van Heest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Het verdwenen woud]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789083319636/het-verdwenen-woud-matthew-x--dyer</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789083319636/het-verdwenen-woud-matthew-x--dyer"/>
+        <updated>2026-11-24T18:30:53.992Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789083319636?aid=kb-online-bibliotheek&sid=24&dts=1795545002048&sig=2fc5bfbc8899601ca751af1222e4a0f12603dbf235dad571936239225efca67d&width=320" alt="Omslag van 'Het verdwenen woud'" title="Omslag van 'Het verdwenen woud'">
+<p>'Het verdwenen woud' is een spannende young adult fantasy-roman van Nederlandse bodem, een episch avontuur in een fascinerende wereld. Op Nomos, een wereld vol zwevende eilanden, veroorzaakt de 15-jarige Sascha een serie steeds heftigere rampen. En dat doet hij met opzet. Zijn acties brengen de hele samenleving tot aan de rand van de afgrond. Een samenleving die nog kampt met de gevolgen van een mysterieuze explosie die eeuwen geleden de mensheid bijna wegvaagde. Maar niemand weet dat Sascha met zijn onbezonnen acties vecht tegen een groter gevaar dan Nomos ooit heeft gekend. Om zijn wereld te redden onderneemt de jongen een gevaarlijke reis en onthult een groot geheim. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Matthew X. Dyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waar jij bent, ben ik thuis]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789465412269/waar-jij-bent--ben-ik-thuis-angelique-van-dongen</id>
@@ -141,24 +175,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Christmas Carol NL]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390409/a-christmas-carol-nl--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390409/a-christmas-carol-nl--"/>
-        <updated>2026-11-23T18:53:39.054Z</updated>
-        <summary type="html"><![CDATA[Een Kerstlied]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789493390409?aid=kb-online-bibliotheek&sid=24&dts=1795283950370&sig=c6ddef82fc4e8efbcfd105f6fabeff80a3e285df2bbe98fd59b4912cecaecbf7&width=320" alt="Omslag van 'A Christmas Carol NL'" title="Omslag van 'A Christmas Carol NL'">
-<p>A Christmas Carol is één van de meest geliefde Kerstverhalen van deze tijd. Voor het eerst gepubliceerd in 1843, weet het verhaal iedere Kerst weer zijn opwachting te maken, in welke vorm dan ook. Ebenezer Scrooge, een zeer onaangename vrek, wordt op Kerstavond bezocht door de geest van zijn overleden partner Jacob Marley. Marley deelt hem mee dat hij drie bezoekers kan verwachten: de geesten van Kerstmis in het Verleden, Heden en Toekomst. Zij laten Scrooge zijn leven overzien, waardoor hij niet langer zijn ogen kan sluiten voor de gevolgen van zijn kille en ongevoelige daden. Scrooge krijgt te zien hoe zijn geldzucht levens heeft verwoest en hoe zijn naam een vieze smaak achterlaat op ieders tong. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bambi]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390386/bambi--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390386/bambi--"/>
-        <updated>2026-11-23T18:53:39.654Z</updated>
-        <summary type="html"><![CDATA[Het rauwe origineel]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789493390386?aid=kb-online-bibliotheek&sid=24&dts=1795339354346&sig=232ebec3fdf338ae4579693c7740d48765d79a9234d0c57c485a3c4abb723e99&width=320" alt="Omslag van 'Bambi'" title="Omslag van 'Bambi'">
-<p>Bambi Een leven in het bos Diep verscholen in het kreupelhout begint een van de meest misbegrepen levens uit de wereldliteratuur. Ingewijd door zijn moeder leert het jonge hert Bambi al snel de wetten van de natuur: de pracht van het open veld, maar ook de constante dreiging van de absolute heerser over leven en dood-De Mens. Wanneer een verwoestende drijfjacht hem abrupt alleen achterlaat, verandert Bambi's leven in een bittere strijd om te overleven. Terwijl zijn soortgenoten worstelen met blinde angst of gevaarlijke naïviteit, kiest Bambi onder leiding van een mysterieuze, oude reebok een ander pad. Het is een weg van loutering, gevaar en het doorgronden van de harde waarheid over de mens en de natuur. Bambi is geen lieflijk sprookje, maar een rauwe, melancholische parabel over volwassenwording, verlies en eenzaamheid. Felix Saltens literaire meesterwerk schittert nu in een gelaagde, fonkelnieuwe vertaling van de hand van horrorauteur Mark van Dijk. Het is hoog tijd dat een nieuwe generatie volwassen lezers de kans grijpt om het originele verhaal van Bambi te herontdekken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Athene en Sparta]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789401921459/athene-en-sparta-adrian-goldsworthy</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789401921459/athene-en-sparta-adrian-goldsworthy"/>
@@ -226,6 +242,24 @@
         <author>
             <name>Thea Zoeteman</name>
         </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bambi]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390386/bambi--</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390386/bambi--"/>
+        <updated>2026-11-23T18:53:39.654Z</updated>
+        <summary type="html"><![CDATA[Het rauwe origineel]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789493390386?aid=kb-online-bibliotheek&sid=24&dts=1795339354346&sig=232ebec3fdf338ae4579693c7740d48765d79a9234d0c57c485a3c4abb723e99&width=320" alt="Omslag van 'Bambi'" title="Omslag van 'Bambi'">
+<p>Bambi Een leven in het bos Diep verscholen in het kreupelhout begint een van de meest misbegrepen levens uit de wereldliteratuur. Ingewijd door zijn moeder leert het jonge hert Bambi al snel de wetten van de natuur: de pracht van het open veld, maar ook de constante dreiging van de absolute heerser over leven en dood-De Mens. Wanneer een verwoestende drijfjacht hem abrupt alleen achterlaat, verandert Bambi's leven in een bittere strijd om te overleven. Terwijl zijn soortgenoten worstelen met blinde angst of gevaarlijke naïviteit, kiest Bambi onder leiding van een mysterieuze, oude reebok een ander pad. Het is een weg van loutering, gevaar en het doorgronden van de harde waarheid over de mens en de natuur. Bambi is geen lieflijk sprookje, maar een rauwe, melancholische parabel over volwassenwording, verlies en eenzaamheid. Felix Saltens literaire meesterwerk schittert nu in een gelaagde, fonkelnieuwe vertaling van de hand van horrorauteur Mark van Dijk. Het is hoog tijd dat een nieuwe generatie volwassen lezers de kans grijpt om het originele verhaal van Bambi te herontdekken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Christmas Carol NL]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390409/a-christmas-carol-nl--</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390409/a-christmas-carol-nl--"/>
+        <updated>2026-11-23T18:53:39.054Z</updated>
+        <summary type="html"><![CDATA[Een Kerstlied]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789493390409?aid=kb-online-bibliotheek&sid=24&dts=1795283950370&sig=c6ddef82fc4e8efbcfd105f6fabeff80a3e285df2bbe98fd59b4912cecaecbf7&width=320" alt="Omslag van 'A Christmas Carol NL'" title="Omslag van 'A Christmas Carol NL'">
+<p>A Christmas Carol is één van de meest geliefde Kerstverhalen van deze tijd. Voor het eerst gepubliceerd in 1843, weet het verhaal iedere Kerst weer zijn opwachting te maken, in welke vorm dan ook. Ebenezer Scrooge, een zeer onaangename vrek, wordt op Kerstavond bezocht door de geest van zijn overleden partner Jacob Marley. Marley deelt hem mee dat hij drie bezoekers kan verwachten: de geesten van Kerstmis in het Verleden, Heden en Toekomst. Zij laten Scrooge zijn leven overzien, waardoor hij niet langer zijn ogen kan sluiten voor de gevolgen van zijn kille en ongevoelige daden. Scrooge krijgt te zien hoe zijn geldzucht levens heeft verwoest en hoe zijn naam een vieze smaak achterlaat op ieders tong. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wulffers en de zaak van de zwijgende schilder]]></title>
@@ -305,39 +339,6 @@
 <p>Wanneer lerares Maddy Bleyland na haar arrestatie zedenrechercheur Nick Simons ontmoet, lijkt hij precies de man die ze nodig heeft: charmant en beschermend. Dan ontvangt Maddy de eerste brief. De afzender noemt haar zijn duifje. Hij weet waar ze woont, waar ze bang voor is en beschrijft tot in detail wat haar te wachten staat. Maddy is niet de enige die wordt bekeken. Vier vrouwen met totaal verschillende levens hebben ieder een plaats gekregen in zijn plan. Wanneer een van hen het patroon ontdekt, weet ze niet langer wie ze kan vertrouwen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Lydia Albadoro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rozen & azijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271385/rozen---azijn-linda-babel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271385/rozen---azijn-linda-babel"/>
-        <updated>2026-11-23T18:53:47.588Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789465271385?aid=kb-online-bibliotheek&sid=24&dts=1795460026909&sig=a5ae58cb19a5707cf948f2d1bd2e8ca141a7bb7c2914eb5a78258f62ad67d0e7&width=320" alt="Omslag van 'Rozen & azijn'" title="Omslag van 'Rozen & azijn'">
-<p>Soms is de man van je dromen niet degene op wie je al jaren verliefd bent... Lady Rosanne van Willow Wood is al jaren verliefd op de knappe lord Neville. Met Valentijn stuurt ze hem een prachtige kaart en bedenkt ze een plan om nog meer indruk op hem te maken. Maar het loopt anders wanneer een onverwachte ontmoeting met de onbehouwen Jonathan Whittaker haar plannen volledig in de war schopt. Dan ziet Rosanne een nieuwe kans om het hart van lord Neville te veroveren. Tussen de berg romantische kaarten die hij heeft ontvangen, bevindt zich een vinegar Valentine: een kaart met een bijzonder venijnige boodschap. Rosanne is vastbesloten de afzender te ontmaskeren voordat Nevilles goede naam door het slijk wordt gehaald. Als dat lukt, zal hij haar vast eeuwig dankbaar zijn... Lords & Ladies Vijf historische romances vol verlangen, geheimen en intriges in de wereld van de Engelse aristocratie. Rozen & azijn is deel 1. Alle delen zijn los te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Linda Babel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leugen & waarheid]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271415/leugen---waarheid-linda-babel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271415/leugen---waarheid-linda-babel"/>
-        <updated>2026-11-23T18:53:48.332Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789465271415?aid=kb-online-bibliotheek&sid=24&dts=1795460027709&sig=3c1faefb5c6353ca2246d17204cc50ae1509d481e3c0df9319ef3fc04dae8c20&width=320" alt="Omslag van 'Leugen & waarheid'" title="Omslag van 'Leugen & waarheid'">
-<p>George Williams weet precies aan welke eisen zijn toekomstige vrouw moet voldoen. Alleen trekt zijn hart daar weinig van aan. Het nieuwe Seizoen staat voor de deur en George Williams, graaf van Leicester, reist naar Londen met een duidelijk doel: een geschikte echtgenote vinden. Dat zou eenvoudig moeten zijn. George heeft een titel, een goede naam én een keurige lijst met eisen waaraan zijn toekomstige vrouw moet voldoen. Zijn zoektocht leidt hem van het ene feest naar het andere, totdat een onverwachte ontmoeting zijn wereld op zijn kop zet. Op een gemaskerd bal ontmoet George de mysterieuze en betoverende Juliette Lemaire. Ze maakt gevoelens in hem los die hij niet kan negeren, maar... zij is niet de vrouw die hij zoekt. Lords & Ladies Vijf historische romances vol verlangen, geheimen en intriges in de wereld van de Engelse aristocratie. Leugen & waarheid is deel 4. Alle delen zijn los te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Linda Babel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suiker & schijn]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271408/suiker---schijn-linda-babel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271408/suiker---schijn-linda-babel"/>
-        <updated>2026-11-23T18:53:49.084Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789465271408?aid=kb-online-bibliotheek&sid=24&dts=1795460028454&sig=05f2483379327a2411c828d0ccd8ded84a4521a2bc6b41aa1376005081cd6999&width=320" alt="Omslag van 'Suiker & schijn'" title="Omslag van 'Suiker & schijn'">
-<p>Lady Cordelia wil maar één ding van een huwelijk: haar vrijheid behouden. Liefde staat absoluut niet op de planning. Trouwen? Lady Cordelia moet er niet aan denken. Maar haar broer George vindt dat het hoog tijd wordt dat ze een geschikte echtgenoot kiest. Cordelia bedenkt een oplossing: een verstandshuwelijk met Phillip Pemberton, de baron van Stafford. Geen romantische verwachtingen, geen gebroken harten. Perfect geregeld. Tot ze zijn halfbroer ontmoet. Inspecteur Cedric Caine is vrijpostig en irritant. Wanneer Cordelia betrokken raakt bij een zaak die Cedric onderzoekt, worden de twee gedwongen steeds meer tijd met elkaar door te brengen. En dan blijkt de man die ze niet kan uitstaan moeilijk te weerstaan... Lords & Ladies Vijf historische romances vol verlangen, geheimen en intriges in de wereld van de Engelse aristocratie. Suiker & schijn is deel 3. Alle delen zijn los te lezen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Linda Babel</name>
         </author>
     </entry>
 </feed>
