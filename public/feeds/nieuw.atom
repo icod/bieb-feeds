@@ -2,11 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-11-25T17:43:30.822Z</updated>
+    <updated>2026-11-26T17:27:49.359Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
     <rights>Koninklijke Bibliotheek</rights>
+    <entry>
+        <title type="html"><![CDATA[De jongen die wilde mislukken]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789021416755/de-jongen-die-wilde-mislukken-angela-wals</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789021416755/de-jongen-die-wilde-mislukken-angela-wals"/>
+        <updated>2026-11-26T17:27:45.999Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789021416755?aid=kb-online-bibliotheek&sid=24&dts=1795706068902&sig=7b8058b1667475118218e7fab262fdc4a23d3e2b19b55615b4ee9a23a3072528&width=320" alt="Omslag van 'De jongen die wilde mislukken'" title="Omslag van 'De jongen die wilde mislukken'">
+<p>Angela Wals (1986, ik-persoon), journaliste, vertelt hoe haar vriend met een Marokkaanse-Turkse jeugdbende gewapende overvallen pleegde. Zij onderzocht de gevolgen voor de daders, slachtoffers en getuigen. Vanaf ca. 15 jaar.</p>]]></content>
+        <author>
+            <name>Angela Wals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korte geschiedenis van Rome]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789025310851/korte-geschiedenis-van-rome-eutropius</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789025310851/korte-geschiedenis-van-rome-eutropius"/>
+        <updated>2026-11-26T17:27:46.266Z</updated>
+        <summary type="html"><![CDATA[Een historisch overzicht]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789025310851?aid=kb-online-bibliotheek&sid=24&dts=1795706489844&sig=71d1b22aa7e43082fd6992b01f1d7033564539d5a20135c2d70a06b4369eae93&width=320" alt="Omslag van 'Korte geschiedenis van Rome'" title="Omslag van 'Korte geschiedenis van Rome'">
+<p>Beknopte geschiedenis van het Romeinse rijk door de vierde-eeuwse historicus.</p>]]></content>
+        <author>
+            <name>Eutropius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avonturen van de dappere ridster]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789000371945/avonturen-van-de-dappere-ridster-janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789000371945/avonturen-van-de-dappere-ridster-janneke-schotveld"/>
+        <updated>2026-11-26T17:27:46.536Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789000371945?aid=kb-online-bibliotheek&sid=24&dts=1795708549515&sig=06c0461cf063e5ce64b4979ef758bac25237ff163eda07fb504b095561b83ba4&width=320" alt="Omslag van 'Avonturen van de dappere ridster'" title="Omslag van 'Avonturen van de dappere ridster'">
+<p>Stoere nieuwe verhalen van Janneke Schotveld!  Als baby was ze al anders. Ze keek zó helder en onverschrokken uit haar diepbruine ogen, dat sommige bezoekers terugdeinsden als ze zich over haar wieg bogen.Ze kwam al op voor de zwakkeren voor ze kon praten: ze was nog maar een dreumes toen ze haar buurjongetje resoluut op zijn kop sloeg, omdat hij voortdurend zijn zusje pestte. Zijwieltjes weigerde ze. Na vier keer vallen kon ze fietsen. Zwemles heeft ze nooit gehad. Ze redde al kevers uit het water voor ze kon zwemmen. Ja, het was al vroeg duidelijk. Ze werd dan ook geen juf, kapster, tandarts, politievrouw, imker, piloot of hondentrimster, nee, ze werd ridster. En niet zomaar ridster, maar de dapperste ridster van het land. Avonturen van de dappere ridster is een bundel vol spannende en grappige verhalen over een heldhaftig meisje dat ontsnapte leeuwen terugbrengt naar de dierentuin, tasjesdieven in de kraag vat, bakkers uit bomen haalt en loslopende standbeelden terug op hun sokkel zet. Met originele illustraties van Zilveren Penseel-winnares Milja Praagman. Om voor te lezen vanaf zes jaar en zelf te lezen vanaf acht jaar. </p><p>'De sprookjes van Schmidt zijn moeilijk te evenaren, maar Janneke Schotveld is erin geslaagd. Lekker geschreven, fijne woordgrapjes, vette knipogen; elk woord swingt. En het mooiste: geen getut, meteen een hele bundel.' de Volkskrant'In de moderne sprookjes over de dappere ridster doorbreekt Janneke Schotveld voortdurend rolpatronen. Ze deelt maatschappijkritische prikjes uit en ademt regelmatig de vrolijk anarchistische geest van Annie M.G. Schmidt.' NRC'Vermakelijke, goed geschreven avonturen.' Trouw </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Janneke Schotveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sint zit vast]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789000375141/sint-zit-vast-janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789000375141/sint-zit-vast-janneke-schotveld"/>
+        <updated>2026-11-26T17:27:46.952Z</updated>
+        <summary type="html"><![CDATA[Een avontuur van de dappere ridster]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789000375141?aid=kb-online-bibliotheek&sid=24&dts=1795714066655&sig=f20676943eb5de27dbac103d5f5d892de6ace8e4ff652569452e9d4701e88931&width=320" alt="Omslag van 'Sint zit vast'" title="Omslag van 'Sint zit vast'">
+<p>De dappere ridster heeft haar schoen gezet en kan niet slapen. Ze rijdt op haar fiets door de stad en hoort iemand om hulp roepen. Sinterklaas zit vast in de schoorsteen! Voorlezen vanaf ca. 6 jaar, zelf lezen vanaf ca. 8 jaar.</p>]]></content>
+        <author>
+            <name>Janneke Schotveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De eekhoorn legt een ei]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789000376353/de-eekhoorn-legt-een-ei-janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789000376353/de-eekhoorn-legt-een-ei-janneke-schotveld"/>
+        <updated>2026-11-26T17:27:47.491Z</updated>
+        <summary type="html"><![CDATA[en andere fabels]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789000376353?aid=kb-online-bibliotheek&sid=24&dts=1795714067116&sig=05e247e6c9813758f72f2e1f0a0cd90156520cba0deefb2d6ea0f7bf804f9839&width=320" alt="Omslag van 'De eekhoorn legt een ei'" title="Omslag van 'De eekhoorn legt een ei'">
+<p>Kunnen kraaien zingen? Mag je liegen om je liefje voor je te winnen? Vijftien dierenverhalen, deels gebaseerd op bekende fabels, worden op eigentijdse wijze en met veel grapjes verteld. Ze gaan over o.a. echte vrienden, anders zijn, vrijheid en roddels. Met kleurrijke illustraties. Voorlezen vanaf ca. 6 jaar.</p>]]></content>
+        <author>
+            <name>Janneke Schotveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meer avonturen van de dappere ridster]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789000379101/meer-avonturen-van-de-dappere-ridster-janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789000379101/meer-avonturen-van-de-dappere-ridster-janneke-schotveld"/>
+        <updated>2026-11-26T17:27:48.443Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789000379101?aid=kb-online-bibliotheek&sid=24&dts=1795714067803&sig=c2663edf754add044524e8a2658a52c709b1f809db571c7b36086cc058ee222f&width=320" alt="Omslag van 'Meer avonturen van de dappere ridster'" title="Omslag van 'Meer avonturen van de dappere ridster'">
+<p>Nieuwe avonturen van de dapperste ridster van het land! Of ze nu met de koning getrouwd is of niet, de dapperste ridster van het land zit nooit stil. Als ze haar band niet aan het plakken is, dan is ze wel wanhopige jongetjes uit bomen aan het halen, of vermiste honderdjarige dametjes aan het zoeken, of roept ze een veel te drukke groep 6 tot de orde. Ook helpt ze wanhopige boekhandelaren, verliefde koks en reuzen met kiespijn. En na elke grote of kleine heldendaad springt ze gauw weer op haar racefiets, want een ridster heeft altijd wat te doen! Meer avonturen van de dappere ridster is een bundel sprankelende verhalen met de kenmerkende lichtvoetige en zeer geestige toon die het werk van Janneke Schotveld zo geliefd maakt. Milja Praagman maakte de schitterende en humoristische illustraties. Een feest om voor te lezen vanaf 6 jaar of zelf te lezen vanaf 7 jaar. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Janneke Schotveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoef!]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789000393268/zoef--janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789000393268/zoef--janneke-schotveld"/>
+        <updated>2026-11-26T17:27:48.833Z</updated>
+        <summary type="html"><![CDATA[Over een jongen, de tijd en een vliegend tapijt]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789000393268?aid=kb-online-bibliotheek&sid=24&dts=1795714068562&sig=057ec0769ee109741581d37e623e0be15d2846aaab0959a01e6d8b7934ff6bd3&width=320" alt="Omslag van 'Zoef!'" title="Omslag van 'Zoef!'">
+<p>Amir is heel verdrietig, want zijn lieve hond Oela is dood. Op de plek waar Oela altijd sliep, heeft zijn moeder een oud tapijt neergelegd. Maar het is geen gewoon tapijt: het kan vliegen en zijn naam is Zoef! Samen gaan ze op reis om Oela terug te halen. Met zwart-witillustraties. Vanaf ca. 8 jaar.</p>]]></content>
+        <author>
+            <name>Janneke Schotveld</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vreemdeling op Terschelling]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789465171616/vreemdeling-op-terschelling-carmen-prins</id>
@@ -31,6 +112,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Licht en Ruimte]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789493560215/licht-en-ruimte-nel-goudriaan</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789493560215/licht-en-ruimte-nel-goudriaan"/>
+        <updated>2026-11-26T17:27:49.101Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789493560215?aid=kb-online-bibliotheek&sid=24&dts=1795707811156&sig=c0039a1d8b3f785dc0994fc87790e276d2ad03b1dec76015893c348053fa0ec9&width=320" alt="Omslag van 'Licht en Ruimte'" title="Omslag van 'Licht en Ruimte'">
+<p>Wanneer Maaike van Dongen directeur wordt van basisschool Licht en Ruimte in Amsterdam-Zuid, treft ze een school aan waar alles lijkt te kloppen: hoge cijfers, tevreden ouders en blije kinderen. Achter die façade speelt zich iets heel anders af. Maaike stuit op een gesloten wereld waarin oude loyaliteiten, persoonlijke belangen en onderlinge machtsverhoudingen bepalen hoe de school werkelijk functioneert. De invloedrijke voorzitter van de ouderraad Liselotte Berenstein blijkt daarbij een geduchte tegenstander. Een verschil van inzicht groeit uit tot een strijd om invloed en zeggenschap. Grenzen vervagen, verhoudingen verharden en steeds meer mensen kiezen partij. Maaike houdt vast aan haar visie op goed onderwijs, maar ontdekt dat verandering niet zonder weerstand komt. Hoelang kun je trouw blijven aan je idealen wanneer de prijs steeds hoger wordt? Licht en Ruimte is een psychologische roman over macht en groepsdruk, over de grens tussen betrokkenheid en bemoeienis. En over wat er gebeurt wanneer niemand meer buiten het conflict kan blijven. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Nel Goudriaan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Het verdwenen woud]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789083319636/het-verdwenen-woud-matthew-x--dyer</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789083319636/het-verdwenen-woud-matthew-x--dyer"/>
@@ -50,6 +142,17 @@
 <p>Mia gunt zich, na een roerige periode, een cruise op de Middellandse Zee. Daar ontmoet ze David, een hoteleigenaar op de Azoren. Er lijkt iets te ontstaan tussen hen, maar dit verwatert als ze weer terug in Nederland is. In haar werk als apothekersassistente wordt ze bedreigd. Er worden opiaten geëist. Dit heeft enorme impact op haar leven en voor de veiligheid trekt ze tijdelijk in bij Ben, vriend en apotheker. Na een onbezonnen nacht met hem, staat alles op losse schroeven. Vertwijfeld reist ze af naar de Azoren waar ze David weer ontmoet, terwijl haar bedreiger niet uit beeld is... Angelique van Dongen (Oosterhout-NB), schrijft sinds 2009 romans voor een breed publiek. Met haar romans 'Geraakt' en 'Rozenlaan 10' werd ze genomineerd voor de Valentijnprijs. Regelmatig schrijft ze mini-romans voor het weekblad Story. Haar romans kenmerken zich door eigentijdse, herkenbare onderwerpen. Naast auteur is ze werkzaam als ambulant begeleider in de psychiatrie. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
         <author>
             <name>Angelique van Dongen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grondstein]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789090434155/grondstein-frank-peters</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789090434155/grondstein-frank-peters"/>
+        <updated>2026-11-26T17:27:49.358Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789090434155?aid=kb-online-bibliotheek&sid=24&dts=1795705237983&sig=fb7a99d55a7e4b147544060924a98a0485b455aa4889c6002190f80c4f5c32f6&width=320" alt="Omslag van 'Grondstein'" title="Omslag van 'Grondstein'">
+<p>Sandra Molenaars en Rik Wolters raken verstrikt in een gesloten wereld van illegale kunsthandel: een netwerk van geheime transacties, afgeschermde belangen en oude loyaliteiten. Voor Rik krijgt die zoektocht een andere lading. De mentale nasleep van een verboden experiment ondermijnt zijn vertrouwen in zijn herinneringen en waarneming. Wat hij ziet lijkt betekenisvol, maar hij kan interpretatie, projectie en werkelijkheid steeds minder van elkaar onderscheiden. Terwijl Sandra voelt hoe Rik verder wegdrijft, wordt onduidelijk wat werkelijk op het spel staat: een schilderij, een verleden, of het vermogen om vast te houden aan wat echt is. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
+        <author>
+            <name>Frank Peters</name>
         </author>
     </entry>
     <entry>
@@ -241,104 +344,6 @@
 <p>Een vrouw woont alleen sinds haar man overleed en krijgt een puppy van haar kinderen. Tijdens wandelingen ontmoet ze andere hondeneigenaren, waaronder een zus en broer – wiens vrouw ziek is – en met wie ze een speciale band ontwikkelt.</p>]]></content>
         <author>
             <name>Thea Zoeteman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bambi]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390386/bambi--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390386/bambi--"/>
-        <updated>2026-11-23T18:53:39.654Z</updated>
-        <summary type="html"><![CDATA[Het rauwe origineel]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789493390386?aid=kb-online-bibliotheek&sid=24&dts=1795339354346&sig=232ebec3fdf338ae4579693c7740d48765d79a9234d0c57c485a3c4abb723e99&width=320" alt="Omslag van 'Bambi'" title="Omslag van 'Bambi'">
-<p>Bambi Een leven in het bos Diep verscholen in het kreupelhout begint een van de meest misbegrepen levens uit de wereldliteratuur. Ingewijd door zijn moeder leert het jonge hert Bambi al snel de wetten van de natuur: de pracht van het open veld, maar ook de constante dreiging van de absolute heerser over leven en dood-De Mens. Wanneer een verwoestende drijfjacht hem abrupt alleen achterlaat, verandert Bambi's leven in een bittere strijd om te overleven. Terwijl zijn soortgenoten worstelen met blinde angst of gevaarlijke naïviteit, kiest Bambi onder leiding van een mysterieuze, oude reebok een ander pad. Het is een weg van loutering, gevaar en het doorgronden van de harde waarheid over de mens en de natuur. Bambi is geen lieflijk sprookje, maar een rauwe, melancholische parabel over volwassenwording, verlies en eenzaamheid. Felix Saltens literaire meesterwerk schittert nu in een gelaagde, fonkelnieuwe vertaling van de hand van horrorauteur Mark van Dijk. Het is hoog tijd dat een nieuwe generatie volwassen lezers de kans grijpt om het originele verhaal van Bambi te herontdekken. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Christmas Carol NL]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390409/a-christmas-carol-nl--</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789493390409/a-christmas-carol-nl--"/>
-        <updated>2026-11-23T18:53:39.054Z</updated>
-        <summary type="html"><![CDATA[Een Kerstlied]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789493390409?aid=kb-online-bibliotheek&sid=24&dts=1795283950370&sig=c6ddef82fc4e8efbcfd105f6fabeff80a3e285df2bbe98fd59b4912cecaecbf7&width=320" alt="Omslag van 'A Christmas Carol NL'" title="Omslag van 'A Christmas Carol NL'">
-<p>A Christmas Carol is één van de meest geliefde Kerstverhalen van deze tijd. Voor het eerst gepubliceerd in 1843, weet het verhaal iedere Kerst weer zijn opwachting te maken, in welke vorm dan ook. Ebenezer Scrooge, een zeer onaangename vrek, wordt op Kerstavond bezocht door de geest van zijn overleden partner Jacob Marley. Marley deelt hem mee dat hij drie bezoekers kan verwachten: de geesten van Kerstmis in het Verleden, Heden en Toekomst. Zij laten Scrooge zijn leven overzien, waardoor hij niet langer zijn ogen kan sluiten voor de gevolgen van zijn kille en ongevoelige daden. Scrooge krijgt te zien hoe zijn geldzucht levens heeft verwoest en hoe zijn naam een vieze smaak achterlaat op ieders tong. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wulffers en de zaak van de zwijgende schilder]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789023964766/wulffers-en-de-zaak-van-de-zwijgende-schilder-dick-van-den-heuvel</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789023964766/wulffers-en-de-zaak-van-de-zwijgende-schilder-dick-van-den-heuvel"/>
-        <updated>2026-11-23T18:53:43.837Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789023964766?aid=kb-online-bibliotheek&sid=24&dts=1795427912576&sig=764720400635b766eb185b86a1f01ea1b034b8f1ddf35b1b9639e1d95662ea3c&width=320" alt="Omslag van 'Wulffers en de zaak van de zwijgende schilder'" title="Omslag van 'Wulffers en de zaak van de zwijgende schilder'">
-<p>'De zwijgende schilder' van Dick van den Heuvel is een sfeervolle detective waarin politiepastor Cas Wulffers op een mysterieus ongeval stuit. Voor de lezers van Baantjer. Wanneer een bejaarde vrouw van de trap valt en overlijdt, doet iedereen het af als een ongelukkig incident. Maar Cas Wulffers vermoedt dat er meer achter zit. Dat vermoeden wordt versterkt door een onverwachte informant: Fabricio, een zwervende kunstenaar die bekendstaat om zijn mysterieuze muurschilderingen. In zijn schilderingen blijken aanwijzingen verborgen te zitten. Terwijl Cas probeert te begrijpen wat Fabricio hem wil vertellen, komt hij steeds meer te weten over de mensen om hem heen en de geheimen die ze met zich meedragen. Met een flinke dosis geduld en mensenkennis legt Cas laag voor laag een mysterieus verleden bloot. Zo voert zijn zoektocht hem niet alleen naar de ware toedracht van de val, maar ook naar een moord van dertig jaar geleden. Maar niet iedereen is even blij met Cas' speurwerk… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Dick van den Heuvel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De plottwist]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789026180163/de-plottwist-victoria-walters</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789026180163/de-plottwist-victoria-walters"/>
-        <updated>2026-11-23T18:53:44.114Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789026180163?aid=kb-online-bibliotheek&sid=24&dts=1795421165081&sig=e34e3f51dc78ac8bc3c140623e3c6b3f9dd54fff5f73366cdb47d26253c3959e&width=320" alt="Omslag van 'De plottwist'" title="Omslag van 'De plottwist'">
-<p>Stevie Phillips begint vol enthousiasme aan haar droombaan bij een uitgeverij, maar haar eerste werkdag verloopt allesbehalve vlekkeloos. Het bedrijf blijkt overgenomen, het hele marketingteam is ontslagen én haar nieuwe baas is niemand minder dan haar ex Noah Anderson. Ze moeten samenwerken aan een boekcampagne die niemand anders op zich wil nemen. Stevie besluit het beste van de situatie te maken en zichzelf te bewijzen, ondanks het feit dat Noah ooit haar hart brak. Maar wanneer Noah erop hint dat hun breuk niet zo simpel was als Stevie dacht, begint ze te twijfelen. Teruggaan naar je ex is nooit een goed idee, zeker niet wanneer die ex ook je baas is… </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Victoria Walters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wicked-bundel]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789020563597/wicked-bundel-jennifer-l--armentrout</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789020563597/wicked-bundel-jennifer-l--armentrout"/>
-        <updated>2026-11-23T18:53:44.599Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789020563597?aid=kb-online-bibliotheek&sid=24&dts=1795460024246&sig=b6cb0c799a14f2aff5fa0351e19ce8404298f7b001e675230e6d9a12fb348b75&width=320" alt="Omslag van 'Wicked-bundel'" title="Omslag van 'Wicked-bundel'">
-<p>De Wicked-bundel van Jennifer L. Armentrout is een bundeling van de drie Wicked-romans en de drie Wicked-novelles. Voor alle fantasy- en Armentrout-fans! De tweeëntwintigjarige Ivy Morgan is geen normale tweeëntwintigjarige. Ze werkt voor de Orde, die jagen op de faes en als doel hebben om de mensheid te beschermen. Als Ivy wordt overgeplaatst naar New Orleans, ontmoet ze daar Ren. Hij behoort tot de Elite, een geheime groep binnen de Orde die op ancients jaagt, een nog iets machtiger soort fae. Ivy probeert Ren op afstand te houden, maar als de situatie steeds gevaarlijker wordt en ze ontdekken dat er een verrader is binnen de Orde, kunnen Ren en Ivy alleen nog elkaar vertrouwen. Deze bundel bevat de drie romans 'Wicked', 'Torn' en 'Brave', en de drie novelles 'The Prince', 'The King' en 'The Queen'. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Jennifer L. Armentrout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doodvonnis]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789083640280/doodvonnis-helen-h--durrant</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789083640280/doodvonnis-helen-h--durrant"/>
-        <updated>2026-11-23T18:53:44.850Z</updated>
-        <summary type="html"><![CDATA[Een ijzingwekkende serial killer thriller]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789083640280?aid=kb-online-bibliotheek&sid=24&dts=1795424852525&sig=708515114e16003c49fe7c03ff00368bef62b7cf4cf0597fbadb2a1b79fc4e46&width=320" alt="Omslag van 'Doodvonnis'" title="Omslag van 'Doodvonnis'">
-<p>Ontdek Helen H. Durrant, de Britse auteur met 3 miljoen gelezen thrillers:  Een dood meisje in een vuilnisbak, met een briefje: 'Doodvonnis' Ze hoorde bij een groepje pestkoppen op een plaatselijke school. Maar Tom Calladine herkent de werkwijze van een moordenaar die hij voor altijd had vastgezet. Dat dacht hij, maar Craig Donnelly is net vrijgelaten. Na zijn arrestatie blijkt Donelly een alibi te hebben en onder bescherming te staan van een plaatselijke geestelijke, die gelooft dat hij veranderd is.  Wanneer een vriendin van het eerste slachtoffer verdwijnt, moet Calladine elders op zoek naar de moordenaar en stuit hij op een sinistere figuur die online contact had met alle meiden in de groep.  Brigadier Ruth Bayliss is terug van zwangerschapsverlof, maar zelfs haar ervaring en gezond verstand kunnen de zaak niet oplossen. Ze moeten de moordenaar, die misschien zelfs dicht bij huis is, stoppen voordat hij doorgaat met zijn wrede spel.  Wie houdt van Angela Marsons, M.J. Arlidge, Robert Bryndza, Ian Rankin of Kerry Wilkinson, zal Helen H. Durrant geweldig vinden. DE RECHERCHEURS Inspecteur Tom Calladine is een bij vlagen briljante vijftiger die leeft voor zijn werk. Privé is hij nogal destructief, zowel met familie als relaties. De minder emotionele brigadier Ruth Bayliss houdt hem bij de les. Ze is midden dertig, recht voor zijn raap en loyaal. Ruth zou willen dat ze meer tijd had voor de sportschool en voor een privéleven. DE SETTING De serie speelt zich af in de fictionele plaats Leesdon, in de buurt van Manchester. Er is weinig werk en veel criminaliteit. De nagel aan Calladines doodskist is de Hobfield, een flatwijk die de voedingsbodem is van alles wat er mis is in de streek. LEZERS OVER DOODVONNIS: 'Wauw, wat meeslepend is dit... Ik heb het in twee keer uitgelezen, ik kon het gewoon niet wegleggen.' - P.A. Burton ⭐⭐⭐⭐⭐  'Lezers die van crimethrillers houden, zullen zeker genieten van de Calladine en Bayliss-serie... Welverdiende vijf sterren.' - Maggie L. ⭐⭐⭐⭐⭐  'Misdaadliteratuur op zijn best. Het zit vol plotwendingen en ik kon het niet weg leggen.' - Tracey ⭐⭐⭐⭐⭐  'Ik kan geen genoeg krijgen van deze boeken...' - Martin F. ⭐⭐⭐⭐⭐ </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Helen H. Durrant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De voorleesclub]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271125/de-voorleesclub-cynthia-zwagemaker</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271125/de-voorleesclub-cynthia-zwagemaker"/>
-        <updated>2026-11-23T18:53:45.606Z</updated>
-        <summary type="html"><![CDATA[Een hartverwarmende kerstfeelgood over boeken, liefde en verbinding]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789465271125?aid=kb-online-bibliotheek&sid=24&dts=1795460024958&sig=171056dd45121e0e59e2f324bf0b76d5636d201c1149116f55ad231e22fb9f68&width=320" alt="Omslag van 'De voorleesclub'" title="Omslag van 'De voorleesclub'">
-<p>Suus wil niets liever dan mensen samenbrengen in haar boekwinkel Liefde voor Lezen. Wanneer ze de eenzame Arnout ontmoet, een oudere man die door zijn slechte zicht niet meer kan lezen, besluit ze iets bijzonders te doen. In de drukste maand van het jaar richt ze een speciale voorleesclub op voor mensen met een visuele beperking. Een prachtig idee... al denkt niet iedereen daar zo over. Gelukkig krijgt Suus hulp van Oliver, Arnouts aantrekkelijke kleinzoon. Terwijl de kerstlichtjes branden en de decemberdrukte toeneemt, zetten ze alles op alles om van de voorleesclub een succes te maken. Maar is december wel het juiste moment voor zo'n ambitieus plan? Of blijkt juist de kerstperiode dé tijd om mensen dichter bij elkaar te brengen? </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Cynthia Zwagemaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Het kerstverlof van Elvis T.]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271323/het-kerstverlof-van-elvis-t--martine-kamphuis</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789465271323/het-kerstverlof-van-elvis-t--martine-kamphuis"/>
-        <updated>2026-11-23T18:53:46.187Z</updated>
-        <summary type="html"><![CDATA[Oude liefde, familiegedoe en een onverwachte tweede kans]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789465271323?aid=kb-online-bibliotheek&sid=24&dts=1795296326185&sig=f4669a593ab0e2a8285bd9bcf5a6075d970d42112ac858bcd09bff694f7e6e8d&width=320" alt="Omslag van 'Het kerstverlof van Elvis T.'" title="Omslag van 'Het kerstverlof van Elvis T.'">
-<p>Elvis zit zijn tijd uit in de gevangenis en vindt dat eigenlijk best overzichtelijk. Zeker vergeleken met thuis, waar zijn bazige moeder en zijn zus Priscilla hem voortdurend commanderen. Maar vlak voor kerst krijgt hij onverwacht de kans op verlof. Zijn moeder gaat hard achteruit en Priscilla wil dat Elvis komt helpen met de verzorging. Elvis staat niet bepaald te springen - totdat hij hoort dat Monique, het buurmeisje op wie hij vroeger hopeloos verliefd was, weer terug is op Rotterdam-Zuid. En naar hem heeft gevraagd. Met hulp van reclasseringsstagiaire Rebecca weet Elvis zijn kerstverlof te regelen, zij zal hem als hij thuis is zo professioneel mogelijk begeleiden. Althans, dat is de bedoeling. Vlak voor kerst keert Elvis terug naar zijn oude buurt. Naar zijn familie, zijn eerste liefde en een huis vol herinneringen aan The King. Maar achter de kerstlichtjes blijkt lang niet alles zo gezellig als het lijkt. En voor Elvis het weet, staat er veel meer op het spel dan zijn vrijheid...  Een hartverwarmend kerstverhaal vol romantiek, familiegeheimen en een vleugje misdaad. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Martine Kamphuis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doodstil]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789083777337/doodstil-lydia-albadoro</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789083777337/doodstil-lydia-albadoro"/>
-        <updated>2026-11-23T18:53:46.771Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789083777337?aid=kb-online-bibliotheek&sid=24&dts=1795437690645&sig=096b026996dd5b190f176f4945e45de6911fe5cad439016f22846205ace33bd9&width=320" alt="Omslag van 'Doodstil'" title="Omslag van 'Doodstil'">
-<p>Wanneer lerares Maddy Bleyland na haar arrestatie zedenrechercheur Nick Simons ontmoet, lijkt hij precies de man die ze nodig heeft: charmant en beschermend. Dan ontvangt Maddy de eerste brief. De afzender noemt haar zijn duifje. Hij weet waar ze woont, waar ze bang voor is en beschrijft tot in detail wat haar te wachten staat. Maddy is niet de enige die wordt bekeken. Vier vrouwen met totaal verschillende levens hebben ieder een plaats gekregen in zijn plan. Wanneer een van hen het patroon ontdekt, weet ze niet langer wie ze kan vertrouwen. </p><p><small>Bron: Flaptekst, uitgeversinformatie</small></p>]]></content>
-        <author>
-            <name>Lydia Albadoro</name>
         </author>
     </entry>
 </feed>
