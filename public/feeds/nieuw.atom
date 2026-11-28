@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html</id>
     <title>Alle nieuwe e-books</title>
-    <updated>2026-11-27T17:06:24.328Z</updated>
+    <updated>2026-11-28T15:54:27.738Z</updated>
     <generator>https://github.com/icod/bieb-feeds</generator>
     <link rel="alternate" href="https://www.onlinebibliotheek.nl/e-books/nieuw-in-de-collectie.html"/>
     <link rel="self" href="https://bieb-feeds.statichost.eu/feeds/nieuw.atom"/>
@@ -42,18 +42,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sint zit vast]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789000375141/sint-zit-vast-janneke-schotveld</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789000375141/sint-zit-vast-janneke-schotveld"/>
-        <updated>2026-11-26T17:27:46.952Z</updated>
-        <summary type="html"><![CDATA[Een avontuur van de dappere ridster]]></summary>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789000375141?aid=kb-online-bibliotheek&sid=24&dts=1795714066655&sig=f20676943eb5de27dbac103d5f5d892de6ace8e4ff652569452e9d4701e88931&width=320" alt="Omslag van 'Sint zit vast'" title="Omslag van 'Sint zit vast'">
-<p>De dappere ridster heeft haar schoen gezet en kan niet slapen. Ze rijdt op haar fiets door de stad en hoort iemand om hulp roepen. Sinterklaas zit vast in de schoorsteen! Voorlezen vanaf ca. 6 jaar, zelf lezen vanaf ca. 8 jaar.</p>]]></content>
-        <author>
-            <name>Janneke Schotveld</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[De eekhoorn legt een ei]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789000376353/de-eekhoorn-legt-een-ei-janneke-schotveld</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789000376353/de-eekhoorn-legt-een-ei-janneke-schotveld"/>
@@ -61,6 +49,18 @@
         <summary type="html"><![CDATA[en andere fabels]]></summary>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789000376353?aid=kb-online-bibliotheek&sid=24&dts=1795714067116&sig=05e247e6c9813758f72f2e1f0a0cd90156520cba0deefb2d6ea0f7bf804f9839&width=320" alt="Omslag van 'De eekhoorn legt een ei'" title="Omslag van 'De eekhoorn legt een ei'">
 <p>Kunnen kraaien zingen? Mag je liegen om je liefje voor je te winnen? Vijftien dierenverhalen, deels gebaseerd op bekende fabels, worden op eigentijdse wijze en met veel grapjes verteld. Ze gaan over o.a. echte vrienden, anders zijn, vrijheid en roddels. Met kleurrijke illustraties. Voorlezen vanaf ca. 6 jaar.</p>]]></content>
+        <author>
+            <name>Janneke Schotveld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sint zit vast]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789000375141/sint-zit-vast-janneke-schotveld</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789000375141/sint-zit-vast-janneke-schotveld"/>
+        <updated>2026-11-26T17:27:46.952Z</updated>
+        <summary type="html"><![CDATA[Een avontuur van de dappere ridster]]></summary>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789000375141?aid=kb-online-bibliotheek&sid=24&dts=1795714066655&sig=f20676943eb5de27dbac103d5f5d892de6ace8e4ff652569452e9d4701e88931&width=320" alt="Omslag van 'Sint zit vast'" title="Omslag van 'Sint zit vast'">
+<p>De dappere ridster heeft haar schoen gezet en kan niet slapen. Ze rijdt op haar fiets door de stad en hoort iemand om hulp roepen. Sinterklaas zit vast in de schoorsteen! Voorlezen vanaf ca. 6 jaar, zelf lezen vanaf ca. 8 jaar.</p>]]></content>
         <author>
             <name>Janneke Schotveld</name>
         </author>
@@ -168,6 +168,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De machineplaag]]></title>
+        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789083167671/de-machineplaag-frank-van-dongen</id>
+        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789083167671/de-machineplaag-frank-van-dongen"/>
+        <updated>2026-11-20T15:51:27.777Z</updated>
+        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789083167671?aid=kb-online-bibliotheek&sid=24&dts=1795189887240&sig=b66d531719959354136b236e404dbf4d3e2b1cbc0c3fba220a584113b7c4d3d8&width=320" alt="Omslag van 'De machineplaag'" title="Omslag van 'De machineplaag'">
+<p>Een genetisch gemanipuleerde man probeert met hulp van zijn broer en AI de mensheid van de ondergang te redden.</p>]]></content>
+        <author>
+            <name>Frank van Dongen</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Het duizend eilanden experiment]]></title>
         <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789083167664/het-duizend-eilanden-experiment-frank-van-dongen</id>
         <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789083167664/het-duizend-eilanden-experiment-frank-van-dongen"/>
@@ -185,17 +196,6 @@
         <updated>2026-11-20T15:51:27.166Z</updated>
         <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789083167688?aid=kb-online-bibliotheek&sid=24&dts=1795189886228&sig=05d05b2db235b54e43660af9f6a4a97e1fa7f7fb34485c6e39337bd37fda6010&width=320" alt="Omslag van 'De Feind invasie'" title="Omslag van 'De Feind invasie'">
 <p>In de chaos van revoluties en burgeroorlogen, veroorzaakt door een onsterfelijkheidsprogramma, probeert een man zijn broer terug te vinden.</p>]]></content>
-        <author>
-            <name>Frank van Dongen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De machineplaag]]></title>
-        <id>https://www.onlinebibliotheek.nl/catalogus/isbn/9789083167671/de-machineplaag-frank-van-dongen</id>
-        <link href="https://www.onlinebibliotheek.nl/catalogus/isbn/9789083167671/de-machineplaag-frank-van-dongen"/>
-        <updated>2026-11-20T15:51:27.777Z</updated>
-        <content type="html"><![CDATA[<img src="https://leibniz.zbkb.nl/assets/id/ISBN%3A9789083167671?aid=kb-online-bibliotheek&sid=24&dts=1795189887240&sig=b66d531719959354136b236e404dbf4d3e2b1cbc0c3fba220a584113b7c4d3d8&width=320" alt="Omslag van 'De machineplaag'" title="Omslag van 'De machineplaag'">
-<p>Een genetisch gemanipuleerde man probeert met hulp van zijn broer en AI de mensheid van de ondergang te redden.</p>]]></content>
         <author>
             <name>Frank van Dongen</name>
         </author>
